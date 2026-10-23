@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T10:20:18+00:00",
+  "generated_at": "2026-10-23T10:34:28+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
-        17.3,
         14.3,
         14.3,
         14.3,
@@ -130,12 +129,13 @@
         24.1,
         24.1,
         24.1,
+        24.1,
         24.1
       ],
-      "rolling_average": 18.09,
+      "rolling_average": 18.32,
       "rolling_peak": 27.1,
       "last_score": 24.1,
-      "z_hint": 6.01
+      "z_hint": 5.78
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -990,9 +990,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "ECB Consumer Expectations Survey results – September 2026",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
-        24.3,
         24.3,
         24.3,
         24.3,
@@ -1021,12 +1020,13 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 21.76,
+      "rolling_average": 21.32,
       "rolling_peak": 24.3,
       "last_score": 11.1,
-      "z_hint": -10.66
+      "z_hint": -10.22
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -2868,7 +2868,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2876,8 +2876,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -3944,9 +3944,8 @@
     },
     "domain:www.nikkei.com": {
       "title": "タイムズカー免許証画像流出、「お見舞い」1人3000円 146万人が対象 - 日本経済新聞",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
-        13.1,
         13.1,
         13.1,
         13.1,
@@ -3975,12 +3974,13 @@
         11.2,
         11.2,
         11.2,
+        11.2,
         11.2
       ],
-      "rolling_average": 10.58,
+      "rolling_average": 10.52,
       "rolling_peak": 14.2,
       "last_score": 11.2,
-      "z_hint": 0.62
+      "z_hint": 0.68
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -4321,9 +4321,8 @@
     },
     "domain:www.heise.de": {
       "title": "Cisco stopft diverse, teils kritische Sicherheitslücken",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
-        16.3,
         16.3,
         16.3,
         16.3,
@@ -4352,12 +4351,13 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 14.96,
+      "rolling_average": 14.72,
       "rolling_peak": 16.3,
       "last_score": 9.1,
-      "z_hint": -5.86
+      "z_hint": -5.62
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -5839,9 +5839,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
-        28.7,
         28.7,
         28.7,
         28.7,
@@ -5870,12 +5869,13 @@
         25.3,
         22.3,
         22.3,
-        22.3
+        22.3,
+        37.6
       ],
-      "rolling_average": 27.86,
-      "rolling_peak": 28.7,
-      "last_score": 22.3,
-      "z_hint": -5.56
+      "rolling_average": 28.16,
+      "rolling_peak": 37.6,
+      "last_score": 37.6,
+      "z_hint": 9.44
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -54386,7 +54386,7 @@
     },
     "earthquake:philippines:4.5": {
       "title": "M 4.5 - 18 km WNW of Bantogon, Philippines",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -54413,8 +54413,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7
@@ -85891,13 +85891,13 @@
     },
     "title:studio": {
       "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         8.1,
         8.1,
         8.1,
         8.1,
-        8.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -85924,10 +85924,10 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.27,
+      "rolling_average": 7.23,
       "rolling_peak": 8.1,
       "last_score": 7.1,
-      "z_hint": -0.17
+      "z_hint": -0.13
     },
     "title:multiples-vuln-rabilit-dans-les-produits-mattermost-octobre": {
       "title": "Multiples vulnérabilités dans les produits Mattermost (16 octobre 2026)",
@@ -86665,9 +86665,10 @@
     },
     "title:github-copilot-visual-studio-september-update": {
       "title": "GitHub Copilot in Visual Studio — September update",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         14.1,
+        11.1,
         11.1,
         11.1,
         11.1,
@@ -86699,9 +86700,10 @@
     },
     "title:emudhra-piyolog": {
       "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -86733,9 +86735,10 @@
     },
     "title:male-founders-are-losing-confidence-women-are-doubling": {
       "title": "Male founders are losing confidence. Women are doubling down on AI",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         20.1,
+        17.1,
         17.1,
         17.1,
         17.1,
@@ -86766,9 +86769,10 @@
     },
     "title:2026-006": {
       "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -86799,9 +86803,10 @@
     },
     "title:became-sparring-partner": {
       "title": "How AI became my sparring partner",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -86832,7 +86837,7 @@
     },
     "earthquake:m 4.5 - 18 km nnw of yongning, china:4.5": {
       "title": "M 4.5 - 18 km NNW of Yongning, China",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -86856,16 +86861,17 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.83,
+      "rolling_average": 13.82,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:working-capital-trap-lessons-indonesia-first-d2c-generation": {
       "title": "The working capital trap: Lessons from Indonesia’s first D2C generation",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -86889,16 +86895,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.23,
+      "rolling_average": 12.22,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "earthquake:m 4.5 - 58 km sw of atocha, bolivia:4.5": {
       "title": "M 4.5 - 58 km SW of Atocha, Bolivia",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -86922,16 +86929,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.83,
+      "rolling_average": 11.82,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:carro-turns-singapore-car-loans-350m-funding-pipeline": {
       "title": "Carro turns Singapore car loans into a US$350M funding pipeline in a regional first",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -86955,16 +86963,17 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.23,
+      "rolling_average": 11.22,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "url:https://www.digital.go.jp/speech/minister-261023-01": {
       "title": "古川大臣記者会見（令和8年10月23日）動画を掲載しました",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -86988,16 +86997,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.23,
+      "rolling_average": 8.22,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:what-changed-when-stopped-sending-newsletters-manually": {
       "title": "What changed when I stopped sending newsletters manually",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -87021,18 +87031,20 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.23,
+      "rolling_average": 6.22,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:google-ceo": {
       "title": "トランプ大統領、Googleに「大西洋」の改名を打診 ピチャイCEOが「大洋は勘弁を」と難色",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -87061,7 +87073,7 @@
     },
     "title:used-rebuild-websites-without-knowing-code": {
       "title": "I used AI to rebuild my websites without knowing how to code",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         25.1,
         22.1,
@@ -87081,16 +87093,17 @@
         22.1,
         22.1,
         22.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 22.26,
+      "rolling_average": 22.25,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:bitcoin-rejected-000-forced-060-000-long-positions": {
       "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -87109,16 +87122,17 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.27,
+      "rolling_average": 9.26,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:com-vps-600": {
       "title": "「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か 「600万円の損失」「55万円なくなった」……報告相次ぐ",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -87136,16 +87150,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.28,
+      "rolling_average": 7.27,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "title:red-hat-opens-singapore-centre-pull-enterprises-out": {
       "title": "Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -87160,16 +87175,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.31,
+      "rolling_average": 14.3,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "github_repo:graphify-labs/graphify": {
       "title": "Graphify-Labs/graphify",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         24.1,
         21.1,
@@ -87181,16 +87197,17 @@
         21.1,
         21.1,
         21.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 21.37,
+      "rolling_average": 21.35,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:ldap": {
       "title": "プリザンターのLDAP認証における認証不備の脆弱性",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -87202,16 +87219,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.37,
+      "rolling_average": 16.35,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "github_repo:supabase/supabase": {
       "title": "supabase/supabase",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -87223,16 +87241,17 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.37,
+      "rolling_average": 13.35,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "github_repo:php/php-src": {
       "title": "php/php-src",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -87244,16 +87263,17 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.37,
+      "rolling_average": 13.35,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "url:https://www.digital.go.jp/recruitment/career": {
       "title": "中途採用（専門人材）の採用イベント情報を掲載しました",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -87265,16 +87285,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.37,
+      "rolling_average": 8.35,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:ecosystem-roundup-taiwan-blocks-grab-600m-foodpanda-deal": {
       "title": "Ecosystem Roundup: Taiwan blocks Grab’s US$600M foodpanda deal over Uber’s stake",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -87286,16 +87307,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.37,
+      "rolling_average": 7.35,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:5300-nhk": {
       "title": "佐川急便 流出した個人情報は最大5300万件超の可能性 | NHKニュース",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -87303,34 +87325,48 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.53,
+      "rolling_average": 7.48,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "title:japan-privacy-law-isn-gdpr-that-where-foreign": {
       "title": "Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
         28.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 26.6,
+      "rolling_average": 26.1,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "earthquake:m 4.9 - 53 km wnw of leni, italy:4.9": {
       "title": "M 4.9 - 53 km WNW of Leni, Italy",
-      "updated_at": "2026-10-23T10:20:18+00:00",
+      "updated_at": "2026-10-23T10:34:28+00:00",
       "network_scores": [
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 13.2,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
+      "last_score": 11.7,
+      "z_hint": -1.5
+    },
+    "domain:tech.codmon.com": {
+      "title": "PHP2Shellへの対応を振り返って - コドモン Product Team Blog",
+      "updated_at": "2026-10-23T10:34:28+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
       "z_hint": 0.0
     }
   }

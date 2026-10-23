@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-23T10:20:18+00:00_
+_Generiert: 2026-10-23T10:34:28+00:00_
 
 ## Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping
 
