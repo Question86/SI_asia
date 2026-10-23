@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-23T03:55:29+00:00",
+  "generated_at": "2026-10-23T04:03:18+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "I used AI to rebuild my websites without knowing how to code",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-23T04:00:34+00:00",
+      "relevance_score": 20,
+      "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
+      "summary": "I’ve been running The Wellness Insider since 2016, and over the years, there have been countless occasions when I’ve looked at my website and thought, “I wish I could change that easily.” Sometimes, it was something relatively minor, such as the spacing betwe…",
+      "section": "medium"
+    },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
       "source": "JVN Japan Vulnerability Notes",
@@ -42,16 +52,6 @@
       "relevance_score": 14,
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "summary": "三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。",
-      "section": "medium"
-    },
-    {
-      "title": "How AI became my sparring partner",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-23T03:00:15+00:00",
-      "relevance_score": 14,
-      "url": "https://e27.co/how-ai-became-my-sparring-partner-20261018/",
-      "summary": "A few months ago, I was trying to understand why one high-protein formulation puffed well during low-moisture extrusion while another did not. I gave ChatGPT the formulation details, expansion results, rheological measurements and observations from the extrus…",
       "section": "medium"
     },
     {

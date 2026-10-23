@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-23T03:55:29+00:00_
+_Generated: 2026-10-23T04:03:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
-### 1. CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）
+### 1. I used AI to rebuild my websites without knowing how to code
+- source: e27 Asia Startup and Tech Feed
+- score: `20`
+- published: `2026-10-23T04:00:34+00:00`
+- url: https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/
+- summary: I’ve been running The Wellness Insider since 2016, and over the years, there have been countless occasions when I’ve looked at my website and thought, “I wish I could change that easily.” Sometimes, it was something relatively minor, such as the spacing betwe…
+
+### 2. CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-23T11:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU98747108/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. Male founders are losing confidence. Women are doubling down on AI
+### 3. Male founders are losing confidence. Women are doubling down on AI
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-10-23T01:30:20+00:00`
 - url: https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/
 - summary: HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report…
 
-### 3. 三菱電機製の複数製品における複数の脆弱性（2026-006）
+### 4. 三菱電機製の複数製品における複数の脆弱性（2026-006）
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-23T11:00:15+09:00`
 - url: https://jvn.jp/vu/JVNVU93251594/
 - summary: 三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。
-
-### 4. How AI became my sparring partner
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-10-23T03:00:15+00:00`
-- url: https://e27.co/how-ai-became-my-sparring-partner-20261018/
-- summary: A few months ago, I was trying to understand why one high-protein formulation puffed well during low-moisture extrusion while another did not. I gave ChatGPT the formulation details, expansion results, rheological measurements and observations from the extrus…
 
 ### 5. M 4.5 - 18 km NNW of Yongning, China
 - source: USGS M4.5+ Earthquakes Past Hour
