@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-23T09:23:44Z",
+  "generated_at": "2026-10-23T09:43:17Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T08:30:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/jp/JVN82312317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T15:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:15+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -88,7 +88,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -116,7 +116,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -145,7 +145,7 @@
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:27:02+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -172,7 +172,7 @@
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -194,11 +194,38 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4043",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-23T09:31:48+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Roundcube Webmail ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Auswirkungen zu…"
+    },
+    {
       "title": "[UPDATE] [mittel] Node.js: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4117",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T09:00:51+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -224,7 +251,7 @@
       "url": "https://github.com/php/php-src",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -250,7 +277,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -275,7 +302,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 127.53,
+      "age_days": 127.54,
       "topics": [
         "ai",
         "security"
@@ -287,43 +314,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.59,
+      "baseline_z_hint": 7.2,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.59",
+        "baseline z_hint 7.20",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 127.5d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 55.8,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 55.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
