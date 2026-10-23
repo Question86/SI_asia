@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T11:02:35+00:00_
+_Generiert: 2026-10-23T11:22:19+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,6 @@ _Generiert: 2026-10-23T11:02:35+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.7 - 61 km WNW of Leni, Italy** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk)
-  - Quelle: USGS
-  - Zeit: `2026-10-23T10:19:16+00:00`
-  - Kurz: M5.7 - 61 km WNW of Leni, Italy. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
