@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-23T17:19:21+00:00",
+  "generated_at": "2026-10-23T17:32:56+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-114625 Arista VeloCloud Orchestrator",
+        "summary": "Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Arista VeloCloud Orchestrator SQL Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-23",
+        "metrics": {
+          "cve": "CVE-2026-114625"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-10-20",
         "metrics": {
           "cve": "CVE-2026-96654"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-96652 Plex Media Server",
-        "summary": "Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-20",
-        "metrics": {
-          "cve": "CVE-2026-96652"
         }
       },
       {

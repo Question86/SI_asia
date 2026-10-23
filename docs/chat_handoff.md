@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-23T17:19:18+00:00_
+_Generated: 2026-10-23T17:32:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `64`
+- findings: `65`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-23T17:19:18+00:00_
 - url: https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/
 - summary: Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon a…
 
-### 8. M 4.5 - 18 km NNW of Yongning, China
+### 8. M 4.6 - 91 km ESE of Tuensang, India
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-10-23T02:57:13.876+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a
-- summary: DYFI? - II Time 2026-10-23 02:17:01 UTC 2026-10-23 02:17:01 UTC at epicenter Location 27.999°N 100.619°E Depth 10.00 km (6.21 mi)
+- published: `2026-10-23T17:30:26.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4f5
+- summary: Time 2026-10-23 17:06:25 UTC 2026-10-23 17:06:25 UTC at epicenter Location 25.930°N 95.655°E Depth 116.70 km (72.52 mi)
 
 END OF DOCUMENT
