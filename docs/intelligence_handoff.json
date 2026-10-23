@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-23T02:51:36Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GitHub Copilot in Visual Studio — September update” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=15.5.",
+  "generated_at": "2026-10-23T03:16:42Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “三菱電機製の複数製品における複数の脆弱性（2026-006）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,18 +11,42 @@
   ],
   "top_dynamics": [
     {
-      "title": "GitHub Copilot in Visual Studio — September update",
-      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-23T00:53:46+00:00",
-      "age_days": 0.08,
+      "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
+      "url": "https://jvn.jp/vu/JVNVU93251594/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-23T11:00:15+09:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。"
+    },
+    {
+      "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
+      "url": "https://jvn.jp/vu/JVNVU93251594/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 1,
@@ -35,42 +59,251 @@
       "summary": ""
     },
     {
-      "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
-      "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-22T12:55:41+00:00",
-      "age_days": 0.58,
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
+      "url": "https://jvn.jp/vu/JVNVU98747108/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-23T11:00:00+09:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+    },
+    {
+      "title": "Carro turns Singapore car loans into a US$350M funding pipeline in a regional first",
+      "url": "https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "infra"
+      ],
+      "dynamics_score": 24.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "early terms: regional, pipeline"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
+      "url": "https://jvn.jp/vu/JVNVU98747108/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 126.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
+      "baseline_z_hint": 2.9,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3"
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "high terms: 10",
+        "aging penalty -8.0 for 126.1d old signal",
+        "krass gate: single-source non-official/non-identity signal capped",
+        "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
     },
     {
-      "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-23T00:53:46+00:00",
-      "age_days": 0.08,
+      "title": "Male founders are losing confidence. Women are doubling down on AI",
+      "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.5 - 18 km NNW of Yongning, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-23T02:57:13.876+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - II Time 2026-10-23 02:17:01 UTC 2026-10-23 02:17:01 UTC at epicenter Location 27.999°N 100.619°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "How AI became my sparring partner",
+      "url": "https://e27.co/how-ai-became-my-sparring-partner-20261018/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "古川大臣記者会見（令和8年10月23日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261023-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 17.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.5 - 58 km SW of Atocha, Bolivia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-23T02:59:08.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-23 02:45:41 UTC 2026-10-23 02:45:41 UTC at epicenter Location 21.347°S 66.580°W Depth 235.83 km (146.54 mi)"
+    },
+    {
+      "title": "Carro turns Singapore car loans into a US$350M funding pipeline in a regional first",
+      "url": "https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T02:00:11+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: regional, pipeline",
+        "high terms: 10"
+      ],
+      "summary": "In Singapore, a car is less a vehicle than a ten-year licence wrapped in steel. Carro now wants institutional money to treat that licence as collateral. The Singapore-headquartered automotive marketplace has set up a S$450 million (about US$350 million) asset-backed securitisation facility backed by Singapore car loan…"
+    },
+    {
+      "title": "M 4.5 - 18 km NNW of Yongning, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-23T03:01:16+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 1,
@@ -81,80 +314,6 @@
         "momentum delta +1"
       ],
       "summary": ""
-    },
-    {
-      "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-22T20:51:20+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "2026年10月18日、Mozillaは、認証局eMudhraの中間CA証明書の秘密鍵が危殆化したインシデントをBugzillaに起票し、10月20日に公開しました。ここでは関連する情報をまとめます。 危殆化したのは中間CA8件 eMudhra(emSignブランドの認証局)の中間CA証明書のうち、TLS用6件とコード署名用2件の秘密鍵が、公開鍵から誰でも求..."
-    },
-    {
-      "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
-      "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-22T14:21:11+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "ホームプレスルームStudio 株式会社における不正アクセスによる個人情報の漏えいの可能性について Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について 公開日：2026年10月22日 今般、デジタル庁（デジタル改革関連法案準備室を含む。）がホームページ運営の一部にそのサービスを利用していたSt..."
-    },
-    {
-      "title": "GitHub Copilot in Visual Studio — September update",
-      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-23T00:17:51+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags… The post GitHub Copilot in Visual Studio — September update appeared first on The GitHub Blog ."
     }
   ],
   "read_order": [
@@ -166,8 +325,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "watch": 2,
-      "quiet": 4
+      "strong": 4,
+      "watch": 8
     }
   }
 }
