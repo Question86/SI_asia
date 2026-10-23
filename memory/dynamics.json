@@ -1,19 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-23T22:13:50Z",
+  "generated_at": "2026-10-23T22:28:37Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
-      "krass": 14,
-      "strong": 23
+      "krass": 13,
+      "strong": 24
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 38,
-      "watch": 1
+      "strong": 39
     }
   },
   "top_dynamics": [
@@ -22,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T08:30:51+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "security"
       ],
@@ -47,7 +46,7 @@
       "url": "https://jvn.jp/jp/JVN82312317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T15:00:00+09:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "security"
       ],
@@ -71,7 +70,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:15+09:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "security"
       ],
@@ -95,7 +94,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4139",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -119,7 +118,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4137",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:51+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -143,7 +142,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4122",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:25:53+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -167,7 +166,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2708",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:25:52+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -191,7 +190,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "ai",
         "security"
@@ -219,7 +218,7 @@
       "url": "https://japan.zdnet.com/article/35253683/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T10:30:55+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -245,7 +244,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai",
         "macro"
@@ -274,7 +273,7 @@
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:27:02+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -301,7 +300,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4118",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T11:25:52+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -327,7 +326,7 @@
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "security"
       ],
@@ -353,7 +352,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4140",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -379,7 +378,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4138",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "security"
@@ -406,7 +405,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4136",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:45:54+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -432,7 +431,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4112",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:25:53+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -458,7 +457,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4043",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T09:31:48+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "security"
@@ -485,7 +484,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4117",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T09:00:51+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
@@ -511,7 +510,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4141",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -536,7 +535,7 @@
       "url": "https://github.com/php/php-src",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -562,7 +561,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -587,7 +586,7 @@
       "url": "https://e27.co/japans-privacy-law-isnt-gdpr-and-thats-where-foreign-saas-founders-keep-tripping-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T09:59:55+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -614,7 +613,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 128.06,
+      "age_days": 128.07,
       "topics": [
         "ai",
         "security"
@@ -626,12 +625,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.69,
+      "baseline_z_hint": 1.55,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.69",
+        "baseline z_hint 1.55",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 128.1d old signal",
@@ -644,7 +643,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T14:40:02+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security",
         "disaster"
@@ -672,7 +671,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4141",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 56.34,
+      "age_days": 56.35,
       "topics": [
         "security"
       ],
@@ -700,7 +699,7 @@
       "url": "https://e27.co/japans-privacy-law-isnt-gdpr-and-thats-where-foreign-saas-founders-keep-tripping-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T09:54:10+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "macro"
       ],
@@ -726,7 +725,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 4.93,
+      "age_days": 4.94,
       "topics": [
         "ai",
         "security",
@@ -754,7 +753,7 @@
       "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:03:21+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -781,7 +780,7 @@
       "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-23T16:40:25+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -808,7 +807,7 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -829,11 +828,37 @@
       "summary": ""
     },
     {
+      "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
+      "url": "https://japan.zdnet.com/article/35253683/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T03:57:18+00:00",
+      "age_days": 126.77,
+      "topics": [],
+      "dynamics_score": 24.86,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.6,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.60",
+        "AXI0M/User-Yps identity hit",
+        "aging penalty -8.0 for 126.8d old signal",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Cisco stopft diverse, teils kritische Sicherheitslücken",
       "url": "https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-23T08:10:00.000+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -858,7 +883,7 @@
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:06:10+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -883,7 +908,7 @@
       "url": "https://jvn.jp/jp/JVN82312317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T06:53:07+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -907,7 +932,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T03:01:16+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "general"
       ],
@@ -931,7 +956,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4e2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T16:35:09.026+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -956,7 +981,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T09:28:24.040+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -981,7 +1006,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T14:40:02+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -1005,7 +1030,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T12:52:34+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -1022,33 +1047,6 @@
       "why": [
         "momentum delta +3",
         "high terms: palo"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
-      "url": "https://japan.zdnet.com/article/35253683/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T03:57:18+00:00",
-      "age_days": 126.76,
-      "topics": [],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 5.7,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 5.70",
-        "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 126.8d old signal",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": ""
     }
