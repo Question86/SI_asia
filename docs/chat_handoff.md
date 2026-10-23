@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-23T21:42:50+00:00_
+_Generated: 2026-10-23T21:59:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `68`
+- findings: `70`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-23T21:42:50+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-10-23 10:19:16 UTC 2026-10-23 10:19:16 UTC at epicenter Location 38.720°N 14.152°E Depth 10.00 km (6.21 mi)
 
-### 7. Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)
+### 7. ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-10-23T10:30:55+00:00`
+- url: https://japan.zdnet.com/article/35253683/
+- summary: チェコのプラハで開催された「Open Source Summit Europe」の基調講演において、ドイツのミュンヘン市の最高デジタル責任者を務めるLaura Dornheim博士は、同市が10年以上前に政治的な理由から「LiMux」と呼ばれる「Linux」デスクトップの導入を放棄して「Windows」に移行したものの、現在は再びオープンソースソフトウ...
+
+### 8. Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)
 - source: CERT-FR Avis de sécurité
 - score: `13`
 - published: `2026-10-19T00:00:00+00:00`
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/
 - summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.
-
-### 8. Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-23T05:19:38+00:00`
-- url: https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/
-- summary: Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon a…
 
 END OF DOCUMENT

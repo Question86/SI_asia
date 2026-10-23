@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T21:42:50+00:00",
-  "run_id": "2026-10-23T21:42:50+00:00",
+  "generated_at": "2026-10-23T21:59:43+00:00",
+  "run_id": "2026-10-23T21:59:43+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 70
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 2,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
     "medium": 25,
-    "observe": 43,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -734,6 +734,29 @@
           "LOW"
         ],
         "id": "c5c4d1e0211f9b56c0eb"
+      },
+      {
+        "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
+        "url": "https://japan.zdnet.com/article/35253683/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-23T10:30:55+00:00",
+        "fetched_at": "2026-10-23T21:59:13+00:00",
+        "summary": "チェコのプラハで開催された「Open Source Summit Europe」の基調講演において、ドイツのミュンヘン市の最高デジタル責任者を務めるLaura Dornheim博士は、同市が10年以上前に政治的な理由から「LiMux」と呼ばれる「Linux」デスクトップの導入を放棄して「Windows」に移行したものの、現在は再びオープンソースソフトウ...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry",
+          "Open Source"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fd030f730483410fda12"
       },
       {
         "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
@@ -1768,6 +1791,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d6a9a047d7b4b7c8d873"
+      },
+      {
+        "title": "EMU deletions fix",
+        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-23T18:56:18+00:00",
+        "fetched_at": "2026-10-23T21:59:13+00:00",
+        "summary": "Between June 1 and June 13, 2026, some Enterprise Managed User accounts that were deprovisioned through SCIM were incorrectly deleted instead of being suspended and obfuscated as expected. As a… The post EMU deletions fix appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bd33cfcc60a76fe0bdbd"
       }
     ]
   },
@@ -2475,6 +2518,29 @@
         "LOW"
       ],
       "id": "c5c4d1e0211f9b56c0eb"
+    },
+    {
+      "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
+      "url": "https://japan.zdnet.com/article/35253683/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-23T10:30:55+00:00",
+      "fetched_at": "2026-10-23T21:59:13+00:00",
+      "summary": "チェコのプラハで開催された「Open Source Summit Europe」の基調講演において、ドイツのミュンヘン市の最高デジタル責任者を務めるLaura Dornheim博士は、同市が10年以上前に政治的な理由から「LiMux」と呼ばれる「Linux」デスクトップの導入を放棄して「Windows」に移行したものの、現在は再びオープンソースソフトウ...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry",
+        "Open Source"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd030f730483410fda12"
     },
     {
       "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
@@ -3509,9 +3575,73 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d6a9a047d7b4b7c8d873"
+    },
+    {
+      "title": "EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-23T18:56:18+00:00",
+      "fetched_at": "2026-10-23T21:59:13+00:00",
+      "summary": "Between June 1 and June 13, 2026, some Enterprise Managed User accounts that were deprovisioned through SCIM were incorrectly deleted instead of being suspended and obfuscated as expected. As a… The post EMU deletions fix appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd33cfcc60a76fe0bdbd"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
+      "url": "https://japan.zdnet.com/article/35253683/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-23T10:30:55+00:00",
+      "fetched_at": "2026-10-23T21:59:13+00:00",
+      "summary": "チェコのプラハで開催された「Open Source Summit Europe」の基調講演において、ドイツのミュンヘン市の最高デジタル責任者を務めるLaura Dornheim博士は、同市が10年以上前に政治的な理由から「LiMux」と呼ばれる「Linux」デスクトップの導入を放棄して「Windows」に移行したものの、現在は再びオープンソースソフトウ...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry",
+        "Open Source"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd030f730483410fda12"
+    },
+    {
+      "title": "EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-23T18:56:18+00:00",
+      "fetched_at": "2026-10-23T21:59:13+00:00",
+      "summary": "Between June 1 and June 13, 2026, some Enterprise Managed User accounts that were deprovisioned through SCIM were incorrectly deleted instead of being suspended and obfuscated as expected. As a… The post EMU deletions fix appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd33cfcc60a76fe0bdbd"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

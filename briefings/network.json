@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-23T21:42:53+00:00",
+  "generated_at": "2026-10-23T21:59:46+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 68,
-    "clusters": 52,
+    "findings": 70,
+    "clusters": 54,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -68,18 +68,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 24.23,
+      "network_score": 24.18,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 28.3,
-      "ranking_score": 24.23,
+      "ranking_score": 24.18,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.73,
+      "baseline_bonus": 0.68,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -203,6 +203,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-23T06:53:07+00:00"
+    },
+    {
+      "key": "domain:japan.zdnet.com",
+      "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://japan.zdnet.com/article/35253683/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.28,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 18.1,
+      "ranking_score": 19.28,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 2.28,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T03:57:18+00:00"
     },
     {
       "key": "domain:wid.cert-bund.de",
@@ -1621,6 +1659,44 @@
       "first_seen_at": "2026-10-23T03:01:16+00:00"
     },
     {
+      "key": "title:emu-deletions-fix",
+      "title": "EMU deletions fix",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-10-23-emu-deletions-fix"
+      ],
+      "finding_count": 1,
+      "max_score": 3,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 7.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-23T21:59:46+00:00"
+    },
+    {
       "key": "title:nhk",
       "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース",
       "sources": [
@@ -2041,7 +2117,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-23T21:42:54Z",
+    "generated_at": "2026-10-23T21:59:47Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
