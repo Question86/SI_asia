@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-23T14:53:58+00:00_
+_Generiert: 2026-10-23T15:02:22+00:00_
 
 ## Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)
 
