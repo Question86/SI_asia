@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-23T11:30:25Z",
+  "generated_at": "2026-10-23T11:45:11Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T08:30:51+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "security"
@@ -68,7 +68,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -97,7 +97,7 @@
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:27:02+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -120,11 +120,37 @@
       "summary": ""
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux cockpit-machines: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4118",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-23T11:25:52+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler, authentisierter Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux cockpit-machines ausnutzen, um Informationen offenzulegen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -150,7 +176,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4140",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -176,7 +202,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4138",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -203,7 +229,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4136",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:45:54+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -229,7 +255,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4112",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T10:25:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -255,7 +281,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4043",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T09:31:48+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -282,7 +308,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4117",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T09:00:51+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -302,31 +328,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Node.js ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode auszuführen."
-    },
-    {
-      "title": "[NEU] [niedrig] KNIME Analytics Platform: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4141",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in KNIME Analytics Platform ausnutzen, um Informationen offenzulegen."
     }
   ],
   "read_order": [
