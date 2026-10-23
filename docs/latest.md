@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T03:26:23+00:00_
+_Generiert: 2026-10-23T03:43:05+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+15 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年10月23日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **トランプ大統領、Googleに「大西洋」の改名を打診 ピチャイCEOが「大洋は勘弁を」と難色** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/23/2000002533/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-23T00:14:21+00:00`, fetched `2026-10-23T03:42:32+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: トランプ氏は、対象となる大洋は大西洋と太平洋の2つだけだと前置きした上で、大西洋の改称を真剣に検討したと述べた。「湖の件で素晴らしい対応をしてくれた」というGoogleに電話し、ピチャイ氏と直接協議したことを明かした。トランプ氏によると、大西洋の変更に対応できるかと尋ねたところ、ピチャイ氏は「大洋は話が...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/10/23/021328)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-22T20:51:20+00:00`, fetched `2026-10-23T00:53:14+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年10月18日、Mozillaは、認証局eMudhraの中間CA証明書の秘密鍵が危殆化したインシデントをBugzillaに起票し、10月20日に公開しました。ここでは関連する情報をまとめます。 危殆化したのは中間CA8件 eMudhra(emSignブランドの認証局)の中間CA証明書のうち、TLS用6件とコード署名用2件の秘密鍵が、公開鍵から誰でも求...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁** — Score 5, observation — [Quelle](https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-22T14:21:11+00:00`, fetched `2026-10-23T00:00:24+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ホームプレスルームStudio 株式会社における不正アクセスによる個人情報の漏えいの可能性について Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について 公開日：2026年10月22日 今般、デジタル庁（デジタル改革関連法案準備室を含む。）がホームページ運営の一部にそのサービスを利用していたSt...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **What changed when I stopped sending newsletters manually** — Score 4, observation — [Quelle](https://e27.co/what-changed-when-i-stopped-sending-newsletters-manually-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
