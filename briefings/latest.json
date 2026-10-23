@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T15:22:58+00:00",
-  "run_id": "2026-10-23T15:22:58+00:00",
+  "generated_at": "2026-10-23T15:38:11+00:00",
+  "run_id": "2026-10-23T15:38:11+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 61,
     "displayed_findings": 61,
     "high": 0,
@@ -3097,29 +3097,7 @@
       "id": "d6a9a047d7b4b7c8d873"
     }
   ],
-  "new_findings": [
-    {
-      "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-23T11:48:55+00:00",
-      "fetched_at": "2026-10-23T15:22:28+00:00",
-      "summary": "モスバーガーを展開するモスフードサービスによりますと不正アクセスによって店やネットでの支払いに使用できるプリペイドカードの情報が外部に流出したことから、カードの所有者に対し、身に覚えのない利用がないか…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3301c010676df197b8a0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
