@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T00:01:06+00:00",
+  "generated_at": "2026-10-23T00:53:46+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -85891,7 +85891,7 @@
     },
     "title:studio": {
       "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
-      "updated_at": "2026-10-23T00:01:06+00:00",
+      "updated_at": "2026-10-23T00:53:46+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -85921,13 +85921,13 @@
         8.1,
         8.1,
         8.1,
-        8.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.07,
+      "rolling_average": 8.03,
       "rolling_peak": 8.1,
       "last_score": 7.1,
-      "z_hint": -0.97
+      "z_hint": -0.93
     },
     "title:multiples-vuln-rabilit-dans-les-produits-mattermost-octobre": {
       "title": "Multiples vulnérabilités dans les produits Mattermost (16 octobre 2026)",
@@ -86662,6 +86662,28 @@
       "rolling_peak": 23.1,
       "last_score": 20.1,
       "z_hint": -1.5
+    },
+    "title:github-copilot-visual-studio-september-update": {
+      "title": "GitHub Copilot in Visual Studio — September update",
+      "updated_at": "2026-10-23T00:53:46+00:00",
+      "network_scores": [
+        14.1
+      ],
+      "rolling_average": 14.1,
+      "rolling_peak": 14.1,
+      "last_score": 14.1,
+      "z_hint": 0.0
+    },
+    "title:emudhra-piyolog": {
+      "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
+      "updated_at": "2026-10-23T00:53:46+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }
