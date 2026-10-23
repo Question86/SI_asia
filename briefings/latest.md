@@ -1,18 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T14:24:10+00:00_
+_Generiert: 2026-10-23T14:39:58+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+60 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.0 - 191 km ENE of Nagqu, China** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g)
-  - Quelle: USGS
-  - Zeit: `2026-10-22T14:33:40+00:00`
-  - Kurz: M7.0 - 191 km ENE of Nagqu, China. PAGER alert: orange. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
@@ -83,6 +79,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); Security (+7.5); safety (+2.5); recent (+1.0)
   - Kurz: OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)** — Score 22, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-19T00:00:00+00:00`, fetched `2026-10-23T14:39:18+00:00`
+  - Treffer: avis, CERT-FR, Climate/Disaster Infrastructure, Security, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **I used AI to rebuild my websites without knowing how to code** — Score 20, observation — [Quelle](https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-23T04:00:34+00:00`, fetched `2026-10-23T04:02:48+00:00`
@@ -185,6 +190,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-10-23 10:19:16 UTC 2026-10-23 10:19:16 UTC at epicenter Location 38.720°N 14.152°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)** — Score 13, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-19T00:00:00+00:00`, fetched `2026-10-23T14:39:18+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory** — Score 12, observation — [Quelle](https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-23T05:19:38+00:00`, fetched `2026-10-23T05:22:32+00:00`
@@ -230,6 +244,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Indonesia’s D2C and inventory-heavy startup sector looks different in 2026 than it did before 2022. The cohort of platforms that scaled between 2018 and 2021 (Fabelio in furniture, several in F&B, fashion, and household goods) encountered a category of operational risk that the original venture playbook tended to underestimate. Some platforms have stabilised. Several have […] The post The working capital trap: Lesso…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans Mattermost Server (19 octobre 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-19T00:00:00+00:00`, fetched `2026-10-23T14:39:18+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 50 km WNW of Malfa, Italy** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-23T14:22:44.737+00:00`, fetched `2026-10-23T14:23:27+00:00`
@@ -266,6 +289,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags… The post GitHub Copilot in Visual Studio — September update appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Laravel (20 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-20T00:00:00+00:00`, fetched `2026-10-23T14:39:18+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-23T10:56:07+00:00`, fetched `2026-10-23T12:02:37+00:00`
@@ -283,33 +315,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: パーク24は23日、カーシェアサービス「タイムズカー」の不正アクセスによる個人情報流出を受け、免許証などの本人確認書類の画像データが外部送信されたとみられる被害者に1人3000円を「お見舞い」として支払うと発表した。146万人あまりが対象となり、総額は単純計算で約44億円となる見込み。タイムズカーでは9月に不正...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Cisco stopft diverse, teils kritische Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-23T08:10:00.000+00:00`, fetched `2026-10-23T08:27:47+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In mehreren Produkten von Cisco klaffen teils kritische Lücken. Der Hersteller stellt Sicherheitsupdates bereit.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-22T22:15:14+00:00`, fetched `2026-10-23T03:00:38+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 【シリコンバレー=伴正春、ニューヨーク=西邨紘子】プログラム言語「PHP」で見つかった欠陥を受け、多くの日本企業がウェブサイトを一時停止した。一方、震源地の米国ではサイトを継続する企業が大半だった。先端技術を持つテック企業が政府と綿密に連携して対応した防衛体制の違いも大きい。クラウド最大手アマゾン、顧...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **中途採用（専門人材）の採用イベント情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/career)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-23T06:00:00+00:00`, fetched `2026-10-23T06:52:34+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 中途採用（専門人材）の採用イベント情報を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

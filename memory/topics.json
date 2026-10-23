@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T14:24:10+00:00",
+  "generated_at": "2026-10-23T14:39:58+00:00",
   "topics": {
     "geopolitics": [
       {
@@ -84,6 +84,13 @@
         "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
       },
       {
+        "title": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 22,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/"
+      },
+      {
         "title": "I used AI to rebuild my websites without knowing how to code",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-23T04:00:34+00:00",
@@ -126,25 +133,18 @@
         "url": "https://e27.co/how-ai-became-my-sparring-partner-20261018/"
       },
       {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/"
+      },
+      {
         "title": "Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-23T05:19:38+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/"
-      },
-      {
-        "title": "supabase/supabase",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 11,
-        "url": "https://github.com/supabase/supabase"
-      },
-      {
-        "title": "php/php-src",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 11,
-        "url": "https://github.com/php/php-src"
       }
     ],
     "security": [
@@ -154,6 +154,13 @@
         "published_at": "2026-10-23T00:00:00+00:00",
         "relevance_score": 22,
         "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 22,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/"
       },
       {
         "title": "[NEU] [niedrig] KNIME Analytics Platform: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -210,13 +217,6 @@
         "published_at": "2026-10-23T10:50:52+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4138"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Java SE and GraalVM, und OpenJDK: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:50:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4139"
       }
     ],
     "github": [

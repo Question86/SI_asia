@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-23T14:24:10+00:00",
+  "generated_at": "2026-10-23T14:39:58+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 54,
-    "displayed_findings": 54,
+    "new_relevant_findings": 6,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
-    "medium": 23,
-    "observe": 31
+    "medium": 24,
+    "observe": 36
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "relevance_score": 22,
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de l…",
+      "section": "medium"
+    },
+    {
       "title": "I used AI to rebuild my websites without knowing how to code",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -45,16 +55,6 @@
       "section": "medium"
     },
     {
-      "title": "Graphify-Labs/graphify",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 19,
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. https://www.graphify.…",
-      "section": "medium"
-    },
-    {
       "title": "M 5.7 - 61 km WNW of Leni, Italy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -62,6 +62,16 @@
       "relevance_score": 13,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk",
       "summary": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-10-23 10:19:16 UTC 2026-10-23 10:19:16 UTC at epicenter Location 38.720°N 14.152°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
       "section": "observe"
     },
     {
@@ -82,16 +92,6 @@
       "relevance_score": 11,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
       "summary": "DYFI? - II Time 2026-10-23 02:17:01 UTC 2026-10-23 02:17:01 UTC at epicenter Location 27.999°N 100.619°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "supabase/supabase",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 11,
-      "url": "https://github.com/supabase/supabase",
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. https://supabase.com Supabase Supabase is the Postgres development platform. We're building the features of Firebase using ente…",
       "section": "observe"
     }
   ],

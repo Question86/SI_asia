@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T14:24:10+00:00",
-  "run_id": "2026-10-23T14:24:10+00:00",
+  "generated_at": "2026-10-23T14:39:58+00:00",
+  "run_id": "2026-10-23T14:39:58+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 54
+      "configured_public_sources_only": 60
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 54,
-    "displayed_findings": 54,
+    "new_relevant_findings": 6,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
-    "medium": 23,
-    "observe": 31,
+    "medium": 24,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -74,6 +74,31 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "762725055e2fb3cc8df9"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-23T14:39:18+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "Climate/Disaster Infrastructure",
+          "Security",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6af83e20db49d1c3e16f"
       },
       {
         "title": "I used AI to rebuild my websites without knowing how to code",
@@ -637,6 +662,31 @@
         "id": "c5c4d1e0211f9b56c0eb"
       },
       {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-23T14:39:18+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "Microsoft",
+          "sécurité",
+          "vulnérabilité",
+          "éditeur"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "232406872531fc1233f7"
+      },
+      {
         "title": "Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory",
         "url": "https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -781,6 +831,30 @@
           "EWZ"
         ],
         "id": "7c334310fae277d1c35b"
+      },
+      {
+        "title": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-23T14:39:18+00:00",
+        "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité",
+          "éditeur"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "08a0c8c765293b7af503"
       },
       {
         "title": "M 5.2 - 50 km WNW of Malfa, Italy",
@@ -1024,6 +1098,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fdc805cf461c3702504b"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Laravel (20 octobre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-10-20T00:00:00+00:00",
+        "fetched_at": "2026-10-23T14:39:18+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "150f468a1c31e9cf5ec5"
+      },
+      {
+        "title": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-23T14:39:18+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0275665d0971f0f968c7"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-23T14:39:18+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6e1ce38bce533962cadc"
       },
       {
         "title": "パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞",
@@ -1446,6 +1589,31 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "762725055e2fb3cc8df9"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Climate/Disaster Infrastructure",
+        "Security",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6af83e20db49d1c3e16f"
     },
     {
       "title": "I used AI to rebuild my websites without knowing how to code",
@@ -2007,6 +2175,31 @@
       "id": "c5c4d1e0211f9b56c0eb"
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "232406872531fc1233f7"
+    },
+    {
       "title": "Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory",
       "url": "https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2151,6 +2344,30 @@
         "EWZ"
       ],
       "id": "7c334310fae277d1c35b"
+    },
+    {
+      "title": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "08a0c8c765293b7af503"
     },
     {
       "title": "M 5.2 - 50 km WNW of Malfa, Italy",
@@ -2394,6 +2611,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "fdc805cf461c3702504b"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Laravel (20 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "150f468a1c31e9cf5ec5"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0275665d0971f0f968c7"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6e1ce38bce533962cadc"
     },
     {
       "title": "パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞",
@@ -2771,61 +3057,147 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.2 - 50 km WNW of Malfa, Italy",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
+      "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
-      "published_at": "2026-10-23T14:22:44.737+00:00",
-      "fetched_at": "2026-10-23T14:23:27+00:00",
-      "summary": "DYFI? - III Time 2026-10-23 13:55:36 UTC 2026-10-23 13:55:36 UTC at epicenter Location 38.779°N 14.315°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
       "matched_keywords": [
+        "avis",
+        "CERT-FR",
         "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Security",
+        "sécurité",
+        "vulnérabilité"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "d01ac744944215a7805a"
-    },
-    {
-      "title": "「Mermaid」図を描けるMarkdownエディター「MerMark Editor」が日本語化／有志の貢献により、v0.8.1から",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2150751.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-23T06:49:37+00:00",
-      "fetched_at": "2026-10-23T14:23:27+00:00",
-      "summary": "「Mermaid」図を描けるMarkdownエディター「MerMark Editor」が日本語化／有志の貢献により、v0.8.1から",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 22,
+      "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "98a37b8f705586b385a2"
+      "id": "6af83e20db49d1c3e16f"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "232406872531fc1233f7"
+    },
+    {
+      "title": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "08a0c8c765293b7af503"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Laravel (20 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "150f468a1c31e9cf5ec5"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6e1ce38bce533962cadc"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-23T14:39:18+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0275665d0971f0f968c7"
     }
   ],
   "source_errors": [],
