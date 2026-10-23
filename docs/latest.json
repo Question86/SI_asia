@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T05:02:39+00:00",
-  "run_id": "2026-10-23T05:02:39+00:00",
+  "generated_at": "2026-10-23T05:23:07+00:00",
+  "run_id": "2026-10-23T05:23:07+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 1,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 5,
-    "observe": 13,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -144,6 +144,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory",
+        "url": "https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-23T05:19:38+00:00",
+        "fetched_at": "2026-10-23T05:22:32+00:00",
+        "summary": "Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon as the “frozen middle”. Red Hat, […] The post Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f399d56bab5583711500"
+      },
       {
         "title": "M 4.5 - 18 km NNW of Yongning, China",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
@@ -605,6 +627,28 @@
       "id": "4c71bb321fc2e8583e03"
     },
     {
+      "title": "Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory",
+      "url": "https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-23T05:19:38+00:00",
+      "fetched_at": "2026-10-23T05:22:32+00:00",
+      "summary": "Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon as the “frozen middle”. Red Hat, […] The post Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f399d56bab5583711500"
+    },
+    {
       "title": "M 4.5 - 18 km NNW of Yongning, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -949,7 +993,30 @@
       "id": "d6a9a047d7b4b7c8d873"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory",
+      "url": "https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-23T05:19:38+00:00",
+      "fetched_at": "2026-10-23T05:22:32+00:00",
+      "summary": "Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon as the “frozen middle”. Red Hat, […] The post Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f399d56bab5583711500"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

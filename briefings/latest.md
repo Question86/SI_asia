@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T05:02:39+00:00_
+_Generiert: 2026-10-23T05:23:07+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „I used AI to rebuild my websites without knowing how to code“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+19 neue relevante Treffer. Stärkstes Signal: „I used AI to rebuild my websites without knowing how to code“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -109,6 +109,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory** — Score 12, observation — [Quelle](https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-23T05:19:38+00:00`, fetched `2026-10-23T05:22:32+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon as the “frozen middle”. Red Hat, […] The post Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 18 km NNW of Yongning, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-23T02:57:13.876+00:00`, fetched `2026-10-23T03:00:38+00:00`
@@ -153,15 +162,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags… The post GitHub Copilot in Visual Studio — September update appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out** — Score 7, observation — [Quelle](https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-23T04:06:10+00:00`, fetched `2026-10-23T04:26:31+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: The digital asset sector faces heavy selling pressure this week as Bitcoin drops 3.20 per cent to US$81,385.04. This downward movement closely tracks a 3.15 per cent decline in the total cryptocurrency capitalisation, which now sits at US$2.72 trillion. I view this current price action as a complex interplay of internal mechanics and external macro […] The post Bitcoin rejected US$84,000 and forced US$79,060,000 in…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
