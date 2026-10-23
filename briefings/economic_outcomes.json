@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T07:50:41+00:00",
+  "generated_at": "2026-10-23T07:59:54+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -7282,7 +7282,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5b9b8b09cfdc0d46bf4f",
@@ -14290,6 +14290,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b3230a77eb258894f245",
+      "title": "佐川急便 流出した個人情報は最大5300万件超の可能性 | NHKニュース",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_b342bcc8a88103c8dcd1",
