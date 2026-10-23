@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-23T05:23:07+00:00",
+  "generated_at": "2026-10-23T05:37:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 19,
     "displayed_findings": 19,
     "high": 0,
@@ -100,140 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
-        "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-23T04:27:02+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
-        "url": "https://jvn.jp/vu/JVNVU98747108/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-23T11:00:00+09:00",
-        "age_days": 0.15,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
-        "url": "https://jvn.jp/vu/JVNVU93251594/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-23T11:00:15+09:00",
-        "age_days": 0.15,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
-        "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-23T04:06:10+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "The digital asset sector faces heavy selling pressure this week as Bitcoin drops 3.20 per cent to US$81,385.04. This downward movement closely tracks a 3.15 per cent decline in the total cryptocurrency capitalisation, which now sits at US$2.72 trillion. I view this current price action as a complex interplay of intern…"
-      },
-      {
-        "title": "I used AI to rebuild my websites without knowing how to code",
-        "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-23T04:03:21+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: code",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
