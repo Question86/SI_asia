@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-23T01:41:47Z_
+_Generated: 2026-10-23T02:00:18Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub Copilot in Visual Studio — Sept
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.5`
-- Published: `2026-10-23T00:53:46+00:00` / age_days `0.03`
+- Published: `2026-10-23T00:53:46+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub Copilot in Visual Studio — Sept
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-22T12:55:41+00:00` / age_days `0.53`
+- Published: `2026-10-22T12:55:41+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub Copilot in Visual Studio — Sept
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.5`
-- Published: `2026-10-23T00:53:46+00:00` / age_days `0.03`
+- Published: `2026-10-23T00:53:46+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub Copilot in Visual Studio — Sept
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-22T20:51:20+00:00` / age_days `0.2`
+- Published: `2026-10-22T20:51:20+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub Copilot in Visual Studio — Sept
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-22T14:21:11+00:00` / age_days `0.47`
+- Published: `2026-10-22T14:21:11+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub Copilot in Visual Studio — Sept
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-10-23T00:17:51+00:00` / age_days `0.06`
+- Published: `2026-10-23T00:17:51+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
