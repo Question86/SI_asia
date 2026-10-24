@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T11:14:49+00:00_
+_Generiert: 2026-10-24T11:36:53+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
+42 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
