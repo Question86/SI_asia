@@ -1,41 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-24T04:22:20+00:00",
+  "generated_at": "2026-10-24T04:36:57+00:00",
   "topics": {
-    "ai": [
-      {
-        "title": "CVE Tracker — CVEs per month since 1999",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-23T17:30:30+00:00",
-        "relevance_score": 12,
-        "url": "https://cve.0xosprey.com/"
-      },
-      {
-        "title": "Usage metrics API adds usage from tools like OpenCode",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-23T23:42:03+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode"
-      },
-      {
-        "title": "【佐川急便】｜お知らせ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-23T07:41:02+00:00",
-        "relevance_score": 5,
-        "url": "https://www2.sagawa-exp.co.jp/information/detail/430/"
-      }
-    ],
-    "security": [
-      {
-        "title": "CVE Tracker — CVEs per month since 1999",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-23T17:30:30+00:00",
-        "relevance_score": 12,
-        "url": "https://cve.0xosprey.com/"
-      }
-    ],
     "general": [
+      {
+        "title": "M 5.8 - 203 km NW of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-24T04:31:10.695+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw"
+      },
       {
         "title": "M 4.9 - 209 km ENE of Nagqu, China",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -98,13 +73,38 @@
         "published_at": "2026-10-24T03:11:09+00:00",
         "relevance_score": 5,
         "url": "https://group.gmo/info/alert/20261024/"
+      }
+    ],
+    "ai": [
+      {
+        "title": "CVE Tracker — CVEs per month since 1999",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T17:30:30+00:00",
+        "relevance_score": 12,
+        "url": "https://cve.0xosprey.com/"
       },
       {
-        "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-23T15:52:59+00:00",
+        "title": "Usage metrics API adds usage from tools like OpenCode",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-23T23:42:03+00:00",
         "relevance_score": 5,
-        "url": "https://www.gamespark.jp/article/2026/10/23/174015.html"
+        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode"
+      },
+      {
+        "title": "【佐川急便】｜お知らせ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T07:41:02+00:00",
+        "relevance_score": 5,
+        "url": "https://www2.sagawa-exp.co.jp/information/detail/430/"
+      }
+    ],
+    "security": [
+      {
+        "title": "CVE Tracker — CVEs per month since 1999",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T17:30:30+00:00",
+        "relevance_score": 12,
+        "url": "https://cve.0xosprey.com/"
       }
     ],
     "github": [
