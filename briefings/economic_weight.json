@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T05:50:36+00:00",
+  "generated_at": "2026-10-24T05:57:11+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2091,7 +2091,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:37:00+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -2520,6 +2520,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_af4d1231568ed89b186c",
+      "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_b3aed0055716f96e4aa2",
       "title": "M 6.0 - 7 km N of La Tronosa, Panama",
       "event_classes": [
@@ -2756,23 +2773,6 @@
       "first_seen_at": "2026-10-13T13:03:04+00:00",
       "last_seen_at": "2026-10-13T23:58:13+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_af4d1231568ed89b186c",
-      "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1144000.0,
-      "p50_usd": 114400000.0,
-      "p90_usd": 11440000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-24T05:50:18+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -4335,7 +4335,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -5848,7 +5848,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -6103,7 +6103,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T05:12:58+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -6239,7 +6239,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T03:38:37+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -7310,7 +7310,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T05:39:57+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -7973,7 +7973,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T05:12:58+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -8313,7 +8313,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:49:40+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -8789,7 +8789,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T02:50:11+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -8874,7 +8874,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T03:38:37+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -9384,7 +9384,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T02:50:11+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -9792,7 +9792,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -12054,7 +12054,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -14608,6 +14608,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_bb70f1153c5f054f3e98",
+      "title": "SnailSploit/Claude-Red",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-24T05:56:52+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_064006df2c404d32a98b",
       "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
       "event_classes": [
@@ -16712,7 +16729,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T03:52:11+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -20963,7 +20980,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T01:55:58+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -24692,6 +24709,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_eb13eb414f1406e71678",
+      "title": "Renhuai123/ziwei-doushu",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-24T05:56:52+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_01f8d7013bd851003572",
       "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
       "event_classes": [
@@ -27493,7 +27527,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -27987,7 +28021,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T01:14:40+00:00",
       "last_seen_at": "2026-10-24T05:50:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_597f585749518ee22672",
@@ -30162,7 +30196,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:56:52+00:00",
       "status": "active"
     },
     {
@@ -30469,7 +30503,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T02:31:18+00:00",
       "last_seen_at": "2026-10-24T05:50:18+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e4e2e0a3ecb06381674e",
