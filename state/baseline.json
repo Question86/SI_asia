@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T07:34:30+00:00",
+  "generated_at": "2026-10-24T08:01:42+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -990,9 +990,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Piero Cipollone: Interview with Milano Finanza",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
-        11.1,
         11.1,
         11.1,
         11.1,
@@ -1021,12 +1020,13 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 11.03,
+      "rolling_average": 11.0,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.93
+      "z_hint": -0.9
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -2817,9 +2817,8 @@
     },
     "domain:gigazine.net": {
       "title": "「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
-        18.1,
         18.1,
         18.1,
         18.1,
@@ -2848,12 +2847,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 13.6,
+      "rolling_average": 13.4,
       "rolling_peak": 18.1,
       "last_score": 12.1,
-      "z_hint": -1.5
+      "z_hint": -1.3
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -88323,7 +88323,7 @@
     },
     "earthquake:m 4.9 - 209 km ene of nagqu, china:4.9": {
       "title": "M 4.9 - 209 km ENE of Nagqu, China",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -88347,16 +88347,51 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.83,
+      "rolling_average": 13.82,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:usage-metrics-api-adds-usage-tools-like-opencode": {
       "title": "Usage metrics API adds usage from tools like OpenCode",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.22,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.12
+    },
+    "title:game-spark": {
+      "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -88387,43 +88422,12 @@
       "last_score": 7.1,
       "z_hint": -0.13
     },
-    "title:game-spark": {
-      "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
-      "updated_at": "2026-10-24T07:34:30+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.24,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.14
-    },
     "title:public-monitoring-adds-triage-validity-api-webhooks": {
       "title": "Public monitoring adds triage, validity, API, and webhooks",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.1,
+        11.1,
         11.1,
         11.1,
         11.1,
@@ -88452,7 +88456,7 @@
     },
     "url:https://www2.sagawa-exp.co.jp/information/detail/430/": {
       "title": "【佐川急便】｜お知らせ",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -88472,16 +88476,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.26,
+      "rolling_average": 7.25,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "earthquake:m 7.2 - 200 km w of sola, vanuatu:7.2": {
       "title": "M 7.2 - 200 km W of Sola, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88500,16 +88505,46 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.87,
+      "rolling_average": 11.86,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "earthquake:m 6.9 - 197 km wnw of port-olry, vanuatu:6.9": {
       "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 11.86,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -0.16
+    },
+    "earthquake:m 5.2 - 202 km nw of port-olry, vanuatu:5.2": {
+      "title": "M 5.2 - 202 km NW of Port-Olry, Vanuatu",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88535,36 +88570,9 @@
       "last_score": 11.7,
       "z_hint": -0.17
     },
-    "earthquake:m 5.2 - 202 km nw of port-olry, vanuatu:5.2": {
-      "title": "M 5.2 - 202 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
-      "network_scores": [
-        14.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7
-      ],
-      "rolling_average": 11.88,
-      "rolling_peak": 14.7,
-      "last_score": 11.7,
-      "z_hint": -0.18
-    },
     "earthquake:m 5.1 - 170 km nw of port-olry, vanuatu:5.1": {
       "title": "M 5.1 - 170 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88582,16 +88590,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.88,
+      "rolling_average": 11.87,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "url:https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html": {
       "title": "スイッチングハブは使いこなしの宝庫。AV向けのハブ選びやポートの使い方【吉田伊織のA&V奥の細道】",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -88609,16 +88618,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.28,
+      "rolling_average": 7.27,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "domain:cve.0xosprey.com": {
       "title": "CVE Tracker — CVEs per month since 1999",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -88635,16 +88645,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.29,
+      "rolling_average": 14.28,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "earthquake:m 5.7 - 205 km nw of port-olry, vanuatu:5.7": {
       "title": "M 5.7 - 205 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88659,16 +88670,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.91,
+      "rolling_average": 11.9,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "earthquake:m 4.9 - 186 km wnw of port-olry, vanuatu:4.9": {
       "title": "M 4.9 - 186 km WNW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88683,16 +88695,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.91,
+      "rolling_average": 11.9,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:com-gmo": {
       "title": "【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -88707,16 +88720,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.31,
+      "rolling_average": 7.3,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "earthquake:m 5.8 - 203 km nw of port-olry, vanuatu:5.8": {
       "title": "M 5.8 - 203 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -88730,16 +88744,17 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 15.93,
+      "rolling_average": 15.91,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "earthquake:m 5.3 - 216 km w of sola, vanuatu:5.3": {
       "title": "M 5.3 - 216 km W of Sola, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88752,16 +88767,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.95,
+      "rolling_average": 11.93,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "earthquake:m 5.1 - 217 km nw of port-olry, vanuatu:5.1": {
       "title": "M 5.1 - 217 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88772,16 +88788,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.0,
+      "rolling_average": 11.97,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "earthquake:m 5.0 - 161 km nw of port-olry, vanuatu:5.0": {
       "title": "M 5.0 - 161 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88792,16 +88809,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.0,
+      "rolling_average": 11.97,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "earthquake:m 4.8 - 219 km wnw of port-olry, vanuatu:4.8": {
       "title": "M 4.8 - 219 km WNW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88810,16 +88828,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.08,
+      "rolling_average": 12.03,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "earthquake:m 5.8 - 182 km nw of port-olry, vanuatu:5.8": {
       "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -88827,93 +88846,114 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 16.13,
+      "rolling_average": 16.07,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "github_repo:snailsploit/claude-red": {
       "title": "SnailSploit/Claude-Red",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         21.1,
         18.1,
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.6,
+      "rolling_average": 18.53,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "github_repo:renhuai123/ziwei-doushu": {
       "title": "Renhuai123/ziwei-doushu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         12.1,
         9.1,
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.6,
+      "rolling_average": 9.53,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "earthquake:m 4.5 - 175 km nw of port-olry, vanuatu:4.5": {
       "title": "M 4.5 - 175 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.3,
+      "rolling_average": 12.2,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "earthquake:m 4.5 - 184 km nw of port-olry, vanuatu:4.5": {
       "title": "M 4.5 - 184 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.3,
+      "rolling_average": 12.2,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "url:https://www.yomiuri.co.jp/economy/20261024-gyt1t00180/": {
       "title": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.6,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "earthquake:m 5.3 - 174 km nw of port-olry, vanuatu:5.3": {
       "title": "M 5.3 - 174 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+      "updated_at": "2026-10-24T08:01:42+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 12.3,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -0.6
+    },
+    "earthquake:m 5.5 - 55 km nne of port-olry, vanuatu:5.5": {
+      "title": "M 5.5 - 55 km NNE of Port-Olry, Vanuatu",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88925,9 +88965,9 @@
       "last_score": 11.7,
       "z_hint": -0.75
     },
-    "earthquake:m 5.5 - 55 km nne of port-olry, vanuatu:5.5": {
-      "title": "M 5.5 - 55 km NNE of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
+    "earthquake:m 5.0 - 219 km nw of port-olry, vanuatu:5.0": {
+      "title": "M 5.0 - 219 km NW of Port-Olry, Vanuatu",
+      "updated_at": "2026-10-24T08:01:42+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -88937,18 +88977,6 @@
       "rolling_peak": 14.7,
       "last_score": 11.7,
       "z_hint": -1.0
-    },
-    "earthquake:m 5.0 - 219 km nw of port-olry, vanuatu:5.0": {
-      "title": "M 5.0 - 219 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-24T07:34:30+00:00",
-      "network_scores": [
-        14.7,
-        11.7
-      ],
-      "rolling_average": 13.2,
-      "rolling_peak": 14.7,
-      "last_score": 11.7,
-      "z_hint": -1.5
     }
   }
 }
