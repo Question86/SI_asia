@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-24T12:18:25Z",
+  "generated_at": "2026-10-24T12:55:57Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 1999” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T03:52:11+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-24T05:56:14+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security",
@@ -69,7 +69,7 @@
       "url": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T12:51:28+00:00",
-      "age_days": 0.98,
+      "age_days": 1.0,
       "topics": [
         "ai",
         "security"
@@ -96,7 +96,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T17:30:30+00:00",
-      "age_days": 0.78,
+      "age_days": 0.81,
       "topics": [
         "security"
       ],
@@ -118,11 +118,36 @@
       "summary": "Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG"
     },
     {
+      "title": "M 4.7 - 72 km S of Basco, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T12:10:33.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, 9.8"
+      ],
+      "summary": "Time 2026-10-24 11:48:08 UTC 2026-10-24 11:48:08 UTC at epicenter Location 19.805°N 122.087°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.9 - 196 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:13:41.477+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -147,7 +172,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:48:28.673+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -172,7 +197,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:31:10.695+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -197,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:20:12+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -221,7 +246,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:50:18+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -245,7 +270,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:37:00+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -265,16 +290,16 @@
       "summary": ""
     },
     {
-      "title": "Usage metrics API adds usage from tools like OpenCode",
-      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-24T00:50:11+00:00",
-      "age_days": 0.48,
+      "title": "M 4.7 - 72 km S of Basco, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-29T21:26:18+00:00",
+      "age_days": 24.65,
       "topics": [
         "general"
       ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
@@ -282,37 +307,13 @@
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "high terms: code"
+        "aging penalty -1.3 for 24.6d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 5.3 - 223 km ENE of Nagqu, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lg",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-24T08:56:04.040+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-24 08:39:53 UTC 2026-10-24 08:39:53 UTC at epicenter Location 32.563°N 94.048°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -324,8 +325,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 10,
-      "watch": 2
+      "strong": 11,
+      "watch": 1
     }
   }
 }
