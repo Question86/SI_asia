@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T02:04:16+00:00",
+  "generated_at": "2026-10-24T02:31:18+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2817,9 +2817,8 @@
     },
     "domain:gigazine.net": {
       "title": "「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？",
-      "updated_at": "2026-10-24T02:04:16+00:00",
+      "updated_at": "2026-10-24T02:31:18+00:00",
       "network_scores": [
-        25.1,
         25.1,
         25.1,
         25.1,
@@ -2848,12 +2847,13 @@
         15.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 21.47,
+      "rolling_average": 21.03,
       "rolling_peak": 25.1,
       "last_score": 12.1,
-      "z_hint": -9.37
+      "z_hint": -8.93
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -88323,21 +88323,37 @@
     },
     "earthquake:m 4.9 - 209 km ene of nagqu, china:4.9": {
       "title": "M 4.9 - 209 km ENE of Nagqu, China",
-      "updated_at": "2026-10-24T02:04:16+00:00",
+      "updated_at": "2026-10-24T02:31:18+00:00",
       "network_scores": [
         16.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 14.45,
+      "rolling_average": 14.3,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:usage-metrics-api-adds-usage-tools-like-opencode": {
       "title": "Usage metrics API adds usage from tools like OpenCode",
-      "updated_at": "2026-10-24T02:04:16+00:00",
+      "updated_at": "2026-10-24T02:31:18+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.7,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.6
+    },
+    "title:game-spark": {
+      "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
+      "updated_at": "2026-10-24T02:31:18+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -88349,30 +88365,29 @@
       "last_score": 7.1,
       "z_hint": -0.75
     },
-    "title:game-spark": {
-      "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
-      "updated_at": "2026-10-24T02:04:16+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 8.1,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.0
-    },
     "title:public-monitoring-adds-triage-validity-api-webhooks": {
       "title": "Public monitoring adds triage, validity, API, and webhooks",
-      "updated_at": "2026-10-24T02:04:16+00:00",
+      "updated_at": "2026-10-24T02:31:18+00:00",
       "network_scores": [
         14.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 12.6,
+      "rolling_average": 12.1,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "url:https://www2.sagawa-exp.co.jp/information/detail/430/": {
+      "title": "【佐川急便】｜お知らせ",
+      "updated_at": "2026-10-24T02:31:18+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }

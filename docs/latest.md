@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T02:04:11+00:00_
+_Generiert: 2026-10-24T02:31:15+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 209 km ENE of Nagqu, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+6 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 209 km ENE of Nagqu, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **【佐川急便】｜お知らせ** — Score 5, observation — [Quelle](https://www2.sagawa-exp.co.jp/information/detail/430/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-23T07:41:02+00:00`, fetched `2026-10-24T02:30:46+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 重要なお知らせ お知らせ一覧に戻る ホーム お知らせ
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
