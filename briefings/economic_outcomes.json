@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T15:43:38+00:00",
+  "generated_at": "2026-10-24T15:50:16+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -3267,7 +3267,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_293ee29e76742687e474",
@@ -12651,6 +12651,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9966a04d5191e570ba65",
+      "title": "M 5.8 - Bouvet Island region",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_9970e6f2b54e3e4807a0",
