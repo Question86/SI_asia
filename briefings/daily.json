@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T07:02:11+00:00",
-  "today_file_total": 29,
+  "generated_at": "2026-10-24T07:22:37+00:00",
+  "today_file_total": 30,
   "current_clusters": [
     {
       "key": "github_repo:snailsploit/claude-red",
@@ -76,8 +76,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 5.5 - 55 km nne of port-olry, vanuatu:5.5",
-      "title": "M 5.5 - 55 km NNE of Port-Olry, Vanuatu",
+      "key": "earthquake:m 5.0 - 219 km nw of port-olry, vanuatu:5.0",
+      "title": "M 5.0 - 219 km NW of Port-Olry, Vanuatu",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -85,7 +85,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ku"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -170,6 +170,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.5 - 55 km nne of port-olry, vanuatu:5.5",
+      "title": "M 5.5 - 55 km NNE of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 5.3 - 174 km nw of port-olry, vanuatu:5.3",
@@ -457,31 +482,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 6.9 - 197 km wnw of port-olry, vanuatu:6.9",
-      "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2"
       ],
       "finding_count": 1,
       "max_score": 9,

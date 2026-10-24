@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T07:02:08+00:00_
+_Generiert: 2026-10-24T07:22:33+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
+30 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,6 +45,10 @@ _Generiert: 2026-10-24T07:02:08+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-24T02:35:57+00:00`
   - Kurz: M6.3 - 170 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:194.632km) in Vanuatu 24/10/2026 06:43 UTC, 60 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573554)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:194.632km) in Vanuatu 24/10/2026 06:43 UTC, 60 thousand in MMI III.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 24/10/2026 05:23 UTC, 2 thousand in MMI&gt;=III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573536)
   - Quelle: GDACS
   - Zeit: ``
