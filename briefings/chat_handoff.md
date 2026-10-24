@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-24T08:39:58+00:00_
+_Generated: 2026-10-24T08:52:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `33`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-10-24T08:39:58+00:00_
 - url: https://cve.0xosprey.com/
 - summary: Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG
 
-### 6. M 4.9 - 209 km ENE of Nagqu, China
+### 6. M 4.5 - 81 km SSE of Akutan, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-10-24T00:29:30.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8
-- summary: Time 2026-10-24 00:07:56 UTC 2026-10-24 00:07:56 UTC at epicenter Location 32.527°N 93.900°E Depth 10.00 km (6.21 mi)
+- published: `2026-10-24T08:50:48.547+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ld
+- summary: ShakeMap - III DYFI? - III Time 2026-10-24 08:33:48 UTC 2026-10-24 08:33:48 UTC at epicenter Location 53.519°N 165.096°W Depth 35.00 km (21.75 mi)
 
 END OF DOCUMENT
