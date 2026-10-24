@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T12:01:06+00:00_
+_Generiert: 2026-10-24T12:27:50+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
+45 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overvie…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.7 - 72 km S of Basco, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-24T12:10:33.040+00:00`, fetched `2026-10-24T12:27:22+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-24 11:48:08 UTC 2026-10-24 11:48:08 UTC at epicenter Location 19.805°N 122.087°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AIサイバー対策緊急提言 | チームみらい** — Score 14, observation — [Quelle](https://team-mir.ai/lp/ai-cybersecurity/proposal.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
