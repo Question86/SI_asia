@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T22:55:10+00:00",
-  "run_id": "2026-10-24T22:55:10+00:00",
+  "generated_at": "2026-10-24T23:01:37+00:00",
+  "run_id": "2026-10-24T23:01:37+00:00",
   "date": "2026-10-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 60
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 1,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
     "medium": 4,
-    "observe": 55,
+    "observe": 56,
     "source_errors": 0
   },
   "sections": {
@@ -1688,6 +1688,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fb8ed737c615f25b01d6"
+      },
+      {
+        "title": "「ドパ資料」の作り方 - Qiita",
+        "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&utm_medium=facebook",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-24T03:18:03+00:00",
+        "fetched_at": "2026-10-24T23:01:08+00:00",
+        "summary": "この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。 👀 対象読者 技術記事を書いているけど、いまいち読まれ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2af750e687e6400132e5"
       },
       {
         "title": "社内SEがAIでやらかして職場が阿鼻叫喚の地獄絵図に陥った",
@@ -3498,6 +3519,27 @@
       "id": "fb8ed737c615f25b01d6"
     },
     {
+      "title": "「ドパ資料」の作り方 - Qiita",
+      "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&utm_medium=facebook",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-24T03:18:03+00:00",
+      "fetched_at": "2026-10-24T23:01:08+00:00",
+      "summary": "この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。 👀 対象読者 技術記事を書いているけど、いまいち読まれ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2af750e687e6400132e5"
+    },
+    {
       "title": "社内SEがAIでやらかして職場が阿鼻叫喚の地獄絵図に陥った",
       "url": "https://anond.hatelabo.jp/20261024120028",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3645,7 +3687,29 @@
       "id": "3175ce5ccf34fb2fb204"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "「ドパ資料」の作り方 - Qiita",
+      "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&utm_medium=facebook",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-24T03:18:03+00:00",
+      "fetched_at": "2026-10-24T23:01:08+00:00",
+      "summary": "この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。 👀 対象読者 技術記事を書いているけど、いまいち読まれ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2af750e687e6400132e5"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
