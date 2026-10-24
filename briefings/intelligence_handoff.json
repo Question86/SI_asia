@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-24T14:39:04Z",
+  "generated_at": "2026-10-24T14:51:09Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 1999” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T03:52:11+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-24T05:56:14+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security",
@@ -69,7 +69,7 @@
       "url": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T12:51:28+00:00",
-      "age_days": 1.07,
+      "age_days": 1.08,
       "topics": [
         "ai",
         "security"
@@ -96,7 +96,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T17:30:30+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 31.09,
+      "age_days": 31.1,
       "topics": [
         "ai"
       ],
@@ -133,12 +133,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.23,
+      "baseline_z_hint": 4.07,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.23",
+        "baseline z_hint 4.07",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -3.5 for 31.1d old signal",
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T12:10:33.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -228,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:48:28.673+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -253,7 +253,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:31:10.695+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -278,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:20:12+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -302,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:50:18+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
