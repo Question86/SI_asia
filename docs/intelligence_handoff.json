@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-24T13:13:49Z",
+  "generated_at": "2026-10-24T13:27:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 1999” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T03:52:11+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-24T05:56:14+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "security",
@@ -96,7 +96,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T17:30:30+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "security"
       ],
@@ -118,11 +118,67 @@
       "summary": "Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG"
     },
     {
+      "title": "Building agents: When to fold subagents into your main agent loop",
+      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-23T12:27:37+00:00",
+      "age_days": 31.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 7.73,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 7.73",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -3.5 for 31.0d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Building agents: When to fold subagents into your main agent loop",
+      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T04:26:57+00:00",
+      "age_days": 0.38,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Building agents: When to fold subagents into your main agent loop When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate. If you’ve built an agent in C..."
+    },
+    {
       "title": "M 4.7 - 72 km S of Basco, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T12:10:33.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -147,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:13:41.477+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -172,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:48:28.673+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -197,7 +253,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:31:10.695+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -222,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:20:12+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -246,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:50:18+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -262,56 +318,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.8 - 203 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-24T04:37:00+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.7 - 72 km S of Basco, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-29T21:26:18+00:00",
-      "age_days": 24.66,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -1.3 for 24.7d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
     }
@@ -325,8 +331,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
