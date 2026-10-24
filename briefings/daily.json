@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T08:52:20+00:00",
-  "today_file_total": 33,
+  "generated_at": "2026-10-24T08:59:56+00:00",
+  "today_file_total": 34,
   "current_clusters": [
     {
       "key": "github_repo:snailsploit/claude-red",
@@ -26,8 +26,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:alaska:4.5",
-      "title": "M 4.5 - 81 km SSE of Akutan, Alaska",
+      "key": "earthquake:m 5.3 - 223 km ene of nagqu, china:5.3",
+      "title": "M 5.3 - 223 km ENE of Nagqu, China",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -35,7 +35,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ld"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lg"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -144,6 +144,31 @@
       "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:alaska:4.5",
+      "title": "M 4.5 - 81 km SSE of Akutan, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ld"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
@@ -455,31 +480,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 4.9 - 186 km wnw of port-olry, vanuatu:4.9",
-      "title": "M 4.9 - 186 km WNW of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jr"
       ],
       "finding_count": 1,
       "max_score": 9,
