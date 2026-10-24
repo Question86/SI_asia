@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T00:50:31+00:00",
+  "generated_at": "2026-10-24T01:14:58+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -4288,6 +4288,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_fc0fbbd05de99daffc8e",
+      "title": "M 4.9 - 209 km ENE of Nagqu, China",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T00:50:11+00:00",
+      "last_seen_at": "2026-10-24T01:14:40+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_fe011795e005e9d829fe",
       "title": "M 4.5 - 96 km ENE of Alianza Cristiana, Peru",
       "event_classes": [
@@ -4303,23 +4320,6 @@
       "first_seen_at": "2026-09-29T10:50:43+00:00",
       "last_seen_at": "2026-09-29T19:18:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_fc0fbbd05de99daffc8e",
-      "title": "M 4.9 - 209 km ENE of Nagqu, China",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T00:50:11+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -11850,7 +11850,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-24T00:50:11+00:00",
+      "last_seen_at": "2026-10-24T01:14:40+00:00",
       "status": "active"
     },
     {
@@ -29860,6 +29860,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d942fecb4c08df95512f",
+      "title": "Usage metrics API adds usage from tools like OpenCode",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-24T00:50:11+00:00",
+      "last_seen_at": "2026-10-24T01:14:40+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_da26514f82ee43c39622",
       "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
       "event_classes": [
@@ -30727,8 +30744,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_d942fecb4c08df95512f",
-      "title": "Usage metrics API adds usage from tools like OpenCode",
+      "event_id": "evt_593ecdbd2b5a3730e0b3",
+      "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
       "event_classes": [
         "unknown"
       ],
@@ -30739,8 +30756,8 @@
       "p50_usd": 10800000.0,
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T00:50:11+00:00",
+      "first_seen_at": "2026-10-24T01:14:40+00:00",
+      "last_seen_at": "2026-10-24T01:14:40+00:00",
       "status": "active"
     },
     {
