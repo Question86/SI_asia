@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T15:49:53+00:00_
+_Generiert: 2026-10-24T15:58:15+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „Building agents: When to fold subagents into your main agent loop“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+51 neue relevante Treffer. Stärkstes Signal: „Building agents: When to fold subagents into your main agent loop“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 ## Priorität Hoch
 
