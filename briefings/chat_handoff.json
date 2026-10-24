@@ -100,5 +100,146 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “CVE Tracker — CVEs per month since 1999” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "CVE Tracker — CVEs per month since 1999",
+        "url": "https://cve.0xosprey.com/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-24T03:52:11+00:00",
+        "age_days": 0.56,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "security high-signal: cve"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "SnailSploit/Claude-Red",
+        "url": "https://github.com/SnailSploit/Claude-Red",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-10-24T05:56:14+00:00",
+        "age_days": 0.48,
+        "topics": [
+          "ai",
+          "security",
+          "macro"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills…"
+      },
+      {
+        "title": "AIサイバー対策緊急提言 | チームみらい",
+        "url": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T12:51:28+00:00",
+        "age_days": 1.19,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "情報漏洩の件数 漏洩件数はすでに昨年を上回る 485件 サイバー攻撃による情報漏洩の件数（2026.10.13時点） 参考：MM総研（2026年10月14日）国内サイバー攻撃による情報漏えい動向調査"
+      },
+      {
+        "title": "CVE Tracker — CVEs per month since 1999",
+        "url": "https://cve.0xosprey.com/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T17:30:30+00:00",
+        "age_days": 1.0,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 29.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 0-day, 10",
+          "security high-signal: 0-day, 10"
+        ],
+        "summary": "Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG"
+      },
+      {
+        "title": "Building agents: When to fold subagents into your main agent loop",
+        "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-23T12:27:37+00:00",
+        "age_days": 31.21,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 1.73,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 1.73",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -3.6 for 31.2d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
