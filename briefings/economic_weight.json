@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T02:50:29+00:00",
+  "generated_at": "2026-10-24T03:38:56+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -4301,7 +4301,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T02:50:11+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
       "status": "active"
     },
     {
@@ -8640,6 +8640,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d05e0ac044b18ecf38f2",
+      "title": "M 7.2 - 200 km W of Sola, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T02:50:11+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d420437f18d4bf6091f4",
       "title": "M 4.9 - 93 km ESE of Yigo Village, Guam",
       "event_classes": [
@@ -9199,6 +9216,23 @@
       "first_seen_at": "2026-09-06T03:24:46+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e5d2b10b2fdfe3ce63cc",
+      "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T02:50:11+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_e6fef3113214c14755f3",
@@ -9779,25 +9813,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_d05e0ac044b18ecf38f2",
-      "title": "M 7.2 - 200 km W of Sola, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-24T02:50:11+00:00",
-      "last_seen_at": "2026-10-24T02:50:11+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_e5d2b10b2fdfe3ce63cc",
-      "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
+      "event_id": "evt_5e17d9b9aca2b4aeb2e4",
+      "title": "M 5.2 - 202 km NW of Port-Olry, Vanuatu",
       "event_classes": [
         "natural_disaster"
       ],
@@ -9808,8 +9825,25 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-10-24T02:50:11+00:00",
-      "last_seen_at": "2026-10-24T02:50:11+00:00",
+      "first_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_d6f0e766ad4dec7aaae9",
+      "title": "M 5.1 - 170 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
       "status": "active"
     },
     {
@@ -11884,7 +11918,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-24T02:50:11+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
       "status": "active"
     },
     {
@@ -20776,7 +20810,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T01:55:58+00:00",
-      "last_seen_at": "2026-10-24T02:50:11+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
       "status": "active"
     },
     {
@@ -27782,7 +27816,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T01:14:40+00:00",
-      "last_seen_at": "2026-10-24T02:50:11+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
       "status": "active"
     },
     {
@@ -29941,7 +29975,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T02:50:11+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
       "status": "active"
     },
     {
@@ -30247,7 +30281,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T02:31:18+00:00",
-      "last_seen_at": "2026-10-24T02:50:11+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
       "status": "active"
     },
     {
@@ -30827,6 +30861,23 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8105a074aa675cd6e0f4",
+      "title": "スイッチングハブは使いこなしの宝庫。AV向けのハブ選びやポートの使い方【吉田伊織のA&V奥の細道】",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
