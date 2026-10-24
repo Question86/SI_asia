@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T03:38:33+00:00_
+_Generiert: 2026-10-24T03:52:09+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 209 km ENE of Nagqu, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+12 neue relevante Treffer. Stärkstes Signal: „CVE Tracker — CVEs per month since 1999“ aus Hatena Bookmark Hotentry IT (Score 12, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,6 +73,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **CVE Tracker — CVEs per month since 1999** — Score 12, risk — [Quelle](https://cve.0xosprey.com/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-23T17:30:30+00:00`, fetched `2026-10-24T03:51:41+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 209 km ENE of Nagqu, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-24T00:29:30.040+00:00`, fetched `2026-10-24T00:49:38+00:00`
@@ -135,15 +144,6 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【佐川急便】｜お知らせ** — Score 5, observation — [Quelle](https://www2.sagawa-exp.co.jp/information/detail/430/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-23T07:41:02+00:00`, fetched `2026-10-24T02:30:46+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 重要なお知らせ お知らせ一覧に戻る ホーム お知らせ
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
