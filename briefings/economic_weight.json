@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T08:40:23+00:00",
+  "generated_at": "2026-10-24T08:52:42+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2091,7 +2091,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:37:00+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -2533,7 +2533,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T05:50:18+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -4046,8 +4046,8 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T07:30:36+00:00",
-      "last_seen_at": "2026-09-01T23:56:16+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_c48f7f2309178bd9f5bf",
@@ -4335,7 +4335,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -5219,7 +5219,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T07:02:11+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -5865,7 +5865,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -6120,7 +6120,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T05:12:58+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -6257,7 +6257,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T03:38:37+00:00",
       "last_seen_at": "2026-10-24T08:40:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5e9435346f4d1ebff3f5",
@@ -6683,6 +6683,23 @@
       "first_seen_at": "2026-10-02T11:35:14+00:00",
       "last_seen_at": "2026-10-02T15:22:26+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_70bf13c6e0a48b9c83ca",
+      "title": "M 5.1 - 218 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_71ac5271a48927f2471c",
@@ -7225,7 +7242,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T06:16:09+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -7344,7 +7361,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T05:39:57+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -8007,7 +8024,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T05:12:58+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -8347,7 +8364,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:49:40+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -8602,7 +8619,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T06:16:09+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -8840,7 +8857,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T07:22:37+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -9435,7 +9452,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T06:45:20+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -9877,7 +9894,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -10066,23 +10083,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_70bf13c6e0a48b9c83ca",
-      "title": "M 5.1 - 218 km NW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-24T08:40:01+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -12156,7 +12156,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -14468,7 +14468,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T05:56:52+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
@@ -15492,6 +15492,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7814fb6093c952951b31",
+      "title": "AIサイバー対策緊急提言 | チームみらい",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_7b1d452be927fe300f4c",
       "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
       "event_classes": [
@@ -15779,23 +15796,6 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_7814fb6093c952951b31",
-      "title": "AIサイバー対策緊急提言 | チームみらい",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-24T08:40:01+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -16848,7 +16848,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T03:52:11+00:00",
-      "last_seen_at": "2026-10-24T08:40:01+00:00",
+      "last_seen_at": "2026-10-24T08:52:20+00:00",
       "status": "active"
     },
     {
