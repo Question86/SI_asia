@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T06:45:50+00:00",
+  "generated_at": "2026-10-24T07:02:36+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -3334,6 +3334,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2a09200a8f2183bcb766",
+      "title": "M 5.5 - 55 km NNE of Port-Olry, Vanuatu",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_2a0ec94da72441f40272",
@@ -11286,7 +11297,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_89e5139bb5ba0529e7cb",
@@ -18606,12 +18617,12 @@
     {
       "event_id": "evt_e556ec18c7c846e7c867",
       "title": "M 5.3 - 174 km NW of Port-Olry, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
