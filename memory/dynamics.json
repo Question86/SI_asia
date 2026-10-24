@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-24T02:26:45Z",
+  "generated_at": "2026-10-24T02:46:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 10,
+    "dynamics": 12,
     "bands": {
-      "watch": 5,
-      "quiet": 5
+      "watch": 6,
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
-      "watch": 5,
-      "quiet": 5
+      "watch": 6,
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -20,7 +20,7 @@
       "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-24T00:50:11+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -45,7 +45,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T00:29:30.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -70,7 +70,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T00:50:11+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -90,11 +90,35 @@
       "summary": ""
     },
     {
+      "title": "Public monitoring adds triage, validity, API, and webhooks",
+      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-24T01:55:58+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？",
       "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T13:15:06+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -114,18 +138,42 @@
       "summary": "2026年10月、世界中のウェブサイトの約70％で使われるプログラミング言語の「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかったことが明らかにされました。この対応に陰から尽力した開発者に、海外メディアThe Atlanticのチャーリー・ワーゼル記者がインタビューを行いました。 The Man Who Saved the Internet Yesterday..."
     },
     {
-      "title": "Public monitoring adds triage, validity, API, and webhooks",
-      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-10-24T01:55:58+00:00",
-      "age_days": 0.02,
+      "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
+      "url": "https://www.gamespark.jp/article/2026/10/23/174015.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T01:14:40+00:00",
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.0,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "【佐川急便】｜お知らせ",
+      "url": "https://www2.sagawa-exp.co.jp/information/detail/430/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T02:31:18+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 1,
@@ -138,35 +186,11 @@
       "summary": ""
     },
     {
-      "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
-      "url": "https://www.gamespark.jp/article/2026/10/23/174015.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-24T01:14:40+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？",
       "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 127.02,
+      "age_days": 127.03,
       "topics": [
         "general"
       ],
@@ -191,7 +215,7 @@
       "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-23T23:42:03+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -215,7 +239,7 @@
       "url": "https://www.gamespark.jp/article/2026/10/23/174015.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T15:52:59+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -239,7 +263,7 @@
       "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-23T17:17:58+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -259,6 +283,31 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Public monitoring now includes alert management capabilities like automatic validity checks to help you triage and remediate leaked secrets at scale. Alert management with dismissals, timelines, and filtering Always-on validity… The post Public monitoring adds triage, validity, API, and webhooks appeared first on The…"
+    },
+    {
+      "title": "【佐川急便】｜お知らせ",
+      "url": "https://www2.sagawa-exp.co.jp/information/detail/430/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-23T07:41:02+00:00",
+      "age_days": 0.8,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "重要なお知らせ お知らせ一覧に戻る ホーム お知らせ"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools like OpenCode” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0."
