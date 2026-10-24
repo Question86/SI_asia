@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-24T05:50:14+00:00",
-  "run_id": "2026-10-24T05:50:14+00:00",
+  "generated_at": "2026-10-24T05:56:49+00:00",
+  "run_id": "2026-10-24T05:56:49+00:00",
   "date": "2026-10-24",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,41 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 2,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
-    "medium": 0,
-    "observe": 21,
-    "source_errors": 0
+    "medium": 1,
+    "observe": 22,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "SnailSploit/Claude-Red",
+        "url": "https://github.com/SnailSploit/Claude-Red",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-10-24T05:56:14+00:00",
+        "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overvie…",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6be499a779e522230653"
+      }
+    ],
     "observe": [
       {
         "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
@@ -568,6 +592,27 @@
         "id": "20ab5258b4bf9717828f"
       },
       {
+        "title": "Renhuai123/ziwei-doushu",
+        "url": "https://github.com/Renhuai123/ziwei-doushu",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-10-24T05:56:14+00:00",
+        "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 https://metisziwei.com/?from=gh-about 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念 ：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信： 算法是公开的传统智慧，不应该被锁在围墙里 。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息 ：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据： v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877 万段解读，正文约 204 亿字，解压后…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region japan: METI (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9eb6cff1bb0087cb3adb"
+      },
+      {
         "title": "【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社",
         "url": "https://group.gmo/info/alert/20261024/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -675,6 +720,29 @@
     ]
   },
   "findings": [
+    {
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-10-24T05:56:14+00:00",
+      "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overvie…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6be499a779e522230653"
+    },
     {
       "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
@@ -1213,6 +1281,27 @@
       "id": "20ab5258b4bf9717828f"
     },
     {
+      "title": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-10-24T05:56:14+00:00",
+      "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 https://metisziwei.com/?from=gh-about 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念 ：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信： 算法是公开的传统智慧，不应该被锁在围墙里 。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息 ：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据： v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877 万段解读，正文约 204 亿字，解压后…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region japan: METI (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9eb6cff1bb0087cb3adb"
+    },
+    {
       "title": "【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社",
       "url": "https://group.gmo/info/alert/20261024/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1320,45 +1409,58 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-10-24T05:48:28.673+00:00",
-      "fetched_at": "2026-10-24T05:49:43+00:00",
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-24 05:23:40 UTC 2026-10-24 05:23:40 UTC at epicenter Location 14.083°S 165.698°E Depth 10.00 km (6.21 mi)",
+      "published_at": null,
+      "fetched_at": "2026-10-24T05:56:14+00:00",
+      "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills for Claude — drop-in SKILL.md files that turn Claude into a context-aware red team operator. Overvie…",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Security"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 16,
+      "relevance_reason": "AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6be499a779e522230653"
+    },
+    {
+      "title": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-10-24T05:56:14+00:00",
+      "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 https://metisziwei.com/?from=gh-about 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 中文 · English 一、项目理念 ：紫微斗数是中国传统命理学的瑰宝，倪海厦老师在《天纪》中系统梳理了正宗的紫微斗数体系。我们希望通过技术手段让更多人接触和学习这门学问。 开源排盘算法和知识库，是因为我们相信： 算法是公开的传统智慧，不应该被锁在围墙里 。真正的价值在于解读的深度、用户体验的打磨、以及持续运营的积累。 二、项目信息 ：基于 倪海厦《天纪》 教学体系的紫微斗数排盘系统，包含完整排盘算法、四化系统、格局知识库、古籍原文数据，以及一套完整开源的紫微斗数解读数据： v4.0 解读数据集——67.5 万张命盘 × 13 维 = 877 万段解读，正文约 204 亿字，解压后…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
       ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "6131cd3bc2f982b7b675"
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region japan: METI (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9eb6cff1bb0087cb3adb"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fbd0c7b82d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
