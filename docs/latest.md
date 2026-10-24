@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T04:58:21+00:00_
+_Generiert: 2026-10-24T05:12:53+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „M 5.8 - 203 km NW of Port-Olry, Vanuatu“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
+19 neue relevante Treffer. Stärkstes Signal: „M 5.8 - 203 km NW of Port-Olry, Vanuatu“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
 
 ## Priorität Hoch
 
@@ -52,14 +52,14 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Public Health (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年10月、世界中のウェブサイトの約70％で使われるプログラミング言語の「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかったことが明らかにされました。この対応に陰から尽力した開発者に、海外メディアThe Atlanticのチャーリー・ワーゼル記者がインタビューを行いました。 The Man Who Saved the Internet Yesterday...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - 216 km W of Sola, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy)
+- **M 5.1 - 217 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-24T04:39:04.040+00:00`, fetched `2026-10-24T04:49:04+00:00`
+  - Zeit: published `2026-10-24T05:06:18.040+00:00`, fetched `2026-10-24T05:12:20+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-24 04:19:38 UTC 2026-10-24 04:19:38 UTC at epicenter Location 13.733°S 165.551°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-24 04:49:21 UTC 2026-10-24 04:49:21 UTC at epicenter Location 13.852°S 165.467°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Public monitoring adds triage, validity, API, and webhooks** — Score 9, risk — [Quelle](https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks)
   - Quelle: GitHub Changelog Atom / `rss`
