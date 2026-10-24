@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T22:17:11+00:00",
-  "run_id": "2026-10-24T22:17:11+00:00",
+  "generated_at": "2026-10-24T22:29:23+00:00",
+  "run_id": "2026-10-24T22:29:23+00:00",
   "date": "2026-10-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 58
+      "configured_public_sources_only": 59
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 1,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
     "medium": 4,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -1604,6 +1604,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9eb6cff1bb0087cb3adb"
+      },
+      {
+        "title": "新人と昔のノートPCの話になって「昔はノートPCも白黒液晶だった」と言ったら「写真見るの困りませんか？」と言われた、当時は画像を出すだけでも一苦労したんだ…",
+        "url": "https://togetter.com/li/2762365",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-24T13:21:33+00:00",
+        "fetched_at": "2026-10-24T22:28:56+00:00",
+        "summary": "X68PRO-HD @CZ662C 今日新人と昔のノートPCの話になって、 「昔はノートPCも白黒液晶だったんだよ。」 って言ったら、 「え？それじゃあ写真を見るのも困りませんか？」 と言われたけれど、もっと古いパソコンは文字だけの表示の物もあったとか、LEDとスイッチだけでプログラムした時代もあったとかは言わないでおいた。...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c4974d70f9e4030c7f37"
       },
       {
         "title": "ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」",
@@ -3393,6 +3414,27 @@
       "id": "9eb6cff1bb0087cb3adb"
     },
     {
+      "title": "新人と昔のノートPCの話になって「昔はノートPCも白黒液晶だった」と言ったら「写真見るの困りませんか？」と言われた、当時は画像を出すだけでも一苦労したんだ…",
+      "url": "https://togetter.com/li/2762365",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-24T13:21:33+00:00",
+      "fetched_at": "2026-10-24T22:28:56+00:00",
+      "summary": "X68PRO-HD @CZ662C 今日新人と昔のノートPCの話になって、 「昔はノートPCも白黒液晶だったんだよ。」 って言ったら、 「え？それじゃあ写真を見るのも困りませんか？」 と言われたけれど、もっと古いパソコンは文字だけの表示の物もあったとか、LEDとスイッチだけでプログラムした時代もあったとかは言わないでおいた。...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c4974d70f9e4030c7f37"
+    },
+    {
       "title": "ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」",
       "url": "https://www.yomiuri.co.jp/politics/20261024-GYT1T00257/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3603,7 +3645,29 @@
       "id": "3175ce5ccf34fb2fb204"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "新人と昔のノートPCの話になって「昔はノートPCも白黒液晶だった」と言ったら「写真見るの困りませんか？」と言われた、当時は画像を出すだけでも一苦労したんだ…",
+      "url": "https://togetter.com/li/2762365",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-24T13:21:33+00:00",
+      "fetched_at": "2026-10-24T22:28:56+00:00",
+      "summary": "X68PRO-HD @CZ662C 今日新人と昔のノートPCの話になって、 「昔はノートPCも白黒液晶だったんだよ。」 って言ったら、 「え？それじゃあ写真を見るのも困りませんか？」 と言われたけれど、もっと古いパソコンは文字だけの表示の物もあったとか、LEDとスイッチだけでプログラムした時代もあったとかは言わないでおいた。...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c4974d70f9e4030c7f37"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
