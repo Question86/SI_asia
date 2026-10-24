@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T09:33:19+00:00",
+  "generated_at": "2026-10-24T10:01:25+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -4075,12 +4075,12 @@
     {
       "event_id": "evt_320bf19194e9e01eabbb",
       "title": "M 4.7 - 187 km NW of Port-Olry, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -8508,12 +8508,12 @@
     {
       "event_id": "evt_67f319e2b845722a0c10",
       "title": "M 5.0 - 219 km WNW of Port-Olry, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -11110,7 +11110,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8732ce6f235665a48811",
@@ -20472,6 +20472,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_fbd810992e4378f535d3",
+      "title": "M 4.9 - 169 km NW of Port-Olry, Vanuatu",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_fbea6757e3c8f3deaca8",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T09:33:13+00:00",
+  "generated_at": "2026-10-24T10:01:18+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2091,7 +2091,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:37:00+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -2533,7 +2533,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T05:50:18+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -2771,7 +2771,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T09:20:12+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -3009,7 +3009,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T08:59:56+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -4080,7 +4080,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T07:30:36+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -4369,7 +4369,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -5236,7 +5236,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T09:20:12+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -5270,7 +5270,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T07:02:11+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -5459,6 +5459,23 @@
       "first_seen_at": "2026-09-11T02:45:45+00:00",
       "last_seen_at": "2026-09-11T16:57:20+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_320bf19194e9e01eabbb",
+      "title": "M 4.7 - 187 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_33b61a4e72fbc1c6c051",
@@ -6481,6 +6498,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_67f319e2b845722a0c10",
+      "title": "M 5.0 - 219 km WNW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_68027456a6011be90089",
       "title": "M 5.2 - Balleny Islands region",
       "event_classes": [
@@ -6749,7 +6783,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T08:40:01+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -7294,7 +7328,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T06:16:09+00:00",
       "last_seen_at": "2026-10-24T09:32:55+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_878c36578d3bab2c9d3e",
@@ -8517,7 +8551,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T09:20:12+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -8925,7 +8959,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T07:22:37+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -9520,7 +9554,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T06:45:20+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -10153,8 +10187,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_320bf19194e9e01eabbb",
-      "title": "M 4.7 - 187 km NW of Port-Olry, Vanuatu",
+      "event_id": "evt_fbd810992e4378f535d3",
+      "title": "M 4.9 - 169 km NW of Port-Olry, Vanuatu",
       "event_classes": [
         "natural_disaster"
       ],
@@ -10165,25 +10199,8 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-10-24T09:32:55+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_67f319e2b845722a0c10",
-      "title": "M 5.0 - 219 km WNW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-24T09:32:55+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "first_seen_at": "2026-10-24T10:00:58+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -12258,7 +12275,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -14570,7 +14587,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T05:56:52+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -15607,7 +15624,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T08:40:01+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -16950,7 +16967,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T03:52:11+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
@@ -18736,7 +18753,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-10-24T09:32:55+00:00",
+      "last_seen_at": "2026-10-24T10:00:58+00:00",
       "status": "active"
     },
     {
