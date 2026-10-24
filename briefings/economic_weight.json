@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T03:38:56+00:00",
+  "generated_at": "2026-10-24T03:52:30+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -4301,7 +4301,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
       "status": "active"
     },
     {
@@ -6156,6 +6156,23 @@
       "first_seen_at": "2026-09-13T20:06:27+00:00",
       "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_5e17d9b9aca2b4aeb2e4",
+      "title": "M 5.2 - 202 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_5e9435346f4d1ebff3f5",
@@ -8653,7 +8670,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T02:50:11+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
       "status": "active"
     },
     {
@@ -8723,6 +8740,23 @@
       "first_seen_at": "2026-10-10T09:10:23+00:00",
       "last_seen_at": "2026-10-10T23:54:03+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d6f0e766ad4dec7aaae9",
+      "title": "M 5.1 - 170 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_d7258f67b47576cb5e16",
@@ -9231,7 +9265,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T02:50:11+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
       "status": "active"
     },
     {
@@ -9811,40 +9845,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_5e17d9b9aca2b4aeb2e4",
-      "title": "M 5.2 - 202 km NW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-24T03:38:37+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_d6f0e766ad4dec7aaae9",
-      "title": "M 5.1 - 170 km NW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-24T03:38:37+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -11918,7 +11918,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
       "status": "active"
     },
     {
@@ -17278,6 +17278,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_74380bd652e2fee7ed53",
+      "title": "CVE Tracker — CVEs per month since 1999",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-24T03:52:11+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_017a730364c807861d1b",
       "title": "Gemini 4 Argon in GitHub Copilot",
       "event_classes": [
@@ -20810,7 +20827,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T01:55:58+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
       "status": "active"
     },
     {
@@ -27816,7 +27833,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T01:14:40+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
       "status": "active"
     },
     {
@@ -28532,6 +28549,23 @@
       "first_seen_at": "2026-08-30T10:02:00+00:00",
       "last_seen_at": "2026-09-27T21:28:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8105a074aa675cd6e0f4",
+      "title": "スイッチングハブは使いこなしの宝庫。AV向けのハブ選びやポートの使い方【吉田伊織のA&V奥の細道】",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_84ee9f69d9774310c677",
@@ -29975,7 +30009,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
       "status": "active"
     },
     {
@@ -30281,7 +30315,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T02:31:18+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
+      "last_seen_at": "2026-10-24T03:52:11+00:00",
       "status": "active"
     },
     {
@@ -30861,23 +30895,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_8105a074aa675cd6e0f4",
-      "title": "スイッチングハブは使いこなしの宝庫。AV向けのハブ選びやポートの使い方【吉田伊織のA&V奥の細道】",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-24T03:38:37+00:00",
-      "last_seen_at": "2026-10-24T03:38:37+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
