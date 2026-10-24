@@ -1,26 +1,81 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-24T03:44:42Z",
+  "generated_at": "2026-10-24T03:54:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 22,
+    "dynamics": 24,
     "bands": {
-      "watch": 12,
-      "quiet": 10
+      "krass": 1,
+      "strong": 1,
+      "watch": 13,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "watch": 12,
-      "quiet": 10
+      "strong": 2,
+      "watch": 13,
+      "quiet": 9
     }
   },
   "top_dynamics": [
+    {
+      "title": "CVE Tracker — CVEs per month since 1999",
+      "url": "https://cve.0xosprey.com/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-23T17:30:30+00:00",
+      "age_days": 0.43,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 0-day, 10",
+        "security high-signal: 0-day, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG"
+    },
+    {
+      "title": "CVE Tracker — CVEs per month since 1999",
+      "url": "https://cve.0xosprey.com/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T03:52:11+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "security high-signal: cve",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
     {
       "title": "Usage metrics API adds usage from tools like OpenCode",
       "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-24T00:50:11+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -70,7 +125,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T00:50:11+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -118,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T03:37:39.040+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "disaster"
       ],
@@ -143,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T03:25:12.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -168,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T02:46:04.333+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -193,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T02:45:49.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -218,7 +273,7 @@
       "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T13:15:06+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -238,11 +293,83 @@
       "summary": "2026年10月、世界中のウェブサイトの約70％で使われるプログラミング言語の「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかったことが明らかにされました。この対応に陰から尽力した開発者に、海外メディアThe Atlanticのチャーリー・ワーゼル記者がインタビューを行いました。 The Man Who Saved the Internet Yesterday..."
     },
     {
+      "title": "M 7.2 - 200 km W of Sola, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T02:50:11+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T02:50:11+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト",
       "url": "https://www.gamespark.jp/article/2026/10/23/174015.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T01:14:40+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "【佐川急便】｜お知らせ",
+      "url": "https://www2.sagawa-exp.co.jp/information/detail/430/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T02:31:18+00:00",
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -266,14 +393,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T03:38:37+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 1,
@@ -290,31 +417,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T03:38:37+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "スイッチングハブは使いこなしの宝庫。AV向けのハブ選びやポートの使い方【吉田伊織のA&V奥の細道】",
-      "url": "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-24T03:38:37+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
@@ -330,78 +433,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 7.2 - 200 km W of Sola, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-24T02:50:11+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-24T02:50:11+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "【佐川急便】｜お知らせ",
-      "url": "https://www2.sagawa-exp.co.jp/information/detail/430/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-24T02:31:18+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -410,7 +441,7 @@
       "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 127.07,
+      "age_days": 127.08,
       "topics": [
         "general"
       ],
@@ -435,7 +466,7 @@
       "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-23T23:42:03+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -459,7 +490,7 @@
       "url": "https://www.gamespark.jp/article/2026/10/23/174015.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T15:52:59+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -477,6 +508,30 @@
         "high terms: 10"
       ],
       "summary": "スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト"
+    },
+    {
+      "title": "スイッチングハブは使いこなしの宝庫。AV向けのハブ選びやポートの使い方【吉田伊織のA&V奥の細道】",
+      "url": "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T03:38:37+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
     },
     {
       "title": "Public monitoring adds triage, validity, API, and webhooks",
@@ -554,5 +609,5 @@
       "summary": "重要なお知らせ お知らせ一覧に戻る ホーム お知らせ"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools like OpenCode” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 1999” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
