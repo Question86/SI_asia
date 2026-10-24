@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-24T04:00:15+00:00",
+  "generated_at": "2026-10-24T04:22:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 3,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 0,
-    "observe": 12
+    "observe": 15
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "observe"
     },
     {
-      "title": "M 5.2 - 202 km NW of Port-Olry, Vanuatu",
+      "title": "M 5.7 - 205 km NW of Port-Olry, Vanuatu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-24T03:37:39.040+00:00",
+      "published_at": "2026-10-24T04:19:06.040+00:00",
       "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl",
-      "summary": "Time 2026-10-24 03:17:55 UTC 2026-10-24 03:17:55 UTC at epicenter Location 13.881°S 165.616°E Depth 10.00 km (6.21 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju",
+      "summary": "Time 2026-10-24 04:05:36 UTC 2026-10-24 04:05:36 UTC at epicenter Location 13.908°S 165.563°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
@@ -60,138 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CVE Tracker — CVEs per month since 1999” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.5.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CVE Tracker — CVEs per month since 1999",
-        "url": "https://cve.0xosprey.com/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-24T03:52:11+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.5,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "security high-signal: cve"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "CVE Tracker — CVEs per month since 1999",
-        "url": "https://cve.0xosprey.com/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-23T17:30:30+00:00",
-        "age_days": 0.45,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 0-day, 10",
-          "security high-signal: 0-day, 10"
-        ],
-        "summary": "Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG"
-      },
-      {
-        "title": "Usage metrics API adds usage from tools like OpenCode",
-        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-24T00:50:11+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: code"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.9 - 209 km ENE of Nagqu, China",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-24T00:29:30.040+00:00",
-        "age_days": 0.16,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-24 00:07:56 UTC 2026-10-24 00:07:56 UTC at epicenter Location 32.527°N 93.900°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.9 - 209 km ENE of Nagqu, China",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-24T00:50:11+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 18.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

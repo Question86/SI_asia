@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T04:00:15+00:00_
+_Generiert: 2026-10-24T04:22:20+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „CVE Tracker — CVEs per month since 1999“ aus Hatena Bookmark Hotentry IT (Score 12, risk).
+15 neue relevante Treffer. Stärkstes Signal: „CVE Tracker — CVEs per month since 1999“ aus Hatena Bookmark Hotentry IT (Score 12, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,6 +53,10 @@ _Generiert: 2026-10-24T04:00:15+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).
+- **USGS earthquake M5.7 - 205 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju)
+  - Quelle: USGS
+  - Zeit: `2026-10-24T04:05:36+00:00`
+  - Kurz: M5.7 - 205 km NW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -100,23 +104,23 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Public Health (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年10月、世界中のウェブサイトの約70％で使われるプログラミング言語の「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかったことが明らかにされました。この対応に陰から尽力した開発者に、海外メディアThe Atlanticのチャーリー・ワーゼル記者がインタビューを行いました。 The Man Who Saved the Internet Yesterday...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - 202 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl)
+- **M 5.7 - 205 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-24T03:37:39.040+00:00`, fetched `2026-10-24T03:38:02+00:00`
+  - Zeit: published `2026-10-24T04:19:06.040+00:00`, fetched `2026-10-24T04:21:48+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-24 03:17:55 UTC 2026-10-24 03:17:55 UTC at epicenter Location 13.881°S 165.616°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-24 04:05:36 UTC 2026-10-24 04:05:36 UTC at epicenter Location 13.908°S 165.563°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 170 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji)
+- **M 4.9 - 186 km WNW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jr)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-24T03:25:12.040+00:00`, fetched `2026-10-24T03:38:02+00:00`
+  - Zeit: published `2026-10-24T04:07:17.040+00:00`, fetched `2026-10-24T04:21:48+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-24 03:08:45 UTC 2026-10-24 03:08:45 UTC at epicenter Location 14.121°S 165.805°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-24 03:51:35 UTC 2026-10-24 03:51:35 UTC at epicenter Location 14.122°S 165.625°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Public monitoring adds triage, validity, API, and webhooks** — Score 9, risk — [Quelle](https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -127,6 +131,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI Agents (+6.2); GitHub (+2.0); recent (+1.0)
   - Kurz: Public monitoring now includes alert management capabilities like automatic validity checks to help you triage and remediate leaked secrets at scale. Alert management with dismissals, timelines, and filtering Always-on validity… The post Public monitoring adds triage, validity, API, and webhooks appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社** — Score 5, observation — [Quelle](https://group.gmo/info/alert/20261024/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-24T03:11:09+00:00`, fetched `2026-10-24T04:21:48+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年10月24日 お知らせ【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） お客様へのお見舞金のお支払いと不正取引による損失の補償について 〜能動的サイバー防御に関する措置の実施に向け、政府関係機関へ要請開始〜 GMOインターネットグループ株式会社 GMOインターネット株式...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Usage metrics API adds usage from tools like OpenCode** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-23T23:42:03+00:00`, fetched `2026-10-24T00:49:38+00:00`
@@ -135,15 +148,6 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.0); Copilot (+2.0); recent (+1.0)
   - Kurz: The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.… The post Usage metrics API adds usage from tools like OpenCode appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト** — Score 5, observation — [Quelle](https://www.gamespark.jp/article/2026/10/23/174015.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-23T15:52:59+00:00`, fetched `2026-10-24T01:14:08+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
