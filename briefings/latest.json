@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T03:52:09+00:00",
-  "run_id": "2026-10-24T03:52:09+00:00",
+  "generated_at": "2026-10-24T04:00:15+00:00",
+  "run_id": "2026-10-24T04:00:15+00:00",
   "date": "2026-10-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 12,
     "displayed_findings": 12,
     "high": 0,
@@ -692,30 +692,7 @@
       "id": "3175ce5ccf34fb2fb204"
     }
   ],
-  "new_findings": [
-    {
-      "title": "CVE Tracker — CVEs per month since 1999",
-      "url": "https://cve.0xosprey.com/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-23T17:30:30+00:00",
-      "fetched_at": "2026-10-24T03:51:41+00:00",
-      "summary": "Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7757209d691e08f7e181"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
