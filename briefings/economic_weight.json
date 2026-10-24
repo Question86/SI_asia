@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T05:40:19+00:00",
+  "generated_at": "2026-10-24T05:50:36+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2091,7 +2091,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:37:00+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -2756,6 +2756,23 @@
       "first_seen_at": "2026-10-13T13:03:04+00:00",
       "last_seen_at": "2026-10-13T23:58:13+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_af4d1231568ed89b186c",
+      "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T05:50:18+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -4318,7 +4335,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -5831,7 +5848,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -6086,7 +6103,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T05:12:58+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -6222,7 +6239,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T03:38:37+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -7280,6 +7297,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8a3bfc16cf3310d0257c",
+      "title": "M 4.8 - 219 km WNW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_8a934b7e9af1fcd98774",
       "title": "M 5.0 - south of Panama",
       "event_classes": [
@@ -7939,7 +7973,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T05:12:58+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -8279,7 +8313,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:49:40+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -8755,7 +8789,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T02:50:11+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -8840,7 +8874,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T03:38:37+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -9350,7 +9384,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T02:50:11+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -9758,7 +9792,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -9947,23 +9981,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_8a3bfc16cf3310d0257c",
-      "title": "M 4.8 - 219 km WNW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-24T05:39:57+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -12037,7 +12054,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -16695,7 +16712,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T03:52:11+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -20946,7 +20963,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T01:55:58+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -27476,7 +27493,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -27969,7 +27986,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T01:14:40+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -28701,7 +28718,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T03:38:37+00:00",
       "last_seen_at": "2026-10-24T05:39:57+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_84ee9f69d9774310c677",
@@ -30145,7 +30162,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
@@ -30451,7 +30468,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T02:31:18+00:00",
-      "last_seen_at": "2026-10-24T05:39:57+00:00",
+      "last_seen_at": "2026-10-24T05:50:18+00:00",
       "status": "active"
     },
     {
