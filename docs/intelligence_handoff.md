@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-24T22:51:15Z_
+_Generated: 2026-10-24T23:12:00Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “「HTTP2Shell」CVE-2026-111497、Node.j
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.5`
-- Published: `2026-10-22T09:28:48+00:00` / age_days `2.56`
+- Published: `2026-10-22T09:28:48+00:00` / age_days `2.57`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cve
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “「HTTP2Shell」CVE-2026-111497、Node.j
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-24T03:52:11+00:00` / age_days `0.79`
+- Published: `2026-10-24T03:52:11+00:00` / age_days `0.81`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, security high-signal: cve, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “「HTTP2Shell」CVE-2026-111497、Node.j
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-24T05:56:14+00:00` / age_days `0.7`
+- Published: `2026-10-24T05:56:14+00:00` / age_days `0.72`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “「HTTP2Shell」CVE-2026-111497、Node.j
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-23T12:51:28+00:00` / age_days `1.42`
+- Published: `2026-10-23T12:51:28+00:00` / age_days `1.43`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “「HTTP2Shell」CVE-2026-111497、Node.j
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-24T12:12:42+00:00` / age_days `0.44`
+- Published: `2026-10-24T12:12:42+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “「HTTP2Shell」CVE-2026-111497、Node.j
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-23T17:30:30+00:00` / age_days `1.22`
+- Published: `2026-10-23T17:30:30+00:00` / age_days `1.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 0-day, 10, security high-signal: 0-day, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “「HTTP2Shell」CVE-2026-111497、Node.j
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-23T12:27:37+00:00` / age_days `31.43`
+- Published: `2026-09-23T12:27:37+00:00` / age_days `31.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -3.7 for 31.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “「HTTP2Shell」CVE-2026-111497、Node.j
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-24T04:26:57+00:00` / age_days `0.77`
+- Published: `2026-10-24T04:26:57+00:00` / age_days `0.78`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -92,17 +92,27 @@ Stärkste Dynamik nach Gate-Recheck: “「HTTP2Shell」CVE-2026-111497、Node.j
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-24T12:10:33.040+00:00` / age_days `0.44`
+- Published: `2026-10-24T12:10:33.040+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.8
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9
 
+### 「ドパ資料」の作り方 - Qiita
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `22.0`
+- Published: `2026-10-24T03:18:03+00:00` / age_days `0.83`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce
+- Quelle: https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&utm_medium=facebook
+
 ### 人間が時間を使うべきところはどこか
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-10-24T21:58:37+00:00` / age_days `0.04`
+- Published: `2026-10-24T21:58:37+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI cap enforced after phrase recheck
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “「HTTP2Shell」CVE-2026-111497、Node.j
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.5`
-- Published: `2026-10-24T20:58:28+00:00` / age_days `0.08`
+- Published: `2026-10-24T20:58:28+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pa
-
-### JSがこんなに減る！ HTML・CSS最新技術2026
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `21.0`
-- Published: `2026-10-24T15:18:41+00:00` / age_days `0.31`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://ics-ikeda.github.io/261024_vuefes_2026/
 
 END OF DOCUMENT
