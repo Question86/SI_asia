@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-24T03:19:19Z_
+_Generated: 2026-10-24T03:44:42Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-24T00:50:11+00:00` / age_days `0.1`
+- Published: `2026-10-24T00:50:11+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-24T00:29:30.040+00:00` / age_days `0.12`
+- Published: `2026-10-24T00:29:30.040+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-10-24T00:50:11+00:00` / age_days `0.1`
+- Published: `2026-10-24T00:50:11+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,17 +42,37 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-10-24T01:55:58+00:00` / age_days `0.06`
+- Published: `2026-10-24T01:55:58+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks
 
+### M 5.2 - 202 km NW of Port-Olry, Vanuatu
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-24T03:37:39.040+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl
+
+### M 5.1 - 170 km NW of Port-Olry, Vanuatu
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-24T03:25:12.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji
+
 ### M 7.2 - 200 km W of Sola, Vanuatu
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-24T02:46:04.333+00:00` / age_days `0.02`
+- Published: `2026-10-24T02:46:04.333+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-24T02:45:49.040+00:00` / age_days `0.02`
+- Published: `2026-10-24T02:45:49.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-10-23T13:15:06+00:00` / age_days `0.59`
+- Published: `2026-10-23T13:15:06+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -82,50 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-24T01:14:40+00:00` / age_days `0.09`
+- Published: `2026-10-24T01:14:40+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://www.gamespark.jp/article/2026/10/23/174015.html
 
-### M 7.2 - 200 km W of Sola, Vanuatu
+### M 5.2 - 202 km NW of Port-Olry, Vanuatu
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.4`
-- Published: `2026-10-24T02:50:11+00:00` / age_days `0.02`
+- Published: `2026-10-24T03:38:37+00:00` / age_days `0.0`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl
 
-### M 6.9 - 197 km WNW of Port-Olry, Vanuatu
+### M 5.1 - 170 km NW of Port-Olry, Vanuatu
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.4`
-- Published: `2026-10-24T02:50:11+00:00` / age_days `0.02`
+- Published: `2026-10-24T03:38:37+00:00` / age_days `0.0`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2
-
-### 「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `127.06`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 127.1d old signal
-- Quelle: https://gigazine.net/news/20261023-ondrej-sury-interview/
-
-### Usage metrics API adds usage from tools like OpenCode
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.0`
-- Published: `2026-10-23T23:42:03+00:00` / age_days `0.15`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: code, 10
-- Quelle: https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji
 
 END OF DOCUMENT
