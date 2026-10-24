@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-10-24T05:39:57+00:00",
-  "today_file_total": 20,
+  "generated_at": "2026-10-24T05:50:18+00:00",
+  "today_file_total": 21,
   "current_clusters": [
+    {
+      "key": "earthquake:m 5.8 - 182 km nw of port-olry, vanuatu:5.8",
+      "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
     {
       "key": "earthquake:m 5.8 - 203 km nw of port-olry, vanuatu:5.8",
       "title": "M 5.8 - 203 km NW of Port-Olry, Vanuatu",
@@ -21,31 +46,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 4.8 - 219 km wnw of port-olry, vanuatu:4.8",
-      "title": "M 4.8 - 219 km WNW of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k5"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -122,6 +122,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 4.8 - 219 km wnw of port-olry, vanuatu:4.8",
+      "title": "M 4.8 - 219 km WNW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k5"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 5.1 - 217 km nw of port-olry, vanuatu:5.1",
@@ -451,29 +476,6 @@
       ],
       "urls": [
         "https://www2.sagawa-exp.co.jp/information/detail/430/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
-      "title": "スイッチングハブは使いこなしの宝庫。AV向けのハブ選びやポートの使い方【吉田伊織のA&V奥の細道】",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html"
       ],
       "finding_count": 1,
       "max_score": 5,
