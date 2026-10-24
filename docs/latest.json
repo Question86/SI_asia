@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T13:59:13+00:00",
-  "run_id": "2026-10-24T13:59:13+00:00",
+  "generated_at": "2026-10-24T14:47:07+00:00",
+  "run_id": "2026-10-24T14:47:07+00:00",
   "date": "2026-10-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "new_relevant_findings": 1,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
     "medium": 4,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1444,6 +1444,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5e579aed6ceda41c5b6f"
+      },
+      {
+        "title": "みんなはどのダークパターン広告が好き？ - orangestar2",
+        "url": "https://orangestar2.hatenadiary.com/entry/2026/10/23/163042",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-23T08:42:25+00:00",
+        "fetched_at": "2026-10-24T14:46:38+00:00",
+        "summary": "この『orangestar2』ははてなproに月額料金を払って運営しているんですが、それは、広告をサイトから一切外すためにお金を払ってるんですよ。 えらいでしょう。ほめてください。 ここは悪いインターネットですね。6 作者:小島アジコAmazon なので、同人誌を買ってもらえたり、codocで記事を購入してくださるととてもうれ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "becee2ffbe0ca5f515e0"
       },
       {
         "title": "【佐川急便】｜お知らせ",
@@ -2905,6 +2926,27 @@
       "id": "5e579aed6ceda41c5b6f"
     },
     {
+      "title": "みんなはどのダークパターン広告が好き？ - orangestar2",
+      "url": "https://orangestar2.hatenadiary.com/entry/2026/10/23/163042",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-23T08:42:25+00:00",
+      "fetched_at": "2026-10-24T14:46:38+00:00",
+      "summary": "この『orangestar2』ははてなproに月額料金を払って運営しているんですが、それは、広告をサイトから一切外すためにお金を払ってるんですよ。 えらいでしょう。ほめてください。 ここは悪いインターネットですね。6 作者:小島アジコAmazon なので、同人誌を買ってもらえたり、codocで記事を購入してくださるととてもうれ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "becee2ffbe0ca5f515e0"
+    },
+    {
       "title": "【佐川急便】｜お知らせ",
       "url": "https://www2.sagawa-exp.co.jp/information/detail/430/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2947,7 +2989,29 @@
       "id": "3175ce5ccf34fb2fb204"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "みんなはどのダークパターン広告が好き？ - orangestar2",
+      "url": "https://orangestar2.hatenadiary.com/entry/2026/10/23/163042",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-23T08:42:25+00:00",
+      "fetched_at": "2026-10-24T14:46:38+00:00",
+      "summary": "この『orangestar2』ははてなproに月額料金を払って運営しているんですが、それは、広告をサイトから一切外すためにお金を払ってるんですよ。 えらいでしょう。ほめてください。 ここは悪いインターネットですね。6 作者:小島アジコAmazon なので、同人誌を買ってもらえたり、codocで記事を購入してくださるととてもうれ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "becee2ffbe0ca5f515e0"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
