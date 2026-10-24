@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T01:55:54+00:00",
-  "run_id": "2026-10-24T01:55:54+00:00",
+  "generated_at": "2026-10-24T02:04:11+00:00",
+  "run_id": "2026-10-24T02:04:11+00:00",
   "date": "2026-10-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 5,
     "displayed_findings": 5,
     "high": 0,
@@ -276,29 +276,7 @@
       "id": "5e579aed6ceda41c5b6f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Public monitoring adds triage, validity, API, and webhooks",
-      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-23T17:17:58+00:00",
-      "fetched_at": "2026-10-24T01:55:22+00:00",
-      "summary": "Public monitoring now includes alert management capabilities like automatic validity checks to help you triage and remediate leaked secrets at scale. Alert management with dismissals, timelines, and filtering Always-on validity… The post Public monitoring adds triage, validity, API, and webhooks appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "GitHub"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI Agents (+6.2); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "20ab5258b4bf9717828f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
