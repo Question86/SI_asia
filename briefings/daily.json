@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T11:36:57+00:00",
-  "today_file_total": 42,
+  "generated_at": "2026-10-24T11:45:19+00:00",
+  "today_file_total": 43,
   "current_clusters": [
     {
       "key": "github_repo:snailsploit/claude-red",
@@ -147,8 +147,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 4.9 - 196 km w of sola, vanuatu:4.9",
-      "title": "M 4.9 - 196 km W of Sola, Vanuatu",
+      "key": "earthquake:m 4.9 - 148 km nnw of kilmia, yemen:4.9",
+      "title": "M 4.9 - 148 km NNW of Kilmia, Yemen",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -156,7 +156,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m5"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m6"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -291,6 +291,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 4.9 - 196 km w of sola, vanuatu:4.9",
+      "title": "M 4.9 - 196 km W of Sola, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m5"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 4.9 - 169 km nw of port-olry, vanuatu:4.9",
@@ -453,31 +478,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ku"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.5 - 55 km nne of port-olry, vanuatu:5.5",
-      "title": "M 5.5 - 55 km NNE of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq"
       ],
       "finding_count": 1,
       "max_score": 9,

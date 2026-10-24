@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-24T11:36:57+00:00",
+  "generated_at": "2026-10-24T11:45:19+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 42,
-    "clusters": 42,
+    "findings": 43,
+    "clusters": 43,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 29
+    "dominance_penalized": 30
   },
   "clusters": [
     {
@@ -324,8 +324,8 @@
       "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
-      "key": "earthquake:m 4.9 - 196 km w of sola, vanuatu:4.9",
-      "title": "M 4.9 - 196 km W of Sola, Vanuatu",
+      "key": "earthquake:m 4.9 - 148 km nnw of kilmia, yemen:4.9",
+      "title": "M 4.9 - 148 km NNW of Kilmia, Yemen",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -334,7 +334,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m5"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m6"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -362,7 +362,7 @@
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-10-24T11:36:57+00:00"
+      "first_seen_at": "2026-10-24T11:45:19+00:00"
     },
     {
       "key": "title:public-monitoring-adds-triage-validity-api-webhooks",
@@ -562,6 +562,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-24T05:56:52+00:00"
+    },
+    {
+      "key": "earthquake:m 4.9 - 196 km w of sola, vanuatu:4.9",
+      "title": "M 4.9 - 196 km W of Sola, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m5"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 8.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-24T11:36:57+00:00"
     },
     {
       "key": "earthquake:m 4.9 - 169 km nw of port-olry, vanuatu:4.9",
@@ -1694,7 +1735,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-24T11:36:57Z",
+    "generated_at": "2026-10-24T11:45:20Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
