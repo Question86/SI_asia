@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-24T00:35:28Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+  "generated_at": "2026-10-24T01:11:27Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 209 km ENE of Nagqu, China” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,127 +11,117 @@
   ],
   "top_dynamics": [
     {
-      "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-23T08:30:51+00:00",
-      "age_days": 0.67,
+      "title": "M 4.9 - 209 km ENE of Nagqu, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T00:29:30.040+00:00",
+      "age_days": 0.03,
       "topics": [
-        "security"
+        "disaster"
       ],
-      "dynamics_score": 33.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchz…"
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 1.02,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: security",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "extreme gate recheck: insufficient independent/current evidence"
+        "early terms: earthquake",
+        "high terms: 10"
       ],
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+      "summary": "Time 2026-10-24 00:07:56 UTC 2026-10-24 00:07:56 UTC at epicenter Location 32.527°N 93.900°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
-      "url": "https://japan.zdnet.com/article/35253683/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-23T10:30:55+00:00",
-      "age_days": 0.59,
-      "topics": [],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, 10",
-        "security high-signal: rce, 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "extreme gate recheck: insufficient independent/current evidence"
-      ],
-      "summary": "チェコのプラハで開催された「Open Source Summit Europe」の基調講演において、ドイツのミュンヘン市の最高デジタル責任者を務めるLaura Dornheim博士は、同市が10年以上前に政治的な理由から「LiMux」と呼ばれる「Linux」デスクトップの導入を放棄して「Windows」に移行したものの、現在は再びオープンソースソフトウ..."
-    },
-    {
-      "title": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-23T06:52:34+00:00",
-      "age_days": 0.74,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, auth",
-        "security high-signal: rce, auth",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "extreme gate recheck: insufficient independent/current evidence"
-      ],
-      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. https://supabase.com Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. Hosted Postgres Database. Do…"
-    },
-    {
-      "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
-      "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-23T04:27:02+00:00",
-      "age_days": 0.84,
+      "title": "Usage metrics API adds usage from tools like OpenCode",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-24T00:50:11+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: code"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.9 - 209 km ENE of Nagqu, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T00:50:11+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？",
+      "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-23T13:15:06+00:00",
+      "age_days": 0.5,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "2026年10月、世界中のウェブサイトの約70％で使われるプログラミング言語の「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかったことが明らかにされました。この対応に陰から尽力した開発者に、海外メディアThe Atlanticのチャーリー・ワーゼル記者がインタビューを行いました。 The Man Who Saved the Internet Yesterday..."
+    },
+    {
+      "title": "「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？",
+      "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 126.97,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
@@ -139,195 +129,33 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+        "aging penalty -8.0 for 127.0d old signal"
       ],
       "summary": ""
     },
     {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux cockpit-machines: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4118",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-23T11:25:52+00:00",
-      "age_days": 0.55,
+      "title": "Usage metrics API adds usage from tools like OpenCode",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-23T23:42:03+00:00",
+      "age_days": 0.06,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
+        "high terms: code, 10"
       ],
-      "summary": "Ein lokaler, authentisierter Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux cockpit-machines ausnutzen, um Informationen offenzulegen."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
-      "url": "https://jvn.jp/vu/JVNVU98747108/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.94,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "security high-signal: 10",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-    },
-    {
-      "title": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-23T15:05:50+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: exploited, code",
-        "security high-signal: exploited, code",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities. Showing how previously unknown vulnerabilities might be exploited is, however, only the start of what frontier AI models ca..."
-    },
-    {
-      "title": "[NEU] [mittel] Livewire: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4140",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Livewire ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[NEU] [mittel] Drupal Module (View Unpublished, Simple OAuth und Domain Login Restrict): Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4138",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-23T10:50:52+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: domain, auth",
-        "security high-signal: domain, auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal (View Unpublished, Simple OAuth und Domain Login Restrict) ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[NEU] [hoch] TianoCore EDK2 PXE Treiber: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode und DoS",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4136",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-23T10:45:54+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in TianoCore EDK2 ausnutzen, um beliebigen Programmcode mit Ring-0-Rechten auszuführen oder einen Denial-of-Service-Zustand zu verursachen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Apache Traffic Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4112",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-23T10:25:53+00:00",
-      "age_days": 0.59,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Traffic Server ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen sowie Daten zu manipulieren oder offenzulegen."
+      "summary": "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.… The post Usage metrics API adds usage from tools like OpenCode appeared first on The GitHub Blog ."
     }
   ],
   "read_order": [
@@ -339,8 +167,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "watch": 5,
+      "quiet": 1
     }
   }
 }

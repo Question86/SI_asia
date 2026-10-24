@@ -1,131 +1,71 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-24T00:35:28Z_
+_Generated: 2026-10-24T01:11:27Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.
+Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 209 km ENE of Nagqu, China” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.
 
 ## Top Dynamics
 
-### [UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen
+### M 4.9 - 209 km ENE of Nagqu, China
 
-- Band: `krass` (raw `krass`)
-- Dynamics score: `33.0`
-- Published: `2026-10-23T08:30:51+00:00` / age_days `0.67`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, code, security high-signal: angriffe, code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.0`
+- Published: `2026-10-24T00:29:30.040+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8
 
-### OpenAI and Poland’s NASK partner to advance AI safety and security
+### Usage metrics API adds usage from tools like OpenCode
 
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T00:00:00+00:00` / age_days `1.02`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: security, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
-- Quelle: https://openai.com/index/openai-nask-ai-safety-security-partnership
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.5`
+- Published: `2026-10-24T00:50:11+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, high terms: code
+- Quelle: https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode
 
-### ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず
+### M 4.9 - 209 km ENE of Nagqu, China
 
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T10:30:55+00:00` / age_days `0.59`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, 10, security high-signal: rce, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
-- Quelle: https://japan.zdnet.com/article/35253683/
+- Band: `watch` (raw `watch`)
+- Dynamics score: `15.4`
+- Published: `2026-10-24T00:50:11+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8
 
-### supabase/supabase
+### 「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？
 
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T06:52:34+00:00` / age_days `0.74`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, auth, security high-signal: rce, auth, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
-- Quelle: https://github.com/supabase/supabase
+- Band: `watch` (raw `watch`)
+- Dynamics score: `15.0`
+- Published: `2026-10-23T13:15:06+00:00` / age_days `0.5`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: high terms: 10
+- Quelle: https://gigazine.net/news/20261023-ondrej-sury-interview/
 
-### Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out
+### 「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T04:27:02+00:00` / age_days `0.84`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.5`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `126.97`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, aging penalty -8.0 for 127.0d old signal
+- Quelle: https://gigazine.net/news/20261023-ondrej-sury-interview/
 
-### [UPDATE] [mittel] Red Hat Enterprise Linux cockpit-machines: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen
+### Usage metrics API adds usage from tools like OpenCode
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T11:25:52+00:00` / age_days `0.55`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4118
-
-### CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T11:00:00+09:00` / age_days `0.94`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
-- Quelle: https://jvn.jp/vu/JVNVU98747108/
-
-### Using Claude to reduce the attack surface of code
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T15:05:50+00:00` / age_days `0.4`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: exploited, code, security high-signal: exploited, code, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://www.anthropic.com/research/attack-surface-reduction
-
-### [NEU] [mittel] Livewire: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T10:50:52+00:00` / age_days `0.57`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4140
-
-### [NEU] [mittel] Drupal Module (View Unpublished, Simple OAuth und Domain Login Restrict): Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T10:50:52+00:00` / age_days `0.57`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: domain, auth, security high-signal: domain, auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4138
-
-### [NEU] [hoch] TianoCore EDK2 PXE Treiber: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode und DoS
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T10:45:54+00:00` / age_days `0.58`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4136
-
-### [UPDATE] [hoch] Apache Traffic Server: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T10:25:53+00:00` / age_days `0.59`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4112
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `10.0`
+- Published: `2026-10-23T23:42:03+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: high terms: code, 10
+- Quelle: https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode
 
 END OF DOCUMENT

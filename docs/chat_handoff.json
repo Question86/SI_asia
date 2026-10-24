@@ -50,5 +50,137 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “M 4.9 - 209 km ENE of Nagqu, China” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "M 4.9 - 209 km ENE of Nagqu, China",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-24T00:29:30.040+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-10-24 00:07:56 UTC 2026-10-24 00:07:56 UTC at epicenter Location 32.527°N 93.900°E Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "Usage metrics API adds usage from tools like OpenCode",
+        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-24T00:50:11+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 16.5,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1",
+          "high terms: code"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.9 - 209 km ENE of Nagqu, China",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-24T00:50:11+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 15.4,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？",
+        "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T13:15:06+00:00",
+        "age_days": 0.5,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 15.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10"
+        ],
+        "summary": "2026年10月、世界中のウェブサイトの約70％で使われるプログラミング言語の「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかったことが明らかにされました。この対応に陰から尽力した開発者に、海外メディアThe Atlanticのチャーリー・ワーゼル記者がインタビューを行いました。 The Man Who Saved the Internet Yesterday..."
+      },
+      {
+        "title": "「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？",
+        "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 126.97,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 13.5,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "aging penalty -8.0 for 127.0d old signal"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }

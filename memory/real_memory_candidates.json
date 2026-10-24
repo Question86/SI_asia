@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-24T00:35:28Z",
+  "generated_at": "2026-10-24T01:11:27Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -21,46 +21,5 @@
       "text": "Security terms such as actively exploited, unauthenticated RCE, CVSS 9.8/10, domain controller, firewall, VPN, Ivanti, PAN-OS, Exchange should outrank AI hype when exposure is plausible."
     }
   ],
-  "current_dynamic_memory_candidates": [
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "band": "extreme",
-      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
-    },
-    {
-      "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
-      "band": "extreme",
-      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
-    },
-    {
-      "title": "supabase/supabase",
-      "band": "extreme",
-      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
-    },
-    {
-      "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux cockpit-machines: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "Using Claude to reduce the attack surface of code",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    }
-  ]
+  "current_dynamic_memory_candidates": []
 }
