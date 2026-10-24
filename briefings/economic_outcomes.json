@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T20:50:29+00:00",
+  "generated_at": "2026-10-24T20:58:55+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -562,6 +562,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0671a5367e24b2e2a329",
+      "title": "M 5.3 - 101 km SSE of Vilyuchinsk, Russia",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_06857f18f073b45cc219",
@@ -6809,7 +6820,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5348b973bb4e3b856f97",
