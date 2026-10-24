@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T21:58:34+00:00",
-  "run_id": "2026-10-24T21:58:34+00:00",
+  "generated_at": "2026-10-24T22:17:11+00:00",
+  "run_id": "2026-10-24T22:17:11+00:00",
   "date": "2026-10-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 0,
@@ -3603,31 +3603,7 @@
       "id": "3175ce5ccf34fb2fb204"
     }
   ],
-  "new_findings": [
-    {
-      "title": "人間が時間を使うべきところはどこか",
-      "url": "https://tellme.tokyo/post/2026/10/24/where-humans-spend-time/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-24T11:36:59+00:00",
-      "fetched_at": "2026-10-24T21:58:05+00:00",
-      "summary": "この 1 年で、自分でコードを書くことはほとんどなくなった。そのぶん増えたのはレビューで、といっても同僚の PR だけではなく、エージェントが書いた plan ファイルを読むことも多い。同僚の PR も、その後ろにはたいていエージェントがいるので、結局はどれも AI との会話になっている。そうなると、人間の時間はどこ...",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8e430ee59f7dbab30b52"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
