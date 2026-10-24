@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-24T02:50:08+00:00",
+  "generated_at": "2026-10-24T03:38:33+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 3,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 0,
-    "observe": 8
+    "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,23 +35,23 @@
       "section": "observe"
     },
     {
-      "title": "M 7.2 - 200 km W of Sola, Vanuatu",
+      "title": "M 5.2 - 202 km NW of Port-Olry, Vanuatu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-24T02:46:04.333+00:00",
+      "published_at": "2026-10-24T03:37:39.040+00:00",
       "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5",
-      "summary": "DYFI? - III Time 2026-10-24 02:31:53 UTC 2026-10-24 02:31:53 UTC at epicenter Location 13.800°S 165.700°E Depth 10.00 km (6.21 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl",
+      "summary": "Time 2026-10-24 03:17:55 UTC 2026-10-24 03:17:55 UTC at epicenter Location 13.881°S 165.616°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     },
     {
-      "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
+      "title": "M 5.1 - 170 km NW of Port-Olry, Vanuatu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-24T02:45:49.040+00:00",
+      "published_at": "2026-10-24T03:25:12.040+00:00",
       "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
-      "summary": "Time 2026-10-24 02:31:28 UTC 2026-10-24 02:31:28 UTC at epicenter Location 14.056°S 165.546°E Depth 10.00 km (6.21 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji",
+      "summary": "Time 2026-10-24 03:08:45 UTC 2026-10-24 03:08:45 UTC at epicenter Location 14.121°S 165.805°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
@@ -60,137 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Usage metrics API adds usage from tools like OpenCode” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Usage metrics API adds usage from tools like OpenCode",
-        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-24T00:50:11+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: code"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.9 - 209 km ENE of Nagqu, China",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-24T00:29:30.040+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-24 00:07:56 UTC 2026-10-24 00:07:56 UTC at epicenter Location 32.527°N 93.900°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.9 - 209 km ENE of Nagqu, China",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-24T00:50:11+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 18.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Public monitoring adds triage, validity, API, and webhooks",
-        "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-24T01:55:58+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 7.2 - 200 km W of Sola, Vanuatu",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-24T02:46:04.333+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "DYFI? - III Time 2026-10-24 02:31:53 UTC 2026-10-24 02:31:53 UTC at epicenter Location 13.800°S 165.700°E Depth 10.00 km (6.21 mi)"
-      }
-    ]
-  }
+  ]
 }
