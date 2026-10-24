@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T04:22:42+00:00",
+  "generated_at": "2026-10-24T04:37:31+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2741,6 +2741,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_01bf577a5394e3228500",
+      "title": "M 5.8 - 203 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T04:37:00+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0002baf8b91c304d17ac",
       "title": "M 5.2 - 201 km ENE of Nagqu, China",
       "event_classes": [
@@ -4301,7 +4318,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -5801,6 +5818,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4778b13d22c84ca06c5e",
+      "title": "M 4.9 - 186 km WNW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_47f043a106808a382efd",
       "title": "M 4.8 - 11 km W of Guaymate, Dominican Republic",
       "event_classes": [
@@ -6171,7 +6205,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T03:38:37+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -8670,7 +8704,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T02:50:11+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -8755,7 +8789,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T03:38:37+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -9265,7 +9299,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-24T02:50:11+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -9660,6 +9694,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f789f07c459686fcb390",
+      "title": "M 5.7 - 205 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f78a617e16679acc9a82",
       "title": "M 4.8 - Reykjanes Ridge",
       "event_classes": [
@@ -9845,40 +9896,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_f789f07c459686fcb390",
-      "title": "M 5.7 - 205 km NW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_4778b13d22c84ca06c5e",
-      "title": "M 4.9 - 186 km WNW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -11952,7 +11969,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -16610,7 +16627,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T03:52:11+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -20861,7 +20878,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T01:55:58+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -27378,6 +27395,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3bdda892d400eb3623aa",
+      "title": "【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3bf882e0f0d8589a296b",
       "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
       "event_classes": [
@@ -27867,7 +27901,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T01:14:40+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -28598,7 +28632,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T03:38:37+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -30043,7 +30077,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T00:50:11+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -30349,7 +30383,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T02:31:18+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
+      "last_seen_at": "2026-10-24T04:37:00+00:00",
       "status": "active"
     },
     {
@@ -30929,23 +30963,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_3bdda892d400eb3623aa",
-      "title": "【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T04:22:25+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
