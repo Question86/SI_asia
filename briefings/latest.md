@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T00:50:08+00:00_
+_Generiert: 2026-10-24T01:14:38+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 209 km ENE of Nagqu, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+4 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 209 km ENE of Nagqu, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -83,6 +83,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.0); Copilot (+2.0); recent (+1.0)
   - Kurz: The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.… The post Usage metrics API adds usage from tools like OpenCode appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト** — Score 5, observation — [Quelle](https://www.gamespark.jp/article/2026/10/23/174015.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-23T15:52:59+00:00`, fetched `2026-10-24T01:14:08+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-24T00:50:08+00:00_
+_Generated: 2026-10-24T01:14:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `4`
 
 ## Top Signals
 
@@ -28,5 +28,12 @@ _Generated: 2026-10-24T00:50:08+00:00_
 - published: `2026-10-23T23:42:03+00:00`
 - url: https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode
 - summary: The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.… The post Usage metrics API adds usage from tools like OpenCode appe…
+
+### 4. スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-10-23T15:52:59+00:00`
+- url: https://www.gamespark.jp/article/2026/10/23/174015.html
+- summary: スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト
 
 END OF DOCUMENT
