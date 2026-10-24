@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T13:04:57+00:00_
+_Generiert: 2026-10-24T13:21:47+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
+46 neue relevante Treffer. Stärkstes Signal: „Building agents: When to fold subagents into your main agent loop“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Building agents: When to fold subagents into your main agent loop** — Score 22, observation — [Quelle](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-24T04:26:57+00:00`, fetched `2026-10-24T13:21:15+00:00`
+  - Treffer: agent, AI Agents, APAC Trend Radar, Content-Chance, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: Building agents: When to fold subagents into your main agent loop When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate. If you’ve built an agent in C...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SnailSploit/Claude-Red** — Score 16, risk — [Quelle](https://github.com/SnailSploit/Claude-Red)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-10-24T05:56:14+00:00`
@@ -135,8 +144,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
