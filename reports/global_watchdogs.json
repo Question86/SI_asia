@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-10-24T02:31:18+00:00",
+  "generated_at": "2026-10-24T02:50:11+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "USGS earthquake M7.2 - 200 km W of Sola, Vanuatu",
+        "summary": "M7.2 - 200 km W of Sola, Vanuatu. PAGER alert: none. Tsunami flag: 1.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5",
+        "published_at": "2026-10-24T02:31:53+00:00",
+        "metrics": {
+          "mag": 7.2,
+          "alert": "",
+          "sig": 798.0,
+          "tsunami": 1
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -60,6 +75,31 @@
         "published_at": "2026-10-20",
         "metrics": {
           "cve": "CVE-2026-96655"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 7.2M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, No people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 7.2M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, No people affected in 100km.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573515",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "USGS earthquake M6.9 - 197 km WNW of Port-Olry, Vanuatu",
+        "summary": "M6.9 - 197 km WNW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
+        "published_at": "2026-10-24T02:31:28+00:00",
+        "metrics": {
+          "mag": 6.9,
+          "alert": "",
+          "sig": 732.0,
+          "tsunami": 0
         }
       },
       {

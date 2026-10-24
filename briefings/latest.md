@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T02:31:15+00:00_
+_Generiert: 2026-10-24T02:50:08+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 209 km ENE of Nagqu, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+8 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 209 km ENE of Nagqu, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **USGS earthquake M7.2 - 200 km W of Sola, Vanuatu** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5)
+  - Quelle: USGS
+  - Zeit: `2026-10-24T02:31:53+00:00`
+  - Kurz: M7.2 - 200 km W of Sola, Vanuatu. PAGER alert: none. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-114625 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`
@@ -29,6 +33,14 @@ _Generiert: 2026-10-24T02:31:15+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
   - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
+- **GDACS: Green earthquake (Magnitude 7.2M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, No people affected in 100km.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573515)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 7.2M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, No people affected in 100km.
+- **USGS earthquake M6.9 - 197 km WNW of Port-Olry, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2)
+  - Quelle: USGS
+  - Zeit: `2026-10-24T02:31:28+00:00`
+  - Kurz: M6.9 - 197 km WNW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 40 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573344)
   - Quelle: GDACS
   - Zeit: ``
@@ -75,6 +87,24 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Public Health (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年10月、世界中のウェブサイトの約70％で使われるプログラミング言語の「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかったことが明らかにされました。この対応に陰から尽力した開発者に、海外メディアThe Atlanticのチャーリー・ワーゼル記者がインタビューを行いました。 The Man Who Saved the Internet Yesterday...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 7.2 - 200 km W of Sola, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-24T02:46:04.333+00:00`, fetched `2026-10-24T02:49:34+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-10-24 02:31:53 UTC 2026-10-24 02:31:53 UTC at epicenter Location 13.800°S 165.700°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 6.9 - 197 km WNW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-24T02:45:49.040+00:00`, fetched `2026-10-24T02:49:34+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-24 02:31:28 UTC 2026-10-24 02:31:28 UTC at epicenter Location 14.056°S 165.546°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Public monitoring adds triage, validity, API, and webhooks** — Score 9, risk — [Quelle](https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-23T17:17:58+00:00`, fetched `2026-10-24T01:55:22+00:00`
