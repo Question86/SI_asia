@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T00:00:19+00:00",
+  "generated_at": "2026-10-24T00:50:31+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -568,7 +568,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T09:59:55+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0ce0915efc02654da4f9",
@@ -1752,7 +1752,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-30T02:57:23+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8791ef1d70e8b95e43a7",
@@ -1990,7 +1990,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T20:54:37+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e940cc7a0c9b4d04cde8",
@@ -2585,7 +2585,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-23T21:33:11+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c011425b698cc0869bb7",
@@ -2704,7 +2704,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-23T11:02:37+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_dfa7b0d33dd039fe66aa",
@@ -4132,7 +4132,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-23T21:20:52+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_eb341b146a17dd0db5bc",
@@ -4303,6 +4303,23 @@
       "first_seen_at": "2026-09-29T10:50:43+00:00",
       "last_seen_at": "2026-09-29T19:18:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_fc0fbbd05de99daffc8e",
+      "title": "M 4.9 - 209 km ENE of Nagqu, China",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-24T00:50:11+00:00",
+      "last_seen_at": "2026-10-24T00:50:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -9776,7 +9793,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b380be2049a414b6cdc6",
@@ -9963,7 +9980,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -10711,7 +10728,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8ac81d2f5bc1375c74d1",
@@ -11136,7 +11153,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T06:53:07+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d3d9a3967b112ba3fba0",
@@ -11833,8 +11850,8 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-21T23:58:11+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-24T00:50:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0b8f55a038be7b409784",
@@ -12259,7 +12276,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T14:40:02+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3b5b0276d061e1552cf3",
@@ -12497,7 +12514,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T04:03:21+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_32f7be6791361ff56cd9",
@@ -12854,7 +12871,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T06:53:07+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_612e2286ad73ab18c5e8",
@@ -14044,7 +14061,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a2888de3c57b771f0196",
@@ -14673,7 +14690,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ba2633514b7c89d43fb5",
@@ -15353,7 +15370,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T03:01:16+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_dfb6d8ece97a3fe62d94",
@@ -15625,7 +15642,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T14:40:02+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_524a07c790d9ea9a8e59",
@@ -16135,7 +16152,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-23T05:23:10+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2eac90e7a977405ab4fc",
@@ -19128,7 +19145,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T23:20:25+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_47326a2b1d34c9b6d2b4",
@@ -20624,7 +20641,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-11T01:08:28+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6bfa33bc265af81c7aa1",
@@ -30708,6 +30725,23 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d942fecb4c08df95512f",
+      "title": "Usage metrics API adds usage from tools like OpenCode",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-24T00:50:11+00:00",
+      "last_seen_at": "2026-10-24T00:50:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
