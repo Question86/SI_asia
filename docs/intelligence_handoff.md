@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-24T02:57:11Z_
+_Generated: 2026-10-24T03:19:19Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-24T00:50:11+00:00` / age_days `0.09`
+- Published: `2026-10-24T00:50:11+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-24T00:29:30.040+00:00` / age_days `0.1`
+- Published: `2026-10-24T00:29:30.040+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-10-24T00:50:11+00:00` / age_days `0.09`
+- Published: `2026-10-24T00:50:11+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-10-24T01:55:58+00:00` / age_days `0.04`
+- Published: `2026-10-24T01:55:58+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-24T02:46:04.333+00:00` / age_days `0.01`
+- Published: `2026-10-24T02:46:04.333+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-24T02:45:49.040+00:00` / age_days `0.01`
+- Published: `2026-10-24T02:45:49.040+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-10-23T13:15:06+00:00` / age_days `0.57`
+- Published: `2026-10-23T13:15:06+00:00` / age_days `0.59`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-24T01:14:40+00:00` / age_days `0.07`
+- Published: `2026-10-24T01:14:40+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.4`
-- Published: `2026-10-24T02:50:11+00:00` / age_days `0.0`
+- Published: `2026-10-24T02:50:11+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.4`
-- Published: `2026-10-24T02:50:11+00:00` / age_days `0.0`
+- Published: `2026-10-24T02:50:11+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -112,17 +112,17 @@ Stärkste Dynamik nach Gate-Recheck: “Usage metrics API adds usage from tools 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `127.04`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `127.06`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 127.0d old signal
+- Warum: momentum delta +3, aging penalty -8.0 for 127.1d old signal
 - Quelle: https://gigazine.net/news/20261023-ondrej-sury-interview/
 
 ### Usage metrics API adds usage from tools like OpenCode
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-23T23:42:03+00:00` / age_days `0.14`
+- Published: `2026-10-23T23:42:03+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: code, 10
