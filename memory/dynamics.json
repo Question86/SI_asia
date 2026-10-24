@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-24T15:37:57Z",
+  "generated_at": "2026-10-24T16:30:02Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 4,
-      "strong": 10,
-      "watch": 26
+      "strong": 12,
+      "watch": 24
     },
     "bands_after_gate_recheck": {
-      "strong": 14,
-      "watch": 26
+      "strong": 16,
+      "watch": 24
     }
   },
   "top_dynamics": [
@@ -21,7 +21,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T03:52:11+00:00",
-      "age_days": 0.49,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-24T05:56:14+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security",
@@ -75,7 +75,7 @@
       "url": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T12:51:28+00:00",
-      "age_days": 1.12,
+      "age_days": 1.15,
       "topics": [
         "ai",
         "security"
@@ -102,7 +102,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T17:30:30+00:00",
-      "age_days": 0.92,
+      "age_days": 0.96,
       "topics": [
         "security"
       ],
@@ -128,7 +128,7 @@
       "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 31.13,
+      "age_days": 31.17,
       "topics": [
         "ai"
       ],
@@ -139,15 +139,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.4,
+      "baseline_z_hint": 2.57,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.40",
+        "baseline z_hint 2.57",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -3.5 for 31.1d old signal",
+        "aging penalty -3.6 for 31.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -157,7 +157,7 @@
       "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T04:26:57+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -184,7 +184,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T12:10:33.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -209,31 +209,56 @@
       "url": "https://ics-ikeda.github.io/261024_vuefes_2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T15:18:41+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 21.5,
+      "dynamics_score": 21.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 5.8 - Bouvet Island region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T15:48:55.797+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-24 15:24:19 UTC 2026-10-24 15:24:19 UTC at epicenter Location 54.030°S 7.015°E Depth 12.49 km (7.76 mi)"
     },
     {
       "title": "M 5.9 - 196 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:13:41.477+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -258,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:48:28.673+00:00",
-      "age_days": 0.41,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -283,7 +308,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:31:10.695+00:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -304,11 +329,35 @@
       "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-24 04:12:05 UTC 2026-10-24 04:12:05 UTC at epicenter Location 13.902°S 165.597°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.8 - Bouvet Island region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T15:49:57+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.9 - 196 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:20:12+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -332,7 +381,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:50:18+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -356,7 +405,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:37:00+00:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -380,7 +429,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-29T21:26:18+00:00",
-      "age_days": 24.76,
+      "age_days": 24.79,
       "topics": [
         "general"
       ],
@@ -406,7 +455,7 @@
       "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-24T00:50:11+00:00",
-      "age_days": 0.62,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -431,7 +480,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T08:56:04.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -456,7 +505,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T08:50:48.547+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -481,7 +530,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T00:29:30.040+00:00",
-      "age_days": 0.63,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -506,7 +555,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T08:59:56+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -530,7 +579,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T00:50:11+00:00",
-      "age_days": 0.62,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -554,7 +603,7 @@
       "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-24T01:55:58+00:00",
-      "age_days": 0.57,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -578,7 +627,7 @@
       "url": "https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T06:24:33+00:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -602,7 +651,7 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-24T05:56:52+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -628,7 +677,7 @@
       "url": "https://ics-ikeda.github.io/261024_vuefes_2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T07:22:52+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -648,11 +697,36 @@
       "summary": "Vue Fes Japan 2026 池田泰延の発表資料。HTML・CSSの新機能を使ったUI実装と、Vue.jsとの連携を紹介。"
     },
     {
+      "title": "M 4.9 - 217 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T15:51:40.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-24 15:19:25 UTC 2026-10-24 15:19:25 UTC at epicenter Location 13.854°S 165.461°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.9 - 196 km W of Sola, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T11:29:52.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -677,7 +751,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:54:31.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -702,7 +776,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ll",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:29:12.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -727,7 +801,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:27:31.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -752,7 +826,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4l8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:16:11.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -777,7 +851,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:00:40.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -802,7 +876,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4l9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T08:37:30.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -827,7 +901,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ku",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T07:06:39.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -852,7 +926,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T07:01:37.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -877,7 +951,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T06:23:43.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -902,7 +976,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T06:09:41.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -927,7 +1001,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ke",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T06:04:41.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -946,81 +1020,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-24 05:35:54 UTC 2026-10-24 05:35:54 UTC at epicenter Location 13.979°S 165.748°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.8 - 219 km WNW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-24T05:35:05.040+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-24 05:10:34 UTC 2026-10-24 05:10:34 UTC at epicenter Location 14.005°S 165.337°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.1 - 217 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-24T05:06:18.040+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-24 04:49:21 UTC 2026-10-24 04:49:21 UTC at epicenter Location 13.852°S 165.467°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - 161 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-24T05:02:11.040+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-24 04:44:45 UTC 2026-10-24 04:44:45 UTC at epicenter Location 14.165°S 165.874°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 1999” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
