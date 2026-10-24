@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T15:58:15+00:00_
+_Generiert: 2026-10-24T16:12:15+00:00_
 
 ## Kurzlage
 
@@ -45,6 +45,10 @@ _Generiert: 2026-10-24T15:58:15+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-24T02:35:57+00:00`
   - Kurz: M6.3 - 170 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:12.486km) in Bouvet Island Region 24/10/2026 15:24 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573640)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:12.486km) in Bouvet Island Region 24/10/2026 15:24 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Vanuatu 24/10/2026 08:56 UTC, Few people affected in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573578)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-10-24T15:58:15+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 24/10/2026 04:05 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 40 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573344)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 40 thousand in MMI IV.
 
 ## Wirtschaft global
 
