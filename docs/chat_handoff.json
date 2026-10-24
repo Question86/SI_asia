@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-24T06:45:16+00:00",
+  "generated_at": "2026-10-24T07:02:08+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 1,
-    "observe": 27
+    "observe": 28
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -70,141 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CVE Tracker — CVEs per month since 1999” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CVE Tracker — CVEs per month since 1999",
-        "url": "https://cve.0xosprey.com/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-24T03:52:11+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "security high-signal: cve"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "SnailSploit/Claude-Red",
-        "url": "https://github.com/SnailSploit/Claude-Red",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-10-24T05:56:14+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills…"
-      },
-      {
-        "title": "CVE Tracker — CVEs per month since 1999",
-        "url": "https://cve.0xosprey.com/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-23T17:30:30+00:00",
-        "age_days": 0.56,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 0-day, 10",
-          "security high-signal: 0-day, 10"
-        ],
-        "summary": "Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG"
-      },
-      {
-        "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-24T05:48:28.673+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-24 05:23:40 UTC 2026-10-24 05:23:40 UTC at epicenter Location 14.083°S 165.698°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.8 - 203 km NW of Port-Olry, Vanuatu",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-24T04:31:10.695+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-24 04:12:05 UTC 2026-10-24 04:12:05 UTC at epicenter Location 13.902°S 165.597°E Depth 10.00 km (6.21 mi)"
-      }
-    ]
-  }
+  ]
 }
