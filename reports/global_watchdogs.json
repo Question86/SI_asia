@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:16:09+00:00",
+  "generated_at": "2026-10-24T06:45:20+00:00",
   "sections": {
     "global_security": [
       {
@@ -13,7 +13,7 @@
         "metrics": {
           "mag": 6.9,
           "alert": "green",
-          "sig": 733.0,
+          "sig": 734.0,
           "tsunami": 1
         }
       },
@@ -161,21 +161,6 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573141",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.8 - 182 km NW of Port-Olry, Vanuatu",
-        "summary": "M5.8 - 182 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
-        "published_at": "2026-10-24T05:23:40+00:00",
-        "metrics": {
-          "mag": 5.8,
-          "alert": "green",
-          "sig": 518.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T06:16:06+00:00_
+_Generiert: 2026-10-24T06:45:16+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
+28 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,10 +65,6 @@ _Generiert: 2026-10-24T06:16:06+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).
-- **USGS earthquake M5.8 - 182 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6)
-  - Quelle: USGS
-  - Zeit: `2026-10-24T05:23:40+00:00`
-  - Kurz: M5.8 - 182 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
