@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-25T18:02:11+00:00_
+_Generated: 2026-10-25T18:24:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `35`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-25T18:02:11+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)
 
-### 7. M 4.7 - 19 km NE of Atico, Peru
+### 7. M 4.6 - 153 km WNW of Adak, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-10-25T18:23:19.894+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vb
+- summary: ShakeMap - II Time 2026-10-25 17:49:58 UTC 2026-10-25 17:49:58 UTC at epicenter Location 52.192°N 178.806°W Depth 152.90 km (95.01 mi)
+
+### 8. M 4.7 - 19 km NE of Atico, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-25T17:36:35.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1
 - summary: Time 2026-10-25 17:11:49 UTC 2026-10-25 17:11:49 UTC at epicenter Location 16.099°S 73.474°W Depth 62.10 km (38.58 mi)
-
-### 8. M 5.1 - 199 km ENE of Nagqu, China
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-25T11:48:24.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx
-- summary: Time 2026-10-25 11:24:14 UTC 2026-10-25 11:24:14 UTC at epicenter Location 32.370°N 93.887°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
