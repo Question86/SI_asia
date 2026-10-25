@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T03:44:00+00:00",
-  "run_id": "2026-10-25T03:44:00+00:00",
+  "generated_at": "2026-10-25T03:58:06+00:00",
+  "run_id": "2026-10-25T03:58:06+00:00",
   "date": "2026-10-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 3,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -203,6 +203,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "db31dcfd487ae4ad8325"
+      },
+      {
+        "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-25T03:45:50.040+00:00",
+        "fetched_at": "2026-10-25T03:57:39+00:00",
+        "summary": "Time 2026-10-25 03:29:10 UTC 2026-10-25 03:29:10 UTC at epicenter Location 6.174°S 147.166°E Depth 80.78 km (50.19 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "434092eff6f203a30310"
       },
       {
         "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
@@ -516,6 +552,42 @@
       "id": "db31dcfd487ae4ad8325"
     },
     {
+      "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-25T03:45:50.040+00:00",
+      "fetched_at": "2026-10-25T03:57:39+00:00",
+      "summary": "Time 2026-10-25 03:29:10 UTC 2026-10-25 03:29:10 UTC at epicenter Location 6.174°S 147.166°E Depth 80.78 km (50.19 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "434092eff6f203a30310"
+    },
+    {
       "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -653,25 +725,40 @@
   ],
   "new_findings": [
     {
-      "title": "プロの味！簡単にして激ウマな豚汁の秘密 by こじまぽん助【分子調理学研究家】",
-      "url": "https://cookpad.com/jp/recipes/19944624?ref=search&search_term=%E3%83%97%E3%83%AD%E3%81%AE%E5%91%B3%EF%BC%81%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%97%E3%81%A6%E6%BF%80%E3%82%A6%E3%83%9E%E3%81%AA%E8%B1%9A%E6%B1%81%E3%81%AE%E7%A7%98%E5%AF%86",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-24T18:14:36+00:00",
-      "fetched_at": "2026-10-25T03:43:30+00:00",
-      "summary": "食材 豚バラ肉 300g ごぼう 1本 にんにく 1片 生姜 1かけ 玉ねぎ 1個 にんじん 1本 大根 1/3本 こんにゃく 1枚 調味料 サラダ油 大さじ2 和風だし 小さじ2 料理酒 150ml みりん 大さじ2 水 ひたひた(500mlを目安に) みそ 大さじ2程度",
+      "published_at": "2026-10-25T03:45:50.040+00:00",
+      "fetched_at": "2026-10-25T03:57:39+00:00",
+      "summary": "Time 2026-10-25 03:29:10 UTC 2026-10-25 03:29:10 UTC at epicenter Location 6.174°S 147.166°E Depth 80.78 km (50.19 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dca2fa7787beda90c73f"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "434092eff6f203a30310"
     }
   ],
   "source_errors": [],
