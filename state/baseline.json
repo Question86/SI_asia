@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T14:19:37+00:00",
+  "generated_at": "2026-10-25T14:32:00+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2169,7 +2169,7 @@
     },
     "earthquake:japan:5.3": {
       "title": "M 5.3 - 44 km ESE of Miyazaki, Japan",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -3662,7 +3662,7 @@
     },
     "domain:qiita.com": {
       "title": "eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -5081,9 +5081,8 @@
     },
     "domain:togetter.com": {
       "title": "ヨドバシ秋葉原の展示用iPhone Duo、すでにヒンジがだめになっててありえない「(販売店で)リアル耐久テストされてて参考になるなあ」「Samsungがいかに優秀かわかる」",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -5112,12 +5111,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 9.29,
+      "rolling_average": 9.46,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": 2.81
+      "z_hint": 2.64
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -7004,7 +7004,7 @@
     },
     "earthquake:japan:4.8": {
       "title": "M 4.8 - Bonin Islands, Japan region",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -11831,9 +11831,8 @@
     },
     "earthquake:alaska:4.5": {
       "title": "M 4.5 - 89 km SSE of Akutan, Alaska",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
-        13.7,
         13.7,
         13.7,
         13.7,
@@ -11862,12 +11861,13 @@
         16.4,
         16.4,
         16.4,
+        16.4,
         16.4
       ],
-      "rolling_average": 15.97,
+      "rolling_average": 16.06,
       "rolling_peak": 22.4,
       "last_score": 16.4,
-      "z_hint": 0.43
+      "z_hint": 0.34
     },
     "earthquake:indonesia:5.6": {
       "title": "M 5.6 - 80 km S of Banda Aceh, Indonesia",
@@ -18426,7 +18426,7 @@
     },
     "domain:x.com": {
       "title": "リュウジはなぜ嫌われている人からはすごく嫌われているのか…リュウジが自分自身のアンチになる要素を解説、さらに自分に対してのアンチ発言も",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -18443,8 +18443,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -19233,13 +19233,13 @@
     },
     "earthquake:japan:4.5": {
       "title": "M 4.5 - 74 km SSE of Onagawa Chō, Japan",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -30620,9 +30620,8 @@
     },
     "title:claude-code": {
       "title": "「もうプロンプトは書かない」 Claude Code生みの親が明かす“ループエンジニアリング”の衝撃",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
-        15.2,
         15.2,
         15.2,
         15.2,
@@ -30651,12 +30650,13 @@
         15.2,
         16.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 15.09,
+      "rolling_average": 15.02,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -1.99
+      "z_hint": -1.92
     },
     "earthquake:m 4.9 - 86 km ssw of isangel, vanuatu:4.9": {
       "title": "M 4.9 - 86 km SSW of Isangel, Vanuatu",
@@ -31993,9 +31993,8 @@
     },
     "earthquake:japan:4.6": {
       "title": "M 4.6 - Volcano Islands, Japan region",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
-        17.7,
         17.7,
         17.7,
         17.7,
@@ -32024,12 +32023,13 @@
         20.7,
         20.7,
         20.7,
+        20.7,
         20.7
       ],
-      "rolling_average": 19.5,
+      "rolling_average": 19.6,
       "rolling_peak": 23.7,
       "last_score": 20.7,
-      "z_hint": 1.2
+      "z_hint": 1.1
     },
     "title:claude-code-desktop": {
       "title": "最近のClaude Code Desktop、使いやすさマシマシです！",
@@ -50824,7 +50824,7 @@
     },
     "earthquake:alaska:4.6": {
       "title": "M 4.6 - 82 km SSE of Akutan, Alaska",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -50833,8 +50833,8 @@
         13.7,
         13.7,
         13.7,
-        13.7,
         16.7,
+        13.7,
         13.7,
         13.7,
         13.7,
@@ -90250,7 +90250,7 @@
     },
     "earthquake:m 4.8 - 203 km nw of port-olry, vanuatu:4.8": {
       "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -90290,7 +90290,7 @@
     },
     "domain:blog.jxck.io": {
       "title": "eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -90330,7 +90330,7 @@
     },
     "earthquake:japan:6.5": {
       "title": "M 6.5 - Bonin Islands, Japan region",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         21.7,
         21.7,
@@ -90370,7 +90370,7 @@
     },
     "earthquake:m 6.2 - 21 km e of port-olry, vanuatu:6.2": {
       "title": "M 6.2 - 21 km E of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         15.7,
         15.7,
@@ -90410,7 +90410,7 @@
     },
     "earthquake:m 5.1 - 161 km wnw of port-olry, vanuatu:5.1": {
       "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -90450,7 +90450,7 @@
     },
     "title:vue-fes-japan-2026-katashin-info": {
       "title": "なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -90490,7 +90490,7 @@
     },
     "domain:cookpad.com": {
       "title": "プロの味！簡単にして激ウマな豚汁の秘密 by こじまぽん助【分子調理学研究家】",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -90530,7 +90530,7 @@
     },
     "earthquake:m 5.2 - 63 km nne of lae, papua new guinea:5.2": {
       "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -90570,7 +90570,7 @@
     },
     "url:https://www.yomiuri.co.jp/national/20261024-gyt1t00360/": {
       "title": "知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -90610,9 +90610,10 @@
     },
     "earthquake:m 4.9 - 17 km se of ambelókipoi, greece:4.9": {
       "title": "M 4.9 - 17 km SE of Ambelókipoi, Greece",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -90649,7 +90650,7 @@
     },
     "domain:uiuret.hatenablog.com": {
       "title": "思いつきが現実になる世界でこわい - 運河",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -90678,18 +90679,20 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.21,
+      "rolling_average": 7.2,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "github_repo:aws/agent-toolkit-for-aws": {
       "title": "aws/agent-toolkit-for-aws",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         27.1,
+        24.1,
         24.1,
         24.1,
         24.1,
@@ -90724,9 +90727,10 @@
     },
     "github_repo:luongnv89/claude-howto": {
       "title": "luongnv89/claude-howto",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         14.1,
+        11.1,
         11.1,
         11.1,
         11.1,
@@ -90761,9 +90765,10 @@
     },
     "title:abema-times-yahoo": {
       "title": "「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク（ABEMA TIMES） - Yahoo!ニュース",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -90796,9 +90801,10 @@
     },
     "earthquake:m 4.6 - 50 km sw of atiquipa, peru:4.6": {
       "title": "M 4.6 - 50 km SW of Atiquipa, Peru",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         16.7,
+        13.7,
         13.7,
         13.7,
         13.7,
@@ -90830,7 +90836,7 @@
     },
     "earthquake:m 5.4 - 205 km nw of port-olry, vanuatu:5.4": {
       "title": "M 5.4 - 205 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -90850,16 +90856,17 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.86,
+      "rolling_average": 13.85,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "earthquake:m 5.4 - 33 km ese of ambunti, papua new guinea:5.4": {
       "title": "M 5.4 - 33 km ESE of Ambunti, Papua New Guinea",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -90873,16 +90880,38 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 15.93,
+      "rolling_average": 15.91,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "earthquake:m 5.8 - 209 km ene of nagqu, china:5.8": {
       "title": "M 5.8 - 209 km ENE of Nagqu, China",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
+      "network_scores": [
+        16.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7
+      ],
+      "rolling_average": 13.97,
+      "rolling_peak": 16.7,
+      "last_score": 13.7,
+      "z_hint": -0.27
+    },
+    "earthquake:m 5.1 - 199 km ene of nagqu, china:5.1": {
+      "title": "M 5.1 - 199 km ENE of Nagqu, China",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -90900,28 +90929,9 @@
       "last_score": 13.7,
       "z_hint": -0.3
     },
-    "earthquake:m 5.1 - 199 km ene of nagqu, china:5.1": {
-      "title": "M 5.1 - 199 km ENE of Nagqu, China",
-      "updated_at": "2026-10-25T14:19:37+00:00",
-      "network_scores": [
-        16.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7
-      ],
-      "rolling_average": 14.03,
-      "rolling_peak": 16.7,
-      "last_score": 13.7,
-      "z_hint": -0.33
-    },
     "domain:yurinchi2525.com": {
       "title": "さよならWordPress。ゲ制工房は新時代のCMS、EmDashに移行しました。",
-      "updated_at": "2026-10-25T14:19:37+00:00",
+      "updated_at": "2026-10-25T14:32:00+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -90931,12 +90941,13 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.43,
+      "rolling_average": 11.4,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     }
   }
 }
