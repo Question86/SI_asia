@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-25T01:41:54Z_
+_Generated: 2026-10-25T02:01:42Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 203 km NW of Port-Olry, Vanuatu�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-24T23:55:56.040+00:00` / age_days `0.07`
+- Published: `2026-10-24T23:55:56.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 203 km NW of Port-Olry, Vanuatu�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-10-25T00:35:10.771+00:00` / age_days `0.05`
+- Published: `2026-10-25T00:35:10.771+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: earthquake, high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 203 km NW of Port-Olry, Vanuatu�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-25T00:01:17+00:00` / age_days `0.07`
+- Published: `2026-10-25T00:01:17+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +2
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 203 km NW of Port-Olry, Vanuatu�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-24T20:22:49+00:00` / age_days `0.22`
+- Published: `2026-10-24T20:22:49+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 203 km NW of Port-Olry, Vanuatu�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-10-25T00:56:40+00:00` / age_days `0.03`
+- Published: `2026-10-25T00:56:40+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 203 km NW of Port-Olry, Vanuatu�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.5`
-- Published: `2026-06-18T20:05:28+00:00` / age_days `128.23`
+- Published: `2026-06-18T20:05:28+00:00` / age_days `128.25`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 128.2d old signal, single-source AI cap enforced after phrase recheck
