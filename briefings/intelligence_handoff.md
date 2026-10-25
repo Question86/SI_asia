@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-25T20:42:30Z_
+_Generated: 2026-10-25T20:51:13Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.5`
-- Published: `2026-10-25T02:51:21+00:00` / age_days `0.74`
+- Published: `2026-10-25T02:51:21+00:00` / age_days `0.75`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-25T01:29:55+00:00` / age_days `0.8`
+- Published: `2026-10-25T01:29:55+00:00` / age_days `0.81`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-25T09:27:11.040+00:00` / age_days `0.47`
+- Published: `2026-10-25T09:27:11.040+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-25T06:30:51.040+00:00` / age_days `0.59`
+- Published: `2026-10-25T06:30:51.040+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-25T02:52:20.040+00:00` / age_days `0.74`
+- Published: `2026-10-25T02:52:20.040+00:00` / age_days `0.75`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.9
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-25T10:52:50.272+00:00` / age_days `0.41`
+- Published: `2026-10-25T10:52:50.272+00:00` / age_days `0.42`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-10-25T10:59:39+00:00` / age_days `0.4`
+- Published: `2026-10-25T10:59:39+00:00` / age_days `0.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-10-25T02:51:21+00:00` / age_days `0.74`
+- Published: `2026-10-25T02:51:21+00:00` / age_days `0.75`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
