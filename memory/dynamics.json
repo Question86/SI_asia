@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-25T07:51:28Z",
+  "generated_at": "2026-10-25T08:17:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 38,
+    "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "strong": 8,
-      "watch": 16,
-      "quiet": 13
+      "strong": 9,
+      "watch": 18,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 16,
-      "quiet": 13
+      "strong": 10,
+      "watch": 18,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -47,7 +47,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:10:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -74,7 +74,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:10:49+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -97,11 +97,40 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - 89 km SSE of Akutan, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vddzqy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-01T07:30:36+00:00",
+      "age_days": 54.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 8.41,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 8.41",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 54.0d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 6.5 - Bonin Islands, Japan region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:29:48.190+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -127,7 +156,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T06:30:51.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -152,7 +181,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:52:20.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -177,7 +206,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:46:22.213+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -202,7 +231,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -226,7 +255,7 @@
       "url": "https://katashin.info/slides/satisfying-ui-animation/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T03:25:06+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -246,11 +275,61 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - 89 km SSE of Akutan, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vddzqy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T08:00:52.613+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "ShakeMap - III Time 2026-10-25 07:44:29 UTC 2026-10-25 07:44:29 UTC at epicenter Location 53.453°N 165.051°W Depth 0.00 km (0.00 mi)"
+    },
+    {
+      "title": "M 4.5 - 91 km SSE of Akutan, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdearz",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T07:59:57.936+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "ShakeMap - III Time 2026-10-25 07:45:45 UTC 2026-10-25 07:45:45 UTC at epicenter Location 53.440°N 165.019°W Depth 19.70 km (12.24 mi)"
+    },
+    {
       "title": "M 4.6 - 50 km SW of Atiquipa, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T07:36:58.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -275,7 +354,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T03:45:50.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -300,7 +379,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:44:45.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -325,7 +404,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T23:55:56.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -350,7 +429,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T03:58:09+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -374,7 +453,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -398,7 +477,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T00:01:17+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -422,7 +501,7 @@
       "url": "https://katashin.info/slides/satisfying-ui-animation/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T05:49:49+00:00",
-      "age_days": 1.08,
+      "age_days": 1.1,
       "topics": [
         "general"
       ],
@@ -442,35 +521,11 @@
       "summary": "2026年10月24日Vue,アニメーション,インタラクションVue Fes Japan 2026 で行った発表のスライドです。スライド部分をクリックしてからキーボードの左右入力でページをめくれます。 参考リンク #スライド内のデモTweetbot のデモの実装を解説した記事"
     },
     {
-      "title": "M 4.6 - 50 km SW of Atiquipa, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-25T07:45:48+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 5.3 - 44 km ESE of Miyazaki, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T00:35:10.771+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "disaster"
@@ -498,7 +553,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 50.28,
+      "age_days": 50.3,
       "topics": [
         "general"
       ],
@@ -523,7 +578,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-28T23:45:53+00:00",
-      "age_days": 57.34,
+      "age_days": 57.36,
       "topics": [
         "general"
       ],
@@ -539,7 +594,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 57.3d old signal"
+        "aging penalty -8.0 for 57.4d old signal"
       ],
       "summary": ""
     },
@@ -548,7 +603,7 @@
       "url": "https://uiuret.hatenablog.com/entry/2026/10/25/080436",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T05:48:52+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -572,7 +627,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T00:56:40+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -596,7 +651,7 @@
       "url": "https://www.yomiuri.co.jp/national/20261024-GYT1T00360/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T04:58:09+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -620,7 +675,7 @@
       "url": "https://cookpad.com/jp/recipes/19944624?ref=search&search_term=%E3%83%97%E3%83%AD%E3%81%AE%E5%91%B3%EF%BC%81%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%97%E3%81%A6%E6%BF%80%E3%82%A6%E3%83%9E%E3%81%AA%E8%B1%9A%E6%B1%81%E3%81%AE%E7%A7%98%E5%AF%86",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T03:44:04+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -640,11 +695,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.6 - 50 km SW of Atiquipa, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T07:45:48+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:10:49+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -670,7 +749,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T20:22:49+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -694,7 +773,7 @@
       "url": "https://www.yomiuri.co.jp/national/20261024-GYT1T00360/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T20:11:22+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -718,7 +797,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T05:32:17.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "disaster"
@@ -746,7 +825,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T05:38:06+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -772,7 +851,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T20:05:28+00:00",
-      "age_days": 128.49,
+      "age_days": 128.51,
       "topics": [
         "ai"
       ],
@@ -799,7 +878,7 @@
       "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 128.25,
+      "age_days": 128.26,
       "topics": [
         "general"
       ],
@@ -815,7 +894,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 128.2d old signal"
+        "aging penalty -8.0 for 128.3d old signal"
       ],
       "summary": ""
     },
@@ -824,7 +903,7 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:10:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -850,7 +929,7 @@
       "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T22:48:23+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -874,7 +953,7 @@
       "url": "https://cookpad.com/jp/recipes/19944624?ref=search&search_term=%E3%83%97%E3%83%AD%E3%81%AE%E5%91%B3%EF%BC%81%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%97%E3%81%A6%E6%BF%80%E3%82%A6%E3%83%9E%E3%81%AA%E8%B1%9A%E6%B1%81%E3%81%AE%E7%A7%98%E5%AF%86",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T18:14:36+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -894,11 +973,37 @@
       "summary": "食材 豚バラ肉 300g ごぼう 1本 にんにく 1片 生姜 1かけ 玉ねぎ 1個 にんじん 1本 大根 1/3本 こんにゃく 1枚 調味料 サラダ油 大さじ2 和風だし 小さじ2 料理酒 150ml みりん 大さじ2 水 ひたひた(500mlを目安に) みそ 大さじ2程度"
     },
     {
+      "title": "「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク（ABEMA TIMES） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/2997423a08fc213f62fb5f6e7d3b3091570bfcdc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-25T06:58:26+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "思いつきが現実になる世界でこわい - 運河",
       "url": "https://uiuret.hatenablog.com/entry/2026/10/25/080436",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T02:09:50+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -918,57 +1023,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "僕はプログラマーなのだが、最近は1行もプログラムを自分で書いていない。プログラムを書いてないどころか、ほとんど読んでいない。 仕事では最低限すべてのコードに目を通してレビューをやってはいるが、もはやその必要もあまりなく儀式的にやっているだけになっている。 AIで頭がおかしくなった、という記事を書いたの..."
-    },
-    {
-      "title": "「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク（ABEMA TIMES） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/2997423a08fc213f62fb5f6e7d3b3091570bfcdc",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-25T06:58:26+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク（ABEMA TIMES） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/2997423a08fc213f62fb5f6e7d3b3091570bfcdc",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-25T03:52:45+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "AIいじめとは（ABEMA TIMES） AI開発が急速に進む中、Claudeで知られるアンソロピックが利用規約を改定し、AIへの「虐待的・残酷な行為」を禁止する方針を発表した。 【映像】AIに虐待、続けるとどうなる？ 具体的には、残酷な言動を繰り返すことや、明確な目的のない暴言的なやり取りが続くなど、悪質な場合には、会話..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5."
