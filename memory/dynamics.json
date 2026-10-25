@@ -1,27 +1,84 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-25T21:25:44Z",
+  "generated_at": "2026-10-25T21:50:56Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 1,
-      "strong": 12,
-      "watch": 27
+      "extreme": 2,
+      "strong": 13,
+      "watch": 25
     },
     "bands_after_gate_recheck": {
-      "strong": 13,
-      "watch": 27
+      "strong": 15,
+      "watch": 25
     }
   },
   "top_dynamics": [
+    {
+      "title": "ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka",
+      "url": "https://note.com/npaka/n/na5ad6472d68c",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-25T12:07:57+00:00",
+      "age_days": 0.4,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation",
+        "security high-signal: active, exploitation",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "1. はじめにソフトウェアの「脆弱性」は、悪用されると不正アクセスや情報漏洩につながる危険性があります。そのため、脆弱性情報をいち早く入手し、対策することが重要です。 今回は、世界中の脆弱性情報を確認できる代表的な4つの情報源と、その活用方法を紹介します。 2. 脆弱性情報が公開されるまでの流れ脆弱性情報..."
+    },
+    {
+      "title": "ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka",
+      "url": "https://note.com/npaka/n/na5ad6472d68c",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 55.13,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 14.83,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 14.83",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 55.1d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
     {
       "title": "M 6.5 - Bonin Islands, Japan region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "general"
       ],
@@ -45,7 +102,7 @@
       "url": "https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T01:29:55+00:00",
-      "age_days": 0.83,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -70,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T09:27:11.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -95,7 +152,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:10:21+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -122,7 +179,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:10:49+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -149,7 +206,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:29:48.190+00:00",
-      "age_days": 0.79,
+      "age_days": 0.81,
       "topics": [
         "disaster"
       ],
@@ -175,7 +232,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T06:30:51.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -200,7 +257,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:52:20.040+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "disaster"
       ],
@@ -225,7 +282,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T10:52:50.272+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -250,7 +307,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:46:22.213+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "disaster"
       ],
@@ -275,7 +332,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T10:59:39+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -299,7 +356,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "general"
       ],
@@ -323,7 +380,7 @@
       "url": "https://katashin.info/slides/satisfying-ui-animation/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T03:25:06+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -347,7 +404,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T18:23:19.894+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -372,7 +429,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T17:36:35.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -397,7 +454,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T11:48:24.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -422,7 +479,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T11:43:09.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -447,7 +504,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T08:59:29.750+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -472,7 +529,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T08:16:20.040+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -497,7 +554,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vddzqy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T08:00:52.613+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -522,7 +579,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdearz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T07:59:57.936+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -547,7 +604,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T07:36:58.040+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
@@ -572,7 +629,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T17:47:30+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -596,7 +653,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T11:54:31+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -620,7 +677,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T11:45:56+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -644,7 +701,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T09:00:38+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -668,7 +725,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T07:45:48+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -692,11 +749,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 41.41,
+      "age_days": 41.43,
       "topics": [
         "disaster"
       ],
-      "dynamics_score": 18.36,
+      "dynamics_score": 18.35,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -708,7 +765,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -7.1 for 41.4d old signal"
+        "aging penalty -7.2 for 41.4d old signal"
       ],
       "summary": ""
     },
@@ -717,7 +774,7 @@
       "url": "https://yurinchi2525.com/20261025emdash/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T11:54:31+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -741,7 +798,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T20:49:14.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -766,7 +823,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4va",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T17:57:50.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -791,7 +848,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T03:45:50.040+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "disaster"
       ],
@@ -816,7 +873,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:44:45.040+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "disaster"
       ],
@@ -841,7 +898,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T23:55:56.040+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "disaster"
       ],
@@ -866,24 +923,48 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-27T08:27:03+00:00",
-      "age_days": 28.54,
+      "age_days": 28.56,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.74,
+      "dynamics_score": 16.6,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.25,
+      "baseline_z_hint": 1.07,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.25",
-        "aging penalty -2.6 for 28.5d old signal"
+        "baseline z_hint 1.07",
+        "aging penalty -2.6 for 28.6d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.8 - 167 km WNW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T20:59:46+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -892,7 +973,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4va",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T18:02:13+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -916,7 +997,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T03:58:09+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "general"
       ],
@@ -934,79 +1015,7 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.77,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-25T00:01:17+00:00",
-      "age_days": 0.89,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info",
-      "url": "https://katashin.info/slides/satisfying-ui-animation/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-24T05:49:49+00:00",
-      "age_days": 1.65,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "2026年10月24日Vue,アニメーション,インタラクションVue Fes Japan 2026 で行った発表のスライドです。スライド部分をクリックしてからキーボードの左右入力でページをめくれます。 参考リンク #スライド内のデモTweetbot のデモの実装を解説した記事"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
