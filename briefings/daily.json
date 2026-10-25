@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:54:31+00:00",
+  "generated_at": "2026-10-25T12:02:08+00:00",
   "today_file_total": 30,
   "current_clusters": [
     {
@@ -154,31 +154,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 5.1 - 199 km ene of nagqu, china:5.1",
-      "title": "M 5.1 - 199 km ENE of Nagqu, China",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "earthquake:alaska:4.5",
       "title": "M 4.5 - 89 km SSE of Akutan, Alaska",
       "sources": [
@@ -255,50 +230,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:togetter.com",
-      "title": "ヨドバシ秋葉原の展示用iPhone Duo、すでにヒンジがだめになっててありえない「(販売店で)リアル耐久テストされてて参考になるなあ」「Samsungがいかに優秀かわかる」",
+      "key": "earthquake:m 5.1 - 199 km ene of nagqu, china:5.1",
+      "title": "M 5.1 - 199 km ENE of Nagqu, China",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "tier1_official"
       ],
       "urls": [
-        "https://togetter.com/li/2762609"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx"
       ],
       "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
+      "max_score": 11,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:yurinchi2525.com",
-      "title": "さよならWordPress。ゲ制工房は新時代のCMS、EmDashに移行しました。",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://yurinchi2525.com/20261025emdash/"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 5.8 - 209 km ene of nagqu, china:5.8",
@@ -424,6 +378,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:togetter.com",
+      "title": "ヨドバシ秋葉原の展示用iPhone Duo、すでにヒンジがだめになっててありえない「(販売店で)リアル耐久テストされてて参考になるなあ」「Samsungがいかに優秀かわかる」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2762609"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:m 4.9 - 17 km se of ambelókipoi, greece:4.9",
       "title": "M 4.9 - 17 km SE of Ambelókipoi, Greece",
       "sources": [
@@ -484,6 +461,31 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:m 4.8 - 203 km nw of port-olry, vanuatu:4.8",
+      "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm"
       ],
       "finding_count": 1,
       "max_score": 9,
