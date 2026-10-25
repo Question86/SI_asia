@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T05:48:49+00:00_
+_Generiert: 2026-10-25T06:10:47+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „M 6.5 - Bonin Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+16 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -85,6 +85,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **aws/agent-toolkit-for-aws** — Score 22, opportunity — [Quelle](https://github.com/aws/agent-toolkit-for-aws)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-25T06:10:21+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS Agent Toolkit for AWS Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents the tools, knowledge, and guardrails they need to work with AWS services. It works with the coding agents developers already use — including Claude Code, Codex, Cursor, Devin, Kiro, and fx. Q…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 6.5 - Bonin Islands, Japan region** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-25T02:29:48.190+00:00`, fetched `2026-10-25T02:50:48+00:00`
@@ -151,6 +160,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-25 03:29:10 UTC 2026-10-25 03:29:10 UTC at epicenter Location 6.174°S 147.166°E Depth 80.78 km (50.19 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **luongnv89/claude-howto** — Score 9, observation — [Quelle](https://github.com/luongnv89/claude-howto)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-25T06:10:21+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Content-Chance, GitHub Trending, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote tutorial, template (x0.45)
+  - Kurz: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. http://luongnv.com/claude-howto/ 🌐 Language / Ngôn ngữ / 语言 / Мова: English | Tiếng Việt | 中文 | Українська | 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates, and a g…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **思いつきが現実になる世界でこわい - 運河** — Score 5, observation — [Quelle](https://uiuret.hatenablog.com/entry/2026/10/25/080436)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-25T02:09:50+00:00`, fetched `2026-10-25T05:48:20+00:00`
@@ -172,6 +190,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
