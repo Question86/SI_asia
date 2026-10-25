@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T01:20:37+00:00",
+  "generated_at": "2026-10-25T02:51:40+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1568,6 +1568,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c770f17107d55458ccbf",
+      "title": "M 6.5 - Bonin Islands, Japan region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1192000.0,
+      "p50_usd": 119200000.0,
+      "p90_usd": 11920000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-25T02:51:21+00:00",
+      "last_seen_at": "2026-10-25T02:51:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_80a8c2f24f3f9b568102",
       "title": "M 6.6 - 115 km NNE of Teluknaga, Indonesia",
       "event_classes": [
@@ -2023,7 +2040,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-01T12:57:04+00:00",
-      "last_seen_at": "2026-10-25T01:20:18+00:00",
+      "last_seen_at": "2026-10-25T02:51:21+00:00",
       "status": "active"
     },
     {
@@ -2807,6 +2824,23 @@
       "first_seen_at": "2026-10-13T13:03:04+00:00",
       "last_seen_at": "2026-10-13T23:58:13+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e1a6a1d40cc27a74d9fb",
+      "title": "M 6.2 - 21 km E of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-25T02:51:21+00:00",
+      "last_seen_at": "2026-10-25T02:51:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -6290,7 +6324,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-25T00:01:17+00:00",
-      "last_seen_at": "2026-10-25T01:20:18+00:00",
+      "last_seen_at": "2026-10-25T02:51:21+00:00",
       "status": "active"
     },
     {
@@ -10372,6 +10406,23 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f5cde1997bc0e027a01f",
+      "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-25T02:51:21+00:00",
+      "last_seen_at": "2026-10-25T02:51:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -27952,8 +28003,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-19T07:39:31+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-25T02:51:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3bdda892d400eb3623aa",
@@ -29482,7 +29533,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-25T00:56:40+00:00",
-      "last_seen_at": "2026-10-25T01:20:18+00:00",
+      "last_seen_at": "2026-10-25T02:51:21+00:00",
       "status": "active"
     },
     {
