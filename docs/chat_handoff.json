@@ -1,97 +1,27 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-24T23:45:57+00:00",
+  "generated_at": "2026-10-25T00:01:14+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 4,
-    "observe": 57
+    "medium": 0,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "Building agents: When to fold subagents into your main agent loop",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-24T04:26:57+00:00",
-      "relevance_score": 22,
-      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
-      "summary": "Building agents: When to fold subagents into your main agent loop When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to…",
-      "section": "medium"
-    },
-    {
-      "title": "SnailSploit/Claude-Red",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 16,
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion t…",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.7 - 72 km S of Basco, Philippines",
+      "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-24T12:10:33.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
-      "summary": "Time 2026-10-24 11:48:08 UTC 2026-10-24 11:48:08 UTC at epicenter Location 19.805°N 122.087°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "AIサイバー対策緊急提言 | チームみらい",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-23T12:51:28+00:00",
-      "relevance_score": 14,
-      "url": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html",
-      "summary": "情報漏洩の件数 漏洩件数はすでに昨年を上回る 485件 サイバー攻撃による情報漏洩の件数（2026.10.13時点） 参考：MM総研（2026年10月14日）国内サイバー攻撃による情報漏えい動向調査",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.8 - Bouvet Island region",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-24T15:48:55.797+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn",
-      "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-24 15:24:19 UTC 2026-10-24 15:24:19 UTC at epicenter Location 54.030°S 7.015°E Depth 12.49 km (7.76 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "人間が時間を使うべきところはどこか",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-24T11:36:59+00:00",
-      "relevance_score": 13,
-      "url": "https://tellme.tokyo/post/2026/10/24/where-humans-spend-time/",
-      "summary": "この 1 年で、自分でコードを書くことはほとんどなくなった。そのぶん増えたのはレビューで、といっても同僚の PR だけではなく、エージェントが書いた plan ファイルを読むことも多い。同僚の PR も、その後ろにはたいていエージェントがいるので、結局はどれも AI との会話になっている。そうなると、人間の時間はどこ...",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.9 - 196 km NW of Port-Olry, Vanuatu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-24T09:13:41.477+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-24 08:56:28 UTC 2026-10-24 08:56:28 UTC at epicenter Location 13.942°S 165.647°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "決定的なフロントエンドアーキテクチャがいい",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-24T06:24:33+00:00",
-      "relevance_score": 13,
-      "url": "https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend",
-      "summary": "Vue Fes Japan 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【Vue Fes Japan 2026】 …",
+      "published_at": "2026-10-24T23:55:56.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
+      "summary": "Time 2026-10-24 23:39:07 UTC 2026-10-24 23:39:07 UTC at epicenter Location 13.889°S 165.604°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
@@ -100,142 +30,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CVE Tracker — CVEs per month since 1999” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CVE Tracker — CVEs per month since 1999",
-        "url": "https://cve.0xosprey.com/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-24T03:52:11+00:00",
-        "age_days": 0.83,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "security high-signal: cve"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "SnailSploit/Claude-Red",
-        "url": "https://github.com/SnailSploit/Claude-Red",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-10-24T05:56:14+00:00",
-        "age_days": 0.75,
-        "topics": [
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills…"
-      },
-      {
-        "title": "AIサイバー対策緊急提言 | チームみらい",
-        "url": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-23T12:51:28+00:00",
-        "age_days": 1.46,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "情報漏洩の件数 漏洩件数はすでに昨年を上回る 485件 サイバー攻撃による情報漏洩の件数（2026.10.13時点） 参考：MM総研（2026年10月14日）国内サイバー攻撃による情報漏えい動向調査"
-      },
-      {
-        "title": "「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab",
-        "url": "https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-24T12:12:42+00:00",
-        "age_days": 0.49,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認 2026年10月21日、Node.js開発チームは、Brotliの展開処理に起因するメモリ破壊の脆弱性「CVE-2026-111497」を修正したセキュリティアップデートを公開しました。問題はNode.js固有のコードではなく、広く利用され..."
-      },
-      {
-        "title": "CVE Tracker — CVEs per month since 1999",
-        "url": "https://cve.0xosprey.com/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-23T17:30:30+00:00",
-        "age_days": 1.26,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 0-day, 10",
-          "security high-signal: 0-day, 10"
-        ],
-        "summary": "Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG"
-      }
-    ]
-  }
+  ]
 }
