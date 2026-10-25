@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T11:38:34+00:00",
+  "generated_at": "2026-10-25T11:46:26+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -9914,6 +9914,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_750491bc80a9c6351d2c",
+      "title": "M 5.8 - 209 km ENE of Nagqu, China",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_75394cfd6d03d94ff172",
       "title": "Scheduled code scanning skips inactive repositories",
       "deduplicated_buckets": 0,
@@ -19008,7 +19019,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e58cfc15c9c91e99c319",
