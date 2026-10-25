@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T12:02:05+00:00_
+_Generiert: 2026-10-25T12:28:10+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,10 @@ _Generiert: 2026-10-25T12:02:05+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI&gt;=V.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573773)
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 110 thousand in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573773)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI&gt;=V.
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 110 thousand in 100km.
 - **GDACS: Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001343)
   - Quelle: GDACS
   - Zeit: ``
