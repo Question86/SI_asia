@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T23:19:33+00:00_
+_Generiert: 2026-10-25T23:29:57+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka“ aus Hatena Bookmark Hotentry IT (Score 28, risk).
+42 neue relevante Treffer. Stärkstes Signal: „ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka“ aus Hatena Bookmark Hotentry IT (Score 28, risk).
 
 ## Priorität Hoch
 

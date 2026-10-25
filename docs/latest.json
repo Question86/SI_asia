@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T23:19:33+00:00",
-  "run_id": "2026-10-25T23:19:33+00:00",
+  "generated_at": "2026-10-25T23:29:57+00:00",
+  "run_id": "2026-10-25T23:29:57+00:00",
   "date": "2026-10-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 42
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 1,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 1,
     "medium": 7,
-    "observe": 33,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -1365,6 +1365,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dca2fa7787beda90c73f"
+      },
+      {
+        "title": "流暢な説明と確かな因果は別物である――ジャレド・ダイアモンド主要三著の説明力を測り直す｜Reading Monkey",
+        "url": "https://note.com/reading_monkey/n/ndbbb97e3580a",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-09T23:29:00+00:00",
+        "fetched_at": "2026-10-25T23:29:27+00:00",
+        "summary": "序ジャレド・ダイアモンドの『銃・病原菌・鉄』（1997年）、『文明崩壊』（2005年）、『昨日までの世界』（2012年）は、広範な歴史・社会現象を一つの枠組みで説明しようとする著作である[1][2][3]。この三著の重大な弱点は、環境に注目したことではない。個別には有力な因果メカニズムをつなぎ合わせた物語に、その連鎖...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e0121e5d0a797c5f283e"
       }
     ]
   },
@@ -2702,9 +2723,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "dca2fa7787beda90c73f"
+    },
+    {
+      "title": "流暢な説明と確かな因果は別物である――ジャレド・ダイアモンド主要三著の説明力を測り直す｜Reading Monkey",
+      "url": "https://note.com/reading_monkey/n/ndbbb97e3580a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-09T23:29:00+00:00",
+      "fetched_at": "2026-10-25T23:29:27+00:00",
+      "summary": "序ジャレド・ダイアモンドの『銃・病原菌・鉄』（1997年）、『文明崩壊』（2005年）、『昨日までの世界』（2012年）は、広範な歴史・社会現象を一つの枠組みで説明しようとする著作である[1][2][3]。この三著の重大な弱点は、環境に注目したことではない。個別には有力な因果メカニズムをつなぎ合わせた物語に、その連鎖...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e0121e5d0a797c5f283e"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "流暢な説明と確かな因果は別物である――ジャレド・ダイアモンド主要三著の説明力を測り直す｜Reading Monkey",
+      "url": "https://note.com/reading_monkey/n/ndbbb97e3580a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-09T23:29:00+00:00",
+      "fetched_at": "2026-10-25T23:29:27+00:00",
+      "summary": "序ジャレド・ダイアモンドの『銃・病原菌・鉄』（1997年）、『文明崩壊』（2005年）、『昨日までの世界』（2012年）は、広範な歴史・社会現象を一つの枠組みで説明しようとする著作である[1][2][3]。この三著の重大な弱点は、環境に注目したことではない。個別には有力な因果メカニズムをつなぎ合わせた物語に、その連鎖...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e0121e5d0a797c5f283e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
