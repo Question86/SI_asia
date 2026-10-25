@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-25T14:50:44Z",
+  "generated_at": "2026-10-25T15:39:44Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -35,11 +35,36 @@
       "summary": ""
     },
     {
+      "title": "AI ネイティブの SDLC プレイブック",
+      "url": "https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-25T01:29:55+00:00",
+      "age_days": 0.59,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "This playbook is also available for download — the same six stages, plays, and worked examples, laid out for reading offline or sharing with your team. コードはもはやボトルネックではありません。組織は 1 年前には想像もできない速度でコードを書くために AI を活用し始めましたが、コードを扱うプロセスは..."
+    },
+    {
       "title": "M 4.6 - Volcano Islands, Japan region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T09:27:11.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -64,7 +89,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:10:21+00:00",
-      "age_days": 0.36,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -91,7 +116,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:10:49+00:00",
-      "age_days": 0.36,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -118,7 +143,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:29:48.190+00:00",
-      "age_days": 0.51,
+      "age_days": 0.55,
       "topics": [
         "disaster"
       ],
@@ -144,7 +169,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T06:30:51.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -169,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:52:20.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -194,7 +219,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T10:52:50.272+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -219,7 +244,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:46:22.213+00:00",
-      "age_days": 0.5,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -244,7 +269,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T10:59:39+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -268,35 +293,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
       "dynamics_score": 20.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info",
-      "url": "https://katashin.info/slides/satisfying-ui-animation/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-25T03:25:06+00:00",
-      "age_days": 0.48,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
