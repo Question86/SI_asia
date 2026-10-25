@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:12:41+00:00",
+  "generated_at": "2026-10-25T15:25:14+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 32,
@@ -110,7 +110,7 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.76,
+      "network_score": 17.72,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami",
@@ -118,13 +118,13 @@
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.7,
-      "ranking_score": 17.76,
+      "ranking_score": 17.72,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.36,
+      "baseline_bonus": 0.32,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -333,44 +333,6 @@
       "first_seen_at": "2026-10-25T03:25:06+00:00"
     },
     {
-      "key": "domain:togetter.com",
-      "title": "ヨドバシ秋葉原の展示用iPhone Duo、すでにヒンジがだめになっててありえない「(販売店で)リアル耐久テストされてて参考になるなあ」「Samsungがいかに優秀かわかる」",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2762609"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.42,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 12.42,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.92,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T12:31:48+00:00"
-    },
-    {
       "key": "earthquake:m 5.4 - 33 km ese of ambunti, papua new guinea:5.4",
       "title": "M 5.4 - 33 km ESE of Ambunti, Papua New Guinea",
       "sources": [
@@ -451,6 +413,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-25T02:51:21+00:00"
+    },
+    {
+      "key": "domain:togetter.com",
+      "title": "ヨドバシ秋葉原の展示用iPhone Duo、すでにヒンジがだめになっててありえない「(販売店で)リアル耐久テストされてて参考になるなあ」「Samsungがいかに優秀かわかる」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2762609"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.36,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 12.36,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.86,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T12:31:48+00:00"
     },
     {
       "key": "domain:yurinchi2525.com",
@@ -588,20 +588,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.46,
+      "network_score": 10.43,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.4,
-      "ranking_score": 10.46,
+      "ranking_score": 10.43,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.06,
+      "baseline_bonus": 0.03,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1248,7 +1248,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-25T15:12:41Z",
+    "generated_at": "2026-10-25T15:25:15Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
