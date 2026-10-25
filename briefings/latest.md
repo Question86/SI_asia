@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T10:31:51+00:00_
+_Generiert: 2026-10-25T10:59:36+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
+26 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -124,6 +124,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.4 - 33 km ESE of Ambunti, Papua New Guinea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-25T10:52:50.272+00:00`, fetched `2026-10-25T10:59:10+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-10-25 10:30:27 UTC 2026-10-25 10:30:27 UTC at epicenter Location 4.364°S 143.084°E Depth 72.35 km (44.96 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 6.2 - 21 km E of Port-Olry, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-25T02:46:22.213+00:00`, fetched `2026-10-25T02:50:48+00:00`
@@ -141,15 +150,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - I Time 2026-10-25 08:41:00 UTC 2026-10-25 08:41:00 UTC at epicenter Location 13.885°S 165.577°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 82 km SSE of Akutan, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t8)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-25T08:16:20.040+00:00`, fetched `2026-10-25T08:25:27+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III Time 2026-10-25 07:44:32 UTC 2026-10-25 07:44:32 UTC at epicenter Location 53.494°N 165.156°W Depth 35.07 km (21.79 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info** — Score 11, observation — [Quelle](https://katashin.info/slides/satisfying-ui-animation/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

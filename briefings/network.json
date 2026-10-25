@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-25T10:31:54+00:00",
+  "generated_at": "2026-10-25T10:59:39+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 25,
-    "clusters": 24,
+    "findings": 26,
+    "clusters": 25,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 14
+    "dominance_penalized": 15
   },
   "clusters": [
     {
@@ -110,7 +110,7 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.4,
+      "network_score": 18.36,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami",
@@ -118,13 +118,13 @@
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.7,
-      "ranking_score": 18.4,
+      "ranking_score": 18.36,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.0,
+      "baseline_bonus": 0.96,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -132,6 +132,47 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-14T11:31:15+00:00"
+    },
+    {
+      "key": "earthquake:m 5.4 - 33 km ese of ambunti, papua new guinea:5.4",
+      "title": "M 5.4 - 33 km ESE of Ambunti, Papua New Guinea",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 18.7,
+      "ranking_score": 14.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-10-25T10:59:39+00:00"
     },
     {
       "key": "earthquake:japan:4.5",
@@ -355,20 +396,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.04,
+      "network_score": 11.0,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.4,
-      "ranking_score": 11.04,
+      "ranking_score": 11.0,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.64,
+      "baseline_bonus": 0.6,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -541,44 +582,6 @@
       "first_seen_at": "2026-10-25T07:45:48+00:00"
     },
     {
-      "key": "domain:x.com",
-      "title": "リュウジはなぜ嫌われている人からはすごく嫌われているのか…リュウジが自分自身のアンチになる要素を解説、さらに自分に対してのアンチ発言も",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2762636"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.16,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 10.16,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.16,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-04T10:58:35+00:00"
-    },
-    {
       "key": "earthquake:m 4.9 - 17 km se of ambelókipoi, greece:4.9",
       "title": "M 4.9 - 17 km SE of Ambelókipoi, Greece",
       "sources": [
@@ -741,6 +744,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-25T00:01:17+00:00"
+    },
+    {
+      "key": "domain:x.com",
+      "title": "リュウジはなぜ嫌われている人からはすごく嫌われているのか…リュウジが自分自身のアンチになる要素を解説、さらに自分に対してのアンチ発言も",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2762636"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-04T10:58:35+00:00"
     },
     {
       "key": "title:abema-times-yahoo",
@@ -973,7 +1014,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-25T10:31:55Z",
+    "generated_at": "2026-10-25T10:59:40Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
