@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-25T09:21:22+00:00_
+_Generated: 2026-10-25T09:35:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `24`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-25T09:21:22+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-25 02:09:23 UTC 2026-10-25 02:09:23 UTC at epicenter Location 27.795°N 139.618°E Depth 492.38 km (305.95 mi)
 
-### 3. M 4.5 - 74 km SSE of Onagawa Chō, Japan
+### 3. M 4.6 - Volcano Islands, Japan region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `18`
+- published: `2026-10-25T09:27:11.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf
+- summary: Time 2026-10-25 09:11:17 UTC 2026-10-25 09:11:17 UTC at epicenter Location 22.552°N 142.969°E Depth 133.08 km (82.69 mi)
+
+### 4. M 4.5 - 74 km SSE of Onagawa Chō, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-25T06:30:51.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv
 - summary: Time 2026-10-25 06:04:22 UTC 2026-10-25 06:04:22 UTC at epicenter Location 37.849°N 141.842°E Depth 52.78 km (32.80 mi)
-
-### 4. M 4.8 - Bonin Islands, Japan region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-25T02:52:20.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr
-- summary: Time 2026-10-25 02:36:32 UTC 2026-10-25 02:36:32 UTC at epicenter Location 27.687°N 139.739°E Depth 498.88 km (309.99 mi)
 
 ### 5. M 6.2 - 21 km E of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
