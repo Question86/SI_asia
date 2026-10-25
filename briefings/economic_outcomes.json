@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T11:46:26+00:00",
+  "generated_at": "2026-10-25T11:55:01+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -2662,7 +2662,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_213b41d4490aede3ec40",
@@ -2673,7 +2673,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_2170780765320e429d3b",
@@ -5324,7 +5324,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_41c87e44242836cc28f6",
@@ -7392,7 +7392,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5a8609c38e0d544999d3",
@@ -9916,12 +9916,12 @@
     {
       "event_id": "evt_750491bc80a9c6351d2c",
       "title": "M 5.8 - 209 km ENE of Nagqu, China",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -11364,6 +11364,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_87a4ea5d13fc643e162c",
+      "title": "M 5.1 - 199 km ENE of Nagqu, China",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_87a87ec545f34d76d51b",
@@ -20571,6 +20582,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f7bd3480a2605a3dccfc",
+      "title": "さよならWordPress。ゲ制工房は新時代のCMS、EmDashに移行しました。",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_f80b0e90faf74fda74ce",
