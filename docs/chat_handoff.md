@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-25T07:45:45+00:00_
+_Generated: 2026-10-25T08:01:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `21`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-25T07:45:45+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)
 
-### 6. M 4.6 - 50 km SW of Atiquipa, Peru
+### 6. M 4.5 - 89 km SSE of Akutan, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-10-25T08:00:52.613+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vddzqy
+- summary: ShakeMap - III Time 2026-10-25 07:44:29 UTC 2026-10-25 07:44:29 UTC at epicenter Location 53.453°N 165.051°W Depth 0.00 km (0.00 mi)
+
+### 7. M 4.5 - 91 km SSE of Akutan, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-10-25T07:59:57.936+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdearz
+- summary: ShakeMap - III Time 2026-10-25 07:45:45 UTC 2026-10-25 07:45:45 UTC at epicenter Location 53.440°N 165.019°W Depth 19.70 km (12.24 mi)
+
+### 8. M 4.6 - 50 km SW of Atiquipa, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-25T07:36:58.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4
 - summary: Time 2026-10-25 07:11:49 UTC 2026-10-25 07:11:49 UTC at epicenter Location 16.068°S 74.747°W Depth 26.45 km (16.44 mi)
-
-### 7. なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-10-24T05:49:49+00:00`
-- url: https://katashin.info/slides/satisfying-ui-animation/
-- summary: 2026年10月24日Vue,アニメーション,インタラクションVue Fes Japan 2026 で行った発表のスライドです。スライド部分をクリックしてからキーボードの左右入力でページをめくれます。 参考リンク #スライド内のデモTweetbot のデモの実装を解説した記事
-
-### 8. M 4.9 - 17 km SE of Ambelókipoi, Greece
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-25T05:32:17.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm
-- summary: Time 2026-10-25 05:15:44 UTC 2026-10-25 05:15:44 UTC at epicenter Location 37.651°N 21.011°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
