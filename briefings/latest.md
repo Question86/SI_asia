@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T19:11:30+00:00_
+_Generiert: 2026-10-25T19:21:42+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
+36 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -196,3 +196,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)

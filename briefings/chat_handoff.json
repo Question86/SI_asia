@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-25T19:11:30+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-10-25T19:21:42+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 36,
@@ -12,7 +12,7 @@
     "medium": 6,
     "observe": 30
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "aws/agent-toolkit-for-aws",
