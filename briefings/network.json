@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:00:59+00:00",
+  "generated_at": "2026-10-25T10:19:56+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 24,
@@ -69,7 +69,7 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.48,
+      "network_score": 18.44,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami",
@@ -77,13 +77,13 @@
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.7,
-      "ranking_score": 18.48,
+      "ranking_score": 18.44,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.08,
+      "baseline_bonus": 1.04,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -355,20 +355,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.11,
+      "network_score": 11.08,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.4,
-      "ranking_score": 11.11,
+      "ranking_score": 11.08,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.71,
+      "baseline_bonus": 0.68,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -935,7 +935,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-25T10:01:00Z",
+    "generated_at": "2026-10-25T10:19:57Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
