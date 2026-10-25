@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T23:01:31+00:00",
-  "run_id": "2026-10-25T23:01:31+00:00",
+  "generated_at": "2026-10-25T23:19:33+00:00",
+  "run_id": "2026-10-25T23:19:33+00:00",
   "date": "2026-10-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 41,
     "displayed_findings": 41,
     "high": 1,
@@ -2704,29 +2704,7 @@
       "id": "dca2fa7787beda90c73f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「能動的サイバー防御」とは：サイバー攻撃を未然に防ぎ、被害拡大を防止するための取り組み【今週のキーワード】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/keyword/2148826.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-25T21:39:31+00:00",
-      "fetched_at": "2026-10-25T23:00:59+00:00",
-      "summary": "「能動的サイバー防御」とは：サイバー攻撃を未然に防ぎ、被害拡大を防止するための取り組み【今週のキーワード】",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d34ddd273de04b222725"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

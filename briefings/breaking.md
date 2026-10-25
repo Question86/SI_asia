@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-25T23:01:34+00:00_
+_Generiert: 2026-10-25T23:19:37+00:00_
 
 ## ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka
 
-- Ranking Score: `38.15`
+- Ranking Score: `37.94`
 - Raw Network Score: `30.1`
 - Max Monitor Score: `28`
 - Reichweite: `specialist` / `2.5`
