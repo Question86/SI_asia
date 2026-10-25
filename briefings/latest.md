@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T01:20:15+00:00_
+_Generiert: 2026-10-25T02:51:17+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „M 5.3 - 44 km ESE of Miyazaki, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+7 neue relevante Treffer. Stärkstes Signal: „M 6.5 - Bonin Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.9 - 197 km WNW of Port-Olry, Vanuatu** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2)
+- **USGS earthquake M6.5 - Bonin Islands, Japan region** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9)
   - Quelle: USGS
-  - Zeit: `2026-10-24T02:31:28+00:00`
-  - Kurz: M6.9 - 197 km WNW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 1.
+  - Zeit: `2026-10-25T02:09:23+00:00`
+  - Kurz: M6.5 - Bonin Islands, Japan region. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-114625 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`
@@ -33,6 +33,10 @@ _Generiert: 2026-10-25T01:20:15+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
   - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573709)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.
 - **GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 24/10/2026 02:35 UTC, 4 thousand in MMI IV.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573517)
   - Quelle: GDACS
   - Zeit: ``
@@ -41,10 +45,10 @@ _Generiert: 2026-10-25T01:20:15+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, 40 thousand in MMI IV.
-- **USGS earthquake M6.3 - 170 km NW of Port-Olry, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb)
+- **USGS earthquake M6.2 - 21 km E of Port-Olry, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf)
   - Quelle: USGS
-  - Zeit: `2026-10-24T02:35:57+00:00`
-  - Kurz: M6.3 - 170 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
+  - Zeit: `2026-10-25T02:24:02+00:00`
+  - Kurz: M6.2 - 21 km E of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:12.486km) in Bouvet Island Region 24/10/2026 15:24 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573640)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-10-25T01:20:15+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu Islands 24/10/2026 04:12 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 24/10/2026 04:05 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573526)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 24/10/2026 04:05 UTC, [unknown].
 
 ## Wirtschaft global
 
@@ -85,6 +85,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 6.5 - Bonin Islands, Japan region** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-25T02:29:48.190+00:00`, fetched `2026-10-25T02:50:48+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-25 02:09:23 UTC 2026-10-25 02:09:23 UTC at epicenter Location 27.795°N 139.618°E Depth 492.38 km (305.95 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 44 km ESE of Miyazaki, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-25T00:35:10.771+00:00`, fetched `2026-10-25T00:56:11+00:00`
@@ -97,6 +106,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.2 - 21 km E of Port-Olry, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-25T02:46:22.213+00:00`, fetched `2026-10-25T02:50:48+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.1 - 161 km WNW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-25T02:44:45.040+00:00`, fetched `2026-10-25T02:50:48+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-25 02:06:10 UTC 2026-10-25 02:06:10 UTC at epicenter Location 14.454°S 165.703°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 203 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-24T23:55:56.040+00:00`, fetched `2026-10-25T00:00:34+00:00`
@@ -106,6 +133,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-24 23:39:07 UTC 2026-10-24 23:39:07 UTC at epicenter Location 13.889°S 165.604°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita** — Score 5, observation — [Quelle](https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-24T22:48:23+00:00`, fetched `2026-10-25T02:50:48+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ブラウザがWebサイトにアクセスするとき、Webサーバは証明書チェーンの公開鍵と、サーバ証明書に基づく通信内容の署名を送信します。クライアントは、サーバ証明書から中間CA、信頼済みルートCAへと署名を辿ります。OSやブラウザには証明書ストアを管理する機能があり、そこで「信頼する」と設定した証明書に辿り着けた...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io** — Score 5, observation — [Quelle](https://blog.jxck.io/entries/2026-10-25/emudhra.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-24T20:22:49+00:00`, fetched `2026-10-25T00:56:11+00:00`

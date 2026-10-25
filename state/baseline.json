@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T01:20:18+00:00",
+  "generated_at": "2026-10-25T02:51:21+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2169,7 +2169,7 @@
     },
     "earthquake:japan:5.3": {
       "title": "M 5.3 - 44 km ESE of Miyazaki, Japan",
-      "updated_at": "2026-10-25T01:20:18+00:00",
+      "updated_at": "2026-10-25T02:51:21+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -2198,8 +2198,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7
       ],
       "rolling_average": 17.8,
@@ -3661,10 +3661,9 @@
       "z_hint": 0.0
     },
     "domain:qiita.com": {
-      "title": "「ドパ資料」の作り方 - Qiita",
-      "updated_at": "2026-10-24T23:46:00+00:00",
+      "title": "eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita",
+      "updated_at": "2026-10-25T02:51:21+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3693,12 +3692,13 @@
         10.1,
         7.1,
         7.1,
-        7.1
+        7.1,
+        10.1
       ],
-      "rolling_average": 7.2,
+      "rolling_average": 7.3,
       "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.1
+      "last_score": 10.1,
+      "z_hint": 2.8
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -90250,28 +90250,63 @@
     },
     "earthquake:m 4.8 - 203 km nw of port-olry, vanuatu:4.8": {
       "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T01:20:18+00:00",
+      "updated_at": "2026-10-25T02:51:21+00:00",
       "network_scores": [
         14.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.7,
+      "rolling_average": 12.45,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "domain:blog.jxck.io": {
       "title": "eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io",
-      "updated_at": "2026-10-25T01:20:18+00:00",
+      "updated_at": "2026-10-25T02:51:21+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "earthquake:japan:6.5": {
+      "title": "M 6.5 - Bonin Islands, Japan region",
+      "updated_at": "2026-10-25T02:51:21+00:00",
+      "network_scores": [
+        24.7
+      ],
+      "rolling_average": 24.7,
+      "rolling_peak": 24.7,
+      "last_score": 24.7,
+      "z_hint": 0.0
+    },
+    "earthquake:m 6.2 - 21 km e of port-olry, vanuatu:6.2": {
+      "title": "M 6.2 - 21 km E of Port-Olry, Vanuatu",
+      "updated_at": "2026-10-25T02:51:21+00:00",
+      "network_scores": [
+        18.7
+      ],
+      "rolling_average": 18.7,
+      "rolling_peak": 18.7,
+      "last_score": 18.7,
+      "z_hint": 0.0
+    },
+    "earthquake:m 5.1 - 161 km wnw of port-olry, vanuatu:5.1": {
+      "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
+      "updated_at": "2026-10-25T02:51:21+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
     }
   }
 }
