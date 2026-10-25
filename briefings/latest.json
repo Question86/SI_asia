@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T21:37:31+00:00",
-  "run_id": "2026-10-25T21:37:31+00:00",
+  "generated_at": "2026-10-25T21:46:03+00:00",
+  "run_id": "2026-10-25T21:46:03+00:00",
   "date": "2026-10-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 38,
     "displayed_findings": 38,
     "high": 1,
@@ -2494,43 +2494,7 @@
       "id": "dca2fa7787beda90c73f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka",
-      "url": "https://note.com/npaka/n/na5ad6472d68c",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-25T12:07:57+00:00",
-      "fetched_at": "2026-10-25T21:37:00+00:00",
-      "summary": "1. はじめにソフトウェアの「脆弱性」は、悪用されると不正アクセスや情報漏洩につながる危険性があります。そのため、脆弱性情報をいち早く入手し、対策することが重要です。 今回は、世界中の脆弱性情報を確認できる代表的な4つの情報源と、その活用方法を紹介します。 2. 脆弱性情報が公開されるまでの流れ脆弱性情報...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 28,
-      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph high-signal CISA KEV (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Frühwarnsignal prüfen: Quelle, Region, betroffene Märkte/Stacks, AXI0M-Relevanz, Gegencheck, dann erst Handlung. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: CISA KEV"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "2b805fdb90641a01fbd7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
