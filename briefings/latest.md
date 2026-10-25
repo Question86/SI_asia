@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T23:40:18+00:00_
+_Generiert: 2026-10-25T23:46:33+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka“ aus Hatena Bookmark Hotentry IT (Score 28, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+42 neue relevante Treffer. Stärkstes Signal: „ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka“ aus Hatena Bookmark Hotentry IT (Score 28, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -205,7 +205,3 @@ _Generiert: 2026-10-25T23:40:18+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f998e47b010>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
