@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-25T08:53:07+00:00_
+_Generated: 2026-10-25T09:00:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `23`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-25T08:53:07+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)
 
-### 6. M 4.6 - 82 km SSE of Akutan, Alaska
+### 6. M 5.4 - 205 km NW of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-10-25T08:59:29.750+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc
+- summary: ShakeMap - I Time 2026-10-25 08:41:00 UTC 2026-10-25 08:41:00 UTC at epicenter Location 13.885°S 165.577°E Depth 10.00 km (6.21 mi)
+
+### 7. M 4.6 - 82 km SSE of Akutan, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-25T08:16:20.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t8
 - summary: ShakeMap - III Time 2026-10-25 07:44:32 UTC 2026-10-25 07:44:32 UTC at epicenter Location 53.494°N 165.156°W Depth 35.07 km (21.79 mi)
 
-### 7. M 4.5 - 89 km SSE of Akutan, Alaska
+### 8. M 4.5 - 89 km SSE of Akutan, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-25T08:00:52.613+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vddzqy
 - summary: ShakeMap - III Time 2026-10-25 07:44:29 UTC 2026-10-25 07:44:29 UTC at epicenter Location 53.453°N 165.051°W Depth 0.00 km (0.00 mi)
-
-### 8. M 4.5 - 91 km SSE of Akutan, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-25T07:59:57.936+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdearz
-- summary: ShakeMap - III Time 2026-10-25 07:45:45 UTC 2026-10-25 07:45:45 UTC at epicenter Location 53.440°N 165.019°W Depth 19.70 km (12.24 mi)
 
 END OF DOCUMENT
