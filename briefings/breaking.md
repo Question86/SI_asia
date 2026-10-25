@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-25T21:46:06+00:00_
+_Generiert: 2026-10-25T22:00:44+00:00_
 
 ## ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka
 
