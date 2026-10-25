@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T18:39:30+00:00_
+_Generiert: 2026-10-25T18:51:17+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
+36 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
