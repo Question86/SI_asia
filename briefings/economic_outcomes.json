@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T08:53:39+00:00",
+  "generated_at": "2026-10-25T09:01:08+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -9452,6 +9452,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_704a693c75f8642ac220",
+      "title": "M 5.4 - 205 km NW of Port-Olry, Vanuatu",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_707181209c20652355a3",
       "title": "M 4.5 - 78 km N of Daocheng, China",
       "deduplicated_buckets": 0,
@@ -16214,7 +16225,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c41f3a47ce9fbfd190fe",
