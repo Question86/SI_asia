@@ -110,5 +110,148 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=53.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka",
+        "url": "https://note.com/npaka/n/na5ad6472d68c",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-25T12:07:57+00:00",
+        "age_days": 0.49,
+        "topics": [
+          "axiom",
+          "security"
+        ],
+        "dynamics_score": 53.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: active, exploitation",
+          "security high-signal: active, exploitation",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "1. はじめにソフトウェアの「脆弱性」は、悪用されると不正アクセスや情報漏洩につながる危険性があります。そのため、脆弱性情報をいち早く入手し、対策することが重要です。 今回は、世界中の脆弱性情報を確認できる代表的な4つの情報源と、その活用方法を紹介します。 2. 脆弱性情報が公開されるまでの流れ脆弱性情報..."
+      },
+      {
+        "title": "aws/agent-toolkit-for-aws",
+        "url": "https://github.com/aws/agent-toolkit-for-aws",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-10-25T06:10:21+00:00",
+        "age_days": 0.74,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 35.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS Agent Toolkit for AWS Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents the tools, knowledge, and guardrails they need to work with AWS services. It works with the…"
+      },
+      {
+        "title": "AI ネイティブの SDLC プレイブック",
+        "url": "https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-25T01:29:55+00:00",
+        "age_days": 0.93,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "This playbook is also available for download — the same six stages, plays, and worked examples, laid out for reading offline or sharing with your team. コードはもはやボトルネックではありません。組織は 1 年前には想像もできない速度でコードを書くために AI を活用し始めましたが、コードを扱うプロセスは..."
+      },
+      {
+        "title": "ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka",
+        "url": "https://note.com/npaka/n/na5ad6472d68c",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T18:43:10+00:00",
+        "age_days": 55.21,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 11.29,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 11.29",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 55.2d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "aws/agent-toolkit-for-aws",
+        "url": "https://github.com/aws/agent-toolkit-for-aws",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-10-25T06:10:49+00:00",
+        "age_days": 0.74,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }

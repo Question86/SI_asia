@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-25T23:36:39Z_
+_Generated: 2026-10-25T23:51:46Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-25T12:07:57+00:00` / age_days `0.48`
+- Published: `2026-10-25T12:07:57+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, exploitation, security high-signal: active, exploitation, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,17 +22,17 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `55.2`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `55.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 15.50, high terms: rce, security high-signal: rce, aging penalty -8.0 for 55.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 11.29, high terms: rce, security high-signal: rce, aging penalty -8.0 for 55.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://note.com/npaka/n/na5ad6472d68c
 
 ### M 6.5 - Bonin Islands, Japan region
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.5`
-- Published: `2026-10-25T02:51:21+00:00` / age_days `0.86`
+- Published: `2026-10-25T02:51:21+00:00` / age_days `0.88`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-25T01:29:55+00:00` / age_days `0.92`
+- Published: `2026-10-25T01:29:55+00:00` / age_days `0.93`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-25T09:27:11.040+00:00` / age_days `0.59`
+- Published: `2026-10-25T09:27:11.040+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-25T06:10:21+00:00` / age_days `0.73`
+- Published: `2026-10-25T06:10:21+00:00` / age_days `0.74`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-25T06:10:49+00:00` / age_days `0.73`
+- Published: `2026-10-25T06:10:49+00:00` / age_days `0.74`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-25T02:29:48.190+00:00` / age_days `0.88`
+- Published: `2026-10-25T02:29:48.190+00:00` / age_days `0.89`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-25T22:28:45.040+00:00` / age_days `0.05`
+- Published: `2026-10-25T22:28:45.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-25T06:30:51.040+00:00` / age_days `0.71`
+- Published: `2026-10-25T06:30:51.040+00:00` / age_days `0.72`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-25T02:52:20.040+00:00` / age_days `0.86`
+- Published: `2026-10-25T02:52:20.040+00:00` / age_days `0.87`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.9
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “ソフトウェアの脆弱性情報を�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-25T10:52:50.272+00:00` / age_days `0.53`
+- Published: `2026-10-25T10:52:50.272+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
