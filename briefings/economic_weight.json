@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T03:58:29+00:00",
+  "generated_at": "2026-10-25T04:14:11+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1581,7 +1581,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-25T02:51:21+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
       "status": "active"
     },
     {
@@ -1649,7 +1649,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T23:45:53+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
       "status": "active"
     },
     {
@@ -2040,7 +2040,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-01T12:57:04+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
       "status": "active"
     },
     {
@@ -2805,7 +2805,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-25T02:51:21+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
       "status": "active"
     },
     {
@@ -6324,7 +6324,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-25T00:01:17+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
       "status": "active"
     },
     {
@@ -6360,6 +6360,23 @@
       "first_seen_at": "2026-09-24T08:16:10+00:00",
       "last_seen_at": "2026-09-24T11:58:48+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_5b6db6159f77d9828c74",
+      "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_5d70bb5c472711f628be",
@@ -10149,7 +10166,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-25T02:51:21+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
       "status": "active"
     },
     {
@@ -10423,23 +10440,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_5b6db6159f77d9828c74",
-      "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-25T03:58:09+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -18651,7 +18651,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-25T03:25:06+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
       "status": "active"
     },
     {
@@ -28037,7 +28037,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
       "status": "active"
     },
     {
@@ -28836,7 +28836,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-25T03:44:04+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
       "status": "active"
     },
     {
@@ -29584,7 +29584,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-25T00:56:40+00:00",
-      "last_seen_at": "2026-10-25T03:58:09+00:00",
+      "last_seen_at": "2026-10-25T04:13:49+00:00",
       "status": "active"
     },
     {
