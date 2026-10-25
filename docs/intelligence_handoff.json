@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-25T03:17:33Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-10-25T03:47:44Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 6.5 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -14,8 +14,32 @@
       "title": "M 6.5 - Bonin Islands, Japan region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T02:51:21+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 6.5 - Bonin Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:29:48.190+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -41,7 +65,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:52:20.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -62,35 +86,11 @@
       "summary": "Time 2026-10-25 02:36:32 UTC 2026-10-25 02:36:32 UTC at epicenter Location 27.687°N 139.739°E Depth 498.88 km (309.99 mi)"
     },
     {
-      "title": "M 6.5 - Bonin Islands, Japan region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 6.2 - 21 km E of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:46:22.213+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -111,28 +111,26 @@
       "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)"
     },
     {
-      "title": "M 4.8 - Bonin Islands, Japan region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
+      "title": "M 6.2 - 21 km E of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-28T23:45:53+00:00",
-      "age_days": 57.15,
+      "published_at": "2026-10-25T02:51:21+00:00",
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 19.59,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 20.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 57.1d old signal"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -141,7 +139,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:44:45.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -166,7 +164,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T23:55:56.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -187,11 +185,11 @@
       "summary": "Time 2026-10-24 23:39:07 UTC 2026-10-24 23:39:07 UTC at epicenter Location 13.889°S 165.604°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
+      "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-25T00:01:17+00:00",
-      "age_days": 0.14,
+      "published_at": "2026-10-25T02:51:21+00:00",
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -211,15 +209,63 @@
       "summary": ""
     },
     {
-      "title": "M 6.2 - 21 km E of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
+      "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-25T02:51:21+00:00",
+      "published_at": "2026-10-25T00:01:17+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info",
+      "url": "https://katashin.info/slides/satisfying-ui-animation/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T05:49:49+00:00",
+      "age_days": 0.92,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "2026年10月24日Vue,アニメーション,インタラクションVue Fes Japan 2026 で行った発表のスライドです。スライド部分をクリックしてからキーボードの左右入力でページをめくれます。 参考リンク #スライド内のデモTweetbot のデモの実装を解説した記事"
+    },
+    {
+      "title": "なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info",
+      "url": "https://katashin.info/slides/satisfying-ui-animation/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-25T03:25:06+00:00",
       "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.5,
+      "dynamics_score": 15.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -239,7 +285,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T00:35:10.771+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "disaster"
@@ -261,54 +307,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "DYFI? - II Time 2026-10-24 23:59:36 UTC 2026-10-24 23:59:36 UTC at epicenter Location 31.823°N 131.873°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io",
-      "url": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-25T00:56:40+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -320,9 +318,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 7,
-      "quiet": 1
+      "strong": 5,
+      "watch": 7
     }
   }
 }
