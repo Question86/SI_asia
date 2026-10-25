@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T17:29:04+00:00",
+  "generated_at": "2026-10-25T17:47:55+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -3477,6 +3477,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2ae13fd21d4bab9dad85",
+      "title": "M 4.7 - 19 km NE of Atico, Peru",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_2b10a246f0aad1ef3366",
@@ -20427,7 +20438,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f613d61784f3ba1f91c1",
