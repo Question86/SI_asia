@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T06:37:17+00:00",
+  "generated_at": "2026-10-25T06:58:26+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2169,7 +2169,7 @@
     },
     "earthquake:japan:5.3": {
       "title": "M 5.3 - 44 km ESE of Miyazaki, Japan",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -2183,8 +2183,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -3662,7 +3662,7 @@
     },
     "domain:qiita.com": {
       "title": "eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -3674,12 +3674,12 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
         7.1,
         7.1,
         7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -7004,7 +7004,7 @@
     },
     "earthquake:japan:4.8": {
       "title": "M 4.8 - Bonin Islands, Japan region",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -7021,8 +7021,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -19233,7 +19233,7 @@
     },
     "earthquake:japan:4.5": {
       "title": "M 4.5 - 74 km SSE of Onagawa Chō, Japan",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -19263,13 +19263,13 @@
         17.7,
         17.7,
         17.7,
-        17.7,
-        20.7
+        20.7,
+        17.7
       ],
       "rolling_average": 17.8,
       "rolling_peak": 20.7,
-      "last_score": 20.7,
-      "z_hint": 2.9
+      "last_score": 17.7,
+      "z_hint": -0.1
     },
     "earthquake:m 4.8 - kermadec islands, new zealand:4.8": {
       "title": "M 4.8 - Kermadec Islands, New Zealand",
@@ -90250,7 +90250,7 @@
     },
     "earthquake:m 4.8 - 203 km nw of port-olry, vanuatu:4.8": {
       "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -90269,16 +90269,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.87,
+      "rolling_average": 11.86,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "domain:blog.jxck.io": {
       "title": "eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -90296,16 +90297,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.28,
+      "rolling_average": 7.27,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "earthquake:japan:6.5": {
       "title": "M 6.5 - Bonin Islands, Japan region",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         24.7,
         21.7,
@@ -90321,16 +90323,17 @@
         21.7,
         21.7,
         21.7,
+        21.7,
         21.7
       ],
-      "rolling_average": 21.9,
+      "rolling_average": 21.89,
       "rolling_peak": 24.7,
       "last_score": 21.7,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "earthquake:m 6.2 - 21 km e of port-olry, vanuatu:6.2": {
       "title": "M 6.2 - 21 km E of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -90346,16 +90349,17 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 15.9,
+      "rolling_average": 15.89,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "earthquake:m 5.1 - 161 km wnw of port-olry, vanuatu:5.1": {
       "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -90371,16 +90375,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.9,
+      "rolling_average": 11.89,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:vue-fes-japan-2026-katashin-info": {
       "title": "なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -90394,16 +90399,17 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.33,
+      "rolling_average": 13.31,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "domain:cookpad.com": {
       "title": "プロの味！簡単にして激ウマな豚汁の秘密 by こじまぽん助【分子調理学研究家】",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -90416,16 +90422,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.35,
+      "rolling_average": 7.33,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "earthquake:m 5.2 - 63 km nne of lae, papua new guinea:5.2": {
       "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -90437,16 +90444,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.97,
+      "rolling_average": 11.95,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "url:https://www.yomiuri.co.jp/national/20261024-gyt1t00360/": {
       "title": "知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -90454,63 +90462,79 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.53,
+      "rolling_average": 7.48,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "earthquake:m 4.9 - 17 km se of ambelókipoi, greece:4.9": {
       "title": "M 4.9 - 17 km SE of Ambelókipoi, Greece",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.45,
+      "rolling_average": 12.3,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "domain:uiuret.hatenablog.com": {
       "title": "思いつきが現実になる世界でこわい - 運河",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.1,
+      "rolling_average": 7.85,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "github_repo:aws/agent-toolkit-for-aws": {
       "title": "aws/agent-toolkit-for-aws",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         27.1,
+        24.1,
         24.1
       ],
-      "rolling_average": 25.6,
+      "rolling_average": 25.1,
       "rolling_peak": 27.1,
       "last_score": 24.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "github_repo:luongnv89/claude-howto": {
       "title": "luongnv89/claude-howto",
-      "updated_at": "2026-10-25T06:37:17+00:00",
+      "updated_at": "2026-10-25T06:58:26+00:00",
       "network_scores": [
         14.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 12.6,
+      "rolling_average": 12.1,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "title:abema-times-yahoo": {
+      "title": "「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク（ABEMA TIMES） - Yahoo!ニュース",
+      "updated_at": "2026-10-25T06:58:26+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }
