@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-25T22:28:24+00:00_
+_Generated: 2026-10-25T22:47:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `40`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-10-25T22:28:24+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf
 - summary: Time 2026-10-25 09:11:17 UTC 2026-10-25 09:11:17 UTC at epicenter Location 22.552°N 142.969°E Depth 133.08 km (82.69 mi)
 
-### 5. M 4.5 - 74 km SSE of Onagawa Chō, Japan
+### 5. M 5.3 - Bonin Islands, Japan region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-10-25T06:30:51.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv
-- summary: Time 2026-10-25 06:04:22 UTC 2026-10-25 06:04:22 UTC at epicenter Location 37.849°N 141.842°E Depth 52.78 km (32.80 mi)
+- published: `2026-10-25T22:28:45.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4we
+- summary: Time 2026-10-25 22:14:15 UTC 2026-10-25 22:14:15 UTC at epicenter Location 27.838°N 139.675°E Depth 485.13 km (301.45 mi)
 
 ### 6. M 5.4 - 33 km ESE of Ambunti, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
@@ -57,18 +57,18 @@ _Generated: 2026-10-25T22:28:24+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)
 
-### 8. M 4.6 - 153 km WNW of Adak, Alaska
+### 8. 台湾では装置がトラブらないために「乖乖（グァイグァイ）」というおやつをお供えする習慣があるがTSMCでも普通にやっているらしい
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-10-25T21:15:24+00:00`
+- url: https://togetter.com/li/2762768
+- summary: Koji Harano 原野 幸治 @khng1980 台湾の研究室では、装置がトラブらないためのおまじないとしてこのお菓子を装置の上にお供えする習慣があるそうです。カルチャーショック pic.x.com/P6qaZhQc9l 2026-10-22 22:04:40 Koji Harano 原野 幸治 @khng1980 Principal Researcher, NIMS(物質·材料研究機構 主幹研究員) & Adju...
+
+### 9. M 4.6 - 153 km WNW of Adak, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-25T18:23:19.894+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vb
 - summary: ShakeMap - II Time 2026-10-25 17:49:58 UTC 2026-10-25 17:49:58 UTC at epicenter Location 52.192°N 178.806°W Depth 152.90 km (95.01 mi)
-
-### 9. M 4.7 - 19 km NE of Atico, Peru
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-25T17:36:35.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1
-- summary: Time 2026-10-25 17:11:49 UTC 2026-10-25 17:11:49 UTC at epicenter Location 16.099°S 73.474°W Depth 62.10 km (38.58 mi)
 
 END OF DOCUMENT

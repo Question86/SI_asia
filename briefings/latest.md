@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T22:28:24+00:00_
+_Generiert: 2026-10-25T22:47:06+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka“ aus Hatena Bookmark Hotentry IT (Score 28, risk).
+40 neue relevante Treffer. Stärkstes Signal: „ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka“ aus Hatena Bookmark Hotentry IT (Score 28, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -120,14 +120,14 @@ _Generiert: 2026-10-25T22:28:24+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami, volcano_aviation (+6.0)
   - Kurz: Time 2026-10-25 09:11:17 UTC 2026-10-25 09:11:17 UTC at epicenter Location 22.552°N 142.969°E Depth 133.08 km (82.69 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 74 km SSE of Onagawa Chō, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv)
+- **M 5.3 - Bonin Islands, Japan region** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4we)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-25T06:30:51.040+00:00`, fetched `2026-10-25T06:36:48+00:00`
+  - Zeit: published `2026-10-25T22:28:45.040+00:00`, fetched `2026-10-25T22:46:35+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-25 06:04:22 UTC 2026-10-25 06:04:22 UTC at epicenter Location 37.849°N 141.842°E Depth 52.78 km (32.80 mi)
+  - Kurz: Time 2026-10-25 22:14:15 UTC 2026-10-25 22:14:15 UTC at epicenter Location 27.838°N 139.675°E Depth 485.13 km (301.45 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
@@ -150,6 +150,15 @@ _Generiert: 2026-10-25T22:28:24+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **台湾では装置がトラブらないために「乖乖（グァイグァイ）」というおやつをお供えする習慣があるがTSMCでも普通にやっているらしい** — Score 12, observation — [Quelle](https://togetter.com/li/2762768)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-25T21:15:24+00:00`, fetched `2026-10-25T22:46:35+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry, Watchgraph:chips_compute_datacenters
+  - Watchgraph: chips_compute_datacenters
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, XOM, CVX, SHEL
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)
+  - Kurz: Koji Harano 原野 幸治 @khng1980 台湾の研究室では、装置がトラブらないためのおまじないとしてこのお菓子を装置の上にお供えする習慣があるそうです。カルチャーショック pic.x.com/P6qaZhQc9l 2026-10-22 22:04:40 Koji Harano 原野 幸治 @khng1980 Principal Researcher, NIMS(物質·材料研究機構 主幹研究員) & Adju...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 153 km WNW of Adak, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-25T18:23:19.894+00:00`, fetched `2026-10-25T18:24:22+00:00`
@@ -176,15 +185,6 @@ _Generiert: 2026-10-25T22:28:24+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年10月24日Vue,アニメーション,インタラクションVue Fes Japan 2026 で行った発表のスライドです。スライド部分をクリックしてからキーボードの左右入力でページをめくれます。 参考リンク #スライド内のデモTweetbot のデモの実装を解説した記事
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ヨドバシ秋葉原の展示用iPhone Duo、すでにヒンジがだめになっててありえない「(販売店で)リアル耐久テストされてて参考になるなあ」「Samsungがいかに優秀かわかる」** — Score 10, observation — [Quelle](https://togetter.com/li/2762609)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-25T09:36:44+00:00`, fetched `2026-10-25T11:53:44+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region south_korea: Samsung (+2.0)
-  - Kurz: ぽらりす @11_Polaris_24 [訂正] 天井 ←誤 展示用←正 [その他] ガジェオタじゃないので知識がないです。 好きな機種はnothing phone 2です。 特に宣伝することがないので好きな曲を貼っておきます 尾崎豊 - 核(Core) youtu.be/11WfcKu5G5U?si… 2026-10-25 09:10:41 iPhone Duo - Apple（日本） iPhone Duo。iPhone史上...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **luongnv89/claude-howto** — Score 9, observation — [Quelle](https://github.com/luongnv89/claude-howto)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
