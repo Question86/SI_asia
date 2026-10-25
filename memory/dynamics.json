@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-25T03:47:44Z",
+  "generated_at": "2026-10-25T04:35:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 22,
     "bands": {
-      "strong": 5,
-      "watch": 9,
-      "quiet": 6
+      "strong": 6,
+      "watch": 11,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 9,
-      "quiet": 6
+      "strong": 6,
+      "watch": 11,
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -46,7 +46,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:29:48.190+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:52:20.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:46:22.213+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -122,7 +122,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -142,11 +142,60 @@
       "summary": ""
     },
     {
+      "title": "なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info",
+      "url": "https://katashin.info/slides/satisfying-ui-animation/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-25T03:25:06+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T03:45:50.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-25 03:29:10 UTC 2026-10-25 03:29:10 UTC at epicenter Location 6.174°S 147.166°E Depth 80.78 km (50.19 mi)"
+    },
+    {
       "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:44:45.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -171,7 +220,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T23:55:56.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -196,7 +245,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:51:21+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -220,7 +269,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T00:01:17+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -244,7 +293,7 @@
       "url": "https://katashin.info/slides/satisfying-ui-animation/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T05:49:49+00:00",
-      "age_days": 0.92,
+      "age_days": 0.95,
       "topics": [
         "general"
       ],
@@ -264,35 +313,11 @@
       "summary": "2026年10月24日Vue,アニメーション,インタラクションVue Fes Japan 2026 で行った発表のスライドです。スライド部分をクリックしてからキーボードの左右入力でページをめくれます。 参考リンク #スライド内のデモTweetbot のデモの実装を解説した記事"
     },
     {
-      "title": "なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info",
-      "url": "https://katashin.info/slides/satisfying-ui-animation/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-25T03:25:06+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 5.3 - 44 km ESE of Miyazaki, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T00:35:10.771+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "disaster"
@@ -320,7 +345,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-28T23:45:53+00:00",
-      "age_days": 57.17,
+      "age_days": 57.2,
       "topics": [
         "general"
       ],
@@ -341,11 +366,35 @@
       "summary": ""
     },
     {
+      "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T03:58:09+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io",
       "url": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T00:56:40+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -369,22 +418,22 @@
       "url": "https://cookpad.com/jp/recipes/19944624?ref=search&search_term=%E3%83%97%E3%83%AD%E3%81%AE%E5%91%B3%EF%BC%81%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%97%E3%81%A6%E6%BF%80%E3%82%A6%E3%83%9E%E3%81%AA%E8%B1%9A%E6%B1%81%E3%81%AE%E7%A7%98%E5%AF%86",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T03:44:04+00:00",
-      "age_days": 0.0,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -393,7 +442,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T20:22:49+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -417,7 +466,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T20:05:28+00:00",
-      "age_days": 128.32,
+      "age_days": 128.35,
       "topics": [
         "ai"
       ],
@@ -434,7 +483,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 128.3d old signal",
+        "aging penalty -8.0 for 128.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -444,7 +493,7 @@
       "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 128.08,
+      "age_days": 128.11,
       "topics": [
         "general"
       ],
@@ -469,7 +518,7 @@
       "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T22:48:23+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -493,7 +542,7 @@
       "url": "https://cookpad.com/jp/recipes/19944624?ref=search&search_term=%E3%83%97%E3%83%AD%E3%81%AE%E5%91%B3%EF%BC%81%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%97%E3%81%A6%E6%BF%80%E3%82%A6%E3%83%9E%E3%81%AA%E8%B1%9A%E6%B1%81%E3%81%AE%E7%A7%98%E5%AF%86",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T18:14:36+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
