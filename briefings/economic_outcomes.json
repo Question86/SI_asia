@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T17:55:35+00:00",
+  "generated_at": "2026-10-25T18:02:38+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -3653,6 +3653,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2cd244018394cb9328cc",
+      "title": "M 5.2 - 59 km SW of Ashkāsham, Afghanistan",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_2ce0fcb7d8876f4b653f",
@@ -7513,7 +7524,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5b934a38e1ee3844e85a",
