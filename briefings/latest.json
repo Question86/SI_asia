@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T03:58:06+00:00",
-  "run_id": "2026-10-25T03:58:06+00:00",
+  "generated_at": "2026-10-25T04:13:45+00:00",
+  "run_id": "2026-10-25T04:13:45+00:00",
   "date": "2026-10-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 11,
     "displayed_findings": 11,
     "high": 0,
@@ -723,44 +723,7 @@
       "id": "dca2fa7787beda90c73f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-25T03:45:50.040+00:00",
-      "fetched_at": "2026-10-25T03:57:39+00:00",
-      "summary": "Time 2026-10-25 03:29:10 UTC 2026-10-25 03:29:10 UTC at epicenter Location 6.174°S 147.166°E Depth 80.78 km (50.19 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "434092eff6f203a30310"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
