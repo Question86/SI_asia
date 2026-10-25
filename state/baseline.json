@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T04:13:49+00:00",
+  "generated_at": "2026-10-25T04:32:52+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2169,7 +2169,7 @@
     },
     "earthquake:japan:5.3": {
       "title": "M 5.3 - 44 km ESE of Miyazaki, Japan",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -2192,8 +2192,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -3662,7 +3662,7 @@
     },
     "domain:qiita.com": {
       "title": "eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -3683,12 +3683,12 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
         7.1,
         7.1,
         7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -7004,7 +7004,7 @@
     },
     "earthquake:japan:4.8": {
       "title": "M 4.8 - Bonin Islands, Japan region",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -7030,8 +7030,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -90250,7 +90250,7 @@
     },
     "earthquake:m 4.8 - 203 km nw of port-olry, vanuatu:4.8": {
       "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -90260,16 +90260,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.03,
+      "rolling_average": 12.0,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "domain:blog.jxck.io": {
       "title": "eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -90278,99 +90279,106 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.48,
+      "rolling_average": 7.43,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "earthquake:japan:6.5": {
       "title": "M 6.5 - Bonin Islands, Japan region",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         24.7,
         21.7,
         21.7,
         21.7,
         21.7,
+        21.7,
         21.7
       ],
-      "rolling_average": 22.2,
+      "rolling_average": 22.13,
       "rolling_peak": 24.7,
       "last_score": 21.7,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "earthquake:m 6.2 - 21 km e of port-olry, vanuatu:6.2": {
       "title": "M 6.2 - 21 km E of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         18.7,
         15.7,
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 16.2,
+      "rolling_average": 16.13,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "earthquake:m 5.1 - 161 km wnw of port-olry, vanuatu:5.1": {
       "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.2,
+      "rolling_average": 12.13,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:vue-fes-japan-2026-katashin-info": {
       "title": "なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         16.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.85,
+      "rolling_average": 13.7,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "domain:cookpad.com": {
       "title": "プロの味！簡単にして激ウマな豚汁の秘密 by こじまぽん助【分子調理学研究家】",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.1,
+      "rolling_average": 7.85,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "earthquake:m 5.2 - 63 km nne of lae, papua new guinea:5.2": {
       "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
-      "updated_at": "2026-10-25T04:13:49+00:00",
+      "updated_at": "2026-10-25T04:32:52+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 13.2,
+      "rolling_average": 12.7,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }
