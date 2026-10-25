@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T04:58:06+00:00",
-  "run_id": "2026-10-25T04:58:06+00:00",
+  "generated_at": "2026-10-25T05:10:55+00:00",
+  "run_id": "2026-10-25T05:10:55+00:00",
   "date": "2026-10-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 12,
     "displayed_findings": 12,
     "high": 0,
@@ -765,29 +765,7 @@
       "id": "dca2fa7787beda90c73f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」",
-      "url": "https://www.yomiuri.co.jp/national/20261024-GYT1T00360/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-24T20:11:22+00:00",
-      "fetched_at": "2026-10-25T04:57:37+00:00",
-      "summary": "【読売新聞】 一瞬で１１９万円が――。ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題では、ＦＸ（外国為替証拠金）取引を行う個人投資家らが、将来の蓄えや子どもの教育費などを目的に運用していた資産の一部を一夜にして失っ",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2dad18232b545a36ee31"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

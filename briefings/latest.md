@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T04:58:06+00:00_
+_Generiert: 2026-10-25T05:10:55+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,6 @@ _Generiert: 2026-10-25T04:58:06+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
   - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.2M, Depth:136.298km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573712)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.2M, Depth:136.298km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573709)
   - Quelle: GDACS
   - Zeit: ``
@@ -49,6 +45,10 @@ _Generiert: 2026-10-25T04:58:06+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, 40 thousand in MMI IV.
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573712)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:12.486km) in Bouvet Island Region 24/10/2026 15:24 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573640)
   - Quelle: GDACS
   - Zeit: ``
