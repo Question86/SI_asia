@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T18:07:33+00:00",
+  "generated_at": "2026-10-26T18:38:34+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -4830,6 +4830,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_3ae43a26a70307380285",
+      "title": "M 4.5 - 74 km SE of Rasht, Tajikistan",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_3af8f852f301f8c1d551",
@@ -13497,7 +13508,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9ed2410de632b1cd74e7",
