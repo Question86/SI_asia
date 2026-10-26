@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T01:21:46+00:00",
+  "generated_at": "2026-10-26T01:46:53+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -91170,47 +91170,62 @@
     },
     "title:google-brotli-http2shell-web-openai-node2shell": {
       "title": "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ",
-      "updated_at": "2026-10-26T01:21:46+00:00",
+      "updated_at": "2026-10-26T01:46:53+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 15.6,
+      "rolling_average": 15.1,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:store-retail-chain-laos-moved-excel-agents": {
       "title": "How a 39-store retail chain in Laos moved from Excel to AI agents",
-      "updated_at": "2026-10-26T01:21:46+00:00",
+      "updated_at": "2026-10-26T01:46:53+00:00",
       "network_scores": [
-        22.1
+        22.1,
+        19.1
       ],
-      "rolling_average": 22.1,
+      "rolling_average": 20.6,
       "rolling_peak": 22.1,
-      "last_score": 22.1,
-      "z_hint": 0.0
+      "last_score": 19.1,
+      "z_hint": -1.5
     },
     "url:https://zenn.dev/rimon/articles/45c1fd2f015af8": {
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
-      "updated_at": "2026-10-26T01:21:46+00:00",
+      "updated_at": "2026-10-26T01:46:53+00:00",
       "network_scores": [
-        15.1
+        15.1,
+        12.1
       ],
-      "rolling_average": 15.1,
+      "rolling_average": 13.6,
       "rolling_peak": 15.1,
-      "last_score": 15.1,
-      "z_hint": 0.0
+      "last_score": 12.1,
+      "z_hint": -1.5
     },
     "title:thirty-climate-tech-startups-southeast-asia-that-would": {
       "title": "Thirty climate tech startups in Southeast Asia that would rather build than pledge",
-      "updated_at": "2026-10-26T01:21:46+00:00",
+      "updated_at": "2026-10-26T01:46:53+00:00",
       "network_scores": [
-        12.1
+        12.1,
+        9.1
       ],
-      "rolling_average": 12.1,
+      "rolling_average": 10.6,
       "rolling_peak": 12.1,
-      "last_score": 12.1,
+      "last_score": 9.1,
+      "z_hint": -1.5
+    },
+    "earthquake:m 4.9 - 205 km nw of port-olry, vanuatu:4.9": {
+      "title": "M 4.9 - 205 km NW of Port-Olry, Vanuatu",
+      "updated_at": "2026-10-26T01:46:53+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
       "z_hint": 0.0
     }
   }

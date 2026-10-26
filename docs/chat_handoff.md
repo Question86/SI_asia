@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T01:21:44+00:00_
+_Generated: 2026-10-26T01:46:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `5`
 
 ## Top Signals
 
@@ -29,7 +29,14 @@ _Generated: 2026-10-26T01:21:44+00:00_
 - url: https://zenn.dev/rimon/articles/45c1fd2f015af8
 - summary: 私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みま...
 
-### 4. Thirty climate tech startups in Southeast Asia that would rather build than pledge
+### 4. M 4.9 - 205 km NW of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-26T01:38:29.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa
+- summary: Time 2026-10-26 01:22:20 UTC 2026-10-26 01:22:20 UTC at epicenter Location 13.880°S 165.583°E Depth 10.00 km (6.21 mi)
+
+### 5. Thirty climate tech startups in Southeast Asia that would rather build than pledge
 - source: e27 Asia Startup and Tech Feed
 - score: `7`
 - published: `2026-10-26T01:00:39+00:00`
