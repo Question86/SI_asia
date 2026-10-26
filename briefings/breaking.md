@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-26T20:24:32+00:00_
+_Generiert: 2026-10-26T20:38:52+00:00_
 
 ## GPT-6.1 Terra in GitHub Copilot
 
@@ -19,7 +19,7 @@ _Generiert: 2026-10-26T20:24:32+00:00_
 
 ## Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00
 
-- Ranking Score: `23.14`
+- Ranking Score: `22.92`
 - Raw Network Score: `26.4`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
