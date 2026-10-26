@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T07:20:12+00:00_
+_Generated: 2026-10-26T07:52:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `27`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-26T07:20:12+00:00_
 - url: https://jvn.jp/vu/JVNVU97400824/
 - summary: Googleのデータ圧縮アルゴリズムBrotliのC言語実装における脆弱性（ CVE-2026-111497 ）に対するアドバイザリが公開されました。 本脆弱性は「HTTP2Shell」や「Node2Shell」とも呼ばれています。
 
-### 3. M 5.0 - 45 km NNW of Ende, Indonesia
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux ca-certificates: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-26T07:19:13+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ca-certificates ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen auszulesen oder Daten zu manipulieren
+
+### 4. M 5.0 - 45 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-26T05:10:35.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1
 - summary: Time 2026-10-26 04:53:40 UTC 2026-10-26 04:53:40 UTC at epicenter Location 8.443°S 121.573°E Depth 10.00 km (6.21 mi)
-
-### 4. M 4.8 - 41 km WNW of Kupang, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-26T04:17:47.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp
-- summary: Time 2026-10-26 03:59:22 UTC 2026-10-26 03:59:22 UTC at epicenter Location 10.044°S 123.251°E Depth 35.00 km (21.75 mi)
 
 ### 5. Two part-timers and one AI orchestrator: Inside a Dubai conference on “The Breaking Point” — Part 1
 - source: e27 Asia Startup and Tech Feed

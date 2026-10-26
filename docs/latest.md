@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T07:20:12+00:00_
+_Generiert: 2026-10-26T07:52:37+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+27 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Googleのデータ圧縮アルゴリズムBrotliのC言語実装における脆弱性（ CVE-2026-111497 ）に対するアドバイザリが公開されました。 本脆弱性は「HTTP2Shell」や「Node2Shell」とも呼ばれています。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux ca-certificates: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-26T07:19:13+00:00`, fetched `2026-10-26T07:52:09+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ca-certificates ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen auszulesen oder Daten zu manipulieren
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 45 km NNW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-26T05:10:35.040+00:00`, fetched `2026-10-26T05:25:30+00:00`
@@ -66,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 国土交通省が提供する電子納品物検査支援システムには、インストール時に不適切なファイルアクセス権設定が行われる脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-26T07:19:13+00:00`, fetched `2026-10-26T07:52:09+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise beliebigen Code auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -150,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Taking action for nature – investing in economic resilience and prosperity
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-26T07:34:00.000+00:00`, fetched `2026-10-26T07:52:09+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。** — Score 5, observation — [Quelle](https://onaji.me/entry/2026/10/26)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-26T02:00:08+00:00`, fetched `2026-10-26T03:44:30+00:00`
@@ -173,6 +200,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
