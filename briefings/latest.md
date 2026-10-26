@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T04:01:36+00:00_
+_Generiert: 2026-10-26T04:28:09+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+16 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -82,6 +82,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Until this summer, the morning numbers at LDC Import-Export Co., Ltd. were built by hand. LDC is a Lao distribution and retail group. It started in Vientiane in 2011, distributing local and imported goods, and its retail arm now runs 39 convenience stores across seven provinces, including Jiffy shops on PTT fuel forecourts and its […] The post How a 39-store retail chain in Laos moved from Excel to AI agents appeare…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.8 - 41 km WNW of Kupang, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-26T04:17:47.040+00:00`, fetched `2026-10-26T04:27:35+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-26 03:59:22 UTC 2026-10-26 03:59:22 UTC at epicenter Location 10.044°S 123.251°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **富士電機製V-SFTにおける複数の脆弱性（2026年10月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96549652/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-26T13:00:00+09:00`, fetched `2026-10-26T04:01:03+00:00`
@@ -121,6 +130,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?** — Score 10, observation — [Quelle](https://e27.co/bitcoins-macro-reset-reclaim-us80000-before-the-fed-speaks-20261026/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-26T04:17:18+00:00`, fetched `2026-10-26T04:27:35+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Bitcoin slipped 0.97 per cent to US$79,912.85 over the last 24 hours. That number alone looks mild for an asset known for violent swings. The total crypto market cap fell 0.72 per cent to US$2.68 trillion. Bitcoin’s seven-day correlation with the S&P 500 reached 83.4 per cent. That correlation explains the move better than the […] The post Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks? appeared firs…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Founders are buying gold, not Lamborghinis, after the exit** — Score 10, observation — [Quelle](https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-26T02:00:07+00:00`, fetched `2026-10-26T02:06:09+00:00`
@@ -138,15 +156,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みま...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ailytics bags US$7.4M Series A to make old CCTV cameras earn their keep** — Score 9, observation — [Quelle](https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-26T03:11:35+00:00`, fetched `2026-10-26T03:19:59+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Most industrial CCTV cameras lead a thankless life. They record everything, are watched by almost no one, and only become important after something has gone wrong, when their footage turns into evidence rather than prevention. Singapore-based Ailytics has built a business on reversing that order. The vision AI startup has raised US$7.4 million in an […] The post Ailytics bags US$7.4M Series A to make old CCTV camera…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 205 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
