@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T08:42:35+00:00",
+  "generated_at": "2026-10-26T09:02:06+00:00",
   "fx_as_of": null,
-  "candidate_count": 2283,
+  "candidate_count": 2286,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2283
+    "pending": 2286
   },
   "coverage_warning": null,
   "candidates": [
@@ -9184,6 +9184,63 @@
       "snippet": "ronmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2015) Latvia (2014) Estonia (2011) Slovakia (2009) Cyprus (200",
       "source_priority": "primary_hint",
       "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html"
+    },
+    {
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_8b30338e4f2db30495ab",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_43856848b80264610146",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-26T09:01:57+00:00",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unknown:acce9722cd78",
+      "review_status": "pending",
+      "snippet": "ed-stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuani",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "component_confidence": 0.0
+    },
+    {
+      "amount_native": 1.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_63b4fd0dec917da5f756",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_43856848b80264610146",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-26T09:01:57+00:00",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unknown:eab7b2e9a06d",
+      "review_status": "pending",
+      "snippet": "stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "component_confidence": 0.0
+    },
+    {
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_fac91551b47d4fa17481",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_43856848b80264610146",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-26T09:01:57+00:00",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unknown:2d99026bc271",
+      "review_status": "pending",
+      "snippet": "ronmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2015) Latvia (2014) Estonia (2011) Slovakia (2009) Cyprus (200",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "component_confidence": 0.0
     },
     {
       "amount_native": 47600000000000.0,
@@ -31964,6 +32021,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_e7f1caf4c6931b4b07a7",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -31974,8 +32032,7 @@
       "review_status": "pending",
       "snippet": "is the another account we just destroyed. Check this account. ID: ［口座 ID］ Password: ［パスワード］ Server: GaitameFinest-LIVE Company: Gaitame Finest Company Limited 82026998.0 JPY -> 0 JPY 18:34〜18:40（和文＋英文） これらも、我々が抹消した別のアカウントです。 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-S2-Main Gaitame Finest Company Limited JPY 56,247,380.0 → 0 ［VPS 番号・口座 ID・パスワード］ IS6Technologies-Live IS6",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.55
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 56247380.0,
@@ -31983,6 +32040,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_01dae7fada3c3e94d235",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -31993,8 +32051,7 @@
       "review_status": "pending",
       "snippet": "Company: Gaitame Finest Company Limited 82026998.0 JPY -> 0 JPY 18:34〜18:40（和文＋英文） これらも、我々が抹消した別のアカウントです。 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-S2-Main Gaitame Finest Company Limited JPY 56,247,380.0 → 0 ［VPS 番号・口座 ID・パスワード］ IS6Technologies-Live IS6 Technologies Ltd JPY 81,154,764.0 → 0 この破壊行為を止めるには、以下のウェブサイトにご連絡ください。 ［URL］ 抹消総額: 1,623,498ドル These are another account we destro",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.55
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 81154764.0,
@@ -32002,6 +32059,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_83bd00b7d3eb00a3ba16",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -32012,8 +32070,7 @@
       "review_status": "pending",
       "snippet": "れらも、我々が抹消した別のアカウントです。 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-S2-Main Gaitame Finest Company Limited JPY 56,247,380.0 → 0 ［VPS 番号・口座 ID・パスワード］ IS6Technologies-Live IS6 Technologies Ltd JPY 81,154,764.0 → 0 この破壊行為を止めるには、以下のウェブサイトにご連絡ください。 ［URL］ 抹消総額: 1,623,498ドル These are another account we destroyed. （以下、同じ 2 口座を英文で列挙） 19:05〜19:23（和文＋英文） こんにちは。 我々はHacking Teamです。 GMOが我々との交渉に応じるこ",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.55
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 51314913.0,
@@ -32021,6 +32078,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_8dc72a93bdf0ce12adc3",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -32031,8 +32089,7 @@
       "review_status": "pending",
       "snippet": "じ 2 口座を英文で列挙） 19:05〜19:23（和文＋英文） こんにちは。 我々はHacking Teamです。 GMOが我々との交渉に応じることを拒否したため、予告通り、いくつかのアカウントの残高を破壊（削除・変更）します。 ［VPS 番号・口座 ID・パスワード］ PurpleTradingSC-03Demo AXSE Brokerage Ltd. JPY 51314913.0 -> 29960000 ［VPS 番号・口座 ID・パスワード］ IronFX-Real6 Notesco (BVI) Ltd JPY 111626526.8 -> 29960000 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-LIVE Gaitame Finest Company Limited JPY 82026998.0 -",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.55
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 111626526.8,
@@ -32040,6 +32097,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_ac8144d8b15b9f0fd756",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -32050,8 +32108,7 @@
       "review_status": "pending",
       "snippet": "たため、予告通り、いくつかのアカウントの残高を破壊（削除・変更）します。 ［VPS 番号・口座 ID・パスワード］ PurpleTradingSC-03Demo AXSE Brokerage Ltd. JPY 51314913.0 -> 29960000 ［VPS 番号・口座 ID・パスワード］ IronFX-Real6 Notesco (BVI) Ltd JPY 111626526.8 -> 29960000 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-LIVE Gaitame Finest Company Limited JPY 82026998.0 -> 0 ［VPS 番号・口座 ID・パスワード］ XMTrading-Real 31 Tradexfin Limited JPY 21132460.0 -> -",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.55
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 82026998.0,
@@ -32059,6 +32116,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_767f75d44190735991c8",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -32069,8 +32127,7 @@
       "review_status": "pending",
       "snippet": ". JPY 51314913.0 -> 29960000 ［VPS 番号・口座 ID・パスワード］ IronFX-Real6 Notesco (BVI) Ltd JPY 111626526.8 -> 29960000 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-LIVE Gaitame Finest Company Limited JPY 82026998.0 -> 0 ［VPS 番号・口座 ID・パスワード］ XMTrading-Real 31 Tradexfin Limited JPY 21132460.0 -> -3549508 合計: 1,758,461ドル この破壊行為を停止させるには、以下のウェブサイトを確認し、そこから連絡してください。 ［URL］ ウェブサイトのパスワード: ［パスワード］ Hi,",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.55
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 21132460.0,
@@ -32078,6 +32135,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_64512719487a05314c0e",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -32088,8 +32146,7 @@
       "review_status": "pending",
       "snippet": "Ltd JPY 111626526.8 -> 29960000 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-LIVE Gaitame Finest Company Limited JPY 82026998.0 -> 0 ［VPS 番号・口座 ID・パスワード］ XMTrading-Real 31 Tradexfin Limited JPY 21132460.0 -> -3549508 合計: 1,758,461ドル この破壊行為を停止させるには、以下のウェブサイトを確認し、そこから連絡してください。 ［URL］ ウェブサイトのパスワード: ［パスワード］ Hi, We are Hacking Team. Since GMO refused to engage in negotiations with us, we",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.55
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 51314913.0,
@@ -32097,6 +32154,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_20f8a5f514f78b403b0c",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -32107,8 +32165,7 @@
       "review_status": "pending",
       "snippet": "要求 なし 脅し 口座残高 期限 なし ※ AI による要約。内容は犯人の主張。 こんにちは。 我々はHacking Teamです。 GMOが我々との交渉に応じることを拒否したため、予告通り、アカウントの残高をすべて破壊しました。 ［VPS 番号・口座 ID・パスワード］ PurpleTradingSC-03Demo AXSE Brokerage Ltd. JPY 51,314,913.0 → 29,960,000 ［VPS 番号・口座 ID・パスワード］ IronFX-Real6 Notesco (BVI) Ltd JPY 111,626,526.8 → 29,960,000 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-LIVE Gaitame Finest Company Limited JPY 82,026,9",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.55
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 111626526.8,
@@ -32116,6 +32173,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_596d1c0899901e9a5235",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -32126,8 +32184,7 @@
       "review_status": "pending",
       "snippet": "とを拒否したため、予告通り、アカウントの残高をすべて破壊しました。 ［VPS 番号・口座 ID・パスワード］ PurpleTradingSC-03Demo AXSE Brokerage Ltd. JPY 51,314,913.0 → 29,960,000 ［VPS 番号・口座 ID・パスワード］ IronFX-Real6 Notesco (BVI) Ltd JPY 111,626,526.8 → 29,960,000 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-LIVE Gaitame Finest Company Limited JPY 82,026,998.0 → 0 ［VPS 番号・口座 ID・パスワード］ XMTrading-Real 31 （画像はここで切れている） メール 10/21 21:13（青は当方、",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.55
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 82026998.0,
@@ -32135,6 +32192,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_5b7ca8312051553997bc",
+      "component_confidence": 0.55,
       "component_suggestion": "transfers",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -32145,8 +32203,7 @@
       "review_status": "pending",
       "snippet": "51,314,913.0 → 29,960,000 ［VPS 番号・口座 ID・パスワード］ IronFX-Real6 Notesco (BVI) Ltd JPY 111,626,526.8 → 29,960,000 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-LIVE Gaitame Finest Company Limited JPY 82,026,998.0 → 0 ［VPS 番号・口座 ID・パスワード］ XMTrading-Real 31 （画像はここで切れている） メール 10/21 21:13（青は当方、黒は犯人が自サイトで公開した時点で犯人自身が加工） 「すべて」と書いているが、並べた口座の一部は 残高が 0 になっていない （③と同じ口座・同じ数字の使い回し）。 ⑤ 10月22日 11:00〜11:",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.55
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 1300000000000.0,
@@ -35113,20 +35170,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_a87a857f82b499b51547",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_2f9a7af18d6b8d2139cf",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-10-26T08:42:34+00:00",
       "overlap_group_suggestion": "evt_2f9a7af18d6b8d2139cf:unknown:b6187ad1dd29",
       "review_status": "pending",
       "snippet": "万ドル払えば、攻撃はしない」 犯人 GMO・利用者 実行 なし（RDP ファイルの該当箇所の画像を掲載） 要求 100 万ドル 脅し PC 暗号化・個人情報の拡散 期限 10/27 12:00 ※ AI による要約。内容は犯人の主張。 2026-10-24 20:30 JST 声明 GMOグループへ 27日正午（日本時間）までに、我々が要求する100万ドル（$1M）を支払えば、顧客に対するランサムウェア攻撃や、その他の情報公開は行わない。 「お名前VPS」利用者の皆様へ 一部の顧客は、GMOから「ダウンロードしたRDPファイルを削除するように」との勧告を受けているようですが、そのファイルは使用せずとも、大切に保管しておいてください。なぜなら、我々の行動に関連して、皆さんが集団訴訟で勝訴するための強力な証拠となるからで",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.0,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 500000.0,
@@ -46484,6 +46541,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_9b5c8ee6bb59a91b1774",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -46494,8 +46552,7 @@
       "review_status": "pending",
       "snippet": "あれば、貴社顧客の機密データをすべて公開します。 最終的には、貴社の管理体制の不備（過失）を裏付ける証拠も公表する予定です。 現在、沈黙を続けているという事実自体も、貴社の過失と言えます。 以下に、残高を消滅させた口座の一部を記載します。 ［VPS 番号・口座 ID・パスワード］ OANDA-Japan MT5 Live OANDA Corporation JPY 29630394.00 -> 15203554.00 ［VPS 番号・口座 ID・パスワード］ PurpleTradingSC-03Demo AXSE Brokerage Ltd. JPY 46113220.0 -> 7000000 ［VPS 番号・口座 ID・パスワード］ PurpleTradingSC-03デモ 株式会社アクシー証券 （画像はここで切れている） メール 10/",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.0
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     },
     {
       "amount_native": 46113220.0,
@@ -46503,6 +46560,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_0364a3587feac517b556",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "JPY",
@@ -46513,8 +46571,7 @@
       "review_status": "pending",
       "snippet": "以下に、残高を消滅させた口座の一部を記載します。 ［VPS 番号・口座 ID・パスワード］ OANDA-Japan MT5 Live OANDA Corporation JPY 29630394.00 -> 15203554.00 ［VPS 番号・口座 ID・パスワード］ PurpleTradingSC-03Demo AXSE Brokerage Ltd. JPY 46113220.0 -> 7000000 ［VPS 番号・口座 ID・パスワード］ PurpleTradingSC-03デモ 株式会社アクシー証券 （画像はここで切れている） メール 10/22 11:00（青は当方、黒は犯人が自サイトで公開した時点で犯人自身が加工） ビジネス文書のような敬語に変わった。 以後の脅しの材料（データ公開・過失の公表）がここで予告として出そろう",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "component_confidence": 0.0
+      "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
     }
   ]
 }
