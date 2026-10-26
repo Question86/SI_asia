@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-26T16:00:20+00:00_
+_Generiert: 2026-10-26T16:25:15+00:00_
 
 ## Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00
 

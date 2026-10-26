@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T16:00:15+00:00_
+_Generated: 2026-10-26T16:25:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `73`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-26T16:00:15+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4111
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Code mit Benutzer- oder Anwendungsrechten auszuführen, gültige kryptografische Token zu fälschen, die Authentifizierung zu umgehen, erweiterte Rechte zu…
 
-### 2. How a 39-store retail chain in Laos moved from Excel to AI agents
+### 2. [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)
+- source: CERT-FR Alertes
+- score: `20`
+- published: `2024-02-09T00:00:00+00:00`
+- url: https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/
+- summary: \[Mise à jour du 19 mars 2024\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN S…
+
+### 3. How a 39-store retail chain in Laos moved from Excel to AI agents
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-10-26T01:00:14+00:00`
 - url: https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/
 - summary: Until this summer, the morning numbers at LDC Import-Export Co., Ltd. were built by hand. LDC is a Lao distribution and retail group. It started in Vientiane in 2011, distributing local and imported goods, and its retail arm now runs 39 convenience stores acr…
 
-### 3. BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）
+### 4. BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-26T15:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU97400824/
 - summary: Googleのデータ圧縮アルゴリズムBrotliのC言語実装における脆弱性（ CVE-2026-111497 ）に対するアドバイザリが公開されました。 本脆弱性は「HTTP2Shell」や「Node2Shell」とも呼ばれています。
-
-### 4. [UPDATE] [mittel] Red Hat Enterprise Linux iperf3: Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-26T10:54:12+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux iperf3 ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Two part-timers and one AI orchestrator: Inside a Dubai conference on “The Breaking Point” — Part 1
 - source: e27 Asia Startup and Tech Feed
