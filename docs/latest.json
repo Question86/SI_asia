@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T06:02:45+00:00",
-  "run_id": "2026-10-26T06:02:45+00:00",
+  "generated_at": "2026-10-26T06:48:52+00:00",
+  "run_id": "2026-10-26T06:48:52+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1231,116 +1231,7 @@
       "id": "d82acf9beb135c97fb78"
     }
   ],
-  "new_findings": [
-    {
-      "title": "BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）",
-      "url": "https://jvn.jp/vu/JVNVU97400824/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-26T15:00:00+09:00",
-      "fetched_at": "2026-10-26T06:02:11+00:00",
-      "summary": "Googleのデータ圧縮アルゴリズムBrotliのC言語実装における脆弱性（ CVE-2026-111497 ）に対するアドバイザリが公開されました。 本脆弱性は「HTTP2Shell」や「Node2Shell」とも呼ばれています。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "41227f3a41a6bd2569c1"
-    },
-    {
-      "title": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-26T06:02:11+00:00",
-      "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 https://cindy.app English · 简体中文 🌐 cindy.app · ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time. Cindy runs locally on your own machine, us…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1a8a3d7207a19fd31e69"
-    },
-    {
-      "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (1/4)",
-      "url": "https://ascii.jp/elem/000/004/445/4445534/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-26T01:54:11+00:00",
-      "fetched_at": "2026-10-26T06:02:11+00:00",
-      "summary": "10月16日、「Moss-Image」という新しい画像AIモデルがオープンウエイトで登場しました。5B（50億）パラメータを持ち、写真からアニメ風まで、様々な画風での画像生成や日本語を含むテキストの描画ができる有能なモデルです。また、商用利用・改変・再配布・製品への組み込みを認めるApache 2.0という自由度の高いライセ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "003e3b5d8ea7326d0fa4"
-    },
-    {
-      "title": "【特集】 PCが高い。本当に高い。それでもミニPCなら10万円で戦える",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2149827.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-25T21:30:55+00:00",
-      "fetched_at": "2026-10-26T06:02:11+00:00",
-      "summary": "【特集】 PCが高い。本当に高い。それでもミニPCなら10万円で戦える",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f45e76f5d42b1ff842d5"
-    },
-    {
-      "title": "pollen-robotics/microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-26T06:02:11+00:00",
-      "summary": "A Tiny biped duck robot 🦆 https://pollen-robotics.com/microduck Microduck A tiny biped robot that moves using reinforcement learning policies. Get yours here · Cheat sheet · Training the policies · How it works · Contributing This repo is the duck's brain. About 25 cm and 800 g of robot, run by a handful of daemons on a Rockchip RK3566: a 50 Hz control loop driving fifteen servos from neural policies, the radios and…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d82acf9beb135c97fb78"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
