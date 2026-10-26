@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-26T22:53:23Z",
+  "generated_at": "2026-10-26T23:40:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:15+00:00",
-      "age_days": 0.41,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.65,
+      "age_days": 0.68,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4111",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T11:46:13+00:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -101,7 +101,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-006/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-04-12T00:00:00+00:00",
-      "age_days": 927.95,
+      "age_days": 927.99,
       "topics": [
         "ai",
         "security"
@@ -128,7 +128,7 @@
       "url": "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 130.35,
+      "age_days": 130.38,
       "topics": [
         "general"
       ],
@@ -146,7 +146,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 130.3d old signal"
+        "aging penalty -8.0 for 130.4d old signal"
       ],
       "summary": ""
     },
@@ -155,7 +155,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1346/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.95,
+      "age_days": 5.99,
       "topics": [
         "ai",
         "security"
@@ -181,7 +181,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1351/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.95,
+      "age_days": 5.99,
       "topics": [
         "ai",
         "security"
@@ -207,7 +207,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1350/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.95,
+      "age_days": 5.99,
       "topics": [
         "ai",
         "security"
@@ -233,7 +233,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1349/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.95,
+      "age_days": 5.99,
       "topics": [
         "ai",
         "security"
@@ -259,7 +259,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 130.35,
+      "age_days": 130.38,
       "topics": [
         "general"
       ],
@@ -270,16 +270,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.17,
+      "baseline_z_hint": 0.27,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 2.17",
+        "baseline z_hint 0.27",
         "high terms: rce, 10",
         "security high-signal: rce, 10",
-        "aging penalty -8.0 for 130.3d old signal",
+        "aging penalty -8.0 for 130.4d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -289,7 +289,7 @@
       "url": "https://openai.com/index/greptile-code-review-codex-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-26T22:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -318,7 +318,7 @@
       "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-26T13:45:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -345,7 +345,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:11+00:00",
-      "age_days": 0.7,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
@@ -372,7 +372,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T13:00:00+09:00",
-      "age_days": 0.79,
+      "age_days": 0.82,
       "topics": [
         "security"
       ],
@@ -398,7 +398,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.83,
+      "age_days": 0.86,
       "topics": [
         "security"
       ],
@@ -424,7 +424,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:28:48+00:00",
-      "age_days": 4.56,
+      "age_days": 4.59,
       "topics": [
         "security"
       ],
@@ -449,7 +449,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.7,
+      "age_days": 0.74,
       "topics": [
         "security"
       ],
@@ -474,7 +474,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T10:54:12+00:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -499,7 +499,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:56:13+00:00",
-      "age_days": 0.62,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -524,7 +524,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.65,
+      "age_days": 0.68,
       "topics": [
         "security"
       ],
@@ -549,7 +549,7 @@
       "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-26T10:00:22+00:00",
-      "age_days": 0.54,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -575,7 +575,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:21:46+00:00",
-      "age_days": 0.9,
+      "age_days": 0.93,
       "topics": [
         "ai"
       ],
@@ -603,7 +603,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:00:14+00:00",
-      "age_days": 0.91,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -631,7 +631,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:01:40+00:00",
-      "age_days": 0.79,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -658,7 +658,7 @@
       "url": "https://openai.com/index/greptile-code-review-codex-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 131.09,
+      "age_days": 131.12,
       "topics": [
         "general"
       ],
@@ -669,12 +669,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 13.96,
+      "baseline_z_hint": 10.38,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 13.96",
+        "baseline z_hint 10.38",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "aging penalty -8.0 for 131.1d old signal",
@@ -687,7 +687,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4111",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 59.36,
+      "age_days": 59.4,
       "topics": [
         "security"
       ],
@@ -698,12 +698,11 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.04,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.04",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 59.4d old signal",
@@ -716,7 +715,7 @@
       "url": "https://openai.com/index/openai-cut-incident-investigation",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-26T07:00:00+00:00",
-      "age_days": 0.66,
+      "age_days": 0.69,
       "topics": [
         "ai",
         "security"
@@ -743,7 +742,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:00:00+00:00",
-      "age_days": 0.79,
+      "age_days": 0.82,
       "topics": [
         "ai",
         "macro",
@@ -772,7 +771,7 @@
       "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-26T20:03:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -797,7 +796,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T04:01:40+00:00",
-      "age_days": 0.79,
+      "age_days": 0.82,
       "topics": [
         "general"
       ],
@@ -823,7 +822,7 @@
       "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T10:04:00.000+00:00",
-      "age_days": 0.53,
+      "age_days": 0.57,
       "topics": [
         "security"
       ],
@@ -848,7 +847,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T07:34:00.000+00:00",
-      "age_days": 0.64,
+      "age_days": 0.67,
       "topics": [
         "ai",
         "security"
@@ -874,7 +873,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T03:37:31+00:00",
-      "age_days": 12.8,
+      "age_days": 12.84,
       "topics": [
         "general"
       ],
@@ -899,7 +898,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-007/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-04-25T00:00:00+00:00",
-      "age_days": 914.95,
+      "age_days": 914.99,
       "topics": [
         "security"
       ],
@@ -925,7 +924,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T03:20:33+00:00",
-      "age_days": 0.81,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
@@ -949,7 +948,7 @@
       "url": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:06:43+00:00",
-      "age_days": 0.87,
+      "age_days": 0.9,
       "topics": [
         "general"
       ],
@@ -974,7 +973,7 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:11+00:00",
-      "age_days": 0.7,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
@@ -999,7 +998,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-009/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-07-01T00:00:00+00:00",
-      "age_days": 847.95,
+      "age_days": 847.99,
       "topics": [
         "ai",
         "security"
@@ -1026,7 +1025,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-02-09T00:00:00+00:00",
-      "age_days": 990.95,
+      "age_days": 990.99,
       "topics": [
         "ai",
         "security",
@@ -1055,7 +1054,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3196",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:16+00:00",
-      "age_days": 0.41,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
