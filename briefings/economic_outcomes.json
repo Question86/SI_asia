@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T19:33:53+00:00",
+  "generated_at": "2026-10-26T20:03:47+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -1320,7 +1320,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_113ad378c12b71535878",
@@ -3246,6 +3246,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_280b247b7169c7b80dee",
+      "title": "GPT-6.1 Terra in GitHub Copilot",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_28163c425fb69d27495a",
@@ -7040,7 +7051,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_54469ce08846c5562aeb",
@@ -19877,7 +19888,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_eb38d4226dac7d1f170d",
