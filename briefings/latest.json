@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T15:05:18+00:00",
-  "run_id": "2026-10-26T15:05:18+00:00",
+  "generated_at": "2026-10-26T15:39:50+00:00",
+  "run_id": "2026-10-26T15:39:50+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 58
+      "configured_public_sources_only": 60
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 2,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
     "medium": 12,
-    "observe": 46,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -902,6 +902,47 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "76151a9feb250dc9c1a9"
+      },
+      {
+        "title": "Women in economics - advancing research in economics internationally",
+        "url": "https://www.bis.org/speeches/20261026-women-economics-advancing-research-economics-internationally",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "fetched_at": "2026-10-26T15:39:21+00:00",
+        "summary": "Welcome remarks by Mr Sergio Nicoletti Altimari, Deputy Governor of the Bank of Italy, at the 6 th WE_ARE_IN Macroeconomics and Finance Conference, Rome 22 October 2026.",
+        "matched_keywords": [
+          "macro",
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); macro (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8b44feb013ce20fca4e4"
+      },
+      {
+        "title": "Purpose, perspective and possibility",
+        "url": "https://www.bis.org/speeches/20261026-purpose-perspective-and-possibility",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "fetched_at": "2026-10-26T15:39:21+00:00",
+        "summary": "Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the University of New England (UNE) Graduation Ceremony, Armidale, 23 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Reserve Bank of Australia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3d7feaa73f4feec361c4"
       },
       {
         "title": "楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も - 日本経済新聞",
@@ -2277,6 +2318,47 @@
       "id": "76151a9feb250dc9c1a9"
     },
     {
+      "title": "Women in economics - advancing research in economics internationally",
+      "url": "https://www.bis.org/speeches/20261026-women-economics-advancing-research-economics-internationally",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:39:21+00:00",
+      "summary": "Welcome remarks by Mr Sergio Nicoletti Altimari, Deputy Governor of the Bank of Italy, at the 6 th WE_ARE_IN Macroeconomics and Finance Conference, Rome 22 October 2026.",
+      "matched_keywords": [
+        "macro",
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); macro (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8b44feb013ce20fca4e4"
+    },
+    {
+      "title": "Purpose, perspective and possibility",
+      "url": "https://www.bis.org/speeches/20261026-purpose-perspective-and-possibility",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:39:21+00:00",
+      "summary": "Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the University of New England (UNE) Graduation Ceremony, Armidale, 23 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Reserve Bank of Australia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3d7feaa73f4feec361c4"
+    },
+    {
       "title": "楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2777,189 +2859,45 @@
   ],
   "new_findings": [
     {
-      "title": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-10-26T14:55:21+00:00",
-      "fetched_at": "2026-10-26T15:04:50+00:00",
-      "summary": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "88712fe96c6dc19f3196"
-    },
-    {
-      "title": "Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260094.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-10-26T14:55:21+00:00",
-      "fetched_at": "2026-10-26T15:04:50+00:00",
-      "summary": "Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a0cf57fccbe3932b4fa5"
-    },
-    {
-      "title": "Growth with responsibility - the next balance sheet",
-      "url": "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
+      "title": "Women in economics - advancing research in economics internationally",
+      "url": "https://www.bis.org/speeches/20261026-women-economics-advancing-research-economics-internationally",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-26T00:00:00+00:00",
-      "fetched_at": "2026-10-26T15:04:50+00:00",
-      "summary": "Special address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Financial Express Modern BFSI (Banking, Financial Services, and Insurance) Summit 2026, Mumbai, 15 October 2026.",
+      "fetched_at": "2026-10-26T15:39:21+00:00",
+      "summary": "Welcome remarks by Mr Sergio Nicoletti Altimari, Deputy Governor of the Bank of Italy, at the 6 th WE_ARE_IN Macroeconomics and Finance Conference, Rome 22 October 2026.",
       "matched_keywords": [
-        "banking",
+        "macro",
         "Macro/Policy"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "39949c2e557b61b7bdb1"
-    },
-    {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "fetched_at": "2026-10-26T15:04:50+00:00",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "matched_keywords": [
-        "OpenAI"
       ],
       "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cae3313d7f7138c5ea89"
-    },
-    {
-      "title": "Transiting from emigration to immigration – Malta’s economic post independence economic success story",
-      "url": "https://www.bis.org/speeches/20261026-transiting-emigration-immigration-maltas-economic-post-independence-economic-success-story",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "fetched_at": "2026-10-26T15:04:50+00:00",
-      "summary": "Address by Mr Alexander Demarco, Governor of the Central Bank of Malta, at the Annual Conference of the International Network of Financial Services Ombudsman, Valletta, 5 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_reason": "Macro/Policy (+5.0); macro (+2.0); recent (+1.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6bac7124b82dedcef9ac"
+      "id": "8b44feb013ce20fca4e4"
     },
     {
-      "title": "Shackleton’s lesson - we still have a choice",
-      "url": "https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice",
+      "title": "Purpose, perspective and possibility",
+      "url": "https://www.bis.org/speeches/20261026-purpose-perspective-and-possibility",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-26T00:00:00+00:00",
-      "fetched_at": "2026-10-26T15:04:50+00:00",
-      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the Green Swan 2026 Conference, Manila, 19 October 2026.",
+      "fetched_at": "2026-10-26T15:39:21+00:00",
+      "summary": "Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the University of New England (UNE) Graduation Ceremony, Armidale, 23 October 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9c7357d4c0f4dd95a344"
-    },
-    {
-      "title": "On taxes, credit and growth",
-      "url": "https://www.bis.org/speeches/20261007-taxes-credit-and-growth",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "fetched_at": "2026-10-26T15:04:50+00:00",
-      "summary": "Statement by Mr Dimitar Radev, Governor of the Bulgarian National Bank, Sofia, 25 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Reserve Bank of Australia (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f8c570ff7eeccf5456c8"
-    },
-    {
-      "title": "Rewiring payments - open. Connected. Inclusive.",
-      "url": "https://www.bis.org/speeches/20261026-rewiring-payments-open-connected-inclusive",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "fetched_at": "2026-10-26T15:04:50+00:00",
-      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the South African Reserve Bank Payments Conference, Pretoria, 20 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f582494f65e930f06263"
-    },
-    {
-      "title": "Results of socio-economic development and execution of the republican budget for January–September 2026",
-      "url": "https://www.bis.org/speeches/20261021-results-socio-economic-development-and-execution-republican-budget-january-september-2026",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "fetched_at": "2026-10-26T15:04:50+00:00",
-      "summary": "Report by Mr Yerulan Zhamaubayev, First Deputy Governor of the National Bank of Kazakhstan, at a meeting of the Government of the Republic of Kazakhstan on \"Results of socio-economic development and execution of the republican budget for January–September 2026\", Astana, 13 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7caaf64c7c7cec0da2f8"
+      "id": "3d7feaa73f4feec361c4"
     }
   ],
   "source_errors": [],
