@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-26T08:46:23Z",
+  "generated_at": "2026-10-26T09:06:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 10,
       "extreme": 1,
-      "strong": 10,
-      "watch": 15,
-      "quiet": 4
+      "strong": 9,
+      "watch": 18,
+      "quiet": 2
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 20,
-      "watch": 15,
-      "quiet": 4
+      "strong": 19,
+      "watch": 18,
+      "quiet": 2
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:11+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T13:00:00+09:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -103,7 +103,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -129,7 +129,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:28:48+00:00",
-      "age_days": 3.97,
+      "age_days": 3.98,
       "topics": [
         "security"
       ],
@@ -154,7 +154,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -179,7 +179,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:56:13+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -204,7 +204,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -229,7 +229,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:21:46+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -257,7 +257,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:00:14+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -285,7 +285,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:01:40+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -308,39 +308,11 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 58.78,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 58.8d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Two part-timers and one AI orchestrator: Inside a Dubai conference on “The Breaking Point” — Part 1",
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:00:00+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro",
@@ -369,7 +341,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T04:01:40+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -395,7 +367,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T07:34:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -421,7 +393,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T03:20:33+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -445,7 +417,7 @@
       "url": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:06:43+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -470,7 +442,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:10:35.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -495,7 +467,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T04:17:47.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -520,7 +492,7 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:11+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -545,7 +517,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:48+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -569,7 +541,7 @@
       "url": "https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:06:43+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -593,7 +565,7 @@
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T01:21:46+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -617,7 +589,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2149827.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T06:02:48+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -638,11 +610,36 @@
       "summary": ""
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 58.79,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 58.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.8 - 182 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:16:27.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -667,7 +664,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T01:38:29.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -692,7 +689,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:26:05+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -716,7 +713,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T01:46:53+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -740,7 +737,7 @@
       "url": "https://e27.co/thirty-climate-tech-startups-in-southeast-asia-that-would-rather-build-than-pledge-20261024/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:21:46+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -760,11 +757,37 @@
       "summary": ""
     },
     {
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 129.77,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.31,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.83,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.83",
+        "aging penalty -8.0 for 129.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Founders are buying gold, not Lamborghinis, after the exit",
       "url": "https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:00:07+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -788,7 +811,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 58.01,
+      "age_days": 58.02,
       "topics": [
         "general"
       ],
@@ -813,7 +836,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:47:43+00:00",
-      "age_days": 52.46,
+      "age_days": 52.47,
       "topics": [
         "general"
       ],
@@ -838,7 +861,7 @@
       "url": "https://onaji.me/entry/2026/10/26",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T03:45:06+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -862,7 +885,7 @@
       "url": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:00:37+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "macro"
       ],
@@ -886,7 +909,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2151000.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T00:56:27+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -912,7 +935,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 129.05,
+      "age_days": 129.06,
       "topics": [
         "general"
       ],
@@ -929,40 +952,40 @@
       "why": [
         "momentum delta +3",
         "high terms: angriffe",
-        "aging penalty -8.0 for 129.0d old signal"
+        "aging penalty -8.0 for 129.1d old signal"
       ],
       "summary": ""
     },
     {
-      "title": "GMO不正アクセス犯の犯行声明文ビュアー",
-      "url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-26T08:42:01+00:00",
+      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-10-26T09:00:00+00:00",
       "age_days": 0.0,
       "topics": [
-        "general"
+        "macro"
       ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "high terms: 10"
       ],
-      "summary": ""
+      "summary": "Survey on the Access to Finance of Enterprises: lending conditions tightened"
     },
     {
       "title": "Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?",
       "url": "https://e27.co/bitcoins-macro-reset-reclaim-us80000-before-the-fed-speaks-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:28:13+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -989,7 +1012,7 @@
       "url": "https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T03:20:33+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -1009,30 +1032,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。",
-      "url": "https://onaji.me/entry/2026/10/26",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-26T02:00:08+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "東京・水天宮前に「ワインと鍋」を開業、その後売却したすてぃおさんに、飲食店経営の難しさを伺いました。 飲食店経営の成功談は数多くありますが、資金繰りの苦労や「店を続けるか、手放すか」というシビアな判断の裏側について、経営者が自ら語る機会はそう多くありません。 2021年12月、東京・水天宮前に開業した「..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
