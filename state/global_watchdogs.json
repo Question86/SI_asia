@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-26T22:58:21+00:00",
+  "generated_at": "2026-10-26T23:11:14+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-109618 PHP Group PHP",
+        "summary": "Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Memory Corruption Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-26",
+        "metrics": {
+          "cve": "CVE-2026-109618"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-109619 PHP Group PHP",
+        "summary": "Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Stale Internal Request-State Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-26",
+        "metrics": {
+          "cve": "CVE-2026-109619"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -36,30 +60,6 @@
         "published_at": "2026-10-20",
         "metrics": {
           "cve": "CVE-2026-106931"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-96656 Plex Media Server",
-        "summary": "Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. Plex Media Server External Control of File Name or Path Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-20",
-        "metrics": {
-          "cve": "CVE-2026-96656"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-96655 Plex Media Server",
-        "summary": "Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-20",
-        "metrics": {
-          "cve": "CVE-2026-96655"
         }
       },
       {

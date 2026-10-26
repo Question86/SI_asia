@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T22:58:17+00:00_
+_Generiert: 2026-10-26T23:11:12+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-10-26T22:58:17+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-109618 PHP Group PHP** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-26`
+  - Kurz: Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Memory Corruption Vulnerability
+- **CISA KEV: CVE-2026-109619 PHP Group PHP** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-26`
+  - Kurz: Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Stale Internal Request-State Vulnerability
 - **CISA KEV: CVE-2026-114625 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`
@@ -21,14 +29,6 @@ _Generiert: 2026-10-26T22:58:17+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
   - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-96656 Plex Media Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-20`
-  - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. Plex Media Server External Control of File Name or Path Vulnerability
-- **CISA KEV: CVE-2026-96655 Plex Media Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-20`
-  - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573709)
   - Quelle: GDACS
   - Zeit: ``
