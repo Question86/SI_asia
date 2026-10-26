@@ -1,16 +1,18 @@
 # Economic Evidence Review
 
-Generated: `2026-10-26T04:48:59+00:00`
+Generated: `2026-10-26T05:02:43+00:00`
 FX as of: `None`
 
-- Candidates: **2262**
+- Candidates: **2270**
 - Promoted: **0**
 
 | Candidate | Event | USD | Component | Status |
 |---|---|---:|---|---|
 | `cand_8e563f6c12f448661c61` | `evt_624a2e3ce3ccd3efe095` | $2,000,000,000,000 | capital_allocation | pending |
 | `cand_bd11c966d9dc4d797046` | `evt_43856848b80264610146` | — | capital_allocation | pending |
+| `cand_5afc78dc3fa418850f1f` | `evt_43856848b80264610146` | $571,000,000,000 | capital_allocation | pending |
 | `cand_c20760eb51bd97c8caad` | `evt_624a2e3ce3ccd3efe095` | $430,000,000,000 | capital_allocation | pending |
+| `cand_deebe6abb1ace41eb420` | `evt_43856848b80264610146` | $220,000,000,000 | capital_allocation | pending |
 | `cand_9fe76ea95cae96fd5d41` | `evt_624a2e3ce3ccd3efe095` | $100,000,000,000 | unknown | pending |
 | `cand_0f6171be7e159a8f3965` | `evt_624a2e3ce3ccd3efe095` | $10,000,000,000 | transfers | pending |
 | `cand_d9f78969526855a19e91` | `evt_624a2e3ce3ccd3efe095` | $1,000,000 | unknown | pending |
@@ -18,6 +20,7 @@ FX as of: `None`
 | `cand_1e96481ed884cdbe612d` | `evt_624a2e3ce3ccd3efe095` | $1,000 | real_resource | pending |
 | `cand_a764d7a43be24dec3ee1` | `evt_89b02835b3e32a9fb33f` | $100 | capital_allocation | pending |
 | `cand_9a4e61f478759136f49d` | `evt_89b02835b3e32a9fb33f` | $50 | capital_allocation | pending |
+| `cand_47e381e5914bfe9f2662` | `evt_43856848b80264610146` | $15 | real_resource | pending |
 | `cand_e936a3d06d83b262399b` | `evt_3cb5980444e3bd7e9296` | $6 | capital_allocation | pending |
 | `cand_dea5e661bfbf3a2af66a` | `evt_3cb5980444e3bd7e9296` | $5 | real_resource | pending |
 | `cand_c65adb0aa4535f528094` | `evt_566b9c70a07073da651c` | $4 | real_resource | pending |
@@ -45,6 +48,3 @@ FX as of: `None`
 | `cand_7909915b7ad2631e4e09` | `evt_43856848b80264610146` | — | valuation | pending |
 | `cand_db95fe7c93272ff96e6b` | `evt_43856848b80264610146` | — | valuation | pending |
 | `cand_7c5a314f4832b9edbc8e` | `evt_43856848b80264610146` | — | capital_allocation | pending |
-| `cand_1961842109b88152dcdf` | `evt_43856848b80264610146` | — | real_resource | pending |
-| `cand_a2ad374ae5c281ccdcf0` | `evt_43856848b80264610146` | — | capital_allocation | pending |
-| `cand_a4c8b2ebfd12118cb3e9` | `evt_43856848b80264610146` | — | capital_allocation | pending |
