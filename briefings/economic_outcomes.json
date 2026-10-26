@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T12:06:39+00:00",
+  "generated_at": "2026-10-26T13:58:53+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -4411,7 +4411,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_358307179d74d73444f9",
@@ -7315,7 +7315,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_584b2343d7f599876bf5",
@@ -9157,12 +9157,12 @@
     {
       "event_id": "evt_6c090efb9da63cc291b4",
       "title": "M 5.0 - 218 km NW of Port-Olry, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -10439,7 +10439,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_790c08ce3bb1f8fbe804",
@@ -10620,12 +10620,12 @@
     {
       "event_id": "evt_7c632cd7ef0080d1477b",
       "title": "GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -17183,6 +17183,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_cdc03b6fe2fb4251709a",
+      "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_cdd40d6d8c9a9b73ed8f",
