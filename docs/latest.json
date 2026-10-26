@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T15:39:50+00:00",
-  "run_id": "2026-10-26T15:39:50+00:00",
+  "generated_at": "2026-10-26T16:00:15+00:00",
+  "run_id": "2026-10-26T16:00:15+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 60
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 60,
-    "displayed_findings": 60,
+    "new_relevant_findings": 1,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
     "medium": 12,
-    "observe": 48,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -1168,6 +1168,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f8c570ff7eeccf5456c8"
+      },
+      {
+        "title": "Apple、iPad miniに史上最大のアップデートを導入",
+        "url": "https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-26T13:38:18+00:00",
+        "fetched_at": "2026-10-26T15:59:37+00:00",
+        "summary": "一段と薄く、一段と軽量なデザインに美しいOLEDディスプレイを搭載し、飛躍的に進化したパフォーマンス、より高速なワイヤレス接続、耐水性能と防塵性能を備えています カリフォルニア州クパティーノ Appleは本日、一段と薄く、一段と軽量なデザインに美しいOLEDディスプレイを搭載し、A20 Proにより飛躍的に進化したパ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2064e00d5e4302bc5293"
       },
       {
         "title": "「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“進研ゼミの案内” なぜ届いたのかベネッセに聞いた",
@@ -2584,6 +2605,27 @@
       "id": "f8c570ff7eeccf5456c8"
     },
     {
+      "title": "Apple、iPad miniに史上最大のアップデートを導入",
+      "url": "https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-26T13:38:18+00:00",
+      "fetched_at": "2026-10-26T15:59:37+00:00",
+      "summary": "一段と薄く、一段と軽量なデザインに美しいOLEDディスプレイを搭載し、飛躍的に進化したパフォーマンス、より高速なワイヤレス接続、耐水性能と防塵性能を備えています カリフォルニア州クパティーノ Appleは本日、一段と薄く、一段と軽量なデザインに美しいOLEDディスプレイを搭載し、A20 Proにより飛躍的に進化したパ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2064e00d5e4302bc5293"
+    },
+    {
       "title": "「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“進研ゼミの案内” なぜ届いたのかベネッセに聞いた",
       "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002597/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2859,45 +2901,25 @@
   ],
   "new_findings": [
     {
-      "title": "Women in economics - advancing research in economics internationally",
-      "url": "https://www.bis.org/speeches/20261026-women-economics-advancing-research-economics-internationally",
-      "source": "BIS Central Bankers Speeches",
+      "title": "Apple、iPad miniに史上最大のアップデートを導入",
+      "url": "https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "fetched_at": "2026-10-26T15:39:21+00:00",
-      "summary": "Welcome remarks by Mr Sergio Nicoletti Altimari, Deputy Governor of the Bank of Italy, at the 6 th WE_ARE_IN Macroeconomics and Finance Conference, Rome 22 October 2026.",
+      "published_at": "2026-10-26T13:38:18+00:00",
+      "fetched_at": "2026-10-26T15:59:37+00:00",
+      "summary": "一段と薄く、一段と軽量なデザインに美しいOLEDディスプレイを搭載し、飛躍的に進化したパフォーマンス、より高速なワイヤレス接続、耐水性能と防塵性能を備えています カリフォルニア州クパティーノ Appleは本日、一段と薄く、一段と軽量なデザインに美しいOLEDディスプレイを搭載し、A20 Proにより飛躍的に進化したパ...",
       "matched_keywords": [
-        "macro",
-        "Macro/Policy"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); macro (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8b44feb013ce20fca4e4"
-    },
-    {
-      "title": "Purpose, perspective and possibility",
-      "url": "https://www.bis.org/speeches/20261026-purpose-perspective-and-possibility",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "fetched_at": "2026-10-26T15:39:21+00:00",
-      "summary": "Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the University of New England (UNE) Graduation Ceremony, Armidale, 23 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Reserve Bank of Australia (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3d7feaa73f4feec361c4"
+      "id": "2064e00d5e4302bc5293"
     }
   ],
   "source_errors": [],

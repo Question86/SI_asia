@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-26T15:39:55+00:00",
+  "generated_at": "2026-10-26T16:00:20+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 60,
-    "clusters": 43,
+    "findings": 61,
+    "clusters": 44,
     "cross_source_confrmed": 1,
     "hot": 1,
-    "early_signals": 1,
-    "dominance_penalized": 7
+    "early_signals": 0,
+    "dominance_penalized": 8
   },
   "clusters": [
     {
@@ -76,18 +76,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 23.55,
+      "network_score": 23.65,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 36.7,
-      "ranking_score": 23.55,
+      "ranking_score": 23.65,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.05,
+      "baseline_bonus": 0.15,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -95,88 +95,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Growth with responsibility - the next balance sheet",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
-        "https://www.bis.org/speeches/20261026-women-economics-advancing-research-economics-internationally",
-        "https://www.bis.org/speeches/20261026-purpose-perspective-and-possibility",
-        "https://www.bis.org/speeches/20261026-transiting-emigration-immigration-maltas-economic-post-independence-economic-success-story",
-        "https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice",
-        "https://www.bis.org/speeches/20261026-rewiring-payments-open-connected-inclusive"
-      ],
-      "finding_count": 8,
-      "max_score": 10,
-      "credibility_total": 8.4,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 20.88,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 32.8,
-      "ranking_score": 20.88,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 2.88,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
-      "key": "title:singapore-59m-grid-fund-bets-cheaper-hydrogen-tougher",
-      "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 19.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-26T13:58:15+00:00"
     },
     {
       "key": "title:store-retail-chain-laos-moved-excel-agents",
@@ -236,18 +154,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.11,
+      "network_score": 18.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 18.1,
-      "ranking_score": 18.11,
+      "ranking_score": 18.1,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.61,
+      "baseline_bonus": 0.6,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -489,6 +407,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-03T21:47:43+00:00"
+    },
+    {
+      "key": "title:singapore-59m-grid-fund-bets-cheaper-hydrogen-tougher",
+      "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-26T13:58:15+00:00"
     },
     {
       "key": "title:globalfoundries-turns-its-singapore-fabs-test-bed-run",
@@ -795,6 +751,50 @@
       "first_seen_at": "2026-10-26T02:06:43+00:00"
     },
     {
+      "key": "domain:www.bis.org",
+      "title": "Growth with responsibility - the next balance sheet",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
+        "https://www.bis.org/speeches/20261026-women-economics-advancing-research-economics-internationally",
+        "https://www.bis.org/speeches/20261026-purpose-perspective-and-possibility",
+        "https://www.bis.org/speeches/20261026-transiting-emigration-immigration-maltas-economic-post-independence-economic-success-story",
+        "https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice",
+        "https://www.bis.org/speeches/20261026-rewiring-payments-open-connected-inclusive"
+      ],
+      "finding_count": 8,
+      "max_score": 10,
+      "credibility_total": 8.4,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.46,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 26.8,
+      "ranking_score": 10.46,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.46,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "earthquake:alaska:4.6",
       "title": "M 4.6 - 81 km SSE of Akutan, Alaska",
       "sources": [
@@ -834,6 +834,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-27T08:27:03+00:00"
+    },
+    {
+      "key": "domain:www.apple.com",
+      "title": "Apple、iPad miniに史上最大のアップデートを導入",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.93,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.93,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.93,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-13T22:49:35+00:00"
     },
     {
       "key": "domain:openai.com",
@@ -892,18 +930,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.04,
+      "network_score": 9.01,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 11.2,
-      "ranking_score": 9.04,
+      "ranking_score": 9.01,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.54,
+      "baseline_bonus": 0.51,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1687,7 +1725,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-26T15:39:55Z",
+    "generated_at": "2026-10-26T16:00:21Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
