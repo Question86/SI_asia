@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T03:45:02+00:00_
+_Generated: 2026-10-26T04:01:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `14`
 
 ## Top Signals
 
@@ -15,39 +15,46 @@ _Generated: 2026-10-26T03:45:02+00:00_
 - url: https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/
 - summary: Until this summer, the morning numbers at LDC Import-Export Co., Ltd. were built by hand. LDC is a Lao distribution and retail group. It started in Vientiane in 2011, distributing local and imported goods, and its retail arm now runs 39 convenience stores acr…
 
-### 2. 電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性
+### 2. 富士電機製V-SFTにおける複数の脆弱性（2026年10月）
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-10-26T13:00:00+09:00`
+- url: https://jvn.jp/vu/JVNVU96549652/
+- summary: 富士電機株式会社が提供するV-SFTには、複数の脆弱性が存在します。
+
+### 3. 電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-26T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN75668103/
 - summary: 国土交通省が提供する電子納品物検査支援システムには、インストール時に不適切なファイルアクセス権設定が行われる脆弱性が存在します。
 
-### 3. Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
+### 4. Two part-timers and one AI orchestrator: Inside a Dubai conference on “The Breaking Point” — Part 1
+- source: e27 Asia Startup and Tech Feed
+- score: `13`
+- published: `2026-10-26T04:00:00+00:00`
+- url: https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/
+- summary: Most conferences are built the same way. A committee brainstorms a theme, a team chases speakers, a designer lays out a program, and everyone hopes the real value happens in the corridors. Three days in Dubai this October worked differently. The operating mod…
+
+### 5. Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-25T23:08:21+00:00`
 - url: https://forest.watch.impress.co.jp/docs/news/2151000.html
 - summary: Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
 
-### 4. Founders are buying gold, not Lamborghinis, after the exit
+### 6. Founders are buying gold, not Lamborghinis, after the exit
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-26T02:00:07+00:00`
 - url: https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/
 - summary: A running joke in Singapore’s startup circles holds that a founder’s net worth exists only in two places: the cap table and the LinkedIn bio. For most of Southeast Asia’s entrepreneurs, the joke still lands. IPO windows open and slam shut, trade sales are thi…
 
-### 5. 私が5種類のコーディングエージェントを使い分ける理由
+### 7. 私が5種類のコーディングエージェントを使い分ける理由
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-10-25T23:07:41+00:00`
 - url: https://zenn.dev/rimon/articles/45c1fd2f015af8
 - summary: 私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みま...
-
-### 6. Ailytics bags US$7.4M Series A to make old CCTV cameras earn their keep
-- source: e27 Asia Startup and Tech Feed
-- score: `9`
-- published: `2026-10-26T03:11:35+00:00`
-- url: https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/
-- summary: Most industrial CCTV cameras lead a thankless life. They record everything, are watched by almost no one, and only become important after something has gone wrong, when their footage turns into evidence rather than prevention. Singapore-based Ailytics has bui…
 
 END OF DOCUMENT

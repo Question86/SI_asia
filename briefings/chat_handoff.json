@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-26T03:45:02+00:00",
+  "generated_at": "2026-10-26T04:01:36+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 2,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 2,
-    "observe": 10
+    "medium": 3,
+    "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,6 +25,16 @@
       "section": "medium"
     },
     {
+      "title": "富士電機製V-SFTにおける複数の脆弱性（2026年10月）",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-26T13:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU96549652/",
+      "summary": "富士電機株式会社が提供するV-SFTには、複数の脆弱性が存在します。",
+      "section": "medium"
+    },
+    {
       "title": "電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
@@ -33,6 +43,16 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "summary": "国土交通省が提供する電子納品物検査支援システムには、インストール時に不適切なファイルアクセス権設定が行われる脆弱性が存在します。",
       "section": "medium"
+    },
+    {
+      "title": "Two part-timers and one AI orchestrator: Inside a Dubai conference on “The Breaking Point” — Part 1",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-26T04:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
+      "summary": "Most conferences are built the same way. A committee brainstorms a theme, a team chases speakers, a designer lays out a program, and everyone hopes the real value happens in the corridors. Three days in Dubai this October worked differently. The operating mod…",
+      "section": "observe"
     },
     {
       "title": "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ",
@@ -63,16 +83,6 @@
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
       "summary": "私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みま...",
       "section": "observe"
-    },
-    {
-      "title": "Ailytics bags US$7.4M Series A to make old CCTV cameras earn their keep",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-26T03:11:35+00:00",
-      "relevance_score": 9,
-      "url": "https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/",
-      "summary": "Most industrial CCTV cameras lead a thankless life. They record everything, are watched by almost no one, and only become important after something has gone wrong, when their footage turns into evidence rather than prevention. Singapore-based Ailytics has bui…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -80,142 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
-        "url": "https://jvn.jp/jp/JVN75668103/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-26T12:00:00+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "国土交通省が提供する電子納品物検査支援システムには、インストール時に不適切なファイルアクセス権設定が行われる脆弱性が存在します。"
-      },
-      {
-        "title": "How a 39-store retail chain in Laos moved from Excel to AI agents",
-        "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-26T01:21:46+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 37.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "early terms: chain",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "How a 39-store retail chain in Laos moved from Excel to AI agents",
-        "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-26T01:00:14+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: chain, local",
-          "high terms: 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Until this summer, the morning numbers at LDC Import-Export Co., Ltd. were built by hand. LDC is a Lao distribution and retail group. It started in Vientiane in 2011, distributing local and imported goods, and its retail arm now runs 39 convenience stores across seven provinces, including Jiffy shops on PTT fuel forec…"
-      },
-      {
-        "title": "電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
-        "url": "https://jvn.jp/jp/JVN75668103/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-26T03:20:33+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 23.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Japan’s innovation problem is execution, and Southeast Asian startups are built for it",
-        "url": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-26T02:06:43+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: execution"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
