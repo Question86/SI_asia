@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-26T06:03:23+00:00`
+Generated: `2026-10-26T06:49:32+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -23,7 +23,7 @@ Generated: `2026-10-26T06:03:23+00:00`
 | M 5.8 - 203 km NW of Port-Olry, Vanuatu | $0 | — | 0 | 0 | dormant |
 | Go、OpenSSL、Apple、LibreSSL、pyca、wolfSSLのRFC 5280実装における名前制約が不整合である脆弱性 | $0 | — | 0 | 0 | dormant |
 | Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026) | $0 | — | 0 | 0 | dormant |
-| pollen-robotics/microduck | $0 | — | 0 | 0 | active |
+| pollen-robotics/microduck | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中 | $0 | — | 0 | 0 | dormant |
