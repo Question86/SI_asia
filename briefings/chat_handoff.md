@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T19:33:05+00:00_
+_Generated: 2026-10-26T20:03:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `77`
+- findings: `79`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-26T19:33:05+00:00_
 - url: https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/
 - summary: \[Mise à jour du 19 mars 2024\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN S…
 
-### 3. How Ultrafast cut incident investigation from hours to minutes at OpenAI
+### 3. GPT-6.1 Terra in GitHub Copilot
+- source: GitHub Changelog Atom
+- score: `18`
+- published: `2026-10-26T19:15:53+00:00`
+- url: https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot
+- summary: GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In… The post GPT-6.1 Terra in GitHub Copilot appeared first on The GitHub Blog .
+
+### 4. How Ultrafast cut incident investigation from hours to minutes at OpenAI
 - source: OpenAI News RSS
 - score: `18`
 - published: `2026-10-26T07:00:00+00:00`
 - url: https://openai.com/index/openai-cut-incident-investigation
 - summary: See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.
-
-### 4. How a 39-store retail chain in Laos moved from Excel to AI agents
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-10-26T01:00:14+00:00`
-- url: https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/
-- summary: Until this summer, the morning numbers at LDC Import-Export Co., Ltd. were built by hand. LDC is a Lao distribution and retail group. It started in Vientiane in 2011, distributing local and imported goods, and its retail arm now runs 39 convenience stores acr…
 
 ### 5. Two part-timers and one AI orchestrator: Inside a Dubai conference on “The Breaking Point” — Part 1
 - source: e27 Asia Startup and Tech Feed

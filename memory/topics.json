@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T19:33:05+00:00",
+  "generated_at": "2026-10-26T20:03:02+00:00",
   "topics": {
     "security": [
       {
@@ -84,6 +84,13 @@
         "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/"
       },
       {
+        "title": "GPT-6.1 Terra in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-26T19:15:53+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot"
+      },
+      {
         "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
         "source": "OpenAI News RSS",
         "published_at": "2026-10-26T07:00:00+00:00",
@@ -138,13 +145,36 @@
         "published_at": "2026-10-25T23:08:21+00:00",
         "relevance_score": 12,
         "url": "https://forest.watch.impress.co.jp/docs/news/2151000.html"
+      }
+    ],
+    "github": [
+      {
+        "title": "GPT-6.1 Terra in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-26T19:15:53+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot"
       },
       {
-        "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2024-07-01T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-009/"
+        "title": "makecindy/cindy",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/makecindy/cindy"
+      },
+      {
+        "title": "Results of socio-economic development and execution of the republican budget for January–September 2026",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261021-results-socio-economic-development-and-execution-republican-budget-january-september-2026"
+      },
+      {
+        "title": "pollen-robotics/microduck",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/pollen-robotics/microduck"
       }
     ],
     "general": [
@@ -161,6 +191,13 @@
         "published_at": "2026-10-26T04:17:47.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp"
+      },
+      {
+        "title": "M 4.9 - 100 km E of La Tirana, Chile",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-26T19:52:13.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh"
       },
       {
         "title": "M 4.6 - 81 km SSE of Akutan, Alaska",
@@ -210,13 +247,6 @@
         "published_at": "2026-10-26T01:38:29.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa"
-      },
-      {
-        "title": "Vulnérabilité dans MongoDB PHP Driver (21 octobre 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-10-21T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1347/"
       }
     ],
     "geopolitics": [
@@ -361,29 +391,6 @@
         "published_at": "2026-10-26T03:00:58+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/youth-brain-drain-a-hidden-threat-in-indonesias-agriculture-sector-20261023/"
-      }
-    ],
-    "github": [
-      {
-        "title": "makecindy/cindy",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/makecindy/cindy"
-      },
-      {
-        "title": "Results of socio-economic development and execution of the republican budget for January–September 2026",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-26T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261021-results-socio-economic-development-and-execution-republican-budget-january-september-2026"
-      },
-      {
-        "title": "pollen-robotics/microduck",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/pollen-robotics/microduck"
       }
     ]
   }
