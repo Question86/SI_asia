@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T09:34:47+00:00",
+  "generated_at": "2026-10-26T09:57:32+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -858,7 +858,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0923223d4a4febccfe68",
@@ -3982,7 +3982,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2f9a7af18d6b8d2139cf",
@@ -8019,6 +8019,17 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
+      "status": "active"
+    },
+    {
+      "event_id": "evt_5fb098bb31ec149b4c77",
+      "title": "pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -14047,7 +14058,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_a8b9aa641cc82423d63a",
