@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-26T10:02:56Z",
+  "generated_at": "2026-10-26T10:55:42Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:11+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -67,7 +67,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T13:00:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -93,7 +93,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:28:48+00:00",
-      "age_days": 4.02,
+      "age_days": 4.06,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -169,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:56:13+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -215,11 +215,37 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ca-certificates ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen auszulesen oder Daten zu manipulieren"
     },
     {
+      "title": "AI models cost more when you don’t use English",
+      "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-10-26T10:00:22+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them."
+    },
+    {
       "title": "How a 39-store retail chain in Laos moved from Excel to AI agents",
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:21:46+00:00",
-      "age_days": 0.36,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -247,7 +273,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:00:14+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -275,7 +301,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:01:40+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -296,32 +322,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "Angriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet",
-      "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-10-26T07:34:00.000+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe"
-      ],
-      "summary": "Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert."
     }
   ],
   "read_order": [
