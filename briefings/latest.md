@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T10:30:55+00:00_
+_Generiert: 2026-10-26T10:48:32+00:00_
 
 ## Kurzlage
 
@@ -60,7 +60,7 @@ _Generiert: 2026-10-26T10:30:55+00:00_
 - **USGS earthquake M5.5 - 283 km E of Levuka, Fiji** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr)
   - Quelle: USGS
   - Zeit: `2026-10-26T10:13:01+00:00`
-  - Kurz: M5.5 - 283 km E of Levuka, Fiji. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 283 km E of Levuka, Fiji. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:30:59+00:00",
+  "generated_at": "2026-10-26T10:48:36+00:00",
   "sections": {
     "global_security": [
       {
@@ -136,13 +136,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - 283 km E of Levuka, Fiji",
-        "summary": "M5.5 - 283 km E of Levuka, Fiji. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.5 - 283 km E of Levuka, Fiji. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr",
         "published_at": "2026-10-26T10:13:01+00:00",
         "metrics": {
           "mag": 5.5,
-          "alert": "",
+          "alert": "green",
           "sig": 465.0,
           "tsunami": 0
         }

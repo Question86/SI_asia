@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T10:30:55+00:00",
-  "run_id": "2026-10-26T10:30:55+00:00",
+  "generated_at": "2026-10-26T10:48:32+00:00",
+  "run_id": "2026-10-26T10:48:32+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 38,
     "displayed_findings": 38,
     "high": 0,
@@ -1859,85 +1859,7 @@
       "id": "d82acf9beb135c97fb78"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.5 - 283 km E of Levuka, Fiji",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-26T10:29:17.040+00:00",
-      "fetched_at": "2026-10-26T10:30:26+00:00",
-      "summary": "Time 2026-10-26 10:13:01 UTC 2026-10-26 10:13:01 UTC at epicenter Location 18.283°S 178.011°W Depth 641.81 km (398.80 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "d451f9ebddd475500fe3"
-    },
-    {
-      "title": "Brotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr",
-      "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-26T10:04:00.000+00:00",
-      "fetched_at": "2026-10-26T10:30:26+00:00",
-      "summary": "Die zunächst als „node2shell“ genannte Lücke im Brotli-Decoder von Google betrifft weitere Software. Admins sollten zügig updaten.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "025011b08df68867af60"
-    },
-    {
-      "title": "Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2151273.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-26T09:20:26+00:00",
-      "fetched_at": "2026-10-26T10:30:26+00:00",
-      "summary": "Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "50e4fdefb77766f1b76b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
