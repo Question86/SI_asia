@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T02:06:39+00:00_
+_Generiert: 2026-10-26T02:38:45+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,6 @@ _Generiert: 2026-10-26T02:06:39+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.5 - Bonin Islands, Japan region** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9)
-  - Quelle: USGS
-  - Zeit: `2026-10-25T02:09:23+00:00`
-  - Kurz: M6.5 - Bonin Islands, Japan region. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-114625 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`

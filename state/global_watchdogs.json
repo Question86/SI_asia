@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-10-26T02:06:43+00:00",
+  "generated_at": "2026-10-26T02:38:49+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "USGS earthquake M6.5 - Bonin Islands, Japan region",
-        "summary": "M6.5 - Bonin Islands, Japan region. PAGER alert: green. Tsunami flag: 1.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
-        "published_at": "2026-10-25T02:09:23+00:00",
-        "metrics": {
-          "mag": 6.5,
-          "alert": "green",
-          "sig": 650.0,
-          "tsunami": 1
-        }
-      },
       {
         "domain": "security",
         "severity": "high",
