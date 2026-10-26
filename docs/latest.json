@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T03:20:29+00:00",
-  "run_id": "2026-10-26T03:20:29+00:00",
+  "generated_at": "2026-10-26T03:45:02+00:00",
+  "run_id": "2026-10-26T03:45:02+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 1,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 2,
-    "observe": 9,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -283,6 +283,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6c9dd2546f30e1c3fd9e"
+      },
+      {
+        "title": "月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。",
+        "url": "https://onaji.me/entry/2026/10/26",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-26T02:00:08+00:00",
+        "fetched_at": "2026-10-26T03:44:30+00:00",
+        "summary": "東京・水天宮前に「ワインと鍋」を開業、その後売却したすてぃおさんに、飲食店経営の難しさを伺いました。 飲食店経営の成功談は数多くありますが、資金繰りの苦労や「店を続けるか、手放すか」というシビアな判断の裏側について、経営者が自ら語る機会はそう多くありません。 2021年12月、東京・水天宮前に開業した「...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "27ff0790bff9ae00e6b2"
       },
       {
         "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
@@ -562,6 +583,27 @@
       "id": "6c9dd2546f30e1c3fd9e"
     },
     {
+      "title": "月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。",
+      "url": "https://onaji.me/entry/2026/10/26",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-26T02:00:08+00:00",
+      "fetched_at": "2026-10-26T03:44:30+00:00",
+      "summary": "東京・水天宮前に「ワインと鍋」を開業、その後売却したすてぃおさんに、飲食店経営の難しさを伺いました。 飲食店経営の成功談は数多くありますが、資金繰りの苦労や「店を続けるか、手放すか」というシビアな判断の裏側について、経営者が自ら語る機会はそう多くありません。 2021年12月、東京・水天宮前に開業した「...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27ff0790bff9ae00e6b2"
+    },
+    {
       "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
       "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -585,67 +627,25 @@
   ],
   "new_findings": [
     {
-      "title": "電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
-      "url": "https://jvn.jp/jp/JVN75668103/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。",
+      "url": "https://onaji.me/entry/2026/10/26",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-26T12:00:00+09:00",
-      "fetched_at": "2026-10-26T03:19:59+00:00",
-      "summary": "国土交通省が提供する電子納品物検査支援システムには、インストール時に不適切なファイルアクセス権設定が行われる脆弱性が存在します。",
+      "published_at": "2026-10-26T02:00:08+00:00",
+      "fetched_at": "2026-10-26T03:44:30+00:00",
+      "summary": "東京・水天宮前に「ワインと鍋」を開業、その後売却したすてぃおさんに、飲食店経営の難しさを伺いました。 飲食店経営の成功談は数多くありますが、資金繰りの苦労や「店を続けるか、手放すか」というシビアな判断の裏側について、経営者が自ら語る機会はそう多くありません。 2021年12月、東京・水天宮前に開業した「...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7d5800fc9bd374cf78d9"
-    },
-    {
-      "title": "Ailytics bags US$7.4M Series A to make old CCTV cameras earn their keep",
-      "url": "https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-26T03:11:35+00:00",
-      "fetched_at": "2026-10-26T03:19:59+00:00",
-      "summary": "Most industrial CCTV cameras lead a thankless life. They record everything, are watched by almost no one, and only become important after something has gone wrong, when their footage turns into evidence rather than prevention. Singapore-based Ailytics has built a business on reversing that order. The vision AI startup has raised US$7.4 million in an […] The post Ailytics bags US$7.4M Series A to make old CCTV camera…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a8807723a46dda285a46"
-    },
-    {
-      "title": "Youth brain drain: A hidden threat in Indonesia’s agriculture sector",
-      "url": "https://e27.co/youth-brain-drain-a-hidden-threat-in-indonesias-agriculture-sector-20261023/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-26T03:00:58+00:00",
-      "fetched_at": "2026-10-26T03:19:59+00:00",
-      "summary": "Indonesia is losing its farmers. According to Statistics Indonesia (BPS), the number of farmers dropped from 31.7 million in 2013 to 29.3 million in 2023. That is a drop of about 7.5 per cent in ten years. Many of them moved to other jobs, such as construction work, factory work, or selling in the market, […] The post Youth brain drain: A hidden threat in Indonesia’s agriculture sector appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f3cbcc3ea70f35c626af"
+      "id": "27ff0790bff9ae00e6b2"
     }
   ],
   "source_errors": [],

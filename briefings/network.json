@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-26T03:20:33+00:00",
+  "generated_at": "2026-10-26T03:45:06+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 11,
-    "clusters": 11,
+    "findings": 12,
+    "clusters": 12,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 1,
@@ -26,19 +26,19 @@
       "max_score": 14,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 23.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 19.1,
-      "ranking_score": 23.5,
+      "raw_network_score": 16.1,
+      "ranking_score": 21.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": true,
       "early_signal_bonus": 5.5,
@@ -127,44 +127,6 @@
       "first_seen_at": "2026-10-26T00:56:27+00:00"
     },
     {
-      "key": "title:ailytics-bags-series-make-old-cctv-cameras-earn",
-      "title": "Ailytics bags US$7.4M Series A to make old CCTV cameras earn their keep",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 13.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-26T03:20:33+00:00"
-    },
-    {
       "key": "title:founders-are-buying-gold-not-lamborghinis-after-exit",
       "title": "Founders are buying gold, not Lamborghinis, after the exit",
       "sources": [
@@ -241,8 +203,8 @@
       "first_seen_at": "2026-10-26T01:21:46+00:00"
     },
     {
-      "key": "title:youth-brain-drain-hidden-threat-indonesia-agriculture-sector",
-      "title": "Youth brain drain: A hidden threat in Indonesia’s agriculture sector",
+      "key": "title:ailytics-bags-series-make-old-cctv-cameras-earn",
+      "title": "Ailytics bags US$7.4M Series A to make old CCTV cameras earn their keep",
       "sources": [
         "e27 Asia Startup and Tech Feed"
       ],
@@ -250,25 +212,25 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/youth-brain-drain-a-hidden-threat-in-indonesias-agriculture-sector-20261023/"
+        "https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/"
       ],
       "finding_count": 1,
-      "max_score": 7,
+      "max_score": 9,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 11.0,
+      "raw_network_score": 11.1,
+      "ranking_score": 10.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -315,6 +277,82 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-26T02:06:43+00:00"
+    },
+    {
+      "key": "url:https://onaji.me/entry/2026/10/26",
+      "title": "月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://onaji.me/entry/2026/10/26"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-26T03:45:06+00:00"
+    },
+    {
+      "key": "title:youth-brain-drain-hidden-threat-indonesia-agriculture-sector",
+      "title": "Youth brain drain: A hidden threat in Indonesia’s agriculture sector",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/youth-brain-drain-a-hidden-threat-in-indonesias-agriculture-sector-20261023/"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-26T03:20:33+00:00"
     },
     {
       "key": "title:thirty-climate-tech-startups-southeast-asia-that-would",
@@ -436,7 +474,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-26T03:20:33Z",
+    "generated_at": "2026-10-26T03:45:07Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
