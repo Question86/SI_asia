@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T23:23:56+00:00",
-  "run_id": "2026-10-26T23:23:56+00:00",
+  "generated_at": "2026-10-26T23:35:20+00:00",
+  "run_id": "2026-10-26T23:35:20+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 88
+      "configured_public_sources_only": 89
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 88,
-    "displayed_findings": 88,
+    "new_relevant_findings": 1,
+    "today_file_total": 89,
+    "displayed_findings": 89,
     "high": 0,
     "medium": 20,
-    "observe": 68,
+    "observe": 69,
     "source_errors": 0
   },
   "sections": {
@@ -1799,6 +1799,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b4f7e1a9db050cf822b6"
+      },
+      {
+        "title": "【特集】 120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
+        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2150970.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-26T22:09:55+00:00",
+        "fetched_at": "2026-10-26T23:34:49+00:00",
+        "summary": "【特集】 120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a23ca3acd5a2b748960a"
       },
       {
         "title": "アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～",
@@ -3951,6 +3972,27 @@
       "id": "b4f7e1a9db050cf822b6"
     },
     {
+      "title": "【特集】 120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2150970.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-26T22:09:55+00:00",
+      "fetched_at": "2026-10-26T23:34:49+00:00",
+      "summary": "【特集】 120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a23ca3acd5a2b748960a"
+    },
+    {
       "title": "アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～",
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2151317.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4329,7 +4371,29 @@
       "id": "d82acf9beb135c97fb78"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "【特集】 120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2150970.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-26T22:09:55+00:00",
+      "fetched_at": "2026-10-26T23:34:49+00:00",
+      "summary": "【特集】 120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a23ca3acd5a2b748960a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
