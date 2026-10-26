@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T12:05:56+00:00",
+  "generated_at": "2026-10-26T13:58:12+00:00",
   "topics": {
     "security": [
       {
@@ -47,6 +47,13 @@
         "url": "https://jvn.jp/vu/JVNVU96549652/"
       },
       {
+        "title": "[UPDATE] [mittel] OPNsense: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-26T12:59:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800"
+      },
+      {
         "title": "電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-26T12:00:00+09:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-26T10:04:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html"
-      },
-      {
-        "title": "Angriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-26T07:34:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html"
       }
     ],
     "ai": [
@@ -205,18 +205,18 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa"
       },
       {
+        "title": "楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も - 日本経済新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-26T11:57:24+00:00",
+        "relevance_score": 7,
+        "url": "https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/"
+      },
+      {
         "title": "Thirty climate tech startups in Southeast Asia that would rather build than pledge",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-26T01:00:39+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/thirty-climate-tech-startups-in-southeast-asia-that-would-rather-build-than-pledge-20261024/"
-      },
-      {
-        "title": "Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-26T09:20:26+00:00",
-        "relevance_score": 5,
-        "url": "https://internet.watch.impress.co.jp/docs/news/2151273.html"
       }
     ],
     "economy": [
@@ -226,6 +226,13 @@
         "published_at": "2026-10-26T04:00:00+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/"
+      },
+      {
+        "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-26T12:36:06+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/"
       },
       {
         "title": "Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?",

@@ -261,6 +261,29 @@
     "id": "c61b739b011b5a30be8a"
   },
   {
+    "title": "[UPDATE] [mittel] OPNsense: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-26T12:59:15+00:00",
+    "fetched_at": "2026-10-26T13:57:38+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OPNsense ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren und offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "912f001afd9e6a4155ca"
+  },
+  {
     "title": "電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
     "url": "https://jvn.jp/jp/JVN75668103/",
     "source": "JVN Japan Vulnerability Notes",
@@ -349,6 +372,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1a8a3d7207a19fd31e69"
+  },
+  {
+    "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
+    "url": "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-26T12:36:06+00:00",
+    "fetched_at": "2026-10-26T13:57:38+00:00",
+    "summary": "Singapore has a power problem that no amount of rooftop solar will fix. The city-state generates about 95 per cent of its electricity from imported natural gas. It has little spare land for solar farms, no rivers for hydropower and not much wind. Every decarbonisation plan it writes is, in effect, a plan to import […] The post Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels ap…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "56e53a5639756776b206"
   },
   {
     "title": "GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room",
@@ -743,6 +787,27 @@
     "id": "76151a9feb250dc9c1a9"
   },
   {
+    "title": "楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-26T11:57:24+00:00",
+    "fetched_at": "2026-10-26T13:57:38+00:00",
+    "summary": "楽天グループが運営する旅行予約サービス「楽天トラベル」は26日、海外ホテル予約サイトにログインした最大約260万件の顧客情報が不正アクセスを受けたと発表した。氏名やメールアドレス、電話番号、社内用の識別番号が漏れた恐れがある。シンガポール子会社が運営するサイトが不正アクセスを受けた。同サイトで予約した...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "be06f1cf4f1f0d1c0ea3"
+  },
+  {
     "title": "Brotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr",
     "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
     "source": "heise Security Alerts",
@@ -824,6 +889,50 @@
     "id": "6c9dd2546f30e1c3fd9e"
   },
   {
+    "title": "[UPDATE] [hoch] rclone: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3196",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-26T12:59:16+00:00",
+    "fetched_at": "2026-10-26T13:57:38+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen oder zu manipulieren, sowie um einen Denial of Service herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph demote clone (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5c7d206b62def2fc2d2c"
+  },
+  {
+    "title": "「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“進研ゼミの案内” なぜ届いたのかベネッセに聞いた",
+    "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002597/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-26T10:32:41+00:00",
+    "fetched_at": "2026-10-26T13:57:38+00:00",
+    "summary": "「貴社が案内を送ってきた『萌奈椛様 6歳』はこの子です。年齢は合ってますが、人間ではありません」──飼い猫宛てに通信教育「進研ゼミ」の案内が届いたという投稿が、10月20日ごろにXで話題になった。ITmedia NEWSは、投稿者と発行元のベネッセコーポレーションに経緯を聞いた。 投稿者は、6歳の猫「萌奈椛」（もなか）...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "51ad8479b87136362f49"
+  },
+  {
     "title": "Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性",
     "url": "https://internet.watch.impress.co.jp/docs/news/2151273.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -843,6 +952,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "50e4fdefb77766f1b76b"
+  },
+  {
+    "title": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261026de65733",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-26T08:44:52+00:00",
+    "fetched_at": "2026-10-26T13:57:38+00:00",
+    "summary": "GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かり…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3f1e73013b5469729ba6"
   },
   {
     "title": "pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ",
