@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T11:19:49+00:00_
+_Generated: 2026-10-26T12:05:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `43`
 
 ## Top Signals
 
-### 1. How a 39-store retail chain in Laos moved from Excel to AI agents
+### 1. [UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `22`
+- published: `2026-10-26T11:46:13+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4111
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Code mit Benutzer- oder Anwendungsrechten auszuführen, gültige kryptografische Token zu fälschen, die Authentifizierung zu umgehen, erweiterte Rechte zu…
+
+### 2. How a 39-store retail chain in Laos moved from Excel to AI agents
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-10-26T01:00:14+00:00`
 - url: https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/
 - summary: Until this summer, the morning numbers at LDC Import-Export Co., Ltd. were built by hand. LDC is a Lao distribution and retail group. It started in Vientiane in 2011, distributing local and imported goods, and its retail arm now runs 39 convenience stores acr…
 
-### 2. BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）
+### 3. BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-26T15:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU97400824/
 - summary: Googleのデータ圧縮アルゴリズムBrotliのC言語実装における脆弱性（ CVE-2026-111497 ）に対するアドバイザリが公開されました。 本脆弱性は「HTTP2Shell」や「Node2Shell」とも呼ばれています。
 
-### 3. [UPDATE] [mittel] Red Hat Enterprise Linux iperf3: Schwachstelle ermöglicht Denial of Service
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux iperf3: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-26T10:54:12+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux iperf3 ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-26T07:56:13+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise einen Denial-of-Service-Angriff auszulösen, Daten zu manipulieren oder offenzulegen oder Sicherheitsmaßnahmen zu umg…
 
 ### 5. Two part-timers and one AI orchestrator: Inside a Dubai conference on “The Breaking Point” — Part 1
 - source: e27 Asia Startup and Tech Feed
@@ -50,18 +50,18 @@ _Generated: 2026-10-26T11:19:49+00:00_
 - url: https://github.com/makecindy/cindy
 - summary: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 https://cindy.app English · 简体中文 🌐 cindy.app · ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and…
 
-### 7. Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
+### 7. GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-10-26T11:30:40+00:00`
+- url: https://e27.co/globalfoundries-turns-its-singapore-fabs-into-a-test-bed-for-an-ai-run-control-room-20261026/
+- summary: When a chip plant is running close to full tilt, a failing chiller or a slow gas leak is not a maintenance ticket. It is lost output that cannot easily be made up elsewhere. That is the problem GlobalFoundries (GF) says it is tackling in Singapore. The New Yo…
+
+### 8. Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-25T23:08:21+00:00`
 - url: https://forest.watch.impress.co.jp/docs/news/2151000.html
 - summary: Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
-
-### 8. AI models cost more when you don’t use English
-- source: Rest of World Global Tech Feed
-- score: `10`
-- published: `2026-10-26T10:00:22+00:00`
-- url: https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-- summary: Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.
 
 END OF DOCUMENT
