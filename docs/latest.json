@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T22:37:11+00:00",
-  "run_id": "2026-10-26T22:37:11+00:00",
+  "generated_at": "2026-10-26T22:49:23+00:00",
+  "run_id": "2026-10-26T22:49:23+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
-    "medium": 19,
+    "medium": 20,
     "observe": 66,
     "source_errors": 0
   },
@@ -91,6 +91,51 @@
           "S"
         ],
         "id": "0a19d9791d86bb749cc6"
+      },
+      {
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-26T22:00:00+00:00",
+        "fetched_at": "2026-10-26T22:48:54+00:00",
+        "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+        "matched_keywords": [
+          "OpenAI",
+          "Security",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "OpenAI (+7.5); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "3c03895a3b884c981f70"
       },
       {
         "title": "GPT-6.1 Terra in GitHub Copilot",
@@ -2143,6 +2188,51 @@
       "id": "0a19d9791d86bb749cc6"
     },
     {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "fetched_at": "2026-10-26T22:48:54+00:00",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "matched_keywords": [
+        "OpenAI",
+        "Security",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "OpenAI (+7.5); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "3c03895a3b884c981f70"
+    },
+    {
       "title": "GPT-6.1 Terra in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
       "source": "GitHub Changelog Atom",
@@ -4125,7 +4215,53 @@
       "id": "d82acf9beb135c97fb78"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "fetched_at": "2026-10-26T22:48:54+00:00",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "matched_keywords": [
+        "OpenAI",
+        "Security",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "OpenAI (+7.5); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "3c03895a3b884c981f70"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

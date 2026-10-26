@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T22:37:16+00:00",
-  "today_file_total": 85,
+  "generated_at": "2026-10-26T22:49:26+00:00",
+  "today_file_total": 86,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -32,7 +32,7 @@
     },
     {
       "key": "domain:openai.com",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "sources": [
         "OpenAI News RSS"
       ],
@@ -40,20 +40,20 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://openai.com/index/greptile-code-review-codex-astra",
         "https://openai.com/index/openai-cut-incident-investigation",
         "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
         "https://openai.com/index/introducing-gpt-6-1-terra",
         "https://openai.com/index/chatgpt-expanding-world-of-work",
-        "https://openai.com/index/fanatics-streamline-fan-experience",
-        "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+        "https://openai.com/index/fanatics-streamline-fan-experience"
       ],
-      "finding_count": 6,
+      "finding_count": 7,
       "max_score": 18,
-      "credibility_total": 6.3,
+      "credibility_total": 7.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 30.6,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 35.7,
       "hot": true,
       "watchgraph_modules": [
         "ai_agents_workflow"

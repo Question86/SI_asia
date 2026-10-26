@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-26T22:37:11+00:00",
+  "generated_at": "2026-10-26T22:49:23+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
-    "medium": 19,
+    "medium": 20,
     "observe": 66
   },
   "source_errors_count": 0,
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "relevance_score": 18,
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "section": "medium"
+    },
+    {
       "title": "GPT-6.1 Terra in GitHub Copilot",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 18,
       "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
       "summary": "GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In… The post GPT-6.1 Terra in GitHub Copilot appeared first on The GitHub Blog .",
-      "section": "medium"
-    },
-    {
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "relevance_score": 18,
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
       "section": "medium"
     },
     {

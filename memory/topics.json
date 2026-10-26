@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T22:37:11+00:00",
+  "generated_at": "2026-10-26T22:49:23+00:00",
   "topics": {
     "security": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2024-02-09T00:00:00+00:00",
         "relevance_score": 20,
         "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/"
+      },
+      {
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-26T22:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://openai.com/index/greptile-code-review-codex-astra"
       },
       {
         "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-26T13:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96549652/"
-      },
-      {
-        "title": "[UPDATE] [mittel] OPNsense: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-26T12:59:15+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800"
       }
     ],
     "ai": [
@@ -82,6 +82,13 @@
         "published_at": "2024-02-09T00:00:00+00:00",
         "relevance_score": 20,
         "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/"
+      },
+      {
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-26T22:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://openai.com/index/greptile-code-review-codex-astra"
       },
       {
         "title": "GPT-6.1 Terra in GitHub Copilot",
@@ -138,13 +145,6 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/makecindy/cindy"
-      },
-      {
-        "title": "GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-26T11:30:40+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/globalfoundries-turns-its-singapore-fabs-into-a-test-bed-for-an-ai-run-control-room-20261026/"
       }
     ],
     "github": [
