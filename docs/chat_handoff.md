@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T01:46:49+00:00_
+_Generated: 2026-10-26T02:06:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `8`
 
 ## Top Signals
 
@@ -22,25 +22,25 @@ _Generated: 2026-10-26T01:46:49+00:00_
 - url: https://forest.watch.impress.co.jp/docs/news/2151000.html
 - summary: Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
 
-### 3. 私が5種類のコーディングエージェントを使い分ける理由
+### 3. Founders are buying gold, not Lamborghinis, after the exit
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-10-26T02:00:07+00:00`
+- url: https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/
+- summary: A running joke in Singapore’s startup circles holds that a founder’s net worth exists only in two places: the cap table and the LinkedIn bio. For most of Southeast Asia’s entrepreneurs, the joke still lands. IPO windows open and slam shut, trade sales are thi…
+
+### 4. 私が5種類のコーディングエージェントを使い分ける理由
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-10-25T23:07:41+00:00`
 - url: https://zenn.dev/rimon/articles/45c1fd2f015af8
 - summary: 私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みま...
 
-### 4. M 4.9 - 205 km NW of Port-Olry, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-26T01:38:29.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa
-- summary: Time 2026-10-26 01:22:20 UTC 2026-10-26 01:22:20 UTC at epicenter Location 13.880°S 165.583°E Depth 10.00 km (6.21 mi)
-
-### 5. Thirty climate tech startups in Southeast Asia that would rather build than pledge
+### 5. Japan’s innovation problem is execution, and Southeast Asian startups are built for it
 - source: e27 Asia Startup and Tech Feed
-- score: `7`
-- published: `2026-10-26T01:00:39+00:00`
-- url: https://e27.co/thirty-climate-tech-startups-in-southeast-asia-that-would-rather-build-than-pledge-20261024/
-- summary: Southeast Asia has a talent for making climate pledges sound like wedding vows: grand, emotional and frequently broken. Net-zero deadlines stretch to 2050 and beyond, yet coal still dominates several national grids, petrol motorbikes still choke the cities an…
+- score: `9`
+- published: `2026-10-26T02:00:37+00:00`
+- url: https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/
+- summary: Japan has industrial expertise and established corporate networks. Southeast Asia has startups building digital products for fast-changing markets. The opportunity lies in connecting these strengths, not simply exporting Japanese technology or selling into So…
 
 END OF DOCUMENT

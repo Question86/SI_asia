@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:46:53+00:00",
+  "generated_at": "2026-10-26T02:06:43+00:00",
   "sections": {
     "global_security": [
       {
@@ -90,6 +90,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .",
+        "summary": "Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001345",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "summary": "Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
@@ -134,16 +144,6 @@
         "summary": "Green earthquake (Magnitude 5.8M, Depth:12.486km) in Bouvet Island Region 24/10/2026 15:24 UTC, [unknown].",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573640",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Vanuatu 24/10/2026 08:56 UTC, Few people affected in MMI III.",
-        "summary": "Green earthquake (Magnitude 5.9M, Depth:10km) in Vanuatu 24/10/2026 08:56 UTC, Few people affected in MMI III.",
-        "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573578",
         "published_at": "",
         "metrics": {}
       }

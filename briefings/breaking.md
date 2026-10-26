@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-26T01:46:53+00:00_
+_Generiert: 2026-10-26T02:06:43+00:00_
 
 ## How a 39-store retail chain in Laos moved from Excel to AI agents
 
