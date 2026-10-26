@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-26T12:27:30Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-10-26T14:18:55Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [mittel] OPNsense: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-26T12:59:15+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code, auth",
+        "security high-signal: angriffe, code, auth"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OPNsense ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren und offenzulegen."
+    },
+    {
       "title": "[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.21,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4111",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T11:46:13+00:00",
-      "age_days": 0.03,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -68,7 +93,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:11+00:00",
-      "age_days": 0.27,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -95,7 +120,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T13:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -121,7 +146,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.39,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -147,7 +172,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:28:48+00:00",
-      "age_days": 4.12,
+      "age_days": 4.2,
       "topics": [
         "security"
       ],
@@ -172,7 +197,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.27,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -197,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T10:54:12+00:00",
-      "age_days": 0.06,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -222,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:56:13+00:00",
-      "age_days": 0.19,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -247,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.21,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -272,7 +297,7 @@
       "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-26T10:00:22+00:00",
-      "age_days": 0.1,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -292,34 +317,6 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them."
-    },
-    {
-      "title": "How a 39-store retail chain in Laos moved from Excel to AI agents",
-      "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-26T01:21:46+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "early terms: chain",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -331,8 +328,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 2,
+      "strong": 10
     }
   }
 }
