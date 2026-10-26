@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-26T17:45:25Z_
+_Generated: 2026-10-26T17:54:34Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schw
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-10-26T12:59:15+00:00` / age_days `0.2`
+- Published: `2026-10-26T12:59:15+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, auth, security high-signal: angriffe, code, auth
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schw
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-10-26T07:19:13+00:00` / age_days `0.43`
+- Published: `2026-10-26T07:19:13+00:00` / age_days `0.44`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schw
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T11:46:13+00:00` / age_days `0.25`
+- Published: `2026-10-26T11:46:13+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schw
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `130.13`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `130.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: source breadth +2, momentum delta +3, baseline z_hint 10.31, high terms: rce, 10, security high-signal: rce, 10, aging penalty -8.0 for 130.1d old signal, extreme gate recheck: insufficient independent/current evidence
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schw
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T13:00:00+09:00` / age_days `0.57`
+- Published: `2026-10-26T13:00:00+09:00` / age_days `0.58`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schw
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T12:00:00+09:00` / age_days `0.61`
+- Published: `2026-10-26T12:00:00+09:00` / age_days `0.62`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schw
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T09:28:48+00:00` / age_days `4.34`
+- Published: `2026-10-22T09:28:48+00:00` / age_days `4.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cve, official security but no high-signal phrase: capped at strong
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schw
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T15:00:00+09:00` / age_days `0.49`
+- Published: `2026-10-26T15:00:00+09:00` / age_days `0.5`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, cve, security, google, official security but no high-signal phrase: capped at strong
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schw
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T07:56:13+00:00` / age_days `0.41`
+- Published: `2026-10-26T07:56:13+00:00` / age_days `0.42`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schw
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2024-02-09T00:00:00+00:00` / age_days `990.74`
+- Published: `2024-02-09T00:00:00+00:00` / age_days `990.75`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, exploitation, code, security high-signal: active, exploitation, code, vpn, aging penalty -8.0 for 990.7d old signal, stale single-source cap after 30d: no current exploitation phrase
