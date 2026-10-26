@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-26T02:58:16+00:00",
+  "generated_at": "2026-10-26T03:20:29+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 3,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
-    "medium": 1,
-    "observe": 7
+    "medium": 2,
+    "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 17,
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "summary": "Until this summer, the morning numbers at LDC Import-Export Co., Ltd. were built by hand. LDC is a Lao distribution and retail group. It started in Vientiane in 2011, distributing local and imported goods, and its retail arm now runs 39 convenience stores acr…",
+      "section": "medium"
+    },
+    {
+      "title": "電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-26T12:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN75668103/",
+      "summary": "国土交通省が提供する電子納品物検査支援システムには、インストール時に不適切なファイルアクセス権設定が行われる脆弱性が存在します。",
       "section": "medium"
     },
     {
@@ -55,13 +65,13 @@
       "section": "observe"
     },
     {
-      "title": "Japan’s innovation problem is execution, and Southeast Asian startups are built for it",
+      "title": "Ailytics bags US$7.4M Series A to make old CCTV cameras earn their keep",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-26T02:00:37+00:00",
+      "published_at": "2026-10-26T03:11:35+00:00",
       "relevance_score": 9,
-      "url": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/",
-      "summary": "Japan has industrial expertise and established corporate networks. Southeast Asia has startups building digital products for fast-changing markets. The opportunity lies in connecting these strengths, not simply exporting Japanese technology or selling into So…",
+      "url": "https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/",
+      "summary": "Most industrial CCTV cameras lead a thankless life. They record everything, are watched by almost no one, and only become important after something has gone wrong, when their footage turns into evidence rather than prevention. Singapore-based Ailytics has bui…",
       "section": "observe"
     }
   ],
