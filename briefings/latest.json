@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T09:56:55+00:00",
-  "run_id": "2026-10-26T09:56:55+00:00",
+  "generated_at": "2026-10-26T10:10:16+00:00",
+  "run_id": "2026-10-26T10:10:16+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 9,
-    "observe": 25,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -354,6 +354,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "847b8f10fbdd5c8ab1a2"
+      },
+      {
+        "title": "AI models cost more when you don’t use English",
+        "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-26T10:00:22+00:00",
+        "fetched_at": "2026-10-26T10:09:47+00:00",
+        "summary": "Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.",
+        "matched_keywords": [
+          "AI/KI",
+          "Public Health"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); Public Health (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0e2a3772e77fa2c9b23e"
       },
       {
         "title": "Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?",
@@ -1173,6 +1194,27 @@
       "id": "847b8f10fbdd5c8ab1a2"
     },
     {
+      "title": "AI models cost more when you don’t use English",
+      "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-26T10:00:22+00:00",
+      "fetched_at": "2026-10-26T10:09:47+00:00",
+      "summary": "Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.",
+      "matched_keywords": [
+        "AI/KI",
+        "Public Health"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); Public Health (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0e2a3772e77fa2c9b23e"
+    },
+    {
       "title": "Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?",
       "url": "https://e27.co/bitcoins-macro-reset-reclaim-us80000-before-the-fed-speaks-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1665,25 +1707,25 @@
   ],
   "new_findings": [
     {
-      "title": "pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ",
-      "url": "https://tech.classi.jp/entry/2026/10/26/163000",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "AI models cost more when you don’t use English",
+      "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-26T08:08:37+00:00",
-      "fetched_at": "2026-10-26T09:56:27+00:00",
-      "summary": "はじめに Classi のサービス開発を担当しているイノウエです。 2026年10月21日に、通称 PHP2Shell と呼ばれる深刻な脆弱性を修正する PHP 8系への緊急パッチが配信されました。 当社のサービスも一部で PHP が使用されており、緊急パッチの配布に備え私を含めた数名で待機しておりました。 しかし、コンテナのベースイメ...",
+      "published_at": "2026-10-26T10:00:22+00:00",
+      "fetched_at": "2026-10-26T10:09:47+00:00",
+      "summary": "Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "Public Health"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); Public Health (+5.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "30dd43096d35504e1191"
+      "id": "0e2a3772e77fa2c9b23e"
     }
   ],
   "source_errors": [],

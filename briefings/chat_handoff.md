@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T09:56:55+00:00_
+_Generated: 2026-10-26T10:10:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `35`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-26T09:56:55+00:00_
 - url: https://forest.watch.impress.co.jp/docs/news/2151000.html
 - summary: Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
 
-### 8. Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?
-- source: e27 Asia Startup and Tech Feed
+### 8. AI models cost more when you don’t use English
+- source: Rest of World Global Tech Feed
 - score: `10`
-- published: `2026-10-26T04:17:18+00:00`
-- url: https://e27.co/bitcoins-macro-reset-reclaim-us80000-before-the-fed-speaks-20261026/
-- summary: Bitcoin slipped 0.97 per cent to US$79,912.85 over the last 24 hours. That number alone looks mild for an asset known for violent swings. The total crypto market cap fell 0.72 per cent to US$2.68 trillion. Bitcoin’s seven-day correlation with the S&P 500 reac…
+- published: `2026-10-26T10:00:22+00:00`
+- url: https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.
 
 END OF DOCUMENT
