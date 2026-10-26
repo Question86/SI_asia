@@ -1,6 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-10-26T00:56:27+00:00_
+_Generiert: 2026-10-26T01:21:46+00:00_
 
-Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
+## How a 39-store retail chain in Laos moved from Excel to AI agents
+
+- Ranking Score: `28.5`
+- Raw Network Score: `22.1`
+- Max Monitor Score: `17`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `ja`
+- Dominanter Emitter: `nein`
+- Quellen: e27 Asia Startup and Tech Feed
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
