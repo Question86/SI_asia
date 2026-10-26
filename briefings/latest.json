@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T09:01:29+00:00",
-  "run_id": "2026-10-26T09:01:29+00:00",
+  "generated_at": "2026-10-26T09:34:00+00:00",
+  "run_id": "2026-10-26T09:34:00+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
     "medium": 9,
-    "observe": 22,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -636,6 +636,27 @@
         "id": "6c9dd2546f30e1c3fd9e"
       },
       {
+        "title": "GMO不正アクセス 「能動的サイバー防御」より先にやるべきことは：朝日新聞",
+        "url": "https://www.asahi.com/articles/ASVBV1JK7VBVULZU002M.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-26T07:32:00+00:00",
+        "fetched_at": "2026-10-26T09:33:29+00:00",
+        "summary": "GMOインターネットが提供するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、同社が政府に対して「能動的サイバー防御」の適用を要請したことが波紋を広げている。サイバー攻撃が相次…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e2f9091cf1e358de0b8f"
+      },
+      {
         "title": "「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう",
         "url": "https://togetter.com/li/2762937",
         "source": "Hatena Bookmark Hotentry IT",
@@ -697,6 +718,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "003e3b5d8ea7326d0fa4"
+      },
+      {
+        "title": "社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文",
+        "url": "https://www.sankei.com/article/20261026-FPM5XMZGCZP4RDOXILAKMEOOFE/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-26T00:54:55+00:00",
+        "fetched_at": "2026-10-26T09:33:29+00:00",
+        "summary": "外国為替証拠金取引（FX）のためのサービスに不正アクセスを受けたことを巡り、GMOインターネットグループの熊谷正寿社長が25日、事前に社内の技術者から安全性に関して「改善すべき課題」が指摘されていたとブログに投稿した。一律5000円の見舞金を支払うと発表したことについて、「ご不便とご心配」をかけた顧客への「...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e202dd67c78b8a8f3a15"
       },
       {
         "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
@@ -1390,6 +1432,27 @@
       "id": "6c9dd2546f30e1c3fd9e"
     },
     {
+      "title": "GMO不正アクセス 「能動的サイバー防御」より先にやるべきことは：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVBV1JK7VBVULZU002M.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-26T07:32:00+00:00",
+      "fetched_at": "2026-10-26T09:33:29+00:00",
+      "summary": "GMOインターネットが提供するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、同社が政府に対して「能動的サイバー防御」の適用を要請したことが波紋を広げている。サイバー攻撃が相次…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e2f9091cf1e358de0b8f"
+    },
+    {
       "title": "「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう",
       "url": "https://togetter.com/li/2762937",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1451,6 +1514,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "003e3b5d8ea7326d0fa4"
+    },
+    {
+      "title": "社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文",
+      "url": "https://www.sankei.com/article/20261026-FPM5XMZGCZP4RDOXILAKMEOOFE/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:54:55+00:00",
+      "fetched_at": "2026-10-26T09:33:29+00:00",
+      "summary": "外国為替証拠金取引（FX）のためのサービスに不正アクセスを受けたことを巡り、GMOインターネットグループの熊谷正寿社長が25日、事前に社内の技術者から安全性に関して「改善すべき課題」が指摘されていたとブログに投稿した。一律5000円の見舞金を支払うと発表したことについて、「ご不便とご心配」をかけた顧客への「...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e202dd67c78b8a8f3a15"
     },
     {
       "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
@@ -1539,33 +1623,13 @@
   ],
   "new_findings": [
     {
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-10-26T09:00:00+00:00",
-      "fetched_at": "2026-10-26T09:00:57+00:00",
-      "summary": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c878ee3605adb0205937"
-    },
-    {
-      "title": "「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう",
-      "url": "https://togetter.com/li/2762937",
+      "title": "GMO不正アクセス 「能動的サイバー防御」より先にやるべきことは：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVBV1JK7VBVULZU002M.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-26T03:24:49+00:00",
-      "fetched_at": "2026-10-26T09:00:57+00:00",
-      "summary": "報道ステーション＋サタステ @hst_tvasahi 【GMOサーバー攻撃】FX取引“ハッキング”で600万円被害 ｜ 神奈川県に住む男性会社員(44)は、21日夕方にFXの取引口座を乗っ取られ、意に反した売買が行われた ▼「400万ぐらい損を出すまでに1秒」 損失額約600万円 不正取引の被害者(44) 「被害としては600万以上」 「最初はパニ...",
+      "published_at": "2026-10-26T07:32:00+00:00",
+      "fetched_at": "2026-10-26T09:33:29+00:00",
+      "summary": "GMOインターネットが提供するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、同社が政府に対して「能動的サイバー防御」の適用を要請したことが波紋を広げている。サイバー攻撃が相次…",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1577,7 +1641,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "302908b73fa650bbb9d8"
+      "id": "e2f9091cf1e358de0b8f"
+    },
+    {
+      "title": "社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文",
+      "url": "https://www.sankei.com/article/20261026-FPM5XMZGCZP4RDOXILAKMEOOFE/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:54:55+00:00",
+      "fetched_at": "2026-10-26T09:33:29+00:00",
+      "summary": "外国為替証拠金取引（FX）のためのサービスに不正アクセスを受けたことを巡り、GMOインターネットグループの熊谷正寿社長が25日、事前に社内の技術者から安全性に関して「改善すべき課題」が指摘されていたとブログに投稿した。一律5000円の見舞金を支払うと発表したことについて、「ご不便とご心配」をかけた顧客への「...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e202dd67c78b8a8f3a15"
     }
   ],
   "source_errors": [],
