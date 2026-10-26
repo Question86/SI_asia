@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-26T14:18:55Z",
+  "generated_at": "2026-10-26T15:20:09Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 2,
+      "extreme": 3,
       "krass": 13,
-      "strong": 12,
-      "watch": 13
+      "strong": 14,
+      "watch": 10
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 25,
-      "watch": 13
+      "strong": 28,
+      "watch": 10
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:15+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4111",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T11:46:13+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -97,11 +97,41 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Code mit Benutzer- oder Anwendungsrechten auszuführen, gültige kryptografische Token zu fälschen, die Authentifizierung zu umgehen, erweiterte Rechte zu erlangen, Denial-of-Service-Zustände auszulösen sowie Daten…"
     },
     {
+      "title": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html",
+      "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 130.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 20.66,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 20.66",
+        "high terms: rce, 10",
+        "security high-signal: rce, 10",
+        "aging penalty -8.0 for 130.0d old signal",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": ""
+    },
+    {
       "title": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:11+00:00",
-      "age_days": 0.34,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -128,7 +158,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T13:00:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -154,7 +184,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -180,7 +210,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:28:48+00:00",
-      "age_days": 4.2,
+      "age_days": 4.24,
       "topics": [
         "security"
       ],
@@ -205,7 +235,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -230,7 +260,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T10:54:12+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -255,7 +285,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:56:13+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -280,7 +310,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -305,7 +335,7 @@
       "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-26T10:00:22+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -331,7 +361,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:21:46+00:00",
-      "age_days": 0.54,
+      "age_days": 0.58,
       "topics": [
         "ai"
       ],
@@ -359,7 +389,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:00:14+00:00",
-      "age_days": 0.55,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -387,7 +417,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:01:40+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -410,11 +440,40 @@
       "summary": ""
     },
     {
+      "title": "Growth with responsibility - the next balance sheet",
+      "url": "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 130.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 6,
+      "baseline_z_hint": 15.27,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +6",
+        "baseline z_hint 15.27",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 130.0d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4111",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 59.01,
+      "age_days": 59.05,
       "topics": [
         "security"
       ],
@@ -425,12 +484,11 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.61,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.61",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 59.0d old signal",
@@ -443,7 +501,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:00:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro",
@@ -472,7 +530,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T04:01:40+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -498,7 +556,7 @@
       "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T10:04:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -523,7 +581,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T07:34:00.000+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -545,35 +603,11 @@
       "summary": "Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert."
     },
     {
-      "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
-      "url": "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-26T13:58:15+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T03:20:33+00:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -597,7 +631,7 @@
       "url": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:06:43+00:00",
-      "age_days": 0.51,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -622,7 +656,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:10:35.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -647,7 +681,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T04:17:47.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -668,11 +702,39 @@
       "summary": "Time 2026-10-26 03:59:22 UTC 2026-10-26 03:59:22 UTC at epicenter Location 10.044°S 123.251°E Depth 35.00 km (21.75 mi)"
     },
     {
+      "title": "Growth with responsibility - the next balance sheet",
+      "url": "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 0.64,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Special address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Financial Express Modern BFSI (Banking, Financial Services, and Insurance) Summit 2026, Mumbai, 15 October 2026."
+    },
+    {
       "title": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:11+00:00",
-      "age_days": 0.34,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -697,7 +759,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:48+00:00",
-      "age_days": 0.34,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -717,11 +779,35 @@
       "summary": ""
     },
     {
+      "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
+      "url": "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-26T13:58:15+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Founders are buying gold, not Lamborghinis, after the exit",
       "url": "https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:06:43+00:00",
-      "age_days": 0.51,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -745,7 +831,7 @@
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T01:21:46+00:00",
-      "age_days": 0.54,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -769,7 +855,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2149827.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T06:02:48+00:00",
-      "age_days": 0.34,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -794,7 +880,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T11:48:30.831+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -815,11 +901,89 @@
       "summary": "ShakeMap - III Time 2026-10-26 11:38:06 UTC 2026-10-26 11:38:06 UTC at epicenter Location 53.507°N 165.124°W Depth 35.00 km (21.75 mi)"
     },
     {
+      "title": "Transiting from emigration to immigration – Malta’s economic post independence economic success story",
+      "url": "https://www.bis.org/speeches/20261026-transiting-emigration-immigration-maltas-economic-post-independence-economic-success-story",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 0.64,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Address by Mr Alexander Demarco, Governor of the Central Bank of Malta, at the Annual Conference of the International Network of Financial Services Ombudsman, Valletta, 5 October 2026."
+    },
+    {
+      "title": "Shackleton’s lesson - we still have a choice",
+      "url": "https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 0.64,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the Green Swan 2026 Conference, Manila, 19 October 2026."
+    },
+    {
+      "title": "Rewiring payments - open. Connected. Inclusive.",
+      "url": "https://www.bis.org/speeches/20261026-rewiring-payments-open-connected-inclusive",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 0.64,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the South African Reserve Bank Payments Conference, Pretoria, 20 October 2026."
+    },
+    {
       "title": "[UPDATE] [hoch] rclone: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3196",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:16+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -839,11 +1003,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen oder zu manipulieren, sowie um einen Denial of Service herbeizuführen."
     },
     {
+      "title": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "published_at": "2026-10-26T14:55:21+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00"
+    },
+    {
       "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
       "url": "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T12:36:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -861,179 +1049,6 @@
         "high terms: 10"
       ],
       "summary": "Singapore has a power problem that no amount of rooftop solar will fix. The city-state generates about 95 per cent of its electricity from imported natural gas. It has little spare land for solar farms, no rivers for hydropower and not much wind. Every decarbonisation plan it writes is, in effect, a plan to import […]…"
-    },
-    {
-      "title": "M 5.0 - 218 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-26T11:34:36.040+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-26 11:17:55 UTC 2026-10-26 11:17:55 UTC at epicenter Location 13.940°S 165.386°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.5 - 283 km E of Levuka, Fiji",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-26T10:29:17.040+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-26 10:13:01 UTC 2026-10-26 10:13:01 UTC at epicenter Location 18.283°S 178.011°W Depth 641.81 km (398.80 mi)"
-    },
-    {
-      "title": "M 4.8 - 182 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-26T05:16:27.040+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-26 04:53:35 UTC 2026-10-26 04:53:35 UTC at epicenter Location 14.069°S 165.699°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 205 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-26T01:38:29.040+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-26 01:22:20 UTC 2026-10-26 01:22:20 UTC at epicenter Location 13.880°S 165.583°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65733",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-26T13:58:15+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.5 - 283 km E of Levuka, Fiji",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-26T10:30:59+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.8 - 182 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-26T05:26:05+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
