@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T10:10:16+00:00_
+_Generiert: 2026-10-26T10:30:55+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+38 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みま...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.5 - 283 km E of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-26T10:29:17.040+00:00`, fetched `2026-10-26T10:30:26+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-26 10:13:01 UTC 2026-10-26 10:13:01 UTC at epicenter Location 18.283°S 178.011°W Depth 641.81 km (398.80 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 182 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-26T05:16:27.040+00:00`, fetched `2026-10-26T05:25:30+00:00`
@@ -195,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Taking action for nature – investing in economic resilience and prosperity
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Brotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr** — Score 7, observation — [Quelle](https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-26T10:04:00.000+00:00`, fetched `2026-10-26T10:30:26+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die zunächst als „node2shell“ genannte Lücke im Brotli-Decoder von Google betrifft weitere Software. Admins sollten zügig updaten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-26T07:34:00.000+00:00`, fetched `2026-10-26T07:52:09+00:00`
@@ -204,23 +222,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ** — Score 5, observation — [Quelle](https://tech.classi.jp/entry/2026/10/26/163000)
+- **Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/news/2151273.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-26T08:08:37+00:00`, fetched `2026-10-26T09:56:27+00:00`
+  - Zeit: published `2026-10-26T09:20:26+00:00`, fetched `2026-10-26T10:30:26+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに Classi のサービス開発を担当しているイノウエです。 2026年10月21日に、通称 PHP2Shell と呼ばれる深刻な脆弱性を修正する PHP 8系への緊急パッチが配信されました。 当社のサービスも一部で PHP が使用されており、緊急パッチの配布に備え私を含めた数名で待機しておりました。 しかし、コンテナのベースイメ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **pollen-robotics/microduck** — Score 5, observation — [Quelle](https://github.com/pollen-robotics/microduck)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-10-26T06:02:11+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: A Tiny biped duck robot 🦆 https://pollen-robotics.com/microduck Microduck A tiny biped robot that moves using reinforcement learning policies. Get yours here · Cheat sheet · Training the policies · How it works · Contributing This repo is the duck's brain. About 25 cm and 800 g of robot, run by a handful of daemons on a Rockchip RK3566: a 50 Hz control loop driving fifteen servos from neural policies, the radios and…
+  - Kurz: Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
