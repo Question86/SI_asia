@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T18:37:48+00:00",
-  "run_id": "2026-10-26T18:37:48+00:00",
+  "generated_at": "2026-10-26T19:00:59+00:00",
+  "run_id": "2026-10-26T19:00:59+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 0,
@@ -3595,44 +3595,7 @@
       "id": "d82acf9beb135c97fb78"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.5 - 74 km SE of Rasht, Tajikistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-26T18:29:32.040+00:00",
-      "fetched_at": "2026-10-26T18:37:18+00:00",
-      "summary": "Time 2026-10-26 18:07:04 UTC 2026-10-26 18:07:04 UTC at epicenter Location 38.644°N 71.076°E Depth 47.35 km (29.42 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "ae2d8f681ecb4a27418b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
