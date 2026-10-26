@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-26T05:37:08Z_
+_Generated: 2026-10-26T06:32:13Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “富士電機製V-SFTにおける複数の脆弱性（2026年10月）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “makecindy/cindy” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
+
+### makecindy/cindy
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-26T06:02:11+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: early terms: local, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://github.com/makecindy/cindy
 
 ### 富士電機製V-SFTにおける複数の脆弱性（2026年10月）
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T13:00:00+09:00` / age_days `0.07`
+- Published: `2026-10-26T13:00:00+09:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -22,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “富士電機製V-SFTにおける複数�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T12:00:00+09:00` / age_days `0.11`
+- Published: `2026-10-26T12:00:00+09:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/jp/JVN75668103/
 
+### BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-26T15:00:00+09:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, cve, security, google, official security but no high-signal phrase: capped at strong
+- Quelle: https://jvn.jp/vu/JVNVU97400824/
+
 ### How a 39-store retail chain in Laos moved from Excel to AI agents
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T01:21:46+00:00` / age_days `0.18`
+- Published: `2026-10-26T01:21:46+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, early terms: chain, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -42,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “富士電機製V-SFTにおける複数�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T01:00:14+00:00` / age_days `0.19`
+- Published: `2026-10-26T01:00:14+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: chain, local, high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -52,80 +72,60 @@ Stärkste Dynamik nach Gate-Recheck: “富士電機製V-SFTにおける複数�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T04:01:40+00:00` / age_days `0.07`
+- Published: `2026-10-26T04:01:40+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/
 
+### BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-10-22T09:28:48+00:00` / age_days `3.88`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +1, security high-signal: cve, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://jvn.jp/vu/JVNVU97400824/
+
 ### Two part-timers and one AI orchestrator: Inside a Dubai conference on “The Breaking Point” — Part 1
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T04:00:00+00:00` / age_days `0.07`
+- Published: `2026-10-26T04:00:00+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/
 
+### makecindy/cindy
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-26T06:02:48+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, krass gate: single-source non-official/non-identity signal capped
+- Quelle: https://github.com/makecindy/cindy
+
 ### 富士電機製V-SFTにおける複数の脆弱性（2026年10月）
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-26T04:01:40+00:00` / age_days `0.07`
+- Published: `2026-10-26T04:01:40+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://jvn.jp/vu/JVNVU96549652/
 
-### 電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性
+### pollen-robotics/microduck
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-10-26T03:20:33+00:00` / age_days `0.09`
+- Dynamics score: `22.0`
+- Published: `2026-10-26T06:02:11+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://jvn.jp/jp/JVN75668103/
-
-### Japan’s innovation problem is execution, and Southeast Asian startups are built for it
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-10-26T02:06:43+00:00` / age_days `0.15`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, high terms: execution
-- Quelle: https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/
-
-### M 5.0 - 45 km NNW of Ende, Indonesia
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-10-26T05:10:35.040+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1
-
-### M 4.8 - 41 km WNW of Kupang, Indonesia
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-10-26T04:17:47.040+00:00` / age_days `0.06`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp
-
-### M 5.0 - 45 km NNW of Ende, Indonesia
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.59`
-- Published: `2026-08-29T08:36:29+00:00` / age_days `57.88`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 2.90, aging penalty -8.0 for 57.9d old signal
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce
+- Quelle: https://github.com/pollen-robotics/microduck
 
 END OF DOCUMENT
