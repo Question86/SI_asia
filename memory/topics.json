@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T10:48:32+00:00",
+  "generated_at": "2026-10-26T10:58:53+00:00",
   "topics": {
     "ai": [
       {
@@ -82,6 +82,13 @@
         "published_at": "2026-10-26T15:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU97400824/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux iperf3: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-26T10:54:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",

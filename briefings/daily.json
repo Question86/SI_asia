@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-26T10:48:36+00:00",
-  "today_file_total": 38,
+  "generated_at": "2026-10-26T10:58:56+00:00",
+  "today_file_total": 39,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux iperf3: Schwachstelle ermöglicht Denial of Service",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -12,20 +12,21 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116"
       ],
-      "finding_count": 3,
+      "finding_count": 4,
       "max_score": 16,
-      "credibility_total": 3.15,
+      "credibility_total": 4.2,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.3,
-      "hot": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 27.4,
+      "hot": true,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
       "key": "title:store-retail-chain-laos-moved-excel-agents",
