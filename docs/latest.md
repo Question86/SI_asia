@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T09:34:00+00:00_
+_Generiert: 2026-10-26T09:56:55+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+34 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -195,14 +195,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GMO不正アクセス 「能動的サイバー防御」より先にやるべきことは：朝日新聞** — Score 5, observation — [Quelle](https://www.asahi.com/articles/ASVBV1JK7VBVULZU002M.html)
+- **pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ** — Score 5, observation — [Quelle](https://tech.classi.jp/entry/2026/10/26/163000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-26T07:32:00+00:00`, fetched `2026-10-26T09:33:29+00:00`
+  - Zeit: published `2026-10-26T08:08:37+00:00`, fetched `2026-10-26T09:56:27+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: GMOインターネットが提供するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、同社が政府に対して「能動的サイバー防御」の適用を要請したことが波紋を広げている。サイバー攻撃が相次…
+  - Kurz: はじめに Classi のサービス開発を担当しているイノウエです。 2026年10月21日に、通称 PHP2Shell と呼ばれる深刻な脆弱性を修正する PHP 8系への緊急パッチが配信されました。 当社のサービスも一部で PHP が使用されており、緊急パッチの配布に備え私を含めた数名で待機しておりました。 しかし、コンテナのベースイメ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **pollen-robotics/microduck** — Score 5, observation — [Quelle](https://github.com/pollen-robotics/microduck)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
