@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T19:00:59+00:00_
+_Generiert: 2026-10-26T19:19:59+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+77 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Fortinet (+2.5); VPN (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: \[Mise à jour du 19 mars 2024\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette vulnérabilité...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How Ultrafast cut incident investigation from hours to minutes at OpenAI** — Score 18, observation — [Quelle](https://openai.com/index/openai-cut-incident-investigation)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-26T07:00:00+00:00`, fetched `2026-10-26T19:19:27+00:00`
+  - Treffer: OpenAI, Security, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How a 39-store retail chain in Laos moved from Excel to AI agents** — Score 17, opportunity — [Quelle](https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-26T01:00:14+00:00`, fetched `2026-10-26T01:21:12+00:00`
@@ -102,6 +111,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 国土交通省が提供する電子納品物検査支援システムには、インストール時に不適切なファイルアクセス権設定が行われる脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Introducing GPT-6.1 Terra** — Score 14, observation — [Quelle](https://openai.com/index/introducing-gpt-6-1-terra)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-26T00:00:00+00:00`, fetched `2026-10-26T19:19:27+00:00`
+  - Treffer: AI Agents, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); recent (+1.0)
+  - Kurz: Bringing fast and capable computer use to everyone
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans les produits Cisco (25 avril 2024)** — Score 14, risk — [Quelle](https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-007/)
   - Quelle: CERT-FR Alertes / `rss`
   - Zeit: published `2024-04-25T00:00:00+00:00`, fetched `2026-10-26T16:24:39+00:00`

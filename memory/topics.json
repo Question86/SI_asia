@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T19:00:59+00:00",
+  "generated_at": "2026-10-26T19:19:59+00:00",
   "topics": {
     "security": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2024-02-09T00:00:00+00:00",
         "relevance_score": 20,
         "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/"
+      },
+      {
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-26T07:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://openai.com/index/openai-cut-incident-investigation"
       },
       {
         "title": "BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-26T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN75668103/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-26T07:19:13+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116"
       }
     ],
     "ai": [
@@ -84,11 +84,25 @@
         "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/"
       },
       {
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-26T07:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://openai.com/index/openai-cut-incident-investigation"
+      },
+      {
         "title": "How a 39-store retail chain in Laos moved from Excel to AI agents",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-26T01:00:14+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/"
+      },
+      {
+        "title": "Introducing GPT-6.1 Terra",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra"
       },
       {
         "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
@@ -131,20 +145,6 @@
         "published_at": "2024-07-01T00:00:00+00:00",
         "relevance_score": 12,
         "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-009/"
-      },
-      {
-        "title": "AI models cost more when you don’t use English",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-10-26T10:00:22+00:00",
-        "relevance_score": 10,
-        "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-26T04:17:18+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/bitcoins-macro-reset-reclaim-us80000-before-the-fed-speaks-20261026/"
       }
     ],
     "general": [

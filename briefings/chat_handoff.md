@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T19:00:59+00:00_
+_Generated: 2026-10-26T19:19:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `75`
+- findings: `77`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-26T19:00:59+00:00_
 - url: https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/
 - summary: \[Mise à jour du 19 mars 2024\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN S…
 
-### 3. How a 39-store retail chain in Laos moved from Excel to AI agents
+### 3. How Ultrafast cut incident investigation from hours to minutes at OpenAI
+- source: OpenAI News RSS
+- score: `18`
+- published: `2026-10-26T07:00:00+00:00`
+- url: https://openai.com/index/openai-cut-incident-investigation
+- summary: See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.
+
+### 4. How a 39-store retail chain in Laos moved from Excel to AI agents
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-10-26T01:00:14+00:00`
 - url: https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/
 - summary: Until this summer, the morning numbers at LDC Import-Export Co., Ltd. were built by hand. LDC is a Lao distribution and retail group. It started in Vientiane in 2011, distributing local and imported goods, and its retail arm now runs 39 convenience stores acr…
-
-### 4. BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-10-26T15:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU97400824/
-- summary: Googleのデータ圧縮アルゴリズムBrotliのC言語実装における脆弱性（ CVE-2026-111497 ）に対するアドバイザリが公開されました。 本脆弱性は「HTTP2Shell」や「Node2Shell」とも呼ばれています。
 
 ### 5. Two part-timers and one AI orchestrator: Inside a Dubai conference on “The Breaking Point” — Part 1
 - source: e27 Asia Startup and Tech Feed
