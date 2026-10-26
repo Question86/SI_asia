@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T13:58:12+00:00_
+_Generiert: 2026-10-26T15:05:18+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+58 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -114,6 +114,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 https://cindy.app English · 简体中文 🌐 cindy.app · ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time. Cindy runs locally on your own machine, us…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-10-26T14:55:21+00:00`, fetched `2026-10-26T15:04:50+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260094.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-10-26T14:55:21+00:00`, fetched `2026-10-26T15:04:50+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels** — Score 12, observation — [Quelle](https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-26T12:36:06+00:00`, fetched `2026-10-26T13:57:38+00:00`
@@ -159,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Public Health (+5.0); recent (+1.0)
   - Kurz: Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Growth with responsibility - the next balance sheet** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-26T00:00:00+00:00`, fetched `2026-10-26T15:04:50+00:00`
+  - Treffer: banking, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
+  - Kurz: Special address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Financial Express Modern BFSI (Banking, Financial Services, and Insurance) Summit 2026, Mumbai, 15 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **私が5種類のコーディングエージェントを使い分ける理由** — Score 10, observation — [Quelle](https://zenn.dev/rimon/articles/45c1fd2f015af8)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-25T23:07:41+00:00`, fetched `2026-10-26T01:21:12+00:00`
@@ -195,41 +222,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Survey on the Access to Finance of Enterprises: lending conditions tightened
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Frank Elderson: Taking action for nature – investing in economic resilience and prosperity** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-26T05:00:00+00:00`, fetched `2026-10-26T05:01:39+00:00`
-  - Treffer: Macro/Policy
+- **How Fanatics and OpenAI streamline the fan experience** — Score 8, observation — [Quelle](https://openai.com/index/fanatics-streamline-fan-experience)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-26T07:00:00+00:00`, fetched `2026-10-26T15:04:50+00:00`
+  - Treffer: OpenAI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Frank Elderson: Taking action for nature – investing in economic resilience and prosperity
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-26T11:57:24+00:00`, fetched `2026-10-26T13:57:38+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 楽天グループが運営する旅行予約サービス「楽天トラベル」は26日、海外ホテル予約サイトにログインした最大約260万件の顧客情報が不正アクセスを受けたと発表した。氏名やメールアドレス、電話番号、社内用の識別番号が漏れた恐れがある。シンガポール子会社が運営するサイトが不正アクセスを受けた。同サイトで予約した...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Brotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr** — Score 7, observation — [Quelle](https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-26T10:04:00.000+00:00`, fetched `2026-10-26T10:30:26+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die zunächst als „node2shell“ genannte Lücke im Brotli-Decoder von Google betrifft weitere Software. Admins sollten zügig updaten.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-26T07:34:00.000+00:00`, fetched `2026-10-26T07:52:09+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert.
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

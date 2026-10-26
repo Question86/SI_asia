@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T13:58:12+00:00",
-  "run_id": "2026-10-26T13:58:12+00:00",
+  "generated_at": "2026-10-26T15:05:18+00:00",
+  "run_id": "2026-10-26T15:05:18+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 58
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 9,
+    "today_file_total": 58,
+    "displayed_findings": 58,
     "high": 0,
     "medium": 12,
-    "observe": 37,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -406,6 +406,50 @@
         "id": "1a8a3d7207a19fd31e69"
       },
       {
+        "title": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-10-26T14:55:21+00:00",
+        "fetched_at": "2026-10-26T15:04:50+00:00",
+        "summary": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "88712fe96c6dc19f3196"
+      },
+      {
+        "title": "Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260094.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-10-26T14:55:21+00:00",
+        "fetched_at": "2026-10-26T15:04:50+00:00",
+        "summary": "Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a0cf57fccbe3932b4fa5"
+      },
+      {
         "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
         "url": "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -569,6 +613,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "404886c954ccbf8dc4d8"
+      },
+      {
+        "title": "Growth with responsibility - the next balance sheet",
+        "url": "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "fetched_at": "2026-10-26T15:04:50+00:00",
+        "summary": "Special address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Financial Express Modern BFSI (Banking, Financial Services, and Insurance) Summit 2026, Mumbai, 15 October 2026.",
+        "matched_keywords": [
+          "banking",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "39949c2e557b61b7bdb1"
       },
       {
         "title": "私が5種類のコーディングエージェントを使い分ける理由",
@@ -799,6 +864,26 @@
         "id": "c878ee3605adb0205937"
       },
       {
+        "title": "How Fanatics and OpenAI streamline the fan experience",
+        "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-26T07:00:00+00:00",
+        "fetched_at": "2026-10-26T15:04:50+00:00",
+        "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cae3313d7f7138c5ea89"
+      },
+      {
         "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
         "source": "ECB Press Releases Speeches Interviews",
@@ -942,6 +1027,106 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5c7d206b62def2fc2d2c"
+      },
+      {
+        "title": "Transiting from emigration to immigration – Malta’s economic post independence economic success story",
+        "url": "https://www.bis.org/speeches/20261026-transiting-emigration-immigration-maltas-economic-post-independence-economic-success-story",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "fetched_at": "2026-10-26T15:04:50+00:00",
+        "summary": "Address by Mr Alexander Demarco, Governor of the Central Bank of Malta, at the Annual Conference of the International Network of Financial Services Ombudsman, Valletta, 5 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6bac7124b82dedcef9ac"
+      },
+      {
+        "title": "Shackleton’s lesson - we still have a choice",
+        "url": "https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "fetched_at": "2026-10-26T15:04:50+00:00",
+        "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the Green Swan 2026 Conference, Manila, 19 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9c7357d4c0f4dd95a344"
+      },
+      {
+        "title": "Rewiring payments - open. Connected. Inclusive.",
+        "url": "https://www.bis.org/speeches/20261026-rewiring-payments-open-connected-inclusive",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "fetched_at": "2026-10-26T15:04:50+00:00",
+        "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the South African Reserve Bank Payments Conference, Pretoria, 20 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f582494f65e930f06263"
+      },
+      {
+        "title": "Results of socio-economic development and execution of the republican budget for January–September 2026",
+        "url": "https://www.bis.org/speeches/20261021-results-socio-economic-development-and-execution-republican-budget-january-september-2026",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "fetched_at": "2026-10-26T15:04:50+00:00",
+        "summary": "Report by Mr Yerulan Zhamaubayev, First Deputy Governor of the National Bank of Kazakhstan, at a meeting of the Government of the Republic of Kazakhstan on \"Results of socio-economic development and execution of the republican budget for January–September 2026\", Astana, 13 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7caaf64c7c7cec0da2f8"
+      },
+      {
+        "title": "On taxes, credit and growth",
+        "url": "https://www.bis.org/speeches/20261007-taxes-credit-and-growth",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "fetched_at": "2026-10-26T15:04:50+00:00",
+        "summary": "Statement by Mr Dimitar Radev, Governor of the Bulgarian National Bank, Sofia, 25 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f8c570ff7eeccf5456c8"
       },
       {
         "title": "「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“進研ゼミの案内” なぜ届いたのかベネッセに聞いた",
@@ -1594,6 +1779,50 @@
       "id": "1a8a3d7207a19fd31e69"
     },
     {
+      "title": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-10-26T14:55:21+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "88712fe96c6dc19f3196"
+    },
+    {
+      "title": "Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260094.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-10-26T14:55:21+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a0cf57fccbe3932b4fa5"
+    },
+    {
       "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
       "url": "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1757,6 +1986,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "404886c954ccbf8dc4d8"
+    },
+    {
+      "title": "Growth with responsibility - the next balance sheet",
+      "url": "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Special address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Financial Express Modern BFSI (Banking, Financial Services, and Insurance) Summit 2026, Mumbai, 15 October 2026.",
+      "matched_keywords": [
+        "banking",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "39949c2e557b61b7bdb1"
     },
     {
       "title": "私が5種類のコーディングエージェントを使い分ける理由",
@@ -1987,6 +2237,26 @@
       "id": "c878ee3605adb0205937"
     },
     {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cae3313d7f7138c5ea89"
+    },
+    {
       "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -2130,6 +2400,106 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5c7d206b62def2fc2d2c"
+    },
+    {
+      "title": "Transiting from emigration to immigration – Malta’s economic post independence economic success story",
+      "url": "https://www.bis.org/speeches/20261026-transiting-emigration-immigration-maltas-economic-post-independence-economic-success-story",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Address by Mr Alexander Demarco, Governor of the Central Bank of Malta, at the Annual Conference of the International Network of Financial Services Ombudsman, Valletta, 5 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bac7124b82dedcef9ac"
+    },
+    {
+      "title": "Shackleton’s lesson - we still have a choice",
+      "url": "https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the Green Swan 2026 Conference, Manila, 19 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c7357d4c0f4dd95a344"
+    },
+    {
+      "title": "Rewiring payments - open. Connected. Inclusive.",
+      "url": "https://www.bis.org/speeches/20261026-rewiring-payments-open-connected-inclusive",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the South African Reserve Bank Payments Conference, Pretoria, 20 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f582494f65e930f06263"
+    },
+    {
+      "title": "Results of socio-economic development and execution of the republican budget for January–September 2026",
+      "url": "https://www.bis.org/speeches/20261021-results-socio-economic-development-and-execution-republican-budget-january-september-2026",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Report by Mr Yerulan Zhamaubayev, First Deputy Governor of the National Bank of Kazakhstan, at a meeting of the Government of the Republic of Kazakhstan on \"Results of socio-economic development and execution of the republican budget for January–September 2026\", Astana, 13 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7caaf64c7c7cec0da2f8"
+    },
+    {
+      "title": "On taxes, credit and growth",
+      "url": "https://www.bis.org/speeches/20261007-taxes-credit-and-growth",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Statement by Mr Dimitar Radev, Governor of the Bulgarian National Bank, Sofia, 25 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f8c570ff7eeccf5456c8"
     },
     {
       "title": "「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“進研ゼミの案内” なぜ届いたのかベネッセに聞いた",
@@ -2407,134 +2777,189 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] OPNsense: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html",
+      "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
-      "published_at": "2026-10-26T12:59:15+00:00",
-      "fetched_at": "2026-10-26T13:57:38+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OPNsense ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren und offenzulegen.",
+      "published_at": "2026-10-26T14:55:21+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "912f001afd9e6a4155ca"
-    },
-    {
-      "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
-      "url": "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-26T12:36:06+00:00",
-      "fetched_at": "2026-10-26T13:57:38+00:00",
-      "summary": "Singapore has a power problem that no amount of rooftop solar will fix. The city-state generates about 95 per cent of its electricity from imported natural gas. It has little spare land for solar farms, no rivers for hydropower and not much wind. Every decarbonisation plan it writes is, in effect, a plan to import […] The post Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels ap…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure"
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
       ],
       "relevance_score": 12,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "56e53a5639756776b206"
+      "id": "88712fe96c6dc19f3196"
     },
     {
-      "title": "楽天トラベルに不正アクセス、顧客情報260万件流出か クレカ3万件も - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260094.en.html",
+      "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
-      "published_at": "2026-10-26T11:57:24+00:00",
-      "fetched_at": "2026-10-26T13:57:38+00:00",
-      "summary": "楽天グループが運営する旅行予約サービス「楽天トラベル」は26日、海外ホテル予約サイトにログインした最大約260万件の顧客情報が不正アクセスを受けたと発表した。氏名やメールアドレス、電話番号、社内用の識別番号が漏れた恐れがある。シンガポール子会社が運営するサイトが不正アクセスを受けた。同サイトで予約した...",
+      "published_at": "2026-10-26T14:55:21+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "be06f1cf4f1f0d1c0ea3"
+      "id": "a0cf57fccbe3932b4fa5"
     },
     {
-      "title": "[UPDATE] [hoch] rclone: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3196",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Growth with responsibility - the next balance sheet",
+      "url": "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-10-26T12:59:16+00:00",
-      "fetched_at": "2026-10-26T13:57:38+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen oder zu manipulieren, sowie um einen Denial of Service herbeizuführen.",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Special address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Financial Express Modern BFSI (Banking, Financial Services, and Insurance) Summit 2026, Mumbai, 15 October 2026.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "banking",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "39949c2e557b61b7bdb1"
+    },
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cae3313d7f7138c5ea89"
+    },
+    {
+      "title": "Transiting from emigration to immigration – Malta’s economic post independence economic success story",
+      "url": "https://www.bis.org/speeches/20261026-transiting-emigration-immigration-maltas-economic-post-independence-economic-success-story",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Address by Mr Alexander Demarco, Governor of the Central Bank of Malta, at the Annual Conference of the International Network of Financial Services Ombudsman, Valletta, 5 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
       ],
       "relevance_score": 6,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph demote clone (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5c7d206b62def2fc2d2c"
+      "id": "6bac7124b82dedcef9ac"
     },
     {
-      "title": "「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“進研ゼミの案内” なぜ届いたのかベネッセに聞いた",
-      "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002597/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Shackleton’s lesson - we still have a choice",
+      "url": "https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-10-26T10:32:41+00:00",
-      "fetched_at": "2026-10-26T13:57:38+00:00",
-      "summary": "「貴社が案内を送ってきた『萌奈椛様 6歳』はこの子です。年齢は合ってますが、人間ではありません」──飼い猫宛てに通信教育「進研ゼミ」の案内が届いたという投稿が、10月20日ごろにXで話題になった。ITmedia NEWSは、投稿者と発行元のベネッセコーポレーションに経緯を聞いた。 投稿者は、6歳の猫「萌奈椛」（もなか）...",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the Green Swan 2026 Conference, Manila, 19 October 2026.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Macro/Policy"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "51ad8479b87136362f49"
+      "id": "9c7357d4c0f4dd95a344"
     },
     {
-      "title": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65733",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "On taxes, credit and growth",
+      "url": "https://www.bis.org/speeches/20261007-taxes-credit-and-growth",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-10-26T08:44:52+00:00",
-      "fetched_at": "2026-10-26T13:57:38+00:00",
-      "summary": "GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かり…",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Statement by Mr Dimitar Radev, Governor of the Bulgarian National Bank, Sofia, 25 September 2026.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Macro/Policy"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3f1e73013b5469729ba6"
+      "id": "f8c570ff7eeccf5456c8"
+    },
+    {
+      "title": "Rewiring payments - open. Connected. Inclusive.",
+      "url": "https://www.bis.org/speeches/20261026-rewiring-payments-open-connected-inclusive",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the South African Reserve Bank Payments Conference, Pretoria, 20 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f582494f65e930f06263"
+    },
+    {
+      "title": "Results of socio-economic development and execution of the republican budget for January–September 2026",
+      "url": "https://www.bis.org/speeches/20261021-results-socio-economic-development-and-execution-republican-budget-january-september-2026",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "fetched_at": "2026-10-26T15:04:50+00:00",
+      "summary": "Report by Mr Yerulan Zhamaubayev, First Deputy Governor of the National Bank of Kazakhstan, at a meeting of the Government of the Republic of Kazakhstan on \"Results of socio-economic development and execution of the republican budget for January–September 2026\", Astana, 13 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7caaf64c7c7cec0da2f8"
     }
   ],
   "source_errors": [],
