@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-26T20:16:13Z",
+  "generated_at": "2026-10-26T20:34:40Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:15+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4111",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T11:46:13+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -101,7 +101,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-006/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-04-12T00:00:00+00:00",
-      "age_days": 927.84,
+      "age_days": 927.86,
       "topics": [
         "ai",
         "security"
@@ -119,7 +119,7 @@
       "why": [
         "high terms: 10, palo, alto",
         "security high-signal: 10, palo, alto",
-        "aging penalty -8.0 for 927.8d old signal"
+        "aging penalty -8.0 for 927.9d old signal"
       ],
       "summary": "\\[Mise à jour du 10 mai 2024\\] Le CERT-FR est intervenu pour le traitement d'une compromission par rançongiciel au sein d'une entité française. Dans le cadre de cette attaque, la vulnérabilité a été exploitée pour ensuite réaliser une latéralisation dans le système d'information de la victime et..."
     },
@@ -128,26 +128,26 @@
       "url": "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 130.24,
+      "age_days": 130.25,
       "topics": [
         "general"
       ],
-      "dynamics_score": 26.88,
+      "dynamics_score": 26.8,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.34,
+      "baseline_z_hint": 0.27,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.34",
+        "baseline z_hint 0.27",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 130.2d old signal"
+        "aging penalty -8.0 for 130.3d old signal"
       ],
       "summary": ""
     },
@@ -156,7 +156,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1346/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.84,
+      "age_days": 5.86,
       "topics": [
         "ai",
         "security"
@@ -182,7 +182,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1351/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.84,
+      "age_days": 5.86,
       "topics": [
         "ai",
         "security"
@@ -208,7 +208,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1350/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.84,
+      "age_days": 5.86,
       "topics": [
         "ai",
         "security"
@@ -234,7 +234,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1349/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.84,
+      "age_days": 5.86,
       "topics": [
         "ai",
         "security"
@@ -260,7 +260,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 130.24,
+      "age_days": 130.25,
       "topics": [
         "general"
       ],
@@ -271,16 +271,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.15,
+      "baseline_z_hint": 6.61,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 7.15",
+        "baseline z_hint 6.61",
         "high terms: rce, 10",
         "security high-signal: rce, 10",
-        "aging penalty -8.0 for 130.2d old signal",
+        "aging penalty -8.0 for 130.3d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -290,7 +290,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:11+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -317,7 +317,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T13:00:00+09:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "security"
       ],
@@ -343,7 +343,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "security"
       ],
@@ -369,7 +369,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:28:48+00:00",
-      "age_days": 4.45,
+      "age_days": 4.46,
       "topics": [
         "security"
       ],
@@ -394,7 +394,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -419,7 +419,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T10:54:12+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -444,7 +444,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:56:13+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -469,7 +469,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -494,7 +494,7 @@
       "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-26T10:00:22+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -520,7 +520,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:21:46+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -548,7 +548,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:00:14+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -576,7 +576,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:01:40+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -603,7 +603,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4111",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 59.26,
+      "age_days": 59.27,
       "topics": [
         "security"
       ],
@@ -614,12 +614,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.41,
+      "baseline_z_hint": 3.66,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.41",
+        "baseline z_hint 3.66",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 59.3d old signal",
@@ -632,7 +632,7 @@
       "url": "https://openai.com/index/openai-cut-incident-investigation",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 130.98,
+      "age_days": 130.99,
       "topics": [
         "ai"
       ],
@@ -643,12 +643,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.96,
+      "baseline_z_hint": 5.02,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.96",
+        "baseline z_hint 5.02",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 131.0d old signal",
@@ -661,7 +661,7 @@
       "url": "https://openai.com/index/openai-cut-incident-investigation",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-26T07:00:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "security"
@@ -688,7 +688,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:00:00+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai",
         "macro",
@@ -717,7 +717,7 @@
       "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-26T20:03:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -742,7 +742,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T04:01:40+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "general"
       ],
@@ -764,38 +764,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.9 - 100 km E of La Tirana, Chile",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-14T03:37:31+00:00",
-      "age_days": 12.69,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "high terms: 10",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Brotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr",
       "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T10:04:00.000+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -820,7 +793,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T07:34:00.000+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "security"
@@ -842,11 +815,36 @@
       "summary": "Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert."
     },
     {
+      "title": "M 4.9 - 100 km E of La Tirana, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-14T03:37:31+00:00",
+      "age_days": 12.71,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-007/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-04-25T00:00:00+00:00",
-      "age_days": 914.84,
+      "age_days": 914.86,
       "topics": [
         "security"
       ],
@@ -863,7 +861,7 @@
       "why": [
         "high terms: active",
         "security high-signal: active",
-        "aging penalty -8.0 for 914.8d old signal"
+        "aging penalty -8.0 for 914.9d old signal"
       ],
       "summary": "Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD. Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées. La vulnérabilité..."
     },
@@ -872,7 +870,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T03:20:33+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "general"
       ],
@@ -896,7 +894,7 @@
       "url": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:06:43+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -921,7 +919,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:10:35.040+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -946,7 +944,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T04:17:47.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -971,7 +969,7 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T06:02:11+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -996,7 +994,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-009/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-07-01T00:00:00+00:00",
-      "age_days": 847.84,
+      "age_days": 847.86,
       "topics": [
         "ai",
         "security"
@@ -1014,7 +1012,7 @@
       "why": [
         "high terms: code, auth, root",
         "security high-signal: code, auth, root",
-        "aging penalty -8.0 for 847.8d old signal"
+        "aging penalty -8.0 for 847.9d old signal"
       ],
       "summary": "Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont..."
     },
@@ -1023,7 +1021,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-02-09T00:00:00+00:00",
-      "age_days": 990.84,
+      "age_days": 990.86,
       "topics": [
         "ai",
         "security",
@@ -1042,7 +1040,7 @@
       "why": [
         "high terms: active, exploitation, code",
         "security high-signal: active, exploitation, code, vpn",
-        "aging penalty -8.0 for 990.8d old signal",
+        "aging penalty -8.0 for 990.9d old signal",
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": "\\[Mise à jour du 19 mars 2024\\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette vulnérabilité..."
@@ -1052,7 +1050,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3196",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:16+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
