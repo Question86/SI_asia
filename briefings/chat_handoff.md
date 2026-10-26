@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T05:02:09+00:00_
+_Generated: 2026-10-26T05:26:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `19`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-26T05:02:09+00:00_
 - url: https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/
 - summary: Until this summer, the morning numbers at LDC Import-Export Co., Ltd. were built by hand. LDC is a Lao distribution and retail group. It started in Vientiane in 2011, distributing local and imported goods, and its retail arm now runs 39 convenience stores acr…
 
-### 2. M 4.8 - 41 km WNW of Kupang, Indonesia
+### 2. M 5.0 - 45 km NNW of Ende, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-10-26T05:10:35.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1
+- summary: Time 2026-10-26 04:53:40 UTC 2026-10-26 04:53:40 UTC at epicenter Location 8.443°S 121.573°E Depth 10.00 km (6.21 mi)
+
+### 3. M 4.8 - 41 km WNW of Kupang, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-26T04:17:47.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp
 - summary: Time 2026-10-26 03:59:22 UTC 2026-10-26 03:59:22 UTC at epicenter Location 10.044°S 123.251°E Depth 35.00 km (21.75 mi)
 
-### 3. 富士電機製V-SFTにおける複数の脆弱性（2026年10月）
+### 4. 富士電機製V-SFTにおける複数の脆弱性（2026年10月）
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-26T13:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU96549652/
 - summary: 富士電機株式会社が提供するV-SFTには、複数の脆弱性が存在します。
-
-### 4. 電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-26T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN75668103/
-- summary: 国土交通省が提供する電子納品物検査支援システムには、インストール時に不適切なファイルアクセス権設定が行われる脆弱性が存在します。
 
 ### 5. Two part-timers and one AI orchestrator: Inside a Dubai conference on “The Breaking Point” — Part 1
 - source: e27 Asia Startup and Tech Feed
