@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T19:16:36+00:00",
-  "today_file_total": 87,
+  "generated_at": "2026-10-27T19:23:32+00:00",
+  "today_file_total": 88,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -200,6 +200,31 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 17.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:m 5.4 - 210 km ene of nagqu, china:5.4",
+      "title": "M 5.4 - 210 km ENE of Nagqu, China",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -456,29 +481,6 @@
       ],
       "urls": [
         "https://home.riise.hiroshima-u.ac.jp/~ten/slide_20240328.pdf?utm_source=chatgpt.com"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "github_repo:yuiseki/map-from-scratch",
-      "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/yuiseki/map-from-scratch"
       ],
       "finding_count": 1,
       "max_score": 11,
