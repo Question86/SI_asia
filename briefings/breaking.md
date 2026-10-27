@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-27T05:40:15+00:00_
+_Generiert: 2026-10-27T05:53:29+00:00_
 
 ## 3 scenarios for October 28: Which one breaks Bitcoin’s US$80,000 resistance
 
