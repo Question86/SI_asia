@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T11:49:59+00:00_
+_Generiert: 2026-10-27T12:28:16+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+62 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-27T12:21:40+00:00`, fetched `2026-10-27T12:27:37+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Podman ausnutzen, um Dateien zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN90463048/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-27T12:00:00+09:00`, fetched `2026-10-27T03:03:14+00:00`
@@ -66,15 +75,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Oracle Java SE: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4154)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-27T11:33:40+00:00`, fetched `2026-10-27T11:49:19+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Oracle Java SE ausnutzen, um Informationen offenzulegen oder Daten zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90547696/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-27T10:30:15+09:00`, fetched `2026-10-27T02:33:24+00:00`
@@ -123,6 +123,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, isolated work into separate workspaces, and gave the agen…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Anthropic, DeepSeek and drones: 10 takeaways from the 2026 unicorn boom** — Score 12, observation — [Quelle](https://e27.co/anthropic-deepseek-and-drones-10-takeaways-from-the-2026-unicorn-boom-20261027/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-27T11:50:36+00:00`, fetched `2026-10-27T12:27:37+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:agriculture_food_fertilizer, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers, agriculture_food_fertilizer
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers, agriculture_food_fertilizer (+6.0); watchgraph markets via defense_war, macro_region_etfs, agriculture_food: corn (+2.0)
+  - Kurz: Thirteen years after venture capitalist Aileen Lee coined the term, the unicorn has stopped being mythical. There are now 1,879 privately held companies valued at US$1 billion or more, according to a new analysis by BestBrokers, which drew on data from Crunchbase, PitchBook and TechCrunch. The headline number hides a narrower story. Capital in 2026 […] The post Anthropic, DeepSeek and drones: 10 takeaways from the 2…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 100 km W of El Aguilar, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-27T12:01:26.040+00:00`, fetched `2026-10-27T12:27:37+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-27 11:41:22 UTC 2026-10-27 11:41:22 UTC at epicenter Location 23.182°S 66.662°W Depth 206.26 km (128.16 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス** — Score 11, observation — [Quelle](https://github.com/yuiseki/map-from-scratch)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-26T12:01:11+00:00`, fetched `2026-10-27T02:33:24+00:00`
@@ -150,23 +168,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: October 2026 euro area bank lending survey
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - 191 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk)
+- **M 4.6 - 5 km ENE of Tierra y Libertad, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-27T11:09:11.040+00:00`, fetched `2026-10-27T11:22:44+00:00`
+  - Zeit: published `2026-10-27T12:22:23.040+00:00`, fetched `2026-10-27T12:27:37+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-27 10:50:35 UTC 2026-10-27 10:50:35 UTC at epicenter Location 14.007°S 165.648°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 184 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfj)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-27T10:50:39.040+00:00`, fetched `2026-10-27T10:54:00+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-27 10:06:31 UTC 2026-10-27 10:06:31 UTC at epicenter Location 13.944°S 165.788°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-27 12:01:11 UTC 2026-10-27 12:01:11 UTC at epicenter Location 16.398°N 93.817°W Depth 140.34 km (87.20 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media** — Score 9, observation — [Quelle](https://iret.media/210349)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -194,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: newmo のモノレポで、AI が Pull Request（PR）を読み、安全と判断したものを bot が承認する仕組み「riskjudge」を運用しています。 筆者の個人ブログのソフトウェアの産業革命では「検査を工程にする」という話を書いたのですが、この記事ではその工程の 1 つを、どう組み立てているかという技術の面から紹介します。 ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The AI era is forcing startups to rethink what they should own** — Score 8, observation — [Quelle](https://e27.co/the-ai-era-is-forcing-startups-to-rethink-what-they-should-own-20261025/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-27T04:00:53+00:00`, fetched `2026-10-27T04:23:56+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0)
-  - Kurz: For years, the logic of startup building was closely associated with ownership. A company developed its own technology, recruited its own specialised teams, accumulated proprietary tools and built infrastructure that competitors would struggle to reproduce. The more difficult those capabilities were to access elsewhere, the more credible the competitive advantage appeared. In software especially, technological […] T…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Welcoming remarks - Malaysia's Designated Non-Financial Businesses and Professions (DNFBP) Compliance Conference 2026** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261027-welcoming-remarks-malaysias-designated-non-financial-businesses-and-professions-dnfbp-compliance-conference-2026)
   - Quelle: BIS Central Bankers Speeches / `rss`

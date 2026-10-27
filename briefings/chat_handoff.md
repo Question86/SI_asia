@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T11:49:59+00:00_
+_Generated: 2026-10-27T12:28:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `58`
+- findings: `62`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-27T11:49:59+00:00_
 - url: https://github.com/JetBrains/thinkrail
 - summary: Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs to…
 
-### 8. GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-10-26T12:01:11+00:00`
-- url: https://github.com/yuiseki/map-from-scratch
-- summary: 「X をしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小で最速の地図の描画器をほぼゼロから作り、計測で確かめるためのスキルとハーネスです。 汎用の地図エンジンは作らず、依頼ごとに描画器そのものを作り直します。平面でだけ見せたい依頼なら、3 次元描画のための処理の大半は最初から要りませ...
+### 8. Anthropic, DeepSeek and drones: 10 takeaways from the 2026 unicorn boom
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-10-27T11:50:36+00:00`
+- url: https://e27.co/anthropic-deepseek-and-drones-10-takeaways-from-the-2026-unicorn-boom-20261027/
+- summary: Thirteen years after venture capitalist Aileen Lee coined the term, the unicorn has stopped being mythical. There are now 1,879 privately held companies valued at US$1 billion or more, according to a new analysis by BestBrokers, which drew on data from Crunch…
 
 END OF DOCUMENT
