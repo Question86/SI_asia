@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T04:40:56+00:00_
+_Generiert: 2026-10-27T04:55:30+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

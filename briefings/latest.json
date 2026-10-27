@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T04:40:56+00:00",
-  "run_id": "2026-10-27T04:40:56+00:00",
+  "generated_at": "2026-10-27T04:55:30+00:00",
+  "run_id": "2026-10-27T04:55:30+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 5,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -465,6 +465,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "000ee91ded5960b7a013"
+      },
+      {
+        "title": "The e27 Contributor Programme: Writing an article that gets published — Part 1",
+        "url": "https://e27.co/the-e27-contributor-programme-writing-an-article-that-gets-published-part-1-20261027/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-27T04:54:00+00:00",
+        "fetched_at": "2026-10-27T04:55:01+00:00",
+        "summary": "I read a lot of contributor articles, and the ones that get published versus held back are rarely separated by writing talent. It’s usually the small things: an idea that’s too broad, a claim with no source, a company name that appears one time too many. Almost all of it is fixable before you hit […] The post The e27 Contributor Programme: Writing an article that gets published — Part 1 appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a46ced2ce1cdd2031cd2"
       }
     ]
   },
@@ -903,9 +923,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "000ee91ded5960b7a013"
+    },
+    {
+      "title": "The e27 Contributor Programme: Writing an article that gets published — Part 1",
+      "url": "https://e27.co/the-e27-contributor-programme-writing-an-article-that-gets-published-part-1-20261027/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-27T04:54:00+00:00",
+      "fetched_at": "2026-10-27T04:55:01+00:00",
+      "summary": "I read a lot of contributor articles, and the ones that get published versus held back are rarely separated by writing talent. It’s usually the small things: an idea that’s too broad, a claim with no source, a company name that appears one time too many. Almost all of it is fixable before you hit […] The post The e27 Contributor Programme: Writing an article that gets published — Part 1 appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a46ced2ce1cdd2031cd2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "The e27 Contributor Programme: Writing an article that gets published — Part 1",
+      "url": "https://e27.co/the-e27-contributor-programme-writing-an-article-that-gets-published-part-1-20261027/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-27T04:54:00+00:00",
+      "fetched_at": "2026-10-27T04:55:01+00:00",
+      "summary": "I read a lot of contributor articles, and the ones that get published versus held back are rarely separated by writing talent. It’s usually the small things: an idea that’s too broad, a claim with no source, a company name that appears one time too many. Almost all of it is fixable before you hit […] The post The e27 Contributor Programme: Writing an article that gets published — Part 1 appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a46ced2ce1cdd2031cd2"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
