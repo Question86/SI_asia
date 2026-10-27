@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T06:01:53+00:00",
-  "today_file_total": 26,
+  "generated_at": "2026-10-27T06:37:19+00:00",
+  "today_file_total": 28,
   "current_clusters": [
     {
       "key": "title:qpiai-singapore-bet-put-quantum-hardware-hands-finance",
@@ -26,27 +26,27 @@
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
-      "key": "title:growi",
-      "title": "GROWIにおける複数の脆弱性",
+      "key": "github_repo:jetbrains/thinkrail",
+      "title": "JetBrains/thinkrail",
       "sources": [
-        "JVN Japan Vulnerability Notes"
+        "GitHub Trending RSS All Languages Daily"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://jvn.jp/jp/JVN51223238/"
+        "https://github.com/JetBrains/thinkrail"
       ],
       "finding_count": 1,
-      "max_score": 14,
+      "max_score": 13,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 19.1,
+      "network_score": 18.1,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "earthquake:japan:4.8",
@@ -71,6 +71,29 @@
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:growi",
+      "title": "GROWIにおける複数の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN51223238/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
@@ -168,6 +191,30 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:gigazine.net",
+      "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/",
+        "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/"
+      ],
+      "finding_count": 2,
+      "max_score": 8,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "github_repo:yuiseki/map-from-scratch",
       "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
       "sources": [
@@ -262,98 +309,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:ecosystem-roundup-bukalapak-stays-black-gaming-carries-load",
-      "title": "Ecosystem Roundup: Bukalapak stays in the black as gaming carries the load",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ecosystem-roundup-bukalapak-stays-in-the-black-as-gaming-carries-the-load-20261027/"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/press/b1d81ddb-c690-47fc-be30-e98502f5045c",
-      "title": "塩崎デジタル副大臣がアンドレス・ウンガ駐日エストニア共和国大使の表敬訪問を受けました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/press/b1d81ddb-c690-47fc-be30-e98502f5045c"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:2026",
-      "title": "令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第2回） の開催情報と資料を掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/councils/procurement-reform/FY2026/24cfea22-3e10-418e-abbd-983af697d751"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/policies/disaster_prevention",
-      "title": "「防災分野のデータ流通促進」の取組概要と「デジタル庁における官民共創による防災DXの推進」の資料を更新しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/policies/disaster_prevention"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:era-forcing-startups-rethink-what-they-should-own",
       "title": "The AI era is forcing startups to rethink what they should own",
       "sources": [
@@ -423,31 +378,31 @@
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
-      "key": "domain:gigazine.net",
-      "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
+      "key": "title:ecosystem-roundup-bukalapak-stays-black-gaming-carries-load",
+      "title": "Ecosystem Roundup: Bukalapak stays in the black as gaming carries the load",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/"
+        "https://e27.co/ecosystem-roundup-bukalapak-stays-in-the-black-as-gaming-carries-the-load-20261027/"
       ],
       "finding_count": 1,
-      "max_score": 8,
+      "max_score": 6,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.1,
+      "network_score": 8.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "url:https://www.digital.go.jp/speech/minister-261027-01",
-      "title": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
+      "key": "url:https://www.digital.go.jp/press/b1d81ddb-c690-47fc-be30-e98502f5045c",
+      "title": "塩崎デジタル副大臣がアンドレス・ウンガ駐日エストニア共和国大使の表敬訪問を受けました",
       "sources": [
         "Japan Digital Agency News RSS"
       ],
@@ -455,7 +410,53 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.digital.go.jp/speech/minister-261027-01"
+        "https://www.digital.go.jp/press/b1d81ddb-c690-47fc-be30-e98502f5045c"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:2026",
+      "title": "令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第2回） の開催情報と資料を掲載しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/councils/procurement-reform/FY2026/24cfea22-3e10-418e-abbd-983af697d751"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://www.digital.go.jp/policies/disaster_prevention",
+      "title": "「防災分野のデータ流通促進」の取組概要と「デジタル庁における官民共創による防災DXの推進」の資料を更新しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/policies/disaster_prevention"
       ],
       "finding_count": 1,
       "max_score": 6,

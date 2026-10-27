@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-27T06:01:49+00:00",
+  "generated_at": "2026-10-27T06:37:14+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 2,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
     "medium": 7,
-    "observe": 19
+    "observe": 21
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "JetBrains/thinkrail",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 13,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs to…",
+      "section": "observe"
+    },
+    {
       "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://iret.media/210349",
       "summary": "こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...",
       "section": "observe"
-    },
-    {
-      "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-27T01:00:36+00:00",
-      "relevance_score": 9,
-      "url": "https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/",
-      "summary": "The most telling line in Publicis’ announcement of a new AI Development Hub in Singapore isn’t about technology. It’s the promise that the hub will create roles rather than remove them. The hub itself is a serious bet: engineers, data scientists and product d…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=35.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
-        "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-27T02:54:24+00:00",
-        "age_days": 0.15,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 35.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
-        "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-27T01:00:28+00:00",
-        "age_days": 0.23,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into the market. Also Read: AI, quantum comput…"
-      },
-      {
-        "title": "GROWIにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN51223238/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T15:00:00+09:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性",
-        "url": "https://jvn.jp/jp/JVN90463048/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T12:00:00+09:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。"
-      },
-      {
-        "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU90547696/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T10:30:15+09:00",
-        "age_days": 0.2,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      }
-    ]
-  }
+  ]
 }

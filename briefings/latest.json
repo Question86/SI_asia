@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T06:01:49+00:00",
-  "run_id": "2026-10-27T06:01:49+00:00",
+  "generated_at": "2026-10-27T06:37:14+00:00",
+  "run_id": "2026-10-27T06:37:14+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 2,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
     "medium": 7,
-    "observe": 19,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -216,6 +216,29 @@
     ],
     "observe": [
       {
+        "title": "JetBrains/thinkrail",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-10-27T06:36:47+00:00",
+        "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, isolated work into separate workspaces, and gave the agen…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cd5bfab9437a29ad0754"
+      },
+      {
         "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
         "url": "https://github.com/yuiseki/map-from-scratch",
         "source": "Hatena Bookmark Hotentry IT",
@@ -316,6 +339,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2a3669eeee748f5f1e0e"
+      },
+      {
+        "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
+        "url": "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T04:07:06+00:00",
+        "fetched_at": "2026-10-27T06:36:47+00:00",
+        "summary": "中国のアリババが開発したAIモデル「Qwen3.8-Flash-Next」にセキュリティ対策用のルールを作成させたところ、指示されていないコンピューター内部の調査を始め、中国・北京にあるサーバーへデータを送信しようとしたことが判明しました。 Concerning behavior from a popular open-weight AI model | Cohere https://coh...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a519691762da5d950259"
       },
       {
         "title": "The AI era is forcing startups to rethink what they should own",
@@ -813,6 +858,29 @@
       "id": "386610d68abc0ebffce9"
     },
     {
+      "title": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-10-27T06:36:47+00:00",
+      "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, isolated work into separate workspaces, and gave the agen…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cd5bfab9437a29ad0754"
+    },
+    {
       "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
       "url": "https://github.com/yuiseki/map-from-scratch",
       "source": "Hatena Bookmark Hotentry IT",
@@ -913,6 +981,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2a3669eeee748f5f1e0e"
+    },
+    {
+      "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
+      "url": "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T04:07:06+00:00",
+      "fetched_at": "2026-10-27T06:36:47+00:00",
+      "summary": "中国のアリババが開発したAIモデル「Qwen3.8-Flash-Next」にセキュリティ対策用のルールを作成させたところ、指示されていないコンピューター内部の調査を始め、中国・北京にあるサーバーへデータを送信しようとしたことが判明しました。 Concerning behavior from a popular open-weight AI model | Cohere https://coh...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a519691762da5d950259"
     },
     {
       "title": "The AI era is forcing startups to rethink what they should own",
@@ -1225,106 +1315,49 @@
   ],
   "new_findings": [
     {
-      "title": "GROWIにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN51223238/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-10-27T15:00:00+09:00",
-      "fetched_at": "2026-10-27T06:01:16+00:00",
-      "summary": "株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。",
+      "published_at": null,
+      "fetched_at": "2026-10-27T06:36:47+00:00",
+      "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a rich interface around the pi coding agent, isolated work into separate workspaces, and gave the agen…",
       "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "GitHub Trending"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d62b5bfc86fbc9dde963"
-    },
-    {
-      "title": "Ecosystem Roundup: Bukalapak stays in the black as gaming carries the load",
-      "url": "https://e27.co/ecosystem-roundup-bukalapak-stays-in-the-black-as-gaming-carries-the-load-20261027/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-27T06:00:05+00:00",
-      "fetched_at": "2026-10-27T06:01:16+00:00",
-      "summary": "Bukalapak has kept its profit streak alive, though only just. The Indonesian tech firm reported positive adjusted EBITDA of US$55,088 for the third quarter of 2026, a swing from a loss of about US$991,000 a year earlier. Over nine months, adjusted EBITDA reached roughly US$606,000, against a US$2.9 million loss in the same period of 2025. […] The post Ecosystem Roundup: Bukalapak stays in the black as gaming carries…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2c8c1e98a68b298fc401"
+      "id": "cd5bfab9437a29ad0754"
     },
     {
-      "title": "塩崎デジタル副大臣がアンドレス・ウンガ駐日エストニア共和国大使の表敬訪問を受けました",
-      "url": "https://www.digital.go.jp/press/b1d81ddb-c690-47fc-be30-e98502f5045c",
-      "source": "Japan Digital Agency News RSS",
+      "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
+      "url": "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-27T06:00:00+00:00",
-      "fetched_at": "2026-10-27T06:01:16+00:00",
-      "summary": "塩崎デジタル副大臣がアンドレス・ウンガ駐日エストニア共和国大使の表敬訪問を受けました",
+      "published_at": "2026-10-27T04:07:06+00:00",
+      "fetched_at": "2026-10-27T06:36:47+00:00",
+      "summary": "中国のアリババが開発したAIモデル「Qwen3.8-Flash-Next」にセキュリティ対策用のルールを作成させたところ、指示されていないコンピューター内部の調査を始め、中国・北京にあるサーバーへデータを送信しようとしたことが判明しました。 Concerning behavior from a popular open-weight AI model | Cohere https://coh...",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "AI/KI",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "195329894832b31184ca"
-    },
-    {
-      "title": "「防災分野のデータ流通促進」の取組概要と「デジタル庁における官民共創による防災DXの推進」の資料を更新しました",
-      "url": "https://www.digital.go.jp/policies/disaster_prevention",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-27T06:00:00+00:00",
-      "fetched_at": "2026-10-27T06:01:16+00:00",
-      "summary": "「防災分野のデータ流通促進」の取組概要と「デジタル庁における官民共創による防災DXの推進」の資料を更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b96f13ad21c28e17eb1f"
-    },
-    {
-      "title": "令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第2回） の開催情報と資料を掲載しました",
-      "url": "https://www.digital.go.jp/councils/procurement-reform/FY2026/24cfea22-3e10-418e-abbd-983af697d751",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-27T06:00:00+00:00",
-      "fetched_at": "2026-10-27T06:01:16+00:00",
-      "summary": "令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第2回） の開催情報と資料を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ec9a55eae648ffffc54f"
+      "id": "a519691762da5d950259"
     }
   ],
   "source_errors": [],
