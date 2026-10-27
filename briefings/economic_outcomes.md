@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-27T11:50:38+00:00`
+Generated: `2026-10-27T12:29:00+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
