@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-27T13:20:24Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GROWIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-10-27T13:46:11Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] xz: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] xz: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0942",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-27T13:21:36+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in xz ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "GROWIにおける複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN51223238/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T15:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -35,11 +60,35 @@
       "summary": "株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] Nextcloud (Server, Tables, Whiteboard, Files Confidential, Collectives, Richdocuments): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4185",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-27T13:26:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Nextcloud ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände auszulösen."
+    },
+    {
       "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T12:21:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -63,7 +112,7 @@
       "url": "https://jvn.jp/jp/JVN90463048/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T12:00:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -83,35 +132,11 @@
       "summary": "フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。"
     },
     {
-      "title": "[UPDATE] [hoch] Oracle Java SE: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4154",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-27T11:33:40+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Oracle Java SE ausnutzen, um Informationen offenzulegen oder Daten zu manipulieren."
-    },
-    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:39+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -137,7 +162,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3703",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T12:56:42+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -163,7 +188,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4163",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:01:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -189,7 +214,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3965",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T08:51:29+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -215,7 +240,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:40+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -240,7 +265,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T02:54:24+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -267,7 +292,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T01:00:28+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -289,35 +314,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into the market. Also Read: AI, quantum comput…"
-    },
-    {
-      "title": "Scene-setting remarks on digital safety",
-      "url": "https://www.bis.org/speeches/20261027-scene-setting-remarks-digital-safety",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 130.95,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.79,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.79",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 130.9d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -329,8 +325,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "krass": 1,
+      "strong": 11
     }
   }
 }
