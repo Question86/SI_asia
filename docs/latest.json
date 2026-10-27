@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T19:23:25+00:00",
-  "run_id": "2026-10-27T19:23:25+00:00",
+  "generated_at": "2026-10-27T19:32:00+00:00",
+  "run_id": "2026-10-27T19:32:00+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 88
+      "configured_public_sources_only": 89
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 88,
-    "displayed_findings": 88,
+    "today_file_total": 89,
+    "displayed_findings": 89,
     "high": 0,
-    "medium": 23,
+    "medium": 24,
     "observe": 65,
     "source_errors": 0
   },
@@ -634,6 +634,27 @@
           "EWZ"
         ],
         "id": "386610d68abc0ebffce9"
+      },
+      {
+        "title": "How Check Point accelerates vulnerability research with Daybreak",
+        "url": "https://openai.com/index/check-point-daybreak",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-27T00:00:00+00:00",
+        "fetched_at": "2026-10-27T19:31:33+00:00",
+        "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+        "matched_keywords": [
+          "OpenAI",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+6.0); Security (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d35fad11a2f0fee25920"
       }
     ],
     "observe": [
@@ -2819,6 +2840,27 @@
       "id": "386610d68abc0ebffce9"
     },
     {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "fetched_at": "2026-10-27T19:31:33+00:00",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "matched_keywords": [
+        "OpenAI",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); Security (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d35fad11a2f0fee25920"
+    },
+    {
       "title": "Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything",
       "url": "https://e27.co/evan-goldberg-on-ai-trust-confident-answers-arent-enough-context-is-everything-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -4393,40 +4435,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.4 - 210 km ENE of Nagqu, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-10-27T19:18:43.040+00:00",
-      "fetched_at": "2026-10-27T19:22:56+00:00",
-      "summary": "Time 2026-10-27 18:57:53 UTC 2026-10-27 18:57:53 UTC at epicenter Location 32.539°N 93.903°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "fetched_at": "2026-10-27T19:31:33+00:00",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "OpenAI",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); Security (+7.5); recent (+1.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "4a3897c171ae813cbed0"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d35fad11a2f0fee25920"
     }
   ],
   "source_errors": [],

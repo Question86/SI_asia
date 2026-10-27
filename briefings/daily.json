@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T19:23:32+00:00",
-  "today_file_total": 88,
+  "generated_at": "2026-10-27T19:32:06+00:00",
+  "today_file_total": 89,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -68,20 +68,21 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://openai.com/index/oracle-apps-in-chatgpt"
+        "https://openai.com/index/oracle-apps-in-chatgpt",
+        "https://openai.com/index/check-point-daybreak"
       ],
-      "finding_count": 1,
+      "finding_count": 2,
       "max_score": 20,
-      "credibility_total": 1.05,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.1,
-      "hot": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 27.2,
+      "hot": true,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
       "key": "domain:www.ecb.europa.eu",
@@ -200,31 +201,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 17.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.4 - 210 km ene of nagqu, china:5.4",
-      "title": "M 5.4 - 210 km ENE of Nagqu, China",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -444,6 +420,31 @@
         "agriculture_food_fertilizer"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.4 - 210 km ene of nagqu, china:5.4",
+      "title": "M 5.4 - 210 km ENE of Nagqu, China",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 4.6 - 100 km w of el aguilar, argentina:4.6",
