@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-27T01:44:50Z_
+_Generated: 2026-10-27T02:05:02Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 54 km E of Tomioka, Japan” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-27T00:57:45.040+00:00` / age_days `0.03`
+- Published: `2026-10-27T00:57:45.040+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 54 km E of Tomioka, Japan” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.59`
-- Published: `2026-08-28T23:45:53+00:00` / age_days `59.08`
+- Published: `2026-08-28T23:45:53+00:00` / age_days `59.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, baseline z_hint 2.90, aging penalty -8.0 for 59.1d old signal
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 54 km E of Tomioka, Japan” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.5`
-- Published: `2026-10-27T01:20:10+00:00` / age_days `0.02`
+- Published: `2026-10-27T01:20:10+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 54 km E of Tomioka, Japan” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-09T09:59:34+00:00` / age_days `17.66`
+- Published: `2026-10-09T09:59:34+00:00` / age_days `17.67`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 54 km E of Tomioka, Japan” —
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-26T14:37:21+00:00` / age_days `0.46`
+- Published: `2026-10-26T14:37:21+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 54 km E of Tomioka, Japan” —
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-10-27T01:00:36+00:00` / age_days `0.03`
+- Published: `2026-10-27T01:00:36+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 54 km E of Tomioka, Japan” —
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-26T22:03:58+00:00` / age_days `0.15`
+- Published: `2026-10-26T22:03:58+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 54 km E of Tomioka, Japan” —
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `3.56`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `129.99`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `130.0`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, baseline z_hint 2.33, single-source AI hype brake -8.0, aging penalty -8.0 for 130.0d old signal, single-source AI cap enforced after phrase recheck
