@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T22:31:26+00:00",
-  "run_id": "2026-10-27T22:31:26+00:00",
+  "generated_at": "2026-10-27T22:40:36+00:00",
+  "run_id": "2026-10-27T22:40:36+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 93,
     "displayed_findings": 93,
     "high": 0,
@@ -4605,29 +4605,7 @@
       "id": "a46ced2ce1cdd2031cd2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」",
-      "url": "https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-27T14:28:11+00:00",
-      "fetched_at": "2026-10-27T22:30:59+00:00",
-      "summary": "【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受けた問題で、攻撃者は２７日、同社が期限の同日正午までに交渉に応じなかったとして、日本語サイトに個人情報とみられる情報１件を公開した。同",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9f5d06e692ab2a42f262"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
