@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T07:03:24+00:00_
+_Generiert: 2026-10-27T08:01:29+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+31 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -202,6 +202,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Malaysia’s durian industry ought to be one of the country’s great economic success stories. Chinese demand soared. Musang King became an internationally recognised premium product. Investors planted orchards across the country. In 2024, Malaysia secured long-awaited approval to export fresh durians directly to China. Exports duly took off. Fresh durian exports to China increased from […] The post Malaysia’s durian g…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Welcoming remarks - Malaysia's Designated Non-Financial Businesses and Professions (DNFBP) Compliance Conference 2026** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261027-welcoming-remarks-malaysias-designated-non-financial-businesses-and-professions-dnfbp-compliance-conference-2026)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-27T00:00:00+00:00`, fetched `2026-10-27T08:01:01+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: Welcoming remarks by Mr Marzunisham Omar, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at Malaysia's Designated Non-Financial Businesses and Professions (DNFBP) Compliance Conference 2026, Kuala Lumpur, 22 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **塩崎デジタル副大臣がアンドレス・ウンガ駐日エストニア共和国大使の表敬訪問を受けました** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/b1d81ddb-c690-47fc-be30-e98502f5045c)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-27T06:00:00+00:00`, fetched `2026-10-27T06:01:16+00:00`
