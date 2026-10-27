@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T14:59:03+00:00_
+_Generiert: 2026-10-27T15:19:21+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+76 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into the market. Also Read: AI, quantum computing and the future […] The post QpiAI’s Singapore bet: Put quantum hardware in the hands of finance…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.4 - 128 km S of Pundong, Indonesia** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-27T15:17:39.798+00:00`, fetched `2026-10-27T15:18:52+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-10-27 14:44:00 UTC 2026-10-27 14:44:00 UTC at epicenter Location 9.116°S 110.331°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-27T11:33:40+00:00`, fetched `2026-10-27T11:49:19+00:00`
@@ -39,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (FreeIPMI) ausnutzen, um beliebigen Programmcode auszuführen und um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 156 km S of Pundong, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgh)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-27T15:12:35.040+00:00`, fetched `2026-10-27T15:18:52+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-27 14:43:09 UTC 2026-10-27 14:43:09 UTC at epicenter Location 9.366°S 110.297°E Depth 20.61 km (12.81 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 54 km E of Tomioka, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-27T00:57:45.040+00:00`, fetched `2026-10-27T01:19:36+00:00`
@@ -235,8 +253,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
