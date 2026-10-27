@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T19:32:00+00:00",
-  "run_id": "2026-10-27T19:32:00+00:00",
+  "generated_at": "2026-10-27T19:41:19+00:00",
+  "run_id": "2026-10-27T19:41:19+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 0,
@@ -4433,29 +4433,7 @@
       "id": "a46ced2ce1cdd2031cd2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-27T00:00:00+00:00",
-      "fetched_at": "2026-10-27T19:31:33+00:00",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "matched_keywords": [
-        "OpenAI",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+6.0); Security (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d35fad11a2f0fee25920"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
