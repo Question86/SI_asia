@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T16:19:47+00:00",
-  "today_file_total": 85,
+  "generated_at": "2026-10-27T16:49:11+00:00",
+  "today_file_total": 86,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -299,6 +299,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:chatgpt.com",
+      "title": "スライド作成入門_2024.indd",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://home.riise.hiroshima-u.ac.jp/~ten/slide_20240328.pdf?utm_source=chatgpt.com"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:m 5.8 - 200 km nw of port-olry, vanuatu:5.8",
       "title": "M 5.8 - 200 km NW of Port-Olry, Vanuatu",
       "sources": [
@@ -463,29 +486,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 12.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:vuln-rabilit-dans-les-produits-mozilla-octobre-2026",
-      "title": "Vulnérabilité dans les produits Mozilla (22 octobre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1361/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
