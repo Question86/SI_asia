@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T09:03:49+00:00",
+  "generated_at": "2026-10-27T09:28:07+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -88,7 +88,7 @@
       "p90_usd": 1184000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:54:24+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -1666,7 +1666,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T23:45:53+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -2875,6 +2875,23 @@
       "first_seen_at": "2026-10-13T13:03:04+00:00",
       "last_seen_at": "2026-10-13T23:58:13+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9b1a1a0b189b87af0d19",
+      "title": "M 5.8 - 200 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-27T09:27:43+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -5219,7 +5236,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -10748,6 +10765,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_10cfde8d695dbe30b117",
+      "title": "M 5.0 - 95 km NNE of Hihifo, Tonga",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-27T09:27:43+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -10761,7 +10795,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -11033,7 +11067,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T03:03:46+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -11934,7 +11968,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -11968,7 +12002,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -12189,7 +12223,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -12921,7 +12955,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -12938,7 +12972,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -16559,7 +16593,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T05:24:00+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -17018,7 +17052,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T06:37:19+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -18940,7 +18974,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -22000,7 +22034,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T04:00:49+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -22051,7 +22085,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -22493,7 +22527,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T01:20:10+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -23140,7 +23174,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T03:03:46+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -23480,7 +23514,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T04:24:29+00:00",
-      "last_seen_at": "2026-10-27T09:03:28+00:00",
+      "last_seen_at": "2026-10-27T09:27:43+00:00",
       "status": "active"
     },
     {
@@ -24093,7 +24127,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:34:00+00:00",
       "last_seen_at": "2026-10-27T09:03:28+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_85ddfb61e28bf27984dc",
@@ -29041,7 +29075,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T04:22:25+00:00",
       "last_seen_at": "2026-10-27T09:03:28+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3bf882e0f0d8589a296b",
