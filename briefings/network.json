@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T02:54:24+00:00",
+  "generated_at": "2026-10-27T03:03:46+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 14,
-    "clusters": 14,
+    "findings": 17,
+    "clusters": 17,
     "cross_source_confrmed": 0,
     "hot": 1,
-    "early_signals": 3,
+    "early_signals": 4,
     "dominance_penalized": 2
   },
   "clusters": [
@@ -26,14 +26,52 @@
       "max_score": 18,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 25.0,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 23.1,
-      "ranking_score": 27.5,
+      "raw_network_score": 20.1,
+      "ranking_score": 25.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-27T02:54:24+00:00"
+    },
+    {
+      "key": "title:sleipnir-mobile-android",
+      "title": "Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN90463048/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 19.1,
+      "ranking_score": 23.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
@@ -46,7 +84,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-27T02:54:24+00:00"
+      "first_seen_at": "2026-10-27T03:03:46+00:00"
     },
     {
       "key": "title:fireblocks-mpc-lib-hardened-derivation",
@@ -204,6 +242,44 @@
       "first_seen_at": "2026-10-27T02:34:00+00:00"
     },
     {
+      "key": "title:malaysia-durian-glut-politics-delivery-gap",
+      "title": "Malaysia’s durian glut and the politics of the delivery gap",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/malaysias-durian-glut-and-the-politics-of-the-delivery-gap-20261025/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-27T03:03:46+00:00"
+    },
+    {
       "key": "title:agencies-don-have-hiring-problem-they-have-ebitda",
       "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
       "sources": [
@@ -259,18 +335,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.46,
+      "network_score": 10.42,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 10.1,
-      "ranking_score": 10.46,
+      "ranking_score": 10.42,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.96,
+      "baseline_bonus": 0.92,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -280,54 +356,16 @@
       "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
-      "key": "title:com-gmo",
-      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
+      "key": "title:github-copilot-assisted-permissions-generally-available",
+      "title": "GitHub Copilot assisted permissions generally available",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "GitHub Changelog Atom"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://group.gmo/info/alert/20261027/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.16,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 10.16,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.16,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-24T04:22:25+00:00"
-    },
-    {
-      "key": "url:https://www.digital.go.jp/speech/minister-261027-01",
-      "title": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/speech/minister-261027-01"
+        "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available"
       ],
       "finding_count": 1,
       "max_score": 6,
@@ -353,7 +391,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-27T02:54:24+00:00"
+      "first_seen_at": "2026-10-27T03:03:46+00:00"
     },
     {
       "key": "title:conference-attendee-intelligence-node-experience-native-conference",
@@ -435,6 +473,44 @@
       "first_seen_at": "2026-10-27T02:34:00+00:00"
     },
     {
+      "key": "url:https://www.digital.go.jp/speech/minister-261027-01",
+      "title": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/speech/minister-261027-01"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-27T02:54:24+00:00"
+    },
+    {
       "key": "title:stryv-bags-series-turn-hair-dryer-brand-household",
       "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
       "sources": [
@@ -471,6 +547,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-27T02:34:00+00:00"
+    },
+    {
+      "key": "title:com-gmo",
+      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://group.gmo/info/alert/20261027/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-24T04:22:25+00:00"
     },
     {
       "key": "title:php",
@@ -551,7 +665,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-27T02:54:25Z",
+    "generated_at": "2026-10-27T03:03:47Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

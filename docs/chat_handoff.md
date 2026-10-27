@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T02:54:21+00:00_
+_Generated: 2026-10-27T03:03:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `17`
 
 ## Top Signals
 
@@ -22,18 +22,18 @@ _Generated: 2026-10-27T02:54:21+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt
 - summary: Time 2026-10-27 00:25:08 UTC 2026-10-27 00:25:08 UTC at epicenter Location 37.387°N 141.625°E Depth 48.93 km (30.40 mi)
 
-### 3. Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性
+### 3. Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-10-27T12:00:00+09:00`
+- url: https://jvn.jp/jp/JVN90463048/
+- summary: フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。
+
+### 4. Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-27T10:30:15+09:00`
 - url: https://jvn.jp/vu/JVNVU90547696/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
-
-### 4. COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-27T10:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU90363302/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス
@@ -57,11 +57,11 @@ _Generated: 2026-10-27T02:54:21+00:00_
 - url: https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/
 - summary: The most telling line in Publicis’ announcement of a new AI Development Hub in Singapore isn’t about technology. It’s the promise that the hub will create roles rather than remove them. The hub itself is a serious bet: engineers, data scientists and product d…
 
-### 8. From conference attendee to intelligence node: My experience at an AI-native conference
+### 8. Malaysia’s durian glut and the politics of the delivery gap
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
-- published: `2026-10-27T02:00:11+00:00`
-- url: https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/
-- summary: From 5–7 October, I organised and attended the Strategic Renaissance 21 (SR21) × World Governments Summit workshop in Dubai. The three-day gathering brought together 48 senior leaders from government, finance, technology, defense, and academia to explore a co…
+- published: `2026-10-27T03:00:08+00:00`
+- url: https://e27.co/malaysias-durian-glut-and-the-politics-of-the-delivery-gap-20261025/
+- summary: Malaysia’s durian industry ought to be one of the country’s great economic success stories. Chinese demand soared. Musang King became an internationally recognised premium product. Investors planted orchards across the country. In 2024, Malaysia secured long-…
 
 END OF DOCUMENT

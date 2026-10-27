@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-27T02:54:21+00:00",
+  "generated_at": "2026-10-27T03:03:43+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
-    "medium": 4,
-    "observe": 10
+    "medium": 5,
+    "observe": 12
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,22 +35,22 @@
       "section": "medium"
     },
     {
+      "title": "Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN90463048/",
+      "summary": "フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。",
+      "section": "medium"
+    },
+    {
       "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
       "published_at": "2026-10-27T10:30:15+09:00",
       "relevance_score": 14,
       "url": "https://jvn.jp/vu/JVNVU90547696/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "section": "medium"
-    },
-    {
-      "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-27T10:30:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU90363302/",
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
+      "title": "Malaysia’s durian glut and the politics of the delivery gap",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-27T02:00:11+00:00",
+      "published_at": "2026-10-27T03:00:08+00:00",
       "relevance_score": 8,
-      "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/",
-      "summary": "From 5–7 October, I organised and attended the Strategic Renaissance 21 (SR21) × World Governments Summit workshop in Dubai. The three-day gathering brought together 48 senior leaders from government, finance, technology, defense, and academia to explore a co…",
+      "url": "https://e27.co/malaysias-durian-glut-and-the-politics-of-the-delivery-gap-20261025/",
+      "summary": "Malaysia’s durian industry ought to be one of the country’s great economic success stories. Chinese demand soared. Musang King became an internationally recognised premium product. Investors planted orchards across the country. In 2024, Malaysia secured long-…",
       "section": "observe"
     }
   ],
@@ -100,137 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
-        "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-27T01:00:28+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into the market. Also Read: AI, quantum comput…"
-      },
-      {
-        "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU90547696/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T10:30:15+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU90363302/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T10:30:00+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU90547696/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T02:34:00+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 23.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU90363302/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T02:34:00+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 23.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
