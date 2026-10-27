@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-27T04:17:06Z",
+  "generated_at": "2026-10-27T04:37:22Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -24,6 +24,11 @@
   "current_dynamic_memory_candidates": [
     {
       "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
+    {
+      "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
@@ -43,22 +48,17 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
       "title": "Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
+      "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
+      "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
