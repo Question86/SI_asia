@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T09:42:57+00:00_
+_Generiert: 2026-10-27T10:08:26+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+44 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,10 +61,6 @@ _Generiert: 2026-10-27T09:42:57+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.
-- **USGS earthquake M5.8 - 196 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb)
-  - Quelle: USGS
-  - Zeit: `2026-10-27T08:55:23+00:00`
-  - Kurz: M5.8 - 196 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T09:42:57+00:00",
-  "run_id": "2026-10-27T09:42:57+00:00",
+  "generated_at": "2026-10-27T10:08:26+00:00",
+  "run_id": "2026-10-27T10:08:26+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 43
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 43,
-    "displayed_findings": 43,
+    "new_relevant_findings": 1,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
     "medium": 8,
-    "observe": 35,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -883,6 +883,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "597735fefdfa96b84d44"
+      },
+      {
+        "title": "【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア",
+        "url": "https://www.idcf.jp/news/topics/20261027001",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T07:55:13+00:00",
+        "fetched_at": "2026-10-27T10:07:55+00:00",
+        "summary": "2026年10月27日 このたびは、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスにより、お客さまならびに関係者の皆さまに多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。 本件に関する一連の調査が完了しましたので、これまでに確認した事実、影響範囲、原因およ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d755c738411140b014b3"
       },
       {
         "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
@@ -1887,6 +1908,27 @@
       "id": "597735fefdfa96b84d44"
     },
     {
+      "title": "【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア",
+      "url": "https://www.idcf.jp/news/topics/20261027001",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T07:55:13+00:00",
+      "fetched_at": "2026-10-27T10:07:55+00:00",
+      "summary": "2026年10月27日 このたびは、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスにより、お客さまならびに関係者の皆さまに多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。 本件に関する一連の調査が完了しましたので、これまでに確認した事実、影響範囲、原因およ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d755c738411140b014b3"
+    },
+    {
       "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
       "url": "https://group.gmo/info/alert/2026102703/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2035,62 +2077,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - 206 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-27T09:39:56.040+00:00",
-      "fetched_at": "2026-10-27T09:42:24+00:00",
-      "summary": "Time 2026-10-27 09:20:55 UTC 2026-10-27 09:20:55 UTC at epicenter Location 13.901°S 165.556°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "ee68dbe4077585a8cfd4"
-    },
-    {
-      "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
-      "url": "https://tech.newmo.me/entry/2026/10/27/100000",
+      "title": "【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア",
+      "url": "https://www.idcf.jp/news/topics/20261027001",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-27T05:57:00+00:00",
-      "fetched_at": "2026-10-27T09:42:24+00:00",
-      "summary": "newmo のモノレポで、AI が Pull Request（PR）を読み、安全と判断したものを bot が承認する仕組み「riskjudge」を運用しています。 筆者の個人ブログのソフトウェアの産業革命では「検査を工程にする」という話を書いたのですが、この記事ではその工程の 1 つを、どう組み立てているかという技術の面から紹介します。 ...",
+      "published_at": "2026-10-27T07:55:13+00:00",
+      "fetched_at": "2026-10-27T10:07:55+00:00",
+      "summary": "2026年10月27日 このたびは、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスにより、お客さまならびに関係者の皆さまに多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。 本件に関する一連の調査が完了しましたので、これまでに確認した事実、影響範囲、原因およ...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6c69fd430efab0e3230f"
+      "id": "d755c738411140b014b3"
     }
   ],
   "source_errors": [],
