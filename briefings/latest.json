@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T10:08:26+00:00",
-  "run_id": "2026-10-27T10:08:26+00:00",
+  "generated_at": "2026-10-27T10:27:29+00:00",
+  "run_id": "2026-10-27T10:27:29+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 44
+      "configured_public_sources_only": 45
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
     "medium": 8,
-    "observe": 36,
+    "observe": 37,
     "source_errors": 0
   },
   "sections": {
@@ -883,6 +883,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "597735fefdfa96b84d44"
+      },
+      {
+        "title": "So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象",
+        "url": "https://internet.watch.impress.co.jp/docs/news/2151585.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T08:12:02+00:00",
+        "fetched_at": "2026-10-27T10:26:55+00:00",
+        "summary": "So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "66d3f39b629b0b78eae6"
       },
       {
         "title": "【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア",
@@ -1908,6 +1929,27 @@
       "id": "597735fefdfa96b84d44"
     },
     {
+      "title": "So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2151585.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T08:12:02+00:00",
+      "fetched_at": "2026-10-27T10:26:55+00:00",
+      "summary": "So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "66d3f39b629b0b78eae6"
+    },
+    {
       "title": "【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア",
       "url": "https://www.idcf.jp/news/topics/20261027001",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2077,13 +2119,13 @@
   ],
   "new_findings": [
     {
-      "title": "【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア",
-      "url": "https://www.idcf.jp/news/topics/20261027001",
+      "title": "So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2151585.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-27T07:55:13+00:00",
-      "fetched_at": "2026-10-27T10:07:55+00:00",
-      "summary": "2026年10月27日 このたびは、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスにより、お客さまならびに関係者の皆さまに多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。 本件に関する一連の調査が完了しましたので、これまでに確認した事実、影響範囲、原因およ...",
+      "published_at": "2026-10-27T08:12:02+00:00",
+      "fetched_at": "2026-10-27T10:26:55+00:00",
+      "summary": "So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2095,7 +2137,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d755c738411140b014b3"
+      "id": "66d3f39b629b0b78eae6"
     }
   ],
   "source_errors": [],
