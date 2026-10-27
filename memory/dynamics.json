@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-27T12:21:45Z",
+  "generated_at": "2026-10-27T12:53:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 5,
       "extreme": 1,
-      "strong": 26,
-      "watch": 8
+      "strong": 28,
+      "watch": 6
     },
     "bands_after_gate_recheck": {
-      "strong": 32,
-      "watch": 8
+      "strong": 34,
+      "watch": 6
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/jp/JVN51223238/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T15:00:00+09:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -42,11 +42,35 @@
       "summary": "株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-27T12:21:40+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Podman ausnutzen, um Dateien zu manipulieren."
+    },
+    {
       "title": "Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性",
       "url": "https://jvn.jp/jp/JVN90463048/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T12:00:00+09:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -70,7 +94,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4154",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:40+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -94,7 +118,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4123",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:38+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -118,7 +142,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4134",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:38+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -142,7 +166,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:31:50+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -167,7 +191,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4158",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:01:29+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -191,7 +215,7 @@
       "url": "https://jvn.jp/vu/JVNVU90547696/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:15+09:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -215,7 +239,7 @@
       "url": "https://jvn.jp/vu/JVNVU90363302/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -239,7 +263,7 @@
       "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 130.2,
+      "age_days": 130.22,
       "topics": [
         "security"
       ],
@@ -266,7 +290,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:39+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -292,7 +316,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4163",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:01:29+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -318,7 +342,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3965",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T08:51:29+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -344,7 +368,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:40+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -369,7 +393,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T02:54:24+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -396,7 +420,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T01:00:28+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -424,7 +448,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 59.93,
+      "age_days": 59.95,
       "topics": [
         "security"
       ],
@@ -434,13 +458,13 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 5,
-      "baseline_z_hint": 19.56,
+      "momentum_delta": 3,
+      "baseline_z_hint": 9.55,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +5",
-        "baseline z_hint 19.56",
+        "momentum delta +3",
+        "baseline z_hint 9.55",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 59.9d old signal",
@@ -453,7 +477,7 @@
       "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T02:34:00+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -476,11 +500,37 @@
       "summary": ""
     },
     {
+      "title": "Anthropic, DeepSeek and drones: 10 takeaways from the 2026 unicorn boom",
+      "url": "https://e27.co/anthropic-deepseek-and-drones-10-takeaways-from-the-2026-unicorn-boom-20261027/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-27T12:28:23+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "3 scenarios for October 28: Which one breaks Bitcoin’s US$80,000 resistance",
       "url": "https://e27.co/3-scenarios-for-october-28-which-one-breaks-bitcoins-us80000-resistance-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T05:24:00+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -505,7 +555,7 @@
       "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-27T08:02:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -530,7 +580,7 @@
       "url": "https://jvn.jp/jp/JVN90463048/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T03:03:46+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -554,7 +604,7 @@
       "url": "https://jvn.jp/vu/JVNVU90547696/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T02:34:00+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -578,7 +628,7 @@
       "url": "https://jvn.jp/vu/JVNVU90363302/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T02:34:00+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -602,7 +652,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T00:57:45.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -627,7 +677,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2609~dd1bf1b2e4.en.html",
       "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 130.91,
+      "age_days": 130.93,
       "topics": [
         "general"
       ],
@@ -653,7 +703,7 @@
       "url": "https://e27.co/the-e27-contributor-programme-writing-an-article-that-gets-published-part-1-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T04:54:00+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -679,7 +729,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T09:15:11.243+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -704,7 +754,7 @@
       "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T02:00:11+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -732,7 +782,7 @@
       "url": "https://www.bis.org/speeches/20261027-welcoming-remarks-malaysias-designated-non-financial-businesses-and-professions-dnfbp-compliance-conference-2026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-27T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "macro"
       ],
@@ -758,7 +808,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T09:27:43+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -778,27 +828,26 @@
       "summary": ""
     },
     {
-      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
-      "url": "https://group.gmo/info/alert/2026102703/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-24T04:22:25+00:00",
-      "age_days": 3.33,
+      "title": "M 4.6 - 100 km W of El Aguilar, Argentina",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-27T12:28:23+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 20.01,
+      "dynamics_score": 20.4,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.92,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.92",
+        "momentum delta +1",
         "high terms: 10"
       ],
       "summary": ""
@@ -808,7 +857,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261027-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-27T02:54:24+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -829,11 +878,37 @@
       "summary": ""
     },
     {
+      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
+      "url": "https://group.gmo/info/alert/2026102703/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T04:22:25+00:00",
+      "age_days": 3.35,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.94,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.85,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 0.85",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "3 scenarios for October 28: Which one breaks Bitcoin’s US$80,000 resistance",
       "url": "https://e27.co/3-scenarios-for-october-28-which-one-breaks-bitcoins-us80000-resistance-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T05:02:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "macro"
       ],
@@ -853,11 +928,36 @@
       "summary": "The crypto market is holding its breath. Bitcoin has spent the morning oscillating in a narrow band between US$79,300 and US$80,000. This tight range reflects broader paralysis across digital assets ahead of the United States Federal Reserve’s final rate decision on 28 October 2026. This is not a quiet consolidation.…"
     },
     {
+      "title": "M 4.6 - 100 km W of El Aguilar, Argentina",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-27T12:01:26.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-27 11:41:22 UTC 2026-10-27 11:41:22 UTC at epicenter Location 23.182°S 66.662°W Depth 206.26 km (128.16 mi)"
+    },
+    {
       "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
       "url": "https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T01:20:10+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -881,7 +981,7 @@
       "url": "https://tech.newmo.me/entry/2026/10/27/100000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:43:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -905,7 +1005,7 @@
       "url": "https://e27.co/malaysias-durian-glut-and-the-politics-of-the-delivery-gap-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T03:03:46+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -923,106 +1023,6 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 5.2 - 191 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-27T11:09:11.040+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-27 10:50:35 UTC 2026-10-27 10:50:35 UTC at epicenter Location 14.007°S 165.648°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - 184 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfj",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-27T10:50:39.040+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-27 10:06:31 UTC 2026-10-27 10:06:31 UTC at epicenter Location 13.944°S 165.788°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - 206 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-27T09:39:56.040+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-27 09:20:55 UTC 2026-10-27 09:20:55 UTC at epicenter Location 13.901°S 165.556°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - 95 km NNE of Hihifo, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-27T09:27:10.040+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-27 09:07:45 UTC 2026-10-27 09:07:45 UTC at epicenter Location 15.174°S 173.409°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GROWIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
