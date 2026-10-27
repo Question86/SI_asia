@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T02:34:20+00:00",
+  "generated_at": "2026-10-27T02:54:44+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -73,6 +73,23 @@
       "first_seen_at": "2026-09-19T04:24:55+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_3aa5f023167874436ec3",
+      "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
+      "event_classes": [
+        "conflict"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 118400000.0,
+      "p50_usd": 11840000000.0,
+      "p90_usd": 1184000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:54:24+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_65e46222022a4f0fd16f",
@@ -1649,7 +1666,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T23:45:53+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
       "status": "active"
     },
     {
@@ -5187,6 +5204,23 @@
       "first_seen_at": "2026-10-16T04:59:34+00:00",
       "last_seen_at": "2026-10-16T22:59:23+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1e8ca1f85d61e2d5721f",
+      "title": "M 4.9 - 69 km WSW of Kirakira, Solomon Islands",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1f147839258709409500",
@@ -10714,23 +10748,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_1e8ca1f85d61e2d5721f",
-      "title": "M 4.9 - 69 km WSW of Kirakira, Solomon Islands",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -11887,6 +11904,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a6f10a882a1c609aabaa",
+      "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_a7f209f63f6d6c38835f",
       "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
       "event_classes": [
@@ -12123,6 +12157,23 @@
       "first_seen_at": "2026-10-23T06:53:07+00:00",
       "last_seen_at": "2026-10-23T23:59:58+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d2a30651f01fb51f0946",
+      "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_d3d9a3967b112ba3fba0",
@@ -12395,40 +12446,6 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d2a30651f01fb51f0946",
-      "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_a6f10a882a1c609aabaa",
-      "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -12840,6 +12857,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5b75c43cb8790d84a619",
+      "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
+      "event_classes": [
+        "funding"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1088000.0,
+      "p50_usd": 27200000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_ce6f2f0dbb48534594d0",
       "title": "Light liquidations and flat funding: Is Bitcoin about to explode?",
       "event_classes": [
@@ -12855,23 +12889,6 @@
       "first_seen_at": "2026-10-07T03:52:19+00:00",
       "last_seen_at": "2026-10-07T10:36:42+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_5b75c43cb8790d84a619",
-      "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
-      "event_classes": [
-        "funding"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1088000.0,
-      "p50_usd": 27200000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_5a8609c38e0d544999d3",
@@ -12904,7 +12921,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
       "status": "active"
     },
     {
@@ -18859,6 +18876,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3827bdebe5d2a1d43f97",
+      "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3af8f852f301f8c1d551",
       "title": "AI is changing global expansion, but it cannot standardise local markets",
       "event_classes": [
@@ -19962,23 +19996,6 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_3827bdebe5d2a1d43f97",
-      "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -22408,7 +22425,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T01:20:10+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
       "status": "active"
     },
     {
@@ -23960,6 +23977,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8541cfe2d6bd44b639a1",
+      "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_85ddfb61e28bf27984dc",
       "title": "Vision AI expands visibility across remote pipeline corridors",
       "event_classes": [
@@ -25080,23 +25114,6 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_8541cfe2d6bd44b639a1",
-      "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_041397919a21c7984d11",
@@ -27735,6 +27752,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ad98234d550c6d552efe",
+      "title": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:54:24+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_00999a707b633ec75a8c",
       "title": "Startups should learn to leave bad markets faster",
       "event_classes": [
@@ -28258,7 +28292,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T09:59:34+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
       "status": "active"
     },
     {
@@ -28819,8 +28853,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-24T04:22:25+00:00",
-      "last_seen_at": "2026-10-24T05:56:52+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3bf882e0f0d8589a296b",
@@ -29227,7 +29261,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:27:54+00:00",
-      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:54:24+00:00",
       "status": "active"
     },
     {

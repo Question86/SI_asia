@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-10-27T02:34:20+00:00`
+Generated: `2026-10-27T02:54:44+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -10,6 +10,7 @@ Generated: `2026-10-27T02:34:20+00:00`
 | mvschwarz/openrig | conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software | conflict | $121.60M | $12.16B | $1.22T | 0.31 |
 | GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. | regulation, conflict | $120.00M | $12.00B | $1.20T | 0.31 |
+| QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students | conflict | $118.40M | $11.84B | $1.18T | 0.31 |
 | Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4 | conflict | $116.00M | $11.60B | $1.16T | 0.31 |
 | Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target? | conflict | $116.00M | $11.60B | $1.16T | 0.31 |
 | Shopwareにおけるクロスサイトスクリプティングの脆弱性 | vulnerability, conflict | $115.20M | $11.52B | $1.15T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-10-27T02:34:20+00:00`
 | Singapore’s robotics dominance is a warning sign dressed up as good news | conflict | $111.20M | $11.12B | $1.11T | 0.31 |
 | Secret protection must scale with software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> \| bashKA for static verification of bash script safty and managing installed software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
-| Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 
 ## Interpretation
 
