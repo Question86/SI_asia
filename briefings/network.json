@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T13:51:06+00:00",
+  "generated_at": "2026-10-27T14:45:09+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 72,
+    "findings": 74,
     "clusters": 48,
     "cross_source_confrmed": 1,
     "hot": 0,
@@ -28,9 +28,9 @@
         "https://www.bis.org/speeches/20261027-two-tier-system-transition-public-foundations-private-innovation",
         "https://www.bis.org/speeches/20261027-taking-action-nature-investing-economic-resilience-and-prosperity"
       ],
-      "finding_count": 9,
+      "finding_count": 11,
       "max_score": 11,
-      "credibility_total": 9.45,
+      "credibility_total": 11.55,
       "cross_source_confirmed": false,
       "momentum_delta": 2,
       "momentum_status": "increasing",
@@ -38,7 +38,7 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 35.9,
+      "raw_network_score": 40.1,
       "ranking_score": 24.0,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
@@ -77,18 +77,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.31,
+      "network_score": 22.22,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 43.3,
-      "ranking_score": 22.31,
+      "ranking_score": 22.22,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 4.81,
+      "baseline_bonus": 4.72,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -606,46 +606,6 @@
       "first_seen_at": "2026-10-27T09:27:43+00:00"
     },
     {
-      "key": "title:com-gmo",
-      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第12報） （情報が公開されたお客様へのお見舞金について） | GMOインターネットグループ株式会社",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://group.gmo/info/alert/2026102705/",
-        "https://group.gmo/info/alert/2026102703/",
-        "https://group.gmo/info/alert/20261027/"
-      ],
-      "finding_count": 3,
-      "max_score": 5,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.27,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.3,
-      "ranking_score": 11.27,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 2.27,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-24T04:22:25+00:00"
-    },
-    {
       "key": "title:gemini-113-iret-media",
       "title": "Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media",
       "sources": [
@@ -781,18 +741,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.74,
+      "network_score": 9.71,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.2,
-      "ranking_score": 9.74,
+      "ranking_score": 9.71,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.24,
+      "baseline_bonus": 0.21,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1236,6 +1196,46 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-27T02:34:00+00:00"
+    },
+    {
+      "key": "title:com-gmo",
+      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第12報） （情報が公開されたお客様へのお見舞金について） | GMOインターネットグループ株式会社",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://group.gmo/info/alert/2026102705/",
+        "https://group.gmo/info/alert/2026102703/",
+        "https://group.gmo/info/alert/20261027/"
+      ],
+      "finding_count": 3,
+      "max_score": 5,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.51,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.3,
+      "ranking_score": 7.51,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.01,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-24T04:22:25+00:00"
     },
     {
       "key": "title:ecosystem-roundup-bukalapak-stays-black-gaming-carries-load",
@@ -1886,7 +1886,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-27T13:51:06Z",
+    "generated_at": "2026-10-27T14:45:10Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
