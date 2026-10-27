@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-27T00:36:53Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=9.22.",
+  "generated_at": "2026-10-27T01:16:41Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.69.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,39 +11,60 @@
   ],
   "top_dynamics": [
     {
-      "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
-      "url": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
+      "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 129.94,
+      "published_at": "2026-10-09T09:59:34+00:00",
+      "age_days": 17.64,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 9.22,
+      "dynamics_score": 19.69,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-26T14:37:21+00:00",
+      "age_days": 0.44,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 5.2,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 5.20",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 129.9d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "high terms: 10"
       ],
-      "summary": ""
+      "summary": "電子ギフトを手がける「ギフティグループ」は、子会社が運用するシステムが不正アクセスを受け、およそ5億5000万円分の電子ギフトが不正に発行されたと発表しました。 飲食店やコンビニなどで利用できる電…"
     },
     {
       "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
       "url": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T22:03:58+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -63,6 +84,34 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "近年では多くの企業がAIツールやAIエージェントを導入し、生産性や収益性を向上させようと取り組んでいます。ところがアメリカの投資会社・Apolloのチーフエコノミストであるトルステン・スロク氏は、「AIはテクノロジー業界以外のアメリカ企業に何の経済的利益ももたらしていない」とするレポートを発表しました。 No S..."
+    },
+    {
+      "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
+      "url": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 129.97,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.27,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.27",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 130.0d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
     }
   ],
   "read_order": [
@@ -74,7 +123,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "quiet": 2
+      "watch": 1,
+      "quiet": 3
     }
   }
 }
