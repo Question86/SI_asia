@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-27T11:37:29+00:00",
+  "generated_at": "2026-10-27T11:49:59+00:00",
   "topics": {
     "ai": [
       {
@@ -205,6 +205,78 @@
         "url": "https://www.bis.org/speeches/20261027-strength-through-resilience-adaptability-and-trust-insurance-stronger-europe"
       }
     ],
+    "security": [
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-27T11:33:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-27T11:33:39+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155"
+      },
+      {
+        "title": "GROWIにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-27T15:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN51223238/"
+      },
+      {
+        "title": "Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-27T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN90463048/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Oracle Java SE: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-27T11:33:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4154"
+      },
+      {
+        "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-27T11:33:38+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4123"
+      },
+      {
+        "title": "[UPDATE] [mittel] MongoDB C Treiber: Schwachstelle ermöglicht Denial of Service und manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-27T11:33:38+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4134"
+      },
+      {
+        "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-27T11:31:50+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327"
+      },
+      {
+        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-27T11:01:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4158"
+      },
+      {
+        "title": "[UPDATE] [hoch] Mautic: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-27T11:01:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4163"
+      }
+    ],
     "general": [
       {
         "title": "M 4.8 - 54 km E of Tomioka, Japan",
@@ -275,71 +347,6 @@
         "published_at": "2026-10-27T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/disaster_prevention"
-      }
-    ],
-    "security": [
-      {
-        "title": "GROWIにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T15:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN51223238/"
-      },
-      {
-        "title": "Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN90463048/"
-      },
-      {
-        "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-27T11:31:50+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327"
-      },
-      {
-        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-27T11:01:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4158"
-      },
-      {
-        "title": "[UPDATE] [hoch] Mautic: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-27T11:01:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4163"
-      },
-      {
-        "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T10:30:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90547696/"
-      },
-      {
-        "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T10:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90363302/"
-      },
-      {
-        "title": "[UPDATE] [hoch] ESRI ArcGIS: Mehrere Schwachstelle",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-27T08:51:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3965"
-      },
-      {
-        "title": "php2shell: Erfolgreiche Angriffe bestätigt, noch viele Instanzen ungepatcht",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-27T08:02:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html"
       }
     ],
     "github": [

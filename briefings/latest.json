@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T11:37:29+00:00",
-  "run_id": "2026-10-27T11:37:29+00:00",
+  "generated_at": "2026-10-27T11:49:59+00:00",
+  "run_id": "2026-10-27T11:49:59+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 58
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "new_relevant_findings": 6,
+    "today_file_total": 58,
+    "displayed_findings": 58,
     "high": 0,
-    "medium": 11,
-    "observe": 41,
+    "medium": 16,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -50,6 +50,54 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dc27277457f4aa29bec0"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-27T11:33:40+00:00",
+        "fetched_at": "2026-10-27T11:49:19+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Flatpack ausnutzen, um Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "80f0a930a36a81ab9fae"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-27T11:33:39+00:00",
+        "fetched_at": "2026-10-27T11:49:19+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (FreeIPMI) ausnutzen, um beliebigen Programmcode auszuführen und um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7f691edef1edb0950565"
       },
       {
         "title": "M 4.8 - 54 km E of Tomioka, Japan",
@@ -131,6 +179,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bfaf777671d1a20f6b59"
+      },
+      {
+        "title": "[UPDATE] [hoch] Oracle Java SE: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4154",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-27T11:33:40+00:00",
+        "fetched_at": "2026-10-27T11:49:19+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Oracle Java SE ausnutzen, um Informationen offenzulegen oder Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e91d392f8d90de31d2a0"
+      },
+      {
+        "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4123",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-27T11:33:38+00:00",
+        "fetched_at": "2026-10-27T11:49:19+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c2d96538a979fd35e7e7"
+      },
+      {
+        "title": "[UPDATE] [mittel] MongoDB C Treiber: Schwachstelle ermöglicht Denial of Service und manipulation von Daten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4134",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-27T11:33:38+00:00",
+        "fetched_at": "2026-10-27T11:49:19+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in MongoDB C Treiber ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ce3743b23d71c92cbccc"
       },
       {
         "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
@@ -1048,6 +1165,27 @@
         "id": "597735fefdfa96b84d44"
       },
       {
+        "title": "GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう",
+        "url": "https://togetter.com/li/2763425",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T09:08:18+00:00",
+        "fetched_at": "2026-10-27T11:49:19+00:00",
+        "summary": "aiAnyDay @aiAnyDay お名前 .com のダークパターン - 初年度の安さを強調し、更新料金を目立たせない - サービス維持調整費による追加請求 - 有料オプションの初期選択 - レンタルサーバー契約への誘導 - ドメインの自動更新・自動課金 - 自動更新停止は期限16日前まで - 有料オプションも自動更新 - 自動更新後のキャン...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ffbbd2d0bfc51f34cce6"
+      },
+      {
         "title": "So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象",
         "url": "https://internet.watch.impress.co.jp/docs/news/2151585.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1282,6 +1420,54 @@
       "id": "dc27277457f4aa29bec0"
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T11:33:40+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Flatpack ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "80f0a930a36a81ab9fae"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T11:33:39+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (FreeIPMI) ausnutzen, um beliebigen Programmcode auszuführen und um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f691edef1edb0950565"
+    },
+    {
       "title": "M 4.8 - 54 km E of Tomioka, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1361,6 +1547,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bfaf777671d1a20f6b59"
+    },
+    {
+      "title": "[UPDATE] [hoch] Oracle Java SE: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4154",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T11:33:40+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Oracle Java SE ausnutzen, um Informationen offenzulegen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e91d392f8d90de31d2a0"
+    },
+    {
+      "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4123",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T11:33:38+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c2d96538a979fd35e7e7"
+    },
+    {
+      "title": "[UPDATE] [mittel] MongoDB C Treiber: Schwachstelle ermöglicht Denial of Service und manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4134",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T11:33:38+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in MongoDB C Treiber ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ce3743b23d71c92cbccc"
     },
     {
       "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
@@ -2276,6 +2531,27 @@
       "id": "597735fefdfa96b84d44"
     },
     {
+      "title": "GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう",
+      "url": "https://togetter.com/li/2763425",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T09:08:18+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "aiAnyDay @aiAnyDay お名前 .com のダークパターン - 初年度の安さを強調し、更新料金を目立たせない - サービス維持調整費による追加請求 - 有料オプションの初期選択 - レンタルサーバー契約への誘導 - ドメインの自動更新・自動課金 - 自動更新停止は期限16日前まで - 有料オプションも自動更新 - 自動更新後のキャン...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ffbbd2d0bfc51f34cce6"
+    },
+    {
       "title": "So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象",
       "url": "https://internet.watch.impress.co.jp/docs/news/2151585.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2487,13 +2763,61 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-27T11:31:50+00:00",
-      "fetched_at": "2026-10-27T11:36:53+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, sensible Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-10-27T11:33:40+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Flatpack ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "80f0a930a36a81ab9fae"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T11:33:39+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (FreeIPMI) ausnutzen, um beliebigen Programmcode auszuführen und um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f691edef1edb0950565"
+    },
+    {
+      "title": "[UPDATE] [hoch] Oracle Java SE: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4154",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T11:33:40+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Oracle Java SE ausnutzen, um Informationen offenzulegen oder Daten zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2507,16 +2831,62 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7b6fed64234df6448e0d"
+      "id": "e91d392f8d90de31d2a0"
     },
     {
-      "title": "パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商品は無い」",
-      "url": "https://av.watch.impress.co.jp/docs/news/2151398.html",
+      "title": "[UPDATE] [mittel] MongoDB C Treiber: Schwachstelle ermöglicht Denial of Service und manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4134",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T11:33:38+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in MongoDB C Treiber ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ce3743b23d71c92cbccc"
+    },
+    {
+      "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4123",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T11:33:38+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c2d96538a979fd35e7e7"
+    },
+    {
+      "title": "GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう",
+      "url": "https://togetter.com/li/2763425",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-27T03:21:08+00:00",
-      "fetched_at": "2026-10-27T11:36:53+00:00",
-      "summary": "パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商品は無い」",
+      "published_at": "2026-10-27T09:08:18+00:00",
+      "fetched_at": "2026-10-27T11:49:19+00:00",
+      "summary": "aiAnyDay @aiAnyDay お名前 .com のダークパターン - 初年度の安さを強調し、更新料金を目立たせない - サービス維持調整費による追加請求 - 有料オプションの初期選択 - レンタルサーバー契約への誘導 - ドメインの自動更新・自動課金 - 自動更新停止は期限16日前まで - 有料オプションも自動更新 - 自動更新後のキャン...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2528,7 +2898,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "085d1f52738433aa9c55"
+      "id": "ffbbd2d0bfc51f34cce6"
     }
   ],
   "source_errors": [],
