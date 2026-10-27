@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T12:28:44+00:00",
+  "generated_at": "2026-10-27T13:09:05+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -88,7 +88,7 @@
       "p90_usd": 1184000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:54:24+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -1666,7 +1666,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T23:45:53+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -2550,7 +2550,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-27T09:27:43+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -3574,6 +3574,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_55a87e324d7c33b9f125",
+      "title": "M 4.6 - 100 km W of El Aguilar, Argentina",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5be0dbac4684c971292d",
       "title": "M 4.5 - 273 km NNW of Dêqên, China",
       "event_classes": [
@@ -4594,23 +4611,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_55a87e324d7c33b9f125",
-      "title": "M 4.6 - 100 km W of El Aguilar, Argentina",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-27T12:28:23+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_00e85c3d2c185ba34101",
       "title": "M 4.9 - 12 km SSW of Tebario, Panama",
       "event_classes": [
@@ -5238,6 +5238,23 @@
       "first_seen_at": "2026-10-01T09:29:05+00:00",
       "last_seen_at": "2026-10-01T17:35:40+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1e35c38d546de3a439ef",
+      "title": "M 4.6 - 5 km ENE of Tierra y Libertad, Mexico",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1e529148a1d03d83b842",
@@ -6205,7 +6222,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-27T11:23:25+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -8160,7 +8177,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-27T10:54:36+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -10850,23 +10867,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_1e35c38d546de3a439ef",
-      "title": "M 4.6 - 5 km ENE of Tierra y Libertad, Mexico",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-27T12:28:23+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -10880,7 +10880,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -11152,7 +11152,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T03:03:46+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -12053,7 +12053,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -12087,7 +12087,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -12308,7 +12308,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -13040,7 +13040,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -13057,7 +13057,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -16678,7 +16678,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T05:24:00+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -17120,7 +17120,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T10:54:36+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -17154,7 +17154,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T06:37:19+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -18604,6 +18604,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_dc4c8b45a8f2e1714abd",
+      "title": "Anthropic, DeepSeek and drones: 10 takeaways from the 2026 unicorn boom",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e51def39e0999936b77a",
       "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
       "event_classes": [
@@ -18687,23 +18704,6 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_dc4c8b45a8f2e1714abd",
-      "title": "Anthropic, DeepSeek and drones: 10 takeaways from the 2026 unicorn boom",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-27T12:28:23+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
@@ -19093,7 +19093,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:34:00+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
@@ -22204,7 +22204,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-10-27T12:28:23+00:00",
+      "last_seen_at": "2026-10-27T13:08:42+00:00",
       "status": "active"
     },
     {
