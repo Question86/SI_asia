@@ -1,30 +1,57 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-27T01:16:41Z",
+  "generated_at": "2026-10-27T01:44:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 4,
+    "dynamics": 8,
     "bands": {
-      "watch": 1,
-      "quiet": 3
+      "strong": 1,
+      "watch": 3,
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
-      "watch": 1,
-      "quiet": 3
+      "strong": 1,
+      "watch": 3,
+      "quiet": 4
     }
   },
   "top_dynamics": [
     {
-      "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-09T09:59:34+00:00",
-      "age_days": 17.64,
+      "title": "M 4.8 - 54 km E of Tomioka, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-27T00:57:45.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-27 00:25:08 UTC 2026-10-27 00:25:08 UTC at epicenter Location 37.387°N 141.625°E Depth 48.93 km (30.40 mi)"
+    },
+    {
+      "title": "M 4.8 - 54 km E of Tomioka, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-28T23:45:53+00:00",
+      "age_days": 59.08,
       "topics": [
         "general"
       ],
-      "dynamics_score": 19.69,
+      "dynamics_score": 19.59,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -36,7 +63,56 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90"
+        "baseline z_hint 2.90",
+        "aging penalty -8.0 for 59.1d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
+      "url": "https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-27T01:20:10+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-09T09:59:34+00:00",
+      "age_days": 17.66,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -45,7 +121,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T14:37:21+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -65,11 +141,38 @@
       "summary": "電子ギフトを手がける「ギフティグループ」は、子会社が運用するシステムが不正アクセスを受け、およそ5億5000万円分の電子ギフトが不正に発行されたと発表しました。 飲食店やコンビニなどで利用できる電…"
     },
     {
+      "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
+      "url": "https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-27T01:00:36+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The most telling line in Publicis’ announcement of a new AI Development Hub in Singapore isn’t about technology. It’s the promise that the hub will create roles rather than remove them. The hub itself is a serious bet: engineers, data scientists and product designers working alongside strategists to build proprietary…"
+    },
+    {
       "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
       "url": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T22:03:58+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -95,23 +198,23 @@
       "url": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 129.97,
+      "age_days": 129.99,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.5,
+      "dynamics_score": 3.56,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.27,
+      "baseline_z_hint": 2.33,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.27",
+        "baseline z_hint 2.33",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 130.0d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -119,5 +222,5 @@
       "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.69."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 54 km E of Tomioka, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0."
 }
