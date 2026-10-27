@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T08:01:29+00:00_
+_Generiert: 2026-10-27T08:30:56+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+35 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,10 @@ _Generiert: 2026-10-27T08:01:29+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.
-- **GDACS: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.667 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001345)
+- **GDACS: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.447 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001345)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.667 million .
+  - Kurz: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.447 million .
 - **GDACS: Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001344)
   - Quelle: GDACS
   - Zeit: ``
@@ -211,6 +211,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: Welcoming remarks by Mr Marzunisham Omar, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at Malaysia's Designated Non-Financial Businesses and Professions (DNFBP) Compliance Conference 2026, Kuala Lumpur, 22 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **php2shell: Erfolgreiche Angriffe bestätigt, noch viele Instanzen ungepatcht** — Score 7, observation — [Quelle](https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-27T08:02:00.000+00:00`, fetched `2026-10-27T08:30:25+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Seit Bekanntwerden der php2shell-Schwachstelle laufen Angriffe darauf. Am Wochenende wurden erste erfolgreiche Attacken bestätigt.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **塩崎デジタル副大臣がアンドレス・ウンガ駐日エストニア共和国大使の表敬訪問を受けました** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/b1d81ddb-c690-47fc-be30-e98502f5045c)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-27T06:00:00+00:00`, fetched `2026-10-27T06:01:16+00:00`
@@ -238,14 +247,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「防災分野のデータ流通促進」の取組概要と「デジタル庁における官民共創による防災DXの推進」の資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub Copilot assisted permissions generally available** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-26T22:31:30+00:00`, fetched `2026-10-27T03:03:14+00:00`
-  - Treffer: Copilot, GitHub
+- **The two-tier system in transition - public foundations, private innovation** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20261027-two-tier-system-transition-public-foundations-private-innovation)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-27T00:00:00+00:00`, fetched `2026-10-27T08:30:25+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Assisted permissions are now generally available in GitHub Copilot CLI, GitHub Copilot app, and Visual Studio Code. When Copilot requests permission to run a command, access a file system path,… The post GitHub Copilot assisted permissions generally available appeared first on The GitHub Blog .
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Speech by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the meeting of the Institut International d’Études Bancaires (IIEB), Milan, 23 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Taking action for nature - investing in economic resilience and prosperity** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20261027-taking-action-nature-investing-economic-resilience-and-prosperity)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-27T00:00:00+00:00`, fetched `2026-10-27T08:30:25+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the COP17 Finance and Biodiversity Day, Yerewan, 26 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
