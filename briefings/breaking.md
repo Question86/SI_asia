@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-27T03:03:46+00:00_
+_Generiert: 2026-10-27T04:00:49+00:00_
 
 ## QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students
 

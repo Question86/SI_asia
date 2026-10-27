@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-27T03:03:43+00:00",
-  "run_id": "2026-10-27T03:03:43+00:00",
+  "generated_at": "2026-10-27T04:00:45+00:00",
+  "run_id": "2026-10-27T04:00:45+00:00",
   "date": "2026-10-27",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 1,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 5,
-    "observe": 12,
-    "source_errors": 0
+    "observe": 13,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -214,6 +214,28 @@
           "LOW"
         ],
         "id": "80546ef546a60059124e"
+      },
+      {
+        "title": "Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media",
+        "url": "https://iret.media/210349",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T01:28:51+00:00",
+        "fetched_at": "2026-10-27T04:00:05+00:00",
+        "summary": "こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a2452326c70930a671ae"
       },
       {
         "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
@@ -611,6 +633,28 @@
       "id": "80546ef546a60059124e"
     },
     {
+      "title": "Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media",
+      "url": "https://iret.media/210349",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T01:28:51+00:00",
+      "fetched_at": "2026-10-27T04:00:05+00:00",
+      "summary": "こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a2452326c70930a671ae"
+    },
+    {
       "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
       "url": "https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -821,70 +865,36 @@
   ],
   "new_findings": [
     {
-      "title": "Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性",
-      "url": "https://jvn.jp/jp/JVN90463048/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media",
+      "url": "https://iret.media/210349",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-27T12:00:00+09:00",
-      "fetched_at": "2026-10-27T03:03:14+00:00",
-      "summary": "フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。",
+      "published_at": "2026-10-27T01:28:51+00:00",
+      "fetched_at": "2026-10-27T04:00:05+00:00",
+      "summary": "こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "AI/KI",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bfaf777671d1a20f6b59"
-    },
-    {
-      "title": "Malaysia’s durian glut and the politics of the delivery gap",
-      "url": "https://e27.co/malaysias-durian-glut-and-the-politics-of-the-delivery-gap-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-27T03:00:08+00:00",
-      "fetched_at": "2026-10-27T03:03:14+00:00",
-      "summary": "Malaysia’s durian industry ought to be one of the country’s great economic success stories. Chinese demand soared. Musang King became an internationally recognised premium product. Investors planted orchards across the country. In 2024, Malaysia secured long-awaited approval to export fresh durians directly to China. Exports duly took off. Fresh durian exports to China increased from […] The post Malaysia’s durian g…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph region china_credible_only: China (+2.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "109416e1eda362814d9f"
-    },
-    {
-      "title": "GitHub Copilot assisted permissions generally available",
-      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-26T22:31:30+00:00",
-      "fetched_at": "2026-10-27T03:03:14+00:00",
-      "summary": "Assisted permissions are now generally available in GitHub Copilot CLI, GitHub Copilot app, and Visual Studio Code. When Copilot requests permission to run a command, access a file system path,… The post GitHub Copilot assisted permissions generally available appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "597735fefdfa96b84d44"
+      "id": "a2452326c70930a671ae"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "cert_eu_security_advisories",
+      "source_name": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T03:03:43+00:00_
+_Generated: 2026-10-27T04:00:45+00:00_
 
 ## Status
-- status: `normal`
-- findings: `17`
+- status: `warning`
+- findings: `18`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-27T03:03:43+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4
 - summary: Time 2026-10-27 02:02:55 UTC 2026-10-27 02:02:55 UTC at epicenter Location 10.668°S 161.319°E Depth 35.00 km (21.75 mi)
 
-### 7. Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem
+### 7. Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media
+- source: Hatena Bookmark Hotentry IT
+- score: `9`
+- published: `2026-10-27T01:28:51+00:00`
+- url: https://iret.media/210349
+- summary: こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...
+
+### 8. Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-10-27T01:00:36+00:00`
 - url: https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/
 - summary: The most telling line in Publicis’ announcement of a new AI Development Hub in Singapore isn’t about technology. It’s the promise that the hub will create roles rather than remove them. The hub itself is a serious bet: engineers, data scientists and product d…
-
-### 8. Malaysia’s durian glut and the politics of the delivery gap
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-10-27T03:00:08+00:00`
-- url: https://e27.co/malaysias-durian-glut-and-the-politics-of-the-delivery-gap-20261025/
-- summary: Malaysia’s durian industry ought to be one of the country’s great economic success stories. Chinese demand soared. Musang King became an internationally recognised premium product. Investors planted orchards across the country. In 2024, Malaysia secured long-…
 
 END OF DOCUMENT

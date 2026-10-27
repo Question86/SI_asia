@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T03:03:43+00:00_
+_Generiert: 2026-10-27T04:00:45+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+18 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,10 @@ _Generiert: 2026-10-27T03:03:43+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.
-- **GDACS: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6.028 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001345)
+- **GDACS: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.667 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001345)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6.028 million .
+  - Kurz: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.667 million .
 - **GDACS: Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001344)
   - Quelle: GDACS
   - Zeit: ``
@@ -139,6 +139,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-27 02:02:55 UTC 2026-10-27 02:02:55 UTC at epicenter Location 10.668°S 161.319°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media** — Score 9, observation — [Quelle](https://iret.media/210349)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-27T01:28:51+00:00`, fetched `2026-10-27T04:00:05+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem** — Score 9, observation — [Quelle](https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-27T01:00:36+00:00`, fetched `2026-10-27T01:19:36+00:00`
@@ -193,15 +202,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: Assisted permissions are now generally available in GitHub Copilot CLI, GitHub Copilot app, and Visual Studio Code. When Copilot requests permission to run a command, access a file system path,… The post GitHub Copilot assisted permissions generally available appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社** — Score 5, observation — [Quelle](https://group.gmo/info/alert/20261027/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-27T01:26:24+00:00`, fetched `2026-10-27T02:53:54+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報） （【続報】お客様をお守りするために現在私たちが行っていること） 2026年10月27日 9:58時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスク...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -211,3 +211,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)
