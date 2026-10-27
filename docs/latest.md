@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T22:40:36+00:00_
+_Generiert: 2026-10-27T22:48:51+00:00_
 
 ## Kurzlage
 
-93 neue relevante Treffer. Stärkstes Signal: „OpenAI expands partnership with Oracle to bring its apps to ChatGPT“ aus OpenAI News RSS (Score 20, opportunity).
+94 neue relevante Treffer. Stärkstes Signal: „OpenAI expands partnership with Oracle to bring its apps to ChatGPT“ aus OpenAI News RSS (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -84,6 +84,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Retell uses OpenAI models to help power 100M monthly calls** — Score 14, observation — [Quelle](https://openai.com/index/retell-ai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-27T15:00:00+00:00`, fetched `2026-10-27T22:48:24+00:00`
+  - Treffer: AI/KI, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [mittel] Nextcloud (Server, Tables, Whiteboard, Files Confidential, Collectives, Richdocuments): Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4185)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-27T13:26:33+00:00`, fetched `2026-10-27T13:32:21+00:00`
