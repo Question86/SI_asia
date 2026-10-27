@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T09:27:35+00:00_
+_Generiert: 2026-10-27T09:42:57+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+43 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: October 2026 euro area bank lending survey
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 206 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-27T09:39:56.040+00:00`, fetched `2026-10-27T09:42:24+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-27 09:20:55 UTC 2026-10-27 09:20:55 UTC at epicenter Location 13.901°S 165.556°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 95 km NNE of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-27T09:27:10.040+00:00`, fetched `2026-10-27T09:27:03+00:00`
@@ -131,15 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-27 09:07:45 UTC 2026-10-27 09:07:45 UTC at epicenter Location 15.174°S 173.409°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 69 km WSW of Kirakira, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-27T02:22:17.040+00:00`, fetched `2026-10-27T02:33:24+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-27 02:02:55 UTC 2026-10-27 02:02:55 UTC at epicenter Location 10.668°S 161.319°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media** — Score 9, observation — [Quelle](https://iret.media/210349)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -159,14 +159,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: The most telling line in Publicis’ announcement of a new AI Development Hub in Singapore isn’t about technology. It’s the promise that the hub will create roles rather than remove them. The hub itself is a serious bet: engineers, data scientists and product designers working alongside strategists to build proprietary marketing technology in Singapore and […] The post Agencies don’t have a hiring problem. They have t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明** — Score 8, observation — [Quelle](https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/)
+- **プルリクエストのリスクを判定する仕組み - newmo 技術ブログ** — Score 8, observation — [Quelle](https://tech.newmo.me/entry/2026/10/27/100000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-27T04:07:06+00:00`, fetched `2026-10-27T06:36:47+00:00`
+  - Zeit: published `2026-10-27T05:57:00+00:00`, fetched `2026-10-27T09:42:24+00:00`
   - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 中国のアリババが開発したAIモデル「Qwen3.8-Flash-Next」にセキュリティ対策用のルールを作成させたところ、指示されていないコンピューター内部の調査を始め、中国・北京にあるサーバーへデータを送信しようとしたことが判明しました。 Concerning behavior from a popular open-weight AI model | Cohere https://coh...
+  - Kurz: newmo のモノレポで、AI が Pull Request（PR）を読み、安全と判断したものを bot が承認する仕組み「riskjudge」を運用しています。 筆者の個人ブログのソフトウェアの産業革命では「検査を工程にする」という話を書いたのですが、この記事ではその工程の 1 つを、どう組み立てているかという技術の面から紹介します。 ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The AI era is forcing startups to rethink what they should own** — Score 8, observation — [Quelle](https://e27.co/the-ai-era-is-forcing-startups-to-rethink-what-they-should-own-20261025/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

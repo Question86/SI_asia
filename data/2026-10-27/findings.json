@@ -333,6 +333,42 @@
     "id": "c4322bbd349d74176e4a"
   },
   {
+    "title": "M 5.0 - 206 km NW of Port-Olry, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-27T09:39:56.040+00:00",
+    "fetched_at": "2026-10-27T09:42:24+00:00",
+    "summary": "Time 2026-10-27 09:20:55 UTC 2026-10-27 09:20:55 UTC at epicenter Location 13.901°S 165.556°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "ee68dbe4077585a8cfd4"
+  },
+  {
     "title": "M 5.0 - 95 km NNE of Hihifo, Tonga",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -446,6 +482,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2a3669eeee748f5f1e0e"
+  },
+  {
+    "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
+    "url": "https://tech.newmo.me/entry/2026/10/27/100000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-27T05:57:00+00:00",
+    "fetched_at": "2026-10-27T09:42:24+00:00",
+    "summary": "newmo のモノレポで、AI が Pull Request（PR）を読み、安全と判断したものを bot が承認する仕組み「riskjudge」を運用しています。 筆者の個人ブログのソフトウェアの産業革命では「検査を工程にする」という話を書いたのですが、この記事ではその工程の 1 つを、どう組み立てているかという技術の面から紹介します。 ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6c69fd430efab0e3230f"
   },
   {
     "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
