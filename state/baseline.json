@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T01:20:10+00:00",
+  "generated_at": "2026-10-27T02:34:00+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2817,9 +2817,8 @@
     },
     "domain:gigazine.net": {
       "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
-      "updated_at": "2026-10-27T01:20:10+00:00",
+      "updated_at": "2026-10-27T02:34:00+00:00",
       "network_scores": [
-        12.1,
         10.1,
         7.1,
         7.1,
@@ -2848,12 +2847,13 @@
         7.1,
         13.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 7.77,
+      "rolling_average": 7.7,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": 2.33
+      "z_hint": 2.4
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -7004,7 +7004,7 @@
     },
     "earthquake:japan:4.8": {
       "title": "M 4.8 - 54 km E of Tomioka, Japan",
-      "updated_at": "2026-10-27T01:20:10+00:00",
+      "updated_at": "2026-10-27T02:34:00+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -7034,13 +7034,13 @@
         17.7,
         17.7,
         17.7,
-        17.7,
-        20.7
+        20.7,
+        17.7
       ],
       "rolling_average": 17.8,
       "rolling_peak": 20.7,
-      "last_score": 20.7,
-      "z_hint": 2.9
+      "last_score": 17.7,
+      "z_hint": -0.1
     },
     "domain:four.htmx.org": {
       "title": "htmx 4.0.0 has been released!",
@@ -66047,7 +66047,7 @@
     },
     "title:5000-nhk": {
       "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース",
-      "updated_at": "2026-10-27T01:20:10+00:00",
+      "updated_at": "2026-10-27T02:34:00+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -66076,8 +66076,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1
       ],
       "rolling_average": 7.2,
@@ -83347,8 +83347,8 @@
       "z_hint": -0.0
     },
     "title:php": {
-      "title": "高市総理、サイバーセキュリティの本を出していた しかも“PHP”から",
-      "updated_at": "2026-10-22T23:44:33+00:00",
+      "title": "ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと",
+      "updated_at": "2026-10-27T02:34:00+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -83379,12 +83379,12 @@
         7.1,
         7.1,
         7.1,
-        7.1
+        10.1
       ],
-      "rolling_average": 7.1,
-      "rolling_peak": 7.1,
-      "last_score": 7.1,
-      "z_hint": 0.0
+      "rolling_average": 7.2,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 2.9
     },
     "cve:CVE-2026-109618": {
       "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
@@ -92742,13 +92742,80 @@
     },
     "title:agencies-don-have-hiring-problem-they-have-ebitda": {
       "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
-      "updated_at": "2026-10-27T01:20:10+00:00",
+      "updated_at": "2026-10-27T02:34:00+00:00",
       "network_scores": [
-        14.1
+        14.1,
+        11.1
       ],
-      "rolling_average": 14.1,
+      "rolling_average": 12.6,
       "rolling_peak": 14.1,
-      "last_score": 14.1,
+      "last_score": 11.1,
+      "z_hint": -1.5
+    },
+    "title:fireblocks-mpc-lib-hardened-derivation": {
+      "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
+      "updated_at": "2026-10-27T02:34:00+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "title:covesa-vsomeip": {
+      "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
+      "updated_at": "2026-10-27T02:34:00+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "github_repo:yuiseki/map-from-scratch": {
+      "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
+      "updated_at": "2026-10-27T02:34:00+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.9 - 69 km wsw of kirakira, solomon islands:4.9": {
+      "title": "M 4.9 - 69 km WSW of Kirakira, Solomon Islands",
+      "updated_at": "2026-10-27T02:34:00+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
+    },
+    "title:conference-attendee-intelligence-node-experience-native-conference": {
+      "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
+      "updated_at": "2026-10-27T02:34:00+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "title:stryv-bags-series-turn-hair-dryer-brand-household": {
+      "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
+      "updated_at": "2026-10-27T02:34:00+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
       "z_hint": 0.0
     }
   }
