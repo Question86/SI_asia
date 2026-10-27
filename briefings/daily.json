@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:32:14+00:00",
+  "generated_at": "2026-10-27T23:40:41+00:00",
   "today_file_total": 96,
   "current_clusters": [
     {
@@ -152,31 +152,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 19.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.4 - 197 km wsw of merizo village, guam:5.4",
-      "title": "M 5.4 - 197 km WSW of Merizo Village, Guam",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -349,6 +324,31 @@
         "macro_fx_company_numbers"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.4 - 197 km wsw of merizo village, guam:5.4",
+      "title": "M 5.4 - 197 km WSW of Merizo Village, Guam",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 5.8 - 200 km nw of port-olry, vanuatu:5.8",
