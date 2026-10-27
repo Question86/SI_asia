@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-27T11:32:08Z",
+  "generated_at": "2026-10-27T11:46:11Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GROWIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN51223238/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T15:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN90463048/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T12:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -59,11 +59,36 @@
       "summary": "フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-27T11:31:50+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, sensible Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
       "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4158",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:01:29+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -87,7 +112,7 @@
       "url": "https://jvn.jp/vu/JVNVU90547696/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:15+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -111,7 +136,7 @@
       "url": "https://jvn.jp/vu/JVNVU90363302/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -135,7 +160,7 @@
       "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 130.16,
+      "age_days": 130.17,
       "topics": [
         "security"
       ],
@@ -162,7 +187,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4163",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:01:29+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -188,7 +213,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3965",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T08:51:29+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -214,7 +239,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T02:54:24+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -241,7 +266,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T01:00:28+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -265,12 +290,13 @@
       "summary": "Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into the market. Also Read: AI, quantum comput…"
     },
     {
-      "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4158",
+      "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 59.89,
+      "age_days": 59.9,
       "topics": [
+        "ai",
         "security"
       ],
       "dynamics_score": 24.9,
@@ -291,31 +317,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
-    },
-    {
-      "title": "php2shell: Erfolgreiche Angriffe bestätigt, noch viele Instanzen ungepatcht",
-      "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-10-27T08:02:00.000+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe"
-      ],
-      "summary": "Seit Bekanntwerden der php2shell-Schwachstelle laufen Angriffe darauf. Am Wochenende wurden erste erfolgreiche Attacken bestätigt."
     }
   ],
   "read_order": [
