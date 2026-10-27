@@ -129,6 +129,29 @@
     "id": "d62b5bfc86fbc9dde963"
   },
   {
+    "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3703",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-27T12:56:42+00:00",
+    "fetched_at": "2026-10-27T13:08:12+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache HTTP Server ausnutzen, um beliebigen Programmcode auszuführen, die Authentifizierung zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5193296d059fcd17a153"
+  },
+  {
     "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3378",
     "source": "BSI CERT-Bund Security Advisories",
@@ -587,6 +610,27 @@
       "LOW"
     ],
     "id": "03d9de6b145783c64a0f"
+  },
+  {
+    "title": "Scene-setting remarks on digital safety",
+    "url": "https://www.bis.org/speeches/20261027-scene-setting-remarks-digital-safety",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "fetched_at": "2026-10-27T13:08:12+00:00",
+    "summary": "Remarks by Ms Daranee Saeju, Deputy Governor of the Bank of Thailand, at the World Economic Forum at the International Monetary Fund (IMF)-World Bank Group (WBG) Annual Meetings, Bangkok, 15 October 2026.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7b2ab0544dd22ecc7e02"
   },
   {
     "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
@@ -1280,6 +1324,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "597735fefdfa96b84d44"
+  },
+  {
+    "title": "GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模",
+    "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-27T11:23:36+00:00",
+    "fetched_at": "2026-10-27T13:08:12+00:00",
+    "summary": "GMOインターネットグループは10月27日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）を支払う懸賞金制度を始めると発表した。28日正午から専用窓口で情報提供を受け付ける。 国内外の法人・個人か...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "594ef1d72825a44758d9"
   },
   {
     "title": "GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう",
