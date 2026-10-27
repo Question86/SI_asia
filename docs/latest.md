@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T23:24:16+00:00_
+_Generiert: 2026-10-27T23:32:10+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „OpenAI expands partnership with Oracle to bring its apps to ChatGPT“ aus OpenAI News RSS (Score 20, opportunity).
+96 neue relevante Treffer. Stärkstes Signal: „OpenAI expands partnership with Oracle to bring its apps to ChatGPT“ aus OpenAI News RSS (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.4 - 197 km WSW of Merizo Village, Guam** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-27T23:31:34.550+00:00`, fetched `2026-10-27T23:31:43+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-27 23:14:16 UTC 2026-10-27 23:14:16 UTC at epicenter Location 12.698°N 142.943°E Depth 91.64 km (56.94 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything** — Score 13, observation — [Quelle](https://e27.co/evan-goldberg-on-ai-trust-confident-answers-arent-enough-context-is-everything-20261027/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-27T10:42:02+00:00`, fetched `2026-10-27T10:54:00+00:00`
@@ -185,15 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-27 18:57:53 UTC 2026-10-27 18:57:53 UTC at epicenter Location 32.539°N 93.903°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 100 km W of El Aguilar, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-27T12:01:26.040+00:00`, fetched `2026-10-27T12:27:37+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-27 11:41:22 UTC 2026-10-27 11:41:22 UTC at epicenter Location 23.182°S 66.662°W Depth 206.26 km (128.16 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **スライド作成入門_2024.indd** — Score 11, observation — [Quelle](https://home.riise.hiroshima-u.ac.jp/~ten/slide_20240328.pdf?utm_source=chatgpt.com)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

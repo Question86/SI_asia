@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-27T23:24:16+00:00",
+  "generated_at": "2026-10-27T23:32:10+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "today_file_total": 96,
+    "displayed_findings": 96,
     "high": 0,
     "medium": 25,
-    "observe": 70
+    "observe": 71
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.4 - 197 km WSW of Merizo Village, Guam",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-27T23:31:34.550+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-27 23:14:16 UTC 2026-10-27 23:14:16 UTC at epicenter Location 12.698°N 142.943°E Depth 91.64 km (56.94 mi)",
+      "section": "observe"
+    },
+    {
       "title": "Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 13,
       "url": "https://github.com/JetBrains/thinkrail",
       "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs to…",
-      "section": "observe"
-    },
-    {
-      "title": "Anthropic, DeepSeek and drones: 10 takeaways from the 2026 unicorn boom",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-27T11:50:36+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/anthropic-deepseek-and-drones-10-takeaways-from-the-2026-unicorn-boom-20261027/",
-      "summary": "Thirteen years after venture capitalist Aileen Lee coined the term, the unicorn has stopped being mythical. There are now 1,879 privately held companies valued at US$1 billion or more, according to a new analysis by BestBrokers, which drew on data from Crunch…",
       "section": "observe"
     }
   ],

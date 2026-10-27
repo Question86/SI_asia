@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T23:24:16+00:00_
+_Generated: 2026-10-27T23:32:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `95`
+- findings: `96`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-27T23:24:16+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147
 - summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Flatpack ausnutzen, um Dateien zu manipulieren.
 
-### 5. Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything
+### 5. M 5.4 - 197 km WSW of Merizo Village, Guam
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-27T23:31:34.550+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke
+- summary: PAGER - GREEN ShakeMap - I Time 2026-10-27 23:14:16 UTC 2026-10-27 23:14:16 UTC at epicenter Location 12.698°N 142.943°E Depth 91.64 km (56.94 mi)
+
+### 6. Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-10-27T10:42:02+00:00`
 - url: https://e27.co/evan-goldberg-on-ai-trust-confident-answers-arent-enough-context-is-everything-20261027/
 - summary: Every enterprise software vendor now has an AI agent story. Oracle NetSuite’s version, unveiled at SuiteWorld in Las Vegas on October 26, comes with two twists: its agents are meant to know your industry, and its newest offering is designed to catch tech star…
 
-### 6. M 5.8 - 200 km NW of Port-Olry, Vanuatu
+### 7. M 5.8 - 200 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-27T09:15:11.243+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-10-27 08:55:23 UTC 2026-10-27 08:55:23 UTC at epicenter Location 13.896°S 165.626°E Depth 10.00 km (6.21 mi)
 
-### 7. JetBrains/thinkrail
+### 8. JetBrains/thinkrail
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/JetBrains/thinkrail
 - summary: Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs to…
-
-### 8. Anthropic, DeepSeek and drones: 10 takeaways from the 2026 unicorn boom
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-27T11:50:36+00:00`
-- url: https://e27.co/anthropic-deepseek-and-drones-10-takeaways-from-the-2026-unicorn-boom-20261027/
-- summary: Thirteen years after venture capitalist Aileen Lee coined the term, the unicorn has stopped being mythical. There are now 1,879 privately held companies valued at US$1 billion or more, according to a new analysis by BestBrokers, which drew on data from Crunch…
 
 END OF DOCUMENT
