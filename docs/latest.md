@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T05:02:59+00:00_
+_Generiert: 2026-10-27T05:23:56+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **3 scenarios for October 28: Which one breaks Bitcoin’s US$80,000 resistance** — Score 14, observation — [Quelle](https://e27.co/3-scenarios-for-october-28-which-one-breaks-bitcoins-us80000-resistance-20261027/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-27T05:02:50+00:00`, fetched `2026-10-27T05:23:26+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy, Watchgraph:macro_fx_company_numbers
+  - Watchgraph: macro_fx_company_numbers
+  - Markt-/Kontextkorb: SPY, QQQ, DAX, EWU, INDA, EWJ, EWY, EWA, EWC, EWZ
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States, Federal Reserve (+2.0); watchgraph modules macro_fx_company_numbers (+3.0)
+  - Kurz: The crypto market is holding its breath. Bitcoin has spent the morning oscillating in a narrow band between US$79,300 and US$80,000. This tight range reflects broader paralysis across digital assets ahead of the United States Federal Reserve’s final rate decision on 28 October 2026. This is not a quiet consolidation. It is a standoff between […] The post 3 scenarios for October 28: Which one breaks Bitcoin’s US$80,0…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -146,6 +155,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
