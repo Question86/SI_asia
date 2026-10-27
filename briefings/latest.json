@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T11:23:22+00:00",
-  "run_id": "2026-10-27T11:23:22+00:00",
+  "generated_at": "2026-10-27T11:37:29+00:00",
+  "run_id": "2026-10-27T11:37:29+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 50
+      "configured_public_sources_only": 52
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "new_relevant_findings": 2,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
-    "medium": 10,
-    "observe": 40,
+    "medium": 11,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -131,6 +131,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bfaf777671d1a20f6b59"
+      },
+      {
+        "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-27T11:31:50+00:00",
+        "fetched_at": "2026-10-27T11:36:53+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, sensible Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7b6fed64234df6448e0d"
       },
       {
         "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
@@ -1109,6 +1132,27 @@
         "id": "12337a9dfe88bd77e9a9"
       },
       {
+        "title": "パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商品は無い」",
+        "url": "https://av.watch.impress.co.jp/docs/news/2151398.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T03:21:08+00:00",
+        "fetched_at": "2026-10-27T11:36:53+00:00",
+        "summary": "パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商品は無い」",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "085d1f52738433aa9c55"
+      },
+      {
         "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
         "url": "https://group.gmo/info/alert/20261027/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1317,6 +1361,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bfaf777671d1a20f6b59"
+    },
+    {
+      "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T11:31:50+00:00",
+      "fetched_at": "2026-10-27T11:36:53+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, sensible Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7b6fed64234df6448e0d"
     },
     {
       "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
@@ -2293,6 +2360,27 @@
       "id": "12337a9dfe88bd77e9a9"
     },
     {
+      "title": "パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商品は無い」",
+      "url": "https://av.watch.impress.co.jp/docs/news/2151398.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T03:21:08+00:00",
+      "fetched_at": "2026-10-27T11:36:53+00:00",
+      "summary": "パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商品は無い」",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "085d1f52738433aa9c55"
+    },
+    {
       "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
       "url": "https://group.gmo/info/alert/20261027/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2399,13 +2487,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Mautic: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4163",
+      "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-27T11:01:29+00:00",
-      "fetched_at": "2026-10-27T11:22:44+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mautic ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-10-27T11:31:50+00:00",
+      "fetched_at": "2026-10-27T11:36:53+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, sensible Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2419,66 +2507,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "695e0c52c98eb6776c06"
+      "id": "7b6fed64234df6448e0d"
     },
     {
-      "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4158",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商品は無い」",
+      "url": "https://av.watch.impress.co.jp/docs/news/2151398.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-27T11:01:29+00:00",
-      "fetched_at": "2026-10-27T11:22:44+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen.",
+      "published_at": "2026-10-27T03:21:08+00:00",
+      "fetched_at": "2026-10-27T11:36:53+00:00",
+      "summary": "パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商品は無い」",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ba369f64c6e7e5b31a80"
-    },
-    {
-      "title": "M 5.2 - 191 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-27T11:09:11.040+00:00",
-      "fetched_at": "2026-10-27T11:22:44+00:00",
-      "summary": "Time 2026-10-27 10:50:35 UTC 2026-10-27 10:50:35 UTC at epicenter Location 14.007°S 165.648°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e94307bd2f484c1dcf38"
+      "id": "085d1f52738433aa9c55"
     }
   ],
   "source_errors": [],

@@ -103,6 +103,29 @@
     "id": "bfaf777671d1a20f6b59"
   },
   {
+    "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen ermöglichen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-27T11:31:50+00:00",
+    "fetched_at": "2026-10-27T11:36:53+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, sensible Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7b6fed64234df6448e0d"
+  },
+  {
     "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4158",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1075,6 +1098,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "12337a9dfe88bd77e9a9"
+  },
+  {
+    "title": "パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商品は無い」",
+    "url": "https://av.watch.impress.co.jp/docs/news/2151398.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-27T03:21:08+00:00",
+    "fetched_at": "2026-10-27T11:36:53+00:00",
+    "summary": "パナソニック、ミニコンポ全機種の生産を11月以降順次完了。「後継商品は無い」",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "085d1f52738433aa9c55"
   },
   {
     "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
