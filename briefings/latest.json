@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T13:08:40+00:00",
-  "run_id": "2026-10-27T13:08:40+00:00",
+  "generated_at": "2026-10-27T13:32:50+00:00",
+  "run_id": "2026-10-27T13:32:50+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 65
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 65,
-    "displayed_findings": 65,
+    "new_relevant_findings": 4,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
-    "medium": 18,
-    "observe": 47,
+    "medium": 20,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -157,6 +157,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d62b5bfc86fbc9dde963"
+      },
+      {
+        "title": "[NEU] [mittel] Nextcloud (Server, Tables, Whiteboard, Files Confidential, Collectives, Richdocuments): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4185",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-27T13:26:33+00:00",
+        "fetched_at": "2026-10-27T13:32:21+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Nextcloud ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "222184288648063dfe25"
+      },
+      {
+        "title": "[UPDATE] [hoch] xz: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0942",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-27T13:21:36+00:00",
+        "fetched_at": "2026-10-27T13:32:21+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in xz ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0716b4385f09ec1cb833"
       },
       {
         "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
@@ -989,6 +1035,27 @@
         "id": "2a3669eeee748f5f1e0e"
       },
       {
+        "title": "Monetary policy in times of geopolitical tensions and technological disruption",
+        "url": "https://www.bis.org/speeches/20261027-monetary-policy-times-geopolitical-tensions-and-technological-disruption",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-27T00:00:00+00:00",
+        "fetched_at": "2026-10-27T13:32:21+00:00",
+        "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland, at the CEPS Macro group webinar, Helsinki, 20 October 2026.",
+        "matched_keywords": [
+          "macro",
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); macro (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a1ab2d9b8de5fb2cedae"
+      },
+      {
         "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
         "url": "https://tech.newmo.me/entry/2026/10/27/100000",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1335,6 +1402,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ea395985ed085137b0a"
+      },
+      {
+        "title": "Statement to the International Monetary and Financial Committee (IMFC)",
+        "url": "https://www.bis.org/speeches/20261027-statement-international-monetary-and-financial-committee-imfc",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-27T00:00:00+00:00",
+        "fetched_at": "2026-10-27T13:32:21+00:00",
+        "summary": "Statement by His Excellency Mr Ayman Al-Sayari, Governor of the Saudi Central Bank, to the International Monetary and Financial Committee (IMFC), Bangkok, 17 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0ba3727d3ab668bafdc0"
       },
       {
         "title": "GitHub Copilot assisted permissions generally available",
@@ -1739,6 +1826,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d62b5bfc86fbc9dde963"
+    },
+    {
+      "title": "[NEU] [mittel] Nextcloud (Server, Tables, Whiteboard, Files Confidential, Collectives, Richdocuments): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4185",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T13:26:33+00:00",
+      "fetched_at": "2026-10-27T13:32:21+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Nextcloud ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "222184288648063dfe25"
+    },
+    {
+      "title": "[UPDATE] [hoch] xz: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0942",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T13:21:36+00:00",
+      "fetched_at": "2026-10-27T13:32:21+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in xz ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0716b4385f09ec1cb833"
     },
     {
       "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
@@ -2569,6 +2702,27 @@
       "id": "2a3669eeee748f5f1e0e"
     },
     {
+      "title": "Monetary policy in times of geopolitical tensions and technological disruption",
+      "url": "https://www.bis.org/speeches/20261027-monetary-policy-times-geopolitical-tensions-and-technological-disruption",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "fetched_at": "2026-10-27T13:32:21+00:00",
+      "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland, at the CEPS Macro group webinar, Helsinki, 20 October 2026.",
+      "matched_keywords": [
+        "macro",
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); macro (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a1ab2d9b8de5fb2cedae"
+    },
+    {
       "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
       "url": "https://tech.newmo.me/entry/2026/10/27/100000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2917,6 +3071,26 @@
       "id": "2ea395985ed085137b0a"
     },
     {
+      "title": "Statement to the International Monetary and Financial Committee (IMFC)",
+      "url": "https://www.bis.org/speeches/20261027-statement-international-monetary-and-financial-committee-imfc",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "fetched_at": "2026-10-27T13:32:21+00:00",
+      "summary": "Statement by His Excellency Mr Ayman Al-Sayari, Governor of the Saudi Central Bank, to the International Monetary and Financial Committee (IMFC), Bangkok, 17 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0ba3727d3ab668bafdc0"
+    },
+    {
       "title": "GitHub Copilot assisted permissions generally available",
       "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
       "source": "GitHub Changelog Atom",
@@ -3191,13 +3365,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3703",
+      "title": "[NEU] [mittel] Nextcloud (Server, Tables, Whiteboard, Files Confidential, Collectives, Richdocuments): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4185",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-27T12:56:42+00:00",
-      "fetched_at": "2026-10-27T13:08:12+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache HTTP Server ausnutzen, um beliebigen Programmcode auszuführen, die Authentifizierung zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen.",
+      "published_at": "2026-10-27T13:26:33+00:00",
+      "fetched_at": "2026-10-27T13:32:21+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Nextcloud ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände auszulösen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3211,49 +3385,71 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5193296d059fcd17a153"
+      "id": "222184288648063dfe25"
     },
     {
-      "title": "Scene-setting remarks on digital safety",
-      "url": "https://www.bis.org/speeches/20261027-scene-setting-remarks-digital-safety",
+      "title": "[UPDATE] [hoch] xz: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0942",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-27T13:21:36+00:00",
+      "fetched_at": "2026-10-27T13:32:21+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in xz ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0716b4385f09ec1cb833"
+    },
+    {
+      "title": "Monetary policy in times of geopolitical tensions and technological disruption",
+      "url": "https://www.bis.org/speeches/20261027-monetary-policy-times-geopolitical-tensions-and-technological-disruption",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-27T00:00:00+00:00",
-      "fetched_at": "2026-10-27T13:08:12+00:00",
-      "summary": "Remarks by Ms Daranee Saeju, Deputy Governor of the Bank of Thailand, at the World Economic Forum at the International Monetary Fund (IMF)-World Bank Group (WBG) Annual Meetings, Bangkok, 15 October 2026.",
+      "fetched_at": "2026-10-27T13:32:21+00:00",
+      "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland, at the CEPS Macro group webinar, Helsinki, 20 October 2026.",
       "matched_keywords": [
-        "APAC Trend Radar",
+        "macro",
         "Macro/Policy"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); macro (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7b2ab0544dd22ecc7e02"
+      "id": "a1ab2d9b8de5fb2cedae"
     },
     {
-      "title": "GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模",
-      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Statement to the International Monetary and Financial Committee (IMFC)",
+      "url": "https://www.bis.org/speeches/20261027-statement-international-monetary-and-financial-committee-imfc",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-10-27T11:23:36+00:00",
-      "fetched_at": "2026-10-27T13:08:12+00:00",
-      "summary": "GMOインターネットグループは10月27日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）を支払う懸賞金制度を始めると発表した。28日正午から専用窓口で情報提供を受け付ける。 国内外の法人・個人か...",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "fetched_at": "2026-10-27T13:32:21+00:00",
+      "summary": "Statement by His Excellency Mr Ayman Al-Sayari, Governor of the Saudi Central Bank, to the International Monetary and Financial Committee (IMFC), Bangkok, 17 October 2026.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Macro/Policy"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "594ef1d72825a44758d9"
+      "id": "0ba3727d3ab668bafdc0"
     }
   ],
   "source_errors": [],

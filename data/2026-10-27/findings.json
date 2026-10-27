@@ -129,6 +129,52 @@
     "id": "d62b5bfc86fbc9dde963"
   },
   {
+    "title": "[NEU] [mittel] Nextcloud (Server, Tables, Whiteboard, Files Confidential, Collectives, Richdocuments): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4185",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-27T13:26:33+00:00",
+    "fetched_at": "2026-10-27T13:32:21+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Nextcloud ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "222184288648063dfe25"
+  },
+  {
+    "title": "[UPDATE] [hoch] xz: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0942",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-27T13:21:36+00:00",
+    "fetched_at": "2026-10-27T13:32:21+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in xz ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0716b4385f09ec1cb833"
+  },
+  {
     "title": "[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3703",
     "source": "BSI CERT-Bund Security Advisories",
@@ -957,6 +1003,27 @@
     "id": "2a3669eeee748f5f1e0e"
   },
   {
+    "title": "Monetary policy in times of geopolitical tensions and technological disruption",
+    "url": "https://www.bis.org/speeches/20261027-monetary-policy-times-geopolitical-tensions-and-technological-disruption",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "fetched_at": "2026-10-27T13:32:21+00:00",
+    "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland, at the CEPS Macro group webinar, Helsinki, 20 October 2026.",
+    "matched_keywords": [
+      "macro",
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); macro (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a1ab2d9b8de5fb2cedae"
+  },
+  {
     "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
     "url": "https://tech.newmo.me/entry/2026/10/27/100000",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1303,6 +1370,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2ea395985ed085137b0a"
+  },
+  {
+    "title": "Statement to the International Monetary and Financial Committee (IMFC)",
+    "url": "https://www.bis.org/speeches/20261027-statement-international-monetary-and-financial-committee-imfc",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "fetched_at": "2026-10-27T13:32:21+00:00",
+    "summary": "Statement by His Excellency Mr Ayman Al-Sayari, Governor of the Saudi Central Bank, to the International Monetary and Financial Committee (IMFC), Bangkok, 17 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ba3727d3ab668bafdc0"
   },
   {
     "title": "GitHub Copilot assisted permissions generally available",

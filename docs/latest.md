@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T13:08:40+00:00_
+_Generiert: 2026-10-27T13:32:50+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+69 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 ## Priorität Hoch
 
@@ -57,14 +57,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Apache HTTP Server: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3703)
+- **[NEU] [mittel] Nextcloud (Server, Tables, Whiteboard, Files Confidential, Collectives, Richdocuments): Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4185)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-27T12:56:42+00:00`, fetched `2026-10-27T13:08:12+00:00`
+  - Zeit: published `2026-10-27T13:26:33+00:00`, fetched `2026-10-27T13:32:21+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Apache HTTP Server ausnutzen, um beliebigen Programmcode auszuführen, die Authentifizierung zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Nextcloud ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände auszulösen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN90463048/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: The most telling line in Publicis’ announcement of a new AI Development Hub in Singapore isn’t about technology. It’s the promise that the hub will create roles rather than remove them. The hub itself is a serious bet: engineers, data scientists and product designers working alongside strategists to build proprietary marketing technology in Singapore and […] The post Agencies don’t have a hiring problem. They have t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Monetary policy in times of geopolitical tensions and technological disruption** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261027-monetary-policy-times-geopolitical-tensions-and-technological-disruption)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-27T00:00:00+00:00`, fetched `2026-10-27T13:32:21+00:00`
+  - Treffer: macro, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); macro (+2.0); recent (+1.0)
+  - Kurz: Speech by Mr Olli Rehn, Governor of the Bank of Finland, at the CEPS Macro group webinar, Helsinki, 20 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **プルリクエストのリスクを判定する仕組み - newmo 技術ブログ** — Score 8, observation — [Quelle](https://tech.newmo.me/entry/2026/10/27/100000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-27T05:57:00+00:00`, fetched `2026-10-27T09:42:24+00:00`
@@ -222,15 +231,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: Welcoming remarks by Mr Marzunisham Omar, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at Malaysia's Designated Non-Financial Businesses and Professions (DNFBP) Compliance Conference 2026, Kuala Lumpur, 22 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **php2shell: Erfolgreiche Angriffe bestätigt, noch viele Instanzen ungepatcht** — Score 7, observation — [Quelle](https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-27T08:02:00.000+00:00`, fetched `2026-10-27T08:30:25+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Seit Bekanntwerden der php2shell-Schwachstelle laufen Angriffe darauf. Am Wochenende wurden erste erfolgreiche Attacken bestätigt.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
