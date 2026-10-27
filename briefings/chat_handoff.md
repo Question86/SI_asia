@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T05:53:25+00:00_
+_Generated: 2026-10-27T06:01:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `26`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-27T05:53:25+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt
 - summary: Time 2026-10-27 00:25:08 UTC 2026-10-27 00:25:08 UTC at epicenter Location 37.387°N 141.625°E Depth 48.93 km (30.40 mi)
 
-### 3. Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性
+### 3. GROWIにおける複数の脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-10-27T15:00:00+09:00`
+- url: https://jvn.jp/jp/JVN51223238/
+- summary: 株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。
+
+### 4. Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-27T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN90463048/
 - summary: フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。
-
-### 4. Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-27T10:30:15+09:00`
-- url: https://jvn.jp/vu/JVNVU90547696/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス
 - source: Hatena Bookmark Hotentry IT
