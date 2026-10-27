@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T19:17:27+00:00",
+  "generated_at": "2026-10-27T19:24:16+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -276,6 +276,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_027b83bb97c2c7c951a9",
+      "title": "M 5.4 - 210 km ENE of Nagqu, China",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_02871ff378536b75d388",
@@ -4730,7 +4741,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3896649e3fead249e70b",
