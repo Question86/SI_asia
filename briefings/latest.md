@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T19:48:30+00:00_
+_Generiert: 2026-10-27T19:56:28+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-10-27T19:48:30+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-48356 Adobe Commerce and Magento** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-27`
+  - Kurz: Known exploited vulnerability. Added 2026-10-27. Due 2026-11-10. Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability
+- **CISA KEV: CVE-2026-111497 Google Brotli** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-27`
+  - Kurz: Known exploited vulnerability. Added 2026-10-27. Due 2026-11-10. Google Brotli Unchecked Return Value Vulnerability
 - **CISA KEV: CVE-2026-109618 PHP Group PHP** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-26`
@@ -21,14 +29,6 @@ _Generiert: 2026-10-27T19:48:30+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`
   - Kurz: Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Arista VeloCloud Orchestrator SQL Injection Vulnerability
-- **CISA KEV: CVE-2026-110447 Collabora Collabora Online – Built-in CODE Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-23`
-  - Kurz: Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Collabora Online – Built-in CODE Server OS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-20`
-  - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574115)
   - Quelle: GDACS
   - Zeit: ``

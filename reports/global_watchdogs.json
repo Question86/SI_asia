@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-27T19:48:34+00:00",
+  "generated_at": "2026-10-27T19:56:35+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-48356 Adobe Commerce and Magento",
+        "summary": "Known exploited vulnerability. Added 2026-10-27. Due 2026-11-10. Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-27",
+        "metrics": {
+          "cve": "CVE-2026-48356"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-111497 Google Brotli",
+        "summary": "Known exploited vulnerability. Added 2026-10-27. Due 2026-11-10. Google Brotli Unchecked Return Value Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-27",
+        "metrics": {
+          "cve": "CVE-2026-111497"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -36,30 +60,6 @@
         "published_at": "2026-10-23",
         "metrics": {
           "cve": "CVE-2026-114625"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-110447 Collabora Collabora Online – Built-in CODE Server",
-        "summary": "Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-23",
-        "metrics": {
-          "cve": "CVE-2026-110447"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition",
-        "summary": "Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-20",
-        "metrics": {
-          "cve": "CVE-2026-106931"
         }
       },
       {
