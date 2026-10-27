@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T16:49:05+00:00_
+_Generiert: 2026-10-27T16:57:44+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+87 neue relevante Treffer. Stärkstes Signal: „OpenAI expands partnership with Oracle to bring its apps to ChatGPT“ aus OpenAI News RSS (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **OpenAI expands partnership with Oracle to bring its apps to ChatGPT** — Score 20, opportunity — [Quelle](https://openai.com/index/oracle-apps-in-chatgpt)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-27T07:00:00+00:00`, fetched `2026-10-27T16:57:11+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students** — Score 18, opportunity — [Quelle](https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-27T01:00:28+00:00`, fetched `2026-10-27T02:53:54+00:00`

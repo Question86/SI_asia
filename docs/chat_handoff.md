@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T16:49:05+00:00_
+_Generated: 2026-10-27T16:57:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `86`
+- findings: `87`
 
 ## Top Signals
 
-### 1. QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students
+### 1. OpenAI expands partnership with Oracle to bring its apps to ChatGPT
+- source: OpenAI News RSS
+- score: `20`
+- published: `2026-10-27T07:00:00+00:00`
+- url: https://openai.com/index/oracle-apps-in-chatgpt
+- summary: OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.
+
+### 2. QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-10-27T01:00:28+00:00`
 - url: https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/
 - summary: Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that g…
 
-### 2. M 5.4 - 128 km S of Pundong, Indonesia
+### 3. M 5.4 - 128 km S of Pundong, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `17`
 - published: `2026-10-27T15:17:39.798+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf
 - summary: ShakeMap - III Time 2026-10-27 14:44:00 UTC 2026-10-27 14:44:00 UTC at epicenter Location 9.116°S 110.331°E Depth 10.00 km (6.21 mi)
 
-### 3. [UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-27T11:33:40+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147
 - summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Flatpack ausnutzen, um Dateien zu manipulieren.
-
-### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-27T11:33:39+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (FreeIPMI) ausnutzen, um beliebigen Programmcode auszuführen und um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything
 - source: e27 Asia Startup and Tech Feed
