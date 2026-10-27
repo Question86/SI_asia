@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T08:53:24+00:00_
+_Generated: 2026-10-27T09:03:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `38`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-27T08:53:24+00:00_
 - url: https://github.com/yuiseki/map-from-scratch
 - summary: 「X をしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小で最速の地図の描画器をほぼゼロから作り、計測で確かめるためのスキルとハーネスです。 汎用の地図エンジンは作らず、依頼ごとに描画器そのものを作り直します。平面でだけ見せたい依頼なら、3 次元描画のための処理の大半は最初から要りませ...
 
-### 7. M 4.9 - 69 km WSW of Kirakira, Solomon Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-27T02:22:17.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4
-- summary: Time 2026-10-27 02:02:55 UTC 2026-10-27 02:02:55 UTC at epicenter Location 10.668°S 161.319°E Depth 35.00 km (21.75 mi)
+### 7. Monetary developments in the euro area: September 2026
+- source: ECB Statistical Press Releases
+- score: `10`
+- published: `2026-10-27T09:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/stats/md/html/ecb.md2609~dd1bf1b2e4.en.html
+- summary: Monetary developments in the euro area: September 2026
 
-### 8. Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media
-- source: Hatena Bookmark Hotentry IT
-- score: `9`
-- published: `2026-10-27T01:28:51+00:00`
-- url: https://iret.media/210349
-- summary: こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...
+### 8. October 2026 euro area bank lending survey
+- source: ECB Press Releases Speeches Interviews
+- score: `10`
+- published: `2026-10-27T00:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html
+- summary: October 2026 euro area bank lending survey
 
 END OF DOCUMENT
