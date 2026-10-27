@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T22:00:56+00:00",
-  "run_id": "2026-10-27T22:00:56+00:00",
+  "generated_at": "2026-10-27T22:15:51+00:00",
+  "run_id": "2026-10-27T22:15:51+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 90
+      "configured_public_sources_only": 92
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 90,
-    "displayed_findings": 90,
+    "new_relevant_findings": 2,
+    "today_file_total": 92,
+    "displayed_findings": 92,
     "high": 0,
     "medium": 24,
-    "observe": 66,
+    "observe": 68,
     "source_errors": 0
   },
   "sections": {
@@ -1422,6 +1422,28 @@
         "id": "e54a6ffb0d786b2bfc22"
       },
       {
+        "title": "3回つくってわかった、 定期実行ジョブ基盤の本質情報",
+        "url": "https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T10:14:52+00:00",
+        "fetched_at": "2026-10-27T22:15:23+00:00",
+        "summary": "Kaigi on Rails 2026",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cdc1f351181fd03c9f19"
+      },
+      {
         "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
         "url": "https://tech.newmo.me/entry/2026/10/27/100000",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1677,6 +1699,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a603023b09acf7798319"
+      },
+      {
+        "title": "GitHub Copilot supports server-to-server authentication",
+        "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-27T21:36:55+00:00",
+        "fetched_at": "2026-10-27T22:15:23+00:00",
+        "summary": "GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview. Services and agents built with the GitHub Copilot SDK can now make requests on… The post GitHub Copilot supports server-to-server authentication appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "35fa5e239eb2c485ab23"
       },
       {
         "title": "Ecosystem Roundup: Bukalapak stays in the black as gaming carries the load",
@@ -3646,6 +3689,28 @@
       "id": "e54a6ffb0d786b2bfc22"
     },
     {
+      "title": "3回つくってわかった、 定期実行ジョブ基盤の本質情報",
+      "url": "https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T10:14:52+00:00",
+      "fetched_at": "2026-10-27T22:15:23+00:00",
+      "summary": "Kaigi on Rails 2026",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cdc1f351181fd03c9f19"
+    },
+    {
       "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
       "url": "https://tech.newmo.me/entry/2026/10/27/100000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3901,6 +3966,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a603023b09acf7798319"
+    },
+    {
+      "title": "GitHub Copilot supports server-to-server authentication",
+      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-27T21:36:55+00:00",
+      "fetched_at": "2026-10-27T22:15:23+00:00",
+      "summary": "GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview. Services and agents built with the GitHub Copilot SDK can now make requests on… The post GitHub Copilot supports server-to-server authentication appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "35fa5e239eb2c485ab23"
     },
     {
       "title": "Ecosystem Roundup: Bukalapak stays in the black as gaming carries the load",
@@ -4479,26 +4565,47 @@
   ],
   "new_findings": [
     {
-      "title": "コードを読まずにマージするために必要なこと",
-      "url": "https://zenn.dev/nrs/articles/c777388530aa84",
+      "title": "3回つくってわかった、 定期実行ジョブ基盤の本質情報",
+      "url": "https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-27T11:07:58+00:00",
-      "fetched_at": "2026-10-27T22:00:23+00:00",
-      "summary": "AI に実装を任せると PR が次々にできあがります。 その差分を開発者がひとつずつ読み、指摘を返して修正を待ち、修正後のコードをまた読む。 実装が速くなった分だけレビュー待ちの PR がたまっていきます。 人がコードを読まずに PR をマージする「no look merge」を実現するには何が必要でしょうか。 品質の確認とマ...",
+      "published_at": "2026-10-27T10:14:52+00:00",
+      "fetched_at": "2026-10-27T22:15:23+00:00",
+      "summary": "Kaigi on Rails 2026",
       "matched_keywords": [
-        "AI/KI",
+        "APAC Trend Radar",
         "Hatena",
         "hotentry"
       ],
       "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e54a6ffb0d786b2bfc22"
+      "id": "cdc1f351181fd03c9f19"
+    },
+    {
+      "title": "GitHub Copilot supports server-to-server authentication",
+      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-27T21:36:55+00:00",
+      "fetched_at": "2026-10-27T22:15:23+00:00",
+      "summary": "GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview. Services and agents built with the GitHub Copilot SDK can now make requests on… The post GitHub Copilot supports server-to-server authentication appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "35fa5e239eb2c485ab23"
     }
   ],
   "source_errors": [],
