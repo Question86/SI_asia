@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T01:20:30+00:00",
+  "generated_at": "2026-10-27T02:34:20+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1649,7 +1649,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T23:45:53+00:00",
-      "last_seen_at": "2026-10-27T01:20:10+00:00",
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
       "status": "active"
     },
     {
@@ -10714,6 +10714,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_1e8ca1f85d61e2d5721f",
+      "title": "M 4.9 - 69 km WSW of Kirakira, Solomon Islands",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -12380,6 +12397,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d2a30651f01fb51f0946",
+      "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_a6f10a882a1c609aabaa",
+      "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -12806,6 +12857,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5b75c43cb8790d84a619",
+      "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
+      "event_classes": [
+        "funding"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1088000.0,
+      "p50_usd": 27200000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5a8609c38e0d544999d3",
       "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
       "event_classes": [
@@ -12836,7 +12904,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-10-27T01:20:10+00:00",
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
       "status": "active"
     },
     {
@@ -19896,6 +19964,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3827bdebe5d2a1d43f97",
+      "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_000820d66bd74c57c867",
       "title": "ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～",
       "event_classes": [
@@ -22310,6 +22395,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_cd6584c2f1453bd65d94",
+      "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T01:20:10+00:00",
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d447a33d5476eddc0c9a",
       "title": "TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk",
       "event_classes": [
@@ -22547,23 +22649,6 @@
       "first_seen_at": "2026-10-14T04:25:37+00:00",
       "last_seen_at": "2026-10-14T05:35:18+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_cd6584c2f1453bd65d94",
-      "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 111200.0,
-      "p50_usd": 11120000.0,
-      "p90_usd": 1112000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-27T01:20:10+00:00",
-      "last_seen_at": "2026-10-27T01:20:10+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -24995,6 +25080,23 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8541cfe2d6bd44b639a1",
+      "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-27T02:34:00+00:00",
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_041397919a21c7984d11",
@@ -28156,7 +28258,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T09:59:34+00:00",
-      "last_seen_at": "2026-10-27T01:20:10+00:00",
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
       "status": "active"
     },
     {
@@ -29125,8 +29227,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:27:54+00:00",
-      "last_seen_at": "2026-10-21T23:58:11+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-27T02:34:00+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_55bd9b2d9c70fd4db796",
