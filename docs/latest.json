@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T02:33:56+00:00",
-  "run_id": "2026-10-27T02:33:56+00:00",
+  "generated_at": "2026-10-27T02:54:21+00:00",
+  "run_id": "2026-10-27T02:54:21+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,39 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 3,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 3,
-    "observe": 8,
+    "medium": 4,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
+        "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-27T01:00:28+00:00",
+        "fetched_at": "2026-10-27T02:53:54+00:00",
+        "summary": "Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into the market. Also Read: AI, quantum computing and the future […] The post QpiAI’s Singapore bet: Put quantum hardware in the hands of finance…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Markets/Capital Structure"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dc27277457f4aa29bec0"
+      },
       {
         "title": "M 4.8 - 54 km E of Tomioka, Japan",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
@@ -236,6 +258,26 @@
         "id": "b141b93b7ca1763ab429"
       },
       {
+        "title": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
+        "url": "https://www.digital.go.jp/speech/minister-261027-01",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-27T02:51:03+00:00",
+        "fetched_at": "2026-10-27T02:53:54+00:00",
+        "summary": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "43f45ed0c3d285be77c2"
+      },
+      {
         "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
         "url": "https://e27.co/stryv-bags-us11-5m-series-b-to-turn-a-hair-dryer-brand-into-a-household-appliance-group-20261026/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -254,6 +296,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a7cc25e021f8f7dbe5ff"
+      },
+      {
+        "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
+        "url": "https://group.gmo/info/alert/20261027/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T01:26:24+00:00",
+        "fetched_at": "2026-10-27T02:53:54+00:00",
+        "summary": "2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報） （【続報】お客様をお守りするために現在私たちが行っていること） 2026年10月27日 9:58時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスク...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "512d652aff527c8a9d28"
       },
       {
         "title": "ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと",
@@ -300,6 +363,28 @@
     ]
   },
   "findings": [
+    {
+      "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
+      "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-27T01:00:28+00:00",
+      "fetched_at": "2026-10-27T02:53:54+00:00",
+      "summary": "Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into the market. Also Read: AI, quantum computing and the future […] The post QpiAI’s Singapore bet: Put quantum hardware in the hands of finance…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dc27277457f4aa29bec0"
+    },
     {
       "title": "M 4.8 - 54 km E of Tomioka, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
@@ -505,6 +590,26 @@
       "id": "b141b93b7ca1763ab429"
     },
     {
+      "title": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261027-01",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-27T02:51:03+00:00",
+      "fetched_at": "2026-10-27T02:53:54+00:00",
+      "summary": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "43f45ed0c3d285be77c2"
+    },
+    {
       "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
       "url": "https://e27.co/stryv-bags-us11-5m-series-b-to-turn-a-hair-dryer-brand-into-a-household-appliance-group-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -523,6 +628,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a7cc25e021f8f7dbe5ff"
+    },
+    {
+      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
+      "url": "https://group.gmo/info/alert/20261027/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T01:26:24+00:00",
+      "fetched_at": "2026-10-27T02:53:54+00:00",
+      "summary": "2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報） （【続報】お客様をお守りするために現在私たちが行っていること） 2026年10月27日 9:58時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスク...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "512d652aff527c8a9d28"
     },
     {
       "title": "ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと",
@@ -569,157 +695,55 @@
   ],
   "new_findings": [
     {
-      "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU90547696/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-27T10:30:15+09:00",
-      "fetched_at": "2026-10-27T02:33:24+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "db1cedbb7715b58692ca"
-    },
-    {
-      "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU90363302/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-27T10:30:00+09:00",
-      "fetched_at": "2026-10-27T02:33:24+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "848cddeef47a357a5ae6"
-    },
-    {
-      "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
-      "url": "https://github.com/yuiseki/map-from-scratch",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-26T12:01:11+00:00",
-      "fetched_at": "2026-10-27T02:33:24+00:00",
-      "summary": "「X をしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小で最速の地図の描画器をほぼゼロから作り、計測で確かめるためのスキルとハーネスです。 汎用の地図エンジンは作らず、依頼ごとに描画器そのものを作り直します。平面でだけ見せたい依頼なら、3 次元描画のための処理の大半は最初から要りませ...",
-      "matched_keywords": [
-        "AI/KI",
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6dacac6493df9e155e71"
-    },
-    {
-      "title": "M 4.9 - 69 km WSW of Kirakira, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-27T02:22:17.040+00:00",
-      "fetched_at": "2026-10-27T02:33:24+00:00",
-      "summary": "Time 2026-10-27 02:02:55 UTC 2026-10-27 02:02:55 UTC at epicenter Location 10.668°S 161.319°E Depth 35.00 km (21.75 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "80546ef546a60059124e"
-    },
-    {
-      "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
-      "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/",
+      "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
+      "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-27T02:00:11+00:00",
-      "fetched_at": "2026-10-27T02:33:24+00:00",
-      "summary": "From 5–7 October, I organised and attended the Strategic Renaissance 21 (SR21) × World Governments Summit workshop in Dubai. The three-day gathering brought together 48 senior leaders from government, finance, technology, defense, and academia to explore a common theme: The Breaking Point. The conference itself was an interesting experiment in AI-enabled event design. As my […] The post From conference attendee to i…",
+      "published_at": "2026-10-27T01:00:28+00:00",
+      "fetched_at": "2026-10-27T02:53:54+00:00",
+      "summary": "Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into the market. Also Read: AI, quantum computing and the future […] The post QpiAI’s Singapore bet: Put quantum hardware in the hands of finance…",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Markets/Capital Structure"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "30c7d2d72f50dc6594d9"
+      "id": "dc27277457f4aa29bec0"
     },
     {
-      "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
-      "url": "https://e27.co/stryv-bags-us11-5m-series-b-to-turn-a-hair-dryer-brand-into-a-household-appliance-group-20261026/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261027-01",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-10-27T02:00:33+00:00",
-      "fetched_at": "2026-10-27T02:33:24+00:00",
-      "summary": "A few years ago, Stryv’s pitch fitted into a single product: a professional-grade hair dryer that did not cost as much as the famous ones. Today, the Singapore company sells massage chairs and air purifiers too, and it has just raised fresh money to keep adding categories, markets and, if the right targets appear, entire […] The post Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance…",
+      "published_at": "2026-10-27T02:51:03+00:00",
+      "fetched_at": "2026-10-27T02:53:54+00:00",
+      "summary": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
       "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a7cc25e021f8f7dbe5ff"
+      "id": "43f45ed0c3d285be77c2"
     },
     {
-      "title": "ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと",
-      "url": "https://internet.watch.impress.co.jp/docs/special/2151050.html",
+      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
+      "url": "https://group.gmo/info/alert/20261027/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-26T21:44:05+00:00",
-      "fetched_at": "2026-10-27T02:33:24+00:00",
-      "summary": "ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと",
+      "published_at": "2026-10-27T01:26:24+00:00",
+      "fetched_at": "2026-10-27T02:53:54+00:00",
+      "summary": "2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報） （【続報】お客様をお守りするために現在私たちが行っていること） 2026年10月27日 9:58時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスク...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -731,7 +755,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5b37f177cb330ba468cc"
+      "id": "512d652aff527c8a9d28"
     }
   ],
   "source_errors": [],
