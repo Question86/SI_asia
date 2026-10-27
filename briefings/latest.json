@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T05:23:56+00:00",
-  "run_id": "2026-10-27T05:23:56+00:00",
+  "generated_at": "2026-10-27T05:40:11+00:00",
+  "run_id": "2026-10-27T05:40:11+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 21,
     "displayed_findings": 21,
     "high": 0,
@@ -1019,45 +1019,7 @@
       "id": "a46ced2ce1cdd2031cd2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "3 scenarios for October 28: Which one breaks Bitcoin’s US$80,000 resistance",
-      "url": "https://e27.co/3-scenarios-for-october-28-which-one-breaks-bitcoins-us80000-resistance-20261027/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-27T05:02:50+00:00",
-      "fetched_at": "2026-10-27T05:23:26+00:00",
-      "summary": "The crypto market is holding its breath. Bitcoin has spent the morning oscillating in a narrow band between US$79,300 and US$80,000. This tight range reflects broader paralysis across digital assets ahead of the United States Federal Reserve’s final rate decision on 28 October 2026. This is not a quiet consolidation. It is a standoff between […] The post 3 scenarios for October 28: Which one breaks Bitcoin’s US$80,0…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy",
-        "Watchgraph:macro_fx_company_numbers"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States, Federal Reserve (+2.0); watchgraph modules macro_fx_company_numbers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "macro_fx_company_numbers"
-      ],
-      "watchgraph_reasons": [
-        "macro_fx_company_numbers: rate decision"
-      ],
-      "market_context": [
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "386610d68abc0ebffce9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
