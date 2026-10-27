@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-27T18:38:40Z",
+  "generated_at": "2026-10-27T19:11:22Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] xz: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0942",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T13:21:36+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -36,35 +36,11 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in xz ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
-      "title": "GROWIにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN51223238/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-27T15:00:00+09:00",
-      "age_days": 0.53,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。"
-    },
-    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:39+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -90,7 +66,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3703",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T12:56:42+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -116,7 +92,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4163",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:01:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -142,7 +118,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3965",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T08:51:29+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -168,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:40+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -193,7 +169,7 @@
       "url": "https://home.riise.hiroshima-u.ac.jp/~ten/slide_20240328.pdf?utm_source=chatgpt.com",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T11:47:50+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -219,7 +195,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T02:54:24+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -246,7 +222,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T01:00:28+00:00",
-      "age_days": 0.73,
+      "age_days": 0.76,
       "topics": [
         "ai",
         "macro"
@@ -274,7 +250,7 @@
       "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-27T07:00:00+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -296,11 +272,40 @@
       "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
     },
     {
+      "title": "Scene-setting remarks on digital safety",
+      "url": "https://www.bis.org/speeches/20261027-scene-setting-remarks-digital-safety",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 131.19,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.27,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.27",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 131.2d old signal",
+        "stale single-source cap after 30d: no current exploitation phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 131.91,
+      "age_days": 131.94,
       "topics": [
         "ai"
       ],
@@ -334,8 +339,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 10,
-      "watch": 1
+      "strong": 9,
+      "watch": 2
     }
   }
 }
