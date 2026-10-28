@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T04:49:38+00:00_
+_Generiert: 2026-10-28T04:57:30+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+25 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -202,6 +202,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ELF-MN1 | 空間再現ディスプレイ（Spatial Reality Display） | ソニー** — Score 8, risk — [Quelle](https://www.sony.jp/spatial-reality-display/products/ELF-MN1/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-28T01:56:24+00:00`, fetched `2026-10-28T04:57:00+00:00`
+  - Treffer: Hatena, hotentry, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: クーポン・お買い物券:coupon枚 ソニーポイント:pointポイント一度サインアウトして、再度サインインしてください
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-27T22:49:05+00:00`, fetched `2026-10-28T02:23:39+00:00`
@@ -210,15 +219,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **脱GPUが加速、OracleもGoogle製TPUを選択** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2151701.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-27T21:44:26+00:00`, fetched `2026-10-28T01:28:00+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 脱GPUが加速、OracleもGoogle製TPUを選択
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
