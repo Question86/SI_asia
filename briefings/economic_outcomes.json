@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T15:18:22+00:00",
+  "generated_at": "2026-10-28T15:27:37+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -7051,7 +7051,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_50b3c3060f979d361e39",
@@ -12584,7 +12584,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_8ef7dc22a0204f2e2058",
@@ -14952,6 +14952,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_abac9f354a29df1a44c8",
+      "title": "M 5.5 - 5 km ESE of Asahi, Japan",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_abada77322ef3d0f226e",
       "title": "M 4.9 - 78 km NE of Tadine, New Caledonia",
       "deduplicated_buckets": 0,
@@ -16049,7 +16060,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b6a55ff43e561e1854a6",
