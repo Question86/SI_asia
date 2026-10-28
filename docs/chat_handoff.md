@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T15:01:33+00:00_
+_Generated: 2026-10-28T15:17:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `60`
+- findings: `66`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-28T15:01:33+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-28 01:39:11 UTC 2026-10-28 01:39:11 UTC at epicenter Location 13.895°S 165.389°E Depth 10.00 km (6.21 mi)
 
-### 7. Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
+### 7. Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `13`
+- published: `2026-10-23T00:00:00+00:00`
+- url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+
+### 8. Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-10-28T08:15:22+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html
 - summary: Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
-
-### 8. Phishers now want you to type the malware in yourself
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-28T05:57:42+00:00`
-- url: https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/
-- summary: For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggest…
 
 END OF DOCUMENT

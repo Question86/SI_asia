@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-28T15:01:33+00:00",
+  "generated_at": "2026-10-28T15:17:44+00:00",
   "topics": {
     "ai": [
       {
@@ -207,6 +207,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186"
       },
       {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-23T00:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/"
+      },
+      {
         "title": "Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45",
         "source": "ECB Open Market Operations and Communication",
         "published_at": "2026-10-28T08:15:22+00:00",
@@ -235,18 +242,18 @@
         "url": "https://e27.co/muggles-struggle-wizards-juggle-what-happens-when-everyone-gets-an-ai-familiar-20261025/"
       },
       {
+        "title": "Multiples vulnérabilités dans les produits Red Hat (23 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-23T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1373/"
+      },
+      {
         "title": "Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken",
         "source": "heise Security Alerts",
         "published_at": "2026-10-28T11:35:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html"
-      },
-      {
-        "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-28T05:11:14+00:00",
-        "relevance_score": 5,
-        "url": "https://automaton-media.com/articles/newsjp/20261028-476063/"
       }
     ],
     "github": [
