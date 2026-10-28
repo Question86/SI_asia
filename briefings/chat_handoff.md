@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T06:28:03+00:00_
+_Generated: 2026-10-28T07:02:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `35`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-28T06:28:03+00:00_
 - url: https://claude.com/resources/articles/zero-trust-for-ai-agents
 - summary: We share a security framework for deploying autonomous AI agents in the enterprise, covering the new threat landscape, a tiered Zero Trust architecture, and defensive operations built for AI-accelerated attacks. Frontier AI models are compressing the timeline…
 
-### 4. OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表
-- source: Hatena Bookmark Hotentry IT
-- score: `18`
-- published: `2026-10-27T09:31:21+00:00`
-- url: https://japan.cnet.com/article/35254012/
-- summary: OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は...
+### 4. nightly-labs/openbot
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/nightly-labs/openbot
+- summary: A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. https://openbot.run/ OpenBot OpenBot is a local-first desktop wor…
 
 ### 5. M 5.6 - 174 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
