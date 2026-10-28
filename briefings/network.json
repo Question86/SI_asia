@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T03:57:18+00:00",
+  "generated_at": "2026-10-28T04:06:15+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 21,
     "clusters": 21,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 7
   },
   "clusters": [
@@ -28,20 +28,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 27.82,
+      "network_score": 27.63,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 27.82,
+      "ranking_score": 27.63,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 3.32,
+      "baseline_bonus": 3.13,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -148,18 +148,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.34,
+      "network_score": 21.23,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 20.1,
-      "ranking_score": 21.34,
+      "ranking_score": 21.23,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.84,
+      "baseline_bonus": 1.73,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -167,44 +167,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T09:22:22+00:00"
-    },
-    {
-      "key": "title:meta-sells-voteless-shares-spacex-leases-its-chips",
-      "title": "Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 19.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-28T03:40:19+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -325,6 +287,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-17T22:13:10+00:00"
+    },
+    {
+      "key": "title:meta-sells-voteless-shares-spacex-leases-its-chips",
+      "title": "Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-28T03:40:19+00:00"
     },
     {
       "key": "title:use-triage-inbound-b2b-leads-without-blasting-everyone",
@@ -838,7 +838,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-28T03:57:19Z",
+    "generated_at": "2026-10-28T04:06:16Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

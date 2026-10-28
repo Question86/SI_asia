@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T03:57:14+00:00_
+_Generiert: 2026-10-28T04:06:10+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,6 @@ _Generiert: 2026-10-28T03:57:14+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.6 - 174 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt)
-  - Quelle: USGS
-  - Zeit: `2026-10-28T02:59:48+00:00`
-  - Kurz: M5.6 - 174 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -235,3 +231,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
