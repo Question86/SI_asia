@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T05:07:43+00:00",
+  "generated_at": "2026-10-28T05:20:42+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -6336,7 +6336,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_49c07dbf00ce47eef251",
@@ -13810,12 +13810,12 @@
     {
       "event_id": "evt_9d0f58dc1c3963d075ff",
       "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -15614,12 +15614,12 @@
     {
       "event_id": "evt_b2ff91393e5729dd212b",
       "title": "ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -18305,6 +18305,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d42c15ab7982e3ea9b9d",
+      "title": "ヤマハ製NWR100における複数の脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d447a33d5476eddc0c9a",
