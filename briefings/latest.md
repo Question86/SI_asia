@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T15:26:56+00:00_
+_Generiert: 2026-10-28T15:35:33+00:00_
 
 ## Kurzlage
 
@@ -60,7 +60,7 @@ _Generiert: 2026-10-28T15:26:56+00:00_
 - **USGS earthquake M5.5 - 5 km ESE of Asahi, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe)
   - Quelle: USGS
   - Zeit: `2026-10-28T15:07:52+00:00`
-  - Kurz: M5.5 - 5 km ESE of Asahi, Japan. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 5 km ESE of Asahi, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
