@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T05:20:12+00:00",
+  "generated_at": "2026-10-28T05:29:36+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -199,10 +199,11 @@
     },
     "earthquake:philippines:5.1": {
       "title": "M 5.1 - 7 km ENE of Pangyan, Philippines",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -747,7 +748,7 @@
     },
     "earthquake:philippines:5.2": {
       "title": "M 5.2 - 6 km NW of Balangonan, Philippines",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -763,8 +764,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -2888,7 +2889,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2899,8 +2900,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -4469,9 +4470,8 @@
     },
     "domain:japan.cnet.com": {
       "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -4500,12 +4500,13 @@
         20.1,
         20.1,
         20.1,
+        20.1,
         20.1
       ],
-      "rolling_average": 17.37,
+      "rolling_average": 17.63,
       "rolling_peak": 23.1,
       "last_score": 20.1,
-      "z_hint": 2.73
+      "z_hint": 2.47
     },
     "domain:kawarimidoll.com": {
       "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
@@ -44979,9 +44980,8 @@
     },
     "domain:claude.com": {
       "title": "Zero Trust for AI agents",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
-        11.1,
         11.1,
         11.1,
         11.1,
@@ -45010,12 +45010,13 @@
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 20.07,
+      "rolling_average": 20.53,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": 5.03
+      "z_hint": 4.57
     },
     "title:multiples-vuln-rabilit-dans-oracle-weblogic-septembre-2026": {
       "title": "Multiples vulnérabilités dans Oracle Weblogic (16 septembre 2026)",
@@ -56426,9 +56427,8 @@
     },
     "title:100": {
       "title": "AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
-        8.1,
         8.1,
         8.1,
         8.1,
@@ -56457,12 +56457,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.73,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.63
+      "z_hint": -0.6
     },
     "url:https://zenn.dev/kmizu/articles/2026-09-parser-book": {
       "title": "『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）",
@@ -94613,7 +94614,7 @@
     },
     "title:netsuite-james-chisham-sea-invoicing-maze-data-residency": {
       "title": "NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         28.1,
         25.1,
@@ -94632,16 +94633,17 @@
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.27,
+      "rolling_average": 25.26,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:most-dangerous-thing-about-isn-hallucination-that-stopped": {
       "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -94659,16 +94661,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.28,
+      "rolling_average": 10.27,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "title:gpu-oracle-google-tpu": {
       "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -94685,16 +94688,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.29,
+      "rolling_average": 7.28,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:will-shopping-agents-change-amazon-retail": {
       "title": "How will AI shopping agents change Amazon and retail?",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         28.1,
         25.1,
@@ -94708,16 +94712,17 @@
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.33,
+      "rolling_average": 25.31,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "earthquake:m 5.5 - 221 km nw of port-olry, vanuatu:5.5": {
       "title": "M 5.5 - 221 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -94731,16 +94736,17 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 15.93,
+      "rolling_average": 15.91,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:inside-singapore-push-lighthouses-rice-importers-robot-labs": {
       "title": "Inside Singapore’s AI push: Lighthouses, rice importers and robot labs",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -94754,16 +94760,41 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.33,
+      "rolling_average": 12.31,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:macbook-pro": {
       "title": "アップル、M6搭載の新型「MacBook Pro」発表 11月6日発売",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.31,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.21
+    },
+    "title:machgl-90kb-100mb": {
+      "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -94784,31 +94815,9 @@
       "last_score": 7.1,
       "z_hint": -0.23
     },
-    "title:machgl-90kb-100mb": {
-      "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
-      "updated_at": "2026-10-28T05:20:12+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.35,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.25
-    },
     "earthquake:m 4.8 - 217 km nw of port-olry, vanuatu:4.8": {
       "title": "M 4.8 - 217 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -94820,16 +94829,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.97,
+      "rolling_average": 11.95,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "earthquake:m 5.2 - 220 km nw of port-olry, vanuatu:5.2": {
       "title": "M 5.2 - 220 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -94841,16 +94851,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.97,
+      "rolling_average": 11.95,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "earthquake:m 6.0 - 214 km nw of port-olry, vanuatu:6.0": {
       "title": "M 6.0 - 214 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -94862,16 +94873,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.97,
+      "rolling_average": 11.95,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "earthquake:m 5.6 - 174 km nw of port-olry, vanuatu:5.6": {
       "title": "M 5.6 - 174 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -94882,16 +94894,17 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 16.0,
+      "rolling_average": 15.97,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:meta-sells-voteless-shares-spacex-leases-its-chips": {
       "title": "Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -94902,16 +94915,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.4,
+      "rolling_average": 14.37,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:use-triage-inbound-b2b-leads-without-blasting-everyone": {
       "title": "How we use AI to triage inbound B2B leads without blasting everyone the same way",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -94922,16 +94936,17 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.4,
+      "rolling_average": 13.37,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:tbs-news-dig-powered-jnn-yahoo": {
       "title": "トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -94942,87 +94957,106 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.4,
+      "rolling_average": 11.37,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:fed-decides-today-here-are-levels-every-bitcoin": {
       "title": "The Fed decides today: Here are the 2 levels every Bitcoin trader should watch",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         15.1,
         12.1,
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.6,
+      "rolling_average": 12.53,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:muggles-struggle-wizards-juggle-what-happens-when-everyone": {
       "title": "Muggles struggle, wizards juggle: What happens when everyone gets an AI familiar",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         15.1,
         12.1,
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.6,
+      "rolling_average": 12.53,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "earthquake:m 5.0 - 200 km w of sola, vanuatu:5.0": {
       "title": "M 5.0 - 200 km W of Sola, Vanuatu",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.45,
+      "rolling_average": 12.3,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:elf-mn1-spatial-reality-display": {
       "title": "ELF-MN1 | 空間再現ディスプレイ（Spatial Reality Display） | ソニー",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         13.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 10.85,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:yamaha-lan-monitor-windows-dll": {
       "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.6,
+      "rolling_average": 17.1,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:yms-vpn8-yms-vpn8": {
       "title": "ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性",
-      "updated_at": "2026-10-28T05:20:12+00:00",
+      "updated_at": "2026-10-28T05:29:36+00:00",
+      "network_scores": [
+        19.1,
+        16.1,
+        16.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -1.0
+    },
+    "title:nwr100": {
+      "title": "ヤマハ製NWR100における複数の脆弱性",
+      "updated_at": "2026-10-28T05:29:36+00:00",
       "network_scores": [
         19.1,
         16.1
@@ -95031,17 +95065,6 @@
       "rolling_peak": 19.1,
       "last_score": 16.1,
       "z_hint": -1.5
-    },
-    "title:nwr100": {
-      "title": "ヤマハ製NWR100における複数の脆弱性",
-      "updated_at": "2026-10-28T05:20:12+00:00",
-      "network_scores": [
-        19.1
-      ],
-      "rolling_average": 19.1,
-      "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
     }
   }
 }
