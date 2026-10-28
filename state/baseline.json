@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T01:47:35+00:00",
+  "generated_at": "2026-10-28T01:54:29+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -199,7 +199,7 @@
     },
     "earthquake:philippines:5.1": {
       "title": "M 5.1 - 7 km ENE of Pangyan, Philippines",
-      "updated_at": "2026-10-28T01:47:35+00:00",
+      "updated_at": "2026-10-28T01:54:29+00:00",
       "network_scores": [
         17.7,
         20.7,
@@ -207,12 +207,13 @@
         17.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 18.13,
+      "rolling_average": 18.07,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "earthquake:philippines:5.0": {
       "title": "M 5.0 - 38 km WSW of Palimbang, Philippines",
@@ -733,7 +734,7 @@
     },
     "earthquake:philippines:5.2": {
       "title": "M 5.2 - 6 km NW of Balangonan, Philippines",
-      "updated_at": "2026-10-28T01:47:35+00:00",
+      "updated_at": "2026-10-28T01:54:29+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -763,13 +764,13 @@
         17.7,
         17.7,
         17.7,
-        17.7,
-        20.7
+        20.7,
+        17.7
       ],
       "rolling_average": 17.8,
       "rolling_peak": 20.7,
-      "last_score": 20.7,
-      "z_hint": 2.9
+      "last_score": 17.7,
+      "z_hint": -0.1
     },
     "earthquake:m 4.5, peru-brazil border region:4.5": {
       "title": "M 4.5, Peru-Brazil Border Region",
@@ -2874,7 +2875,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
-      "updated_at": "2026-10-28T01:47:35+00:00",
+      "updated_at": "2026-10-28T01:54:29+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2899,8 +2900,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -4455,9 +4456,8 @@
     },
     "domain:japan.cnet.com": {
       "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
-      "updated_at": "2026-10-28T01:47:35+00:00",
+      "updated_at": "2026-10-28T01:54:29+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -4486,12 +4486,13 @@
         20.1,
         20.1,
         20.1,
+        20.1,
         20.1
       ],
-      "rolling_average": 13.63,
+      "rolling_average": 13.9,
       "rolling_peak": 23.1,
       "last_score": 20.1,
-      "z_hint": 6.47
+      "z_hint": 6.2
     },
     "domain:kawarimidoll.com": {
       "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
@@ -44965,9 +44966,8 @@
     },
     "domain:claude.com": {
       "title": "Zero Trust for AI agents",
-      "updated_at": "2026-10-28T01:47:35+00:00",
+      "updated_at": "2026-10-28T01:54:29+00:00",
       "network_scores": [
-        11.1,
         11.1,
         11.1,
         11.1,
@@ -44996,12 +44996,13 @@
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 13.53,
+      "rolling_average": 14.0,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": 11.57
+      "z_hint": 11.1
     },
     "title:multiples-vuln-rabilit-dans-oracle-weblogic-septembre-2026": {
       "title": "Multiples vulnérabilités dans Oracle Weblogic (16 septembre 2026)",
@@ -56411,8 +56412,8 @@
       "z_hint": 0.0
     },
     "title:100": {
-      "title": "デジタル庁ダッシュボードシリーズがグッドデザイン・ベスト100を受賞しました",
-      "updated_at": "2026-10-15T23:57:11+00:00",
+      "title": "AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」",
+      "updated_at": "2026-10-28T01:54:29+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -56443,12 +56444,12 @@
         8.1,
         8.1,
         8.1,
-        8.1
+        10.1
       ],
-      "rolling_average": 8.1,
-      "rolling_peak": 8.1,
-      "last_score": 8.1,
-      "z_hint": 0.0
+      "rolling_average": 8.17,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 1.93
     },
     "url:https://zenn.dev/kmizu/articles/2026-09-parser-book": {
       "title": "『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）",
@@ -94599,42 +94600,45 @@
     },
     "title:netsuite-james-chisham-sea-invoicing-maze-data-residency": {
       "title": "NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong",
-      "updated_at": "2026-10-28T01:47:35+00:00",
+      "updated_at": "2026-10-28T01:54:29+00:00",
       "network_scores": [
         28.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.85,
+      "rolling_average": 25.7,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:most-dangerous-thing-about-isn-hallucination-that-stopped": {
       "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",
-      "updated_at": "2026-10-28T01:47:35+00:00",
+      "updated_at": "2026-10-28T01:54:29+00:00",
       "network_scores": [
         13.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 10.85,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:gpu-oracle-google-tpu": {
       "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
-      "updated_at": "2026-10-28T01:47:35+00:00",
+      "updated_at": "2026-10-28T01:54:29+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }

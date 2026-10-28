@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T01:47:31+00:00_
+_Generated: 2026-10-28T01:54:26+00:00_
 
 ## Status
-- status: `normal`
-- findings: `8`
+- status: `warning`
+- findings: `9`
 
 ## Top Signals
 
@@ -49,5 +49,12 @@ _Generated: 2026-10-28T01:47:31+00:00_
 - published: `2026-10-27T21:44:26+00:00`
 - url: https://pc.watch.impress.co.jp/docs/news/2151701.html
 - summary: 脱GPUが加速、OracleもGoogle製TPUを選択
+
+### 7. AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-10-27T03:29:58+00:00`
+- url: https://codezine.jp/article/detail/29762
+- summary: 最近では、エンジニアがデザインをAIで生成してそのまま実装に落とし込むケースが増えています。しかし、その際に直面するのは、見た目は整っているのにUI/UXが機能せず、サイトが想定通りに使われないという問題です。本連載ではそんなエンジニアのために、UXを改善するヒントを株式会社Faciloのフロントエンドエンジニ...
 
 END OF DOCUMENT

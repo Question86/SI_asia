@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T01:47:31+00:00_
+_Generiert: 2026-10-28T01:54:26+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+9 neue relevante Treffer. Stärkstes Signal: „NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 脱GPUが加速、OracleもGoogle製TPUを選択
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」** — Score 5, observation — [Quelle](https://codezine.jp/article/detail/29762)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-27T03:29:58+00:00`, fetched `2026-10-28T01:53:55+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 最近では、エンジニアがデザインをAIで生成してそのまま実装に落とし込むケースが増えています。しかし、その際に直面するのは、見た目は整っているのにUI/UXが機能せず、サイトが想定通りに使われないという問題です。本連載ではそんなエンジニアのために、UXを改善するヒントを株式会社Faciloのフロントエンドエンジニ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -98,3 +107,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_statistical_press` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
