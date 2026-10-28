@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T22:42:44+00:00",
-  "run_id": "2026-10-28T22:42:44+00:00",
+  "generated_at": "2026-10-28T22:50:01+00:00",
+  "run_id": "2026-10-28T22:50:01+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 0,
@@ -5035,30 +5035,7 @@
       "id": "477a4e61ac16edbf2a2d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI時代のシニアエンジニアとは",
-      "url": "https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-28T10:56:52+00:00",
-      "fetched_at": "2026-10-28T22:42:11+00:00",
-      "summary": "10/27 ModN Tech Lounge で発表した「AI時代のシニアエンジニアとは」という発表です。",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "36557ad5640f8b019558"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

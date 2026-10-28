@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T22:42:44+00:00_
+_Generiert: 2026-10-28T22:50:01+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-10-28T22:42:44+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-26`
   - Kurz: Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Memory Corruption Vulnerability
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:128.068km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574426)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:128.068km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574369)
   - Quelle: GDACS
   - Zeit: ``
