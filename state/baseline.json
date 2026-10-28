@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T23:56:05+00:00",
+  "generated_at": "2026-10-28T00:05:50+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -198,15 +198,16 @@
       "z_hint": 0.0
     },
     "earthquake:philippines:5.1": {
-      "title": "M 5.1, Mindanao, Philippines",
-      "updated_at": "2026-06-17T22:13:10+00:00",
+      "title": "M 5.1 - 7 km ENE of Pangyan, Philippines",
+      "updated_at": "2026-10-28T00:05:50+00:00",
       "network_scores": [
-        17.7
+        17.7,
+        20.7
       ],
-      "rolling_average": 17.7,
-      "rolling_peak": 17.7,
-      "last_score": 17.7,
-      "z_hint": 0.0
+      "rolling_average": 19.2,
+      "rolling_peak": 20.7,
+      "last_score": 20.7,
+      "z_hint": 1.5
     },
     "earthquake:philippines:5.0": {
       "title": "M 5.0 - 38 km WSW of Palimbang, Philippines",
@@ -2867,8 +2868,8 @@
       "z_hint": 0.0
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
-      "updated_at": "2026-10-23T23:59:58+00:00",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
+      "updated_at": "2026-10-28T00:05:50+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2899,12 +2900,12 @@
         18.1,
         18.1,
         18.1,
-        18.1
+        21.1
       ],
-      "rolling_average": 18.1,
-      "rolling_peak": 18.1,
-      "last_score": 18.1,
-      "z_hint": -0.0
+      "rolling_average": 18.2,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 2.9
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",

@@ -1,67 +1,25 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T23:55:58+00:00_
+_Generated: 2026-10-28T00:05:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `96`
+- findings: `2`
 
 ## Top Signals
 
-### 1. OpenAI expands partnership with Oracle to bring its apps to ChatGPT
-- source: OpenAI News RSS
-- score: `20`
-- published: `2026-10-27T07:00:00+00:00`
-- url: https://openai.com/index/oracle-apps-in-chatgpt
-- summary: OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.
-
-### 2. QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students
-- source: e27 Asia Startup and Tech Feed
-- score: `18`
-- published: `2026-10-27T01:00:28+00:00`
-- url: https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/
-- summary: Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that g…
-
-### 3. M 5.4 - 128 km S of Pundong, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `17`
-- published: `2026-10-27T15:17:39.798+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf
-- summary: ShakeMap - III Time 2026-10-27 14:44:00 UTC 2026-10-27 14:44:00 UTC at epicenter Location 9.116°S 110.331°E Depth 10.00 km (6.21 mi)
-
-### 4. [UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien
-- source: BSI CERT-Bund Security Advisories
+### 1. CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）
+- source: JVN Japan Vulnerability Notes
 - score: `16`
-- published: `2026-10-27T11:33:40+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Flatpack ausnutzen, um Dateien zu manipulieren.
+- published: `2026-10-28T09:00:00+09:00`
+- url: https://jvn.jp/vu/JVNVU96093239/
+- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 5. M 5.4 - 197 km WSW of Merizo Village, Guam
+### 2. M 5.1 - 7 km ENE of Pangyan, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-10-27T23:31:34.550+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke
-- summary: PAGER - GREEN ShakeMap - I Time 2026-10-27 23:14:16 UTC 2026-10-27 23:14:16 UTC at epicenter Location 12.698°N 142.943°E Depth 91.64 km (56.94 mi)
-
-### 6. Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything
-- source: e27 Asia Startup and Tech Feed
-- score: `13`
-- published: `2026-10-27T10:42:02+00:00`
-- url: https://e27.co/evan-goldberg-on-ai-trust-confident-answers-arent-enough-context-is-everything-20261027/
-- summary: Every enterprise software vendor now has an AI agent story. Oracle NetSuite’s version, unveiled at SuiteWorld in Las Vegas on October 26, comes with two twists: its agents are meant to know your industry, and its newest offering is designed to catch tech star…
-
-### 7. M 5.8 - 200 km NW of Port-Olry, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-10-27T09:15:11.243+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb
-- summary: PAGER - GREEN ShakeMap - IV Time 2026-10-27 08:55:23 UTC 2026-10-27 08:55:23 UTC at epicenter Location 13.896°S 165.626°E Depth 10.00 km (6.21 mi)
-
-### 8. JetBrains/thinkrail
-- source: GitHub Trending RSS All Languages Daily
-- score: `13`
-- published: `None`
-- url: https://github.com/JetBrains/thinkrail
-- summary: Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs to…
+- score: `15`
+- published: `2026-10-27T23:58:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk
+- summary: Time 2026-10-27 23:43:52 UTC 2026-10-27 23:43:52 UTC at epicenter Location 5.725°N 125.342°E Depth 63.87 km (39.69 mi)
 
 END OF DOCUMENT
