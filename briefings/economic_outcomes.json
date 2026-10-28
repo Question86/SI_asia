@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T05:56:09+00:00",
+  "generated_at": "2026-10-28T06:03:03+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -8591,7 +8591,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_62194cb8e571f2c6e25f",
@@ -13366,6 +13366,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_981bef43f0ff1feb97b4",
+      "title": "Phishers now want you to type the malware in yourself",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_9829beb8b530d4809b35",
