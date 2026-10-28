@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T11:55:30+00:00_
+_Generiert: 2026-10-28T12:03:37+00:00_
 
 ## Kurzlage
 
@@ -60,13 +60,13 @@ _Generiert: 2026-10-28T11:55:30+00:00_
 - **USGS earthquake M5.5 - Reykjanes Ridge** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc)
   - Quelle: USGS
   - Zeit: `2026-10-28T11:37:49+00:00`
-  - Kurz: M5.5 - Reykjanes Ridge. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - Reykjanes Ridge. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
