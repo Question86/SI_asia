@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:59:32+00:00",
+  "generated_at": "2026-10-28T03:40:19+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,17 +65,12 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.0 - 214 km NW of Port-Olry, Vanuatu",
-        "summary": "M6.0 - 214 km NW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
-        "published_at": "2026-10-28T02:21:45+00:00",
-        "metrics": {
-          "mag": 6.0,
-          "alert": "",
-          "sig": 554.0,
-          "tsunami": 0
-        }
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574271",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
@@ -139,13 +134,18 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI&gt;=V.",
-        "summary": "Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI&gt;=V.",
-        "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573773",
-        "published_at": "",
-        "metrics": {}
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 174 km NW of Port-Olry, Vanuatu",
+        "summary": "M5.6 - 174 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
+        "published_at": "2026-10-28T02:59:48+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "green",
+          "sig": 482.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
