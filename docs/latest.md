@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T04:06:10+00:00_
+_Generiert: 2026-10-28T04:22:36+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+23 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -114,14 +114,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click the website, maybe not. If the […] The post How we use AI to triage inbound B2B leads without blasting everyone the same way appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Inside Singapore’s AI push: Lighthouses, rice importers and robot labs** — Score 10, observation — [Quelle](https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/)
+- **The Fed decides today: Here are the 2 levels every Bitcoin trader should watch** — Score 10, observation — [Quelle](https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-28T02:00:58+00:00`, fetched `2026-10-28T02:01:59+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-10-28T04:02:21+00:00`, fetched `2026-10-28T04:22:02+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore (EnterpriseSG) that is meant to reach every rung of the AI-readiness ladder, from blue-chip […] The post Inside Singapore’s AI push: Lighthouses, rice importers…
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The October 28 crypto session clearly shows how two forces can shape prices at the same time. Bitcoin gained 0.59 per cent to US$80,576.90 over 24 hours. The total crypto market cap rose 0.64 per cent to US$2.7 trillion. My view is that the headline numbers hide an important split. Bitcoin moved with traditional markets […] The post The Fed decides today: Here are the 2 levels every Bitcoin trader should watch appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 217 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -170,7 +170,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
