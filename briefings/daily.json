@@ -1,32 +1,7 @@
 {
-  "generated_at": "2026-10-28T10:17:41+00:00",
+  "generated_at": "2026-10-28T10:26:49+00:00",
   "today_file_total": 43,
   "current_clusters": [
-    {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45",
-      "sources": [
-        "ECB Open Market Operations and Communication",
-        "ECB Statistical Press Releases"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html",
-        "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q2~b2bd701420.en.html"
-      ],
-      "finding_count": 2,
-      "max_score": 12,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": true,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 25.2,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
     {
       "key": "title:will-shopping-agents-change-amazon-retail",
       "title": "How will AI shopping agents change Amazon and retail?",
@@ -153,29 +128,29 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "domain:openai.com",
-      "title": "Legora is building the agentic operating system for legal work",
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45",
       "sources": [
-        "OpenAI News RSS"
+        "ECB Open Market Operations and Communication",
+        "ECB Statistical Press Releases"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html",
+        "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q2~b2bd701420.en.html"
       ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 21.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "finding_count": 2,
+      "max_score": 12,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.2,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
       "key": "domain:japan.cnet.com",
@@ -198,6 +173,31 @@
       "network_score": 20.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Legora is building the agentic operating system for legal work",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
