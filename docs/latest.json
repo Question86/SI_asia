@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T06:02:25+00:00",
-  "run_id": "2026-10-28T06:02:25+00:00",
+  "generated_at": "2026-10-28T06:28:03+00:00",
+  "run_id": "2026-10-28T06:28:03+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
     "medium": 11,
-    "observe": 20,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -823,6 +823,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9da4d091fd2b3cce3950"
+      },
+      {
+        "title": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
+        "url": "https://www.digital.go.jp/press/664c482f-3164-48d2-a3ee-5f1cf415cd78",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-28T06:04:22+00:00",
+        "fetched_at": "2026-10-28T06:27:35+00:00",
+        "summary": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2162aab737281fb74bd6"
       },
       {
         "title": "支給PCのスペックがショボすぎて、新人が辞めた。",
@@ -1726,6 +1746,26 @@
       "id": "9da4d091fd2b3cce3950"
     },
     {
+      "title": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
+      "url": "https://www.digital.go.jp/press/664c482f-3164-48d2-a3ee-5f1cf415cd78",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-28T06:04:22+00:00",
+      "fetched_at": "2026-10-28T06:27:35+00:00",
+      "summary": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2162aab737281fb74bd6"
+    },
+    {
       "title": "支給PCのスペックがショボすぎて、新人が辞めた。",
       "url": "https://anond.hatelabo.jp/20261028103922",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1833,25 +1873,24 @@
   ],
   "new_findings": [
     {
-      "title": "Phishers now want you to type the malware in yourself",
-      "url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
+      "url": "https://www.digital.go.jp/press/664c482f-3164-48d2-a3ee-5f1cf415cd78",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-10-28T05:57:42+00:00",
-      "fetched_at": "2026-10-28T06:01:54+00:00",
-      "summary": "For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggests attackers have read the same briefing. Increasingly, they are not after your password […] The post Phishers now want you to type the malware in yourself appea…",
+      "published_at": "2026-10-28T06:04:22+00:00",
+      "fetched_at": "2026-10-28T06:27:35+00:00",
+      "summary": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Security"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4d7d6403e7b6a03b2196"
+      "id": "2162aab737281fb74bd6"
     }
   ],
   "source_errors": [],
