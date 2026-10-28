@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T21:17:16+00:00",
+  "generated_at": "2026-10-28T21:34:29+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Legora is building the agentic operating system for legal work",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
-        18.1,
         18.1,
         18.1,
         18.1,
@@ -130,12 +129,13 @@
         24.4,
         24.4,
         24.4,
+        24.4,
         24.4
       ],
-      "rolling_average": 21.69,
+      "rolling_average": 21.9,
       "rolling_peak": 27.4,
       "last_score": 24.4,
-      "z_hint": 2.71
+      "z_hint": 2.5
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -199,7 +199,7 @@
     },
     "earthquake:philippines:5.1": {
       "title": "M 5.1 - 7 km ENE of Pangyan, Philippines",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -756,7 +756,7 @@
     },
     "earthquake:philippines:5.2": {
       "title": "M 5.2 - 6 km NW of Balangonan, Philippines",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -939,9 +939,8 @@
     },
     "domain:www.bis.org": {
       "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
-        34.1,
         34.1,
         34.1,
         14.1,
@@ -970,18 +969,18 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 13.5,
+      "rolling_average": 12.73,
       "rolling_peak": 34.1,
       "last_score": 11.1,
-      "z_hint": -2.4
+      "z_hint": -1.63
     },
     "domain:www.federalreserve.gov": {
       "title": "Federal Reserve issues FOMC statement",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
-        19.1,
         19.1,
         19.1,
         19.1,
@@ -1010,16 +1009,17 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 14.93,
+      "rolling_average": 14.67,
       "rolling_peak": 19.1,
       "last_score": 11.1,
-      "z_hint": -3.83
+      "z_hint": -3.57
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         22.2,
         22.2,
@@ -2897,7 +2897,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -3578,7 +3578,7 @@
     },
     "domain:speakerdeck.com": {
       "title": "AIがコードを書いてくれる時代、我々は何を確かめるのか",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -3586,8 +3586,8 @@
         10.1,
         10.1,
         10.1,
-        10.1,
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -4350,7 +4350,7 @@
     },
     "domain:www.heise.de": {
       "title": "Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         13.3,
         13.3,
@@ -4478,9 +4478,8 @@
     },
     "domain:japan.cnet.com": {
       "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
-        20.1,
         20.1,
         20.1,
         20.1,
@@ -4509,12 +4508,13 @@
         22.2,
         22.2,
         22.2,
+        22.2,
         22.2
       ],
-      "rolling_average": 21.81,
+      "rolling_average": 21.88,
       "rolling_peak": 25.2,
       "last_score": 22.2,
-      "z_hint": 0.39
+      "z_hint": 0.32
     },
     "domain:kawarimidoll.com": {
       "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
@@ -5868,7 +5868,7 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (xdg-dbus-proxy): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         28.6,
         28.6,
@@ -7353,7 +7353,7 @@
     },
     "earthquake:philippines:4.8": {
       "title": "M 4.8 - 29 km SSW of Sarangani, Philippines",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -22620,7 +22620,7 @@
     },
     "earthquake:indonesia:5.3": {
       "title": "M 5.3 - 159 km WNW of Tobelo, Indonesia",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -22635,7 +22635,6 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
         17.7,
         17.7,
@@ -22647,6 +22646,7 @@
         17.7,
         17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -29287,7 +29287,7 @@
     },
     "domain:automaton-media.com": {
       "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         7.4,
         7.4,
@@ -29805,7 +29805,7 @@
     },
     "domain:yakan-hiko.com": {
       "title": "GMO熊谷正寿事件の概要と雑感｜山本一郎（やまもといちろう）",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -39918,7 +39918,7 @@
     },
     "earthquake:m 5.2 - reykjanes ridge:5.2": {
       "title": "M 5.2 - Reykjanes Ridge",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -39945,12 +39945,13 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.93,
+      "rolling_average": 11.92,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.23
+      "z_hint": -0.22
     },
     "title:jev-lint": {
       "title": "jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認",
@@ -44994,7 +44995,7 @@
     },
     "domain:claude.com": {
       "title": "Zero Trust for AI agents",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -45394,7 +45395,7 @@
     },
     "earthquake:m 4.6 - south of the fiji islands:4.6": {
       "title": "M 4.6 - south of the Fiji Islands",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -56441,7 +56442,7 @@
     },
     "title:100": {
       "title": "AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -66402,9 +66403,9 @@
     },
     "title:multiples-vuln-rabilit-dans-noyau-linux-debian-octobre": {
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian (23 octobre 2026)",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
-        16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -66435,10 +66436,10 @@
         13.1,
         13.1
       ],
-      "rolling_average": 13.2,
-      "rolling_peak": 16.1,
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
       "last_score": 13.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:multiples-vuln-rabilit-dans-noyau-linux-ubuntu-octobre": {
       "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (02 octobre 2026)",
@@ -73862,9 +73863,9 @@
     },
     "title:multiples-vuln-rabilit-dans-les-produits-hpe-aruba": {
       "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 octobre 2026)",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
-        13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -73895,10 +73896,10 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.2,
-      "rolling_peak": 13.1,
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
       "last_score": 10.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "title:multiples-vuln-rabilit-dans-spip-octobre-2026": {
       "title": "Multiples vulnérabilités dans SPIP (07 octobre 2026)",
@@ -84659,7 +84660,7 @@
     },
     "earthquake:m 5.0 - reykjanes ridge:5.0": {
       "title": "M 5.0 - Reykjanes Ridge",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         14.4,
         14.4,
@@ -88059,9 +88060,9 @@
     },
     "title:multiples-vuln-rabilit-dans-microsoft-edge-octobre-2026": {
       "title": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
-        18.1,
+        15.1,
         15.1,
         15.1,
         15.1,
@@ -88092,10 +88093,10 @@
         15.1,
         15.1
       ],
-      "rolling_average": 15.2,
-      "rolling_peak": 18.1,
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
       "last_score": 15.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:vuln-rabilit-dans-mattermost-server-octobre-2026": {
       "title": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
@@ -94638,7 +94639,7 @@
     },
     "title:netsuite-james-chisham-sea-invoicing-maze-data-residency": {
       "title": "NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -94678,7 +94679,7 @@
     },
     "title:most-dangerous-thing-about-isn-hallucination-that-stopped": {
       "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -94718,7 +94719,7 @@
     },
     "title:gpu-oracle-google-tpu": {
       "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -94758,7 +94759,7 @@
     },
     "title:will-shopping-agents-change-amazon-retail": {
       "title": "How will AI shopping agents change Amazon and retail?",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -94798,7 +94799,7 @@
     },
     "earthquake:m 5.5 - 221 km nw of port-olry, vanuatu:5.5": {
       "title": "M 5.5 - 221 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         15.7,
         15.7,
@@ -94838,7 +94839,7 @@
     },
     "title:inside-singapore-push-lighthouses-rice-importers-robot-labs": {
       "title": "Inside Singapore’s AI push: Lighthouses, rice importers and robot labs",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -94878,7 +94879,7 @@
     },
     "title:macbook-pro": {
       "title": "アップル、M6搭載の新型「MacBook Pro」発表 11月6日発売",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -94918,7 +94919,7 @@
     },
     "title:machgl-90kb-100mb": {
       "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -94958,7 +94959,7 @@
     },
     "earthquake:m 4.8 - 217 km nw of port-olry, vanuatu:4.8": {
       "title": "M 4.8 - 217 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -94998,7 +94999,7 @@
     },
     "earthquake:m 5.2 - 220 km nw of port-olry, vanuatu:5.2": {
       "title": "M 5.2 - 220 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -95038,7 +95039,7 @@
     },
     "earthquake:m 6.0 - 214 km nw of port-olry, vanuatu:6.0": {
       "title": "M 6.0 - 214 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -95078,7 +95079,7 @@
     },
     "earthquake:m 5.6 - 174 km nw of port-olry, vanuatu:5.6": {
       "title": "M 5.6 - 174 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         15.7,
         15.7,
@@ -95118,7 +95119,7 @@
     },
     "title:meta-sells-voteless-shares-spacex-leases-its-chips": {
       "title": "Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -95158,7 +95159,7 @@
     },
     "title:use-triage-inbound-b2b-leads-without-blasting-everyone": {
       "title": "How we use AI to triage inbound B2B leads without blasting everyone the same way",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -95198,7 +95199,7 @@
     },
     "title:tbs-news-dig-powered-jnn-yahoo": {
       "title": "トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -95238,7 +95239,7 @@
     },
     "title:fed-decides-today-here-are-levels-every-bitcoin": {
       "title": "The Fed decides today: Here are the 2 levels every Bitcoin trader should watch",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -95278,7 +95279,7 @@
     },
     "title:muggles-struggle-wizards-juggle-what-happens-when-everyone": {
       "title": "Muggles struggle, wizards juggle: What happens when everyone gets an AI familiar",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -95318,7 +95319,7 @@
     },
     "earthquake:m 5.0 - 200 km w of sola, vanuatu:5.0": {
       "title": "M 5.0 - 200 km W of Sola, Vanuatu",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -95358,7 +95359,7 @@
     },
     "title:elf-mn1-spatial-reality-display": {
       "title": "ELF-MN1 | 空間再現ディスプレイ（Spatial Reality Display） | ソニー",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -95398,7 +95399,7 @@
     },
     "title:yamaha-lan-monitor-windows-dll": {
       "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -95438,7 +95439,7 @@
     },
     "title:yms-vpn8-yms-vpn8": {
       "title": "ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -95478,7 +95479,7 @@
     },
     "title:nwr100": {
       "title": "ヤマハ製NWR100における複数の脆弱性",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -95518,7 +95519,7 @@
     },
     "domain:amazon.com": {
       "title": "Meta’s Muse lands in Singapore with a guest list Amazon never got",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         17.1,
         17.1,
@@ -95558,7 +95559,7 @@
     },
     "url:https://anond.hatelabo.jp/20261028103922": {
       "title": "支給PCのスペックがショボすぎて、新人が辞めた。",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -95598,7 +95599,7 @@
     },
     "title:phishers-now-want-you-type-malware-yourself": {
       "title": "Phishers now want you to type the malware in yourself",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -95638,7 +95639,7 @@
     },
     "title:dfft-expert-community": {
       "title": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -95678,7 +95679,7 @@
     },
     "github_repo:nightly-labs/openbot": {
       "title": "nightly-labs/openbot",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -95718,7 +95719,7 @@
     },
     "github_repo:elayadesign/ai-design-skills": {
       "title": "elayadesign/ai-design-skills",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -95758,7 +95759,7 @@
     },
     "earthquake:m 5.0 - 205 km sse of vilyuchinsk, russia:5.0": {
       "title": "M 5.0 - 205 km SSE of Vilyuchinsk, Russia",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -95798,7 +95799,7 @@
     },
     "earthquake:m 4.7 - 39 km ssw of serrezuela, argentina:4.7": {
       "title": "M 4.7 - 39 km SSW of Serrezuela, Argentina",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -95838,7 +95839,7 @@
     },
     "earthquake:m 5.5 - reykjanes ridge:5.5": {
       "title": "M 5.5 - Reykjanes Ridge",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -95878,7 +95879,7 @@
     },
     "url:https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/": {
       "title": "女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す | ギズモード・ジャパン",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -95918,7 +95919,7 @@
     },
     "earthquake:m 4.9 - 88 km se of hihifo, tonga:4.9": {
       "title": "M 4.9 - 88 km SE of Hihifo, Tonga",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -95958,7 +95959,7 @@
     },
     "domain:michsuzuki.hatenablog.com": {
       "title": "はてな株主総会2026 - スズキオンライン",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -95998,7 +95999,7 @@
     },
     "title:markdown-pdf-cli-pfpdf-preferred-networks": {
       "title": "MarkdownからきれいなPDFを作るCLIツールpfpdfを公開しました｜株式会社Preferred Networks",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -96038,7 +96039,7 @@
     },
     "earthquake:m 4.5 - 13 km wsw of āwash, ethiopia:4.5": {
       "title": "M 4.5 - 13 km WSW of Āwash, Ethiopia",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -96078,9 +96079,9 @@
     },
     "title:multiples-vuln-rabilit-dans-les-produits-red-hat": {
       "title": "Multiples vulnérabilités dans les produits Red Hat (23 octobre 2026)",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
-        15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -96111,16 +96112,16 @@
         12.1,
         12.1
       ],
-      "rolling_average": 12.2,
-      "rolling_peak": 15.1,
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
       "last_score": 12.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:multiples-vuln-rabilit-dans-les-produits-tenable-octobre": {
       "title": "Multiples vulnérabilités dans les produits Tenable (23 octobre 2026)",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
-        13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -96151,16 +96152,16 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.2,
-      "rolling_peak": 13.1,
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
       "last_score": 10.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "title:multiples-vuln-rabilit-dans-les-produits-suse-octobre": {
       "title": "Multiples vulnérabilités dans les produits SUSE (23 octobre 2026)",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
-        13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -96191,16 +96192,17 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.2,
-      "rolling_peak": 13.1,
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
       "last_score": 10.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "earthquake:japan:5.5": {
       "title": "M 5.5 - 5 km ESE of Asahi, Japan",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -96237,7 +96239,7 @@
     },
     "title:security-extension-github-copilot-app": {
       "title": "Security extension for the GitHub Copilot app",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         25.1,
         22.1,
@@ -96262,16 +96264,17 @@
         22.1,
         22.1,
         22.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 22.23,
+      "rolling_average": 22.22,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:github-intelligence-puts-your-code-context-history-work": {
       "title": "GitHub intelligence puts your code, context, and history to work",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -96296,18 +96299,20 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.23,
+      "rolling_average": 16.22,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:github-enterprise-now-includes-access-github-copilot": {
       "title": "GitHub Enterprise now includes access to GitHub Copilot",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         14.1,
+        11.1,
         11.1,
         11.1,
         11.1,
@@ -96339,9 +96344,10 @@
     },
     "title:pfpdf-markdown-pdf": {
       "title": "pfpdf — Markdown から、印刷品質の PDF へ",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         12.1,
+        9.1,
         9.1,
         9.1,
         9.1,
@@ -96373,9 +96379,10 @@
     },
     "title:github-universe-2026-evolving-every-layer-stack": {
       "title": "GitHub Universe 2026: Evolving every layer of the stack",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.1,
+        8.1,
         8.1,
         8.1,
         8.1,
@@ -96407,9 +96414,10 @@
     },
     "title:route-orchestrate-models-github-copilot-fusion": {
       "title": "Route and orchestrate models with GitHub Copilot Fusion",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.1,
+        8.1,
         8.1,
         8.1,
         8.1,
@@ -96441,9 +96449,10 @@
     },
     "title:github-copilot-app-universe-releases": {
       "title": "GitHub Copilot app, Universe releases",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.1,
+        8.1,
         8.1,
         8.1,
         8.1,
@@ -96475,9 +96484,10 @@
     },
     "title:octoverse-commits-pushes-reach-highs-2026-developers-build": {
       "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         8.1,
+        5.1,
         5.1,
         5.1,
         5.1,
@@ -96509,7 +96519,7 @@
     },
     "title:github-copilot-code-universe-releases": {
       "title": "GitHub Copilot in VS Code, Universe releases",
-      "updated_at": "2026-10-28T21:17:16+00:00",
+      "updated_at": "2026-10-28T21:34:29+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -96523,12 +96533,24 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.33,
+      "rolling_average": 8.31,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
+    },
+    "title:gemini-carbon-our-next-frontier-model": {
+      "title": "Gemini 4 Carbon: our next frontier model",
+      "updated_at": "2026-10-28T21:34:29+00:00",
+      "network_scores": [
+        23.1
+      ],
+      "rolling_average": 23.1,
+      "rolling_peak": 23.1,
+      "last_score": 23.1,
+      "z_hint": 0.0
     }
   }
 }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T21:17:12+00:00_
+_Generiert: 2026-10-28T21:34:24+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+86 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+7.0); Security (+7.5); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the… The post Security extension for the GitHub Copilot app appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Gemini 4 Carbon: our next frontier model** — Score 18, opportunity — [Quelle](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-28T17:53:40+00:00`, fetched `2026-10-28T21:33:51+00:00`
+  - Treffer: AI/KI, developer, Hatena, hotentry, Security, technology
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); developer (+2.0); recent (+1.0)
+  - Kurz: Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security...
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表** — Score 18, observation — [Quelle](https://japan.cnet.com/article/35254012/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-27T09:31:21+00:00`, fetched `2026-10-28T00:43:21+00:00`
@@ -92,15 +101,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Libreswan ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない** — Score 16, observation — [Quelle](https://japan.cnet.com/article/35254103/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-28T09:39:58+00:00`, fetched `2026-10-28T16:46:33+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: この1週間、世界中のソフトウェアエンジニアが、ウェブサイトを動かすソフトウェアの更新に追われている。米OpenAIのAIモデルを使ったチームが、ウェブを支える重要なソフトウェア「PHP」に2件の重大な脆弱性を発見したためだ。米Cloudflareによると、影響はPHP 5.4以降を使うウェブサーバーに及ぶ。修正を適用しないま...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Legora is building the agentic operating system for legal work** — Score 16, observation — [Quelle](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
   - Quelle: OpenAI News RSS / `rss`
