@@ -530,6 +530,29 @@
     "id": "e6ebec7fc85c565f5741"
   },
   {
+    "title": "[NEU] [mittel] Docker Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-28T12:20:34+00:00",
+    "fetched_at": "2026-10-28T12:24:42+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Docker Desktop ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "05a53f86be90c932dbf1"
+  },
+  {
     "title": "M 5.6 - 174 km NW of Port-Olry, Vanuatu",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -812,6 +835,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1b777ebe8d8c52f405f3"
+  },
+  {
+    "title": "M 5.0 - Reykjanes Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-28T12:14:07.040+00:00",
+    "fetched_at": "2026-10-28T12:24:42+00:00",
+    "summary": "Time 2026-10-28 11:56:17 UTC 2026-10-28 11:56:17 UTC at epicenter Location 58.356°N 32.240°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "d204eacb40a7867aa587"
   },
   {
     "title": "M 5.5 - Reykjanes Ridge",
@@ -1200,6 +1259,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2162aab737281fb74bd6"
+  },
+  {
+    "title": "女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す | ギズモード・ジャパン",
+    "url": "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-28T06:48:08+00:00",
+    "fetched_at": "2026-10-28T12:24:42+00:00",
+    "summary": "また女子高生です。 7月に、アメリカの高校生がガレージで作ったろ過フィルターの発明を書きました。浄水場超えの数字を叩き出したっていう。 今度はメキシコから。音で、火を消すそうです。 装置のサイズ感や実際に消すところは、本人ご登場の動画がわかりやすかったです。 バケツからの音で火を消すimage: Karime vort...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f5c8e901171ba38178c5"
   },
   {
     "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",

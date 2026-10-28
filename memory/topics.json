@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-28T12:03:37+00:00",
+  "generated_at": "2026-10-28T12:25:10+00:00",
   "topics": {
     "ai": [
       {
@@ -119,6 +119,13 @@
         "url": "https://jvn.jp/jp/JVN30675482/"
       },
       {
+        "title": "[NEU] [mittel] Docker Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-28T12:20:34+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186"
+      },
+      {
         "title": "Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken",
         "source": "heise Security Alerts",
         "published_at": "2026-10-28T11:35:00.000+00:00",
@@ -191,6 +198,13 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/nightly-labs/openbot"
+      },
+      {
+        "title": "[NEU] [mittel] Docker Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-28T12:20:34+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186"
       },
       {
         "title": "Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45",
@@ -302,6 +316,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh"
       },
       {
+        "title": "M 5.0 - Reykjanes Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-28T12:14:07.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk"
+      },
+      {
         "title": "M 5.5 - Reykjanes Ridge",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-28T11:53:25.040+00:00",
@@ -321,13 +342,6 @@
         "published_at": "2026-10-28T04:47:49.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2"
-      },
-      {
-        "title": "M 4.8 - 217 km NW of Port-Olry, Vanuatu",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-28T02:42:12.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli"
       }
     ]
   }

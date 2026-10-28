@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T12:03:41+00:00",
-  "today_file_total": 45,
+  "generated_at": "2026-10-28T12:25:16+00:00",
+  "today_file_total": 48,
   "current_clusters": [
     {
       "key": "title:will-shopping-agents-change-amazon-retail",
@@ -171,6 +171,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 20.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [mittel] Docker Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -441,50 +464,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:phishers-now-want-you-type-malware-yourself",
-      "title": "Phishers now want you to type the malware in yourself",
+      "key": "earthquake:m 5.0 - reykjanes ridge:5.0",
+      "title": "M 5.0 - Reykjanes Ridge",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "tier1_official"
       ],
       "urls": [
-        "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk"
       ],
       "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
+      "max_score": 9,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
       "hot": false,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:meta-sells-voteless-shares-spacex-leases-its-chips",
-      "title": "Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }
