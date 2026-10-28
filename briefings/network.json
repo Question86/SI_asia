@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T05:55:37+00:00",
+  "generated_at": "2026-10-28T06:02:32+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 30,
-    "clusters": 30,
+    "findings": 31,
+    "clusters": 31,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 2,
     "dominance_penalized": 8
   },
   "clusters": [
@@ -28,20 +28,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 25.95,
+      "network_score": 25.77,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 25.95,
+      "ranking_score": 25.77,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.45,
+      "baseline_bonus": 1.27,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -169,6 +169,44 @@
       "first_seen_at": "2026-10-28T05:48:11+00:00"
     },
     {
+      "key": "title:phishers-now-want-you-type-malware-yourself",
+      "title": "Phishers now want you to type the malware in yourself",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 21.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-28T06:02:32+00:00"
+    },
+    {
       "key": "domain:japan.cnet.com",
       "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
       "sources": [
@@ -186,18 +224,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.27,
+      "network_score": 20.17,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 20.1,
-      "ranking_score": 20.27,
+      "ranking_score": 20.17,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.77,
+      "baseline_bonus": 0.67,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1185,7 +1223,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-28T05:55:38Z",
+    "generated_at": "2026-10-28T06:02:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
