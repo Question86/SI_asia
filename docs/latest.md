@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T01:54:26+00:00_
+_Generiert: 2026-10-28T02:02:31+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+13 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **How will AI shopping agents change Amazon and retail?** — Score 23, opportunity — [Quelle](https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-28T02:00:33+00:00`, fetched `2026-10-28T02:01:59+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Security, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: META (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Amazon’s decision to block Meta’s Muse shopping agent looks, at first, like a technical dispute over access, security and authorisation. In practice, it points to a much larger commercial problem. If customers increasingly hand purchasing decisions to AI agents, retailers may still process the sale while losing control over how the customer chooses what to […] The post How will AI shopping agents change Amazon and r…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong** — Score 23, opportunity — [Quelle](https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-28T01:00:05+00:00`, fetched `2026-10-28T01:00:35+00:00`
@@ -69,6 +78,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.5 - 221 km NW of Port-Olry, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-28T01:59:46.533+00:00`, fetched `2026-10-28T02:01:59+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-28 01:39:11 UTC 2026-10-28 01:39:11 UTC at epicenter Location 13.895°S 165.389°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Inside Singapore’s AI push: Lighthouses, rice importers and robot labs** — Score 10, observation — [Quelle](https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-28T02:00:58+00:00`, fetched `2026-10-28T02:01:59+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore (EnterpriseSG) that is meant to reach every rung of the AI-readiness ladder, from blue-chip […] The post Inside Singapore’s AI push: Lighthouses, rice importers…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work** — Score 8, observation — [Quelle](https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-28T01:00:28+00:00`, fetched `2026-10-28T01:19:03+00:00`
@@ -86,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 脱GPUが加速、OracleもGoogle製TPUを選択
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **アップル、M6搭載の新型「MacBook Pro」発表 11月6日発売** — Score 5, observation — [Quelle](https://k-tai.watch.impress.co.jp/docs/news/2151696.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-27T14:09:26+00:00`, fetched `2026-10-28T02:01:59+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: アップル、M6搭載の新型「MacBook Pro」発表 11月6日発売
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」** — Score 5, observation — [Quelle](https://codezine.jp/article/detail/29762)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -107,7 +143,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `ecb_statistical_press` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
