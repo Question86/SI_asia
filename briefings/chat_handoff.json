@@ -100,5 +100,147 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “How will AI shopping agents change Amazon and retail?” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "How will AI shopping agents change Amazon and retail?",
+        "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-28T02:00:33+00:00",
+        "age_days": 0.2,
+        "topics": [
+          "axiom",
+          "ai",
+          "security",
+          "macro"
+        ],
+        "dynamics_score": 48.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, 10, auth",
+          "security high-signal: rce, 10, auth",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Amazon’s decision to block Meta’s Muse shopping agent looks, at first, like a technical dispute over access, security and authorisation. In practice, it points to a much larger commercial problem. If customers increasingly hand purchasing decisions to AI agents, retailers may still process the sale while losing contro…"
+      },
+      {
+        "title": "NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong",
+        "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-28T01:00:05+00:00",
+        "age_days": 0.24,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 48.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, 10",
+          "security high-signal: rce, 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "In a convention centre full of AI agents, autonomous closes and pyrotechnic keynotes, James Chisham has the least glamorous job at Oracle NetSuite’s SuiteWorld in Las Vegas. He is the man who makes the software obey the taxman. As Vice President of Product Management and International Strategy, Chisham is responsible…"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
+        "url": "https://jvn.jp/vu/JVNVU96093239/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-28T09:00:00+09:00",
+        "age_days": 0.28,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "ヤマハ製NWR100における複数の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU91027179/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-28T14:15:00+09:00",
+        "age_days": 0.06,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "ヤマハ株式会社が提供する無線LANルーターNWR100には、複数の脆弱性が存在します。"
+      },
+      {
+        "title": "ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性",
+        "url": "https://jvn.jp/jp/JVN30675482/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-28T14:00:00+09:00",
+        "age_days": 0.07,
+        "topics": [
+          "security",
+          "infra"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: vpn",
+          "security high-signal: vpn"
+        ],
+        "summary": "ヤマハ株式会社が提供するYMS-VPN8およびYMS-VPN8-CPには、登録されるWindowsサービスプログラムのファイルパスが引用符で囲まれていない問題が存在します。"
+      }
+    ]
+  }
 }
