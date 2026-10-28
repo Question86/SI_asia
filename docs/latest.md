@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T17:41:48+00:00_
+_Generiert: 2026-10-28T17:49:25+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+80 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The future of the firm** — Score 10, observation — [Quelle](https://openai.com/index/the-future-of-the-firm)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-28T10:00:00+00:00`, fetched `2026-10-28T17:48:52+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: How AI might enter the org chart—beneath, beside, and between us.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Euro area economic and financial developments by institutional sector: second quarter of 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q2~b2bd701420.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
   - Zeit: published `2026-10-28T10:00:00+00:00`, fetched `2026-10-28T10:17:08+00:00`
@@ -276,15 +285,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIがコードを書いてくれる時代、我々は何を確かめるのか** — Score 8, opportunity — [Quelle](https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-28T09:48:15+00:00`, fetched `2026-10-28T16:46:33+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Qiita Conference 2026 Autumn
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
