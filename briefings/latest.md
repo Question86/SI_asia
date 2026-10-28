@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T17:49:25+00:00_
+_Generiert: 2026-10-28T17:57:39+00:00_
 
 ## Kurzlage
 
@@ -57,6 +57,10 @@ _Generiert: 2026-10-28T17:49:25+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.
+- **GDACS: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.008 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001345)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.008 million .
 
 ## Wirtschaft global
 
