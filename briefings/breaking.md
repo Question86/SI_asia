@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-28T21:48:56+00:00_
+_Generiert: 2026-10-28T21:56:16+00:00_
 
 ## Gemini 4 Carbon: our next frontier model
 
