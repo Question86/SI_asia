@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T18:11:24+00:00",
-  "run_id": "2026-10-28T18:11:24+00:00",
+  "generated_at": "2026-10-28T18:25:33+00:00",
+  "run_id": "2026-10-28T18:25:33+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 81,
     "displayed_findings": 81,
     "high": 0,
@@ -4545,28 +4545,7 @@
       "id": "477a4e61ac16edbf2a2d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-      "source": "Federal Reserve Monetary Policy Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-10-28T18:00:00+00:00",
-      "fetched_at": "2026-10-28T18:10:55+00:00",
-      "summary": "Federal Reserve issues FOMC statement",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c2f552e1d62f936bb47e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
