@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T17:57:39+00:00_
+_Generiert: 2026-10-28T18:11:24+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+81 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -267,6 +267,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); central banks (+2.5)
   - Kurz: A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Federal Reserve issues FOMC statement** — Score 9, observation — [Quelle](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)
+  - Quelle: Federal Reserve Monetary Policy Press Releases / `rss`
+  - Zeit: published `2026-10-28T18:00:00+00:00`, fetched `2026-10-28T18:10:55+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Federal Reserve issues FOMC statement
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub Enterprise now includes access to GitHub Copilot** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-28T15:50:00+00:00`, fetched `2026-10-28T16:17:07+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Open Source (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many… The post GitHub Enterprise now includes access to GitHub Copilot appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース** — Score 9, observation — [Quelle](https://news.yahoo.co.jp/articles/4573deab7a69a2492e721d2d5bf8e59d3393d84a)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-28T02:22:26+00:00`, fetched `2026-10-28T03:39:44+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
