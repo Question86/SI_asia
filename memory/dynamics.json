@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-28T21:21:49Z",
+  "generated_at": "2026-10-28T21:38:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 5,
+      "extreme": 6,
       "krass": 9,
-      "strong": 24,
+      "strong": 23,
       "watch": 2
     },
     "bands_after_gate_recheck": {
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:10+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN30675482/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:00+09:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "security",
         "infra"
@@ -70,37 +70,11 @@
       "summary": "ヤマハ株式会社が提供するYMS-VPN8およびYMS-VPN8-CPには、登録されるWindowsサービスプログラムのファイルパスが引用符で囲まれていない問題が存在します。"
     },
     {
-      "title": "ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性",
-      "url": "https://jvn.jp/jp/JVN30675482/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-28T05:07:12+00:00",
-      "age_days": 0.68,
-      "topics": [
-        "infra"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: vpn",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
       "url": "https://jvn.jp/jp/JVN23695234/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:15+09:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "security"
       ],
@@ -124,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4178",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:10+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -148,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:20:34+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -172,7 +146,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.89,
+      "age_days": 5.9,
       "topics": [
         "security"
       ],
@@ -196,7 +170,7 @@
       "url": "https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:28+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -221,7 +195,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1370/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.89,
+      "age_days": 5.9,
       "topics": [
         "ai",
         "security"
@@ -247,7 +221,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1372/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.89,
+      "age_days": 5.9,
       "topics": [
         "ai",
         "security"
@@ -273,7 +247,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1369/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.89,
+      "age_days": 5.9,
       "topics": [
         "ai",
         "security"
@@ -299,7 +273,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 132.28,
+      "age_days": 132.29,
       "topics": [
         "general"
       ],
@@ -328,7 +302,7 @@
       "url": "https://github.com/nightly-labs/openbot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T07:01:43+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "macro"
@@ -358,7 +332,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:00:33+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "ai",
         "security",
@@ -388,7 +362,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:05+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "ai",
         "macro"
@@ -413,11 +387,39 @@
       "summary": "In a convention centre full of AI agents, autonomous closes and pyrotechnic keynotes, James Chisham has the least glamorous job at Oracle NetSuite’s SuiteWorld in Las Vegas. He is the man who makes the software obey the taxman. As Vice President of Product Management and International Strategy, Chisham is responsible…"
     },
     {
+      "title": "Gemini 4 Carbon: our next frontier model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-28T17:53:40+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security, google, cloud",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security..."
+    },
+    {
       "title": "GitHub Enterprise now includes access to GitHub Copilot",
       "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-28T15:50:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -445,7 +447,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T09:00:00+09:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "security"
       ],
@@ -471,7 +473,7 @@
       "url": "https://jvn.jp/vu/JVNVU91027179/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:15:00+09:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "security"
       ],
@@ -497,7 +499,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4184",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:09+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -523,7 +525,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4164",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:09+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -549,7 +551,7 @@
       "url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T05:57:42+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai",
         "security"
@@ -576,7 +578,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4183",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:41:49+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -601,7 +603,7 @@
       "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T04:02:21+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "ai",
         "macro"
@@ -628,7 +630,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:02:34+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -655,7 +657,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:01:09+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -682,7 +684,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 35.37,
+      "age_days": 35.38,
       "topics": [
         "ai"
       ],
@@ -710,7 +712,7 @@
       "url": "https://github.com/nightly-labs/openbot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T07:02:21+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -737,7 +739,7 @@
       "url": "https://github.com/elayadesign/ai-design-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T07:02:21+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -764,7 +766,7 @@
       "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-28T16:17:41+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -790,7 +792,7 @@
       "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 133.03,
+      "age_days": 133.04,
       "topics": [
         "ai"
       ],
@@ -801,12 +803,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.71,
+      "baseline_z_hint": 2.5,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.71",
+        "baseline z_hint 2.50",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 133.0d old signal",
@@ -819,7 +821,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 61.3,
+      "age_days": 61.31,
       "topics": [
         "security"
       ],
@@ -847,7 +849,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:51:27+00:00",
-      "age_days": 1.48,
+      "age_days": 1.49,
       "topics": [
         "ai",
         "security",
@@ -875,7 +877,7 @@
       "url": "https://github.com/elayadesign/ai-design-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T07:01:43+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "macro"
@@ -902,7 +904,7 @@
       "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-28T15:45:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -928,7 +930,7 @@
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-28T13:15:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -951,11 +953,36 @@
       "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
     },
     {
+      "title": "Gemini 4 Carbon: our next frontier model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-28T21:34:29+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GitHub intelligence puts your code, context, and history to work",
       "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-28T16:17:41+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -977,37 +1004,11 @@
       "summary": ""
     },
     {
-      "title": "ヤマハ製NWR100における複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU91027179/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-28T05:20:12+00:00",
-      "age_days": 0.67,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Angreifer nehmen Brotli-, Adobe-Commerce- und Magento-Lecks ins Visier",
       "url": "https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T08:03:00.000+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "security"
@@ -1033,7 +1034,7 @@
       "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T11:35:00.000+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "security"
@@ -1058,7 +1059,7 @@
       "url": "https://www.heise.de/news/Veeam-Backup-Server-manipulierbar-und-MFA-deaktivierbar-11502821.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T09:23:00.000+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "security",
         "macro"

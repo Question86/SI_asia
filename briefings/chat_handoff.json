@@ -100,5 +100,155 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “nightly-labs/openbot” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=51.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "nightly-labs/openbot",
+        "url": "https://github.com/nightly-labs/openbot",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-10-28T07:01:43+00:00",
+        "age_days": 0.61,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 51.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: local",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. https://openbot.run/ OpenBot OpenBot is a local-first desktop workspace for persistent AI teammates. It supports the local Co…"
+      },
+      {
+        "title": "How will AI shopping agents change Amazon and retail?",
+        "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-28T02:00:33+00:00",
+        "age_days": 0.82,
+        "topics": [
+          "axiom",
+          "ai",
+          "security",
+          "macro"
+        ],
+        "dynamics_score": 48.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, 10, auth",
+          "security high-signal: rce, 10, auth",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Amazon’s decision to block Meta’s Muse shopping agent looks, at first, like a technical dispute over access, security and authorisation. In practice, it points to a much larger commercial problem. If customers increasingly hand purchasing decisions to AI agents, retailers may still process the sale while losing contro…"
+      },
+      {
+        "title": "NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong",
+        "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-28T01:00:05+00:00",
+        "age_days": 0.86,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 48.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, 10",
+          "security high-signal: rce, 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "In a convention centre full of AI agents, autonomous closes and pyrotechnic keynotes, James Chisham has the least glamorous job at Oracle NetSuite’s SuiteWorld in Las Vegas. He is the man who makes the software obey the taxman. As Vice President of Product Management and International Strategy, Chisham is responsible…"
+      },
+      {
+        "title": "Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html",
+        "source": "ECB Open Market Operations and Communication, ECB Statistical Press Releases",
+        "published_at": "2026-06-18T14:33:45+00:00",
+        "age_days": 132.29,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 40.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 2,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "source breadth +2",
+          "momentum delta +3",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 132.3d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Gemini 4 Carbon: our next frontier model",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-28T17:53:40+00:00",
+        "age_days": 0.16,
+        "topics": [
+          "axiom",
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 38.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: security, google, cloud",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security..."
+      }
+    ]
+  }
 }
