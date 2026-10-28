@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-28T15:17:44+00:00",
+  "generated_at": "2026-10-28T15:26:56+00:00",
   "topics": {
     "ai": [
       {
@@ -281,6 +281,13 @@
     ],
     "general": [
       {
+        "title": "M 5.5 - 5 km ESE of Asahi, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-28T15:24:07.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe"
+      },
+      {
         "title": "M 4.8 - 29 km SSW of Sarangani, Philippines",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-28T09:56:42.040+00:00",
@@ -342,13 +349,6 @@
         "published_at": "2026-10-28T13:02:12.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnz"
-      },
-      {
-        "title": "M 4.9 - 88 km SE of Hihifo, Tonga",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-28T12:56:53.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnt"
       }
     ]
   }

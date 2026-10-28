@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T15:17:48+00:00",
-  "today_file_total": 66,
+  "generated_at": "2026-10-28T15:27:00+00:00",
+  "today_file_total": 67,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -181,6 +181,31 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
+      "key": "earthquake:japan:5.5",
+      "title": "M 5.5 - 5 km ESE of Asahi, Japan",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "domain:japan.cnet.com",
       "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
       "sources": [
@@ -250,29 +275,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:multiples-vuln-rabilit-dans-microsoft-edge-octobre-2026",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "earthquake:philippines:4.8",
@@ -442,29 +444,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-debian-octobre",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (23 octobre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1374/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "earthquake:m 5.6 - 174 km nw of port-olry, vanuatu:5.6",
       "title": "M 5.6 - 174 km NW of Port-Olry, Vanuatu",
       "sources": [
@@ -475,6 +454,31 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:m 5.5 - 221 km nw of port-olry, vanuatu:5.5",
+      "title": "M 5.5 - 221 km NW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld"
       ],
       "finding_count": 1,
       "max_score": 13,

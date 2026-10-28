@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T15:17:44+00:00_
+_Generiert: 2026-10-28T15:26:56+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+67 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -102,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.5 - 5 km ESE of Asahi, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-28T15:24:07.040+00:00`, fetched `2026-10-28T15:26:26+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-28 15:07:52 UTC 2026-10-28 15:07:52 UTC at epicenter Location 35.702°N 140.706°E Depth 41.36 km (25.70 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 29 km SSW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-28T09:56:42.040+00:00`, fetched `2026-10-28T09:59:40+00:00`
@@ -128,15 +137,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-28 01:11:54 UTC 2026-10-28 01:11:54 UTC at epicenter Location 5.608°N 125.305°E Depth 45.94 km (28.55 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 7 km ENE of Pangyan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-27T23:58:40.040+00:00`, fetched `2026-10-28T00:05:12+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-27 23:43:52 UTC 2026-10-27 23:43:52 UTC at epicenter Location 5.725°N 125.342°E Depth 63.87 km (39.69 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ヤマハ製NWR100における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91027179/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
