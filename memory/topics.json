@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-28T12:39:20+00:00",
+  "generated_at": "2026-10-28T12:48:28+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,20 @@
         "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents"
       },
       {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (xdg-dbus-proxy): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-28T12:42:10+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4172"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Libreswan: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-28T12:41:49+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4183"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-28T09:00:00+09:00",
@@ -119,32 +133,18 @@
         "url": "https://jvn.jp/jp/JVN30675482/"
       },
       {
-        "title": "[NEU] [mittel] Docker Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[UPDATE] [hoch] QT: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-28T12:20:34+00:00",
+        "published_at": "2026-10-28T12:42:10+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4178"
       },
       {
-        "title": "Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-28T11:35:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html"
-      },
-      {
-        "title": "Angreifer können Veeam-Backup-Server manipulieren und MFA deaktivieren",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-28T09:23:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Veeam-Backup-Server-manipulierbar-und-MFA-deaktivierbar-11502821.html"
-      },
-      {
-        "title": "Angreifer nehmen Brotli-, Adobe-Commerce- und Magento-Lecks ins Visier",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-28T08:03:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html"
+        "title": "[UPDATE] [mittel] WP Royal Royal Elementor Addons: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-28T12:42:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4184"
       }
     ],
     "economy": [
