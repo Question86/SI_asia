@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:58:06+00:00",
+  "generated_at": "2026-10-28T23:09:02+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,8 +65,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:128.068km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.",
-        "summary": "Green earthquake (Magnitude 5.7M, Depth:128.068km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:142km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:142km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574426",
         "published_at": "",
@@ -131,21 +131,6 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574115",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - 271 km WSW of Tual, Indonesia",
-        "summary": "M5.7 - 271 km WSW of Tual, Indonesia. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua",
-        "published_at": "2026-10-28T22:06:45+00:00",
-        "metrics": {
-          "mag": 5.7,
-          "alert": "green",
-          "sig": 500.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
