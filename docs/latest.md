@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T01:01:06+00:00_
+_Generiert: 2026-10-28T01:19:31+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+6 neue relevante Treffer. Stärkstes Signal: „NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -60,7 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work** — Score 8, observation — [Quelle](https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-28T01:00:28+00:00`, fetched `2026-10-28T01:19:03+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Everyone is worried about the wrong AI failure. For two years, the loudest AI safety conversation has centred on hallucination: the model that invents a fact, a court case, a source that never existed. That risk is real and well documented. But a quieter problem is spreading underneath it, and it may end up mattering […] The post The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

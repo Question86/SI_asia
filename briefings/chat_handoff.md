@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T01:01:06+00:00_
+_Generated: 2026-10-28T01:19:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
@@ -35,5 +35,12 @@ _Generated: 2026-10-28T01:01:06+00:00_
 - published: `2026-10-28T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU96093239/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+
+### 5. The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-10-28T01:00:28+00:00`
+- url: https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/
+- summary: Everyone is worried about the wrong AI failure. For two years, the loudest AI safety conversation has centred on hallucination: the model that invents a fact, a court case, a source that never existed. That risk is real and well documented. But a quieter prob…
 
 END OF DOCUMENT
