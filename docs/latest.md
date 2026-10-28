@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T14:18:13+00:00_
+_Generiert: 2026-10-28T14:45:22+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+60 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -276,14 +276,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 三角デジタル監がDFFT Expert Community初の対面会合に出席しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す | ギズモード・ジャパン** — Score 5, observation — [Quelle](https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/)
+- **GMO熊谷正寿事件の概要と雑感｜山本一郎（やまもといちろう）** — Score 5, observation — [Quelle](https://note.com/kirik/n/n72f93c8a2819)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-28T06:48:08+00:00`, fetched `2026-10-28T12:24:42+00:00`
+  - Zeit: published `2026-10-28T10:33:01+00:00`, fetched `2026-10-28T14:44:51+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: また女子高生です。 7月に、アメリカの高校生がガレージで作ったろ過フィルターの発明を書きました。浄水場超えの数字を叩き出したっていう。 今度はメキシコから。音で、火を消すそうです。 装置のサイズ感や実際に消すところは、本人ご登場の動画がわかりやすかったです。 バケツからの音で火を消すimage: Karime vort...
+  - Kurz: ※おことわり 本稿は私の有料メルマガ『人間迷路』の巻頭言です。メルマガ全文は夜間飛行のスタンドでご購入ください。 https://yakan-hiko.com/kirik.html 俺たちが愛したGMOインターネットの「お名前.com デスクトップクラウド」をめぐる事件は、10月28日の午後になっても収束していません。やっぱみなさん「残念」と...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
