@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T04:58:06+00:00",
+  "generated_at": "2026-10-28T05:07:43+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -6380,7 +6380,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4a0d93e16aedc502c780",
@@ -12611,13 +12611,13 @@
     {
       "event_id": "evt_8f39f926129543e9523b",
       "title": "ELF-MN1 | 空間再現ディスプレイ（Spatial Reality Display） | ソニー",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8f470b5c6ca9a2378122",
@@ -13806,6 +13806,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9d0f58dc1c3963d075ff",
+      "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_9d505816b2bc3fdce359",
@@ -15599,6 +15610,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b2ff91393e5729dd212b",
+      "title": "ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_b3230a77eb258894f245",
