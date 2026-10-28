@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-28T01:19:37+00:00_
+_Generiert: 2026-10-28T01:28:38+00:00_
 
 ## NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong
 

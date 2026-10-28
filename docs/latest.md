@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T01:19:31+00:00_
+_Generiert: 2026-10-28T01:28:34+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+7 neue relevante Treffer. Stärkstes Signal: „NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -68,6 +68,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Everyone is worried about the wrong AI failure. For two years, the loudest AI safety conversation has centred on hallucination: the model that invents a fact, a court case, a source that never existed. That risk is real and well documented. But a quieter problem is spreading underneath it, and it may end up mattering […] The post The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **脱GPUが加速、OracleもGoogle製TPUを選択** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2151701.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-27T21:44:26+00:00`, fetched `2026-10-28T01:28:00+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 脱GPUが加速、OracleもGoogle製TPUを選択
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

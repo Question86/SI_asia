@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T01:19:31+00:00",
-  "run_id": "2026-10-28T01:19:31+00:00",
+  "generated_at": "2026-10-28T01:28:34+00:00",
+  "run_id": "2026-10-28T01:28:34+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 5,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
@@ -231,6 +231,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9da4d091fd2b3cce3950"
+      },
+      {
+        "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2151701.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T21:44:26+00:00",
+        "fetched_at": "2026-10-28T01:28:00+00:00",
+        "summary": "脱GPUが加速、OracleもGoogle製TPUを選択",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e2ed50be556382169a93"
       }
     ]
   },
@@ -435,29 +456,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9da4d091fd2b3cce3950"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",
-      "url": "https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2151701.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-28T01:00:28+00:00",
-      "fetched_at": "2026-10-28T01:19:03+00:00",
-      "summary": "Everyone is worried about the wrong AI failure. For two years, the loudest AI safety conversation has centred on hallucination: the model that invents a fact, a court case, a source that never existed. That risk is real and well documented. But a quieter problem is spreading underneath it, and it may end up mattering […] The post The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its…",
+      "published_at": "2026-10-27T21:44:26+00:00",
+      "fetched_at": "2026-10-28T01:28:00+00:00",
+      "summary": "脱GPUが加速、OracleもGoogle製TPUを選択",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9da4d091fd2b3cce3950"
+      "id": "e2ed50be556382169a93"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2151701.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T21:44:26+00:00",
+      "fetched_at": "2026-10-28T01:28:00+00:00",
+      "summary": "脱GPUが加速、OracleもGoogle製TPUを選択",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e2ed50be556382169a93"
     }
   ],
   "source_errors": [],

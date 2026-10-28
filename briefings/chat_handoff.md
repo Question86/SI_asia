@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T01:19:31+00:00_
+_Generated: 2026-10-28T01:28:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -42,5 +42,12 @@ _Generated: 2026-10-28T01:19:31+00:00_
 - published: `2026-10-28T01:00:28+00:00`
 - url: https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/
 - summary: Everyone is worried about the wrong AI failure. For two years, the loudest AI safety conversation has centred on hallucination: the model that invents a fact, a court case, a source that never existed. That risk is real and well documented. But a quieter prob…
+
+### 6. 脱GPUが加速、OracleもGoogle製TPUを選択
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-10-27T21:44:26+00:00`
+- url: https://pc.watch.impress.co.jp/docs/news/2151701.html
+- summary: 脱GPUが加速、OracleもGoogle製TPUを選択
 
 END OF DOCUMENT
