@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T07:30:32+00:00_
+_Generiert: 2026-10-28T07:39:52+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+36 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -224,7 +224,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)
