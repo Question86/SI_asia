@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T23:56:24+00:00",
+  "generated_at": "2026-10-28T00:06:11+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -89,7 +89,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:54:24+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_65e46222022a4f0fd16f",
@@ -1633,7 +1633,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-27T15:19:24+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0dbc2a8e23686f5fe6f7",
@@ -1684,7 +1684,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T23:45:53+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3f2b9b9b0e1d3ea93cdc",
@@ -2024,7 +2024,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T07:58:33+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e8055709af40ed2e9c7c",
@@ -2110,6 +2110,23 @@
       "first_seen_at": "2026-09-01T13:58:29+00:00",
       "last_seen_at": "2026-10-21T23:58:11+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6c96cff1393488568733",
+      "title": "M 5.1 - 7 km ENE of Pangyan, Philippines",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1160000.0,
+      "p50_usd": 116000000.0,
+      "p90_usd": 11600000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-28T00:05:50+00:00",
+      "last_seen_at": "2026-10-28T00:05:50+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -2568,7 +2585,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-27T09:27:43+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a0a48f18e523a40ddacf",
@@ -2925,7 +2942,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-27T23:32:14+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -2976,7 +2993,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-27T19:23:32+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_05cbed2934e911c87662",
@@ -3639,7 +3656,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-27T12:28:23+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5be0dbac4684c971292d",
@@ -10949,7 +10966,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b380be2049a414b6cdc6",
@@ -11135,8 +11152,8 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-23T23:59:58+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-10-28T00:05:50+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -11221,7 +11238,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T03:03:46+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_01dd3cdec1f8751945fc",
@@ -12122,7 +12139,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:34:00+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a7f209f63f6d6c38835f",
@@ -12156,7 +12173,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a8660746cdbef0b1d5c0",
@@ -12377,7 +12394,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T02:34:00+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d3d9a3967b112ba3fba0",
@@ -13109,7 +13126,7 @@
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_286c3df7e2f2f93926a3",
@@ -15387,7 +15404,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a2888de3c57b771f0196",
@@ -16747,7 +16764,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T05:24:00+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_dfb6d8ece97a3fe62d94",
@@ -17189,7 +17206,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T10:54:36+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a7471d09d66dd93f4a47",
@@ -17223,7 +17240,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T06:37:19+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ac3452729e6faacff79f",
@@ -18686,7 +18703,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-27T12:28:23+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e51def39e0999936b77a",
@@ -22324,7 +22341,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5252adbb76a6fbcf8a41",

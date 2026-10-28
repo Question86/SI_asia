@@ -1,12 +1,12 @@
 # Economic Outcomes
 
-Generated: `2026-10-27T23:56:42+00:00`
+Generated: `2026-10-28T00:06:14+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | M 5.2 - 201 km ENE of Nagqu, China | $0 | — | 0 | 0 | dormant |
 | ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ | $0 | — | 0 | 0 | dormant |
-| Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性 | $0 | — | 0 | 0 | active |
+| Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性 | $0 | — | 0 | 0 | dormant |
 | Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | dormant |
 | M 4.9 - 12 km SSW of Tebario, Panama | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 12 km SE of La Parguera, Puerto Rico | $0 | — | 0 | 0 | dormant |
