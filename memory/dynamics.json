@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-28T00:28:37Z",
+  "generated_at": "2026-10-28T00:56:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 4,
+    "dynamics": 8,
     "bands": {
       "krass": 1,
-      "strong": 1,
-      "watch": 2
+      "strong": 3,
+      "watch": 4
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 2
+      "strong": 4,
+      "watch": 4
     }
   },
   "top_dynamics": [
@@ -21,7 +21,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T09:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -43,11 +43,68 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "Zero Trust for AI agents",
+      "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-23T12:27:37+00:00",
+      "age_days": 34.52,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 16.43,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 16.43",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -4.7 for 34.5d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Zero Trust for AI agents",
+      "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-27T09:51:27+00:00",
+      "age_days": 0.63,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "We share a security framework for deploying autonomous AI agents in the enterprise, covering the new threat landscape, a tiered Zero Trust architecture, and defensive operations built for AI-accelerated attacks. Frontier AI models are compressing the timeline between vulnerability and exploit fro..."
+    },
+    {
       "title": "M 5.1 - 7 km ENE of Pangyan, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T23:58:40.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -68,56 +125,108 @@
       "summary": "Time 2026-10-27 23:43:52 UTC 2026-10-27 23:43:52 UTC at epicenter Location 5.725°N 125.342°E Depth 63.87 km (39.69 mi)"
     },
     {
+      "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
+      "url": "https://japan.cnet.com/article/35254012/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T09:22:22+00:00",
+      "age_days": 130.65,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 10.53,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 10.53",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 130.6d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 130.94,
+      "age_days": 130.96,
       "topics": [
         "general"
       ],
       "dynamics_score": 19.9,
-      "raw_band": "krass",
+      "raw_band": "strong",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
         "high terms: 10",
-        "aging penalty -8.0 for 130.9d old signal",
-        "krass gate: single-source non-official/non-identity signal capped",
+        "aging penalty -8.0 for 131.0d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
+    },
+    {
+      "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
+      "url": "https://japan.cnet.com/article/35254012/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-27T09:31:21+00:00",
+      "age_days": 0.64,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は..."
     },
     {
       "title": "M 5.1 - 7 km ENE of Pangyan, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-17T22:13:10+00:00",
-      "age_days": 132.09,
+      "age_days": 132.11,
       "topics": [
         "general"
       ],
-      "dynamics_score": 18.05,
+      "dynamics_score": 14.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.5,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.50",
         "aging penalty -8.0 for 132.1d old signal"
       ],
       "summary": ""
