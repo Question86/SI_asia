@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T05:48:08+00:00_
+_Generiert: 2026-10-28T05:55:32+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+30 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -258,7 +258,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): 502 Server Error: Bad Gateway for url: https://www.bsi.bund.de/error_path/502.html?al_req_id=auGMhQ3xtOZYE5mGzjtpEwAABIA
