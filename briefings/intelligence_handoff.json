@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-28T05:37:24Z",
+  "generated_at": "2026-10-28T06:18:36Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN30675482/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security",
         "infra"
@@ -41,7 +41,7 @@
       "url": "https://jvn.jp/jp/JVN23695234/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:15+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:28+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -90,7 +90,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:00:33+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security",
@@ -120,7 +120,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -149,7 +149,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T09:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -175,7 +175,7 @@
       "url": "https://jvn.jp/vu/JVNVU91027179/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:15:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -197,11 +197,38 @@
       "summary": "ヤマハ株式会社が提供する無線LANルーターNWR100には、複数の脆弱性が存在します。"
     },
     {
+      "title": "Phishers now want you to type the malware in yourself",
+      "url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-28T05:57:42+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggests attackers have read the same briefing. Increasingly, they…"
+    },
+    {
       "title": "The Fed decides today: Here are the 2 levels every Bitcoin trader should watch",
       "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T04:02:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -228,7 +255,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 34.72,
+      "age_days": 34.74,
       "topics": [
         "ai"
       ],
@@ -239,12 +266,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.57,
+      "baseline_z_hint": 3.17,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.57",
+        "baseline z_hint 3.17",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -4.8 for 34.7d old signal",
@@ -257,7 +284,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:02:34+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -284,7 +311,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:01:09+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -305,34 +332,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
-    },
-    {
-      "title": "Zero Trust for AI agents",
-      "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-27T09:51:27+00:00",
-      "age_days": 0.82,
-      "topics": [
-        "ai",
-        "security",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "We share a security framework for deploying autonomous AI agents in the enterprise, covering the new threat landscape, a tiered Zero Trust architecture, and defensive operations built for AI-accelerated attacks. Frontier AI models are compressing the timeline between vulnerability and exploit fro..."
     }
   ],
   "read_order": [

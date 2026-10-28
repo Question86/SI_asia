@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-28T05:37:24Z",
+  "generated_at": "2026-10-28T06:18:36Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 4,
-      "strong": 16,
-      "watch": 18
+      "krass": 5,
+      "strong": 18,
+      "watch": 15
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 21,
-      "watch": 18
+      "strong": 24,
+      "watch": 15
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN30675482/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security",
         "infra"
@@ -49,7 +49,7 @@
       "url": "https://jvn.jp/jp/JVN30675482/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T05:07:12+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "infra"
       ],
@@ -59,12 +59,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "high terms: vpn",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
@@ -75,7 +75,7 @@
       "url": "https://jvn.jp/jp/JVN23695234/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:15+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -95,35 +95,11 @@
       "summary": "ヤマハ株式会社が提供するYamaha LAN Monitor for Windowsのインストーラには、DLL読み込みに関する脆弱性が存在します。"
     },
     {
-      "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
-      "url": "https://jvn.jp/jp/JVN23695234/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-28T05:07:12+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",
       "url": "https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:28+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -148,7 +124,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:00:33+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security",
@@ -178,7 +154,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -207,7 +183,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T09:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -233,7 +209,7 @@
       "url": "https://jvn.jp/vu/JVNVU91027179/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:15:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -255,11 +231,38 @@
       "summary": "ヤマハ株式会社が提供する無線LANルーターNWR100には、複数の脆弱性が存在します。"
     },
     {
+      "title": "Phishers now want you to type the malware in yourself",
+      "url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-28T05:57:42+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggests attackers have read the same briefing. Increasingly, they…"
+    },
+    {
       "title": "The Fed decides today: Here are the 2 levels every Bitcoin trader should watch",
       "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T04:02:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -286,7 +289,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 34.72,
+      "age_days": 34.74,
       "topics": [
         "ai"
       ],
@@ -297,12 +300,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.57,
+      "baseline_z_hint": 3.17,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.57",
+        "baseline z_hint 3.17",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -4.8 for 34.7d old signal",
@@ -315,7 +318,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:02:34+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -342,7 +345,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:01:09+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -369,7 +372,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:51:27+00:00",
-      "age_days": 0.82,
+      "age_days": 0.85,
       "topics": [
         "ai",
         "security",
@@ -393,11 +396,11 @@
       "summary": "We share a security framework for deploying autonomous AI agents in the enterprise, covering the new threat landscape, a tiered Zero Trust architecture, and defensive operations built for AI-accelerated attacks. Frontier AI models are compressing the timeline between vulnerability and exploit fro..."
     },
     {
-      "title": "ヤマハ製NWR100における複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU91027179/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-28T05:20:12+00:00",
-      "age_days": 0.01,
+      "title": "Meta’s Muse lands in Singapore with a guest list Amazon never got",
+      "url": "https://e27.co/metas-muse-lands-in-singapore-with-a-guest-list-amazon-never-got-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-28T05:48:11+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -407,14 +410,87 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ヤマハ製NWR100における複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91027179/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-28T05:20:12+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
         "high terms: 10",
         "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Phishers now want you to type the malware in yourself",
+      "url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-28T06:02:32+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN23695234/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-28T05:07:12+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -423,7 +499,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T01:30:02.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -448,7 +524,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T23:58:40.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -473,7 +549,7 @@
       "url": "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T03:40:19+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -497,7 +573,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T03:22:34.612+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -522,7 +598,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T01:59:46.533+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -547,7 +623,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T03:40:19+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -571,7 +647,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:02:34+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -595,7 +671,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 131.15,
+      "age_days": 131.18,
       "topics": [
         "general"
       ],
@@ -622,7 +698,7 @@
       "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T04:22:41+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -646,7 +722,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T02:24:14+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -671,7 +747,7 @@
       "url": "https://www.sony.jp/spatial-reality-display/products/ELF-MN1/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T04:57:36+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -695,7 +771,7 @@
       "url": "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T03:00:24+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -719,7 +795,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T04:47:49.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -744,7 +820,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:42:12.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -769,7 +845,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:35:20.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -794,7 +870,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:35:12.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -819,7 +895,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T04:49:48+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -843,7 +919,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:59:32+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -867,7 +943,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:59:32+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -891,7 +967,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:59:32+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -915,7 +991,7 @@
       "url": "https://japan.cnet.com/article/35254012/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:31:21+00:00",
-      "age_days": 0.84,
+      "age_days": 0.87,
       "topics": [
         "ai"
       ],
@@ -941,7 +1017,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T07:05:34+00:00",
-      "age_days": 131.94,
+      "age_days": 131.97,
       "topics": [
         "general"
       ],
@@ -957,80 +1033,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 131.9d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.1 - 7 km ENE of Pangyan, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-06-17T22:13:10+00:00",
-      "age_days": 132.31,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 132.3d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2151701.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-28T01:28:38+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "アップル、M6搭載の新型「MacBook Pro」発表 11月6日発売",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2151696.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-28T02:02:34+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
+        "aging penalty -8.0 for 132.0d old signal"
       ],
       "summary": ""
     }
