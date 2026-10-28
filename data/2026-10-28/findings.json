@@ -240,6 +240,29 @@
     "id": "831ed77137d94f055eb3"
   },
   {
+    "title": "Security extension for the GitHub Copilot app",
+    "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-28T15:45:00+00:00",
+    "fetched_at": "2026-10-28T16:17:07+00:00",
+    "summary": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the… The post Security extension for the GitHub Copilot app appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "Copilot",
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 20,
+    "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+7.5); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f67cab0e810c64792677"
+  },
+  {
     "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
     "url": "https://japan.cnet.com/article/35254012/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -354,6 +377,51 @@
       "PINS"
     ],
     "id": "9e35cfe069ab46c1a274"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-28T09:30:00+00:00",
+    "fetched_at": "2026-10-28T16:17:07+00:00",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "matched_keywords": [
+      "AI Agents",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "OpenAI (+6.0); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "89bde92e67dab1b69bfc"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
@@ -547,6 +615,28 @@
       "LOW"
     ],
     "id": "6ead2adf1e20e2edf91b"
+  },
+  {
+    "title": "GitHub intelligence puts your code, context, and history to work",
+    "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-28T15:40:00+00:00",
+    "fetched_at": "2026-10-28T16:17:07+00:00",
+    "summary": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in… The post GitHub intelligence puts your code, context, and history to work appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI Agents",
+      "Content-Chance",
+      "GitHub"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI Agents (+5.0); Content-Chance (+5.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "59c436fcf901ed5e8239"
   },
   {
     "title": "ヤマハ製NWR100における複数の脆弱性",
@@ -1083,6 +1173,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2fe6c2c420324d0aaa44"
+  },
+  {
+    "title": "GitHub Enterprise now includes access to GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-28T15:50:00+00:00",
+    "fetched_at": "2026-10-28T16:17:07+00:00",
+    "summary": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many… The post GitHub Enterprise now includes access to GitHub Copilot appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub",
+      "Open Source"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Open Source (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0a0dd88a5db61f0e6b01"
   },
   {
     "title": "M 4.5 - 13 km WSW of Āwash, Ethiopia",
@@ -1702,6 +1814,111 @@
     "id": "4d6cd5d8c0400977d044"
   },
   {
+    "title": "pfpdf — Markdown から、印刷品質の PDF へ",
+    "url": "https://pfpdf.preferred.tech/ja/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-28T03:32:19+00:00",
+    "fetched_at": "2026-10-28T16:17:07+00:00",
+    "summary": "GFM Markdown 表・タスクリスト・取り消し線・自動リンク・ネストしたリストなど、GitHub 標準の記法がそのまま使えます。 日本語対応の強調処理 `これは**「重要」**です` のように全角記号に隣接した強調も正しく変換されます。 数式とコードハイライト インライン・ディスプレイ数式とコードブロックのハイライトを同...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "71bd454552284060d0ef"
+  },
+  {
+    "title": "GitHub Universe 2026: Evolving every layer of the stack",
+    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-28T16:09:28+00:00",
+    "fetched_at": "2026-10-28T16:17:07+00:00",
+    "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Watchgraph:sports_sf_tech_events"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.5); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "sports_sf_tech_events"
+    ],
+    "watchgraph_reasons": [
+      "sports_sf_tech_events: GitHub Universe"
+    ],
+    "market_context": [
+      "DIS",
+      "CMCSA",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "TKO",
+      "FWONK",
+      "AAL",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "9e7f6b76bafadd9de5ad"
+  },
+  {
+    "title": "Route and orchestrate models with GitHub Copilot Fusion",
+    "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-28T16:00:00+00:00",
+    "fetched_at": "2026-10-28T16:17:07+00:00",
+    "summary": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.… The post Route and orchestrate models with GitHub Copilot Fusion appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "313bd76ac88af1ed48b2"
+  },
+  {
+    "title": "GitHub Copilot app, Universe releases",
+    "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-28T15:55:00+00:00",
+    "fetched_at": "2026-10-28T16:17:07+00:00",
+    "summary": "Work doesn’t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository… The post GitHub Copilot app, Universe releases appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fc511cfdb8884973c287"
+  },
+  {
     "title": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
     "url": "https://www.digital.go.jp/press/664c482f-3164-48d2-a3ee-5f1cf415cd78",
     "source": "Japan Digital Agency News RSS",
@@ -1930,5 +2147,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b97c2f355f51a8a6b80f"
+  },
+  {
+    "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-28T16:07:40+00:00",
+    "fetched_at": "2026-10-28T16:17:07+00:00",
+    "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "477a4e61ac16edbf2a2d"
   }
 ]

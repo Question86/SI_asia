@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T15:58:58+00:00_
+_Generiert: 2026-10-28T16:17:36+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+77 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,6 @@ _Generiert: 2026-10-28T15:58:58+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.
-- **USGS earthquake M5.5 - 5 km ESE of Asahi, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe)
-  - Quelle: USGS
-  - Zeit: `2026-10-28T15:07:52+00:00`
-  - Kurz: M5.5 - 5 km ESE of Asahi, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -122,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: AI Design Skills A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file. Each skill is a self-contained folder. Install the ones you need. Skills Skill What it does landing-page-design Builds a landing page from scratch — intake questions, page structure, conversion copy, plus a full visual system (type, spacing, radius, mo…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Security extension for the GitHub Copilot app** — Score 20, observation — [Quelle](https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-28T15:45:00+00:00`, fetched `2026-10-28T16:17:07+00:00`
+  - Treffer: CodeQL/Dependabot, Copilot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+7.5); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the… The post Security extension for the GitHub Copilot app appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表** — Score 18, observation — [Quelle](https://japan.cnet.com/article/35254012/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-27T09:31:21+00:00`, fetched `2026-10-28T00:43:21+00:00`
@@ -152,6 +157,15 @@ Keine neuen Hochprioritäts-Treffer.
 - **Legora is building the agentic operating system for legal work** — Score 16, observation — [Quelle](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-28T09:30:00+00:00`, fetched `2026-10-28T10:17:08+00:00`
+  - Treffer: AI Agents, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Legora is building the agentic operating system for legal work** — Score 16, observation — [Quelle](https://openai.com/index/legora)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-28T09:30:00+00:00`, fetched `2026-10-28T16:17:07+00:00`
   - Treffer: AI Agents, OpenAI, Watchgraph:ai_agents_workflow
   - Watchgraph: ai_agents_workflow
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
@@ -194,24 +208,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: When Meta switched on Muse in the US last month, it let its new personal AI agent wander into Amazon.com unannounced. Twelve days later, Amazon showed it the door, complaining that the bot did not identify itself and that nobody had asked permission. In Singapore, Meta has brought the hosts along. Also Read: Zuckerberg’s Muse […] The post Meta’s Muse lands in Singapore with a guest list Amazon never got appeared fir…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - 6 km NW of Balangonan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-28T01:30:02.040+00:00`, fetched `2026-10-28T01:47:00+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-28 01:11:54 UTC 2026-10-28 01:11:54 UTC at epicenter Location 5.608°N 125.305°E Depth 45.94 km (28.55 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ヤマハ製NWR100における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91027179/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-28T14:15:00+09:00`, fetched `2026-10-28T05:19:32+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ヤマハ株式会社が提供する無線LANルーターNWR100には、複数の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -323,6 +319,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); central banks (+2.5)
   - Kurz: A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Enterprise now includes access to GitHub Copilot** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-28T15:50:00+00:00`, fetched `2026-10-28T16:17:07+00:00`
+  - Treffer: Copilot, GitHub, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many… The post GitHub Enterprise now includes access to GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース** — Score 9, observation — [Quelle](https://news.yahoo.co.jp/articles/4573deab7a69a2492e721d2d5bf8e59d3393d84a)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-28T02:22:26+00:00`, fetched `2026-10-28T03:39:44+00:00`
@@ -341,15 +346,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: クーポン・お買い物券:coupon枚 ソニーポイント:pointポイント一度サインアウトして、再度サインインしてください
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-28T11:35:00.000+00:00`, fetched `2026-10-28T11:47:43+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Am Wochenende wurden Sicherheitslücken in Tailscale-Software bekannt, die Angreifer etwa zum Ausweiten der Rechte missbrauchen können.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
