@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T11:29:33+00:00_
+_Generiert: 2026-10-28T11:48:13+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+44 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: クーポン・お買い物券:coupon枚 ソニーポイント:pointポイント一度サインアウトして、再度サインインしてください
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-28T11:35:00.000+00:00`, fetched `2026-10-28T11:47:43+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Am Wochenende wurden Sicherheitslücken in Tailscale-Software bekannt, die Angreifer etwa zum Ausweiten der Rechte missbrauchen können.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angreifer können Veeam-Backup-Server manipulieren und MFA deaktivieren** — Score 7, observation — [Quelle](https://www.heise.de/news/Veeam-Backup-Server-manipulierbar-und-MFA-deaktivierbar-11502821.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-28T09:23:00.000+00:00`, fetched `2026-10-28T09:44:34+00:00`

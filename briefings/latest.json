@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T11:29:33+00:00",
-  "run_id": "2026-10-28T11:29:33+00:00",
+  "generated_at": "2026-10-28T11:48:13+00:00",
+  "run_id": "2026-10-28T11:48:13+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 43
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 43,
-    "displayed_findings": 43,
+    "new_relevant_findings": 1,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
     "medium": 15,
-    "observe": 28,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -1116,6 +1116,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9da4d091fd2b3cce3950"
+      },
+      {
+        "title": "Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken",
+        "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-28T11:35:00.000+00:00",
+        "fetched_at": "2026-10-28T11:47:43+00:00",
+        "summary": "Am Wochenende wurden Sicherheitslücken in Tailscale-Software bekannt, die Angreifer etwa zum Ausweiten der Rechte missbrauchen können.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1b6a562343168064e6ea"
       },
       {
         "title": "Angreifer können Veeam-Backup-Server manipulieren und MFA deaktivieren",
@@ -2393,6 +2413,26 @@
       "id": "9da4d091fd2b3cce3950"
     },
     {
+      "title": "Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken",
+      "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-28T11:35:00.000+00:00",
+      "fetched_at": "2026-10-28T11:47:43+00:00",
+      "summary": "Am Wochenende wurden Sicherheitslücken in Tailscale-Software bekannt, die Angreifer etwa zum Ausweiten der Rechte missbrauchen können.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1b6a562343168064e6ea"
+    },
+    {
       "title": "Angreifer können Veeam-Backup-Server manipulieren und MFA deaktivieren",
       "url": "https://www.heise.de/news/Veeam-Backup-Server-manipulierbar-und-MFA-deaktivierbar-11502821.html",
       "source": "heise Security Alerts",
@@ -2579,7 +2619,28 @@
       "id": "b97c2f355f51a8a6b80f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken",
+      "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-28T11:35:00.000+00:00",
+      "fetched_at": "2026-10-28T11:47:43+00:00",
+      "summary": "Am Wochenende wurden Sicherheitslücken in Tailscale-Software bekannt, die Angreifer etwa zum Ausweiten der Rechte missbrauchen können.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1b6a562343168064e6ea"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
