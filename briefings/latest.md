@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T01:28:34+00:00_
+_Generiert: 2026-10-28T01:47:31+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+8 neue relevante Treffer. Stärkstes Signal: „NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -108,6 +108,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.2 - 6 km NW of Balangonan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-28T01:30:02.040+00:00`, fetched `2026-10-28T01:47:00+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-28 01:11:54 UTC 2026-10-28 01:11:54 UTC at epicenter Location 5.608°N 125.305°E Depth 45.94 km (28.55 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 7 km ENE of Pangyan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
