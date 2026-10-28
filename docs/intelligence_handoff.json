@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-28T05:12:50Z",
+  "generated_at": "2026-10-28T05:24:08Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN30675482/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security",
         "infra"
@@ -41,7 +41,7 @@
       "url": "https://jvn.jp/jp/JVN23695234/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:15+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -59,30 +59,6 @@
         "security high-signal: jvn, security"
       ],
       "summary": "ヤマハ株式会社が提供するYamaha LAN Monitor for Windowsのインストーラには、DLL読み込みに関する脆弱性が存在します。"
-    },
-    {
-      "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
-      "url": "https://jvn.jp/jp/JVN23695234/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-28T05:07:12+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
     },
     {
       "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",
@@ -114,7 +90,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:00:33+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security",
@@ -173,7 +149,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T09:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -195,11 +171,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "ヤマハ製NWR100における複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91027179/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-28T14:15:00+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "ヤマハ株式会社が提供する無線LANルーターNWR100には、複数の脆弱性が存在します。"
+    },
+    {
       "title": "The Fed decides today: Here are the 2 levels every Bitcoin trader should watch",
       "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T04:02:21+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -226,7 +228,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 34.7,
+      "age_days": 34.71,
       "topics": [
         "ai"
       ],
@@ -237,12 +239,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.5,
+      "baseline_z_hint": 5.03,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.50",
+        "baseline z_hint 5.03",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -4.8 for 34.7d old signal",
@@ -255,7 +257,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:02:34+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -282,7 +284,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:01:09+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
