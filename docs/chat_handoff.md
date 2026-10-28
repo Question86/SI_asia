@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T20:19:58+00:00_
+_Generated: 2026-10-28T20:29:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `84`
+- findings: `85`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-28T20:19:58+00:00_
 - url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/
 - summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
 
-### 8. Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
-- source: ECB Open Market Operations and Communication
+### 8. OpenAI and ServiceNow expand partnership across enterprise workflows
+- source: OpenAI News RSS
 - score: `12`
-- published: `2026-10-28T08:15:22+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html
-- summary: Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
+- published: `2026-10-28T13:15:00+00:00`
+- url: https://openai.com/index/openai-servicenow-partnership-expansion
+- summary: OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.
 
 END OF DOCUMENT

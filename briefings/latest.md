@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T20:19:58+00:00_
+_Generiert: 2026-10-28T20:29:14+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+85 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -234,6 +234,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OpenAI and ServiceNow expand partnership across enterprise workflows** — Score 12, opportunity — [Quelle](https://openai.com/index/openai-servicenow-partnership-expansion)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-28T13:15:00+00:00`, fetched `2026-10-28T20:28:44+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-10-28T08:15:22+00:00`, fetched `2026-10-28T08:23:27+00:00`
@@ -332,15 +341,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Federal Reserve issues FOMC statement
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub Enterprise now includes access to GitHub Copilot** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-10-28T15:50:00+00:00`, fetched `2026-10-28T16:17:07+00:00`
-  - Treffer: Copilot, GitHub, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many… The post GitHub Enterprise now includes access to GitHub Copilot appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
