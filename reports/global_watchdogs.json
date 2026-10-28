@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-28T19:31:35+00:00",
+  "generated_at": "2026-10-28T19:48:25+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-41709 Broadcom VMware ESX",
+        "summary": "Known exploited vulnerability. Added 2026-10-28. Due 2026-11-11. Broadcom VMWare ESX Insufficient Logging Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-28",
+        "metrics": {
+          "cve": "CVE-2026-41709"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-46300 Linux Kernel",
+        "summary": "Known exploited vulnerability. Added 2026-10-28. Due 2026-10-31. Linux Kernel Missing Initialization of a Variable Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-10-28",
+        "metrics": {
+          "cve": "CVE-2026-46300"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -36,30 +60,6 @@
         "published_at": "2026-10-26",
         "metrics": {
           "cve": "CVE-2026-109618"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-109619 PHP Group PHP",
-        "summary": "Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Stale Internal Request-State Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-26",
-        "metrics": {
-          "cve": "CVE-2026-109619"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-114625 Arista VeloCloud Orchestrator",
-        "summary": "Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Arista VeloCloud Orchestrator SQL Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-23",
-        "metrics": {
-          "cve": "CVE-2026-114625"
         }
       },
       {

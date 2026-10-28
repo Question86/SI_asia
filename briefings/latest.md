@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T19:31:31+00:00_
+_Generiert: 2026-10-28T19:48:22+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-10-28T19:31:31+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-41709 Broadcom VMware ESX** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-28`
+  - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-11-11. Broadcom VMWare ESX Insufficient Logging Vulnerability
+- **CISA KEV: CVE-2026-46300 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-28`
+  - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-10-31. Linux Kernel Missing Initialization of a Variable Vulnerability
 - **CISA KEV: CVE-2026-48356 Adobe Commerce and Magento** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-27`
@@ -21,14 +29,6 @@ _Generiert: 2026-10-28T19:31:31+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-26`
   - Kurz: Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Memory Corruption Vulnerability
-- **CISA KEV: CVE-2026-109619 PHP Group PHP** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-26`
-  - Kurz: Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Stale Internal Request-State Vulnerability
-- **CISA KEV: CVE-2026-114625 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-23`
-  - Kurz: Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Arista VeloCloud Orchestrator SQL Injection Vulnerability
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574369)
   - Quelle: GDACS
   - Zeit: ``
