@@ -1,30 +1,129 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-28T04:38:49Z",
+  "generated_at": "2026-10-28T05:12:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 2,
-      "strong": 12,
-      "watch": 17,
-      "quiet": 7
+      "krass": 3,
+      "strong": 15,
+      "watch": 20
     },
     "bands_after_gate_recheck": {
-      "strong": 16,
-      "watch": 17,
-      "quiet": 7
+      "krass": 1,
+      "strong": 19,
+      "watch": 20
     }
   },
   "top_dynamics": [
+    {
+      "title": "ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性",
+      "url": "https://jvn.jp/jp/JVN30675482/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-28T14:00:00+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: vpn",
+        "security high-signal: vpn"
+      ],
+      "summary": "ヤマハ株式会社が提供するYMS-VPN8およびYMS-VPN8-CPには、登録されるWindowsサービスプログラムのファイルパスが引用符で囲まれていない問題が存在します。"
+    },
+    {
+      "title": "ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性",
+      "url": "https://jvn.jp/jp/JVN30675482/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-28T05:07:12+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "infra"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: vpn",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN23695234/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-28T14:00:15+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "ヤマハ株式会社が提供するYamaha LAN Monitor for Windowsのインストーラには、DLL読み込みに関する脆弱性が存在します。"
+    },
+    {
+      "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN23695234/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-28T05:07:12+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
     {
       "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",
       "url": "https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:28+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -49,7 +148,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:00:33+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security",
@@ -79,7 +178,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:05+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -108,7 +207,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T09:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -134,7 +233,7 @@
       "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T04:02:21+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -161,7 +260,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T12:27:37+00:00",
-      "age_days": 34.67,
+      "age_days": 34.7,
       "topics": [
         "ai"
       ],
@@ -172,12 +271,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.9,
+      "baseline_z_hint": 5.5,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 6.90",
+        "baseline z_hint 5.50",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -4.8 for 34.7d old signal",
@@ -190,7 +289,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:02:34+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -217,7 +316,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:01:09+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -244,7 +343,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:51:27+00:00",
-      "age_days": 0.78,
+      "age_days": 0.81,
       "topics": [
         "ai",
         "security",
@@ -272,7 +371,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T01:30:02.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -297,7 +396,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T23:58:40.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -322,7 +421,7 @@
       "url": "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T03:40:19+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -346,7 +445,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T03:22:34.612+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -371,7 +470,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T01:59:46.533+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -396,7 +495,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T03:40:19+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -420,7 +519,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:02:34+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -444,7 +543,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 131.11,
+      "age_days": 131.13,
       "topics": [
         "general"
       ],
@@ -467,11 +566,35 @@
       "summary": ""
     },
     {
+      "title": "The Fed decides today: Here are the 2 levels every Bitcoin trader should watch",
+      "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-28T04:22:41+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
       "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T02:24:14+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -492,11 +615,35 @@
       "summary": ""
     },
     {
+      "title": "ELF-MN1 | 空間再現ディスプレイ（Spatial Reality Display） | ソニー",
+      "url": "https://www.sony.jp/spatial-reality-display/products/ELF-MN1/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-28T04:57:36+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention",
       "url": "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T03:00:24+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -516,11 +663,36 @@
       "summary": "Every few months, Southeast Asia’s startup ecosystem gets a headline that sounds like a resurrection. This October brought two. Tracxn reported that tech funding in the region rose 176 per cent to US$13.5 billion in the first nine months of 2026. Dealroom and Founders Forum went further, saying funding had tripled and…"
     },
     {
+      "title": "M 5.0 - 200 km W of Sola, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-28T04:47:49.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-28 04:31:04 UTC 2026-10-28 04:31:04 UTC at epicenter Location 13.742°S 165.701°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.8 - 217 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:42:12.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -545,7 +717,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:35:20.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -570,7 +742,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:35:12.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -595,7 +767,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:59:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -619,7 +791,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:59:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -643,7 +815,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:59:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -666,36 +838,8 @@
       "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
       "url": "https://japan.cnet.com/article/35254012/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 130.8,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 15.18,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 3.8,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 3.80",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 130.8d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
-      "url": "https://japan.cnet.com/article/35254012/",
-      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:31:21+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -721,7 +865,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T07:05:34+00:00",
-      "age_days": 131.9,
+      "age_days": 131.92,
       "topics": [
         "general"
       ],
@@ -746,7 +890,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-17T22:13:10+00:00",
-      "age_days": 132.27,
+      "age_days": 132.29,
       "topics": [
         "general"
       ],
@@ -767,13 +911,41 @@
       "summary": ""
     },
     {
-      "title": "The Fed decides today: Here are the 2 levels every Bitcoin trader should watch",
-      "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-28T04:22:41+00:00",
-      "age_days": 0.01,
+      "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
+      "url": "https://japan.cnet.com/article/35254012/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T09:22:22+00:00",
+      "age_days": 130.83,
       "topics": [
-        "macro"
+        "ai"
+      ],
+      "dynamics_score": 14.3,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.00",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 130.8d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.0 - 200 km W of Sola, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-28T04:49:48+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
       ],
       "dynamics_score": 14.0,
       "raw_band": "watch",
@@ -781,12 +953,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -795,7 +967,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2151701.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T01:28:38+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -819,7 +991,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2151696.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T02:02:34+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -843,7 +1015,7 @@
       "url": "https://e27.co/how-we-use-ai-to-triage-inbound-b2b-leads-without-blasting-everyone-the-same-way-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T03:40:19+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -863,189 +1035,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "Inside Singapore’s AI push: Lighthouses, rice importers and robot labs",
-      "url": "https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-28T02:02:34+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/4573deab7a69a2492e721d2d5bf8e59d3393d84a",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-28T03:40:19+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-27T22:49:05+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】"
-    },
-    {
-      "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",
-      "url": "https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-28T01:19:37+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」",
-      "url": "https://codezine.jp/article/detail/29762",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-01T10:18:55+00:00",
-      "age_days": 26.76,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.98,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "aging penalty -2.0 for 26.8d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "How we use AI to triage inbound B2B leads without blasting everyone the same way",
-      "url": "https://e27.co/how-we-use-ai-to-triage-inbound-b2b-leads-without-blasting-everyone-the-same-way-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-28T03:00:41+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click the website, maybe not. If the […] The post How we use AI to…"
-    },
-    {
-      "title": "Muggles struggle, wizards juggle: What happens when everyone gets an AI familiar",
-      "url": "https://e27.co/muggles-struggle-wizards-juggle-what-happens-when-everyone-gets-an-ai-familiar-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-28T04:00:06+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The new Harry Potter series arrives on HBO this Christmas, and the wizarding world is back in the conversation. I recently walked through the Great Hall and down Diagon Alley at the Warner Bros. Studio Tour in London. Somewhere between the animatronics and a butterbeer, one thought stuck: the technology we are buildin…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
