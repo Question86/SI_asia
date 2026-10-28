@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T08:24:00+00:00",
-  "run_id": "2026-10-28T08:24:00+00:00",
+  "generated_at": "2026-10-28T08:35:22+00:00",
+  "run_id": "2026-10-28T08:35:22+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 39,
     "displayed_findings": 39,
     "high": 0,
@@ -2333,50 +2333,7 @@
       "id": "b97c2f355f51a8a6b80f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-10-28T08:15:22+00:00",
-      "fetched_at": "2026-10-28T08:23:27+00:00",
-      "summary": "Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aba46513bad0f9065cd2"
-    },
-    {
-      "title": "Angreifer nehmen Brotli-, Adobe-Commerce- und Magento-Lecks ins Visier",
-      "url": "https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-28T08:03:00.000+00:00",
-      "fetched_at": "2026-10-28T08:23:27+00:00",
-      "summary": "In freier Wildbahn wurden Angriffe auf kritische Sicherheitslücken in Brotli, Adobe Commerce und Magento beobachtet. Updates helfen.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4d6cd5d8c0400977d044"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
