@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-10-28T06:02:51+00:00`
+Generated: `2026-10-28T06:28:35+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -21,9 +21,9 @@ Generated: `2026-10-28T06:02:51+00:00`
 | Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
+| Phishers now want you to type the malware in yourself | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
-| Phishers now want you to type the malware in yourself | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | M 5.1 - 34 km NNW of Bāgeshwar, India | natural_disaster, conflict | $112.80M | $11.28B | $1.13T | 0.33 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Stage-only npm tokens for safer automation | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
