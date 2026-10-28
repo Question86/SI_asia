@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T03:40:19+00:00",
+  "generated_at": "2026-10-28T03:48:03+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -199,7 +199,7 @@
     },
     "earthquake:philippines:5.1": {
       "title": "M 5.1 - 7 km ENE of Pangyan, Philippines",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         17.7,
         20.7,
@@ -212,12 +212,13 @@
         17.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 17.95,
+      "rolling_average": 17.93,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "earthquake:philippines:5.0": {
       "title": "M 5.0 - 38 km WSW of Palimbang, Philippines",
@@ -738,7 +739,7 @@
     },
     "earthquake:philippines:5.2": {
       "title": "M 5.2 - 6 km NW of Balangonan, Philippines",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -763,8 +764,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -2879,7 +2880,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2899,8 +2900,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -4460,9 +4461,8 @@
     },
     "domain:japan.cnet.com": {
       "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -4491,12 +4491,13 @@
         20.1,
         20.1,
         20.1,
+        20.1,
         20.1
       ],
-      "rolling_average": 14.97,
+      "rolling_average": 15.23,
       "rolling_peak": 23.1,
       "last_score": 20.1,
-      "z_hint": 5.13
+      "z_hint": 4.87
     },
     "domain:kawarimidoll.com": {
       "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
@@ -44970,9 +44971,8 @@
     },
     "domain:claude.com": {
       "title": "Zero Trust for AI agents",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
-        11.1,
         11.1,
         11.1,
         11.1,
@@ -45001,12 +45001,13 @@
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 15.87,
+      "rolling_average": 16.33,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": 9.23
+      "z_hint": 8.77
     },
     "title:multiples-vuln-rabilit-dans-oracle-weblogic-septembre-2026": {
       "title": "Multiples vulnérabilités dans Oracle Weblogic (16 septembre 2026)",
@@ -56417,9 +56418,8 @@
     },
     "title:100": {
       "title": "AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
-        8.1,
         8.1,
         8.1,
         8.1,
@@ -56448,12 +56448,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.03,
+      "rolling_average": 8.0,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.93
+      "z_hint": -0.9
     },
     "url:https://zenn.dev/kmizu/articles/2026-09-parser-book": {
       "title": "『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）",
@@ -94604,7 +94605,7 @@
     },
     "title:netsuite-james-chisham-sea-invoicing-maze-data-residency": {
       "title": "NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         28.1,
         25.1,
@@ -94614,16 +94615,17 @@
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.43,
+      "rolling_average": 25.4,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:most-dangerous-thing-about-isn-hallucination-that-stopped": {
       "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -94632,16 +94634,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.47,
+      "rolling_average": 10.43,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "title:gpu-oracle-google-tpu": {
       "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -94649,58 +94652,77 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.53,
+      "rolling_average": 7.48,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "title:will-shopping-agents-change-amazon-retail": {
       "title": "How will AI shopping agents change Amazon and retail?",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         28.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.85,
+      "rolling_average": 25.7,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "earthquake:m 5.5 - 221 km nw of port-olry, vanuatu:5.5": {
       "title": "M 5.5 - 221 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         18.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 16.45,
+      "rolling_average": 16.3,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:inside-singapore-push-lighthouses-rice-importers-robot-labs": {
       "title": "Inside Singapore’s AI push: Lighthouses, rice importers and robot labs",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         15.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.85,
+      "rolling_average": 12.7,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:macbook-pro": {
       "title": "アップル、M6搭載の新型「MacBook Pro」発表 11月6日発売",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.7,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.6
+    },
+    "title:machgl-90kb-100mb": {
+      "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -94712,98 +94734,92 @@
       "last_score": 7.1,
       "z_hint": -0.75
     },
-    "title:machgl-90kb-100mb": {
-      "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
-      "updated_at": "2026-10-28T03:40:19+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 8.1,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.0
-    },
     "earthquake:m 4.8 - 217 km nw of port-olry, vanuatu:4.8": {
       "title": "M 4.8 - 217 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 13.2,
+      "rolling_average": 12.7,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "earthquake:m 5.2 - 220 km nw of port-olry, vanuatu:5.2": {
       "title": "M 5.2 - 220 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 13.2,
+      "rolling_average": 12.7,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "earthquake:m 6.0 - 214 km nw of port-olry, vanuatu:6.0": {
       "title": "M 6.0 - 214 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 13.2,
+      "rolling_average": 12.7,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "earthquake:m 5.6 - 174 km nw of port-olry, vanuatu:5.6": {
       "title": "M 5.6 - 174 km NW of Port-Olry, Vanuatu",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
-        18.7
+        18.7,
+        15.7
       ],
-      "rolling_average": 18.7,
+      "rolling_average": 17.2,
       "rolling_peak": 18.7,
-      "last_score": 18.7,
-      "z_hint": 0.0
+      "last_score": 15.7,
+      "z_hint": -1.5
     },
     "title:meta-sells-voteless-shares-spacex-leases-its-chips": {
       "title": "Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
-        17.1
+        17.1,
+        14.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 15.6,
       "rolling_peak": 17.1,
-      "last_score": 17.1,
-      "z_hint": 0.0
+      "last_score": 14.1,
+      "z_hint": -1.5
     },
     "title:use-triage-inbound-b2b-leads-without-blasting-everyone": {
       "title": "How we use AI to triage inbound B2B leads without blasting everyone the same way",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
-        16.1
+        16.1,
+        13.1
       ],
-      "rolling_average": 16.1,
+      "rolling_average": 14.6,
       "rolling_peak": 16.1,
-      "last_score": 16.1,
-      "z_hint": 0.0
+      "last_score": 13.1,
+      "z_hint": -1.5
     },
     "title:tbs-news-dig-powered-jnn-yahoo": {
       "title": "トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-      "updated_at": "2026-10-28T03:40:19+00:00",
+      "updated_at": "2026-10-28T03:48:03+00:00",
       "network_scores": [
-        14.1
+        14.1,
+        11.1
       ],
-      "rolling_average": 14.1,
+      "rolling_average": 12.6,
       "rolling_peak": 14.1,
-      "last_score": 14.1,
-      "z_hint": 0.0
+      "last_score": 11.1,
+      "z_hint": -1.5
     }
   }
 }
