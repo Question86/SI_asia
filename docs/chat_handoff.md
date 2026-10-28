@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T02:02:31+00:00_
+_Generated: 2026-10-28T02:24:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-28T02:02:31+00:00_
 - url: https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/
 - summary: Everyone is worried about the wrong AI failure. For two years, the loudest AI safety conversation has centred on hallucination: the model that invents a fact, a court case, a source that never existed. That risk is real and well documented. But a quieter prob…
 
-### 8. 脱GPUが加速、OracleもGoogle製TPUを選択
+### 8. 軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-10-27T21:44:26+00:00`
-- url: https://pc.watch.impress.co.jp/docs/news/2151701.html
-- summary: 脱GPUが加速、OracleもGoogle製TPUを選択
+- published: `2026-10-27T22:49:05+00:00`
+- url: https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html
+- summary: 軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T02:02:31+00:00_
+_Generiert: 2026-10-28T02:24:09+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+14 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-10-28T02:02:31+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`
   - Kurz: Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Arista VeloCloud Orchestrator SQL Injection Vulnerability
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574251)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574115)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,10 +57,6 @@ _Generiert: 2026-10-28T02:02:31+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573712)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.
 - **USGS earthquake M5.5 - 221 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld)
   - Quelle: USGS
   - Zeit: `2026-10-28T01:39:11+00:00`
@@ -170,6 +170,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Everyone is worried about the wrong AI failure. For two years, the loudest AI safety conversation has centred on hallucination: the model that invents a fact, a court case, a source that never existed. That risk is real and well documented. But a quieter problem is spreading underneath it, and it may end up mattering […] The post The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-27T22:49:05+00:00`, fetched `2026-10-28T02:23:39+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **脱GPUが加速、OracleもGoogle製TPUを選択** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2151701.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-27T21:44:26+00:00`, fetched `2026-10-28T01:28:00+00:00`
@@ -187,15 +196,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: アップル、M6搭載の新型「MacBook Pro」発表 11月6日発売
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」** — Score 5, observation — [Quelle](https://codezine.jp/article/detail/29762)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-27T03:29:58+00:00`, fetched `2026-10-28T01:53:55+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 最近では、エンジニアがデザインをAIで生成してそのまま実装に落とし込むケースが増えています。しかし、その際に直面するのは、見た目は整っているのにUI/UXが機能せず、サイトが想定通りに使われないという問題です。本連載ではそんなエンジニアのために、UXを改善するヒントを株式会社Faciloのフロントエンドエンジニ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
