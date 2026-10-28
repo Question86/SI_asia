@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:24:14+00:00",
+  "generated_at": "2026-10-28T02:59:32+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,31 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "USGS earthquake M6.0 - 214 km NW of Port-Olry, Vanuatu",
+        "summary": "M6.0 - 214 km NW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
+        "published_at": "2026-10-28T02:21:45+00:00",
+        "metrics": {
+          "mag": 6.0,
+          "alert": "",
+          "sig": 554.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574265",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
         "source": "GDACS",
@@ -121,31 +146,6 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573773",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001343",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - 221 km NW of Port-Olry, Vanuatu",
-        "summary": "M5.5 - 221 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
-        "published_at": "2026-10-28T01:39:11+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 465.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
