@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T08:03:21+00:00_
+_Generated: 2026-10-28T08:24:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `37`
+- findings: `39`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-28T08:03:21+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-28 01:39:11 UTC 2026-10-28 01:39:11 UTC at epicenter Location 13.895°S 165.389°E Depth 10.00 km (6.21 mi)
 
-### 7. Phishers now want you to type the malware in yourself
+### 7. Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-10-28T08:15:22+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html
+- summary: Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 8. Phishers now want you to type the malware in yourself
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-28T05:57:42+00:00`
 - url: https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/
 - summary: For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggest…
-
-### 8. Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-28T03:00:24+00:00`
-- url: https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/
-- summary: Every few months, Southeast Asia’s startup ecosystem gets a headline that sounds like a resurrection. This October brought two. Tracxn reported that tech funding in the region rose 176 per cent to US$13.5 billion in the first nine months of 2026. Dealroom and…
 
 END OF DOCUMENT

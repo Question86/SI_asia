@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T08:03:21+00:00_
+_Generiert: 2026-10-28T08:24:00+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+39 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -202,6 +202,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-28 01:39:11 UTC 2026-10-28 01:39:11 UTC at epicenter Location 13.895°S 165.389°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-10-28T08:15:22+00:00`, fetched `2026-10-28T08:23:27+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Phishers now want you to type the malware in yourself** — Score 12, risk — [Quelle](https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-28T05:57:42+00:00`, fetched `2026-10-28T06:01:54+00:00`
@@ -256,6 +265,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: クーポン・お買い物券:coupon枚 ソニーポイント:pointポイント一度サインアウトして、再度サインインしてください
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Angreifer nehmen Brotli-, Adobe-Commerce- und Magento-Lecks ins Visier** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-28T08:03:00.000+00:00`, fetched `2026-10-28T08:23:27+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: In freier Wildbahn wurden Angriffe auf kritische Sicherheitslücken in Brotli, Adobe Commerce und Magento beobachtet. Updates helfen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **三角デジタル監がDFFT Expert Community初の対面会合に出席しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/664c482f-3164-48d2-a3ee-5f1cf415cd78)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-28T06:04:22+00:00`, fetched `2026-10-28T06:27:35+00:00`
