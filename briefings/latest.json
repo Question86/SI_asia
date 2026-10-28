@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T15:44:41+00:00",
-  "run_id": "2026-10-28T15:44:41+00:00",
+  "generated_at": "2026-10-28T15:52:39+00:00",
+  "run_id": "2026-10-28T15:52:39+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 68,
     "displayed_findings": 68,
     "high": 0,
@@ -3899,29 +3899,7 @@
       "id": "b97c2f355f51a8a6b80f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
-      "url": "https://www.bis.org/p/s0/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
-      "source": "BIS Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-10-29T00:00:00+00:00",
-      "fetched_at": "2026-10-28T15:44:09+00:00",
-      "summary": "A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.",
-      "matched_keywords": [
-        "central banks",
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); central banks (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2fe6c2c420324d0aaa44"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
