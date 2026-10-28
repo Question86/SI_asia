@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T05:29:30+00:00_
+_Generiert: 2026-10-28T05:48:08+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+30 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Meta’s Muse lands in Singapore with a guest list Amazon never got** — Score 15, observation — [Quelle](https://e27.co/metas-muse-lands-in-singapore-with-a-guest-list-amazon-never-got-20261028/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-28T05:30:40+00:00`, fetched `2026-10-28T05:47:39+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: When Meta switched on Muse in the US last month, it let its new personal AI agent wander into Amazon.com unannounced. Twelve days later, Amazon showed it the door, complaining that the bot did not identify itself and that nobody had asked permission. In Singapore, Meta has brought the hosts along. Also Read: Zuckerberg’s Muse […] The post Meta’s Muse lands in Singapore with a guest list Amazon never got appeared fir…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 6 km NW of Balangonan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-28T01:30:02.040+00:00`, fetched `2026-10-28T01:47:00+00:00`
@@ -229,14 +238,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: クーポン・お買い物券:coupon枚 ソニーポイント:pointポイント一度サインアウトして、再度サインインしてください
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html)
+- **支給PCのスペックがショボすぎて、新人が辞めた。** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20261028103922)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-27T22:49:05+00:00`, fetched `2026-10-28T02:23:39+00:00`
+  - Zeit: published `2026-10-28T01:39:36+00:00`, fetched `2026-10-28T05:47:39+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】
+  - Kurz: メモリ価格の高騰で、PCの値段は昨年の倍になった。一方、うちの会社のPC調達規程は平成に制定されて以来、一度も改定されていない。 PCは1台10万円未満とする。 うちでは10万円以上になると固定資産として台帳に載り、稟議も社長決裁になる。その稟議を書きたい人がいないので、二十年間守られてきた。 今のPC価格はこ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -249,3 +258,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): 502 Server Error: Bad Gateway for url: https://www.bsi.bund.de/error_path/502.html?al_req_id=auGMhQ3xtOZYE5mGzjtpEwAABIA
