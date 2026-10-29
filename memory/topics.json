@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-29T13:57:15+00:00",
+  "generated_at": "2026-10-29T14:06:30+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,13 @@
         "url": "https://www.twcert.org.tw/tw/cp-104-11352-8c3dc-1.html"
       },
       {
+        "title": "[NEU] [hoch] Cisco Secure Firewall Threat Defense und Cisco ASA: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T14:00:15+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4238"
+      },
+      {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libXi, libXrender, ansible-collection-redhat-leapp) und Red Hat Build of Apache Camel for Quarkus: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-29T11:49:27+00:00",
@@ -170,6 +177,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530"
       },
       {
+        "title": "[UPDATE] [mittel] docker: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T14:00:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1584"
+      },
+      {
+        "title": "[NEU] [niedrig] Octopus Deploy: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T14:00:16+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4239"
+      },
+      {
+        "title": "[NEU] [kritisch] Grafana: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T14:00:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4237"
+      },
+      {
+        "title": "[NEU] [hoch] HCL BigFix AEX: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T14:00:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4236"
+      },
+      {
         "title": "[UPDATE] [niedrig] expat: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-29T13:54:33+00:00",
@@ -182,41 +217,6 @@
         "published_at": "2026-10-29T12:57:00+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4216"
-      },
-      {
-        "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-29T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN82782759/"
-      },
-      {
-        "title": "[NEU] [hoch] Python: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-29T10:34:25+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4189"
-      },
-      {
-        "title": "[UPDATE] [mittel] MLflow: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-29T09:49:26+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875"
-      },
-      {
-        "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-28T22:58:45+00:00",
-        "relevance_score": 12,
-        "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html"
-      },
-      {
-        "title": "Angriffsversuche auf junge Lücke in Oracle E-Business-Suite",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-29T11:29:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html"
       }
     ],
     "general": [
@@ -291,6 +291,78 @@
         "url": "https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/"
       }
     ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Cisco Secure Firewall Threat Defense und Cisco ASA: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T14:00:15+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4238"
+      },
+      {
+        "title": "[NEU] [niedrig] Octopus Deploy: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T14:00:16+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4239"
+      },
+      {
+        "title": "[NEU] [kritisch] Grafana: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T14:00:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4237"
+      },
+      {
+        "title": "[NEU] [hoch] HCL BigFix AEX: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T14:00:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4236"
+      },
+      {
+        "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-29T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN82782759/"
+      },
+      {
+        "title": "[NEU] [hoch] Python: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T10:34:25+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4189"
+      },
+      {
+        "title": "Every department you add makes your startup harder to understand",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-29T01:00:45+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/"
+      },
+      {
+        "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-29T14:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html"
+      },
+      {
+        "title": "Monetary policy decisions",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-29T13:15:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+      },
+      {
+        "title": "ECB President Lagarde to step down on 7 February 2027",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-29T10:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html"
+      }
+    ],
     "github": [
       {
         "title": "HKUDS/DeepTutor",
@@ -326,64 +398,6 @@
         "published_at": "2026-10-29T04:04:16+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/hong-kong-has-no-gigafactories-but-it-wants-a-cut-of-asias-us5t-battery-boom-20261028/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-29T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN82782759/"
-      },
-      {
-        "title": "[NEU] [hoch] Python: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-29T10:34:25+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4189"
-      },
-      {
-        "title": "Every department you add makes your startup harder to understand",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-29T01:00:45+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/"
-      },
-      {
-        "title": "Monetary policy decisions",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-29T13:15:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
-      },
-      {
-        "title": "ECB President Lagarde to step down on 7 February 2027",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-29T10:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html"
-      },
-      {
-        "title": "Release of the Monetary Policy Report",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-29T00:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.bis.org/speeches/20261029-release-monetary-policy-report"
-      },
-      {
-        "title": "Chile's September 2026 Monetary Policy Report",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-29T00:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.bis.org/speeches/20261029-chiles-september-2026-monetary-policy-report"
-      },
-      {
-        "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-29T07:34:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html"
       }
     ]
   }
