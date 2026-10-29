@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T12:26:46+00:00_
+_Generiert: 2026-10-29T12:41:35+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+51 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -222,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB President Lagarde to step down on 7 February 2027
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される** — Score 8, observation — [Quelle](https://gigazine.net/news/20261029-anti-ai-words-in-script/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-29T11:05:08+00:00`, fetched `2026-10-29T12:41:07+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AIには悪意ある用途での使用をブロックするための安全対策が施されているほか、特定の分野のフレーズを拒否している場合もあります。こうしたAIの挙動を逆手に取り、危険とみなされる単語をコードに紛れ込ませることでAIによる解析を妨害しているとみられるプログラムが、セキュリティ研究者のveritas氏によって発見され...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angriffsversuche auf junge Lücke in Oracle E-Business-Suite** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-29T11:29:00.000+00:00`, fetched `2026-10-29T11:47:08+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/605c1671-b6ad-4f31-94b7-b586675d65a4)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-29T06:00:00+00:00`, fetched `2026-10-29T06:02:59+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
