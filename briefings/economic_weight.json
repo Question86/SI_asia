@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T08:24:56+00:00",
+  "generated_at": "2026-10-29T08:59:59+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1615,7 +1615,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -1649,7 +1649,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -2482,7 +2482,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-29T05:30:52+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -2996,6 +2996,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d8a04f84dd126fa6c934",
+      "title": "M 6.4 - southeast of Easter Island",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_de618d2001f95c5ecdfd",
       "title": "M 5.7 - 61 km WNW of Leni, Italy",
       "event_classes": [
@@ -3060,7 +3077,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -3113,23 +3130,6 @@
       "first_seen_at": "2026-10-27T23:32:14+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d8a04f84dd126fa6c934",
-      "title": "M 6.4 - southeast of Easter Island",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1144000.0,
-      "p50_usd": 114400000.0,
-      "p90_usd": 11440000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-29T08:24:30+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -3961,7 +3961,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-29T01:28:09+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -8691,6 +8691,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_968958ea61a507278b6b",
+      "title": "M 4.6 - 41 km W of Mosteiros, Portugal",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_970de78673bda1c02e5e",
       "title": "M 6.9 - 8 km NW of Río Grande, Panama",
       "event_classes": [
@@ -11360,23 +11377,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_968958ea61a507278b6b",
-      "title": "M 4.6 - 41 km W of Mosteiros, Portugal",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-29T08:24:30+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -12750,7 +12750,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -13379,7 +13379,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -14196,7 +14196,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T01:03:19+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -14281,7 +14281,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -15930,7 +15930,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T07:19:52+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -16933,7 +16933,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T02:03:35+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -17630,7 +17630,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T04:34:28+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -19297,7 +19297,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T02:03:35+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -19467,7 +19467,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -21116,7 +21116,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T01:03:19+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -22341,7 +22341,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T06:03:38+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -22409,7 +22409,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
@@ -22681,7 +22681,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T08:24:30+00:00",
+      "last_seen_at": "2026-10-29T08:59:37+00:00",
       "status": "active"
     },
     {
