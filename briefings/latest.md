@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T01:56:26+00:00_
+_Generiert: 2026-10-29T02:03:31+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+9 neue relevante Treffer. Stärkstes Signal: „Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -82,9 +82,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday’s AI. “You don’t need AI where I ask a question and get an answer. I think that’s already passed,” says the GVP and Head of NetSuite Asia, who oversees Southeast Asia, the Indian subcontinent and Greater China for […] The post Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How to use AI in marketing without opening a single dashboard** — Score 14, observation — [Quelle](https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-29T02:00:22+00:00`, fetched `2026-10-29T02:02:59+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
+  - Kurz: Every Monday, as a marketer, I used to open nine tabs: Google Analytics, Search Console, Bing Webmaster Tools the newsletter platform, the social scheduler and four ad accounts (Google/Meta/LinkedIn/TikTok) I would export, paste, reconcile and start thinking at about 11am. I do not open those tabs any more. Now, on any given Monday, I type […] The post How to use AI in marketing without opening a single dashboard ap…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **The 70/30 rule: Why ASEAN banks still need humans as AI takes over** — Score 12, opportunity — [Quelle](https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-29T02:00:57+00:00`, fetched `2026-10-29T02:02:59+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0)
+  - Kurz: There was a time when a bank in Southeast Asia could win customers simply by shipping an app that did not crash on payday. That era, a new study suggests, is over. Twimbit, the Singapore-based research and advisory firm, unveiled its inaugural State of CX in ASEAN Banking 2026 at the Twimbit Banking Summit & […] The post The 70/30 rule: Why ASEAN banks still need humans as AI takes over appeared first on e27 .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.8 - western Indian-Antarctic Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-29T01:23:11.040+00:00`, fetched `2026-10-29T01:27:34+00:00`
