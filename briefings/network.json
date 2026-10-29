@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T07:48:04+00:00",
+  "generated_at": "2026-10-29T07:54:51+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 32,
+    "findings": 33,
     "clusters": 32,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 9
   },
   "clusters": [
@@ -28,20 +28,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 24.46,
+      "network_score": 24.34,
       "hot": false,
       "watchgraph_modules": [
         "elections_unrest"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 22.1,
-      "ranking_score": 24.46,
+      "ranking_score": 24.34,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.96,
+      "baseline_bonus": 2.84,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -127,46 +127,8 @@
       "first_seen_at": "2026-10-29T01:03:19+00:00"
     },
     {
-      "key": "github_repo:hkuds/deeptutor",
-      "title": "HKUDS/DeepTutor",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/HKUDS/DeepTutor"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 23.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-29T07:19:52+00:00"
-    },
-    {
       "key": "earthquake:philippines:5.4",
-      "title": "M 5.4 - 113 km ENE of Barcelona, Philippines",
+      "title": "M 5.4 - 114 km ENE of Barcelona, Philippines",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -175,28 +137,29 @@
         "tier1_official"
       ],
       "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2"
       ],
-      "finding_count": 1,
+      "finding_count": 2,
       "max_score": 19,
-      "credibility_total": 1.35,
+      "credibility_total": 2.7,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 18.42,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.1,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 21.7,
-      "ranking_score": 18.42,
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 27.4,
+      "ranking_score": 23.1,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.02,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 2.2,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -245,6 +208,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-10-29T03:49:05+00:00"
+    },
+    {
+      "key": "github_repo:hkuds/deeptutor",
+      "title": "HKUDS/DeepTutor",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/HKUDS/DeepTutor"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-29T07:19:52+00:00"
     },
     {
       "key": "title:apache-struts-rest-strutsparameter-jsonanysetter",
@@ -671,44 +672,6 @@
       "first_seen_at": "2026-06-19T09:22:22+00:00"
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 11.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
-    },
-    {
       "key": "earthquake:m 4.8 - western indian-antarctic ridge:4.8",
       "title": "M 4.8 - western Indian-Antarctic Ridge",
       "sources": [
@@ -824,6 +787,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-29T02:50:45+00:00"
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "earthquake:m 5.1 - balleny islands region:5.1",
@@ -1258,7 +1259,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-29T07:48:05Z",
+    "generated_at": "2026-10-29T07:54:52Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

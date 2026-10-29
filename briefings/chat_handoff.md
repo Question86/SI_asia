@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-29T07:47:55+00:00_
+_Generated: 2026-10-29T07:54:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `33`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-29T07:47:55+00:00_
 - url: https://www.twcert.org.tw/tw/cp-104-11352-8c3dc-1.html
 - summary: 資安廠商CrowdStrike於2026年10月7日揭露一起涉及韓國金融機構的資料竊取事件，指出攻擊者疑似濫用名為ARTEX的AI輔助滲透測試工具發動攻擊。研究人員從攻擊者的公開目錄，取得ARTEX的相關設定檔與操作紀錄。發現攻擊活動涉及多種大型語言模型及代理伺服器(Proxy)，顯示攻擊者可能運用 AI 工具輔助執行攻擊作業。顯示攻擊者可能運用 AI 工具輔助執行攻擊作業。目前尚未將相關活動歸因至特定進階持續性威脅（Advanced Persistent Threat, APT）組織。 另外，依據韓國金融委員會…
 
-### 4. M 5.4 - 113 km ENE of Barcelona, Philippines
+### 4. M 5.4 - 114 km ENE of Barcelona, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
-- published: `2026-10-29T03:40:29.695+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2
-- summary: PAGER - GREEN ShakeMap - III Time 2026-10-29 03:17:54 UTC 2026-10-29 03:17:54 UTC at epicenter Location 8.370°N 127.443°E Depth 10.00 km (6.21 mi)
+- published: `2026-10-29T07:54:17.214+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn
+- summary: PAGER - GREEN ShakeMap - III Time 2026-10-29 07:31:30 UTC 2026-10-29 07:31:30 UTC at epicenter Location 8.468°N 127.427°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 5.6 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T07:47:55+00:00_
+_Generiert: 2026-10-29T07:54:46+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+33 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Security (+6.0); Macro/Policy (+5.0); TWCERT (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: 資安廠商CrowdStrike於2026年10月7日揭露一起涉及韓國金融機構的資料竊取事件，指出攻擊者疑似濫用名為ARTEX的AI輔助滲透測試工具發動攻擊。研究人員從攻擊者的公開目錄，取得ARTEX的相關設定檔與操作紀錄。發現攻擊活動涉及多種大型語言模型及代理伺服器(Proxy)，顯示攻擊者可能運用 AI 工具輔助執行攻擊作業。顯示攻擊者可能運用 AI 工具輔助執行攻擊作業。目前尚未將相關活動歸因至特定進階持續性威脅（Advanced Persistent Threat, APT）組織。 另外，依據韓國金融委員會於2026年10月16日公布的調查報告，當地共有16家金融企業發生資料外洩事件，總計涉及約10萬筆客戶資料。然而，前述事件是否皆與ARTEX攻擊活動相關，目前仍待進一步釐清。 ARTEX原為滲透測試(Penetration Testing)工具，可透過大型語言模型處理測試指令，協助執行入侵模擬及系統弱點檢測。根據 Cr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.4 - 114 km ENE of Barcelona, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-29T07:54:17.214+00:00`, fetched `2026-10-29T07:54:07+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-10-29 07:31:30 UTC 2026-10-29 07:31:30 UTC at epicenter Location 8.468°N 127.427°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 113 km ENE of Barcelona, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-29T03:40:29.695+00:00`, fetched `2026-10-29T03:48:26+00:00`
