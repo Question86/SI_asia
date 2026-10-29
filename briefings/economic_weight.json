@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T01:03:38+00:00",
+  "generated_at": "2026-10-29T01:20:27+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -11135,7 +11135,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-29T00:51:36+00:00",
-      "last_seen_at": "2026-10-29T01:03:19+00:00",
+      "last_seen_at": "2026-10-29T01:20:09+00:00",
       "status": "active"
     },
     {
@@ -11188,6 +11188,23 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_14d75665a163fa01195b",
+      "title": "M 4.9 - 117 km E of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-29T01:20:09+00:00",
+      "last_seen_at": "2026-10-29T01:20:09+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -13979,6 +13996,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_9065c7d13014dd8e6a50",
+      "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 121600.0,
+      "p50_usd": 12160000.0,
+      "p90_usd": 1216000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-29T01:03:19+00:00",
+      "last_seen_at": "2026-10-29T01:20:09+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_aaca77660e922f071819",
       "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
       "event_classes": [
@@ -14045,23 +14079,6 @@
       "first_seen_at": "2026-09-16T14:21:58+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_9065c7d13014dd8e6a50",
-      "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 121600.0,
-      "p50_usd": 12160000.0,
-      "p90_usd": 1216000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-29T01:03:19+00:00",
-      "last_seen_at": "2026-10-29T01:03:19+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_49d46857a0afc331d56b",
@@ -20797,6 +20814,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_00f3254b0a6395ed5e0c",
+      "title": "Every department you add makes your startup harder to understand",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-29T01:03:19+00:00",
+      "last_seen_at": "2026-10-29T01:20:09+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_016f835372d536d1f216",
       "title": "AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する",
       "event_classes": [
@@ -22069,7 +22103,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-10-29T01:03:19+00:00",
+      "last_seen_at": "2026-10-29T01:20:09+00:00",
       "status": "active"
     },
     {
@@ -22683,23 +22717,6 @@
       "first_seen_at": "2026-09-28T06:50:23+00:00",
       "last_seen_at": "2026-09-28T18:49:20+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_00f3254b0a6395ed5e0c",
-      "title": "Every department you add makes your startup harder to understand",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-29T01:03:19+00:00",
-      "last_seen_at": "2026-10-29T01:03:19+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_03377f8133c052e61312",
