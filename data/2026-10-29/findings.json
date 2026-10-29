@@ -440,6 +440,28 @@
     "id": "778b42f19b7d1102d998"
   },
   {
+    "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026",
+    "url": "https://www.bis.org/publications/202610-commentary-ibs-gli",
+    "source": "BIS Statistical Releases",
+    "source_type": "rss",
+    "published_at": "2026-10-29T00:00:00+00:00",
+    "fetched_at": "2026-10-29T09:17:36+00:00",
+    "summary": "Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026",
+    "matched_keywords": [
+      "banking",
+      "Macro/Policy",
+      "statistics"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+6.2); statistics (+2.5); banking (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "695fb5210e04300f1b60"
+  },
+  {
     "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
     "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -460,6 +482,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "69f1acb207572ce26251"
+  },
+  {
+    "title": "M 5.1 - 218 km NNW of Bamboo Flat, India",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-29T09:04:28.040+00:00",
+    "fetched_at": "2026-10-29T09:17:36+00:00",
+    "summary": "Time 2026-10-29 08:49:42 UTC 2026-10-29 08:49:42 UTC at epicenter Location 13.379°N 91.659°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8210864263ca1201ce91"
   },
   {
     "title": "M 4.8 - western Indian-Antarctic Ridge",

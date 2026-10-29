@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T08:59:34+00:00_
+_Generiert: 2026-10-29T09:18:05+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+38 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0)
   - Kurz: There was a time when a bank in Southeast Asia could win customers simply by shipping an app that did not crash on payday. That era, a new study suggests, is over. Twimbit, the Singapore-based research and advisory firm, unveiled its inaugural State of CX in ASEAN Banking 2026 at the Twimbit Banking Summit & […] The post The 70/30 rule: Why ASEAN banks still need humans as AI takes over appeared first on e27 .
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026** — Score 12, observation — [Quelle](https://www.bis.org/publications/202610-commentary-ibs-gli)
+  - Quelle: BIS Statistical Releases / `rss`
+  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-29T09:17:36+00:00`
+  - Treffer: banking, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); statistics (+2.5); banking (+2.5); recent (+1.0)
+  - Kurz: Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】** — Score 12, observation — [Quelle](https://internet.watch.impress.co.jp/docs/event/2151590.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-28T22:58:45+00:00`, fetched `2026-10-29T03:48:26+00:00`
