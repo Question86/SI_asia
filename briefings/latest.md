@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T17:42:30+00:00_
+_Generiert: 2026-10-29T17:50:17+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+79 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -139,6 +139,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **An updated Model Spec for more capable and beneficial AI** — Score 16, observation — [Quelle](https://openai.com/index/updated-model-spec)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-29T17:00:00+00:00`, fetched `2026-10-29T17:49:45+00:00`
+  - Treffer: AI/KI, Content-Chance, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)
+  - Kurz: OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Cisco Secure Firewall Threat Defense und Cisco ASA: Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4238)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-29T14:00:15+00:00`, fetched `2026-10-29T14:06:01+00:00`
@@ -259,6 +268,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How Ropes & Gray is developing AI for transactional diligence** — Score 11, observation — [Quelle](https://openai.com/index/ropes-gray-ai-diligence)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-29T07:00:00+00:00`, fetched `2026-10-29T17:49:45+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vulnérabilité dans les produits Microsoft (26 octobre 2026)** — Score 11, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1383/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-10-26T00:00:00+00:00`, fetched `2026-10-29T15:47:36+00:00`
@@ -322,15 +340,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Christine Lagarde, Boris Vujčić: Monetary policy statement** — Score 9, opportunity — [Quelle](https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-29T14:00:00+00:00`, fetched `2026-10-29T14:06:01+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Christine Lagarde, Boris Vujčić: Monetary policy statement
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T17:42:30+00:00",
-  "run_id": "2026-10-29T17:42:30+00:00",
+  "generated_at": "2026-10-29T17:50:17+00:00",
+  "run_id": "2026-10-29T17:50:17+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 77
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 77,
-    "displayed_findings": 77,
+    "new_relevant_findings": 2,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
-    "medium": 20,
-    "observe": 57,
+    "medium": 21,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -243,6 +243,28 @@
           "LOW"
         ],
         "id": "69935c1682095d9518ee"
+      },
+      {
+        "title": "An updated Model Spec for more capable and beneficial AI",
+        "url": "https://openai.com/index/updated-model-spec",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-29T17:00:00+00:00",
+        "fetched_at": "2026-10-29T17:49:45+00:00",
+        "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+        "matched_keywords": [
+          "AI/KI",
+          "Content-Chance",
+          "OpenAI"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ee43496d52fe0091cbab"
       },
       {
         "title": "[NEU] [hoch] Cisco Secure Firewall Threat Defense und Cisco ASA: Schwachstelle ermöglicht Denial of Service",
@@ -806,6 +828,27 @@
           "LOW"
         ],
         "id": "8210864263ca1201ce91"
+      },
+      {
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "url": "https://openai.com/index/ropes-gray-ai-diligence",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-29T07:00:00+00:00",
+        "fetched_at": "2026-10-29T17:49:45+00:00",
+        "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b81398a2b6ae055cd7f5"
       },
       {
         "title": "M 4.8 - western Indian-Antarctic Ridge",
@@ -2179,6 +2222,28 @@
       "id": "69935c1682095d9518ee"
     },
     {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-29T17:00:00+00:00",
+      "fetched_at": "2026-10-29T17:49:45+00:00",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ee43496d52fe0091cbab"
+    },
+    {
       "title": "[NEU] [hoch] Cisco Secure Firewall Threat Defense und Cisco ASA: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4238",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2738,6 +2803,27 @@
         "LOW"
       ],
       "id": "8210864263ca1201ce91"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "fetched_at": "2026-10-29T17:49:45+00:00",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b81398a2b6ae055cd7f5"
     },
     {
       "title": "M 4.8 - western Indian-Antarctic Ridge",
@@ -3893,7 +3979,51 @@
       "id": "9cb71d46823d9fdc5c56"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-29T17:00:00+00:00",
+      "fetched_at": "2026-10-29T17:49:45+00:00",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ee43496d52fe0091cbab"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "fetched_at": "2026-10-29T17:49:45+00:00",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b81398a2b6ae055cd7f5"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
