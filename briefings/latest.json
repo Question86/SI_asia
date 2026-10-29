@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T02:59:34+00:00",
-  "run_id": "2026-10-29T02:59:34+00:00",
+  "generated_at": "2026-10-29T03:48:55+00:00",
+  "run_id": "2026-10-29T03:48:55+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,41 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 8,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 2,
-    "observe": 10,
+    "medium": 6,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "The AI told me to raise my prices by 40 percent but it had never been to a wet market",
+        "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-29T03:30:01+00:00",
+        "fetched_at": "2026-10-29T03:48:26+00:00",
+        "summary": "I run OTSATE, a small lemongrass sauce brand in Malaysia. I’m the founder, the cook and the person who does the numbers, so everything below is one operator’s experience, not a benchmark. Most of my admin now runs through Claude Code, an AI agent that works inside a terminal and can read my files and […] The post The AI told me to raise my prices by 40 percent but it had never been to a wet market appeared first on…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder",
+          "Public Health"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "75a7a1af0916134b8605"
+      },
       {
         "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
         "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
@@ -51,6 +75,106 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dd39c3afbf48eb165ff5"
+      },
+      {
+        "title": "M 5.4 - 113 km ENE of Barcelona, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-29T03:40:29.695+00:00",
+        "fetched_at": "2026-10-29T03:48:26+00:00",
+        "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 03:17:54 UTC 2026-10-29 03:17:54 UTC at epicenter Location 8.370°N 127.443°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "3b822cfe08e325c47124"
+      },
+      {
+        "title": "M 5.7 - 121 km ENE of Barcelona, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-29T03:38:50.890+00:00",
+        "fetched_at": "2026-10-29T03:48:26+00:00",
+        "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "69935c1682095d9518ee"
+      },
+      {
+        "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
+        "url": "https://jvn.jp/jp/JVN82782759/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-10-29T12:00:00+09:00",
+        "fetched_at": "2026-10-29T03:48:26+00:00",
+        "summary": "The Apache Software Foundationが提供するApache Struts 2のRESTプラグインには、Jacksonの @JsonAnySetter が指定されたフィールドやメソッドに対して @StrutsParameter の制限が行われない問題が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "acb4d4f8829afaae9b29"
       },
       {
         "title": "How to use AI in marketing without opening a single dashboard",
@@ -77,6 +201,44 @@
     ],
     "observe": [
       {
+        "title": "M 5.7 - 82 km NE of Kiunga, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-29T03:47:11.400+00:00",
+        "fetched_at": "2026-10-29T03:48:26+00:00",
+        "summary": "PAGER - GREEN ShakeMap - VII Time 2026-10-29 03:26:42 UTC 2026-10-29 03:26:42 UTC at epicenter Location 5.699°S 141.902°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "aa01df75f9b7d78c8174"
+      },
+      {
         "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
         "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -97,6 +259,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "778b42f19b7d1102d998"
+      },
+      {
+        "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+        "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-28T22:58:45+00:00",
+        "fetched_at": "2026-10-29T03:48:26+00:00",
+        "summary": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "69f1acb207572ce26251"
       },
       {
         "title": "M 4.8 - western Indian-Antarctic Ridge",
@@ -133,6 +317,27 @@
           "LOW"
         ],
         "id": "8441523ffd8b18c46ceb"
+      },
+      {
+        "title": "Malaysian SMEs are comparing the wrong number when they buy a website",
+        "url": "https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-29T03:00:51+00:00",
+        "fetched_at": "2026-10-29T03:48:26+00:00",
+        "summary": "Most small business owners I speak to compare website quotes the same way: they line up the first invoice and pick the lowest. It feels sensible. It’s also how many end up paying several times more than they planned. In October 2026 we looked at the published prices of popular website packages in Malaysia and […] The post Malaysian SMEs are comparing the wrong number when they buy a website appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Webentwicklung"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d3b9dd333ea97c188bfd"
       },
       {
         "title": "Every department you add makes your startup harder to understand",
@@ -287,6 +492,27 @@
         "id": "c332452473f1c1b682e7"
       },
       {
+        "title": "Visa fees are soaring, but founders want US revenue more than US investors",
+        "url": "https://e27.co/visa-fees-are-soaring-but-founders-want-us-revenue-more-than-us-investors-20261029/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-29T03:14:54+00:00",
+        "fetched_at": "2026-10-29T03:48:26+00:00",
+        "summary": "Washington has spent the past year making it harder, pricier and more nerve-racking for foreign talent to work in America. Asian founders, if a new survey is to be believed, have mostly shrugged. Singapore-founded immigration platform Beyond Border’s August 2026 Founder Mobility Pulse found that 82 per cent of respondents had not changed their US […] The post Visa fees are soaring, but founders want US revenue more…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d0aa55118c9c20d79b1b"
+      },
+      {
         "title": "Fingular secures US$20M debt line to bet on Malaysia’s near-prime borrowers",
         "url": "https://e27.co/fingular-secures-us20m-debt-line-to-bet-on-malaysias-near-prime-borrowers-20261029/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -353,6 +579,30 @@
   },
   "findings": [
     {
+      "title": "The AI told me to raise my prices by 40 percent but it had never been to a wet market",
+      "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:30:01+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "I run OTSATE, a small lemongrass sauce brand in Malaysia. I’m the founder, the cook and the person who does the numbers, so everything below is one operator’s experience, not a benchmark. Most of my admin now runs through Claude Code, an AI agent that works inside a terminal and can read my files and […] The post The AI told me to raise my prices by 40 percent but it had never been to a wet market appeared first on…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Public Health"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "75a7a1af0916134b8605"
+    },
+    {
       "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
       "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -374,6 +624,106 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "dd39c3afbf48eb165ff5"
+    },
+    {
+      "title": "M 5.4 - 113 km ENE of Barcelona, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:40:29.695+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 03:17:54 UTC 2026-10-29 03:17:54 UTC at epicenter Location 8.370°N 127.443°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3b822cfe08e325c47124"
+    },
+    {
+      "title": "M 5.7 - 121 km ENE of Barcelona, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:38:50.890+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "69935c1682095d9518ee"
+    },
+    {
+      "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
+      "url": "https://jvn.jp/jp/JVN82782759/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-29T12:00:00+09:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "The Apache Software Foundationが提供するApache Struts 2のRESTプラグインには、Jacksonの @JsonAnySetter が指定されたフィールドやメソッドに対して @StrutsParameter の制限が行われない問題が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "acb4d4f8829afaae9b29"
     },
     {
       "title": "How to use AI in marketing without opening a single dashboard",
@@ -398,6 +748,44 @@
       "id": "1473f84ceb6c9a7a461d"
     },
     {
+      "title": "M 5.7 - 82 km NE of Kiunga, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:47:11.400+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VII Time 2026-10-29 03:26:42 UTC 2026-10-29 03:26:42 UTC at epicenter Location 5.699°S 141.902°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "aa01df75f9b7d78c8174"
+    },
+    {
       "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
       "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -418,6 +806,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "778b42f19b7d1102d998"
+    },
+    {
+      "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+      "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-28T22:58:45+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "69f1acb207572ce26251"
     },
     {
       "title": "M 4.8 - western Indian-Antarctic Ridge",
@@ -454,6 +864,27 @@
         "LOW"
       ],
       "id": "8441523ffd8b18c46ceb"
+    },
+    {
+      "title": "Malaysian SMEs are comparing the wrong number when they buy a website",
+      "url": "https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:00:51+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "Most small business owners I speak to compare website quotes the same way: they line up the first invoice and pick the lowest. It feels sensible. It’s also how many end up paying several times more than they planned. In October 2026 we looked at the published prices of popular website packages in Malaysia and […] The post Malaysian SMEs are comparing the wrong number when they buy a website appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Webentwicklung"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d3b9dd333ea97c188bfd"
     },
     {
       "title": "Every department you add makes your startup harder to understand",
@@ -608,6 +1039,27 @@
       "id": "c332452473f1c1b682e7"
     },
     {
+      "title": "Visa fees are soaring, but founders want US revenue more than US investors",
+      "url": "https://e27.co/visa-fees-are-soaring-but-founders-want-us-revenue-more-than-us-investors-20261029/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:14:54+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "Washington has spent the past year making it harder, pricier and more nerve-racking for foreign talent to work in America. Asian founders, if a new survey is to be believed, have mostly shrugged. Singapore-founded immigration platform Beyond Border’s August 2026 Founder Mobility Pulse found that 82 per cent of respondents had not changed their US […] The post Visa fees are soaring, but founders want US revenue more…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d0aa55118c9c20d79b1b"
+    },
+    {
       "title": "Fingular secures US$20M debt line to bet on Malaysia’s near-prime borrowers",
       "url": "https://e27.co/fingular-secures-us20m-debt-line-to-bet-on-malaysias-near-prime-borrowers-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -673,25 +1125,230 @@
   ],
   "new_findings": [
     {
-      "title": "【やじうまミニレビュー】徘徊に悩んだ筆者が思う「あの時これがあれば」。AirTag入りインソール - PC Watch",
-      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152066.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "The AI told me to raise my prices by 40 percent but it had never been to a wet market",
+      "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-28T23:01:41+00:00",
-      "fetched_at": "2026-10-29T02:59:02+00:00",
-      "summary": "【やじうまミニレビュー】徘徊に悩んだ筆者が思う「あの時これがあれば」。AirTag入りインソール - PC Watch",
+      "published_at": "2026-10-29T03:30:01+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "I run OTSATE, a small lemongrass sauce brand in Malaysia. I’m the founder, the cook and the person who does the numbers, so everything below is one operator’s experience, not a benchmark. Most of my admin now runs through Claude Code, an AI agent that works inside a terminal and can read my files and […] The post The AI told me to raise my prices by 40 percent but it had never been to a wet market appeared first on…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Public Health"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 22,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5bc1e0c12ebd791edb32"
+      "id": "75a7a1af0916134b8605"
+    },
+    {
+      "title": "M 5.4 - 113 km ENE of Barcelona, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:40:29.695+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 03:17:54 UTC 2026-10-29 03:17:54 UTC at epicenter Location 8.370°N 127.443°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3b822cfe08e325c47124"
+    },
+    {
+      "title": "M 5.7 - 121 km ENE of Barcelona, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:38:50.890+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "69935c1682095d9518ee"
+    },
+    {
+      "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
+      "url": "https://jvn.jp/jp/JVN82782759/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-10-29T12:00:00+09:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "The Apache Software Foundationが提供するApache Struts 2のRESTプラグインには、Jacksonの @JsonAnySetter が指定されたフィールドやメソッドに対して @StrutsParameter の制限が行われない問題が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "acb4d4f8829afaae9b29"
+    },
+    {
+      "title": "M 5.7 - 82 km NE of Kiunga, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:47:11.400+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VII Time 2026-10-29 03:26:42 UTC 2026-10-29 03:26:42 UTC at epicenter Location 5.699°S 141.902°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "aa01df75f9b7d78c8174"
+    },
+    {
+      "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+      "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-28T22:58:45+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "69f1acb207572ce26251"
+    },
+    {
+      "title": "Malaysian SMEs are comparing the wrong number when they buy a website",
+      "url": "https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:00:51+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "Most small business owners I speak to compare website quotes the same way: they line up the first invoice and pick the lowest. It feels sensible. It’s also how many end up paying several times more than they planned. In October 2026 we looked at the published prices of popular website packages in Malaysia and […] The post Malaysian SMEs are comparing the wrong number when they buy a website appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Webentwicklung"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d3b9dd333ea97c188bfd"
+    },
+    {
+      "title": "Visa fees are soaring, but founders want US revenue more than US investors",
+      "url": "https://e27.co/visa-fees-are-soaring-but-founders-want-us-revenue-more-than-us-investors-20261029/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:14:54+00:00",
+      "fetched_at": "2026-10-29T03:48:26+00:00",
+      "summary": "Washington has spent the past year making it harder, pricier and more nerve-racking for foreign talent to work in America. Asian founders, if a new survey is to be believed, have mostly shrugged. Singapore-founded immigration platform Beyond Border’s August 2026 Founder Mobility Pulse found that 82 per cent of respondents had not changed their US […] The post Visa fees are soaring, but founders want US revenue more…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d0aa55118c9c20d79b1b"
     }
   ],
   "source_errors": [],
