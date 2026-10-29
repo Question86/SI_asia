@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T08:24:24+00:00_
+_Generiert: 2026-10-29T08:59:34+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+36 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -186,14 +186,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Cloudflare はなんでこんなに無料で使わせてくれるの？ | ashunar0** — Score 5, observation — [Quelle](https://ashunar0.dev/posts/cloudflare-free-plan/)
+- **グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か 下4桁は40万枚分** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/29/2000002716/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-29T03:25:44+00:00`, fetched `2026-10-29T06:02:59+00:00`
+  - Zeit: published `2026-10-29T06:15:08+00:00`, fetched `2026-10-29T08:59:02+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに Cloudflareって、無料で使えすぎじゃないですか？？ Workers は 1 日 10 万リクエストまでタダです。Pages は帯域が無制限です。D1 も 5GB までタダです。R2 なんて、データを取り出すときの転送料が完全タダです。いくら使ってもタダなんです。 個人開発なら、1 円も払わずにアプリを公開して運用までできちゃ...
+  - Kurz: キャラクターフィギュアなどの企画・販売を手掛けるグッドスマイルカンパニー（千代田区）は10月29日、直販サイトが不正アクセスを受け、顧客2800人のカード名義人名、カード番号（全16桁）、有効期限、セキュリティコードが漏えいした可能性があると発表した。 また、同サイトにカード情報を登録したことがある顧客のカ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
