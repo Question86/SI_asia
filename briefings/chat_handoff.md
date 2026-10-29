@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-29T06:28:27+00:00_
+_Generated: 2026-10-29T06:53:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `30`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-29T06:28:27+00:00_
 - url: https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/
 - summary: Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday’s AI. “You don’t need AI where I ask a question and get an answer. I think that’s already passed,” says the GVP and Head of NetSuite Asia, who oversees Southeas…
 
-### 3. M 5.4 - 113 km ENE of Barcelona, Philippines
+### 3. 駭客利用AI滲透測試工具ARTEX竊取韓國金融業資料
+- source: TWCERT/CC Security News RSS
+- score: `20`
+- published: `2026-10-29T06:22:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-104-11352-8c3dc-1.html
+- summary: 資安廠商CrowdStrike於2026年10月7日揭露一起涉及韓國金融機構的資料竊取事件，指出攻擊者疑似濫用名為ARTEX的AI輔助滲透測試工具發動攻擊。研究人員從攻擊者的公開目錄，取得ARTEX的相關設定檔與操作紀錄。發現攻擊活動涉及多種大型語言模型及代理伺服器(Proxy)，顯示攻擊者可能運用 AI 工具輔助執行攻擊作業。顯示攻擊者可能運用 AI 工具輔助執行攻擊作業。目前尚未將相關活動歸因至特定進階持續性威脅（Advanced Persistent Threat, APT）組織。 另外，依據韓國金融委員會…
+
+### 4. M 5.4 - 113 km ENE of Barcelona, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-10-29T03:40:29.695+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2
 - summary: PAGER - GREEN ShakeMap - III Time 2026-10-29 03:17:54 UTC 2026-10-29 03:17:54 UTC at epicenter Location 8.370°N 127.443°E Depth 10.00 km (6.21 mi)
-
-### 4. M 5.7 - 121 km ENE of Barcelona, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `19`
-- published: `2026-10-29T03:38:50.890+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3
-- summary: PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 5.6 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
