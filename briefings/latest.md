@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T22:04:48+00:00_
+_Generiert: 2026-10-29T22:18:47+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+86 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-10-29T22:04:48+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-27`
   - Kurz: Known exploited vulnerability. Added 2026-10-27. Due 2026-11-10. Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574623)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown].** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574517)
   - Quelle: GDACS
   - Zeit: ``
@@ -36,7 +40,7 @@ _Generiert: 2026-10-29T22:04:48+00:00_
 - **USGS earthquake M6.2 - 43 km ESE of Port-Olry, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f)
   - Quelle: USGS
   - Zeit: `2026-10-29T21:46:44+00:00`
-  - Kurz: M6.2 - 43 km ESE of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.2 - 43 km ESE of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M6.4 - southeast of Easter Island** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz)
   - Quelle: USGS
   - Zeit: `2026-10-29T07:49:50+00:00`
@@ -65,10 +69,6 @@ _Generiert: 2026-10-29T22:04:48+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574265)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].
 
 ## Wirtschaft global
 
@@ -205,6 +205,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.2 - 43 km ESE of Port-Olry, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-29T22:14:49.725+00:00`, fetched `2026-10-29T22:18:17+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-10-29 21:46:44 UTC 2026-10-29 21:46:44 UTC at epicenter Location 15.189°S 167.452°E Depth 142.83 km (88.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 6.4 - southeast of Easter Island** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-29T08:13:05.141+00:00`, fetched `2026-10-29T08:23:48+00:00`
@@ -232,15 +241,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: Part one of this guide ended with a draft. This one starts there. A finished draft is a bit like a packed suitcase: the hard decisions are made, but you can still leave without your passport. Plenty of good contributor articles stumble in this last stretch, with an AI edit that sanded away the author’s […] The post The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2 appeared fir…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.7 - 82 km NE of Kiunga, Papua New Guinea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-29T03:47:11.400+00:00`, fetched `2026-10-29T03:48:26+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - VII Time 2026-10-29 03:26:42 UTC 2026-10-29 03:26:42 UTC at epicenter Location 5.699°S 141.902°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CVE-2026-98432 | Ubuntu** — Score 12, risk — [Quelle](https://ubuntu.com/security/CVE-2026-98432)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-29T04:39:46+00:00`, fetched `2026-10-29T20:45:48+00:00`
