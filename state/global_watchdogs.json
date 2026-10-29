@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T21:55:40+00:00",
+  "generated_at": "2026-10-29T22:04:55+00:00",
   "sections": {
     "global_security": [
       {
@@ -71,6 +71,21 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574517",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "USGS earthquake M6.2 - 43 km ESE of Port-Olry, Vanuatu",
+        "summary": "M6.2 - 43 km ESE of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f",
+        "published_at": "2026-10-29T21:46:44+00:00",
+        "metrics": {
+          "mag": 6.2,
+          "alert": "",
+          "sig": 591.0,
+          "tsunami": 0
+        }
       },
       {
         "domain": "security",
@@ -154,16 +169,6 @@
         "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574265",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
-        "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574251",
         "published_at": "",
         "metrics": {}
       }
