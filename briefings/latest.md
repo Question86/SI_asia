@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T22:43:40+00:00_
+_Generiert: 2026-10-29T22:57:26+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,6 @@ _Generiert: 2026-10-29T22:43:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown].
-- **USGS earthquake M6.2 - 43 km ESE of Port-Olry, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f)
-  - Quelle: USGS
-  - Zeit: `2026-10-29T21:46:44+00:00`
-  - Kurz: M6.2 - 43 km ESE of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M6.4 - southeast of Easter Island** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz)
   - Quelle: USGS
   - Zeit: `2026-10-29T07:49:50+00:00`
@@ -69,6 +65,10 @@ _Generiert: 2026-10-29T22:43:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574265)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].
 
 ## Wirtschaft global
 
