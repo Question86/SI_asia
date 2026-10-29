@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T07:54:46+00:00",
-  "run_id": "2026-10-29T07:54:46+00:00",
+  "generated_at": "2026-10-29T08:03:35+00:00",
+  "run_id": "2026-10-29T08:03:35+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 33,
     "displayed_findings": 33,
     "high": 0,
@@ -1829,47 +1829,7 @@
       "id": "f534e07fb2dd66ad0366"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.4 - 114 km ENE of Barcelona, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-29T07:54:17.214+00:00",
-      "fetched_at": "2026-10-29T07:54:07+00:00",
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 07:31:30 UTC 2026-10-29 07:31:30 UTC at epicenter Location 8.468°N 127.427°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "bf3e3138ad346cdfe495"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
