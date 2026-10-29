@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T00:51:32+00:00_
+_Generiert: 2026-10-29T01:03:13+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
+4 neue relevante Treffer. Stärkstes Signal: „Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -12,10 +12,27 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena** — Score 22, observation — [Quelle](https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-29T01:00:36+00:00`, fetched `2026-10-29T01:02:43+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday’s AI. “You don’t need AI where I ask a question and get an answer. I think that’s already passed,” says the GVP and Head of NetSuite Asia, who oversees Southeast Asia, the Indian subcontinent and Greater China for […] The post Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena appear…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **Every department you add makes your startup harder to understand** — Score 10, observation — [Quelle](https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-29T01:00:45+00:00`, fetched `2026-10-29T01:02:43+00:00`
+  - Treffer: APAC Trend Radar, founder, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)
+  - Kurz: Open 10 startup websites. Cover the logos. Shuffle the pages. Nothing breaks. “Revolutionising how finance works.” “Trusted by industry leaders.” Nobody asks which leaders. The usual diagnosis is lazy copywriting. It lets the founder off. The real cause is worse: she did everything right. Imagine a Series A software company. Watch one sentence travel through […] The post Every department you add makes your startup h…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254062/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-28T03:14:20+00:00`, fetched `2026-10-29T00:51:01+00:00`
@@ -37,7 +54,7 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

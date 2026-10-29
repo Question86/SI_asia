@@ -1,19 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-29T00:51:32+00:00",
+  "generated_at": "2026-10-29T01:03:13+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
-    "medium": 0,
-    "observe": 2
+    "medium": 1,
+    "observe": 3
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T01:00:36+00:00",
+      "relevance_score": 22,
+      "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
+      "summary": "Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday’s AI. “You don’t need AI where I ask a question and get an answer. I think that’s already passed,” says the GVP and Head of NetSuite Asia, who oversees Southeas…",
+      "section": "medium"
+    },
+    {
+      "title": "Every department you add makes your startup harder to understand",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T01:00:45+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/",
+      "summary": "Open 10 startup websites. Cover the logos. Shuffle the pages. Nothing breaks. “Revolutionising how finance works.” “Trusted by industry leaders.” Nobody asks which leaders. The usual diagnosis is lazy copywriting. It lets the founder off. The real cause is wo…",
+      "section": "observe"
+    },
     {
       "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け",
       "source": "Hatena Bookmark Hotentry IT",
@@ -40,113 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “M 5.4 - 109 km ENE of Luganville, Vanuatu” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.4.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "M 5.4 - 109 km ENE of Luganville, Vanuatu",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-29T00:51:36+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 18.4,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "high terms: 10"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.4 - 109 km ENE of Luganville, Vanuatu",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-29T00:23:20.040+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-10-29 00:08:20 UTC 2026-10-29 00:08:20 UTC at epicenter Location 15.121°S 168.099°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け",
-        "url": "https://japan.cnet.com/article/35254062/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-28T03:14:20+00:00",
-        "age_days": 0.9,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 15.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10"
-        ],
-        "summary": "情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I..."
-      },
-      {
-        "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け",
-        "url": "https://japan.cnet.com/article/35254062/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T09:22:22+00:00",
-        "age_days": 131.65,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 13.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 131.6d old signal"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
