@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T04:23:18+00:00",
+  "generated_at": "2026-10-29T04:34:28+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,8 +75,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, [unknown].",
-        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, [unknown].",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, 7 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, 7 thousand in MMI IV.",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574466",
         "published_at": "",
@@ -141,21 +141,6 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574251",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - 82 km NE of Kiunga, Papua New Guinea",
-        "summary": "M5.7 - 82 km NE of Kiunga, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
-        "published_at": "2026-10-29T03:26:42+00:00",
-        "metrics": {
-          "mag": 5.7,
-          "alert": "green",
-          "sig": 500.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
