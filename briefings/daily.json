@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-29T11:47:46+00:00",
-  "today_file_total": 48,
+  "generated_at": "2026-10-29T11:56:54+00:00",
+  "today_file_total": 49,
   "current_clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libXi, libXrender, ansible-collection-redhat-leapp) und Red Hat Build of Apache Camel for Quarkus: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4187",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4189",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875"
+      ],
+      "finding_count": 4,
+      "max_score": 16,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 27.4,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "earthquake:philippines:5.4",
       "title": "M 5.4 - 114 km ENE of Barcelona, Philippines",
@@ -73,31 +99,6 @@
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Linux Kernel (Fragnesia): Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4189",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875"
-      ],
-      "finding_count": 3,
-      "max_score": 16,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.3,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:www.bis.org",
@@ -342,30 +343,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Angriffsversuche auf junge Lücke in Oracle E-Business-Suite",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html",
-        "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html"
-      ],
-      "finding_count": 2,
-      "max_score": 7,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:rule-why-asean-banks-still-need-humans-takes",
       "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
       "sources": [
@@ -472,6 +449,29 @@
       ],
       "urls": [
         "https://e27.co/lkygbpc-returns-with-a-pitch-to-fix-deeptechs-real-bottleneck-customers-20261028/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:malaysian-smes-are-comparing-wrong-number-when-they",
+      "title": "Malaysian SMEs are comparing the wrong number when they buy a website",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/"
       ],
       "finding_count": 1,
       "max_score": 10,
