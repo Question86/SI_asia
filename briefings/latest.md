@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T13:48:20+00:00_
+_Generiert: 2026-10-29T13:57:15+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+58 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -166,14 +166,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. http://arxiv.org/abs/2604.26962 DeepTutor: Lifelong Personalized Tutoring Features · Get Started · Explore · CLI · Ecosystem · Community 🤝 We welcome any kinds of contributing! Vote on roadmap items or propose new ones at Roadmap , and see our Contributing Guide for branching strategy, coding standards, and how to get started. 📦 Releases [2026.10.28…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Mozilla Firefox, Firefox ESR, und Thunderbird: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4216)
+- **[UPDATE] [niedrig] expat: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1448)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-29T12:57:00+00:00`, fetched `2026-10-29T13:10:28+00:00`
+  - Zeit: published `2026-10-29T13:54:33+00:00`, fetched `2026-10-29T13:56:40+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN82782759/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -268,6 +268,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Ask a deeptech founder in Southeast Asia what keeps them up at night and few will blame the science. The harder problem is finding someone willing to let an unproven technology loose on a real building, a real plantation or a real data centre and then pay for it. That is the gap Singapore Management […] The post LKYGBPC returns with a pitch to fix deeptech’s real bottleneck: customers appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Economic resilience, thinner buffers, emerging risks globally - where does India stand?** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20261029-economic-resilience-thinner-buffers-emerging-risks-globally-where-does-india-stand)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-29T13:56:40+00:00`
+  - Treffer: banking, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
+  - Kurz: Address by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the Business Standard BFSI (Banking, financial services and insurance) Insight Summit, Mumbai, 28 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem** — Score 10, observation — [Quelle](https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and)
   - Quelle: BIS Press Releases / `rss`
   - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-29T10:16:35+00:00`
@@ -304,32 +313,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB President Lagarde to step down on 7 February 2027
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される** — Score 8, observation — [Quelle](https://gigazine.net/news/20261029-anti-ai-words-in-script/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-29T11:05:08+00:00`, fetched `2026-10-29T12:41:07+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AIには悪意ある用途での使用をブロックするための安全対策が施されているほか、特定の分野のフレーズを拒否している場合もあります。こうしたAIの挙動を逆手に取り、危険とみなされる単語をコードに紛れ込ませることでAIによる解析を妨害しているとみられるプログラムが、セキュリティ研究者のveritas氏によって発見され...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Opening Statement to the Senate Economics Legislation Committee (Supplementary Budget Estimates)** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261029-opening-statement-senate-economics-legislation-committee-supplementary-budget-estimates)
+- **Release of the Monetary Policy Report** — Score 9, opportunity — [Quelle](https://www.bis.org/speeches/20261029-release-monetary-policy-report)
   - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-29T13:41:16+00:00`
+  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-29T13:56:40+00:00`
   - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Sydney, Reserve Bank of Australia (+2.0)
-  - Kurz: Opening statement via videoconference by Ms Michele Bullock, Governor of the Reserve Bank of Australia, to the Senate Economics Legislation Committee (Supplementary Budget Estimates), Sydney, 28 October 2026.
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region canada: Canada, Ottawa, Bank of Canada (+2.0)
+  - Kurz: Opening statement by Mr Tiff Macklem, Governor of the Bank of Canada and Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the press conference following the monetary policy decision, Ottawa, Ontario, 28 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Angriffsversuche auf junge Lücke in Oracle E-Business-Suite** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-29T11:29:00.000+00:00`, fetched `2026-10-29T11:47:08+00:00`
-  - Treffer: Security
+- **Chile's September 2026 Monetary Policy Report** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261029-chiles-september-2026-monetary-policy-report)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-29T13:56:40+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Oracle hat mit dem Oktober-CPU auch Lücken in der E-Business-Suite geschlossen. Nun sehen IT-Forscher erste Angriffsversuche.
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region south_america: Chile (+2.0)
+  - Kurz: Presentation by Ms Rosanna Costa, Governor of the Central Bank of Chile, of the Monetary Policy Report before the Honorable Senate of the Republic, Santiago de Chile, 9 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
