@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T04:06:13+00:00_
+_Generiert: 2026-10-29T04:23:14+00:00_
 
 ## Kurzlage
 
@@ -65,10 +65,6 @@ _Generiert: 2026-10-29T04:06:13+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-29T03:26:42+00:00`
   - Kurz: M5.7 - 82 km NE of Kiunga, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
-- **USGS earthquake M5.7 - 121 km ENE of Barcelona, Philippines** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3)
-  - Quelle: USGS
-  - Zeit: `2026-10-29T03:19:05+00:00`
-  - Kurz: M5.7 - 121 km ENE of Barcelona, Philippines. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
