@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-10-29T09:46:40+00:00`
+Generated: `2026-10-29T10:01:42+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -9,7 +9,7 @@ Generated: `2026-10-29T09:46:40+00:00`
 | Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性 | $0 | — | 0 | 0 | dormant |
 | Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | dormant |
 | M 4.9 - 12 km SSW of Tebario, Panama | $0 | — | 0 | 0 | dormant |
-| Every department you add makes your startup harder to understand | $0 | — | 0 | 0 | active |
+| Every department you add makes your startup harder to understand | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 12 km SE of La Parguera, Puerto Rico | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 124 km N of Metinaro, Timor Leste | $0 | — | 0 | 0 | dormant |
