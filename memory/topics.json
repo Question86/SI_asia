@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-29T09:46:02+00:00",
+  "generated_at": "2026-10-29T10:00:59+00:00",
   "topics": {
     "ai": [
       {
@@ -128,11 +128,25 @@
         "url": "https://www.twcert.org.tw/tw/cp-104-11352-8c3dc-1.html"
       },
       {
+        "title": "[UPDATE] [hoch] Linux Kernel (Fragnesia): Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T09:49:26+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530"
+      },
+      {
         "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-29T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN82782759/"
+      },
+      {
+        "title": "[UPDATE] [mittel] MLflow: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T09:49:26+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875"
       },
       {
         "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
@@ -251,6 +265,13 @@
         "published_at": "2026-10-29T01:00:45+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/"
+      },
+      {
+        "title": "ECB President Lagarde to step down on 7 February 2027",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-29T10:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html"
       },
       {
         "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",

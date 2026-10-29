@@ -215,6 +215,30 @@
     "id": "69935c1682095d9518ee"
   },
   {
+    "title": "[UPDATE] [hoch] Linux Kernel (Fragnesia): Schwachstelle ermöglicht Erlangen von Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-29T09:49:26+00:00",
+    "fetched_at": "2026-10-29T10:00:20+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um Administratorrechte zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "33fdf27acb0470f0f745"
+  },
+  {
     "title": "HKUDS/DeepTutor",
     "url": "https://github.com/HKUDS/DeepTutor",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -258,6 +282,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "acb4d4f8829afaae9b29"
+  },
+  {
+    "title": "[UPDATE] [mittel] MLflow: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-29T09:49:26+00:00",
+    "fetched_at": "2026-10-29T10:00:20+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in MLflow ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "07d2aab605736a273f45"
   },
   {
     "title": "How to use AI in marketing without opening a single dashboard",
@@ -641,6 +688,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "969b7c8020f88fc28cc2"
+  },
+  {
+    "title": "ECB President Lagarde to step down on 7 February 2027",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-10-29T10:00:00+00:00",
+    "fetched_at": "2026-10-29T10:00:20+00:00",
+    "summary": "ECB President Lagarde to step down on 7 February 2027",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "354287d0a92fd020e90b"
   },
   {
     "title": "M 4.6 - 41 km W of Mosteiros, Portugal",
