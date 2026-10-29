@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T10:00:59+00:00_
+_Generiert: 2026-10-29T10:17:09+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+43 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Ask a deeptech founder in Southeast Asia what keeps them up at night and few will blame the science. The harder problem is finding someone willing to let an unproven technology loose on a real building, a real plantation or a real data centre and then pay for it. That is the gap Singapore Management […] The post LKYGBPC returns with a pitch to fix deeptech’s real bottleneck: customers appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem** — Score 10, observation — [Quelle](https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-29T10:16:35+00:00`
+  - Treffer: central banks, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); central banks (+2.5); recent (+1.0)
+  - Kurz: A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254062/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-28T03:14:20+00:00`, fetched `2026-10-29T00:51:01+00:00`
@@ -203,6 +212,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB President Lagarde to step down on 7 February 2027
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why Africa needs its own AI off switch** — Score 7, observation — [Quelle](https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-10-29T10:00:00+00:00`, fetched `2026-10-29T10:16:35+00:00`
+  - Treffer: Africa, AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Africa (+2.5); recent (+1.0)
+  - Kurz: Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angriffe auf Linux- und VMware-ESX-Schwachstellen** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html)
   - Quelle: heise Security Alerts / `rss`

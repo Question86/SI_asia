@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T10:00:59+00:00",
-  "run_id": "2026-10-29T10:00:59+00:00",
+  "generated_at": "2026-10-29T10:17:09+00:00",
+  "run_id": "2026-10-29T10:17:09+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 2,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
     "medium": 11,
-    "observe": 30,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -700,6 +700,27 @@
         "id": "1c06bc53c2eb991f63b3"
       },
       {
+        "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
+        "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
+        "source": "BIS Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-10-29T00:00:00+00:00",
+        "fetched_at": "2026-10-29T10:16:35+00:00",
+        "summary": "A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.",
+        "matched_keywords": [
+          "central banks",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+6.2); central banks (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0c95a8eb3813b72c14c1"
+      },
+      {
         "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け",
         "url": "https://japan.cnet.com/article/35254062/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -962,6 +983,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ed97d85720729c47ad9"
+      },
+      {
+        "title": "Why Africa needs its own AI off switch",
+        "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-29T10:00:00+00:00",
+        "fetched_at": "2026-10-29T10:16:35+00:00",
+        "summary": "Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.",
+        "matched_keywords": [
+          "Africa",
+          "AI/KI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "AI/KI (+3.8); Africa (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eb36afa320bda7b12a69"
       },
       {
         "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
@@ -1820,6 +1862,27 @@
       "id": "1c06bc53c2eb991f63b3"
     },
     {
+      "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
+      "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
+      "source": "BIS Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "fetched_at": "2026-10-29T10:16:35+00:00",
+      "summary": "A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.",
+      "matched_keywords": [
+        "central banks",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+6.2); central banks (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0c95a8eb3813b72c14c1"
+    },
+    {
       "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け",
       "url": "https://japan.cnet.com/article/35254062/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2084,6 +2147,27 @@
       "id": "2ed97d85720729c47ad9"
     },
     {
+      "title": "Why Africa needs its own AI off switch",
+      "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "fetched_at": "2026-10-29T10:16:35+00:00",
+      "summary": "Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.",
+      "matched_keywords": [
+        "Africa",
+        "AI/KI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.8); Africa (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eb36afa320bda7b12a69"
+    },
+    {
       "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
       "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
       "source": "heise Security Alerts",
@@ -2271,71 +2355,46 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Linux Kernel (Fragnesia): Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
+      "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
+      "source": "BIS Press Releases",
       "source_type": "rss",
-      "published_at": "2026-10-29T09:49:26+00:00",
-      "fetched_at": "2026-10-29T10:00:20+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um Administratorrechte zu erlangen.",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "fetched_at": "2026-10-29T10:16:35+00:00",
+      "summary": "A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "33fdf27acb0470f0f745"
-    },
-    {
-      "title": "[UPDATE] [mittel] MLflow: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-29T09:49:26+00:00",
-      "fetched_at": "2026-10-29T10:00:20+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in MLflow ausnutzen, um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "07d2aab605736a273f45"
-    },
-    {
-      "title": "ECB President Lagarde to step down on 7 February 2027",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "fetched_at": "2026-10-29T10:00:20+00:00",
-      "summary": "ECB President Lagarde to step down on 7 February 2027",
-      "matched_keywords": [
+        "central banks",
         "Macro/Policy"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+6.2); central banks (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "354287d0a92fd020e90b"
+      "id": "0c95a8eb3813b72c14c1"
+    },
+    {
+      "title": "Why Africa needs its own AI off switch",
+      "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "fetched_at": "2026-10-29T10:16:35+00:00",
+      "summary": "Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.",
+      "matched_keywords": [
+        "Africa",
+        "AI/KI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.8); Africa (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eb36afa320bda7b12a69"
     }
   ],
   "source_errors": [],
