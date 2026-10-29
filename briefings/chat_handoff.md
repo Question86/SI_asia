@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-29T01:03:13+00:00_
+_Generated: 2026-10-29T01:20:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `5`
 
 ## Top Signals
 
@@ -29,7 +29,14 @@ _Generated: 2026-10-29T01:03:13+00:00_
 - url: https://japan.cnet.com/article/35254062/
 - summary: 情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I...
 
-### 4. M 5.4 - 109 km ENE of Luganville, Vanuatu
+### 4. M 4.9 - 117 km E of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-29T01:13:11.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn
+- summary: Time 2026-10-29 00:57:36 UTC 2026-10-29 00:57:36 UTC at epicenter Location 15.023°S 168.164°E Depth 10.00 km (6.21 mi)
+
+### 5. M 5.4 - 109 km ENE of Luganville, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-29T00:23:20.040+00:00`
