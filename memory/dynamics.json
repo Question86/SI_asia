@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-29T05:24:29Z",
+  "generated_at": "2026-10-29T05:37:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 2,
-      "strong": 13,
-      "watch": 22,
-      "quiet": 3
+      "strong": 14,
+      "watch": 23,
+      "quiet": 1
     },
     "bands_after_gate_recheck": {
-      "strong": 15,
-      "watch": 22,
-      "quiet": 3
+      "strong": 16,
+      "watch": 23,
+      "quiet": 1
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN82782759/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-29T12:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T22:58:45+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "security",
@@ -75,7 +75,7 @@
       "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:03:35+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -102,7 +102,7 @@
       "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -130,7 +130,7 @@
       "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:03:19+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -157,7 +157,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T17:28:30+00:00",
-      "age_days": 132.5,
+      "age_days": 132.51,
       "topics": [
         "general"
       ],
@@ -168,12 +168,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.1,
+      "baseline_z_hint": 0.09,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.10",
+        "baseline z_hint 0.09",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 132.5d old signal",
@@ -186,7 +186,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -213,7 +213,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security",
@@ -242,7 +242,7 @@
       "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:30:01+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -269,7 +269,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:40:29.695+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -296,7 +296,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:38:50.890+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -323,7 +323,7 @@
       "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:00:57+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -350,7 +350,7 @@
       "url": "https://jvn.jp/jp/JVN82782759/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -374,7 +374,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T00:51:36+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -421,11 +421,36 @@
       "summary": "Bitcoin has climbed back above the critical US$81,000 baseline. This 24-hour rebound does not erase a difficult month. The digital asset remains in its weakest October performance in six years, down roughly 4.2 per cent, while conflicting forces keep price action in a sideways range. The market has spent a long time w…"
     },
     {
+      "title": "M 5.6 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-29T05:28:13.664+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 05:06:48 UTC 2026-10-29 05:06:48 UTC at epicenter Location 60.342°S 28.014°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Malaysian SMEs are comparing the wrong number when they buy a website",
       "url": "https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -449,7 +474,7 @@
       "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:03:19+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -473,7 +498,7 @@
       "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:00:36+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -499,7 +524,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T01:23:11.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -524,7 +549,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T01:28:09+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -544,11 +569,35 @@
       "summary": ""
     },
     {
+      "title": "M 5.6 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-29T05:30:52+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Visa fees are soaring, but founders want US revenue more than US investors",
       "url": "https://e27.co/visa-fees-are-soaring-but-founders-want-us-revenue-more-than-us-investors-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -572,7 +621,7 @@
       "url": "https://e27.co/fingular-secures-us20m-debt-line-to-bet-on-malaysias-near-prime-borrowers-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:50:45+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -596,7 +645,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T02:33:40.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -621,7 +670,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T01:13:11.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -646,7 +695,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T00:23:20.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -671,7 +720,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T02:35:58+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -695,7 +744,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T01:20:09+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -719,7 +768,7 @@
       "url": "https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:03:35+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -746,7 +795,7 @@
       "url": "https://e27.co/hong-kong-has-no-gigafactories-but-it-wants-a-cut-of-asias-us5t-battery-boom-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T04:06:17+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -770,7 +819,7 @@
       "url": "https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:00:51+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -794,7 +843,7 @@
       "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:00:45+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -818,7 +867,7 @@
       "url": "https://japan.cnet.com/article/35254062/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T03:14:20+00:00",
-      "age_days": 1.09,
+      "age_days": 1.1,
       "topics": [
         "general"
       ],
@@ -842,7 +891,7 @@
       "url": "https://e27.co/the-e27-contributor-programme-using-ai-submitting-and-growing-your-readership-part-2-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T04:34:28+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -868,7 +917,7 @@
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T01:28:09+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -892,7 +941,7 @@
       "url": "https://e27.co/bitcoin-rebounds-to-us81000-but-faces-weakest-october-in-6-years-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:57:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -916,7 +965,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:47:11.400+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "disaster"
@@ -944,7 +993,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -970,7 +1019,7 @@
       "url": "https://japan.cnet.com/article/35254062/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 131.83,
+      "age_days": 131.84,
       "topics": [
         "general"
       ],
@@ -989,57 +1038,6 @@
         "aging penalty -8.0 for 131.8d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "How to use AI in marketing without opening a single dashboard",
-      "url": "https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-29T02:00:22+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Every Monday, as a marketer, I used to open nine tabs: Google Analytics, Search Console, Bing Webmaster Tools the newsletter platform, the social scheduler and four ad accounts (Google/Meta/LinkedIn/TikTok) I would export, paste, reconcile and start thinking at about 11am. I do not open those tabs any more. Now, on an…"
-    },
-    {
-      "title": "Hong Kong has no gigafactories, but it wants a cut of Asia’s US$5T battery boom",
-      "url": "https://e27.co/hong-kong-has-no-gigafactories-but-it-wants-a-cut-of-asias-us5t-battery-boom-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-29T04:04:16+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Hong Kong does not make many batteries. It has no lithium mines, no gigafactories, and industrial land prices that would make any cell manufacturer wince. Yet Hong Kong Science and Technology Parks Corporation (HKSTP) wants the city counted among Asia’s premier energy storage ecosystems, and it has now published a rep…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
