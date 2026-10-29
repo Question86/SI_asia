@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-29T15:54:40+00:00",
-  "run_id": "2026-10-29T15:54:40+00:00",
+  "generated_at": "2026-10-29T16:03:10+00:00",
+  "run_id": "2026-10-29T16:03:10+00:00",
   "date": "2026-10-29",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
     "medium": 20,
-    "observe": 55,
-    "source_errors": 0
+    "observe": 56,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1918,6 +1918,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "304d967e1e0badc9f340"
+      },
+      {
+        "title": "Ant International CEO: Achieving inclusion is critical to re-globalisation, and AI will accelerate it by democratising opportunities",
+        "url": "https://e27.co/ant-international-ceo-achieving-inclusion-is-critical-to-re-globalisation-and-ai-will-accelerate-it-by-democratising-opportunities-20261029/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-29T15:59:44+00:00",
+        "fetched_at": "2026-10-29T16:02:42+00:00",
+        "summary": "Speaking in Doha on 28 October 2026 at the United Nations Trade and Development (UNCTAD) World Investment Forum 2026 panel, “Investing in AI for an Inclusive Digital Future”, Ant International CEO Peng Yang called for a new, inclusive “re-globalisation” project that harnesses AI and digital connectivity to give small and medium-sized enterprises (SMEs) greater access […] The post Ant International CEO: Achieving inc…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph demote demo (x0.45)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9cb71d46823d9fdc5c56"
       }
     ]
   },
@@ -3809,31 +3830,60 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "304d967e1e0badc9f340"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "Ant International CEO: Achieving inclusion is critical to re-globalisation, and AI will accelerate it by democratising opportunities",
+      "url": "https://e27.co/ant-international-ceo-achieving-inclusion-is-critical-to-re-globalisation-and-ai-will-accelerate-it-by-democratising-opportunities-20261029/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-29T15:50:00+00:00",
-      "fetched_at": "2026-10-29T15:54:09+00:00",
-      "summary": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "published_at": "2026-10-29T15:59:44+00:00",
+      "fetched_at": "2026-10-29T16:02:42+00:00",
+      "summary": "Speaking in Doha on 28 October 2026 at the United Nations Trade and Development (UNCTAD) World Investment Forum 2026 panel, “Investing in AI for an Inclusive Digital Future”, Ant International CEO Peng Yang called for a new, inclusive “re-globalisation” project that harnesses AI and digital connectivity to give small and medium-sized enterprises (SMEs) greater access […] The post Ant International CEO: Achieving inc…",
       "matched_keywords": [
-        "Macro/Policy"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 3,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph demote demo (x0.45)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ec39d96a53e2e088ed81"
+      "id": "9cb71d46823d9fdc5c56"
     }
   ],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "Ant International CEO: Achieving inclusion is critical to re-globalisation, and AI will accelerate it by democratising opportunities",
+      "url": "https://e27.co/ant-international-ceo-achieving-inclusion-is-critical-to-re-globalisation-and-ai-will-accelerate-it-by-democratising-opportunities-20261029/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T15:59:44+00:00",
+      "fetched_at": "2026-10-29T16:02:42+00:00",
+      "summary": "Speaking in Doha on 28 October 2026 at the United Nations Trade and Development (UNCTAD) World Investment Forum 2026 panel, “Investing in AI for an Inclusive Digital Future”, Ant International CEO Peng Yang called for a new, inclusive “re-globalisation” project that harnesses AI and digital connectivity to give small and medium-sized enterprises (SMEs) greater access […] The post Ant International CEO: Achieving inc…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9cb71d46823d9fdc5c56"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "restofworld_feed",
+      "source_name": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "error": "403 Client Error: Forbidden for url: https://restofworld.org/feed/latest/"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
