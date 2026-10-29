@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T11:32:14+00:00",
-  "run_id": "2026-10-29T11:32:14+00:00",
+  "generated_at": "2026-10-29T11:47:39+00:00",
+  "run_id": "2026-10-29T11:47:39+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
     "medium": 12,
-    "observe": 35,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -1042,6 +1042,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ed97d85720729c47ad9"
+      },
+      {
+        "title": "Angriffsversuche auf junge Lücke in Oracle E-Business-Suite",
+        "url": "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-29T11:29:00.000+00:00",
+        "fetched_at": "2026-10-29T11:47:08+00:00",
+        "summary": "Oracle hat mit dem Oktober-CPU auch Lücken in der E-Business-Suite geschlossen. Nun sehen IT-Forscher erste Angriffsversuche.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "20bff3d330f629e481b7"
       },
       {
         "title": "Why Africa needs its own AI off switch",
@@ -2307,6 +2327,26 @@
       "id": "2ed97d85720729c47ad9"
     },
     {
+      "title": "Angriffsversuche auf junge Lücke in Oracle E-Business-Suite",
+      "url": "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-29T11:29:00.000+00:00",
+      "fetched_at": "2026-10-29T11:47:08+00:00",
+      "summary": "Oracle hat mit dem Oktober-CPU auch Lücken in der E-Business-Suite geschlossen. Nun sehen IT-Forscher erste Angriffsversuche.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20bff3d330f629e481b7"
+    },
+    {
       "title": "Why Africa needs its own AI off switch",
       "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -2557,25 +2597,24 @@
   ],
   "new_findings": [
     {
-      "title": "Firefox の Intl.Segmenter で「メロス」を「彼」にすると「した」が文字扱いされなくなる - id:onk のはてなブログ",
-      "url": "https://onk.hatenablog.jp/entry/2026/10/29/151858",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Angriffsversuche auf junge Lücke in Oracle E-Business-Suite",
+      "url": "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-10-29T06:48:37+00:00",
-      "fetched_at": "2026-10-29T11:31:43+00:00",
-      "summary": "const segmenter = new Intl.Segmenter(undefined, { granularity: \"word\" }); console.table([...segmenter.segment(\"メロスは激怒した。\")]); console.table([...segmenter.segment(\"彼は激怒した。\")]); (index) segment index input isWordLike 0 メロス 0 メロスは激怒した。 true 1 は 3 メロスは激怒した。 true ...",
+      "published_at": "2026-10-29T11:29:00.000+00:00",
+      "fetched_at": "2026-10-29T11:47:08+00:00",
+      "summary": "Oracle hat mit dem Oktober-CPU auch Lücken in der E-Business-Suite geschlossen. Nun sehen IT-Forscher erste Angriffsversuche.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bac021f8f1cf84926f46"
+      "id": "20bff3d330f629e481b7"
     }
   ],
   "source_errors": [],
