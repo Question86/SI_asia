@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T15:31:47+00:00",
+  "generated_at": "2026-10-29T15:48:55+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -440,7 +440,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_04d8fddefc11c63fc1c0",
@@ -1958,7 +1958,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_18021be5786d79847c72",
@@ -8869,6 +8869,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_636e91a5ff98211d3550",
+      "title": "Multiples vulnérabilités dans les produits VMware (26 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_638f8839cbdaba0a0e5a",
       "title": "直近で相次いでいる国内組織における不正アクセスに関する注意喚起",
       "deduplicated_buckets": 0,
@@ -9537,7 +9548,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6ae6966eae2b8bf7fb81",
@@ -13192,6 +13203,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_93f58f5ec7999ec2ad9a",
+      "title": "Vulnérabilité dans les produits Microsoft (26 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_93f77f7f7e5c64a977b4",
       "title": "Stop calling Southeast Asia an emerging market in mobile. It is where the behaviour gets invented",
       "deduplicated_buckets": 0,
@@ -14894,7 +14916,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a8b9aa641cc82423d63a",

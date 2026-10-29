@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-10-29T15:31:25+00:00`
+Generated: `2026-10-29T15:48:33+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -29,8 +29,8 @@ Generated: `2026-10-29T15:31:25+00:00`
 | Stage-only npm tokens for safer automation | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Malaysia’s US$110M startup bet has a matching problem, investors warn | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 | Multiples vulnérabilités dans les produits VMware (07 septembre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
+| Multiples vulnérabilités dans les produits VMware (26 octobre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 | Singapore’s robotics dominance is a warning sign dressed up as good news | conflict | $111.20M | $11.12B | $1.11T | 0.31 |
-| Secret protection must scale with software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 
 ## Interpretation
 
