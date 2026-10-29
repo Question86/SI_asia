@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T02:35:52+00:00_
+_Generiert: 2026-10-29T02:50:39+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+11 neue relevante Treffer. Stärkstes Signal: „Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-29 00:57:36 UTC 2026-10-29 00:57:36 UTC at epicenter Location 15.023°S 168.164°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Fingular secures US$20M debt line to bet on Malaysia’s near-prime borrowers** — Score 8, observation — [Quelle](https://e27.co/fingular-secures-us20m-debt-line-to-bet-on-malaysias-near-prime-borrowers-20261029/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-29T02:43:20+00:00`, fetched `2026-10-29T02:50:09+00:00`
+  - Treffer: APAC Trend Radar, funding
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)
+  - Kurz: Fingular, the Kuala Lumpur-headquartered fintech group behind the AhaPay buy now, pay later (BNPL) service, has secured a US$20 million credit facility from Silverstreak Group, a Singapore-based private credit investor. The money will expand Fingular’s near-prime consumer and SME financing, taking total funding for its Malaysian lending business past US$50 million. Near-prime borrowers sit just […] The post Fingular…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと** — Score 5, observation — [Quelle](https://zenn.dev/nayuta/articles/aec9ab2e11a7b7)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-28T13:54:02+00:00`, fetched `2026-10-29T01:27:34+00:00`
