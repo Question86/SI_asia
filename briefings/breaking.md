@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-10-29T12:51:01+00:00_
+_Generiert: 2026-10-29T12:58:47+00:00_
 
 ## Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026
 
-- Ranking Score: `22.92`
+- Ranking Score: `22.78`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
