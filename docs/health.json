@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-10-29T17:58:08+00:00",
-  "status": "normal",
+  "generated_at": "2026-10-29T18:11:11+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 1,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 21,
-    "observe": 58,
-    "source_errors": 0
+    "observe": 59,
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "ecb_yield_curve",
+      "source_name": "ECB Euro Area Yield Curve",
+      "source_type": "rss",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

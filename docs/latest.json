@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-29T17:58:08+00:00",
-  "run_id": "2026-10-29T17:58:08+00:00",
+  "generated_at": "2026-10-29T18:11:11+00:00",
+  "run_id": "2026-10-29T18:11:11+00:00",
   "date": "2026-10-29",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 1,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 21,
-    "observe": 58,
-    "source_errors": 0
+    "observe": 59,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1438,6 +1438,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "87addba92d1c42d20829"
+      },
+      {
+        "title": "Webhook IP ranges added to the Meta API",
+        "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-29T17:14:38+00:00",
+        "fetched_at": "2026-10-29T18:10:41+00:00",
+        "summary": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for… The post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "GitHub"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI Agents (+5.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "402d7b7f16f18e897907"
       },
       {
         "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
@@ -3415,6 +3436,27 @@
       "id": "87addba92d1c42d20829"
     },
     {
+      "title": "Webhook IP ranges added to the Meta API",
+      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-29T17:14:38+00:00",
+      "fetched_at": "2026-10-29T18:10:41+00:00",
+      "summary": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for… The post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI Agents (+5.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "402d7b7f16f18e897907"
+    },
+    {
       "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -3979,8 +4021,37 @@
       "id": "9cb71d46823d9fdc5c56"
     }
   ],
-  "new_findings": [],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "Webhook IP ranges added to the Meta API",
+      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-29T17:14:38+00:00",
+      "fetched_at": "2026-10-29T18:10:41+00:00",
+      "summary": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for… The post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI Agents (+5.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "402d7b7f16f18e897907"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "ecb_yield_curve",
+      "source_name": "ECB Euro Area Yield Curve",
+      "source_type": "rss",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
