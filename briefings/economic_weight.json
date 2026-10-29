@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T03:49:26+00:00",
+  "generated_at": "2026-10-29T03:57:22+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1585,6 +1585,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7dbb271985884cea7659",
+      "title": "M 5.4 - 113 km ENE of Barcelona, Philippines",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1192000.0,
+      "p50_usd": 119200000.0,
+      "p90_usd": 11920000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_827e54068b1c65498528",
       "title": "M 5.7 - 276 km WSW of Tual, Indonesia",
       "event_classes": [
@@ -1600,6 +1617,23 @@
       "first_seen_at": "2026-10-28T22:27:25+00:00",
       "last_seen_at": "2026-10-28T23:57:33+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8c2e9c6b45afc972d072",
+      "title": "M 5.7 - 121 km ENE of Barcelona, Philippines",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1192000.0,
+      "p50_usd": 119200000.0,
+      "p90_usd": 11920000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9f68b3545d6f2ad0a3c0",
@@ -1634,40 +1668,6 @@
       "first_seen_at": "2026-10-25T02:51:21+00:00",
       "last_seen_at": "2026-10-25T23:56:14+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_7dbb271985884cea7659",
-      "title": "M 5.4 - 113 km ENE of Barcelona, Philippines",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1192000.0,
-      "p50_usd": 119200000.0,
-      "p90_usd": 11920000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_8c2e9c6b45afc972d072",
-      "title": "M 5.7 - 121 km ENE of Barcelona, Philippines",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1192000.0,
-      "p50_usd": 119200000.0,
-      "p90_usd": 11920000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_80a8c2f24f3f9b568102",
@@ -3013,6 +3013,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e54913aadaf16630ffdb",
+      "title": "M 5.7 - 82 km NE of Kiunga, Papua New Guinea",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e9aa69d70bd29c7cfc24",
       "title": "M 5.9 - 196 km NW of Port-Olry, Vanuatu",
       "event_classes": [
@@ -3062,23 +3079,6 @@
       "first_seen_at": "2026-10-27T23:32:14+00:00",
       "last_seen_at": "2026-10-27T23:56:05+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e54913aadaf16630ffdb",
-      "title": "M 5.7 - 82 km NE of Kiunga, Papua New Guinea",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1144000.0,
-      "p50_usd": 114400000.0,
-      "p90_usd": 11440000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -3910,7 +3910,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-29T01:28:09+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -5338,7 +5338,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-29T01:20:09+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -6579,7 +6579,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-29T02:35:58+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -11237,7 +11237,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-29T00:51:36+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -12652,6 +12652,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b8a081b1eda75d2b2b46",
+      "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_be8eb32718eddb44bd08",
       "title": "UnRTFにおける境界外書き込みの脆弱性",
       "event_classes": [
@@ -13058,23 +13075,6 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_b8a081b1eda75d2b2b46",
-      "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -14111,7 +14111,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T01:03:19+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -14196,7 +14196,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -16831,7 +16831,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T02:03:35+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -19178,7 +19178,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T02:03:35+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -19335,6 +19335,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e457d093dcf38de13c36",
+      "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e51def39e0999936b77a",
       "title": "Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques",
       "event_classes": [
@@ -19418,23 +19435,6 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e457d093dcf38de13c36",
-      "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
@@ -20997,7 +20997,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T01:03:19+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -22273,7 +22273,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -22530,6 +22530,23 @@
       "first_seen_at": "2026-09-02T04:34:13+00:00",
       "last_seen_at": "2026-09-02T06:18:48+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_cb6a93f0ee3ed9fcc320",
+      "title": "Malaysian SMEs are comparing the wrong number when they buy a website",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_cb96b3b8c44258846f64",
@@ -22887,23 +22904,6 @@
       "first_seen_at": "2026-09-28T06:50:23+00:00",
       "last_seen_at": "2026-09-28T18:49:20+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_cb6a93f0ee3ed9fcc320",
-      "title": "Malaysian SMEs are comparing the wrong number when they buy a website",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_03377f8133c052e61312",
@@ -24216,6 +24216,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_26e3727c827dfa0d3043",
+      "title": "Visa fees are soaring, but founders want US revenue more than US investors",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "revenue"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2955ba0eab7e1c9ea00e",
       "title": "Multiples vulnérabilités dans les produits Siemens (13 octobre 2026)",
       "event_classes": [
@@ -24450,7 +24467,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T02:50:45+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
       "status": "active"
     },
     {
@@ -26339,23 +26356,6 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_26e3727c827dfa0d3043",
-      "title": "Visa fees are soaring, but founders want US revenue more than US investors",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "revenue"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-29T03:49:05+00:00",
-      "last_seen_at": "2026-10-29T03:49:05+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_041397919a21c7984d11",
@@ -30283,7 +30283,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T01:28:09+00:00",
       "last_seen_at": "2026-10-29T03:49:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3f70de5ed0bda0108f5f",
@@ -31796,7 +31796,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-29T02:59:41+00:00",
       "last_seen_at": "2026-10-29T03:49:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8fe134f9b8a4202e9e2d",
@@ -33992,6 +33992,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f65dc51a7d1e1fb2cfc5",
+      "title": "渦中のGMO、熊谷代表の発信は“火に油”か？ 「経営トップが自ら広報」の功罪",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-29T03:57:01+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_017c3d08edef1ec4ff45",
       "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
       "event_classes": [
@@ -34858,6 +34875,23 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_fc2a17c1708c3726ebf7",
+      "title": "Bitcoin rebounds to US$81,000 but faces weakest October in 6 years",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-29T03:57:01+00:00",
+      "last_seen_at": "2026-10-29T03:57:01+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
