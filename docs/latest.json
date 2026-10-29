@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T07:19:46+00:00",
-  "run_id": "2026-10-29T07:19:46+00:00",
+  "generated_at": "2026-10-29T07:30:17+00:00",
+  "run_id": "2026-10-29T07:30:17+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 31,
     "displayed_findings": 31,
     "high": 0,
@@ -1711,31 +1711,7 @@
       "id": "f534e07fb2dd66ad0366"
     }
   ],
-  "new_findings": [
-    {
-      "title": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-29T07:19:15+00:00",
-      "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. http://arxiv.org/abs/2604.26962 DeepTutor: Lifelong Personalized Tutoring Features · Get Started · Explore · CLI · Ecosystem · Community 🤝 We welcome any kinds of contributing! Vote on roadmap items or propose new ones at Roadmap , and see our Contributing Guide for branching strategy, coding standards, and how to get started. 📦 Releases [2026.10.28…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Content-Chance",
-        "GitHub Trending",
-        "Markets/Capital Structure"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Content-Chance (+5.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5f2b90c6cf45192adc0e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
