@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T05:56:13+00:00_
+_Generiert: 2026-10-29T06:03:34+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+29 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -123,14 +123,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-29 01:07:04 UTC 2026-10-29 01:07:04 UTC at epicenter Location 50.269°S 139.409°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Malaysian SMEs are comparing the wrong number when they buy a website** — Score 10, observation — [Quelle](https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/)
+- **LKYGBPC returns with a pitch to fix deeptech’s real bottleneck: customers** — Score 10, observation — [Quelle](https://e27.co/lkygbpc-returns-with-a-pitch-to-fix-deeptechs-real-bottleneck-customers-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-29T03:00:51+00:00`, fetched `2026-10-29T03:48:26+00:00`
-  - Treffer: APAC Trend Radar, Webentwicklung
+  - Zeit: published `2026-10-29T06:00:33+00:00`, fetched `2026-10-29T06:02:59+00:00`
+  - Treffer: APAC Trend Radar, founder, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Most small business owners I speak to compare website quotes the same way: they line up the first invoice and pick the lowest. It feels sensible. It’s also how many end up paying several times more than they planned. In October 2026 we looked at the published prices of popular website packages in Malaysia and […] The post Malaysian SMEs are comparing the wrong number when they buy a website appeared first on e27 .
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Ask a deeptech founder in Southeast Asia what keeps them up at night and few will blame the science. The harder problem is finding someone willing to let an unproven technology loose on a real building, a real plantation or a real data centre and then pay for it. That is the gap Singapore Management […] The post LKYGBPC returns with a pitch to fix deeptech’s real bottleneck: customers appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254062/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -141,14 +141,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **渦中のGMO、熊谷代表の発信は“火に油”か？ 「経営トップが自ら広報」の功罪** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/29/2000002674/)
+- **10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/605c1671-b6ad-4f31-94b7-b586675d65a4)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-29T06:00:00+00:00`, fetched `2026-10-29T06:02:59+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Cloudflare はなんでこんなに無料で使わせてくれるの？ | ashunar0** — Score 5, observation — [Quelle](https://ashunar0.dev/posts/cloudflare-free-plan/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-29T01:46:44+00:00`, fetched `2026-10-29T03:56:28+00:00`
+  - Zeit: published `2026-10-29T03:25:44+00:00`, fetched `2026-10-29T06:02:59+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: グループ会社が提供する「お名前.com デスクトップクラウド」へのサイバー攻撃を巡り、GMOインターネットグループの熊谷正寿代表による発信が物議を醸しています。熊谷代表は10月25日に公開したブログ記事で、謝罪とともに政府への「能動的サイバー防御」の適用要請について、その考えを詳しく説明した他、自身のSNSでも...
+  - Kurz: はじめに Cloudflareって、無料で使えすぎじゃないですか？？ Workers は 1 日 10 万リクエストまでタダです。Pages は帯域が無制限です。D1 も 5GB までタダです。R2 なんて、データを取り出すときの転送料が完全タダです。いくら使ってもタダなんです。 個人開発なら、1 円も払わずにアプリを公開して運用までできちゃ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -162,4 +171,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): 502 Server Error: Bad Gateway for url: https://www.bsi.bund.de/error_path/502.html?al_req_id=auLf54wIcrXvTBtV5xuF3AAAB3Q
+- `bsi_cert_bund_csw` (rss): 502 Server Error: Bad Gateway for url: https://www.bsi.bund.de/error_path/502.html?al_req_id=auLhnjXd_lVDbUgzK4NKfAAAB9A
