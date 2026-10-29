@@ -70,5 +70,139 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
+        "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-29T01:03:19+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +2",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 5.4 - 109 km ENE of Luganville, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-29T00:51:36+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 21.5,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "high terms: 10"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
+        "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-29T01:00:36+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: 10",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": "Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday’s AI. “You don’t need AI where I ask a question and get an answer. I think that’s already passed,” says the GVP and Head of NetSuite Asia, who oversees Southeast Asia, the Indian subcontinent and Greater China for […] Th…"
+      },
+      {
+        "title": "M 4.8 - western Indian-Antarctic Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-29T01:23:11.040+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-10-29 01:07:04 UTC 2026-10-29 01:07:04 UTC at epicenter Location 50.269°S 139.409°E Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 4.9 - 117 km E of Port-Olry, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-29T01:13:11.040+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 17.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-10-29 00:57:36 UTC 2026-10-29 00:57:36 UTC at epicenter Location 15.023°S 168.164°E Depth 10.00 km (6.21 mi)"
+      }
+    ]
+  }
 }
