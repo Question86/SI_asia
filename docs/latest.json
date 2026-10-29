@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T13:22:33+00:00",
-  "run_id": "2026-10-29T13:22:33+00:00",
+  "generated_at": "2026-10-29T13:32:32+00:00",
+  "run_id": "2026-10-29T13:32:32+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 53,
     "displayed_findings": 53,
     "high": 0,
@@ -2815,28 +2815,7 @@
       "id": "304d967e1e0badc9f340"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Monetary policy decisions",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-10-29T13:15:00+00:00",
-      "fetched_at": "2026-10-29T13:22:01+00:00",
-      "summary": "Monetary policy decisions",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6f1c06087ef6624c2b12"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
