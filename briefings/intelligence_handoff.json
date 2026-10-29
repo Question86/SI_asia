@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-29T14:14:04Z",
+  "generated_at": "2026-10-29T14:26:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Cisco Secure Firewall Threat Defense und Cisco ASA: Schwachstelle ermöglicht Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4238",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T14:00:15+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security",
         "infra"
@@ -41,7 +41,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4187",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T11:49:27+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -66,7 +66,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1448",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T13:54:33+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -102,13 +102,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 3,
       "momentum_delta": 3,
-      "baseline_z_hint": 17.06,
+      "baseline_z_hint": 13.28,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +3",
         "momentum delta +3",
-        "baseline z_hint 17.06",
+        "baseline z_hint 13.28",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 133.0d old signal",
@@ -121,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1584",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T14:00:17+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -147,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4239",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T14:00:16+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4237",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T14:00:15+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -199,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4236",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T14:00:15+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -253,7 +253,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -306,7 +306,7 @@
       "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:03:35+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
