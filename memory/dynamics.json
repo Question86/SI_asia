@@ -1,28 +1,83 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-29T01:40:14Z",
+  "generated_at": "2026-10-29T02:16:40Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 18,
     "bands": {
-      "strong": 2,
-      "watch": 8,
-      "quiet": 4
+      "krass": 1,
+      "strong": 3,
+      "watch": 11,
+      "quiet": 3
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 8,
-      "quiet": 4
+      "strong": 4,
+      "watch": 11,
+      "quiet": 3
     }
   },
   "top_dynamics": [
+    {
+      "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
+      "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-29T02:03:35+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
     {
       "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
       "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:03:19+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
+      "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-29T02:00:57+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai"
       ],
@@ -32,23 +87,24 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": ""
+      "summary": "There was a time when a bank in Southeast Asia could win customers simply by shipping an app that did not crash on payday. That era, a new study suggests, is over. Twimbit, the Singapore-based research and advisory firm, unveiled its inaugural State of CX in ASEAN Banking 2026 at the Twimbit Banking Summit & […] The p…"
     },
     {
       "title": "M 5.4 - 109 km ENE of Luganville, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T00:51:36+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -69,11 +125,35 @@
       "summary": ""
     },
     {
+      "title": "Every department you add makes your startup harder to understand",
+      "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-29T01:03:19+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
       "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:00:36+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -99,7 +179,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T01:23:11.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -120,11 +200,62 @@
       "summary": "Time 2026-10-29 01:07:04 UTC 2026-10-29 01:07:04 UTC at epicenter Location 50.269°S 139.409°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.8 - western Indian-Antarctic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-29T01:28:09+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "How to use AI in marketing without opening a single dashboard",
+      "url": "https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-29T02:03:35+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.9 - 117 km E of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T01:13:11.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -149,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T00:23:20.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -170,11 +301,11 @@
       "summary": "Time 2026-10-29 00:08:20 UTC 2026-10-29 00:08:20 UTC at epicenter Location 15.121°S 168.099°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "Every department you add makes your startup harder to understand",
-      "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-29T01:03:19+00:00",
-      "age_days": 0.03,
+      "title": "M 4.9 - 117 km E of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-29T01:20:09+00:00",
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -184,36 +315,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.8 - western Indian-Antarctic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-29T01:28:09+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -222,7 +329,7 @@
       "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:00:45+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -246,7 +353,7 @@
       "url": "https://japan.cnet.com/article/35254062/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T03:14:20+00:00",
-      "age_days": 0.93,
+      "age_days": 0.96,
       "topics": [
         "general"
       ],
@@ -270,46 +377,22 @@
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T01:28:09+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.9 - 117 km E of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-29T01:20:09+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -318,7 +401,7 @@
       "url": "https://japan.cnet.com/article/35254062/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 131.68,
+      "age_days": 131.7,
       "topics": [
         "general"
       ],
@@ -339,11 +422,38 @@
       "summary": ""
     },
     {
+      "title": "How to use AI in marketing without opening a single dashboard",
+      "url": "https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-29T02:00:22+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Every Monday, as a marketer, I used to open nine tabs: Google Analytics, Search Console, Bing Webmaster Tools the newsletter platform, the social scheduler and four ad accounts (Google/Meta/LinkedIn/TikTok) I would export, paste, reconcile and start thinking at about 11am. I do not open those tabs any more. Now, on an…"
+    },
+    {
       "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T13:54:02+00:00",
-      "age_days": 0.49,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -363,5 +473,5 @@
       "summary": "2026年10月、Black October、情報セキュリティの世界は変わってしまった。 2026年10月、情報セキュリティの世界は完全に変わりました。今この10月は Black October （暗黒の10月）と呼ばれ始めており、セキュリティへの関心も高まっています。でも、セキュリティに関わる人はみんなこう思っています。 「確かにもう少し..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The 70/30 rule: Why ASEAN banks still need humans as AI takes over” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
