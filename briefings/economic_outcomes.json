@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T09:00:13+00:00",
+  "generated_at": "2026-10-29T09:18:46+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -430,6 +430,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_04d14ee3fa58d872430a",
+      "title": "M 5.1 - 218 km NNW of Bamboo Flat, India",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_04d8fddefc11c63fc1c0",
@@ -7964,7 +7975,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_5a9c8ece399a4ea5a29c",
@@ -13431,7 +13442,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_96de7bc3a0918ccbc0d0",
@@ -14311,7 +14322,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a008f4b82f096d3a4a92",
