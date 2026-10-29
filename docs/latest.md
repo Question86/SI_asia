@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T07:02:06+00:00_
+_Generiert: 2026-10-29T07:19:46+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+31 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **HKUDS/DeepTutor** — Score 16, observation — [Quelle](https://github.com/HKUDS/DeepTutor)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-29T07:19:15+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, GitHub Trending, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Content-Chance (+5.0); GitHub Trending (+2.0)
+  - Kurz: DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. http://arxiv.org/abs/2604.26962 DeepTutor: Lifelong Personalized Tutoring Features · Get Started · Explore · CLI · Ecosystem · Community 🤝 We welcome any kinds of contributing! Vote on roadmap items or propose new ones at Roadmap , and see our Contributing Guide for branching strategy, coding standards, and how to get started. 📦 Releases [2026.10.28…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN82782759/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-29T12:00:00+09:00`, fetched `2026-10-29T03:48:26+00:00`
