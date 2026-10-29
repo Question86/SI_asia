@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-29T15:37:50Z",
+  "generated_at": "2026-10-29T15:51:37Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4238",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T14:00:15+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security",
         "infra"
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4187",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T11:49:27+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4238",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 62.06,
+      "age_days": 62.07,
       "topics": [
         "security",
         "infra"
@@ -86,12 +86,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 9.4,
+      "baseline_z_hint": 9.05,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 9.40",
+        "baseline z_hint 9.05",
         "high terms: rce, firewall",
         "security high-signal: rce, firewall",
         "aging penalty -8.0 for 62.1d old signal",
@@ -104,7 +104,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1448",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T13:54:33+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -128,7 +128,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4216",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T12:57:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -152,7 +152,7 @@
       "url": "https://jvn.jp/jp/JVN82782759/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-29T12:00:00+09:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -176,7 +176,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4189",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T10:34:25+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -200,7 +200,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -220,11 +220,113 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in MLflow ausnutzen, um Informationen offenzulegen."
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft .Net (26 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1382/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-21T14:48:29+00:00",
+      "age_days": 8.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 25.69,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Vulnérabilité dans Citrix XenServer (26 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1384/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 3.66,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: citrix",
+        "security high-signal: citrix"
+      ],
+      "summary": "Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Tenable (26 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1381/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 3.66,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits MongoDB (26 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1386/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 3.66,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+    },
+    {
       "title": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-29T07:19:52+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -248,7 +350,7 @@
       "url": "https://www.bis.org/publications/202610-commentary-ibs-gli",
       "source": "BIS Central Bankers Speeches, BIS Press Releases, BIS Statistical Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 133.04,
+      "age_days": 133.05,
       "topics": [
         "ai",
         "macro"
@@ -260,16 +362,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 3,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.07,
+      "baseline_z_hint": 7.38,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +3",
         "momentum delta +3",
-        "baseline z_hint 8.07",
+        "baseline z_hint 7.38",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 133.0d old signal",
+        "aging penalty -8.0 for 133.1d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -279,7 +381,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1584",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T14:00:17+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -305,7 +407,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4239",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T14:00:16+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -331,7 +433,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4237",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T14:00:15+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -357,7 +459,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4236",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T14:00:15+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -383,7 +485,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T22:58:45+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai",
         "security",
@@ -411,7 +513,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -436,7 +538,7 @@
       "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-29T10:00:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -464,7 +566,7 @@
       "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:03:35+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "ai"
       ],
@@ -491,7 +593,7 @@
       "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -519,7 +621,7 @@
       "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:03:19+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "ai"
       ],
@@ -546,7 +648,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T17:28:30+00:00",
-      "age_days": 132.92,
+      "age_days": 132.93,
       "topics": [
         "general"
       ],
@@ -574,7 +676,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -601,7 +703,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "security",
@@ -630,7 +732,7 @@
       "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:30:01+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai",
         "macro"
@@ -657,7 +759,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11352-8c3dc-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-10-29T06:22:00+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security"
@@ -685,7 +787,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T07:54:17.214+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -712,7 +814,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:40:29.695+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -739,7 +841,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:38:50.890+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -766,7 +868,7 @@
       "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:00:57+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "ai"
       ],
@@ -793,7 +895,7 @@
       "url": "https://www.heise.de/news/Diverse-kritische-Schwachstellen-in-WatchGuard-Fireware-OS-11504873.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-29T14:20:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -818,7 +920,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-29T07:34:00.000+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -839,166 +941,59 @@
       "summary": "Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt."
     },
     {
-      "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
-      "url": "https://jvn.jp/jp/JVN82782759/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.49,
+      "title": "Vulnérabilité dans les produits Microsoft (26 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1383/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 3.66,
       "topics": [
-        "general"
+        "security"
       ],
       "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3"
+        "security high-signal: microsoft"
       ],
-      "summary": ""
+      "summary": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges."
     },
     {
-      "title": "Economic resilience, thinner buffers, emerging risks globally - where does India stand?",
-      "url": "https://www.bis.org/speeches/20261029-economic-resilience-thinner-buffers-emerging-risks-globally-where-does-india-stand",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-29T00:00:00+00:00",
-      "age_days": 0.65,
+      "title": "Multiples vulnérabilités dans Microsoft .Net (26 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1382/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 3.66,
       "topics": [
-        "ai",
-        "macro"
+        "security"
       ],
       "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Address by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the Business Standard BFSI (Banking, financial services and insurance) Insight Summit, Mumbai, 28 October 2026."
-    },
-    {
-      "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
-      "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
-      "source": "BIS Press Releases",
-      "published_at": "2026-10-29T00:00:00+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
+        "security high-signal: microsoft"
       ],
-      "summary": "A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems."
-    },
-    {
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
-      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-10-29T14:00:00+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Christine Lagarde, Boris Vujčić: Monetary policy statement"
-    },
-    {
-      "title": "Release of the Monetary Policy Report",
-      "url": "https://www.bis.org/speeches/20261029-release-monetary-policy-report",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-29T00:00:00+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Opening statement by Mr Tiff Macklem, Governor of the Bank of Canada and Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the press conference following the monetary policy decision, Ottawa, Ontario, 28 October 2026."
-    },
-    {
-      "title": "M 5.4 - 109 km ENE of Luganville, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-29T00:51:36+00:00",
-      "age_days": 0.62,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10"
-      ],
-      "summary": ""
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une élévation de privilèges."
     },
     {
       "title": "Bitcoin rebounds to US$81,000 but faces weakest October in 6 years",
       "url": "https://e27.co/bitcoin-rebounds-to-us81000-but-faces-weakest-october-in-6-years-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:49:09+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -1024,7 +1019,7 @@
       "url": "https://www.heise.de/news/Diverse-kritische-Schwachstellen-in-WatchGuard-Fireware-OS-11504873.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 132.33,
+      "age_days": 132.34,
       "topics": [
         "security"
       ],
@@ -1035,12 +1030,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.97,
+      "baseline_z_hint": 1.83,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.97",
+        "baseline z_hint 1.83",
         "high terms: kritisch",
         "security high-signal: kritisch",
         "aging penalty -8.0 for 132.3d old signal",
@@ -1053,7 +1048,7 @@
       "url": "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-29T11:29:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
