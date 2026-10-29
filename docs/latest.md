@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T13:32:32+00:00_
+_Generiert: 2026-10-29T13:41:45+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+54 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -240,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIには悪意ある用途での使用をブロックするための安全対策が施されているほか、特定の分野のフレーズを拒否している場合もあります。こうしたAIの挙動を逆手に取り、危険とみなされる単語をコードに紛れ込ませることでAIによる解析を妨害しているとみられるプログラムが、セキュリティ研究者のveritas氏によって発見され...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Opening Statement to the Senate Economics Legislation Committee (Supplementary Budget Estimates)** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261029-opening-statement-senate-economics-legislation-committee-supplementary-budget-estimates)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-29T13:41:16+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Sydney, Reserve Bank of Australia (+2.0)
+  - Kurz: Opening statement via videoconference by Ms Michele Bullock, Governor of the Reserve Bank of Australia, to the Senate Economics Legislation Committee (Supplementary Budget Estimates), Sydney, 28 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Angriffsversuche auf junge Lücke in Oracle E-Business-Suite** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-29T11:29:00.000+00:00`, fetched `2026-10-29T11:47:08+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Oracle hat mit dem Oktober-CPU auch Lücken in der E-Business-Suite geschlossen. Nun sehen IT-Forscher erste Angriffsversuche.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Africa needs its own AI off switch** — Score 7, observation — [Quelle](https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-10-29T10:00:00+00:00`, fetched `2026-10-29T10:16:35+00:00`
-  - Treffer: Africa, AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Africa (+2.5); recent (+1.0)
-  - Kurz: Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
