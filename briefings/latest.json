@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T07:30:17+00:00",
-  "run_id": "2026-10-29T07:30:17+00:00",
+  "generated_at": "2026-10-29T07:47:55+00:00",
+  "run_id": "2026-10-29T07:47:55+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "new_relevant_findings": 1,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
     "medium": 8,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -724,6 +724,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ed97d85720729c47ad9"
+      },
+      {
+        "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
+        "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-29T07:34:00.000+00:00",
+        "fetched_at": "2026-10-29T07:47:25+00:00",
+        "summary": "Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "145ff5c2dd9aabfdceb3"
       },
       {
         "title": "10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました",
@@ -1567,6 +1587,26 @@
       "id": "2ed97d85720729c47ad9"
     },
     {
+      "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
+      "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-29T07:34:00.000+00:00",
+      "fetched_at": "2026-10-29T07:47:25+00:00",
+      "summary": "Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "145ff5c2dd9aabfdceb3"
+    },
+    {
       "title": "10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました",
       "url": "https://www.digital.go.jp/press/605c1671-b6ad-4f31-94b7-b586675d65a4",
       "source": "Japan Digital Agency News RSS",
@@ -1711,7 +1751,28 @@
       "id": "f534e07fb2dd66ad0366"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
+      "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-29T07:34:00.000+00:00",
+      "fetched_at": "2026-10-29T07:47:25+00:00",
+      "summary": "Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "145ff5c2dd9aabfdceb3"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

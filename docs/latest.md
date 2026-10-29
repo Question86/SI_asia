@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T07:30:17+00:00_
+_Generiert: 2026-10-29T07:47:55+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+32 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -158,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angriffe auf Linux- und VMware-ESX-Schwachstellen** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-29T07:34:00.000+00:00`, fetched `2026-10-29T07:47:25+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/605c1671-b6ad-4f31-94b7-b586675d65a4)
   - Quelle: Japan Digital Agency News RSS / `rss`
