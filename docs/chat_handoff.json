@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-29T05:41:06+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-10-29T05:47:18+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 25,
@@ -12,7 +12,7 @@
     "medium": 6,
     "observe": 19
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "The AI told me to raise my prices by 40 percent but it had never been to a wet market",
