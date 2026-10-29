@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T16:41:30+00:00",
-  "run_id": "2026-10-29T16:41:30+00:00",
+  "generated_at": "2026-10-29T16:48:58+00:00",
+  "run_id": "2026-10-29T16:48:58+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 1,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
     "medium": 20,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -1669,6 +1669,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "145ff5c2dd9aabfdceb3"
+      },
+      {
+        "title": "How we detect frontier model misalignment",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-28T11:00:00+00:00",
+        "fetched_at": "2026-10-29T16:48:26+00:00",
+        "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9d4b52dd43fb54a24a93"
       },
       {
         "title": "10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました",
@@ -3583,6 +3603,26 @@
       "id": "145ff5c2dd9aabfdceb3"
     },
     {
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-28T11:00:00+00:00",
+      "fetched_at": "2026-10-29T16:48:26+00:00",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d4b52dd43fb54a24a93"
+    },
+    {
       "title": "10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました",
       "url": "https://www.digital.go.jp/press/605c1671-b6ad-4f31-94b7-b586675d65a4",
       "source": "Japan Digital Agency News RSS",
@@ -3853,7 +3893,28 @@
       "id": "9cb71d46823d9fdc5c56"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-28T11:00:00+00:00",
+      "fetched_at": "2026-10-29T16:48:26+00:00",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d4b52dd43fb54a24a93"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
