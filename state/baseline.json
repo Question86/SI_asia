@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T00:18:31+00:00",
+  "generated_at": "2026-10-29T00:51:36+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -4477,8 +4477,8 @@
       "z_hint": 0.0
     },
     "domain:japan.cnet.com": {
-      "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
-      "updated_at": "2026-10-28T23:57:33+00:00",
+      "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け",
+      "updated_at": "2026-10-29T00:51:36+00:00",
       "network_scores": [
         22.2,
         22.2,
@@ -4509,12 +4509,12 @@
         22.2,
         22.2,
         22.2,
-        22.2
+        15.1
       ],
-      "rolling_average": 22.2,
+      "rolling_average": 21.96,
       "rolling_peak": 22.2,
-      "last_score": 22.2,
-      "z_hint": -0.0
+      "last_score": 15.1,
+      "z_hint": -6.86
     },
     "domain:kawarimidoll.com": {
       "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
@@ -96693,6 +96693,17 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -1.0
+    },
+    "earthquake:m 5.4 - 109 km ene of luganville, vanuatu:5.4": {
+      "title": "M 5.4 - 109 km ENE of Luganville, Vanuatu",
+      "updated_at": "2026-10-29T00:51:36+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
     }
   }
 }
