@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-29T01:20:09+00:00_
+_Generiert: 2026-10-29T01:28:09+00:00_
 
 ## Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena
 
