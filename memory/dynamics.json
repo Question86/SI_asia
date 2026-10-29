@@ -1,49 +1,80 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-29T00:55:59Z",
+  "generated_at": "2026-10-29T01:13:18Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 4,
+    "dynamics": 8,
     "bands": {
-      "watch": 4
+      "strong": 1,
+      "watch": 6,
+      "quiet": 1
     },
     "bands_after_gate_recheck": {
-      "watch": 4
+      "strong": 1,
+      "watch": 6,
+      "quiet": 1
     }
   },
   "top_dynamics": [
     {
-      "title": "M 5.4 - 109 km ENE of Luganville, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-29T00:51:36+00:00",
-      "age_days": 0.0,
+      "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
+      "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-29T01:03:19+00:00",
+      "age_days": 0.01,
       "topics": [
-        "general"
+        "ai"
       ],
-      "dynamics_score": 18.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "dynamics_score": 24.9,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
         "momentum delta +1",
-        "high terms: 10"
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
+      "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-29T01:00:36+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday’s AI. “You don’t need AI where I ask a question and get an answer. I think that’s already passed,” says the GVP and Head of NetSuite Asia, who oversees Southeast Asia, the Indian subcontinent and Greater China for […] Th…"
     },
     {
       "title": "M 5.4 - 109 km ENE of Luganville, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T00:23:20.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -64,11 +95,84 @@
       "summary": "Time 2026-10-29 00:08:20 UTC 2026-10-29 00:08:20 UTC at epicenter Location 15.121°S 168.099°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Every department you add makes your startup harder to understand",
+      "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-29T01:03:19+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.4 - 109 km ENE of Luganville, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-29T00:51:36+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Every department you add makes your startup harder to understand",
+      "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-29T01:00:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Open 10 startup websites. Cover the logos. Shuffle the pages. Nothing breaks. “Revolutionising how finance works.” “Trusted by industry leaders.” Nobody asks which leaders. The usual diagnosis is lazy copywriting. It lets the founder off. The real cause is worse: she did everything right. Imagine a Series A software c…"
+    },
+    {
       "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け",
       "url": "https://japan.cnet.com/article/35254062/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T03:14:20+00:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "general"
       ],
@@ -92,14 +196,14 @@
       "url": "https://japan.cnet.com/article/35254062/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 131.65,
+      "age_days": 131.66,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
@@ -108,10 +212,10 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 131.6d old signal"
+        "aging penalty -8.0 for 131.7d old signal"
       ],
       "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 109 km ENE of Luganville, Vanuatu” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.4."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
