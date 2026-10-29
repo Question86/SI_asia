@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T12:27:29+00:00",
-  "candidate_count": 2434,
+  "generated_at": "2026-10-29T12:42:24+00:00",
+  "candidate_count": 2436,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -35928,6 +35928,24 @@
       "source_url": "https://www.bis.org/publications/202610-commentary-ibs-gli"
     },
     {
+      "candidate_id": "cand_0069f7aff4c3dc65484b",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/publications/202610-commentary-ibs-gli",
+      "observed_at": "2026-10-29T12:42:13+00:00",
+      "currency": "USD",
+      "amount_native": 424000000000.0,
+      "amount_usd": 424000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "levated at 11% ( Graph 1.B ). Euro-denominated credit accounted for almost half of the global expansion in cross-border bank credit in Q2 2026. Of the total $877 billion increase, $424 billion was denominated in euros and $383 billion in US dollars ( Graph 2.A ). Both (dollar and euro) currency segments grew at an annual rate of 11% ( Graph 2.B ). Graph 1 Interactive gr",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 383000000000.0,
       "amount_usd": 383000000000.0,
       "attribution_probability": null,
@@ -35947,6 +35965,24 @@
       "snippet": "ated credit accounted for almost half of the global expansion in cross-border bank credit in Q2 2026. Of the total $877 billion increase, $424 billion was denominated in euros and $383 billion in US dollars ( Graph 2.A ). Both (dollar and euro) currency segments grew at an annual rate of 11% ( Graph 2.B ). Graph 1 Click for an interactive version of this graph Graph 1 O",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202610-commentary-ibs-gli"
+    },
+    {
+      "candidate_id": "cand_ee9155a1e2497563e8f9",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/publications/202610-commentary-ibs-gli",
+      "observed_at": "2026-10-29T12:42:13+00:00",
+      "currency": "USD",
+      "amount_native": 383000000000.0,
+      "amount_usd": 383000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "ated credit accounted for almost half of the global expansion in cross-border bank credit in Q2 2026. Of the total $877 billion increase, $424 billion was denominated in euros and $383 billion in US dollars ( Graph 2.A ). Both (dollar and euro) currency segments grew at an annual rate of 11% ( Graph 2.B ). Graph 1 Interactive graph Graph 1 Open the interactive graph Gra",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 350000000000.0,
