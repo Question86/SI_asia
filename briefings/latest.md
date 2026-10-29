@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T06:03:34+00:00_
+_Generiert: 2026-10-29T06:28:27+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+29 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,10 +65,6 @@ _Generiert: 2026-10-29T06:03:34+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].
-- **USGS earthquake M5.6 - South Sandwich Islands region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0)
-  - Quelle: USGS
-  - Zeit: `2026-10-29T05:06:48+00:00`
-  - Kurz: M5.6 - South Sandwich Islands region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -241,7 +237,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): 502 Server Error: Bad Gateway for url: https://www.bsi.bund.de/error_path/502.html?al_req_id=auLhnjXd_lVDbUgzK4NKfAAAB9A
