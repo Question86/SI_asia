@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-29T12:16:44Z",
+  "generated_at": "2026-10-29T13:37:50Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (libXi, libXrender, ansible-collection-redhat-leapp) und Red Hat Build of Apache Camel for Quarkus: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4187",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T11:49:27+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -36,11 +36,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux und Red Hat Build of Apache Camel for Quarkus ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen sowie Daten offenzulegen oder zu manipulieren."
     },
     {
+      "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR, und Thunderbird: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4216",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-29T12:57:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
       "url": "https://jvn.jp/jp/JVN82782759/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-29T12:00:00+09:00",
-      "age_days": 0.39,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -64,7 +88,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4189",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T10:34:25+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -88,7 +112,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -112,7 +136,7 @@
       "url": "https://www.bis.org/publications/202610-commentary-ibs-gli",
       "source": "BIS Press Releases, BIS Statistical Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 132.9,
+      "age_days": 132.96,
       "topics": [
         "ai",
         "macro"
@@ -124,16 +148,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.17,
+      "baseline_z_hint": 4.58,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 7.17",
+        "baseline z_hint 4.58",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 132.9d old signal",
+        "aging penalty -8.0 for 133.0d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -143,7 +167,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T22:58:45+00:00",
-      "age_days": 0.55,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "security",
@@ -171,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -196,7 +220,7 @@
       "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-29T10:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -224,7 +248,7 @@
       "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:03:35+00:00",
-      "age_days": 0.43,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -251,7 +275,7 @@
       "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:49:05+00:00",
-      "age_days": 0.35,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "macro"
@@ -279,7 +303,7 @@
       "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:03:19+00:00",
-      "age_days": 0.47,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -297,35 +321,6 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.4 - 114 km ENE of Barcelona, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-06-18T17:28:30+00:00",
-      "age_days": 132.78,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 1.07,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 1.07",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 132.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
