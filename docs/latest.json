@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T02:03:31+00:00",
-  "run_id": "2026-10-29T02:03:31+00:00",
+  "generated_at": "2026-10-29T02:25:03+00:00",
+  "run_id": "2026-10-29T02:25:03+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 9,
     "displayed_findings": 9,
     "high": 0,
@@ -515,52 +515,7 @@
       "id": "753b256b722ce2d543ed"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How to use AI in marketing without opening a single dashboard",
-      "url": "https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-29T02:00:22+00:00",
-      "fetched_at": "2026-10-29T02:02:59+00:00",
-      "summary": "Every Monday, as a marketer, I used to open nine tabs: Google Analytics, Search Console, Bing Webmaster Tools the newsletter platform, the social scheduler and four ad accounts (Google/Meta/LinkedIn/TikTok) I would export, paste, reconcile and start thinking at about 11am. I do not open those tabs any more. Now, on any given Monday, I type […] The post How to use AI in marketing without opening a single dashboard ap…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Content-Chance"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1473f84ceb6c9a7a461d"
-    },
-    {
-      "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
-      "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-29T02:00:57+00:00",
-      "fetched_at": "2026-10-29T02:02:59+00:00",
-      "summary": "There was a time when a bank in Southeast Asia could win customers simply by shipping an app that did not crash on payday. That era, a new study suggests, is over. Twimbit, the Singapore-based research and advisory firm, unveiled its inaugural State of CX in ASEAN Banking 2026 at the Twimbit Banking Summit & […] The post The 70/30 rule: Why ASEAN banks still need humans as AI takes over appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "778b42f19b7d1102d998"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
