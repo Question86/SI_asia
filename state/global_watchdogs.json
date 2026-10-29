@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:03:38+00:00",
+  "generated_at": "2026-10-29T08:24:30+00:00",
   "sections": {
     "global_security": [
       {
@@ -60,6 +60,21 @@
         "published_at": "2026-10-26",
         "metrics": {
           "cve": "CVE-2026-109618"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "USGS earthquake M6.4 - southeast of Easter Island",
+        "summary": "M6.4 - southeast of Easter Island. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz",
+        "published_at": "2026-10-29T07:49:50+00:00",
+        "metrics": {
+          "mag": 6.4,
+          "alert": "green",
+          "sig": 630.0,
+          "tsunami": 0
         }
       },
       {

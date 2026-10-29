@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-29T08:03:35+00:00_
+_Generated: 2026-10-29T08:24:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `35`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-29T08:03:35+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn
 - summary: PAGER - GREEN ShakeMap - III Time 2026-10-29 07:31:30 UTC 2026-10-29 07:31:30 UTC at epicenter Location 8.468°N 127.427°E Depth 10.00 km (6.21 mi)
 
-### 5. M 5.6 - South Sandwich Islands region
+### 5. M 6.4 - southeast of Easter Island
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-29T08:13:05.141+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz
+- summary: PAGER - GREEN ShakeMap - I Time 2026-10-29 07:49:50 UTC 2026-10-29 07:49:50 UTC at epicenter Location 36.406°S 98.049°W Depth 10.00 km (6.21 mi)
+
+### 6. M 5.6 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-29T05:28:13.664+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0
 - summary: PAGER - GREEN ShakeMap - III Time 2026-10-29 05:06:48 UTC 2026-10-29 05:06:48 UTC at epicenter Location 60.342°S 28.014°W Depth 10.00 km (6.21 mi)
 
-### 6. The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2
+### 7. The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-10-29T04:30:22+00:00`
 - url: https://e27.co/the-e27-contributor-programme-using-ai-submitting-and-growing-your-readership-part-2-20261029/
 - summary: Part one of this guide ended with a draft. This one starts there. A finished draft is a bit like a packed suitcase: the hard decisions are made, but you can still leave without your passport. Plenty of good contributor articles stumble in this last stretch, w…
 
-### 7. M 5.7 - 82 km NE of Kiunga, Papua New Guinea
+### 8. M 5.7 - 82 km NE of Kiunga, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-29T03:47:11.400+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5
 - summary: PAGER - GREEN ShakeMap - VII Time 2026-10-29 03:26:42 UTC 2026-10-29 03:26:42 UTC at epicenter Location 5.699°S 141.902°E Depth 10.00 km (6.21 mi)
-
-### 8. The 70/30 rule: Why ASEAN banks still need humans as AI takes over
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-29T02:00:57+00:00`
-- url: https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/
-- summary: There was a time when a bank in Southeast Asia could win customers simply by shipping an app that did not crash on payday. That era, a new study suggests, is over. Twimbit, the Singapore-based research and advisory firm, unveiled its inaugural State of CX in…
 
 END OF DOCUMENT

@@ -282,6 +282,44 @@
     "id": "1473f84ceb6c9a7a461d"
   },
   {
+    "title": "M 6.4 - southeast of Easter Island",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-29T08:13:05.141+00:00",
+    "fetched_at": "2026-10-29T08:23:48+00:00",
+    "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-29 07:49:50 UTC 2026-10-29 07:49:50 UTC at epicenter Location 36.406°S 98.049°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "00351243f4ef4df8cd34"
+  },
+  {
     "title": "M 5.6 - South Sandwich Islands region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -545,6 +583,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "969b7c8020f88fc28cc2"
+  },
+  {
+    "title": "M 4.6 - 41 km W of Mosteiros, Portugal",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty0",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-29T08:20:12.040+00:00",
+    "fetched_at": "2026-10-29T08:23:48+00:00",
+    "summary": "Time 2026-10-29 07:54:06 UTC 2026-10-29 07:54:06 UTC at epicenter Location 37.907°N 26.296°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "437f6b9ea4da7701b93b"
   },
   {
     "title": "M 5.1 - Balleny Islands region",
