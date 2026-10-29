@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T07:02:44+00:00",
+  "generated_at": "2026-10-29T07:20:26+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -1716,7 +1716,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_14f95b61fec9a8b2be6e",
@@ -10066,6 +10066,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_7005cc445390a7d090e0",
+      "title": "HKUDS/DeepTutor",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_700d73638d95093bf03d",
