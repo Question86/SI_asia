@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T10:17:09+00:00",
-  "run_id": "2026-10-29T10:17:09+00:00",
+  "generated_at": "2026-10-29T10:26:59+00:00",
+  "run_id": "2026-10-29T10:26:59+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 43,
     "displayed_findings": 43,
     "high": 0,
@@ -2353,50 +2353,7 @@
       "id": "f534e07fb2dd66ad0366"
     }
   ],
-  "new_findings": [
-    {
-      "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
-      "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
-      "source": "BIS Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-10-29T00:00:00+00:00",
-      "fetched_at": "2026-10-29T10:16:35+00:00",
-      "summary": "A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.",
-      "matched_keywords": [
-        "central banks",
-        "Macro/Policy"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+6.2); central banks (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0c95a8eb3813b72c14c1"
-    },
-    {
-      "title": "Why Africa needs its own AI off switch",
-      "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "fetched_at": "2026-10-29T10:16:35+00:00",
-      "summary": "Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.",
-      "matched_keywords": [
-        "Africa",
-        "AI/KI"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.8); Africa (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eb36afa320bda7b12a69"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
