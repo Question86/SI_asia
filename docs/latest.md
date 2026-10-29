@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T15:30:52+00:00_
+_Generiert: 2026-10-29T15:48:05+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+74 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -186,6 +186,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans les produits Microsoft (26 octobre 2026)** — Score 11, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1383/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-26T00:00:00+00:00`, fetched `2026-10-29T15:47:36+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft .Net (26 octobre 2026)** — Score 11, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1382/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-26T00:00:00+00:00`, fetched `2026-10-29T15:47:36+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une élévation de privilèges.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **LKYGBPC returns with a pitch to fix deeptech’s real bottleneck: customers** — Score 10, observation — [Quelle](https://e27.co/lkygbpc-returns-with-a-pitch-to-fix-deeptechs-real-bottleneck-customers-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-29T06:00:33+00:00`, fetched `2026-10-29T06:02:59+00:00`
@@ -222,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans les produits VMware (26 octobre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1385/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-26T00:00:00+00:00`, fetched `2026-10-29T15:47:36+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Christine Lagarde, Boris Vujčić: Monetary policy statement** — Score 9, opportunity — [Quelle](https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-10-29T14:00:00+00:00`, fetched `2026-10-29T14:06:01+00:00`
@@ -230,33 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Christine Lagarde, Boris Vujčić: Monetary policy statement
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Monetary policy decisions** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-29T13:15:00+00:00`, fetched `2026-10-29T13:22:01+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Monetary policy decisions
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ECB President Lagarde to step down on 7 February 2027** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-29T10:00:00+00:00`, fetched `2026-10-29T10:00:20+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: ECB President Lagarde to step down on 7 February 2027
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Release of the Monetary Policy Report** — Score 9, opportunity — [Quelle](https://www.bis.org/speeches/20261029-release-monetary-policy-report)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-29T13:56:40+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region canada: Canada, Ottawa, Bank of Canada (+2.0)
-  - Kurz: Opening statement by Mr Tiff Macklem, Governor of the Bank of Canada and Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the press conference following the monetary policy decision, Ottawa, Ontario, 28 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
