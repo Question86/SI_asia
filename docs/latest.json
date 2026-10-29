@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-29T03:56:58+00:00",
-  "run_id": "2026-10-29T03:56:58+00:00",
+  "generated_at": "2026-10-29T04:06:13+00:00",
+  "run_id": "2026-10-29T04:06:13+00:00",
   "date": "2026-10-29",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 1,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 6,
-    "observe": 16,
-    "source_errors": 1
+    "observe": 17,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -532,6 +532,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ed97d85720729c47ad9"
+      },
+      {
+        "title": "Hong Kong has no gigafactories, but it wants a cut of Asia’s US$5T battery boom",
+        "url": "https://e27.co/hong-kong-has-no-gigafactories-but-it-wants-a-cut-of-asias-us5t-battery-boom-20261028/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-29T04:04:16+00:00",
+        "fetched_at": "2026-10-29T04:05:42+00:00",
+        "summary": "Hong Kong does not make many batteries. It has no lithium mines, no gigafactories, and industrial land prices that would make any cell manufacturer wince. Yet Hong Kong Science and Technology Parks Corporation (HKSTP) wants the city counted among Asia’s premier energy storage ecosystems, and it has now published a report saying so. The inaugural […] The post Hong Kong has no gigafactories, but it wants a cut of Asia…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f896e64f76b674fec28c"
       },
       {
         "title": "渦中のGMO、熊谷代表の発信は“火に油”か？ 「経営トップが自ら広報」の功罪",
@@ -1122,6 +1142,26 @@
       "id": "2ed97d85720729c47ad9"
     },
     {
+      "title": "Hong Kong has no gigafactories, but it wants a cut of Asia’s US$5T battery boom",
+      "url": "https://e27.co/hong-kong-has-no-gigafactories-but-it-wants-a-cut-of-asias-us5t-battery-boom-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T04:04:16+00:00",
+      "fetched_at": "2026-10-29T04:05:42+00:00",
+      "summary": "Hong Kong does not make many batteries. It has no lithium mines, no gigafactories, and industrial land prices that would make any cell manufacturer wince. Yet Hong Kong Science and Technology Parks Corporation (HKSTP) wants the city counted among Asia’s premier energy storage ecosystems, and it has now published a report saying so. The inaugural […] The post Hong Kong has no gigafactories, but it wants a cut of Asia…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f896e64f76b674fec28c"
+    },
+    {
       "title": "渦中のGMO、熊谷代表の発信は“火に油”か？ 「経営トップが自ら広報」の功罪",
       "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002674/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1207,55 +1247,27 @@
   ],
   "new_findings": [
     {
-      "title": "渦中のGMO、熊谷代表の発信は“火に油”か？ 「経営トップが自ら広報」の功罪",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002674/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-29T01:46:44+00:00",
-      "fetched_at": "2026-10-29T03:56:28+00:00",
-      "summary": "グループ会社が提供する「お名前.com デスクトップクラウド」へのサイバー攻撃を巡り、GMOインターネットグループの熊谷正寿代表による発信が物議を醸しています。熊谷代表は10月25日に公開したブログ記事で、謝罪とともに政府への「能動的サイバー防御」の適用要請について、その考えを詳しく説明した他、自身のSNSでも...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "90222d71aea47384b759"
-    },
-    {
-      "title": "Bitcoin rebounds to US$81,000 but faces weakest October in 6 years",
-      "url": "https://e27.co/bitcoin-rebounds-to-us81000-but-faces-weakest-october-in-6-years-20261029/",
+      "title": "Hong Kong has no gigafactories, but it wants a cut of Asia’s US$5T battery boom",
+      "url": "https://e27.co/hong-kong-has-no-gigafactories-but-it-wants-a-cut-of-asias-us5t-battery-boom-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-29T03:49:09+00:00",
-      "fetched_at": "2026-10-29T03:56:28+00:00",
-      "summary": "Bitcoin has climbed back above the critical US$81,000 baseline. This 24-hour rebound does not erase a difficult month. The digital asset remains in its weakest October performance in six years, down roughly 4.2 per cent, while conflicting forces keep price action in a sideways range. The market has spent a long time without a decisive […] The post Bitcoin rebounds to US$81,000 but faces weakest October in 6 years ap…",
+      "published_at": "2026-10-29T04:04:16+00:00",
+      "fetched_at": "2026-10-29T04:05:42+00:00",
+      "summary": "Hong Kong does not make many batteries. It has no lithium mines, no gigafactories, and industrial land prices that would make any cell manufacturer wince. Yet Hong Kong Science and Technology Parks Corporation (HKSTP) wants the city counted among Asia’s premier energy storage ecosystems, and it has now published a report saying so. The inaugural […] The post Hong Kong has no gigafactories, but it wants a cut of Asia…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f534e07fb2dd66ad0366"
+      "id": "f896e64f76b674fec28c"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
