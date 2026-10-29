@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T05:56:46+00:00",
+  "generated_at": "2026-10-29T06:04:08+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -3410,7 +3410,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_275fc3b910f00a50601a",
@@ -13742,6 +13742,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_99bb120b61692144d4d1",
+      "title": "LKYGBPC returns with a pitch to fix deeptech’s real bottleneck: customers",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_99cbb31fa8c9373e9e86",
       "title": "Vulnérabilité dans F5 NGINX (16 septembre 2026)",
       "deduplicated_buckets": 0,
@@ -19970,12 +19981,12 @@
     {
       "event_id": "evt_e1b0d34e3fd0f93d69e1",
       "title": "M 5.1 - Balleny Islands region",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
