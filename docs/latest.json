@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T16:48:58+00:00",
-  "run_id": "2026-10-29T16:48:58+00:00",
+  "generated_at": "2026-10-29T16:55:09+00:00",
+  "run_id": "2026-10-29T16:55:09+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 77,
     "displayed_findings": 77,
     "high": 0,
@@ -3893,28 +3893,7 @@
       "id": "9cb71d46823d9fdc5c56"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-28T11:00:00+00:00",
-      "fetched_at": "2026-10-29T16:48:26+00:00",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9d4b52dd43fb54a24a93"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
