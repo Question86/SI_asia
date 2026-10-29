@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T18:58:47+00:00_
+_Generiert: 2026-10-29T19:30:19+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-10-29T18:58:47+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-97229 GitLab Community Edition and Enterprise Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-29`
+  - Kurz: Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability
+- **CISA KEV: CVE-2026-76418 Cisco Secure Firewall ASA Software and Cisco Secure FTD Software** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-29`
+  - Kurz: Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability
 - **CISA KEV: CVE-2026-41709 Broadcom VMware ESX** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-28`
@@ -21,14 +29,6 @@ _Generiert: 2026-10-29T18:58:47+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-27`
   - Kurz: Known exploited vulnerability. Added 2026-10-27. Due 2026-11-10. Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability
-- **CISA KEV: CVE-2026-111497 Google Brotli** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-27`
-  - Kurz: Known exploited vulnerability. Added 2026-10-27. Due 2026-11-10. Google Brotli Unchecked Return Value Vulnerability
-- **CISA KEV: CVE-2026-109618 PHP Group PHP** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-26`
-  - Kurz: Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Memory Corruption Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown].** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574517)
   - Quelle: GDACS
   - Zeit: ``
