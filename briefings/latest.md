@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T13:10:58+00:00_
+_Generiert: 2026-10-29T13:22:33+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+53 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -286,6 +286,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Monetary policy decisions** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-29T13:15:00+00:00`, fetched `2026-10-29T13:22:01+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Monetary policy decisions
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECB President Lagarde to step down on 7 February 2027** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-10-29T10:00:00+00:00`, fetched `2026-10-29T10:00:20+00:00`
@@ -321,15 +330,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Africa (+2.5); recent (+1.0)
   - Kurz: Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angriffe auf Linux- und VMware-ESX-Schwachstellen** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-29T07:34:00.000+00:00`, fetched `2026-10-29T07:47:25+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
