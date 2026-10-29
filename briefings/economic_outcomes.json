@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T22:05:37+00:00",
+  "generated_at": "2026-10-29T22:19:44+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -7338,6 +7338,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_529266ceee9cd91550cc",
+      "title": "M 6.2 - 43 km ESE of Port-Olry, Vanuatu",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_529f08f25a121eec137a",
@@ -20405,7 +20416,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e488e9dd1e316efc8345",
