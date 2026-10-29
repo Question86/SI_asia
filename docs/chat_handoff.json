@@ -100,5 +100,146 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=29.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+        "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-28T22:58:45+00:00",
+        "age_days": 0.44,
+        "topics": [
+          "ai",
+          "security",
+          "infra"
+        ],
+        "dynamics_score": 29.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: vpn",
+          "security high-signal: vpn"
+        ],
+        "summary": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】"
+      },
+      {
+        "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
+        "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-29T02:03:35+00:00",
+        "age_days": 0.31,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 29.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
+        "url": "https://jvn.jp/jp/JVN82782759/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-29T12:00:00+09:00",
+        "age_days": 0.27,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "The Apache Software Foundationが提供するApache Struts 2のRESTプラグインには、Jacksonの @JsonAnySetter が指定されたフィールドやメソッドに対して @StrutsParameter の制限が行われない問題が存在します。"
+      },
+      {
+        "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
+        "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
+        "source": "heise Security Alerts",
+        "published_at": "2026-06-19T07:39:37+00:00",
+        "age_days": 132.07,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 25.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "high terms: angriffe",
+          "security high-signal: angriffe",
+          "aging penalty -8.0 for 132.1d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "The AI told me to raise my prices by 40 percent but it had never been to a wet market",
+        "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-29T03:49:05+00:00",
+        "age_days": 0.23,
+        "topics": [
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
