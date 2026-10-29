@@ -1114,6 +1114,27 @@
     "id": "fd95960859e5e1c13f45"
   },
   {
+    "title": "Firefox の Intl.Segmenter で「メロス」を「彼」にすると「した」が文字扱いされなくなる - id:onk のはてなブログ",
+    "url": "https://onk.hatenablog.jp/entry/2026/10/29/151858",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-29T06:48:37+00:00",
+    "fetched_at": "2026-10-29T11:31:43+00:00",
+    "summary": "const segmenter = new Intl.Segmenter(undefined, { granularity: \"word\" }); console.table([...segmenter.segment(\"メロスは激怒した。\")]); console.table([...segmenter.segment(\"彼は激怒した。\")]); (index) segment index input isWordLike 0 メロス 0 メロスは激怒した。 true 1 は 3 メロスは激怒した。 true ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bac021f8f1cf84926f46"
+  },
+  {
     "title": "グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か 下4桁は40万枚分",
     "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
     "source": "Hatena Bookmark Hotentry IT",
