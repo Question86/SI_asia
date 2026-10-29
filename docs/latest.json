@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T12:41:35+00:00",
-  "run_id": "2026-10-29T12:41:35+00:00",
+  "generated_at": "2026-10-29T12:50:56+00:00",
+  "run_id": "2026-10-29T12:50:56+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 51,
     "displayed_findings": 51,
     "high": 0,
@@ -2729,30 +2729,7 @@
       "id": "304d967e1e0badc9f340"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される",
-      "url": "https://gigazine.net/news/20261029-anti-ai-words-in-script/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-29T11:05:08+00:00",
-      "fetched_at": "2026-10-29T12:41:07+00:00",
-      "summary": "AIには悪意ある用途での使用をブロックするための安全対策が施されているほか、特定の分野のフレーズを拒否している場合もあります。こうしたAIの挙動を逆手に取り、危険とみなされる単語をコードに紛れ込ませることでAIによる解析を妨害しているとみられるプログラムが、セキュリティ研究者のveritas氏によって発見され...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "08cd8ca85d338c189960"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
