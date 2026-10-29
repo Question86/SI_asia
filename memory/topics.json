@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-29T12:58:43+00:00",
+  "generated_at": "2026-10-29T13:10:58+00:00",
   "topics": {
     "ai": [
       {
@@ -147,6 +147,13 @@
         "published_at": "2026-10-29T09:49:26+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530"
+      },
+      {
+        "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR, und Thunderbird: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T12:57:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4216"
       },
       {
         "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",

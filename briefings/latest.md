@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T12:58:43+00:00_
+_Generiert: 2026-10-29T13:10:58+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+52 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -166,6 +166,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. http://arxiv.org/abs/2604.26962 DeepTutor: Lifelong Personalized Tutoring Features · Get Started · Explore · CLI · Ecosystem · Community 🤝 We welcome any kinds of contributing! Vote on roadmap items or propose new ones at Roadmap , and see our Contributing Guide for branching strategy, coding standards, and how to get started. 📦 Releases [2026.10.28…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Mozilla Firefox, Firefox ESR, und Thunderbird: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4216)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-29T12:57:00+00:00`, fetched `2026-10-29T13:10:28+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN82782759/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-29T12:00:00+09:00`, fetched `2026-10-29T03:48:26+00:00`
@@ -175,15 +184,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationが提供するApache Struts 2のRESTプラグインには、Jacksonの @JsonAnySetter が指定されたフィールドやメソッドに対して @StrutsParameter の制限が行われない問題が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] Python: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4189)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-29T10:34:25+00:00`, fetched `2026-10-29T10:44:04+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Python ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, Sicherheitsvorkehrungen zu umgehen oder Dateien zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How to use AI in marketing without opening a single dashboard** — Score 14, observation — [Quelle](https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-29T02:00:22+00:00`, fetched `2026-10-29T02:02:59+00:00`
