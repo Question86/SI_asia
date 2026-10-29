@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T03:48:55+00:00_
+_Generiert: 2026-10-29T03:56:58+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+22 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -141,14 +141,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-29 02:18:21 UTC 2026-10-29 02:18:21 UTC at epicenter Location 12.948°N 144.582°E Depth 70.24 km (43.64 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **【やじうまミニレビュー】徘徊に悩んだ筆者が思う「あの時これがあれば」。AirTag入りインソール - PC Watch** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152066.html)
+- **渦中のGMO、熊谷代表の発信は“火に油”か？ 「経営トップが自ら広報」の功罪** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/29/2000002674/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-28T23:01:41+00:00`, fetched `2026-10-29T02:59:02+00:00`
+  - Zeit: published `2026-10-29T01:46:44+00:00`, fetched `2026-10-29T03:56:28+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【やじうまミニレビュー】徘徊に悩んだ筆者が思う「あの時これがあれば」。AirTag入りインソール - PC Watch
+  - Kurz: グループ会社が提供する「お名前.com デスクトップクラウド」へのサイバー攻撃を巡り、GMOインターネットグループの熊谷正寿代表による発信が物議を醸しています。熊谷代表は10月25日に公開したブログ記事で、謝罪とともに政府への「能動的サイバー防御」の適用要請について、その考えを詳しく説明した他、自身のSNSでも...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -159,3 +159,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))

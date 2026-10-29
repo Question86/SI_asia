@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-29T03:48:55+00:00",
-  "run_id": "2026-10-29T03:48:55+00:00",
+  "generated_at": "2026-10-29T03:56:58+00:00",
+  "run_id": "2026-10-29T03:56:58+00:00",
   "date": "2026-10-29",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 2,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 6,
-    "observe": 14,
-    "source_errors": 0
+    "observe": 16,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -534,6 +534,27 @@
         "id": "2ed97d85720729c47ad9"
       },
       {
+        "title": "渦中のGMO、熊谷代表の発信は“火に油”か？ 「経営トップが自ら広報」の功罪",
+        "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002674/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-29T01:46:44+00:00",
+        "fetched_at": "2026-10-29T03:56:28+00:00",
+        "summary": "グループ会社が提供する「お名前.com デスクトップクラウド」へのサイバー攻撃を巡り、GMOインターネットグループの熊谷正寿代表による発信が物議を醸しています。熊谷代表は10月25日に公開したブログ記事で、謝罪とともに政府への「能動的サイバー防御」の適用要請について、その考えを詳しく説明した他、自身のSNSでも...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "90222d71aea47384b759"
+      },
+      {
         "title": "【やじうまミニレビュー】徘徊に悩んだ筆者が思う「あの時これがあれば」。AirTag入りインソール - PC Watch",
         "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152066.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -574,6 +595,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "753b256b722ce2d543ed"
+      },
+      {
+        "title": "Bitcoin rebounds to US$81,000 but faces weakest October in 6 years",
+        "url": "https://e27.co/bitcoin-rebounds-to-us81000-but-faces-weakest-october-in-6-years-20261029/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-29T03:49:09+00:00",
+        "fetched_at": "2026-10-29T03:56:28+00:00",
+        "summary": "Bitcoin has climbed back above the critical US$81,000 baseline. This 24-hour rebound does not erase a difficult month. The digital asset remains in its weakest October performance in six years, down roughly 4.2 per cent, while conflicting forces keep price action in a sideways range. The market has spent a long time without a decisive […] The post Bitcoin rebounds to US$81,000 but faces weakest October in 6 years ap…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f534e07fb2dd66ad0366"
       }
     ]
   },
@@ -1081,6 +1122,27 @@
       "id": "2ed97d85720729c47ad9"
     },
     {
+      "title": "渦中のGMO、熊谷代表の発信は“火に油”か？ 「経営トップが自ら広報」の功罪",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002674/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-29T01:46:44+00:00",
+      "fetched_at": "2026-10-29T03:56:28+00:00",
+      "summary": "グループ会社が提供する「お名前.com デスクトップクラウド」へのサイバー攻撃を巡り、GMOインターネットグループの熊谷正寿代表による発信が物議を醸しています。熊谷代表は10月25日に公開したブログ記事で、謝罪とともに政府への「能動的サイバー防御」の適用要請について、その考えを詳しく説明した他、自身のSNSでも...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "90222d71aea47384b759"
+    },
+    {
       "title": "【やじうまミニレビュー】徘徊に悩んだ筆者が思う「あの時これがあれば」。AirTag入りインソール - PC Watch",
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152066.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1121,237 +1183,79 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "753b256b722ce2d543ed"
+    },
+    {
+      "title": "Bitcoin rebounds to US$81,000 but faces weakest October in 6 years",
+      "url": "https://e27.co/bitcoin-rebounds-to-us81000-but-faces-weakest-october-in-6-years-20261029/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-29T03:49:09+00:00",
+      "fetched_at": "2026-10-29T03:56:28+00:00",
+      "summary": "Bitcoin has climbed back above the critical US$81,000 baseline. This 24-hour rebound does not erase a difficult month. The digital asset remains in its weakest October performance in six years, down roughly 4.2 per cent, while conflicting forces keep price action in a sideways range. The market has spent a long time without a decisive […] The post Bitcoin rebounds to US$81,000 but faces weakest October in 6 years ap…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f534e07fb2dd66ad0366"
     }
   ],
   "new_findings": [
     {
-      "title": "The AI told me to raise my prices by 40 percent but it had never been to a wet market",
-      "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-29T03:30:01+00:00",
-      "fetched_at": "2026-10-29T03:48:26+00:00",
-      "summary": "I run OTSATE, a small lemongrass sauce brand in Malaysia. I’m the founder, the cook and the person who does the numbers, so everything below is one operator’s experience, not a benchmark. Most of my admin now runs through Claude Code, an AI agent that works inside a terminal and can read my files and […] The post The AI told me to raise my prices by 40 percent but it had never been to a wet market appeared first on…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "founder",
-        "Public Health"
-      ],
-      "relevance_score": 22,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "75a7a1af0916134b8605"
-    },
-    {
-      "title": "M 5.4 - 113 km ENE of Barcelona, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-29T03:40:29.695+00:00",
-      "fetched_at": "2026-10-29T03:48:26+00:00",
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 03:17:54 UTC 2026-10-29 03:17:54 UTC at epicenter Location 8.370°N 127.443°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "3b822cfe08e325c47124"
-    },
-    {
-      "title": "M 5.7 - 121 km ENE of Barcelona, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-29T03:38:50.890+00:00",
-      "fetched_at": "2026-10-29T03:48:26+00:00",
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "69935c1682095d9518ee"
-    },
-    {
-      "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
-      "url": "https://jvn.jp/jp/JVN82782759/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-29T12:00:00+09:00",
-      "fetched_at": "2026-10-29T03:48:26+00:00",
-      "summary": "The Apache Software Foundationが提供するApache Struts 2のRESTプラグインには、Jacksonの @JsonAnySetter が指定されたフィールドやメソッドに対して @StrutsParameter の制限が行われない問題が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "acb4d4f8829afaae9b29"
-    },
-    {
-      "title": "M 5.7 - 82 km NE of Kiunga, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-29T03:47:11.400+00:00",
-      "fetched_at": "2026-10-29T03:48:26+00:00",
-      "summary": "PAGER - GREEN ShakeMap - VII Time 2026-10-29 03:26:42 UTC 2026-10-29 03:26:42 UTC at epicenter Location 5.699°S 141.902°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "aa01df75f9b7d78c8174"
-    },
-    {
-      "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
-      "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
+      "title": "渦中のGMO、熊谷代表の発信は“火に油”か？ 「経営トップが自ら広報」の功罪",
+      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002674/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-28T22:58:45+00:00",
-      "fetched_at": "2026-10-29T03:48:26+00:00",
-      "summary": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+      "published_at": "2026-10-29T01:46:44+00:00",
+      "fetched_at": "2026-10-29T03:56:28+00:00",
+      "summary": "グループ会社が提供する「お名前.com デスクトップクラウド」へのサイバー攻撃を巡り、GMOインターネットグループの熊谷正寿代表による発信が物議を醸しています。熊谷代表は10月25日に公開したブログ記事で、謝罪とともに政府への「能動的サイバー防御」の適用要請について、その考えを詳しく説明した他、自身のSNSでも...",
       "matched_keywords": [
         "Hatena",
-        "hotentry",
-        "Security"
+        "hotentry"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "69f1acb207572ce26251"
+      "id": "90222d71aea47384b759"
     },
     {
-      "title": "Malaysian SMEs are comparing the wrong number when they buy a website",
-      "url": "https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/",
+      "title": "Bitcoin rebounds to US$81,000 but faces weakest October in 6 years",
+      "url": "https://e27.co/bitcoin-rebounds-to-us81000-but-faces-weakest-october-in-6-years-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-29T03:00:51+00:00",
-      "fetched_at": "2026-10-29T03:48:26+00:00",
-      "summary": "Most small business owners I speak to compare website quotes the same way: they line up the first invoice and pick the lowest. It feels sensible. It’s also how many end up paying several times more than they planned. In October 2026 we looked at the published prices of popular website packages in Malaysia and […] The post Malaysian SMEs are comparing the wrong number when they buy a website appeared first on e27 .",
+      "published_at": "2026-10-29T03:49:09+00:00",
+      "fetched_at": "2026-10-29T03:56:28+00:00",
+      "summary": "Bitcoin has climbed back above the critical US$81,000 baseline. This 24-hour rebound does not erase a difficult month. The digital asset remains in its weakest October performance in six years, down roughly 4.2 per cent, while conflicting forces keep price action in a sideways range. The market has spent a long time without a decisive […] The post Bitcoin rebounds to US$81,000 but faces weakest October in 6 years ap…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Webentwicklung"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d3b9dd333ea97c188bfd"
-    },
-    {
-      "title": "Visa fees are soaring, but founders want US revenue more than US investors",
-      "url": "https://e27.co/visa-fees-are-soaring-but-founders-want-us-revenue-more-than-us-investors-20261029/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-29T03:14:54+00:00",
-      "fetched_at": "2026-10-29T03:48:26+00:00",
-      "summary": "Washington has spent the past year making it harder, pricier and more nerve-racking for foreign talent to work in America. Asian founders, if a new survey is to be believed, have mostly shrugged. Singapore-founded immigration platform Beyond Border’s August 2026 Founder Mobility Pulse found that 82 per cent of respondents had not changed their US […] The post Visa fees are soaring, but founders want US revenue more…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d0aa55118c9c20d79b1b"
+      "id": "f534e07fb2dd66ad0366"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bsi_cert_bund_csw",
+      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
