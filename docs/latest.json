@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T23:10:36+00:00",
-  "run_id": "2026-10-29T23:10:36+00:00",
+  "generated_at": "2026-10-29T23:19:45+00:00",
+  "run_id": "2026-10-29T23:19:45+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 90,
     "displayed_findings": 90,
     "high": 0,
@@ -4575,50 +4575,7 @@
       "id": "9cb71d46823d9fdc5c56"
     }
   ],
-  "new_findings": [
-    {
-      "title": "E2Eってつらくないですか？E2Eの管理コストを下げる手段とその実践",
-      "url": "https://speakerdeck.com/akaboshinit/e2e-tte-tsurakunaidesu-ka-e2e-no-kanri-kosuto-o-sageru-shudan-to-sono-jissen",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-29T10:23:25+00:00",
-      "fetched_at": "2026-10-29T23:10:05+00:00",
-      "summary": "https://2026.flutterkaigi.jp/ https://www.youtube.com/@flutterkaigi",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b38b5e0e0bdd82eba370"
-    },
-    {
-      "title": "必要最低限の自分専用アプリをAIで作る",
-      "url": "https://iwashi.co/2026/10/29/build-my-app",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-29T04:20:23+00:00",
-      "fetched_at": "2026-10-29T23:10:05+00:00",
-      "summary": "最低限の機能を備えた自分専用のアプリを作ればいい、と考えることが最近増えてきた。 Webサービスにしたいわけではない。昨今の事情を考えると、IFは極力Publicに公開したくない。なので、クラウドにデプロイする必要すらない、自分のローカル環境で静かに動けば十分なレベルのアプリだ。どうしても残したいステートが...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "db5d58a147fd694aaf4d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-29T23:10:40+00:00_
+_Generiert: 2026-10-29T23:19:48+00:00_
 
 ## Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026
 
