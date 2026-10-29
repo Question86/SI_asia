@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T10:45:16+00:00",
+  "generated_at": "2026-10-29T11:01:06+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -8812,6 +8812,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_62c6d6d4bca2722208db",
+      "title": "M 4.9 - 111 km SW of Port-Vila, Vanuatu",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_62e7a54231b157655a2c",
@@ -17952,7 +17963,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_cb7a571c2007b039fa74",
