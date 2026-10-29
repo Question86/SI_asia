@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T22:27:32+00:00",
+  "generated_at": "2026-10-29T22:36:22+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 87,
-    "clusters": 62,
+    "findings": 88,
+    "clusters": 63,
     "cross_source_confrmed": 1,
     "hot": 1,
     "early_signals": 0,
-    "dominance_penalized": 19
+    "dominance_penalized": 20
   },
   "clusters": [
     {
@@ -192,18 +192,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.58,
+      "network_score": 18.61,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 22.3,
-      "ranking_score": 18.58,
+      "ranking_score": 18.61,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.08,
+      "baseline_bonus": 1.11,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -886,44 +886,6 @@
       "first_seen_at": "2026-10-29T03:49:05+00:00"
     },
     {
-      "key": "github_repo:tester-army/e2e",
-      "title": "GitHub - tester-army/e2e: Next generation e2e testing framework for web and mobile apps.",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/tester-army/e2e"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.55,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 11.55,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.55,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-10-05T07:58:38+00:00"
-    },
-    {
       "key": "title:lkygbpc-returns-pitch-fix-deeptech-real-bottleneck-customers",
       "title": "LKYGBPC returns with a pitch to fix deeptech’s real bottleneck: customers",
       "sources": [
@@ -1132,20 +1094,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.89,
+      "network_score": 10.87,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 13.7,
-      "ranking_score": 10.89,
+      "ranking_score": 10.87,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.49,
+      "baseline_bonus": 0.47,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1951,6 +1913,82 @@
       "first_seen_at": "2026-10-29T00:51:36+00:00"
     },
     {
+      "key": "domain:automaton-media.com",
+      "title": "1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 - AUTOMATON",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier2_major_news"
+      ],
+      "urls": [
+        "https://automaton-media.com/articles/newsjp/20261029-476529/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 8.06,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.4,
+      "ranking_score": 8.06,
+      "initial_reach_tier": "major_media",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.16,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-11T21:15:32+00:00"
+    },
+    {
+      "key": "github_repo:tester-army/e2e",
+      "title": "GitHub - tester-army/e2e: Next generation e2e testing framework for web and mobile apps.",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/tester-army/e2e"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.83,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.83,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.33,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-05T07:58:38+00:00"
+    },
+    {
       "key": "url:https://www.digital.go.jp/press/605c1671-b6ad-4f31-94b7-b586675d65a4",
       "title": "10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました",
       "sources": [
@@ -2448,7 +2486,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-29T22:27:33Z",
+    "generated_at": "2026-10-29T22:36:23Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
