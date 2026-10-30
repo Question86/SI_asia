@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T22:29:31+00:00",
-  "run_id": "2026-10-30T22:29:31+00:00",
+  "generated_at": "2026-10-30T22:45:11+00:00",
+  "run_id": "2026-10-30T22:45:11+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 15,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -1281,6 +1281,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a51fbd4a1146b4ef0f68"
+      },
+      {
+        "title": "推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog",
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/10/30/230303",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-30T15:04:52+00:00",
+        "fetched_at": "2026-10-30T22:44:38+00:00",
+        "summary": "2026年10月30日、Binanceは、不正な出金トランザクションが送信されたとして、原因の初期調査の結果と対応を公表しました。ここでは関連する情報をまとめます。 資金流出の経緯 Binanceは10月29日21時15分(UTC。以下、時刻は特記のない限りUTC)、公式Xで潜在的なセキュリティ問題の報告を把握して調査中と投稿した。初報...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "60a1dec5c57adc2b87e8"
       },
       {
         "title": "「電話越しにフロントスタッフを突破するのは私の今後の課題にしておきます！」自律型AIに年末年始のホテルについて質問したら勝手に電話をしてしまった話",
@@ -2747,6 +2768,27 @@
       "id": "a51fbd4a1146b4ef0f68"
     },
     {
+      "title": "推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/10/30/230303",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T15:04:52+00:00",
+      "fetched_at": "2026-10-30T22:44:38+00:00",
+      "summary": "2026年10月30日、Binanceは、不正な出金トランザクションが送信されたとして、原因の初期調査の結果と対応を公表しました。ここでは関連する情報をまとめます。 資金流出の経緯 Binanceは10月29日21時15分(UTC。以下、時刻は特記のない限りUTC)、公式Xで潜在的なセキュリティ問題の報告を把握して調査中と投稿した。初報...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60a1dec5c57adc2b87e8"
+    },
+    {
       "title": "「電話越しにフロントスタッフを突破するのは私の今後の課題にしておきます！」自律型AIに年末年始のホテルについて質問したら勝手に電話をしてしまった話",
       "url": "https://togetter.com/li/2764692",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2957,7 +2999,29 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/10/30/230303",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T15:04:52+00:00",
+      "fetched_at": "2026-10-30T22:44:38+00:00",
+      "summary": "2026年10月30日、Binanceは、不正な出金トランザクションが送信されたとして、原因の初期調査の結果と対応を公表しました。ここでは関連する情報をまとめます。 資金流出の経緯 Binanceは10月29日21時15分(UTC。以下、時刻は特記のない限りUTC)、公式Xで潜在的なセキュリティ問題の報告を把握して調査中と投稿した。初報...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60a1dec5c57adc2b87e8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
