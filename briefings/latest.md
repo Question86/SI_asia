@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T18:03:46+00:00_
+_Generiert: 2026-10-30T18:19:37+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -162,6 +162,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-30 04:58:31 UTC 2026-10-30 04:58:31 UTC at epicenter Location 40.311°N 142.362°E Depth 56.60 km (35.17 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Making it easier for websites to express AI training preferences** — Score 14, observation — [Quelle](https://openai.com/index/helping-websites-express-ai-training-preferences)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-30T09:30:00+00:00`, fetched `2026-10-30T18:19:03+00:00`
+  - Treffer: AI/KI, OpenAI, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
