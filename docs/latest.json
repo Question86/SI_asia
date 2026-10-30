@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T22:14:57+00:00",
-  "run_id": "2026-10-30T22:14:57+00:00",
+  "generated_at": "2026-10-30T22:29:31+00:00",
+  "run_id": "2026-10-30T22:29:31+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 61,
     "displayed_findings": 61,
     "high": 0,
@@ -2957,30 +2957,7 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新)｜zephel01",
-      "url": "https://note.com/zephel01/n/n4637423e080b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-30T01:31:28+00:00",
-      "fetched_at": "2026-10-30T22:14:26+00:00",
-      "summary": "CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新) 【更新履歴】 ・10月30日 13時半：Goのセキュリティチームの告知を反映した。Goで書いたサーバーでMPTCPを止める方法と、「バグ自体はMPTCP固有ではない」という見解を、対策5などに加えた ・10月30日 12...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cf9b0b1c7904f689d082"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
