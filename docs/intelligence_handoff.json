@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-30T04:38:16Z",
+  "generated_at": "2026-10-30T04:51:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:54:03+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -44,7 +44,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -96,7 +96,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:31:11+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -123,9 +123,9 @@
       "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:59:16+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [],
-      "dynamics_score": 24.5,
+      "dynamics_score": 22.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -147,7 +147,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:30:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "infra"
@@ -171,11 +171,35 @@
       "summary": "Singapore’s data centres keep roughly 160 MWh of battery capacity on permanent standby, charged and waiting for a blackout that almost never comes. For an island that imports nearly all its fuel and is scrambling for clean power, that is a lot of expensive hardware doing nothing. Amplicity, a Singapore-headquartered e…"
     },
     {
+      "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
+      "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-30T03:35:52+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261030-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-30T01:20:57+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -200,7 +224,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 133.11,
+      "age_days": 133.12,
       "topics": [
         "general"
       ],
@@ -251,7 +275,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:05:21+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -275,7 +299,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:24:25+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -293,30 +317,6 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
-      "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T03:35:52+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -328,8 +328,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 5
+      "strong": 8,
+      "watch": 4
     }
   }
 }
