@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T12:28:40+00:00",
-  "run_id": "2026-10-30T12:28:40+00:00",
+  "generated_at": "2026-10-30T12:43:47+00:00",
+  "run_id": "2026-10-30T12:43:47+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 40,
     "displayed_findings": 40,
     "high": 0,
@@ -2031,48 +2031,7 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "TeamViewer stopft Codeschmuggel-Lücke",
-      "url": "https://www.heise.de/news/TeamViewer-stopft-Codeschmuggel-Luecke-11506072.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-30T12:20:00.000+00:00",
-      "fetched_at": "2026-10-30T12:28:12+00:00",
-      "summary": "Neue Versionen von TeamViewer stopfen als hochriskant eingestufte Sicherheitslücken. Angreifer könnten etwa Code einschmuggeln.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6a50e71c273890d1dca7"
-    },
-    {
-      "title": "Erneut kritischer Bug in Linux TCP/IP aufgedeckt – Updates in Arbeit",
-      "url": "https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-30T12:12:00.000+00:00",
-      "fetched_at": "2026-10-30T12:28:12+00:00",
-      "summary": "Eine kritische Lücke im TCP/IP-Stack des Linux-Kerns erlaubt Remote Code Execution. Anthropics Claude entdeckte den elf Jahre alten Fehler.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2db769bc6a9068ee0a39"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
