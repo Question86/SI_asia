@@ -1,289 +1,10 @@
 {
-  "generated_at": "2026-10-29T23:57:29+00:00",
-  "today_file_total": 93,
+  "generated_at": "2026-10-30T00:24:25+00:00",
+  "today_file_total": 3,
   "current_clusters": [
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [hoch] Cisco Secure Firewall Threat Defense und Cisco ASA: Schwachstelle ermöglicht Denial of Service",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4238",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4187",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1584",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4239",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4237"
-      ],
-      "finding_count": 11,
-      "max_score": 16,
-      "credibility_total": 11.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 39.1,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026",
-      "sources": [
-        "BIS Central Bankers Speeches",
-        "BIS Press Releases",
-        "BIS Statistical Releases"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/publications/202610-commentary-ibs-gli",
-        "https://www.bis.org/speeches/20261029-economic-resilience-thinner-buffers-emerging-risks-globally-where-does-india-stand",
-        "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
-        "https://www.bis.org/speeches/20261029-release-monetary-policy-report",
-        "https://www.bis.org/speeches/20261029-chiles-september-2026-monetary-policy-report",
-        "https://www.bis.org/speeches/20261029-opening-statement-senate-economics-legislation-committee-supplementary-budget-estimates"
-      ],
-      "finding_count": 7,
-      "max_score": 12,
-      "credibility_total": 7.35,
-      "cross_source_confirmed": true,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 34.7,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "earthquake:philippines:5.4",
-      "title": "M 5.4 - 114 km ENE of Barcelona, Philippines",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2"
-      ],
-      "finding_count": 2,
-      "max_score": 19,
-      "credibility_total": 2.7,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 24.4,
-      "hot": true,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "title:told-raise-prices-percent-but-had-never-been",
-      "title": "The AI told me to raise my prices by 40 percent but it had never been to a wet market",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/"
-      ],
-      "finding_count": 1,
-      "max_score": 22,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 24.1,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "title:thailand-not-just-singapore-asia-quiet-surprise-says",
-      "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/"
-      ],
-      "finding_count": 1,
-      "max_score": 22,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 24.1,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/updated-model-spec",
-        "https://openai.com/index/ropes-gray-ai-diligence",
-        "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-      ],
-      "finding_count": 3,
-      "max_score": 16,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.3,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.twcert.org",
-      "title": "駭客利用AI滲透測試工具ARTEX竊取韓國金融業資料",
-      "sources": [
-        "TWCERT/CC Security News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.twcert.org.tw/tw/cp-104-11352-8c3dc-1.html"
-      ],
-      "finding_count": 1,
-      "max_score": 20,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:philippines:5.7",
-      "title": "M 5.7 - 121 km ENE of Barcelona, Philippines",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3"
-      ],
-      "finding_count": 1,
-      "max_score": 19,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "github_repo:hkuds/deeptutor",
-      "title": "HKUDS/DeepTutor",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/HKUDS/DeepTutor"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 18.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:indonesia:5.0",
-      "title": "M 5.0 - 131 km NNW of Tual, Indonesia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3u"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
-      "sources": [
-        "ECB Press Releases Speeches Interviews"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-        "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-        "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html"
-      ],
-      "finding_count": 4,
-      "max_score": 9,
-      "credibility_total": 4.2,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.4,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "title:apache-struts-rest-strutsparameter-jsonanysetter",
-      "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
+      "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
       "sources": [
         "JVN Japan Vulnerability Notes"
       ],
@@ -291,22 +12,22 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://jvn.jp/jp/JVN82782759/"
+        "https://jvn.jp/vu/JVNVU95856220/"
       ],
       "finding_count": 1,
-      "max_score": 14,
+      "max_score": 16,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:use-marketing-without-opening-single-dashboard",
-      "title": "How to use AI in marketing without opening a single dashboard",
+      "key": "title:powering-green-transition-why-global-battery-race-runs",
+      "title": "Powering the green transition: Why the global battery race runs through Hong Kong",
       "sources": [
         "e27 Asia Startup and Tech Feed"
       ],
@@ -314,145 +35,22 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/"
+        "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/"
       ],
       "finding_count": 1,
-      "max_score": 14,
+      "max_score": 10,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 6.2 - 43 km ese of port-olry, vanuatu:6.2",
-      "title": "M 6.2 - 43 km ESE of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 6.4 - southeast of easter island:6.4",
-      "title": "M 6.4 - southeast of Easter Island",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.6 - south sandwich islands region:5.6",
-      "title": "M 5.6 - South Sandwich Islands region",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.7 - 82 km ne of kiunga, papua new guinea:5.7",
-      "title": "M 5.7 - 82 km NE of Kiunga, Papua New Guinea",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:e27-contributor-programme-using-submitting-growing-your-readership",
-      "title": "The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-e27-contributor-programme-using-ai-submitting-and-growing-your-readership-part-2-20261029/"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 15.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "cve:CVE-2026-98432",
-      "title": "CVE-2026-98432 | Ubuntu",
+      "key": "title:findy-tech-blog",
+      "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -460,41 +58,18 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://ubuntu.com/security/CVE-2026-98432"
+        "https://tech.findy.co.jp/entry/2026/10/30/070000"
       ],
       "finding_count": 1,
-      "max_score": 12,
+      "max_score": 5,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:rule-why-asean-banks-still-need-humans-takes",
-      "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }
