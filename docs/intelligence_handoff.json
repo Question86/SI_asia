@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-30T03:50:43Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-10-30T04:14:26Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,40 @@
   ],
   "top_dynamics": [
     {
+      "title": "If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?",
+      "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-30T03:54:03+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Bitcoin fell 4.87 per cent to US$77,037.20 in 24 hours and underperformed a broadly weaker crypto sector. A confirmed security incident at Binance on October 29 triggered the drop. That shock arrived against a 65 per cent correlation with the S&P 500. Macro risk aversion had already set a defensive tone. The result wa…"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -41,7 +70,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -67,7 +96,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:31:11+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -90,11 +119,35 @@
       "summary": ""
     },
     {
+      "title": "If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?",
+      "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-30T03:59:16+00:00",
+      "age_days": 0.01,
+      "topics": [],
+      "dynamics_score": 24.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work",
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:30:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "infra"
@@ -122,7 +175,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261030-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-30T01:20:57+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -147,7 +200,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 133.08,
+      "age_days": 133.09,
       "topics": [
         "general"
       ],
@@ -174,7 +227,7 @@
       "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:21:19+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -198,7 +251,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:05:21+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -222,7 +275,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:24:25+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -242,75 +295,26 @@
       "summary": ""
     },
     {
-      "title": "M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-30T03:18:33.040+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-30 03:04:17 UTC 2026-10-30 03:04:17 UTC at epicenter Location 5.814°S 148.315°E Depth 116.30 km (72.26 mi)"
-    },
-    {
-      "title": "Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill",
-      "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T01:05:21+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
       "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:35:52+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.0,
+      "dynamics_score": 17.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     }
@@ -324,8 +328,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 7
+      "strong": 7,
+      "watch": 5
     }
   }
 }
