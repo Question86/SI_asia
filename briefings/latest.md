@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T12:07:14+00:00_
+_Generiert: 2026-10-30T12:28:40+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+40 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -264,14 +264,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Cisco-Firewalls und GitLab-Lücke werden angegriffen** — Score 7, observation — [Quelle](https://www.heise.de/news/Cisco-Firewalls-und-GitLab-Luecke-werden-angegriffen-11505669.html)
+- **TeamViewer stopft Codeschmuggel-Lücke** — Score 7, observation — [Quelle](https://www.heise.de/news/TeamViewer-stopft-Codeschmuggel-Luecke-11506072.html)
   - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-30T07:51:00.000+00:00`, fetched `2026-10-30T08:00:35+00:00`
+  - Zeit: published `2026-10-30T12:20:00.000+00:00`, fetched `2026-10-30T12:28:12+00:00`
   - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Bösartige Akteure missbrauchen Schwachstellen in Ciscos SSL-VPN und GitLab. Updates stehen bereit, Admins sollten sie installieren.
+  - Kurz: Neue Versionen von TeamViewer stopfen als hochriskant eingestufte Sicherheitslücken. Angreifer könnten etwa Code einschmuggeln.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年10月30日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261030-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
