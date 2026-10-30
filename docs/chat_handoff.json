@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-30T09:25:16+00:00",
+  "generated_at": "2026-10-30T09:33:44+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 30,
-    "displayed_findings": 30,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
     "medium": 6,
-    "observe": 24
+    "observe": 25
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "WordPress-Update stopft Schadcode-Lücke, Exploit-Versuche beobachtet",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-30T09:27:00.000+00:00",
+      "relevance_score": 12,
+      "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html",
+      "summary": "WordPress-Updates stopfen mehrere Sicherheitslücken. Über eine lässt sich Schadcode einschleusen. Angriffsversuche laufen.",
+      "section": "observe"
+    },
+    {
       "title": "Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 11,
       "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
       "summary": "Most small businesses in Southeast Asia already run on WhatsApp. Orders arrive there, suppliers send invoices there, staff send photos of receipts there. So when owners hear “AI”, the first idea is usually a chatbot that answers customers faster. After buildi…",
-      "section": "observe"
-    },
-    {
-      "title": "Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-29T14:57:36+00:00",
-      "relevance_score": 11,
-      "url": "https://note.com/hgffdgn654/n/n92467b83a1c1",
-      "summary": "久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして...",
       "section": "observe"
     }
   ],

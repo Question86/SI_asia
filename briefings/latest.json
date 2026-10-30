@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T09:25:16+00:00",
-  "run_id": "2026-10-30T09:25:16+00:00",
+  "generated_at": "2026-10-30T09:33:44+00:00",
+  "run_id": "2026-10-30T09:33:44+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 30
+      "configured_public_sources_only": 31
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 30,
-    "displayed_findings": 30,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
     "medium": 6,
-    "observe": 24,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -231,6 +231,27 @@
           "soy"
         ],
         "id": "f0d093a8366111ae918a"
+      },
+      {
+        "title": "WordPress-Update stopft Schadcode-Lücke, Exploit-Versuche beobachtet",
+        "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-10-30T09:27:00.000+00:00",
+        "fetched_at": "2026-10-30T09:33:16+00:00",
+        "summary": "WordPress-Updates stopfen mehrere Sicherheitslücken. Über eine lässt sich Schadcode einschleusen. Angriffsversuche laufen.",
+        "matched_keywords": [
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+7.5); Webentwicklung (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e1e9777b5562abdf4533"
       },
       {
         "title": "Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ",
@@ -985,6 +1006,27 @@
       "id": "f0d093a8366111ae918a"
     },
     {
+      "title": "WordPress-Update stopft Schadcode-Lücke, Exploit-Versuche beobachtet",
+      "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-10-30T09:27:00.000+00:00",
+      "fetched_at": "2026-10-30T09:33:16+00:00",
+      "summary": "WordPress-Updates stopfen mehrere Sicherheitslücken. Über eine lässt sich Schadcode einschleusen. Angriffsversuche laufen.",
+      "matched_keywords": [
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); Webentwicklung (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e1e9777b5562abdf4533"
+    },
+    {
       "title": "Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ",
       "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1535,25 +1577,25 @@
   ],
   "new_findings": [
     {
-      "title": "Roblox hands Fave founder Joel Neoh the keys to SEA. His first job isn’t growth, it’s trust",
-      "url": "https://e27.co/roblox-hands-fave-founder-joel-neoh-the-keys-to-sea-his-first-job-isnt-growth-its-trust-20261030/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "WordPress-Update stopft Schadcode-Lücke, Exploit-Versuche beobachtet",
+      "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-10-30T09:15:16+00:00",
-      "fetched_at": "2026-10-30T09:24:46+00:00",
-      "summary": "Joel Neoh has spent two decades selling things to adults: group-buying deals at Groupon, cashback at Fave, DNA kits and supplements at Prenetics. His new job asks him to build a business on a platform where a large slice of the audience still needs a parent’s permission to buy anything. Roblox has appointed the Malaysian […] The post Roblox hands Fave founder Joel Neoh the keys to SEA. His first job isn’t growth, it…",
+      "published_at": "2026-10-30T09:27:00.000+00:00",
+      "fetched_at": "2026-10-30T09:33:16+00:00",
+      "summary": "WordPress-Updates stopfen mehrere Sicherheitslücken. Über eine lässt sich Schadcode einschleusen. Angriffsversuche laufen.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "founder"
+        "Security",
+        "Webentwicklung"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); Webentwicklung (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "82807e80381d7f934ccb"
+      "id": "e1e9777b5562abdf4533"
     }
   ],
   "source_errors": [],
