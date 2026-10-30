@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T13:58:45+00:00",
-  "run_id": "2026-10-30T13:58:45+00:00",
+  "generated_at": "2026-10-30T14:12:31+00:00",
+  "run_id": "2026-10-30T14:12:31+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 42
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 1,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
     "medium": 11,
-    "observe": 30,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -964,6 +964,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1f84b6b86546be2b5429"
+      },
+      {
+        "title": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
+        "url": "https://www.watch.impress.co.jp/docs/news/2152548.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-30T04:36:41+00:00",
+        "fetched_at": "2026-10-30T14:12:00+00:00",
+        "summary": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "daf2314adac82374af66"
       },
       {
         "title": "読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog",
@@ -1987,6 +2008,27 @@
       "id": "1f84b6b86546be2b5429"
     },
     {
+      "title": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152548.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T04:36:41+00:00",
+      "fetched_at": "2026-10-30T14:12:00+00:00",
+      "summary": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "daf2314adac82374af66"
+    },
+    {
       "title": "読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog",
       "url": "https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2071,7 +2113,29 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2152548.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T04:36:41+00:00",
+      "fetched_at": "2026-10-30T14:12:00+00:00",
+      "summary": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "daf2314adac82374af66"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
