@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-30T18:13:42Z_
+_Generated: 2026-10-30T18:22:54Z_
 
 ## Lageurteil
 
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome: Mehrere S
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T09:15:00+09:00` / age_days `0.75`
+- Published: `2026-10-30T09:15:00+09:00` / age_days `0.76`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome: Mehrere S
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T10:28:06+00:00` / age_days `0.32`
+- Published: `2026-10-30T10:28:06+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -122,10 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome: Mehrere S
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `133.44`
+- Published: `2026-06-19T07:39:37+00:00` / age_days `133.45`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 133.4d old signal, stale single-source cap after 30d: no current exploitation phrase
+- Warum: momentum delta +3, baseline z_hint 0.04, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 133.4d old signal, stale single-source cap after 30d: no current exploitation phrase
 - Quelle: https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html
 
 END OF DOCUMENT
