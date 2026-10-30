@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T02:59:10+00:00",
+  "generated_at": "2026-10-30T03:25:42+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -11462,6 +11462,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_99a062e89f453f2269e7",
+      "title": "M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-30T03:25:21+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -11662,7 +11679,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
       "status": "active"
     },
     {
@@ -14383,7 +14400,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-30T01:31:11+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
       "status": "active"
     },
     {
@@ -18276,7 +18293,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-30T02:21:19+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
       "status": "active"
     },
     {
@@ -21337,7 +21354,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-30T02:21:19+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
       "status": "active"
     },
     {
@@ -21660,7 +21677,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-30T00:24:25+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
       "status": "active"
     },
     {
@@ -22154,7 +22171,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-30T01:05:21+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
       "status": "active"
     },
     {
@@ -26899,7 +26916,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-30T01:05:21+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
       "status": "active"
     },
     {
@@ -28072,7 +28089,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-30T01:20:57+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
       "status": "active"
     },
     {
@@ -29453,6 +29470,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5040f6a6ed9fb638364c",
+      "title": "The fan vote is broken: Here is what it takes to make people trust it again",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-30T03:25:21+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_00999a707b633ec75a8c",
       "title": "Startups should learn to leave bad markets faster",
       "event_classes": [
@@ -29740,6 +29774,23 @@
       "first_seen_at": "2026-09-21T05:20:35+00:00",
       "last_seen_at": "2026-09-21T06:01:40+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_13fe741517a20b046aab",
+      "title": "読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_141b2e00fe00425e86d3",
@@ -31744,7 +31795,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-30T00:54:33+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
       "status": "active"
     },
     {
@@ -31982,7 +32033,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:36:38+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
+      "last_seen_at": "2026-10-30T03:25:21+00:00",
       "status": "active"
     },
     {
@@ -34398,23 +34449,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_13fe741517a20b046aab",
-      "title": "読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-10-30T02:58:50+00:00",
-      "last_seen_at": "2026-10-30T02:58:50+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
