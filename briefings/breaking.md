@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-10-30T01:31:11+00:00_
+_Generiert: 2026-10-30T01:44:57+00:00_
 
 ## Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work
 
-- Ranking Score: `37.5`
-- Raw Network Score: `27.1`
+- Ranking Score: `35.0`
+- Raw Network Score: `24.1`
 - Max Monitor Score: `22`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -13,7 +13,7 @@ _Generiert: 2026-10-30T01:31:11+00:00_
 - Quellen: e27 Asia Startup and Tech Feed
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
