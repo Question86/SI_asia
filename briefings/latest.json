@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T18:19:37+00:00",
-  "run_id": "2026-10-30T18:19:37+00:00",
+  "generated_at": "2026-10-30T18:26:48+00:00",
+  "run_id": "2026-10-30T18:26:48+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 0,
@@ -2827,30 +2827,7 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-30T09:30:00+00:00",
-      "fetched_at": "2026-10-30T18:19:03+00:00",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "Webentwicklung"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dbf9158bcc3798a91697"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
