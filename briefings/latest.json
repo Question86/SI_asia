@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T14:12:31+00:00",
-  "run_id": "2026-10-30T14:12:31+00:00",
+  "generated_at": "2026-10-30T14:33:07+00:00",
+  "run_id": "2026-10-30T14:33:07+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 42,
     "displayed_findings": 42,
     "high": 0,
@@ -2113,29 +2113,7 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2152548.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-30T04:36:41+00:00",
-      "fetched_at": "2026-10-30T14:12:00+00:00",
-      "summary": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "daf2314adac82374af66"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
