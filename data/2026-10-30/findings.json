@@ -142,6 +142,29 @@
     "id": "4eaac4f6d9c97bf156fd"
   },
   {
+    "title": "[UPDATE] [hoch] Langflow: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4226",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-30T10:28:06+00:00",
+    "fetched_at": "2026-10-30T10:48:39+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7ed5c237fa8defbbec2b"
+  },
+  {
     "title": "[UPDATE] [kritisch] Drupal Erweiterungen: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
     "source": "BSI CERT-Bund Security Advisories",
@@ -392,6 +415,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8615836a109938793b16"
+  },
+  {
+    "title": "M 5.1 - Balleny Islands region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7j",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-30T10:30:55.040+00:00",
+    "fetched_at": "2026-10-30T10:48:39+00:00",
+    "summary": "Time 2026-10-30 10:12:28 UTC 2026-10-30 10:12:28 UTC at epicenter Location 62.446°S 155.262°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8f3e010dad6be7ebb8be"
   },
   {
     "title": "M 4.6 - 64 km SSW of Shikotan, Russia",
