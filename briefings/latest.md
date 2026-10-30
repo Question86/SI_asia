@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T02:58:47+00:00_
+_Generiert: 2026-10-30T03:25:17+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+13 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -133,6 +133,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has consolidated significantly. Several platforms have been through restructuring. Dana Syariah Indonesia, whose OJK license was […] The post The sharia trust premium…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-30T03:18:33.040+00:00`, fetched `2026-10-30T03:24:49+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-30 03:04:17 UTC 2026-10-30 03:04:17 UTC at epicenter Location 5.814°S 148.315°E Depth 116.30 km (72.26 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **古川大臣記者会見（令和8年10月30日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261030-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-30T01:11:38+00:00`, fetched `2026-10-30T01:20:26+00:00`
