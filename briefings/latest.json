@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T09:33:44+00:00",
-  "run_id": "2026-10-30T09:33:44+00:00",
+  "generated_at": "2026-10-30T09:42:39+00:00",
+  "run_id": "2026-10-30T09:42:39+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 31,
     "displayed_findings": 31,
     "high": 0,
@@ -1575,29 +1575,7 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "WordPress-Update stopft Schadcode-Lücke, Exploit-Versuche beobachtet",
-      "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-30T09:27:00.000+00:00",
-      "fetched_at": "2026-10-30T09:33:16+00:00",
-      "summary": "WordPress-Updates stopfen mehrere Sicherheitslücken. Über eine lässt sich Schadcode einschleusen. Angriffsversuche laufen.",
-      "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); Webentwicklung (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e1e9777b5562abdf4533"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
