@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T03:43:38+00:00_
+_Generiert: 2026-10-30T03:59:13+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+16 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -60,14 +60,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **HASAN.VC, Moria Ventures bet on Gulf capital to rescue Indonesia’s halal startups** — Score 10, observation — [Quelle](https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/)
+- **If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?** — Score 10, observation — [Quelle](https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-30T02:00:24+00:00`, fetched `2026-10-30T02:20:42+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Indonesia has never lacked halal ambition. What it lacks is money willing to back that ambition. Two weeks ago, at the 13th Indonesia Sharia Economic Festival (ISEF) in Jakarta, a coalition of regulators, investors and universities launched the Indonesia Halal Innovation and Venture Ecosystem (I-HIVE). The aim is to fix the second problem. I-HIVE brings […] The post HASAN.VC, Moria Ventures bet on Gulf capital to re…
+  - Zeit: published `2026-10-30T03:54:03+00:00`, fetched `2026-10-30T03:58:42+00:00`
+  - Treffer: APAC Trend Radar, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Bitcoin fell 4.87 per cent to US$77,037.20 in 24 hours and underperformed a broadly weaker crypto sector. A confirmed security incident at Binance on October 29 triggered the drop. That shock arrived against a 65 per cent correlation with the S&P 500. Macro risk aversion had already set a defensive tone. The result was a […] The post If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20? ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

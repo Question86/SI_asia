@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-30T03:43:38+00:00_
+_Generated: 2026-10-30T03:59:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-10-30T03:43:38+00:00_
 - url: https://note.com/hgffdgn654/n/n92467b83a1c1
 - summary: 久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして...
 
-### 6. HASAN.VC, Moria Ventures bet on Gulf capital to rescue Indonesia’s halal startups
+### 6. If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
-- published: `2026-10-30T02:00:24+00:00`
-- url: https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/
-- summary: Indonesia has never lacked halal ambition. What it lacks is money willing to back that ambition. Two weeks ago, at the 13th Indonesia Sharia Economic Festival (ISEF) in Jakarta, a coalition of regulators, investors and universities launched the Indonesia Hala…
+- published: `2026-10-30T03:54:03+00:00`
+- url: https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/
+- summary: Bitcoin fell 4.87 per cent to US$77,037.20 in 24 hours and underperformed a broadly weaker crypto sector. A confirmed security incident at Binance on October 29 triggered the drop. That shock arrived against a 65 per cent correlation with the S&P 500. Macro r…
 
 END OF DOCUMENT
