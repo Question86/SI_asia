@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-30T07:25:00Z",
+  "generated_at": "2026-10-30T07:36:37Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -20,11 +20,35 @@
   },
   "top_dynamics": [
     {
+      "title": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-30T07:18:38+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ",
       "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T20:46:25+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -48,7 +72,7 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-30T07:18:00+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "ai"
       ],
@@ -105,7 +129,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -183,7 +207,7 @@
       "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:59:16+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -231,36 +255,11 @@
       "summary": ""
     },
     {
-      "title": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-30T07:18:38+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.6 - 51 km ENE of Noda, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:15:17.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -313,7 +312,7 @@
       "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:35:52+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -337,7 +336,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261030-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-30T01:20:57+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -389,7 +388,7 @@
       "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:21:19+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -413,7 +412,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:05:21+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -437,7 +436,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:24:25+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -461,7 +460,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:27:03.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -486,7 +485,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T03:18:33.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -511,7 +510,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:28:13+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -559,7 +558,7 @@
       "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:05:21+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -583,7 +582,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:00:30+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -607,7 +606,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 45.83,
+      "age_days": 45.84,
       "topics": [
         "general"
       ],
@@ -632,7 +631,7 @@
       "url": "https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:21:19+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -658,7 +657,7 @@
       "url": "https://levtech.jp/media/detail_959/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T04:46:45+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -682,7 +681,7 @@
       "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T00:54:33+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -706,7 +705,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261030-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-30T01:11:38+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -757,7 +756,7 @@
       "url": "https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T00:38:15+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -781,7 +780,7 @@
       "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T00:52:08+00:00",
-      "age_days": 1.27,
+      "age_days": 1.28,
       "topics": [
         "general"
       ],
@@ -805,7 +804,7 @@
       "url": "https://note.com/hgffdgn654/n/n92467b83a1c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 59.53,
+      "age_days": 59.54,
       "topics": [
         "ai"
       ],
@@ -833,7 +832,7 @@
       "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:30:52+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -937,23 +936,23 @@
       "url": "https://tech.findy.co.jp/entry/2026/10/30/070000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T01:36:38+00:00",
-      "age_days": 46.24,
+      "age_days": 46.25,
       "topics": [
         "general"
       ],
-      "dynamics_score": 6.08,
+      "dynamics_score": 6.03,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.07,
+      "baseline_z_hint": 0.03,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.07",
+        "baseline z_hint 0.03",
         "aging penalty -8.0 for 46.2d old signal"
       ],
       "summary": ""
@@ -988,7 +987,7 @@
       "url": "https://e27.co/the-fan-vote-is-broken-here-is-what-it-takes-to-make-people-trust-it-again-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:00:56+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -1037,5 +1036,5 @@
       "summary": "GoTo has now reported a net profit for three quarters in a row. Read past the headline, though, and the numbers show a company run by its payments arm, while its ride-hailing business absorbs the cost of a government-imposed fare squeeze. GoTo reported a third-quarter net profit of Rp441 billion (about US$24.6 million…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.5."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5."
 }
