@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T21:46:18+00:00_
+_Generiert: 2026-10-30T22:00:45+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+60 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin fell 4.87 per cent to US$77,037.20 in 24 hours and underperformed a broadly weaker crypto sector. A confirmed security incident at Binance on October 29 triggered the drop. That shock arrived against a 65 per cent correlation with the S&P 500. Macro risk aversion had already set a defensive tone. The result was a […] The post If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20? ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Fair use benefits everyone** — Score 10, observation — [Quelle](https://openai.com/index/fair-use-benefits-everyone)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-30T00:00:00+00:00`, fetched `2026-10-30T22:00:09+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans Google Chrome (28 octobre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1398/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-10-28T00:00:00+00:00`, fetched `2026-10-30T16:16:13+00:00`
@@ -231,15 +240,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-30T05:27:03.040+00:00`, fetched `2026-10-30T05:27:39+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-30 05:10:19 UTC 2026-10-30 05:10:19 UTC at epicenter Location 18.177°S 177.047°W Depth 371.79 km (231.02 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
