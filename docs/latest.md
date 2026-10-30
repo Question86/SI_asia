@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T23:20:56+00:00_
+_Generiert: 2026-10-30T23:28:19+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+65 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
