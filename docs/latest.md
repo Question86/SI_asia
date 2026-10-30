@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T01:20:54+00:00_
+_Generiert: 2026-10-30T01:31:08+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+8 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work** — Score 22, risk — [Quelle](https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-30T01:30:00+00:00`, fetched `2026-10-30T01:30:38+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:energy_oil_gas_power_uranium
+  - Watchgraph: energy_oil_gas_power_uranium
+  - Markt-/Kontextkorb: XOM, CVX, SHEL, TTE, BP, CCJ, ENB, SU, EQNR, URA
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph high-signal blackout (+12.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)
+  - Kurz: Singapore’s data centres keep roughly 160 MWh of battery capacity on permanent standby, charged and waiting for a blackout that almost never comes. For an island that imports nearly all its fuel and is scrambling for clean power, that is a lot of expensive hardware doing nothing. Amplicity, a Singapore-headquartered energy technology startup, wants to […] The post Amplicity raises US$1M to put Singapore’s sleeping d…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU95856220/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-30T09:15:00+09:00`, fetched `2026-10-30T00:23:39+00:00`
