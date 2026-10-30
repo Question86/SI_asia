@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-30T20:31:51+00:00_
+_Generiert: 2026-10-30T20:47:50+00:00_
 
 ## Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work
 
