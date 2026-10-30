@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-30T10:49:11+00:00_
+_Generated: 2026-10-30T10:57:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `37`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-30T10:49:11+00:00_
 - url: https://github.com/milind-soni/OpenMausBot
 - summary: Open-source Grok Bot alternative with a virtual machine that bots can use https://www.openmausbot.com/ OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com · Download · Open source Grok Bot alternative, co…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）
-- source: JVN Japan Vulnerability Notes
+### 3. [UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-10-30T09:15:00+09:00`
-- url: https://jvn.jp/vu/JVNVU95856220/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+- published: `2026-10-30T10:49:33+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4204
+- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Spoofing-Angriffe durchzuführen sowie Daten zu manipulieren oder offenzulege…
 
-### 4. North Korea’s hiring scam just cost Binance US$6.3B. SEA’s engineers are on the shortlist
-- source: e27 Asia Startup and Tech Feed
+### 4. [UPDATE] [UNGEPATCHT] [hoch] Keycloak: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-10-30T09:04:26+00:00`
-- url: https://e27.co/north-koreas-hiring-scam-just-cost-binance-us6-3b-seas-engineers-are-on-the-shortlist-20261030/
-- summary: For years, Southeast Asia’s crypto regulators have asked exchanges the same set of questions. Where is your licence? Where is your local entity? Where are your cold wallets, and whose name is on them? On October 29, North Korea answered with a question of its…
+- published: `2026-10-30T10:49:33+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4191
+- summary: Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.
 
 ### 5. The sovereign threshold: Why airtight AI decisions are paralysing executive teams
 - source: e27 Asia Startup and Tech Feed

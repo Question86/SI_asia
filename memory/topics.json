@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-30T10:49:11+00:00",
+  "generated_at": "2026-10-30T10:57:10+00:00",
   "topics": {
     "ai": [
       {
@@ -158,11 +158,32 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-30T10:49:33+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4204"
+      },
+      {
+        "title": "[UPDATE] [UNGEPATCHT] [hoch] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-30T10:49:33+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4191"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-30T09:15:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU95856220/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-30T10:49:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4210"
       },
       {
         "title": "[UPDATE] [hoch] Langflow: Mehrere Schwachstellen",
@@ -205,13 +226,6 @@
         "published_at": "2026-10-30T07:43:00.000+00:00",
         "relevance_score": 8,
         "url": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html"
-      },
-      {
-        "title": "Cisco-Firewalls und GitLab-Lücke werden angegriffen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-30T07:51:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Cisco-Firewalls-und-GitLab-Luecke-werden-angegriffen-11505669.html"
       }
     ],
     "general": [
@@ -221,6 +235,13 @@
         "published_at": "2026-10-30T09:04:26+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/north-koreas-hiring-scam-just-cost-binance-us6-3b-seas-engineers-are-on-the-shortlist-20261030/"
+      },
+      {
+        "title": "M 4.5 - 104 km ENE of Barcelona, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-30T10:54:02.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7k"
       },
       {
         "title": "M 4.6 - 51 km ENE of Noda, Japan",
@@ -277,13 +298,6 @@
         "published_at": "2026-10-30T06:32:44+00:00",
         "relevance_score": 5,
         "url": "https://internet.watch.impress.co.jp/docs/news/2152666.html"
-      },
-      {
-        "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-30T04:56:14+00:00",
-        "relevance_score": 5,
-        "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404"
       }
     ]
   }

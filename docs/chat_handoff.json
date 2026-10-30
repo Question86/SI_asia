@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-30T10:49:11+00:00",
+  "generated_at": "2026-10-30T10:57:10+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 4,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
-    "medium": 7,
+    "medium": 11,
     "observe": 26
   },
   "source_errors_count": 0,
@@ -35,23 +35,23 @@
       "section": "medium"
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-30T09:15:00+09:00",
+      "published_at": "2026-10-30T10:49:33+00:00",
       "relevance_score": 16,
-      "url": "https://jvn.jp/vu/JVNVU95856220/",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4204",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Spoofing-Angriffe durchzuführen sowie Daten zu manipulieren oder offenzulege…",
       "section": "medium"
     },
     {
-      "title": "North Korea’s hiring scam just cost Binance US$6.3B. SEA’s engineers are on the shortlist",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[UPDATE] [UNGEPATCHT] [hoch] Keycloak: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-30T09:04:26+00:00",
+      "published_at": "2026-10-30T10:49:33+00:00",
       "relevance_score": 16,
-      "url": "https://e27.co/north-koreas-hiring-scam-just-cost-binance-us6-3b-seas-engineers-are-on-the-shortlist-20261030/",
-      "summary": "For years, Southeast Asia’s crypto regulators have asked exchanges the same set of questions. Where is your licence? Where is your local entity? Where are your cold wallets, and whose name is on them? On October 29, North Korea answered with a question of its…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4191",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
       "section": "medium"
     },
     {
