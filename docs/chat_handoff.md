@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-30T05:00:58+00:00_
+_Generated: 2026-10-30T05:18:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -22,28 +22,35 @@ _Generated: 2026-10-30T05:00:58+00:00_
 - url: https://jvn.jp/vu/JVNVU95856220/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. The sovereign threshold: Why airtight AI decisions are paralysing executive teams
+### 3. M 4.6 - 51 km ENE of Noda, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-10-30T05:15:17.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f
+- summary: Time 2026-10-30 04:58:31 UTC 2026-10-30 04:58:31 UTC at epicenter Location 40.311°N 142.362°E Depth 56.60 km (35.17 mi)
+
+### 4. The sovereign threshold: Why airtight AI decisions are paralysing executive teams
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-10-30T02:00:52+00:00`
 - url: https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/
 - summary: Picture a leadership meeting that goes like this. The air conditioner in the corner of the 22nd-floor boardroom had a faint, high-pitched metallic whine. Outside the glass, the heat off Robinson Road shimmered against the asphalt, but inside, the air was cold…
 
-### 4. Your SME doesn’t need a chatbot. It needs the work after the chat done
+### 5. Your SME doesn’t need a chatbot. It needs the work after the chat done
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-30T03:30:52+00:00`
 - url: https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/
 - summary: Most small businesses in Southeast Asia already run on WhatsApp. Orders arrive there, suppliers send invoices there, staff send photos of receipts there. So when owners hear “AI”, the first idea is usually a chatbot that answers customers faster. After buildi…
 
-### 5. Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰
+### 6. Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-29T14:57:36+00:00`
 - url: https://note.com/hgffdgn654/n/n92467b83a1c1
 - summary: 久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして...
 
-### 6. If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?
+### 7. If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-30T03:54:03+00:00`
