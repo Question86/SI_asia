@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T16:41:59+00:00_
+_Generiert: 2026-10-30T16:49:20+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+56 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Community safety report and new protections for teens** — Score 10, observation — [Quelle](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-30T09:00:00+00:00`, fetched `2026-10-30T16:48:45+00:00`
+  - Treffer: OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); safety (+2.5); recent (+1.0)
+  - Kurz: OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?** — Score 10, observation — [Quelle](https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-30T03:54:03+00:00`, fetched `2026-10-30T03:58:42+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-30 05:10:19 UTC 2026-10-30 05:10:19 UTC at epicenter Location 18.177°S 177.047°W Depth 371.79 km (231.02 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Claude-Code-Erweiterung im Cursor-Marktplatz mit Malware infiziert** — Score 8, risk — [Quelle](https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-30T13:08:00.000+00:00`, fetched `2026-10-30T13:33:18+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); recent (+1.0)
-  - Kurz: Im Marktplatz der Entwicklungsumgebung Cursor steckte in der offiziellen Claude-Code-Erweiterung eine SSH-Backdoor.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
