@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-30T08:59:27+00:00_
+_Generated: 2026-10-30T09:13:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `29`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-30T08:59:27+00:00_
 - url: https://jvn.jp/vu/JVNVU95856220/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. M 4.6 - 51 km ENE of Noda, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-30T05:15:17.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f
-- summary: Time 2026-10-30 04:58:31 UTC 2026-10-30 04:58:31 UTC at epicenter Location 40.311°N 142.362°E Depth 56.60 km (35.17 mi)
+### 4. North Korea’s hiring scam just cost Binance US$6.3B. SEA’s engineers are on the shortlist
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-10-30T09:04:26+00:00`
+- url: https://e27.co/north-koreas-hiring-scam-just-cost-binance-us6-3b-seas-engineers-are-on-the-shortlist-20261030/
+- summary: For years, Southeast Asia’s crypto regulators have asked exchanges the same set of questions. Where is your licence? Where is your local entity? Where are your cold wallets, and whose name is on them? On October 29, North Korea answered with a question of its…
 
 ### 5. The sovereign threshold: Why airtight AI decisions are paralysing executive teams
 - source: e27 Asia Startup and Tech Feed
