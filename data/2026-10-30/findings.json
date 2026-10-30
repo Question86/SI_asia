@@ -120,6 +120,29 @@
     "id": "4eaac4f6d9c97bf156fd"
   },
   {
+    "title": "[UPDATE] [kritisch] Drupal Erweiterungen: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-30T07:43:06+00:00",
+    "fetched_at": "2026-10-30T07:45:19+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um erweiterte Berechtigungen zu erlangen und Benutzerkonten zu übernehmen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen und nicht näher spezifizierte Auswirkungen zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d33e8dfeb4a73bf217ee"
+  },
+  {
     "title": "The sovereign threshold: Why airtight AI decisions are paralysing executive teams",
     "url": "https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -459,6 +482,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a51fbd4a1146b4ef0f68"
+  },
+  {
+    "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-30T04:56:14+00:00",
+    "fetched_at": "2026-10-30T07:45:19+00:00",
+    "summary": "暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1f84b6b86546be2b5429"
   },
   {
     "title": "読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog",
