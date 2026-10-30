@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T19:42:04+00:00",
-  "run_id": "2026-10-30T19:42:04+00:00",
+  "generated_at": "2026-10-30T19:49:44+00:00",
+  "run_id": "2026-10-30T19:49:44+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 59,
     "displayed_findings": 59,
     "high": 0,
@@ -2871,30 +2871,7 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "文章のAIっぽさを抑えるプロンプト",
-      "url": "https://imoz.jp/scraps/202610_humanizer.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-30T14:00:14+00:00",
-      "fetched_at": "2026-10-30T19:41:35+00:00",
-      "summary": "文章のAIっぽさを抑えるプロンプト 最近の大規模言語モデル（LLM）を使っていると、コーディング能力が高まる一方で、文章の流暢さは失われていると感じます。短い説明でも細かく見出しを付けたり、具体例の後に同じ結論を言い直したりして、個々の文は読めても説明の流れが途切れることがあります。 その一方で、指示に...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9bfa13ab4527bba09abc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
