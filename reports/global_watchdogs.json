@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:45:50+00:00",
+  "generated_at": "2026-10-30T08:01:16+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,21 +85,6 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.4 - southeast of Easter Island",
-        "summary": "M6.4 - southeast of Easter Island. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz",
-        "published_at": "2026-10-29T07:49:50+00:00",
-        "metrics": {
-          "mag": 6.4,
-          "alert": "green",
-          "sig": 630.0,
-          "tsunami": 0
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI&gt;=VII).",
         "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI&gt;=VII).",
         "source": "GDACS",
@@ -164,6 +149,16 @@
         "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574265",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574251",
         "published_at": "",
         "metrics": {}
       }
