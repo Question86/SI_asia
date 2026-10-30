@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T23:28:19+00:00",
-  "run_id": "2026-10-30T23:28:19+00:00",
+  "generated_at": "2026-10-30T23:36:01+00:00",
+  "run_id": "2026-10-30T23:36:01+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 65,
     "displayed_findings": 65,
     "high": 0,
@@ -3157,29 +3157,7 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止：朝日新聞",
-      "url": "https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-30T22:18:39+00:00",
-      "fetched_at": "2026-10-30T23:27:49+00:00",
-      "summary": "福島県喜多方市が特産のしょうゆのPRをかねて地元の小学生から募集したポスターコンクールで、入賞作品に「生成AI（人工知能）が使われた」などとの中傷がネットで相次ぎ、作品の公開が中止された。画用紙での…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bb5020fc39f9af2fa67b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
