@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-30T01:40:06Z",
+  "generated_at": "2026-10-30T01:51:24Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -122,7 +122,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 132.99,
+      "age_days": 133.0,
       "topics": [
         "general"
       ],
@@ -145,11 +145,11 @@
       "summary": ""
     },
     {
-      "title": "Powering the green transition: Why the global battery race runs through Hong Kong",
-      "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
+      "title": "The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation",
+      "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T00:24:25+00:00",
-      "age_days": 0.05,
+      "published_at": "2026-10-30T01:05:21+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -169,15 +169,39 @@
       "summary": ""
     },
     {
-      "title": "The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation",
-      "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
+      "title": "Powering the green transition: Why the global battery race runs through Hong Kong",
+      "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T01:05:21+00:00",
+      "published_at": "2026-10-30T00:24:25+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261030-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-30T01:20:57+00:00",
       "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.5,
+      "dynamics_score": 17.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -188,32 +212,32 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +2",
+        "high terms: 10"
       ],
       "summary": ""
     },
     {
-      "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261030-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-30T01:20:57+00:00",
-      "age_days": 0.01,
+      "title": "Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill",
+      "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-30T01:05:21+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.0,
+      "dynamics_score": 16.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "high terms: 10"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -222,7 +246,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:00:30+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -246,7 +270,7 @@
       "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T00:54:33+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -266,35 +290,11 @@
       "summary": ""
     },
     {
-      "title": "Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill",
-      "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T01:05:21+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261030-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-30T01:11:38+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
