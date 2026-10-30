@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T23:00:35+00:00",
-  "run_id": "2026-10-30T23:00:35+00:00",
+  "generated_at": "2026-10-30T23:20:56+00:00",
+  "run_id": "2026-10-30T23:20:56+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 2,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
     "medium": 15,
-    "observe": 47,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -543,6 +543,42 @@
         "id": "cf9b0b1c7904f689d082"
       },
       {
+        "title": "M 4.6 - 33 km NE of Mazo Cruz, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufp",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-30T23:14:13.040+00:00",
+        "fetched_at": "2026-10-30T23:20:24+00:00",
+        "summary": "Time 2026-10-30 22:46:57 UTC 2026-10-30 22:46:57 UTC at epicenter Location 16.544°S 69.484°W Depth 194.81 km (121.05 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "9d89c666f866003f598f"
+      },
+      {
         "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
         "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1007,6 +1043,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9df3493466f90aa6f568"
+      },
+      {
+        "title": "AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘",
+        "url": "https://gigazine.net/news/20261030-apple-chip-sellers-impact/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-30T11:01:02+00:00",
+        "fetched_at": "2026-10-30T23:20:24+00:00",
+        "summary": "以前はAppleに安く買いたたかれていたメモリ製品をめぐる状況が、AIの登場でガラッと変わってしまったとウォール・ストリート・ジャーナルが報じています。 The Beleaguered Chip Sellers Getting Their Revenge on Apple - WSJ https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9 Appleは「iPod」で東芝...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2133fe2df03e3f6e4bba"
       },
       {
         "title": "Roblox hands Fave founder Joel Neoh the keys to SEA. His first job isn’t growth, it’s trust",
@@ -2028,6 +2086,42 @@
       "id": "cf9b0b1c7904f689d082"
     },
     {
+      "title": "M 4.6 - 33 km NE of Mazo Cruz, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-30T23:14:13.040+00:00",
+      "fetched_at": "2026-10-30T23:20:24+00:00",
+      "summary": "Time 2026-10-30 22:46:57 UTC 2026-10-30 22:46:57 UTC at epicenter Location 16.544°S 69.484°W Depth 194.81 km (121.05 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9d89c666f866003f598f"
+    },
+    {
       "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
       "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2492,6 +2586,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9df3493466f90aa6f568"
+    },
+    {
+      "title": "AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘",
+      "url": "https://gigazine.net/news/20261030-apple-chip-sellers-impact/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T11:01:02+00:00",
+      "fetched_at": "2026-10-30T23:20:24+00:00",
+      "summary": "以前はAppleに安く買いたたかれていたメモリ製品をめぐる状況が、AIの登場でガラッと変わってしまったとウォール・ストリート・ジャーナルが報じています。 The Beleaguered Chip Sellers Getting Their Revenge on Apple - WSJ https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9 Appleは「iPod」で東芝...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2133fe2df03e3f6e4bba"
     },
     {
       "title": "Roblox hands Fave founder Joel Neoh the keys to SEA. His first job isn’t growth, it’s trust",
@@ -2999,7 +3115,66 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 4.6 - 33 km NE of Mazo Cruz, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-30T23:14:13.040+00:00",
+      "fetched_at": "2026-10-30T23:20:24+00:00",
+      "summary": "Time 2026-10-30 22:46:57 UTC 2026-10-30 22:46:57 UTC at epicenter Location 16.544°S 69.484°W Depth 194.81 km (121.05 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9d89c666f866003f598f"
+    },
+    {
+      "title": "AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘",
+      "url": "https://gigazine.net/news/20261030-apple-chip-sellers-impact/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T11:01:02+00:00",
+      "fetched_at": "2026-10-30T23:20:24+00:00",
+      "summary": "以前はAppleに安く買いたたかれていたメモリ製品をめぐる状況が、AIの登場でガラッと変わってしまったとウォール・ストリート・ジャーナルが報じています。 The Beleaguered Chip Sellers Getting Their Revenge on Apple - WSJ https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9 Appleは「iPod」で東芝...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2133fe2df03e3f6e4bba"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
