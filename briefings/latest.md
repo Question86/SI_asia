@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T03:59:13+00:00_
+_Generiert: 2026-10-30T04:46:42+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+17 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -169,14 +169,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに こんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。 私は2018年前後から、SRE*1の啓蒙に携わってきました。SREの実践では本番環境のオブザーバビリティは欠かせず、私もその重要性を強く主張しています。そういった背景もあり『SLO サービスレベル目標』や『オブザーバビリティ・エンジ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog** — Score 5, observation — [Quelle](https://tech.findy.co.jp/entry/2026/10/30/070000)
+- **メルセンヌ・ツイスタ。PythonやC++でも使われる、世界標準「擬似乱数」の設計思想【松本眞】 - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_959/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-29T22:25:22+00:00`, fetched `2026-10-30T00:23:39+00:00`
+  - Zeit: published `2026-10-30T00:24:37+00:00`, fetched `2026-10-30T04:46:14+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは。こんばんは。 ファインディでリードエンジニアをしている@shootaです。 これまでFindy Team+のフロントエンドリードとして、モノレポのリアーキテクチャやCIの高速化、AIレビューの仕組みづくりといった記事を書いてきました。 tech.findy.co.jp 今回はそこから少し離れ、別のプロダクトに一人で入ってデザ...
+  - Kurz: 数学者・算法学者 松本 眞（まつもと・まこと） 1965年東京都生まれ。東京大学理学部情報科学科卒業、同大学大学院理学系研究科修士課程情報科学専攻修了、同研究科博士課程数学専攻中退。京都大学数理解析研究所助手、慶應義塾大学理工学部助教授、九州大学助教授、広島大学教授、東京大学教授などを務めた。2023年に広...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
