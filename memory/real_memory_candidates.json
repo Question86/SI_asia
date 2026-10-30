@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-30T07:12:55Z",
+  "generated_at": "2026-10-30T07:25:00Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -22,6 +22,11 @@
     }
   ],
   "current_dynamic_memory_candidates": [
+    {
+      "title": "milind-soni/OpenMausBot",
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
     {
       "title": "If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?",
       "band": "extreme",
@@ -54,11 +59,6 @@
     },
     {
       "title": "Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 4.6 - 51 km ENE of Noda, Japan",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
