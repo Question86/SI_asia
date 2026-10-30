@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T16:58:09+00:00",
-  "run_id": "2026-10-30T16:58:09+00:00",
+  "generated_at": "2026-10-30T17:07:38+00:00",
+  "run_id": "2026-10-30T17:07:38+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 56
+      "configured_public_sources_only": 57
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 56,
-    "displayed_findings": 56,
+    "new_relevant_findings": 1,
+    "today_file_total": 57,
+    "displayed_findings": 57,
     "high": 0,
     "medium": 14,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -1215,6 +1215,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "35b852d05be5140478f7"
+      },
+      {
+        "title": "今後のセキュリティの考え方",
+        "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-30T11:11:33+00:00",
+        "fetched_at": "2026-10-30T17:07:07+00:00",
+        "summary": "どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "38895e33c1c800b3b8cd"
       },
       {
         "title": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
@@ -2573,6 +2594,27 @@
       "id": "35b852d05be5140478f7"
     },
     {
+      "title": "今後のセキュリティの考え方",
+      "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T11:11:33+00:00",
+      "fetched_at": "2026-10-30T17:07:07+00:00",
+      "summary": "どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "38895e33c1c800b3b8cd"
+    },
+    {
       "title": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
       "url": "https://internet.watch.impress.co.jp/docs/news/2152666.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2741,7 +2783,29 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "今後のセキュリティの考え方",
+      "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T11:11:33+00:00",
+      "fetched_at": "2026-10-30T17:07:07+00:00",
+      "summary": "どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "38895e33c1c800b3b8cd"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
