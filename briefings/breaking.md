@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-30T07:18:38+00:00_
+_Generiert: 2026-10-30T07:29:13+00:00_
 
 ## Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work
 
@@ -19,8 +19,8 @@ _Generiert: 2026-10-30T07:18:38+00:00_
 
 ## milind-soni/OpenMausBot
 
-- Ranking Score: `26.5`
-- Raw Network Score: `22.1`
+- Ranking Score: `24.0`
+- Raw Network Score: `19.1`
 - Max Monitor Score: `17`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -28,7 +28,7 @@ _Generiert: 2026-10-30T07:18:38+00:00_
 - Quellen: GitHub Trending RSS All Languages Daily
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://github.com/milind-soni/OpenMausBot
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 

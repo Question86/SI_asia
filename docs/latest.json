@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T07:18:33+00:00",
-  "run_id": "2026-10-30T07:18:33+00:00",
+  "generated_at": "2026-10-30T07:29:09+00:00",
+  "run_id": "2026-10-30T07:29:09+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 21,
     "displayed_findings": 21,
     "high": 0,
@@ -1125,32 +1125,7 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-10-30T07:18:00+00:00",
-      "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use https://www.openmausbot.com/ OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com · Download · Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alternative: an independent project inspired by Grok Bot , and the open-source alternative to Meta Muse , OpenAI d…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Open Source",
-        "OpenAI"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a916c4a660bb6f5ab1ff"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
