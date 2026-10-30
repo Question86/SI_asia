@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T01:05:16+00:00",
-  "run_id": "2026-10-30T01:05:16+00:00",
+  "generated_at": "2026-10-30T01:20:54+00:00",
+  "run_id": "2026-10-30T01:20:54+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 1,
-    "observe": 5,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -116,6 +116,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8c6b9f641cf019cd4498"
+      },
+      {
+        "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
+        "url": "https://www.digital.go.jp/speech/minister-261030-01",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-30T01:11:38+00:00",
+        "fetched_at": "2026-10-30T01:20:26+00:00",
+        "summary": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a51fbd4a1146b4ef0f68"
       },
       {
         "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
@@ -249,6 +269,26 @@
       "id": "8c6b9f641cf019cd4498"
     },
     {
+      "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261030-01",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-30T01:11:38+00:00",
+      "fetched_at": "2026-10-30T01:20:26+00:00",
+      "summary": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a51fbd4a1146b4ef0f68"
+    },
+    {
       "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
       "url": "https://tech.findy.co.jp/entry/2026/10/30/070000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -293,45 +333,24 @@
   ],
   "new_findings": [
     {
-      "title": "The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation",
-      "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261030-01",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-10-30T01:00:49+00:00",
-      "fetched_at": "2026-10-30T01:04:46+00:00",
-      "summary": "Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has consolidated significantly. Several platforms have been through restructuring. Dana Syariah Indonesia, whose OJK license was […] The post The sharia trust premium…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Open Source"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7b0a9ba83b97e31bccb0"
-    },
-    {
-      "title": "Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill",
-      "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-30T01:00:39+00:00",
-      "fetched_at": "2026-10-30T01:04:46+00:00",
-      "summary": "GoTo has now reported a net profit for three quarters in a row. Read past the headline, though, and the numbers show a company run by its payments arm, while its ride-hailing business absorbs the cost of a government-imposed fare squeeze. GoTo reported a third-quarter net profit of Rp441 billion (about US$24.6 million), compared with […] The post Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay cove…",
+      "published_at": "2026-10-30T01:11:38+00:00",
+      "fetched_at": "2026-10-30T01:20:26+00:00",
+      "summary": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8c6b9f641cf019cd4498"
+      "id": "a51fbd4a1146b4ef0f68"
     }
   ],
   "source_errors": [],

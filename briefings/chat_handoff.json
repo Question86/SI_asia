@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-30T01:05:16+00:00",
+  "generated_at": "2026-10-30T01:20:54+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 1,
-    "observe": 5
+    "observe": 6
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,13 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-10-29T22:25:22+00:00",
-      "relevance_score": 5,
-      "url": "https://tech.findy.co.jp/entry/2026/10/30/070000",
-      "summary": "こんにちは。こんばんは。 ファインディでリードエンジニアをしている@shootaです。 これまでFindy Team+のフロントエンドリードとして、モノレポのリアーキテクチャやCIの高速化、AIレビューの仕組みづくりといった記事を書いてきました。 tech.findy.co.jp 今回はそこから少し離れ、別のプロダクトに一人で入ってデザ...",
+      "published_at": "2026-10-30T01:11:38+00:00",
+      "relevance_score": 6,
+      "url": "https://www.digital.go.jp/speech/minister-261030-01",
+      "summary": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
       "section": "observe"
     }
   ],
@@ -70,139 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
-        "url": "https://jvn.jp/vu/JVNVU95856220/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-30T09:15:00+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation",
-        "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-30T01:00:49+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has consolidated significantly. Several platforms have been throug…"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
-        "url": "https://jvn.jp/vu/JVNVU95856220/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 132.97,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.9,
-        "raw_band": "strong",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10",
-          "aging penalty -8.0 for 133.0d old signal",
-          "stale single-source cap: max watch after 14d without fresh resonance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation",
-        "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-30T01:05:21+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 16.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Powering the green transition: Why the global battery race runs through Hong Kong",
-        "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-30T00:24:25+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 16.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

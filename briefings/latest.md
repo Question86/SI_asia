@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T01:05:16+00:00_
+_Generiert: 2026-10-30T01:20:54+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+7 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: GoTo has now reported a net profit for three quarters in a row. Read past the headline, though, and the numbers show a company run by its payments arm, while its ride-hailing business absorbs the cost of a government-imposed fare squeeze. GoTo reported a third-quarter net profit of Rp441 billion (about US$24.6 million), compared with […] The post Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay cove…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **古川大臣記者会見（令和8年10月30日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261030-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-30T01:11:38+00:00`, fetched `2026-10-30T01:20:26+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 古川大臣記者会見（令和8年10月30日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog** — Score 5, observation — [Quelle](https://tech.findy.co.jp/entry/2026/10/30/070000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-30T01:05:16+00:00_
+_Generated: 2026-10-30T01:20:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-10-30T01:05:16+00:00_
 - url: https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/
 - summary: GoTo has now reported a net profit for three quarters in a row. Read past the headline, though, and the numbers show a company run by its payments arm, while its ride-hailing business absorbs the cost of a government-imposed fare squeeze. GoTo reported a thir…
 
-### 5. デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-29T22:25:22+00:00`
-- url: https://tech.findy.co.jp/entry/2026/10/30/070000
-- summary: こんにちは。こんばんは。 ファインディでリードエンジニアをしている@shootaです。 これまでFindy Team+のフロントエンドリードとして、モノレポのリアーキテクチャやCIの高速化、AIレビューの仕組みづくりといった記事を書いてきました。 tech.findy.co.jp 今回はそこから少し離れ、別のプロダクトに一人で入ってデザ...
+### 5. 古川大臣記者会見（令和8年10月30日）動画を掲載しました
+- source: Japan Digital Agency News RSS
+- score: `6`
+- published: `2026-10-30T01:11:38+00:00`
+- url: https://www.digital.go.jp/speech/minister-261030-01
+- summary: 古川大臣記者会見（令和8年10月30日）動画を掲載しました
 
 END OF DOCUMENT
