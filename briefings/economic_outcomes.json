@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T08:01:51+00:00",
+  "generated_at": "2026-10-30T08:23:27+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -968,7 +968,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0a0a4e425e561847523e",
@@ -11353,6 +11353,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_7beab092c271aec94dbd",
+      "title": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_7c632cd7ef0080d1477b",
