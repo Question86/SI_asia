@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-30T07:51:44Z",
+  "generated_at": "2026-10-30T08:15:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 2,
-      "krass": 5,
-      "strong": 8,
+      "extreme": 3,
+      "krass": 6,
+      "strong": 9,
       "watch": 14,
-      "quiet": 11
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
-      "strong": 15,
+      "strong": 18,
       "watch": 14,
-      "quiet": 11
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T20:46:25+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -44,11 +44,36 @@
       "summary": ""
     },
     {
+      "title": "Ruby behebt drei kritische Lücken, vor denen CVE-Scanner nicht warnen",
+      "url": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-30T07:43:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch",
+        "security high-signal: kritisch"
+      ],
+      "summary": "Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an."
+    },
+    {
       "title": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-30T07:18:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -76,7 +101,7 @@
       "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:54:03+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -105,7 +130,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -130,8 +155,36 @@
       "title": "[UPDATE] [kritisch] Drupal Erweiterungen: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
       "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 62.75,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: kritisch",
+        "security high-signal: kritisch",
+        "aging penalty -8.0 for 62.8d old signal",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "[UPDATE] [kritisch] Drupal Erweiterungen: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
+      "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T07:43:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -157,7 +210,7 @@
       "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T03:40:04+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -183,7 +236,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -205,11 +258,36 @@
       "summary": "Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has consolidated significantly. Several platforms have been throug…"
     },
     {
+      "title": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-30T07:18:38+00:00",
+      "age_days": 0.04,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": ""
+    },
+    {
       "title": "If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?",
       "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:59:16+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -234,7 +312,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:31:11+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -257,11 +335,11 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [kritisch] Drupal Erweiterungen: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 62.74,
+      "title": "Ruby behebt drei kritische Lücken, vor denen CVE-Scanner nicht warnen",
+      "url": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 133.02,
       "topics": [
         "security"
       ],
@@ -272,49 +350,51 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
+      "baseline_z_hint": 4.74,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "high terms: kritisch",
-        "security high-signal: kritisch",
-        "aging penalty -8.0 for 62.7d old signal",
+        "baseline z_hint 4.74",
+        "high terms: kritisch, rce",
+        "security high-signal: kritisch, rce",
+        "aging penalty -8.0 for 133.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
     },
     {
-      "title": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-30T07:18:38+00:00",
+      "title": "Cisco-Firewalls und GitLab-Lücke werden angegriffen",
+      "url": "https://www.heise.de/news/Cisco-Firewalls-und-GitLab-Luecke-werden-angegriffen-11505669.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-30T07:51:00.000+00:00",
       "age_days": 0.02,
       "topics": [
-        "general"
+        "security",
+        "infra"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2",
-        "krass gate: single-source non-official/non-identity signal capped"
+        "high terms: firewall, vpn",
+        "security high-signal: firewall, vpn"
       ],
-      "summary": ""
+      "summary": "Bösartige Akteure missbrauchen Schwachstellen in Ciscos SSL-VPN und GitLab. Updates stehen bereit, Admins sollten sie installieren."
     },
     {
       "title": "M 4.6 - 51 km ENE of Noda, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:15:17.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -339,7 +419,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:30:00+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "infra"
@@ -367,7 +447,7 @@
       "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:35:52+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -391,7 +471,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261030-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-30T01:20:57+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -416,7 +496,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 133.25,
+      "age_days": 133.26,
       "topics": [
         "general"
       ],
@@ -433,7 +513,7 @@
       "why": [
         "momentum delta +3",
         "high terms: 10",
-        "aging penalty -8.0 for 133.2d old signal",
+        "aging penalty -8.0 for 133.3d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
@@ -443,7 +523,7 @@
       "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:21:19+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -467,7 +547,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:05:21+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -491,7 +571,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:24:25+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -515,7 +595,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:27:03.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -540,7 +620,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T03:18:33.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -565,7 +645,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:28:13+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -589,7 +669,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T03:25:21+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -613,7 +693,7 @@
       "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:05:21+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -637,7 +717,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:00:30+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -661,7 +741,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 45.85,
+      "age_days": 45.86,
       "topics": [
         "general"
       ],
@@ -677,7 +757,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 45.8d old signal"
+        "aging penalty -8.0 for 45.9d old signal"
       ],
       "summary": ""
     },
@@ -686,7 +766,7 @@
       "url": "https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:21:19+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -712,7 +792,7 @@
       "url": "https://levtech.jp/media/detail_959/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T04:46:45+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -736,7 +816,7 @@
       "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T00:54:33+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -756,35 +836,11 @@
       "summary": ""
     },
     {
-      "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-30T07:45:50+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261030-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-30T01:11:38+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -808,7 +864,7 @@
       "url": "https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:00:52+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -835,7 +891,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T04:56:14+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -859,7 +915,7 @@
       "url": "https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T00:38:15+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -883,7 +939,7 @@
       "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T00:52:08+00:00",
-      "age_days": 1.29,
+      "age_days": 1.31,
       "topics": [
         "general"
       ],
@@ -907,7 +963,7 @@
       "url": "https://note.com/hgffdgn654/n/n92467b83a1c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 59.55,
+      "age_days": 59.56,
       "topics": [
         "ai"
       ],
@@ -925,8 +981,32 @@
         "momentum delta +3",
         "high terms: code",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 59.5d old signal",
+        "aging penalty -8.0 for 59.6d old signal",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-30T07:45:50+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -935,7 +1015,7 @@
       "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:30:52+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -955,84 +1035,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Most small businesses in Southeast Asia already run on WhatsApp. Orders arrive there, suppliers send invoices there, staff send photos of receipts there. So when owners hear “AI”, the first idea is usually a chatbot that answers customers faster. After building AI systems for food, professional services and property b…"
-    },
-    {
-      "title": "Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰",
-      "url": "https://note.com/hgffdgn654/n/n92467b83a1c1",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-29T14:57:36+00:00",
-      "age_days": 0.7,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして..."
-    },
-    {
-      "title": "The fan vote is broken: Here is what it takes to make people trust it again",
-      "url": "https://e27.co/the-fan-vote-is-broken-here-is-what-it-takes-to-make-people-trust-it-again-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T03:25:21+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "HASAN.VC, Moria Ventures bet on Gulf capital to rescue Indonesia’s halal startups",
-      "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T02:00:24+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Indonesia has never lacked halal ambition. What it lacks is money willing to back that ambition. Two weeks ago, at the 13th Indonesia Sharia Economic Festival (ISEF) in Jakarta, a coalition of regulators, investors and universities launched the Indonesia Halal Innovation and Venture Ecosystem (I-HIVE). The aim is to f…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.5."
