@@ -1,6 +1,6 @@
 # Economic Evidence Candidates
 
-Generated: `2026-10-30T16:00:53+00:00`
+Generated: `2026-10-30T16:17:32+00:00`
 
 > Candidates are not accepted evidence and carry no causal attribution.
 
@@ -9,6 +9,7 @@ Generated: `2026-10-30T16:00:53+00:00`
 | `evt_624a2e3ce3ccd3efe095` | 2,000,000,000,000 | USD | 0.88 | primary_hint | pending |
 | `evt_43856848b80264610146` | 127,000,000,000 | EUR | 0.88 | primary_hint | pending |
 | `evt_43856848b80264610146` | 18,050,000,000,000 | EUR | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 4,500,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 3,480,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 3,450,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 3,290,000,000,000 | EUR | 0.80 | primary_hint | pending |
@@ -45,4 +46,3 @@ Generated: `2026-10-30T16:00:53+00:00`
 | `evt_43856848b80264610146` | 528,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 520,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 477,000,000,000 | EUR | 0.80 | primary_hint | pending |
-| `evt_43856848b80264610146` | 440,000,000,000 | EUR | 0.80 | primary_hint | pending |
