@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T05:59:56+00:00_
+_Generiert: 2026-10-30T06:24:19+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+20 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -124,6 +124,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Picture a leadership meeting that goes like this. The air conditioner in the corner of the 22nd-floor boardroom had a faint, high-pitched metallic whine. Outside the glass, the heat off Robinson Road shimmered against the asphalt, but inside, the air was cold enough to raise goosebumps. David, the CEO, leaned forward and rested his forearms […] The post The sovereign threshold: Why airtight AI decisions are paralysi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ** — Score 12, risk — [Quelle](https://blog.calil.jp/2026/10/linux-kernel.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-30T03:40:04+00:00`, fetched `2026-10-30T06:23:50+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年10月15日、Linuxカーネル（Linux OSの中核部分）のネットワーク処理に重大な脆弱性（CVE-2026-98432）があることが公表され、あわせて修正版が公開されました。細工したパケットを送りつけることでサーバーを停止させたり、条件によっては認証なしでリモートからプログラムを実行されたりするおそれがある問題です...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Your SME doesn’t need a chatbot. It needs the work after the chat done** — Score 11, observation — [Quelle](https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-30T03:30:52+00:00`, fetched `2026-10-30T03:35:19+00:00`
@@ -186,15 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに こんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。 私は2018年前後から、SRE*1の啓蒙に携わってきました。SREの実践では本番環境のオブザーバビリティは欠かせず、私もその重要性を強く主張しています。そういった背景もあり『SLO サービスレベル目標』や『オブザーバビリティ・エンジ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **メルセンヌ・ツイスタ。PythonやC++でも使われる、世界標準「擬似乱数」の設計思想【松本眞】 - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_959/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-30T00:24:37+00:00`, fetched `2026-10-30T04:46:14+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 数学者・算法学者 松本 眞（まつもと・まこと） 1965年東京都生まれ。東京大学理学部情報科学科卒業、同大学大学院理学系研究科修士課程情報科学専攻修了、同研究科博士課程数学専攻中退。京都大学数理解析研究所助手、慶應義塾大学理工学部助教授、九州大学助教授、広島大学教授、東京大学教授などを務めた。2023年に広...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

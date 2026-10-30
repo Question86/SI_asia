@@ -132,6 +132,28 @@
     "id": "f0d093a8366111ae918a"
   },
   {
+    "title": "Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ",
+    "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-30T03:40:04+00:00",
+    "fetched_at": "2026-10-30T06:23:50+00:00",
+    "summary": "2026年10月15日、Linuxカーネル（Linux OSの中核部分）のネットワーク処理に重大な脆弱性（CVE-2026-98432）があることが公表され、あわせて修正版が公開されました。細工したパケットを送りつけることでサーバーを停止させたり、条件によっては認証なしでリモートからプログラムを実行されたりするおそれがある問題です...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3f1b7a9bfce99e8fbfb3"
+  },
+  {
     "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
     "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
     "source": "e27 Asia Startup and Tech Feed",
