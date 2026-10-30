@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-30T04:14:26Z_
+_Generated: 2026-10-30T04:26:48Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T03:54:03+00:00` / age_days `0.01`
+- Published: `2026-10-30T03:54:03+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T01:00:49+00:00` / age_days `0.13`
+- Published: `2026-10-30T01:00:49+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T01:31:11+00:00` / age_days `0.11`
+- Published: `2026-10-30T01:31:11+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.5`
-- Published: `2026-10-30T03:59:16+00:00` / age_days `0.01`
+- Published: `2026-10-30T03:59:16+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-10-30T01:30:00+00:00` / age_days `0.11`
+- Published: `2026-10-30T01:30:00+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: blackout, high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-10-30T01:20:57+00:00` / age_days `0.12`
+- Published: `2026-10-30T01:20:57+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `133.09`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `133.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 133.1d old signal, stale single-source cap: max watch after 14d without fresh resonance
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-30T02:21:19+00:00` / age_days `0.08`
+- Published: `2026-10-30T02:21:19+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-30T01:05:21+00:00` / age_days `0.13`
+- Published: `2026-10-30T01:05:21+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-30T00:24:25+00:00` / age_days `0.16`
+- Published: `2026-10-30T00:24:25+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “If Binance says user funds are safe, why
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.5`
-- Published: `2026-10-30T03:35:52+00:00` / age_days `0.03`
+- Published: `2026-10-30T03:35:52+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +2
