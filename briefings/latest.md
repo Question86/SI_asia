@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T17:07:38+00:00_
+_Generiert: 2026-10-30T17:18:05+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-10-30T17:07:38+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-118527 Ivanti Connect Secure** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-30`
+  - Kurz: Known exploited vulnerability. Added 2026-10-30. Due 2026-11-13. Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability
+- **CISA KEV: CVE-2026-111357 Ivanti Connect Secure** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-30`
+  - Kurz: Known exploited vulnerability. Added 2026-10-30. Due 2026-11-02. Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability
 - **CISA KEV: CVE-2026-97229 GitLab Community Edition and Enterprise Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-29`
@@ -21,14 +29,6 @@ _Generiert: 2026-10-30T17:07:38+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-28`
   - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-11-11. Broadcom VMWare ESX Insufficient Logging Vulnerability
-- **CISA KEV: CVE-2026-46300 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-28`
-  - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-10-31. Linux Kernel Missing Initialization of a Variable Vulnerability
-- **CISA KEV: CVE-2026-48356 Adobe Commerce and Magento** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-27`
-  - Kurz: Known exploited vulnerability. Added 2026-10-27. Due 2026-11-10. Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574623)
   - Quelle: GDACS
   - Zeit: ``
