@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-30T03:39:22Z",
+  "generated_at": "2026-10-30T03:50:43Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -67,7 +67,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:31:11+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -94,7 +94,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:30:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "infra"
@@ -147,7 +147,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 133.07,
+      "age_days": 133.08,
       "topics": [
         "general"
       ],
@@ -174,7 +174,7 @@
       "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:21:19+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -242,35 +242,11 @@
       "summary": ""
     },
     {
-      "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
-      "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T03:35:52+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T03:18:33.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -311,6 +287,30 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
+      "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-30T03:35:52+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
       ],
       "summary": ""
     }

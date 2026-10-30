@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-30T03:39:22Z",
+  "generated_at": "2026-10-30T03:50:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 28,
+    "dynamics": 30,
     "bands": {
       "krass": 2,
       "strong": 3,
-      "watch": 10,
-      "quiet": 13
+      "watch": 11,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 10,
-      "quiet": 13
+      "watch": 11,
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -75,7 +75,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:31:11+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -102,7 +102,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:30:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "infra"
@@ -155,7 +155,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 133.07,
+      "age_days": 133.08,
       "topics": [
         "general"
       ],
@@ -182,7 +182,7 @@
       "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:21:19+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -250,35 +250,11 @@
       "summary": ""
     },
     {
-      "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
-      "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T03:35:52+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T03:18:33.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -323,11 +299,35 @@
       "summary": ""
     },
     {
+      "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
+      "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-30T03:35:52+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Powering the green transition: Why the global battery race runs through Hong Kong",
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:00:30+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -351,7 +351,7 @@
       "url": "https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:21:19+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -373,11 +373,35 @@
       "summary": ""
     },
     {
+      "title": "M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-30T03:25:21+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "単体テストの本をデータ基盤チームで輪読会した話 - yasuhisa's blog",
       "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T00:54:33+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -397,26 +421,30 @@
       "summary": ""
     },
     {
-      "title": "M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-30T03:25:21+00:00",
-      "age_days": 0.01,
+      "title": "Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰",
+      "url": "https://note.com/hgffdgn654/n/n92467b83a1c1",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 59.38,
       "topics": [
-        "general"
+        "ai"
       ],
       "dynamics_score": 11.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 59.4d old signal",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -425,7 +453,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261030-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-30T01:11:38+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -449,7 +477,7 @@
       "url": "https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:00:52+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -546,11 +574,37 @@
       "summary": "Most small businesses in Southeast Asia already run on WhatsApp. Orders arrive there, suppliers send invoices there, staff send photos of receipts there. So when owners hear “AI”, the first idea is usually a chatbot that answers customers faster. After building AI systems for food, professional services and property b…"
     },
     {
+      "title": "Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰",
+      "url": "https://note.com/hgffdgn654/n/n92467b83a1c1",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-29T14:57:36+00:00",
+      "age_days": 0.54,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして..."
+    },
+    {
       "title": "HASAN.VC, Moria Ventures bet on Gulf capital to rescue Indonesia’s halal startups",
       "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:00:24+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -580,19 +634,19 @@
       "topics": [
         "general"
       ],
-      "dynamics_score": 6.58,
+      "dynamics_score": 6.55,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.53,
+      "baseline_z_hint": 0.5,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.53",
+        "baseline z_hint 0.50",
         "aging penalty -8.0 for 46.1d old signal"
       ],
       "summary": ""
@@ -602,7 +656,7 @@
       "url": "https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T21:40:30+00:00",
-      "age_days": 59.25,
+      "age_days": 59.26,
       "topics": [
         "general"
       ],
@@ -618,7 +672,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 59.2d old signal"
+        "aging penalty -8.0 for 59.3d old signal"
       ],
       "summary": ""
     },
@@ -650,11 +704,37 @@
       "summary": "I’m the founder of MyStarChain, which runs blockchain-based public voting for awards, pageants and competitions through the MyStarPick platform. In August my team ran the public vote for the 70th Miss Korea pageant. When the count closed, nobody asked us to prove it. The organiser did not need to, the contestants did…"
     },
     {
+      "title": "The fan vote is broken: Here is what it takes to make people trust it again",
+      "url": "https://e27.co/the-fan-vote-is-broken-here-is-what-it-takes-to-make-people-trust-it-again-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-30T03:25:21+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill",
       "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:39+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -676,37 +756,11 @@
       "summary": "GoTo has now reported a net profit for three quarters in a row. Read past the headline, though, and the numbers show a company run by its payments arm, while its ride-hailing business absorbs the cost of a government-imposed fare squeeze. GoTo reported a third-quarter net profit of Rp441 billion (about US$24.6 million…"
     },
     {
-      "title": "The fan vote is broken: Here is what it takes to make people trust it again",
-      "url": "https://e27.co/the-fan-vote-is-broken-here-is-what-it-takes-to-make-people-trust-it-again-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T03:25:21+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
       "url": "https://tech.findy.co.jp/entry/2026/10/30/070000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T22:25:22+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
