@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-30T03:35:52+00:00",
+  "generated_at": "2026-10-30T03:43:41+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 14,
-    "clusters": 14,
+    "findings": 15,
+    "clusters": 15,
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 0,
@@ -89,16 +89,16 @@
       "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
-      "key": "title:your-sme-doesn-need-chatbot-needs-work-after",
-      "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
+      "key": "domain:note.com",
+      "title": "Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/"
+        "https://note.com/hgffdgn654/n/n92467b83a1c1"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -124,7 +124,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-30T03:35:52+00:00"
+      "first_seen_at": "2026-08-31T18:43:10+00:00"
     },
     {
       "key": "title:sovereign-threshold-why-airtight-decisions-are-paralysing-executive",
@@ -165,6 +165,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-30T02:21:19+00:00"
+    },
+    {
+      "key": "title:your-sme-doesn-need-chatbot-needs-work-after",
+      "title": "Your SME doesn’t need a chatbot. It needs the work after the chat done",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-30T03:35:52+00:00"
     },
     {
       "key": "title:hasan-moria-ventures-bet-gulf-capital-rescue-indonesia",
@@ -455,18 +493,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 6.71,
+      "network_score": 6.7,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 7.1,
-      "ranking_score": 6.71,
+      "ranking_score": 6.7,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.21,
+      "baseline_bonus": 0.2,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -554,7 +592,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-10-30T03:35:53Z",
+    "generated_at": "2026-10-30T03:43:42Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

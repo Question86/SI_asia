@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T03:35:49+00:00_
+_Generiert: 2026-10-30T03:43:38+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+15 neue relevante Treffer. Stärkstes Signal: „Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia (+2.0)
   - Kurz: Most small businesses in Southeast Asia already run on WhatsApp. Orders arrive there, suppliers send invoices there, staff send photos of receipts there. So when owners hear “AI”, the first idea is usually a chatbot that answers customers faster. After building AI systems for food, professional services and property businesses in Indonesia and Singapore, I […] The post Your SME doesn’t need a chatbot. It needs the w…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰** — Score 11, observation — [Quelle](https://note.com/hgffdgn654/n/n92467b83a1c1)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-29T14:57:36+00:00`, fetched `2026-10-30T03:43:11+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **HASAN.VC, Moria Ventures bet on Gulf capital to rescue Indonesia’s halal startups** — Score 10, observation — [Quelle](https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-30T02:00:24+00:00`, fetched `2026-10-30T02:20:42+00:00`
@@ -95,15 +104,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは。こんばんは。 ファインディでリードエンジニアをしている@shootaです。 これまでFindy Team+のフロントエンドリードとして、モノレポのリアーキテクチャやCIの高速化、AIレビューの仕組みづくりといった記事を書いてきました。 tech.findy.co.jp 今回はそこから少し離れ、別のプロダクトに一人で入ってデザ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **単体テストの本をデータ基盤チームで輪読会した話 - yasuhisa's blog** — Score 5, observation — [Quelle](https://www.yasuhisay.info/entry/2026/10/29/093840)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-29T00:52:08+00:00`, fetched `2026-10-30T00:53:58+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 背景 課題感 解決策: チーム内の輪読会 前段階を整備する 進め方 輪読会を通じて得られた学び 輪読会をやってよかったこと 背景 データ基盤チームはSWE出身のメンバーだけでないことが多い アナリティクスエンジニアやアナリスト出身の人、PdMやマーケター出身の人など様々なバックグラウンドを持ったチームであることが...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

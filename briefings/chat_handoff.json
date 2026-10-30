@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-30T03:35:49+00:00",
+  "generated_at": "2026-10-30T03:43:38+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 2,
-    "observe": 12
+    "observe": 13
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "observe"
     },
     {
+      "title": "Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-29T14:57:36+00:00",
+      "relevance_score": 11,
+      "url": "https://note.com/hgffdgn654/n/n92467b83a1c1",
+      "summary": "久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして...",
+      "section": "observe"
+    },
+    {
       "title": "HASAN.VC, Moria Ventures bet on Gulf capital to rescue Indonesia’s halal startups",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -63,16 +73,6 @@
       "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/",
       "summary": "Indonesia has never lacked halal ambition. What it lacks is money willing to back that ambition. Two weeks ago, at the 13th Indonesia Sharia Economic Festival (ISEF) in Jakarta, a coalition of regulators, investors and universities launched the Indonesia Hala…",
       "section": "observe"
-    },
-    {
-      "title": "The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-30T01:00:49+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
-      "summary": "Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has co…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -80,143 +80,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
-        "url": "https://jvn.jp/vu/JVNVU95856220/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-30T09:15:00+09:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation",
-        "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-30T01:00:49+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has consolidated significantly. Several platforms have been throug…"
-      },
-      {
-        "title": "Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work",
-        "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-30T01:31:11+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work",
-        "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-30T01:30:00+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "ai",
-          "infra"
-        ],
-        "dynamics_score": 22.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: blackout",
-          "high terms: 10",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "Singapore’s data centres keep roughly 160 MWh of battery capacity on permanent standby, charged and waiting for a blackout that almost never comes. For an island that imports nearly all its fuel and is scrambling for clean power, that is a lot of expensive hardware doing nothing. Amplicity, a Singapore-headquartered e…"
-      },
-      {
-        "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
-        "url": "https://www.digital.go.jp/speech/minister-261030-01",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-30T01:20:57+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 20.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-30T03:35:49+00:00_
+_Generated: 2026-10-30T03:43:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-10-30T03:35:49+00:00_
 - url: https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/
 - summary: Most small businesses in Southeast Asia already run on WhatsApp. Orders arrive there, suppliers send invoices there, staff send photos of receipts there. So when owners hear “AI”, the first idea is usually a chatbot that answers customers faster. After buildi…
 
-### 5. HASAN.VC, Moria Ventures bet on Gulf capital to rescue Indonesia’s halal startups
+### 5. Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-29T14:57:36+00:00`
+- url: https://note.com/hgffdgn654/n/n92467b83a1c1
+- summary: 久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして...
+
+### 6. HASAN.VC, Moria Ventures bet on Gulf capital to rescue Indonesia’s halal startups
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-30T02:00:24+00:00`
 - url: https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/
 - summary: Indonesia has never lacked halal ambition. What it lacks is money willing to back that ambition. Two weeks ago, at the 13th Indonesia Sharia Economic Festival (ISEF) in Jakarta, a coalition of regulators, investors and universities launched the Indonesia Hala…
-
-### 6. The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-30T01:00:49+00:00`
-- url: https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/
-- summary: Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has co…
 
 END OF DOCUMENT
