@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T00:24:20+00:00",
-  "run_id": "2026-10-30T00:24:20+00:00",
+  "generated_at": "2026-10-30T00:54:30+00:00",
+  "run_id": "2026-10-30T00:54:30+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 3
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 1,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 1,
-    "observe": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
@@ -96,6 +96,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "eaef113dfd0cdd9ea3b2"
+      },
+      {
+        "title": "単体テストの本をデータ基盤チームで輪読会した話 - yasuhisa's blog",
+        "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-29T00:52:08+00:00",
+        "fetched_at": "2026-10-30T00:53:58+00:00",
+        "summary": "背景 課題感 解決策: チーム内の輪読会 前段階を整備する 進め方 輪読会を通じて得られた学び 輪読会をやってよかったこと 背景 データ基盤チームはSWE出身のメンバーだけでないことが多い アナリティクスエンジニアやアナリスト出身の人、PdMやマーケター出身の人など様々なバックグラウンドを持ったチームであることが...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a80c3cf2b44ace954e42"
       }
     ]
   },
@@ -165,62 +186,15 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "eaef113dfd0cdd9ea3b2"
-    }
-  ],
-  "new_findings": [
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
-      "url": "https://jvn.jp/vu/JVNVU95856220/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-30T09:15:00+09:00",
-      "fetched_at": "2026-10-30T00:23:39+00:00",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5602c46dcde62afcdb8c"
     },
     {
-      "title": "Powering the green transition: Why the global battery race runs through Hong Kong",
-      "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-30T00:00:30+00:00",
-      "fetched_at": "2026-10-30T00:23:39+00:00",
-      "summary": "As Battery energy storage (BES) investment scales toward US$5 trillion, Hong Kong Science and Technology Parks Corporation (HKSTP) is positioning Hong Kong as Asia’s launchpad for materials, integration, green finance and recycling — a bridge Southeast Asian founders can use to finance, certify and scale. A battery used to be something most people thought about […] The post Powering the green transition: Why the glo…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "Southeast Asia"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8615836a109938793b16"
-    },
-    {
-      "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
-      "url": "https://tech.findy.co.jp/entry/2026/10/30/070000",
+      "title": "単体テストの本をデータ基盤チームで輪読会した話 - yasuhisa's blog",
+      "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-29T22:25:22+00:00",
-      "fetched_at": "2026-10-30T00:23:39+00:00",
-      "summary": "こんにちは。こんばんは。 ファインディでリードエンジニアをしている@shootaです。 これまでFindy Team+のフロントエンドリードとして、モノレポのリアーキテクチャやCIの高速化、AIレビューの仕組みづくりといった記事を書いてきました。 tech.findy.co.jp 今回はそこから少し離れ、別のプロダクトに一人で入ってデザ...",
+      "published_at": "2026-10-29T00:52:08+00:00",
+      "fetched_at": "2026-10-30T00:53:58+00:00",
+      "summary": "背景 課題感 解決策: チーム内の輪読会 前段階を整備する 進め方 輪読会を通じて得られた学び 輪読会をやってよかったこと 背景 データ基盤チームはSWE出身のメンバーだけでないことが多い アナリティクスエンジニアやアナリスト出身の人、PdMやマーケター出身の人など様々なバックグラウンドを持ったチームであることが...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -232,7 +206,30 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "eaef113dfd0cdd9ea3b2"
+      "id": "a80c3cf2b44ace954e42"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "単体テストの本をデータ基盤チームで輪読会した話 - yasuhisa's blog",
+      "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-29T00:52:08+00:00",
+      "fetched_at": "2026-10-30T00:53:58+00:00",
+      "summary": "背景 課題感 解決策: チーム内の輪読会 前段階を整備する 進め方 輪読会を通じて得られた学び 輪読会をやってよかったこと 背景 データ基盤チームはSWE出身のメンバーだけでないことが多い アナリティクスエンジニアやアナリスト出身の人、PdMやマーケター出身の人など様々なバックグラウンドを持ったチームであることが...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a80c3cf2b44ace954e42"
     }
   ],
   "source_errors": [],
