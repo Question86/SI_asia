@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-30T14:56:45+00:00",
+  "generated_at": "2026-10-30T15:07:09+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/"
       },
       {
+        "title": "[NEU] [mittel] ProFTPD: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-30T14:58:10+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4259"
+      },
+      {
         "title": "The sovereign threshold: Why airtight AI decisions are paralysing executive teams",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-30T02:00:52+00:00",
@@ -103,6 +110,13 @@
         "published_at": "2026-10-30T00:00:30+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/"
+      },
+      {
+        "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-30T14:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html"
       },
       {
         "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
@@ -131,39 +145,23 @@
         "published_at": "2026-10-30T12:20:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/TeamViewer-stopft-Codeschmuggel-Luecke-11506072.html"
-      },
-      {
-        "title": "Erneut kritischer Bug in Linux TCP/IP aufgedeckt – Updates in Arbeit",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-30T12:12:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html"
-      },
-      {
-        "title": "Cisco-Firewalls und GitLab-Lücke werden angegriffen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-30T07:51:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Cisco-Firewalls-und-GitLab-Luecke-werden-angegriffen-11505669.html"
-      }
-    ],
-    "github": [
-      {
-        "title": "milind-soni/OpenMausBot",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 17,
-        "url": "https://github.com/milind-soni/OpenMausBot"
-      },
-      {
-        "title": "Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-30T01:00:39+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/"
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [hoch] n8n: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-30T14:58:09+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4192"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Denial of Service und Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-30T14:58:07+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3626"
+      },
       {
         "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -184,6 +182,13 @@
         "published_at": "2026-10-30T09:15:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU95856220/"
+      },
+      {
+        "title": "[NEU] [mittel] ProFTPD: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-30T14:58:10+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4259"
       },
       {
         "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -212,27 +217,22 @@
         "published_at": "2026-10-30T09:27:00.000+00:00",
         "relevance_score": 12,
         "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html"
+      }
+    ],
+    "github": [
+      {
+        "title": "milind-soni/OpenMausBot",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 17,
+        "url": "https://github.com/milind-soni/OpenMausBot"
       },
       {
-        "title": "Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-30T03:40:04+00:00",
-        "relevance_score": 12,
-        "url": "https://blog.calil.jp/2026/10/linux-kernel.html"
-      },
-      {
-        "title": "If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?",
+        "title": "Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-30T03:54:03+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/"
-      },
-      {
-        "title": "Claude-Code-Erweiterung im Cursor-Marktplatz mit Malware infiziert",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-30T13:08:00.000+00:00",
-        "relevance_score": 8,
-        "url": "https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html"
+        "published_at": "2026-10-30T01:00:39+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/"
       }
     ],
     "general": [
@@ -305,6 +305,15 @@
         "published_at": "2026-10-30T06:32:44+00:00",
         "relevance_score": 5,
         "url": "https://internet.watch.impress.co.jp/docs/news/2152666.html"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-30T14:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html"
       }
     ]
   }

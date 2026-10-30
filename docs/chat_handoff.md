@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-30T14:56:45+00:00_
+_Generated: 2026-10-30T15:07:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `42`
+- findings: `46`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-30T14:56:45+00:00_
 - url: https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/
 - summary: Singapore’s data centres keep roughly 160 MWh of battery capacity on permanent standby, charged and waiting for a blackout that almost never comes. For an island that imports nearly all its fuel and is scrambling for clean power, that is a lot of expensive ha…
 
-### 2. milind-soni/OpenMausBot
+### 2. [UPDATE] [hoch] n8n: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-10-30T14:58:09+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4192
+- summary: Ein Angreifer kann mehrere Schwachstellen in n8n ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.
+
+### 3. milind-soni/OpenMausBot
 - source: GitHub Trending RSS All Languages Daily
 - score: `17`
 - published: `None`
 - url: https://github.com/milind-soni/OpenMausBot
 - summary: Open-source Grok Bot alternative with a virtual machine that bots can use https://www.openmausbot.com/ OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com · Download · Open source Grok Bot alternative, co…
 
-### 3. [UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (cjose): Schwachstelle ermöglicht Denial of Service und Manipulation von Daten
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-10-30T10:49:33+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4204
-- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Spoofing-Angriffe durchzuführen sowie Daten zu manipulieren oder offenzulege…
-
-### 4. [UPDATE] [UNGEPATCHT] [hoch] Keycloak: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-30T10:49:33+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4191
-- summary: Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.
+- published: `2026-10-30T14:58:07+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3626
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (cjose) ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.
 
 ### 5. The sovereign threshold: Why airtight AI decisions are paralysing executive teams
 - source: e27 Asia Startup and Tech Feed
