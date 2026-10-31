@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-10-31T06:57:05+00:00_
+_Generiert: 2026-10-31T07:03:58+00:00_
 
 ## expo/skills
 
-- Ranking Score: `32.5`
-- Raw Network Score: `28.1`
+- Ranking Score: `30.0`
+- Raw Network Score: `25.1`
 - Max Monitor Score: `23`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -13,7 +13,7 @@ _Generiert: 2026-10-31T06:57:05+00:00_
 - Quellen: GitHub Trending RSS All Languages Daily
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://github.com/expo/skills
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
