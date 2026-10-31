@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T12:42:46+00:00",
-  "run_id": "2026-10-31T12:42:46+00:00",
+  "generated_at": "2026-10-31T12:50:29+00:00",
+  "run_id": "2026-10-31T12:50:29+00:00",
   "date": "2026-10-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 19,
     "displayed_findings": 19,
     "high": 0,
@@ -1089,29 +1089,7 @@
       "id": "060db575a507c83d99b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "偽コンサルの一生 - 孤独な弧度法",
-      "url": "https://2arctan-1.hatenablog.com/entry/2026/10/31/125102",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-31T08:31:24+00:00",
-      "fetched_at": "2026-10-31T12:42:17+00:00",
-      "summary": "こんにちは。 社会人歴10年未満にして、早くも転職回数3回のジョブホッパーです。 最近まで2年ほど(実態はそれ未満なんですが)コンサルタントをやっておりました。 当然、2年程度でコンサルタントとしての所作やスキルが身につくはずもなく、立派な『偽コンサル』が転職市場へと放たれたわけです！ 今日は、そんな偽コン...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "674dfd336f60b7664a7e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
