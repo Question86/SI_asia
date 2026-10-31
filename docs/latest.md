@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-31T05:33:05+00:00_
+_Generiert: 2026-10-31T05:49:03+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „M 4.6 - Izu Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+8 neue relevante Treffer. Stärkstes Signal: „M 4.6 - Izu Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-31 00:26:35 UTC 2026-10-31 00:26:35 UTC at epicenter Location 14.809°S 167.948°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **「ここ 3 年くらいの CloudWatch アップデート について丸っと解説します」というタイトルで登壇しました #devio2026 | DevelopersIO** — Score 8, observation — [Quelle](https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-31T02:15:33+00:00`, fetched `2026-10-31T05:48:30+00:00`
+  - Treffer: developer, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)
+  - Kurz: 「ここ 3 年くらいの CloudWatch アップデート について丸っと解説します」というタイトルで登壇しました #devio2026 | DevelopersIO
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準** — Score 8, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-30T09:16:56+00:00`, fetched `2026-10-31T02:47:02+00:00`
@@ -59,15 +68,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について解説しました。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **RDPとターミナルサーバーの思い出 - Nothing ventured, nothing gained.** — Score 5, observation — [Quelle](https://takoratta.hatenablog.com/entry/rememberrdp)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-30T10:00:58+00:00`, fetched `2026-10-31T01:42:58+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: GMOインターネットの「お名前.comデスクトップクラウド」で不正アクセスがあった。WindowsのVPSで、FXの自動売買などに使う人が多いサービスだそうだ。そのニュースを追っていたら、RDPという名前が出てきた。リモートデスクトップのドライブ共有を使って利用者のPCからデータを抜いた、と攻撃者が主張しているらしい。G...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
