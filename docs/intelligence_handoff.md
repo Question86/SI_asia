@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-31T01:12:25Z_
+_Generated: 2026-10-31T01:21:03Z_
 
 ## Lageurteil
 
@@ -21,19 +21,19 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 97 km ENE of Port-Olry, Vanuatu�
 ### GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-10-31T00:29:57+00:00` / age_days `0.03`
+- Dynamics score: `16.5`
+- Published: `2026-10-31T00:29:57+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, high terms: active
+- Warum: momentum delta +2, high terms: active
 - Quelle: https://note.activetk.jp/hacks/onamae-desktop-cloud-v3
 
 ### M 4.8 - 97 km ENE of Port-Olry, Vanuatu
 
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.4`
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `11.5`
 - Published: `2026-10-31T01:02:54+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 97 km ENE of Port-Olry, Vanuatu�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-30T22:33:17+00:00` / age_days `0.11`
+- Published: `2026-10-30T22:33:17+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: active
@@ -51,21 +51,21 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 97 km ENE of Port-Olry, Vanuatu�
 ### エンジニアが「勝手に育つ時代」は終わった ～エンジニアを育ててきた装置はAIで壊れた～
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `3.5`
-- Published: `2026-10-31T01:02:54+00:00` / age_days `0.01`
+- Dynamics score: `2.0`
+- Published: `2026-10-30T04:00:20+00:00` / age_days `0.89`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://codezine.jp/article/detail/30081
 
 ### エンジニアが「勝手に育つ時代」は終わった ～エンジニアを育ててきた装置はAIで壊れた～
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `2.0`
-- Published: `2026-10-30T04:00:20+00:00` / age_days `0.88`
+- Dynamics score: `1.0`
+- Published: `2026-10-31T01:02:54+00:00` / age_days `0.01`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://codezine.jp/article/detail/30081
 
 END OF DOCUMENT
