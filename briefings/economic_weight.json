@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T00:30:17+00:00",
+  "generated_at": "2026-10-31T01:03:14+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1496,7 +1496,7 @@
       "p90_usd": 108000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-31T00:29:57+00:00",
-      "last_seen_at": "2026-10-31T00:29:57+00:00",
+      "last_seen_at": "2026-10-31T01:02:54+00:00",
       "status": "active"
     },
     {
@@ -11545,6 +11545,23 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0c3218c9ff92d95432a7",
+      "title": "M 4.8 - 97 km ENE of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-10-31T01:02:54+00:00",
+      "last_seen_at": "2026-10-31T01:02:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -34755,6 +34772,23 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b2fb258ca3a2e2829489",
+      "title": "エンジニアが「勝手に育つ時代」は終わった ～エンジニアを育ててきた装置はAIで壊れた～",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-10-31T01:02:54+00:00",
+      "last_seen_at": "2026-10-31T01:02:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
