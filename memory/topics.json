@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-31T22:29:57+00:00",
+  "generated_at": "2026-10-31T22:46:42+00:00",
   "topics": {
     "ai": [
       {
@@ -107,6 +107,13 @@
     ],
     "general": [
       {
+        "title": "M 6.0 - 58 km SSE of Shima, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-31T22:45:11.965+00:00",
+        "relevance_score": 19,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku"
+      },
+      {
         "title": "M 4.6 - Izu Islands, Japan region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-31T03:33:42.040+00:00",
@@ -168,13 +175,6 @@
         "published_at": "2026-10-31T02:58:56.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs"
-      },
-      {
-        "title": "M 4.8 - 97 km ENE of Port-Olry, Vanuatu",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-31T01:00:34.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd"
       }
     ]
   }
