@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-31T13:31:24+00:00",
-  "run_id": "2026-10-31T13:31:24+00:00",
+  "generated_at": "2026-10-31T13:46:23+00:00",
+  "run_id": "2026-10-31T13:46:23+00:00",
   "date": "2026-10-31",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 1,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 5,
-    "observe": 15,
-    "source_errors": 0
+    "observe": 16,
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -452,6 +452,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8a15d9ca3cd56d7f1681"
+      },
+      {
+        "title": "GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ | NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261031de69024",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-31T12:04:26+00:00",
+        "fetched_at": "2026-10-31T13:45:35+00:00",
+        "summary": "GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、2年前に子会社のセキュリティー企業からシステムのぜい弱性を指摘されていたことが関係者への…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4e3352ccacb1d0a3b64b"
       },
       {
         "title": "偽コンサルの一生 - 孤独な弧度法",
@@ -1005,6 +1026,27 @@
       "id": "8a15d9ca3cd56d7f1681"
     },
     {
+      "title": "GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261031de69024",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-31T12:04:26+00:00",
+      "fetched_at": "2026-10-31T13:45:35+00:00",
+      "summary": "GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、2年前に子会社のセキュリティー企業からシステムのぜい弱性を指摘されていたことが関係者への…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4e3352ccacb1d0a3b64b"
+    },
+    {
       "title": "偽コンサルの一生 - 孤独な弧度法",
       "url": "https://2arctan-1.hatenablog.com/entry/2026/10/31/125102",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1131,8 +1173,43 @@
       "id": "060db575a507c83d99b2"
     }
   ],
-  "new_findings": [],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261031de69024",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-31T12:04:26+00:00",
+      "fetched_at": "2026-10-31T13:45:35+00:00",
+      "summary": "GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、2年前に子会社のセキュリティー企業からシステムのぜい弱性を指摘されていたことが関係者への…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4e3352ccacb1d0a3b64b"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
