@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T09:32:57+00:00",
-  "today_file_total": 15,
+  "generated_at": "2026-10-31T09:47:44+00:00",
+  "today_file_total": 16,
   "current_clusters": [
     {
       "key": "github_repo:expo/skills",
@@ -99,8 +99,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 4.9 - 213 km w of sola, vanuatu:4.9",
-      "title": "M 4.9 - 213 km W of Sola, Vanuatu",
+      "key": "earthquake:m 4.9 - 236 km nw of port-olry, vanuatu:4.9",
+      "title": "M 4.9 - 236 km NW of Port-Olry, Vanuatu",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -108,7 +108,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -145,6 +145,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 4.9 - 213 km w of sola, vanuatu:4.9",
+      "title": "M 4.9 - 213 km W of Sola, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:central mid-atlantic ridge:4.5",
