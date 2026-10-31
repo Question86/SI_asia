@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T08:19:20+00:00",
-  "run_id": "2026-10-31T08:19:20+00:00",
+  "generated_at": "2026-10-31T08:26:56+00:00",
+  "run_id": "2026-10-31T08:26:56+00:00",
   "date": "2026-10-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -743,29 +743,7 @@
       "id": "060db575a507c83d99b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議 審査員は「本人が描画した」と判断 - モデルプレス",
-      "url": "https://mdpr.jp/news/detail/4862863",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-31T02:23:28+00:00",
-      "fetched_at": "2026-10-31T08:18:50+00:00",
-      "summary": "福島県喜多方市のポスターコンクール入賞作品が「AI生成ではないか」と話題に。実行委員会は取材に「本人が描画した作品であると判断した」と、回答している。 様々なシーンで活用され、もはや見かけない日の方が珍しいAI生成技術。しかし、こと「イラスト」の分野になると、批判的な意見が多数を占めるのが現状である。...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c858bc6553cd1be1f651"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
