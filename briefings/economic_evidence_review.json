@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T16:42:21+00:00",
+  "generated_at": "2026-10-31T16:49:22+00:00",
   "fx_as_of": null,
-  "candidate_count": 2509,
+  "candidate_count": 2510,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2509
+    "pending": 2510
   },
   "coverage_warning": null,
   "candidates": [
@@ -43225,6 +43225,27 @@
       "snippet": "�R1�jy���\u0016���[V���WB�\u0016�&�T��\"��A>�K��\u00160�$��5��%Ld5�m��D\u0015�S���>-�`I��X �J��b��/Ff ��bd��rG��y� �o���m��ٻͺ��\u0013:���4��g��ll�v7��� ;� \u0006��Yr�8�0�&�{��\u000f�L i����̋#ΙWǥc��k��\\9��yY��};;q&��$8\u001b3o�-9e޶q+NX={8�|�\u0013a/��X\u000e�F�^�`�\u0019���Ќ��T�vf��̻���\u0003�6�e�9��r9�ӂ뗄\u0003��p�Ef�%\b`\"�X�`Z�\b&��%]\b�.�B8P:.��{!\\���\u0018��\u0015��Q�E\\Q�\u000fԹ�2�\u0012�+*�慅\u0014 �I׬O�Sȍ� ؗN\u0017\u0015C�ԭ �X\u0001�X �sj)�X3/�{( ������̻S��-l�K\b",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://mdpr.jp/news/detail/4862863"
+    },
+    {
+      "amount_native": 8.0,
+      "amount_usd": 8.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_0c4f9a7ec2d3f329389d",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_bcf43ffe75ec61359fa4",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-31T16:49:22+00:00",
+      "overlap_group_suggestion": "evt_bcf43ffe75ec61359fa4:unknown:f6c364ba414a",
+      "review_status": "pending",
+      "snippet": "�R�R2�jy���\u0016���[V���7B�\u0016�&�T�\"��A>�K��\u00170�$��-��#Ld5�ږ��JF�,/\u0013}^8��0�W�@��p��`+/Ff ��dd��rG��z� �o���u��ɳͺ��;xг�q`��������j�m�o;v�\u0019\blݳ��qd*�&�\u0007���L i����ԋ#���ǥc��k��\\9��yY��}77q&��$8\u001b���-9e޶q+NX=����Ɖ�\u0017rp,�\u0017�Io^���\u0000�G4��*\u0011���x7�~�\u001b�\u0000��ֲ� �X� �y��K�\u0001_[��\"3�\u0012\u00040\u0011S�F0-z\u0004\u0013C��.�[�{! ( �W�^\b�in;�ip�?u�f W��\u0003un� 8�D�r�yn!\u0005CE�5����r#)\b���E� -uk�/��-����Z�5���� Jç�k78+7",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://mdpr.jp/news/detail/4862863",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 7.0,
