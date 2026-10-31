@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T21:18:57+00:00",
-  "run_id": "2026-10-31T21:18:57+00:00",
+  "generated_at": "2026-10-31T21:26:49+00:00",
+  "run_id": "2026-10-31T21:26:49+00:00",
   "date": "2026-10-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 25,
     "displayed_findings": 25,
     "high": 0,
@@ -1403,29 +1403,7 @@
       "id": "060db575a507c83d99b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GeoJSON入門 JSONで地図の点・線・面を表す仕組み - 一色政彦の技術ノート",
-      "url": "https://blog.masahiko.info/entry/2026/10/31/113000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-31T10:59:48+00:00",
-      "fetched_at": "2026-10-31T21:18:26+00:00",
-      "summary": "地理空間データを公開サイトやAPIから入手すると、.geojsonという拡張子のファイルに出会うことがあります。テキストエディタで開くと、波かっこと角かっこが並んだJSONです。 GeoJSONは、JSON（JavaScript Object Notation）で地図上の位置や形を表すための形式です。基本はJSONなので、特別なバイナリファイルではあり...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f0e03b6bb45a763b3dda"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
