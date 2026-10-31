@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T01:43:29+00:00",
-  "run_id": "2026-10-31T01:43:29+00:00",
+  "generated_at": "2026-10-31T01:51:01+00:00",
+  "run_id": "2026-10-31T01:51:01+00:00",
   "date": "2026-10-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 4,
     "displayed_findings": 4,
     "high": 0,
@@ -232,29 +232,7 @@
       "id": "060db575a507c83d99b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "RDPとターミナルサーバーの思い出 - Nothing ventured, nothing gained.",
-      "url": "https://takoratta.hatenablog.com/entry/rememberrdp",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-30T10:00:58+00:00",
-      "fetched_at": "2026-10-31T01:42:58+00:00",
-      "summary": "GMOインターネットの「お名前.comデスクトップクラウド」で不正アクセスがあった。WindowsのVPSで、FXの自動売買などに使う人が多いサービスだそうだ。そのニュースを追っていたら、RDPという名前が出てきた。リモートデスクトップのドライブ共有を使って利用者のPCからデータを抜いた、と攻撃者が主張しているらしい。G...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "50523a9a454ac9170ee9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
