@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-31T00:23:37Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-10-31T00:47:26Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,322 +11,53 @@
   ],
   "top_dynamics": [
     {
-      "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4210",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-30T10:49:32+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code, 10",
-        "security high-signal: angriffe, code, 10"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, potenziell beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen und zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
-    },
-    {
-      "title": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-10-30T07:18:00+00:00",
-      "age_days": 0.71,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "extreme gate recheck: insufficient independent/current evidence"
-      ],
-      "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use https://www.openmausbot.com/ OpenMausBot The open-source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com · Download · Open source Grok Bot alternative, compared OpenMausBot is an open-source Grok Bot alternative: a…"
-    },
-    {
-      "title": "If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?",
-      "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T03:54:03+00:00",
-      "age_days": 0.85,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "security high-signal: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "extreme gate recheck: insufficient independent/current evidence"
-      ],
-      "summary": "Bitcoin fell 4.87 per cent to US$77,037.20 in 24 hours and underperformed a broadly weaker crypto sector. A confirmed security incident at Binance on October 29 triggered the drop. That shock arrived against a 65 per cent correlation with the S&P 500. Macro risk aversion had already set a defensive tone. The result wa…"
-    },
-    {
-      "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4204",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-30T10:49:33+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Spoofing-Angriffe durchzuführen sowie Daten zu manipulieren oder offenzulegen."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
-      "url": "https://jvn.jp/vu/JVNVU95856220/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 1.01,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "security high-signal: 10",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-    },
-    {
-      "title": "[NEU] [mittel] ProFTPD: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4259",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-30T14:58:10+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in ProFTPD ausnutzen, um Dateien zu manipulieren."
-    },
-    {
-      "title": "[UPDATE] [hoch] Langflow: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4226",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-30T10:28:06+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[UPDATE] [kritisch] Drupal Erweiterungen: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-30T07:43:06+00:00",
-      "age_days": 0.69,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, kritisch",
-        "security high-signal: angriffe, kritisch",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um erweiterte Berechtigungen zu erlangen und Benutzerkonten zu übernehmen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen und nicht näher spezifizierte Auswirkung…"
-    },
-    {
-      "title": "WordPress-Update stopft Schadcode-Lücke, Exploit-Versuche beobachtet",
-      "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-10-30T09:27:00.000+00:00",
-      "age_days": 0.62,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "WordPress-Updates stopfen mehrere Sicherheitslücken. Über eine lässt sich Schadcode einschleusen. Angriffsversuche laufen."
-    },
-    {
-      "title": "Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ",
-      "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
+      "title": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note",
+      "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-30T03:40:04+00:00",
-      "age_days": 0.86,
+      "published_at": "2026-10-31T00:29:57+00:00",
+      "age_days": 0.01,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "security high-signal: 10",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "2026年10月15日、Linuxカーネル（Linux OSの中核部分）のネットワーク処理に重大な脆弱性（CVE-2026-98432）があることが公表され、あわせて修正版が公開されました。細工したパケットを送りつけることでサーバーを停止させたり、条件によっては認証なしでリモートからプログラムを実行されたりするおそれがある問題です..."
-    },
-    {
-      "title": "CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新)｜zephel01",
-      "url": "https://note.com/zephel01/n/n4637423e080b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-30T01:31:28+00:00",
-      "age_days": 0.95,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "security high-signal: 10",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新) 【更新履歴】 ・10月30日 13時半：Goのセキュリティチームの告知を反映した。Goで書いたサーバーでMPTCPを止める方法と、「バグ自体はMPTCP固有ではない」という見解を、対策5などに加えた ・10月30日 12..."
-    },
-    {
-      "title": "WordPress-Update stopft Schadcode-Lücke, Exploit-Versuche beobachtet",
-      "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 133.7,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "aging penalty -8.0 for 133.7d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
+        "momentum delta +1",
+        "high terms: active"
       ],
       "summary": ""
+    },
+    {
+      "title": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note",
+      "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-30T22:33:17+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active"
+      ],
+      "summary": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について解説しました。"
     }
   ],
   "read_order": [
@@ -338,9 +69,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 10,
-      "watch": 1
+      "watch": 1,
+      "quiet": 1
     }
   }
 }
