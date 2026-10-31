@@ -50,5 +50,137 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note",
+        "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-31T00:29:57+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "high terms: active"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.8 - 97 km ENE of Port-Olry, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-31T01:00:34.040+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 17.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-10-31 00:26:35 UTC 2026-10-31 00:26:35 UTC at epicenter Location 14.809°S 167.948°E Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 4.8 - 97 km ENE of Port-Olry, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-31T01:02:54+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 14.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +2"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note",
+        "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-30T22:33:17+00:00",
+        "age_days": 0.13,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 10.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: active"
+        ],
+        "summary": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について解説しました。"
+      },
+      {
+        "title": "エンジニアが「勝手に育つ時代」は終わった ～エンジニアを育ててきた装置はAIで壊れた～",
+        "url": "https://codezine.jp/article/detail/30081",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-31T01:02:54+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 3.5,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +2",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
