@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-31T07:21:40Z_
+_Generated: 2026-10-31T07:37:25Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-10-30T09:16:56+00:00` / age_days `0.92`
+- Published: `2026-10-30T09:16:56+00:00` / age_days `0.93`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: cvss, 10, cvss, security high-signal: cvss, 10, cvss, cvss
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-31T06:56:35+00:00` / age_days `0.02`
+- Published: `2026-10-31T06:56:35+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,37 +32,37 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-31T06:56:35+00:00` / age_days `0.02`
+- Published: `2026-10-31T06:56:35+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://github.com/CopilotKit/OpenBot
 
+### expo/skills
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-10-31T06:57:05+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://github.com/expo/skills
+
 ### もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-31T02:47:33+00:00` / age_days `0.19`
+- Published: `2026-10-31T02:47:33+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: cvss, cvss, cvss, security high-signal: cvss, cvss, cvss, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html
 
-### expo/skills
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-31T06:57:05+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +2, single-source AI hype brake -8.0, krass gate: single-source non-official/non-identity signal capped, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/expo/skills
-
 ### M 4.6 - Izu Islands, Japan region
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-31T03:33:42.040+00:00` / age_days `0.16`
+- Published: `2026-10-31T03:33:42.040+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-31T06:33:29+00:00` / age_days `0.03`
+- Published: `2026-10-31T06:33:29+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,27 +82,17 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-31T00:29:57+00:00` / age_days `0.29`
+- Published: `2026-10-31T00:29:57+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: active
 - Quelle: https://note.activetk.jp/hacks/onamae-desktop-cloud-v3
 
-### CopilotKit/OpenBot
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `18.0`
-- Published: `2026-10-31T06:57:05+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +2, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/CopilotKit/OpenBot
-
 ### 「ここ 3 年くらいの CloudWatch アップデート について丸っと解説します」というタイトルで登壇しました #devio2026 | DevelopersIO
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-31T05:49:07+00:00` / age_days `0.06`
+- Published: `2026-10-31T05:49:07+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-31T02:58:56.040+00:00` / age_days `0.18`
+- Published: `2026-10-31T02:58:56.040+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,10 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-31T01:00:34.040+00:00` / age_days `0.26`
+- Published: `2026-10-31T01:00:34.040+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd
+
+### M 4.5 - central Mid-Atlantic Ridge
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.5`
+- Published: `2026-10-31T03:02:58+00:00` / age_days `0.19`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs
 
 END OF DOCUMENT
