@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-31T09:11:40Z",
+  "generated_at": "2026-10-31T09:20:31Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 26,
+    "dynamics": 28,
     "bands": {
       "extreme": 1,
       "krass": 1,
       "strong": 5,
-      "watch": 9,
-      "quiet": 10
+      "watch": 10,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 9,
-      "quiet": 10
+      "watch": 10,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -49,7 +49,7 @@
       "url": "https://github.com/expo/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:56:35+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -78,7 +78,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:56:35+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -104,7 +104,7 @@
       "url": "https://github.com/expo/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:57:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -158,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T03:33:42.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -183,7 +183,7 @@
       "url": "https://note.com/happy_dahlia405/n/n1b16c06e71e6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T06:33:29+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -207,7 +207,7 @@
       "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T00:29:57+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -258,7 +258,7 @@
       "url": "https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T05:49:07+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -307,7 +307,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T01:00:34.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -356,7 +356,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T01:02:54+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -380,7 +380,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:57:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -406,7 +406,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 46.9,
+      "age_days": 46.91,
       "topics": [
         "general"
       ],
@@ -427,11 +427,37 @@
       "summary": ""
     },
     {
+      "title": "GMO不正侵入、システム脆弱性を2年前に把握 子会社指摘も対策後手 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T02:10:07+00:00",
+      "age_days": 134.3,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.69,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "aging penalty -8.0 for 134.3d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note",
       "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T22:33:17+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -455,7 +481,7 @@
       "url": "https://note.com/happy_dahlia405/n/n1b16c06e71e6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T01:30:40+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -481,7 +507,7 @@
       "url": "https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T02:56:44+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -506,7 +532,7 @@
       "url": "https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T02:15:33+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -524,6 +550,30 @@
         "no strong comparative reason"
       ],
       "summary": "「ここ 3 年くらいの CloudWatch アップデート について丸っと解説します」というタイトルで登壇しました #devio2026 | DevelopersIO"
+    },
+    {
+      "title": "GMO不正侵入、システム脆弱性を2年前に把握 子会社指摘も対策後手 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-31T08:05:25+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、子会社のセキュリティー企業が2024年4月にシステムの欠陥（脆弱性）を指摘していたことがGMO幹部への取材でわかった。システムの抜本的な見直しを求めたものの十分な対応がなされずに被害を招いた。脆弱性を指摘したのは、子会社のGMOサイバーセキュ..."
     },
     {
       "title": "喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議 審査員は「本人が描画した」と判断 - モデルプレス",
@@ -556,7 +606,7 @@
       "url": "https://codezine.jp/article/detail/30081",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T01:02:54+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -608,7 +658,7 @@
       "url": "https://takoratta.hatenablog.com/entry/rememberrdp",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T00:15:45+00:00",
-      "age_days": 58.37,
+      "age_days": 58.38,
       "topics": [
         "ai"
       ],
@@ -635,7 +685,7 @@
       "url": "https://mdpr.jp/news/detail/4862863",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T02:23:28+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
