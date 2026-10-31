@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T09:33:29+00:00",
+  "generated_at": "2026-10-31T09:48:14+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -2623,12 +2623,12 @@
     {
       "event_id": "evt_1de3c051720e5b86c5f5",
       "title": "M 4.9 - 213 km W of Sola, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -8141,6 +8141,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_599f9700ab582fb473ec",
+      "title": "M 4.9 - 236 km NW of Port-Olry, Vanuatu",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_59a6540db44bb79a9142",
