@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-31T22:07:00+00:00_
+_Generated: 2026-10-31T22:14:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `27`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-31T22:07:00+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuk4
 - summary: ShakeMap - III Time 2026-10-31 18:51:02 UTC 2026-10-31 18:51:02 UTC at epicenter Location 51.699°N 172.793°W Depth 44.87 km (27.88 mi)
 
-### 7. M 5.0 - 115 km SE of Bushehr, Iran
+### 7. 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-31T15:02:52+00:00`
+- url: https://zenn.dev/kauche/articles/f3736c660aab77
+- summary: 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点） この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。 3 人のチーム「いくぜカウシェ」で ISUCON2026...
+
+### 8. M 5.0 - 115 km SE of Bushehr, Iran
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-31T21:35:56.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm
 - summary: Time 2026-10-31 21:20:39 UTC 2026-10-31 21:20:39 UTC at epicenter Location 28.114°N 51.508°E Depth 10.00 km (6.21 mi)
-
-### 8. M 5.2 - 4 km S of Bajo Corral, Panama
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-31T16:16:27.616+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf
-- summary: DYFI? - V Time 2026-10-31 15:50:18 UTC 2026-10-31 15:50:18 UTC at epicenter Location 7.569°N 80.255°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
