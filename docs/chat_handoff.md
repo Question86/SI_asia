@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-31T15:58:28+00:00_
+_Generated: 2026-10-31T16:19:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `23`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-31T15:58:28+00:00_
 - url: https://note.com/happy_dahlia405/n/n1b16c06e71e6
 - summary: はじめに精神的にもう無理、というときに開くためのWebページを作りました。 https://ogawahideto.github.io/genai/genkai/ Claude Code（Claude Opus 5.5）に頼んだときのプロンプトはこれです。 精神的に無理な時に見るサイトを作ってください。簡単に理解を示したら請けいられるとか、安易なやさしい言葉はやめてくだ...
 
-### 6. M 5.0 - 196 km NW of Port-Olry, Vanuatu
+### 6. M 5.2 - 4 km S of Bajo Corral, Panama
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-31T16:16:27.616+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf
+- summary: DYFI? - V Time 2026-10-31 15:50:18 UTC 2026-10-31 15:50:18 UTC at epicenter Location 7.569°N 80.255°W Depth 10.00 km (6.21 mi)
+
+### 7. M 5.0 - 196 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-31T11:47:21.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuif
 - summary: Time 2026-10-31 11:31:12 UTC 2026-10-31 11:31:12 UTC at epicenter Location 13.907°S 165.676°E Depth 10.00 km (6.21 mi)
 
-### 7. M 4.9 - 236 km NW of Port-Olry, Vanuatu
+### 8. M 4.9 - 236 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-31T09:40:35.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht
 - summary: Time 2026-10-31 09:18:32 UTC 2026-10-31 09:18:32 UTC at epicenter Location 13.789°S 165.295°E Depth 10.00 km (6.21 mi)
-
-### 8. M 4.9 - 213 km W of Sola, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-31T09:32:22.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs
-- summary: Time 2026-10-31 09:15:52 UTC 2026-10-31 09:15:52 UTC at epicenter Location 13.768°S 165.583°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
