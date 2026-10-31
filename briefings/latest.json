@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T15:13:35+00:00",
-  "run_id": "2026-10-31T15:13:35+00:00",
+  "generated_at": "2026-10-31T15:20:54+00:00",
+  "run_id": "2026-10-31T15:20:54+00:00",
   "date": "2026-10-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 1,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 5,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -515,6 +515,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "50a4b3fe19fab2829db7"
+      },
+      {
+        "title": "1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント時代で生き残るために。｜hayatosc",
+        "url": "https://sizu.me/hayatosc/posts/oxi9cff8k2bn",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-31T03:55:45+00:00",
+        "fetched_at": "2026-10-31T15:20:25+00:00",
+        "summary": "上記で紹介している事例がほんの一部なのはわざわざ言うまでもないだろう。もはや逆にどの個人情報が漏えいしていないのか探すほうが簡単なレベルである。どこのワッパーが漏らしたのか知らないが自分のところにも早速迷惑メールが送られてきた。 さて、こんな時代なのだから、個人のセキュリティも向上させることが急務...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cdef0dc4b4df0e6ac793"
       },
       {
         "title": "喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議 審査員は「本人が描画した」と判断 - モデルプレス",
@@ -1089,6 +1110,27 @@
       "id": "50a4b3fe19fab2829db7"
     },
     {
+      "title": "1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント時代で生き残るために。｜hayatosc",
+      "url": "https://sizu.me/hayatosc/posts/oxi9cff8k2bn",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-31T03:55:45+00:00",
+      "fetched_at": "2026-10-31T15:20:25+00:00",
+      "summary": "上記で紹介している事例がほんの一部なのはわざわざ言うまでもないだろう。もはや逆にどの個人情報が漏えいしていないのか探すほうが簡単なレベルである。どこのワッパーが漏らしたのか知らないが自分のところにも早速迷惑メールが送られてきた。 さて、こんな時代なのだから、個人のセキュリティも向上させることが急務...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cdef0dc4b4df0e6ac793"
+    },
+    {
       "title": "喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議 審査員は「本人が描画した」と判断 - モデルプレス",
       "url": "https://mdpr.jp/news/detail/4862863",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1173,7 +1215,29 @@
       "id": "060db575a507c83d99b2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント時代で生き残るために。｜hayatosc",
+      "url": "https://sizu.me/hayatosc/posts/oxi9cff8k2bn",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-31T03:55:45+00:00",
+      "fetched_at": "2026-10-31T15:20:25+00:00",
+      "summary": "上記で紹介している事例がほんの一部なのはわざわざ言うまでもないだろう。もはや逆にどの個人情報が漏えいしていないのか探すほうが簡単なレベルである。どこのワッパーが漏らしたのか知らないが自分のところにも早速迷惑メールが送られてきた。 さて、こんな時代なのだから、個人のセキュリティも向上させることが急務...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cdef0dc4b4df0e6ac793"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
