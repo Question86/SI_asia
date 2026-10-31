@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-10-31T07:03:58+00:00_
+_Generiert: 2026-10-31T07:16:50+00:00_
 
 ## expo/skills
 
