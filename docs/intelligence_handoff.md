@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-31T03:12:24Z_
+_Generated: 2026-10-31T03:20:53Z_
 
 ## Lageurteil
 
@@ -20,19 +20,19 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 ### もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準
 
-- Band: `strong` (raw `krass`)
+- Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
 - Published: `2026-10-31T02:47:33+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +2, high terms: cvss, cvss, cvss, security high-signal: cvss, cvss, cvss, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Warum: momentum delta +3, high terms: cvss, cvss, cvss, security high-signal: cvss, cvss, cvss, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html
 
 ### GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-31T00:29:57+00:00` / age_days `0.11`
+- Published: `2026-10-31T00:29:57+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: active
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-31T02:58:56.040+00:00` / age_days `0.01`
+- Published: `2026-10-31T02:58:56.040+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-31T01:00:34.040+00:00` / age_days `0.09`
+- Published: `2026-10-31T01:00:34.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-10-31T01:02:54+00:00` / age_days `0.09`
+- Published: `2026-10-31T01:02:54+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -70,10 +70,10 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 ### M 4.5 - central Mid-Atlantic Ridge
 
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.4`
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `11.5`
 - Published: `2026-10-31T03:02:58+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-30T22:33:17+00:00` / age_days `0.19`
+- Published: `2026-10-30T22:33:17+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: active
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-10-31T01:02:54+00:00` / age_days `0.09`
+- Published: `2026-10-31T01:02:54+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,10 +112,10 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-09-03T00:15:45+00:00` / age_days `58.12`
+- Published: `2026-09-03T00:15:45+00:00` / age_days `58.13`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 0.60, single-source AI hype brake -8.0, aging penalty -8.0 for 58.1d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 0.57, single-source AI hype brake -8.0, aging penalty -8.0 for 58.1d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://takoratta.hatenablog.com/entry/rememberrdp
 
 ### RDPとターミナルサーバーの思い出 - Nothing ventured, nothing gained.
