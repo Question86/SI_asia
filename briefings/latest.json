@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T19:11:46+00:00",
-  "run_id": "2026-10-31T19:11:46+00:00",
+  "generated_at": "2026-10-31T19:21:23+00:00",
+  "run_id": "2026-10-31T19:21:23+00:00",
   "date": "2026-10-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1361,45 +1361,7 @@
       "id": "060db575a507c83d99b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.5 - 111 km ESE of Atka, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuk4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-31T19:08:59.040+00:00",
-      "fetched_at": "2026-10-31T19:11:13+00:00",
-      "summary": "ShakeMap - III Time 2026-10-31 18:51:02 UTC 2026-10-31 18:51:02 UTC at epicenter Location 51.699°N 172.793°W Depth 44.87 km (27.88 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "b911cfc17095f18ec26e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
