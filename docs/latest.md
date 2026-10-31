@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-31T08:02:45+00:00_
+_Generiert: 2026-10-31T08:19:20+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „expo/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+13 neue relevante Treffer. Stärkstes Signal: „expo/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
