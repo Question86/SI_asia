@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T14:01:52+00:00",
+  "generated_at": "2026-10-31T14:15:11+00:00",
   "candidate_count": 2506,
   "candidates": [
     {
@@ -50063,22 +50063,25 @@
       "source_url": "https://mdpr.jp/news/detail/4862863"
     },
     {
-      "candidate_id": "cand_c72a07e0747499eab10f",
-      "event_id": "evt_bcf43ffe75ec61359fa4",
-      "source_url": "https://mdpr.jp/news/detail/4862863",
-      "observed_at": "2026-10-31T14:01:51+00:00",
-      "currency": "USD",
       "amount_native": 2.0,
       "amount_usd": 2.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_bcf43ffe75ec61359fa4:unclassified",
       "attribution_probability": null,
-      "snippet": "�dӮ}� �m�{��3�~{{�&ݮ|���ˋeE��(��� SpWȬګ��\"3i���I��)��.G�\u000f^�˩e�SV��;t�\u000e�����\u000fỳgg�������`۶�� -{����vȸc��}�M��\u0001�n]N\u0015���T��2/��j� }L+�OH\u0017��i ��N�R9�\u0005���Xď�����\u0018 NF'�/��E�Թa��!\u0007�c�߻\u0013P $2����3�,�����UZR@�u�Ȥ'd\u0019�q��\b�]�(΂4z ξ��\u0018�b�> >�S�5I\u0016���A�cX|�R��u�$ $��(�|�\u0002i�o �� �w7����\u0007���{z�r�{#{�n��ж{k��к�m:P��۳.���Bj*O Y�K �?}�\u0018?�W�JFѻ\u0011i>��P8\u0019\u00042j�}\u0019SE\u0018�1����s�p rP#Ƈ�=C�[",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.35,
-      "review_status": "pending"
+      "candidate_id": "cand_c72a07e0747499eab10f",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_bcf43ffe75ec61359fa4",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-10-31T14:01:51+00:00",
+      "overlap_group_suggestion": "evt_bcf43ffe75ec61359fa4:unknown:6f9ea274f54f",
+      "review_status": "pending",
+      "snippet": "�dӮ}� �m�{��3�~{{�&ݮ|���ˋeE��(��� SpWȬګ��\"3i���I��)��.G�\u000f^�˩e�SV��;t�\u000e�����\u000fỳgg�������`۶�� -{����vȸc��}�M��\u0001�n]N\u0015���T��2/��j� }L+�OH\u0017��i ��N�R9�\u0005���Xď�����\u0018 NF'�/��E�Թa��!\u0007�c�߻\u0013P $2����3�,�����UZR@�u�Ȥ'd\u0019�q��\b�]�(΂4z ξ��\u0018�b�> >�S�5I\u0016���A�cX|�R��u�$ $��(�|�\u0002i�o �� �w7����\u0007���{z�r�{#{�n��ж{k��к�m:P��۳.���Bj*O Y�K �?}�\u0018?�W�JFѻ\u0011i>��P8\u0019\u00042j�}\u0019SE\u0018�1����s�p rP#Ƈ�=C�[",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://mdpr.jp/news/detail/4862863"
     },
     {
       "amount_native": 1.5,
