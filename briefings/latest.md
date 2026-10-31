@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-31T10:30:36+00:00_
+_Generiert: 2026-10-31T10:46:46+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-10-31T10:30:36+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown].
+- **GDACS: Green flood alert in Bhutan** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104265)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Bhutan
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574467)
   - Quelle: GDACS
   - Zeit: ``
