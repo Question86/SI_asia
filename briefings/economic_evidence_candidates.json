@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T08:27:25+00:00",
+  "generated_at": "2026-10-31T08:35:42+00:00",
   "candidate_count": 2496,
   "candidates": [
     {
@@ -49397,22 +49397,25 @@
       "source_url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640"
     },
     {
-      "candidate_id": "cand_6a6ac64293ec200234ab",
-      "event_id": "evt_bcf43ffe75ec61359fa4",
-      "source_url": "https://mdpr.jp/news/detail/4862863",
-      "observed_at": "2026-10-31T08:27:23+00:00",
-      "currency": "USD",
       "amount_native": 3.0,
       "amount_usd": 3.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_bcf43ffe75ec61359fa4:unclassified",
       "attribution_probability": null,
-      "snippet": "i���^�^�|,M]� 3 �K�!eP�]/�/���\u0014�\u0006nH��T~��%�N�(�S�3�_�q\\h��5H��j��/\u0003�L���5�/r����y\u0007j���e�I�L�\u0005E�#Qv\u0016\u0017�H�� *e��l�\u0005�?��%h\u0000\b\u0013\u0006Xk��r�Ub��\u001b(\\I\u001b�{��j���e �W����_�E ����7�p>�]3��?��C���4�$3��cddv X~T��͒�2�uT5F�\u0014\u001b�� zg�\\�3*`\\_uq���\u001a)`��Z���E�de�3,w���h���՟�9[.^��\u0012?\u0002G��A7��5mom�w \u0014t�}�]�B /�^! �\u000e 2֫+��Ƕ���ټk��]�0ԝ;wo�h���ܸiksS��yF�w��)�� �\\1��\u0018�\u000f�@���^ �\"\":T�\u0010ޏg- \u0010� ��",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.35,
-      "review_status": "pending"
+      "candidate_id": "cand_6a6ac64293ec200234ab",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_bcf43ffe75ec61359fa4",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-10-31T08:27:23+00:00",
+      "overlap_group_suggestion": "evt_bcf43ffe75ec61359fa4:unknown:b0a322e7ac2e",
+      "review_status": "pending",
+      "snippet": "i���^�^�|,M]� 3 �K�!eP�]/�/���\u0014�\u0006nH��T~��%�N�(�S�3�_�q\\h��5H��j��/\u0003�L���5�/r����y\u0007j���e�I�L�\u0005E�#Qv\u0016\u0017�H�� *e��l�\u0005�?��%h\u0000\b\u0013\u0006Xk��r�Ub��\u001b(\\I\u001b�{��j���e �W����_�E ����7�p>�]3��?��C���4�$3��cddv X~T��͒�2�uT5F�\u0014\u001b�� zg�\\�3*`\\_uq���\u001a)`��Z���E�de�3,w���h���՟�9[.^��\u0012?\u0002G��A7��5mom�w \u0014t�}�]�B /�^! �\u000e 2֫+��Ƕ���ټk��]�0ԝ;wo�h���ܸiksS��yF�w��)�� �\\1��\u0018�\u000f�@���^ �\"\":T�\u0010ޏg- \u0010� ��",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://mdpr.jp/news/detail/4862863"
     },
     {
       "amount_native": 2.73,
