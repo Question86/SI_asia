@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-31T09:20:31Z",
+  "generated_at": "2026-10-31T09:36:40Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 28,
+    "dynamics": 30,
     "bands": {
       "extreme": 1,
       "krass": 1,
       "strong": 5,
-      "watch": 10,
-      "quiet": 11
+      "watch": 11,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 10,
-      "quiet": 11
+      "watch": 11,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T09:16:56+00:00",
-      "age_days": 1.0,
+      "age_days": 1.01,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://github.com/expo/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:56:35+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -78,7 +78,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:56:35+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -104,7 +104,7 @@
       "url": "https://github.com/expo/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:57:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -131,7 +131,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T02:47:33+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -158,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T03:33:42.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -183,7 +183,7 @@
       "url": "https://note.com/happy_dahlia405/n/n1b16c06e71e6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T06:33:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -207,7 +207,7 @@
       "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T00:29:57+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -232,7 +232,7 @@
       "url": "https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T08:02:47+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -258,7 +258,7 @@
       "url": "https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T05:49:07+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -278,11 +278,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - 213 km W of Sola, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-31T09:32:22.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-31 09:15:52 UTC 2026-10-31 09:15:52 UTC at epicenter Location 13.768°S 165.583°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - central Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T02:58:56.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -307,7 +332,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T01:00:34.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -332,7 +357,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T03:02:58+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -356,7 +381,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T01:02:54+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -380,7 +405,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:57:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -406,7 +431,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 46.91,
+      "age_days": 46.92,
       "topics": [
         "general"
       ],
@@ -427,28 +452,26 @@
       "summary": ""
     },
     {
-      "title": "GMO不正侵入、システム脆弱性を2年前に把握 子会社指摘も対策後手 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 134.3,
+      "title": "M 4.9 - 213 km W of Sola, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-31T09:32:57+00:00",
+      "age_days": 0.0,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.69,
+      "dynamics_score": 13.4,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 134.3d old signal"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -457,7 +480,7 @@
       "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T22:33:17+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -481,7 +504,7 @@
       "url": "https://note.com/happy_dahlia405/n/n1b16c06e71e6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T01:30:40+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -503,11 +526,36 @@
       "summary": "はじめに精神的にもう無理、というときに開くためのWebページを作りました。 https://ogawahideto.github.io/genai/genkai/ Claude Code（Claude Opus 5.5）に頼んだときのプロンプトはこれです。 精神的に無理な時に見るサイトを作ってください。簡単に理解を示したら請けいられるとか、安易なやさしい言葉はやめてくだ..."
     },
     {
+      "title": "GMO不正侵入、システム脆弱性を2年前に把握 子会社指摘も対策後手 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T02:10:07+00:00",
+      "age_days": 134.31,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 134.3d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と発言。DRAMはクラウドに集約すべきと主張",
       "url": "https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T02:56:44+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -532,7 +580,7 @@
       "url": "https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T02:15:33+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -556,7 +604,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T08:05:25+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -580,7 +628,7 @@
       "url": "https://mdpr.jp/news/detail/4862863",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T08:19:22+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -606,7 +654,7 @@
       "url": "https://codezine.jp/article/detail/30081",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T01:02:54+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -632,7 +680,7 @@
       "url": "https://codezine.jp/article/detail/30081",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T04:00:20+00:00",
-      "age_days": 1.22,
+      "age_days": 1.23,
       "topics": [
         "ai"
       ],
@@ -658,7 +706,7 @@
       "url": "https://takoratta.hatenablog.com/entry/rememberrdp",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T00:15:45+00:00",
-      "age_days": 58.38,
+      "age_days": 58.39,
       "topics": [
         "ai"
       ],
@@ -685,7 +733,7 @@
       "url": "https://mdpr.jp/news/detail/4862863",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T02:23:28+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -710,7 +758,7 @@
       "url": "https://takoratta.hatenablog.com/entry/rememberrdp",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T10:00:58+00:00",
-      "age_days": 0.97,
+      "age_days": 0.98,
       "topics": [
         "ai"
       ],
