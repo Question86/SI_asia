@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-31T06:49:44+00:00_
+_Generiert: 2026-10-31T06:57:03+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „M 4.6 - Izu Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+11 neue relevante Treffer. Stärkstes Signal: „expo/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **expo/skills** — Score 23, opportunity — [Quelle](https://github.com/expo/skills)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-31T06:56:35+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Content-Chance, GitHub Trending, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: A collection of AI agent skills for working with Expo projects and Expo Application Services Expo Skills Official AI agent skills from the Expo team for building, deploying, upgrading, and debugging Expo apps. How It Works Skills give AI agents focused Expo knowledge: when to use Expo APIs, how to structure common workflows, and which Expo, EAS, React Native, iOS, and Android constraints matter. Expo documentation,…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.6 - Izu Islands, Japan region** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-31T03:33:42.040+00:00`, fetched `2026-10-31T03:33:31+00:00`
@@ -21,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-31 03:14:13 UTC 2026-10-31 03:14:13 UTC at epicenter Location 30.910°N 142.519°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **CopilotKit/OpenBot** — Score 14, observation — [Quelle](https://github.com/CopilotKit/OpenBot)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-31T06:56:35+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. https://www.copilotkit.ai/openbot OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything about it. Any agen…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -72,7 +90,9 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
