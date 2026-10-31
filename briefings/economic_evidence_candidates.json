@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T08:03:24+00:00",
+  "generated_at": "2026-10-31T08:19:48+00:00",
   "candidate_count": 2495,
   "candidates": [
     {
@@ -39679,22 +39679,23 @@
       "source_url": "https://www.47news.jp/14868281.html"
     },
     {
-      "candidate_id": "cand_5cd95f190848f030fabf",
-      "event_id": "evt_df346118b06d13d5f521",
-      "source_url": "https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/",
-      "observed_at": "2026-10-31T08:03:19+00:00",
-      "currency": "JPY",
       "amount_native": 169673.0,
       "amount_usd": null,
-      "conversion_status": "pending_fx",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_df346118b06d13d5f521:unclassified",
       "attribution_probability": null,
-      "snippet": "るのは CXMTの増産と大手の新工場の生産が効いてくる2028年 からと言われています。PC向けのDDR5が値下がりに向かうのも早くてその頃からで、それまではPCのメモリよりデータセンター向けが優先される状態が続きそうです。 関連商品 ASUS GeForce RTX 5070 (DUAL-RTX5070-O12G) 国内正規品 ASUS Amazon価格 ¥ 169,673 2026/10/31 更新 Amazon ソース Why Sam Altman is against a single superintelligence | Cheeky Pint PCパーツ URLをコピーしました！ URLをコピーしました！ iPhone Air 2はバッテリー約11%増量でもさらに薄型化。カメラは超広角が追加され2眼化へ GeForc",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.35,
-      "review_status": "pending"
+      "candidate_id": "cand_5cd95f190848f030fabf",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "JPY",
+      "event_id": "evt_df346118b06d13d5f521",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-31T08:03:19+00:00",
+      "overlap_group_suggestion": "evt_df346118b06d13d5f521:unknown:8ac260ee6c0d",
+      "review_status": "pending",
+      "snippet": "るのは CXMTの増産と大手の新工場の生産が効いてくる2028年 からと言われています。PC向けのDDR5が値下がりに向かうのも早くてその頃からで、それまではPCのメモリよりデータセンター向けが優先される状態が続きそうです。 関連商品 ASUS GeForce RTX 5070 (DUAL-RTX5070-O12G) 国内正規品 ASUS Amazon価格 ¥ 169,673 2026/10/31 更新 Amazon ソース Why Sam Altman is against a single superintelligence | Cheeky Pint PCパーツ URLをコピーしました！ URLをコピーしました！ iPhone Air 2はバッテリー約11%増量でもさらに薄型化。カメラは超広角が追加され2眼化へ GeForc",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/"
     },
     {
       "amount_native": 103000.0,
