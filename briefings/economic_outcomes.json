@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T21:35:23+00:00",
+  "generated_at": "2026-10-31T21:42:55+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -5126,7 +5126,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_38e4dab4a8bd0197b5dd",
@@ -6579,6 +6579,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_48a272475c1f467d6019",
+      "title": "M 5.0 - 115 km SE of Bushehr, Iran",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_48a3dd56747959cfd25a",
