@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T11:29:02+00:00",
+  "generated_at": "2026-10-31T11:45:02+00:00",
   "candidate_count": 2504,
   "candidates": [
     {
@@ -50021,22 +50021,25 @@
       "source_url": "https://mdpr.jp/news/detail/4862863"
     },
     {
-      "candidate_id": "cand_56ef51d3d69abd547649",
-      "event_id": "evt_bcf43ffe75ec61359fa4",
-      "source_url": "https://mdpr.jp/news/detail/4862863",
-      "observed_at": "2026-10-31T11:29:00+00:00",
-      "currency": "USD",
       "amount_native": 2.0,
       "amount_usd": 2.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_bcf43ffe75ec61359fa4:unclassified",
       "attribution_probability": null,
-      "snippet": "A��\u0000y/�\u0019�\u0018�{0�\u0018����#�=����\u000et�\b ����[ �і氻�o�/\u0007� ���KO3٭L���\u000e+����Ü ���\u0010��5f��J�xB\\X�?�Ɛo;1۳{|I82Q%����\u0006Y� N=��c�D��Q�P�K�\u0000���܃������\u0019\u0015 ?\u0017�����Q��}\u0012��07.b�?ѱ�����]M��+z\u0018�r\u0005�,)Ҝ\u0006�=#�$2*6\u00055\u0013{�3�Q�k�;�)\\�{��N ���ٯ�xg��~3�+q�Z� \u0006����FM��)�Zf��|�ԅI�:�ő@�V�A���^M����&�f �TZ E{0?\u0014�՗ \u0014\u000e��uY̝�V����ݽO�7񮮃�]��v�\u000eow�B��Ȫ�\u0019��8Y\u0019'۴�\u0011 \\�i�\u001bO�w��3P�ﯧ� +����8/J � � ��>x�~t O؛ �",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.35,
-      "review_status": "pending"
+      "candidate_id": "cand_56ef51d3d69abd547649",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_bcf43ffe75ec61359fa4",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-10-31T11:29:00+00:00",
+      "overlap_group_suggestion": "evt_bcf43ffe75ec61359fa4:unknown:8eb2d3252451",
+      "review_status": "pending",
+      "snippet": "A��\u0000y/�\u0019�\u0018�{0�\u0018����#�=����\u000et�\b ����[ �і氻�o�/\u0007� ���KO3٭L���\u000e+����Ü ���\u0010��5f��J�xB\\X�?�Ɛo;1۳{|I82Q%����\u0006Y� N=��c�D��Q�P�K�\u0000���܃������\u0019\u0015 ?\u0017�����Q��}\u0012��07.b�?ѱ�����]M��+z\u0018�r\u0005�,)Ҝ\u0006�=#�$2*6\u00055\u0013{�3�Q�k�;�)\\�{��N ���ٯ�xg��~3�+q�Z� \u0006����FM��)�Zf��|�ԅI�:�ő@�V�A���^M����&�f �TZ E{0?\u0014�՗ \u0014\u000e��uY̝�V����ݽO�7񮮃�]��v�\u000eow�B��Ȫ�\u0019��8Y\u0019'۴�\u0011 \\�i�\u001bO�w��3P�ﯧ� +����8/J � � ��>x�~t O؛ �",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://mdpr.jp/news/detail/4862863"
     },
     {
       "amount_native": 1.5,
