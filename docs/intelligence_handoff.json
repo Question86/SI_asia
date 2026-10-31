@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-31T19:09:16Z",
+  "generated_at": "2026-10-31T19:36:10Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T09:16:56+00:00",
-      "age_days": 1.41,
+      "age_days": 1.43,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://github.com/expo/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:56:35+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -69,7 +69,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:56:35+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
@@ -95,7 +95,7 @@
       "url": "https://github.com/expo/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:57:05+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
@@ -122,7 +122,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T02:47:33+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -149,7 +149,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T03:33:42.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -174,7 +174,7 @@
       "url": "https://note.com/happy_dahlia405/n/n1b16c06e71e6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T06:33:29+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -198,7 +198,7 @@
       "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T00:29:57+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "general"
       ],
@@ -219,11 +219,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - 111 km ESE of Atka, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuk4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-31T19:08:59.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "ShakeMap - III Time 2026-10-31 18:51:02 UTC 2026-10-31 18:51:02 UTC at epicenter Location 51.699°N 172.793°W Depth 44.87 km (27.88 mi)"
+    },
+    {
       "title": "OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と発言。DRAMはクラウドに集約すべきと主張",
       "url": "https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T08:02:47+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -249,7 +274,7 @@
       "url": "https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T05:49:07+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -273,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T16:16:27.616+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -292,31 +317,6 @@
         "high terms: 10"
       ],
       "summary": "DYFI? - V Time 2026-10-31 15:50:18 UTC 2026-10-31 15:50:18 UTC at epicenter Location 7.569°N 80.255°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - 196 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuif",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-31T11:47:21.040+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-31 11:31:12 UTC 2026-10-31 11:31:12 UTC at epicenter Location 13.907°S 165.676°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
