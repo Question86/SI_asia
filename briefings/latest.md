@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-31T01:31:35+00:00_
+_Generiert: 2026-10-31T01:43:29+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 97 km ENE of Port-Olry, Vanuatu“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+4 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 97 km ENE of Port-Olry, Vanuatu“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -82,6 +82,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について解説しました。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **RDPとターミナルサーバーの思い出 - Nothing ventured, nothing gained.** — Score 5, observation — [Quelle](https://takoratta.hatenablog.com/entry/rememberrdp)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-30T10:00:58+00:00`, fetched `2026-10-31T01:42:58+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: GMOインターネットの「お名前.comデスクトップクラウド」で不正アクセスがあった。WindowsのVPSで、FXの自動売買などに使う人が多いサービスだそうだ。そのニュースを追っていたら、RDPという名前が出てきた。リモートデスクトップのドライブ共有を使って利用者のPCからデータを抜いた、と攻撃者が主張しているらしい。G...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **エンジニアが「勝手に育つ時代」は終わった ～エンジニアを育ててきた装置はAIで壊れた～** — Score 5, observation — [Quelle](https://codezine.jp/article/detail/30081)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

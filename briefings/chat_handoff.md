@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-31T01:31:35+00:00_
+_Generated: 2026-10-31T01:43:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `4`
 
 ## Top Signals
 
@@ -22,7 +22,14 @@ _Generated: 2026-10-31T01:31:35+00:00_
 - url: https://note.activetk.jp/hacks/onamae-desktop-cloud-v3
 - summary: GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について解説しました。
 
-### 3. エンジニアが「勝手に育つ時代」は終わった ～エンジニアを育ててきた装置はAIで壊れた～
+### 3. RDPとターミナルサーバーの思い出 - Nothing ventured, nothing gained.
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-10-30T10:00:58+00:00`
+- url: https://takoratta.hatenablog.com/entry/rememberrdp
+- summary: GMOインターネットの「お名前.comデスクトップクラウド」で不正アクセスがあった。WindowsのVPSで、FXの自動売買などに使う人が多いサービスだそうだ。そのニュースを追っていたら、RDPという名前が出てきた。リモートデスクトップのドライブ共有を使って利用者のPCからデータを抜いた、と攻撃者が主張しているらしい。G...
+
+### 4. エンジニアが「勝手に育つ時代」は終わった ～エンジニアを育ててきた装置はAIで壊れた～
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-30T04:00:20+00:00`
