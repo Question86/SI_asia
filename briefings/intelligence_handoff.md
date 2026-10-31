@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-31T23:20:54Z_
+_Generated: 2026-10-31T23:50:12Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.
+Stärkste Dynamik nach Gate-Recheck: “M 6.0 - 58 km SSE of Shima, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.
 
 ## Top Dynamics
+
+### M 6.0 - 58 km SSE of Shima, Japan
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.5`
+- Published: `2026-10-31T22:46:45+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku
 
 ### もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-10-30T09:16:56+00:00` / age_days `1.59`
+- Published: `2026-10-30T09:16:56+00:00` / age_days `1.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: cvss, 10, cvss, security high-signal: cvss, 10, cvss, cvss
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-31T06:56:35+00:00` / age_days `0.68`
+- Published: `2026-10-31T06:56:35+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-31T06:56:35+00:00` / age_days `0.68`
+- Published: `2026-10-31T06:56:35+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-31T06:57:05+00:00` / age_days `0.68`
+- Published: `2026-10-31T06:57:05+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-31T02:47:33+00:00` / age_days `0.86`
+- Published: `2026-10-31T02:47:33+00:00` / age_days `0.88`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: cvss, cvss, cvss, security high-signal: cvss, cvss, cvss, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,27 +72,17 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-31T22:45:11.965+00:00` / age_days `0.02`
+- Published: `2026-10-31T22:45:11.965+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku
-
-### M 6.0 - 58 km SSE of Shima, Japan
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `24.0`
-- Published: `2026-10-31T22:46:45+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku
 
 ### M 4.6 - Izu Islands, Japan region
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-31T03:33:42.040+00:00` / age_days `0.82`
+- Published: `2026-10-31T03:33:42.040+00:00` / age_days `0.84`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-10-31T06:33:29+00:00` / age_days `0.7`
+- Published: `2026-10-31T06:33:29+00:00` / age_days `0.72`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-31T00:29:57+00:00` / age_days `0.95`
+- Published: `2026-10-31T00:29:57+00:00` / age_days `0.97`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: active
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-31T19:08:59.040+00:00` / age_days `0.17`
+- Published: `2026-10-31T19:08:59.040+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-31T08:02:47+00:00` / age_days `0.64`
+- Published: `2026-10-31T08:02:47+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck

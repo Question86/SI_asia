@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-31T23:20:54Z",
+  "generated_at": "2026-10-31T23:50:12Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,22 +9,46 @@
       "extreme": 1,
       "krass": 1,
       "strong": 7,
-      "watch": 30,
-      "quiet": 1
+      "watch": 29,
+      "quiet": 2
     },
     "bands_after_gate_recheck": {
       "strong": 9,
-      "watch": 30,
-      "quiet": 1
+      "watch": 29,
+      "quiet": 2
     }
   },
   "top_dynamics": [
+    {
+      "title": "M 6.0 - 58 km SSE of Shima, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-31T22:46:45+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
     {
       "title": "もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T09:16:56+00:00",
-      "age_days": 1.59,
+      "age_days": 1.61,
       "topics": [
         "ai"
       ],
@@ -49,7 +73,7 @@
       "url": "https://github.com/expo/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:56:35+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "ai",
         "macro"
@@ -78,7 +102,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:56:35+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -104,7 +128,7 @@
       "url": "https://github.com/expo/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:57:05+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -131,7 +155,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T02:47:33+00:00",
-      "age_days": 0.86,
+      "age_days": 0.88,
       "topics": [
         "general"
       ],
@@ -158,7 +182,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T22:45:11.965+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -180,35 +204,11 @@
       "summary": "PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-10-31 22:15:02 UTC 2026-10-31 22:15:02 UTC at epicenter Location 33.822°N 136.985°E Depth 352.45 km (219.00 mi)"
     },
     {
-      "title": "M 6.0 - 58 km SSE of Shima, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-31T22:46:45+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.6 - Izu Islands, Japan region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T03:33:42.040+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "disaster"
       ],
@@ -233,7 +233,7 @@
       "url": "https://note.com/happy_dahlia405/n/n1b16c06e71e6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T06:33:29+00:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "general"
       ],
@@ -257,7 +257,7 @@
       "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T00:29:57+00:00",
-      "age_days": 0.95,
+      "age_days": 0.97,
       "topics": [
         "general"
       ],
@@ -282,7 +282,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuk4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T19:08:59.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -307,7 +307,7 @@
       "url": "https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T08:02:47+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -333,7 +333,7 @@
       "url": "https://zenn.dev/kauche/articles/f3736c660aab77",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T22:14:33+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -360,7 +360,7 @@
       "url": "https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T05:49:07+00:00",
-      "age_days": 0.73,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -384,7 +384,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T23:11:08.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -409,7 +409,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T21:35:56.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -434,7 +434,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T16:16:27.616+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -459,7 +459,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuif",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T11:47:21.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -484,7 +484,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T09:40:35.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
@@ -509,7 +509,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T09:32:22.040+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -534,7 +534,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T02:58:56.040+00:00",
-      "age_days": 0.85,
+      "age_days": 0.87,
       "topics": [
         "disaster"
       ],
@@ -559,7 +559,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T01:00:34.040+00:00",
-      "age_days": 0.93,
+      "age_days": 0.95,
       "topics": [
         "disaster"
       ],
@@ -580,11 +580,35 @@
       "summary": "Time 2026-10-31 00:26:35 UTC 2026-10-31 00:26:35 UTC at epicenter Location 14.809°S 167.948°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.2 - 200 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-31T23:13:47+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.0 - 115 km SE of Bushehr, Iran",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T21:42:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -608,7 +632,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T16:19:16+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -632,7 +656,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuif",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T11:59:59+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -656,7 +680,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T09:47:44+00:00",
-      "age_days": 0.56,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -680,7 +704,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T09:32:57+00:00",
-      "age_days": 0.57,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -704,7 +728,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T03:02:58+00:00",
-      "age_days": 0.85,
+      "age_days": 0.87,
       "topics": [
         "general"
       ],
@@ -728,7 +752,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T01:02:54+00:00",
-      "age_days": 0.93,
+      "age_days": 0.95,
       "topics": [
         "general"
       ],
@@ -752,7 +776,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:57:05+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -778,7 +802,7 @@
       "url": "https://www.techno-edge.net/article/2026/10/31/5657.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T07:41:11+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "ai"
       ],
@@ -804,7 +828,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 47.49,
+      "age_days": 47.51,
       "topics": [
         "general"
       ],
@@ -825,37 +849,11 @@
       "summary": ""
     },
     {
-      "title": "あのさ、 10万20万するiPhoneと 数千から2万程度のAndroidスマホを 比較してAndroidあかん！ って言うのやめてもらっていいですか？→「かれこれ15年近く色々使ってきたけど、今使ってるPixel 10aを越えるコスパのものは無いな」",
-      "url": "https://posfie.com/@petaritape/p/RxOQKQU",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-20T09:40:46+00:00",
-      "age_days": 41.57,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.3,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10",
-        "aging penalty -7.2 for 41.6d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "GeoJSON入門 JSONで地図の点・線・面を表す仕組み - 一色政彦の技術ノート",
       "url": "https://blog.masahiko.info/entry/2026/10/31/113000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T21:18:59+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -879,7 +877,7 @@
       "url": "https://2arctan-1.hatenablog.com/entry/2026/10/31/125102",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T12:42:50+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -903,7 +901,7 @@
       "url": "https://krgn1002.com/2026/10/thoughts-on-the-new-macbook-pro-with-proled-xdr-display/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T12:57:25+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -923,35 +921,11 @@
       "summary": ""
     },
     {
-      "title": "M 5.2 - 200 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-31T23:13:47+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Appleがペニスのサイズを嘲笑しているとの懸念からか韓国でiPad miniの広告を修正",
       "url": "https://gigazine.net/news/20261030-ipad-mini-korea-remove-gesture/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T04:43:45+00:00",
-      "age_days": 1.78,
+      "age_days": 1.8,
       "topics": [
         "general"
       ],
@@ -975,7 +949,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261031de69024",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-06T05:49:53+00:00",
-      "age_days": 25.73,
+      "age_days": 25.75,
       "topics": [
         "general"
       ],
@@ -991,7 +965,33 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -1.7 for 25.7d old signal"
+        "aging penalty -1.7 for 25.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "あのさ、 10万20万するiPhoneと 数千から2万程度のAndroidスマホを 比較してAndroidあかん！ って言うのやめてもらっていいですか？→「かれこれ15年近く色々使ってきたけど、今使ってるPixel 10aを越えるコスパのものは無いな」",
+      "url": "https://posfie.com/@petaritape/p/RxOQKQU",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-20T09:40:46+00:00",
+      "age_days": 41.59,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.79,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10",
+        "aging penalty -7.2 for 41.6d old signal"
       ],
       "summary": ""
     },
@@ -1000,7 +1000,7 @@
       "url": "https://www.techno-edge.net/article/2026/10/31/5657.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T08:23:39+00:00",
-      "age_days": 62.62,
+      "age_days": 62.64,
       "topics": [
         "ai"
       ],
@@ -1023,5 +1023,5 @@
       "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 6.0 - 58 km SSE of Shima, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5."
 }
