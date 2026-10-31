@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-31T03:25:54+00:00",
+  "generated_at": "2026-10-31T03:34:04+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 0,
+    "medium": 1,
     "observe": 6
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "M 4.6 - Izu Islands, Japan region",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-31T03:33:42.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
+      "summary": "Time 2026-10-31 03:14:13 UTC 2026-10-31 03:14:13 UTC at epicenter Location 30.910°N 142.519°E Depth 10.00 km (6.21 mi)",
+      "section": "medium"
+    },
     {
       "title": "M 4.5 - central Mid-Atlantic Ridge",
       "source": "USGS M4.5+ Earthquakes Past Hour",
