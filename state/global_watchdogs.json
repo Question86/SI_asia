@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:13:47+00:00",
+  "generated_at": "2026-10-31T23:29:38+00:00",
   "sections": {
     "global_security": [
       {
@@ -91,21 +91,6 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104265",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.0 - 58 km SSE of Shima, Japan",
-        "summary": "M6.0 - 58 km SSE of Shima, Japan. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku",
-        "published_at": "2026-10-31T22:15:02+00:00",
-        "metrics": {
-          "mag": 6.0,
-          "alert": "green",
-          "sig": 557.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",

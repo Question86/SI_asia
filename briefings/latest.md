@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-31T23:13:44+00:00_
+_Generiert: 2026-10-31T23:29:35+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,6 @@ _Generiert: 2026-10-31T23:13:44+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Bhutan
-- **USGS earthquake M6.0 - 58 km SSE of Shima, Japan** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku)
-  - Quelle: USGS
-  - Zeit: `2026-10-31T22:15:02+00:00`
-  - Kurz: M6.0 - 58 km SSE of Shima, Japan. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574997)
   - Quelle: GDACS
   - Zeit: ``
