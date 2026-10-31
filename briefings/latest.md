@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-31T02:55:18+00:00_
+_Generiert: 2026-10-31T03:02:56+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 97 km ENE of Port-Olry, Vanuatu“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+6 neue relevante Treffer. Stärkstes Signal: „M 4.5 - central Mid-Atlantic Ridge“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,6 +65,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **M 4.5 - central Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-31T02:58:56.040+00:00`, fetched `2026-10-31T03:02:26+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-31 02:37:19 UTC 2026-10-31 02:37:19 UTC at epicenter Location 7.087°N 34.683°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 97 km ENE of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-31T01:00:34.040+00:00`, fetched `2026-10-31T01:02:22+00:00`
