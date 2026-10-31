@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-31T03:37:38Z",
+  "generated_at": "2026-10-31T04:11:57Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 14,
@@ -22,7 +22,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T09:16:56+00:00",
-      "age_days": 0.76,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -47,7 +47,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T02:47:33+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -74,7 +74,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T03:33:42.040+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -95,37 +95,11 @@
       "summary": "Time 2026-10-31 03:14:13 UTC 2026-10-31 03:14:13 UTC at epicenter Location 30.910°N 142.519°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "M 4.6 - Izu Islands, Japan region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 46.67,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.59,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 46.7d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note",
       "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T00:29:57+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -150,7 +124,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T02:58:56.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -175,7 +149,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T01:00:34.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -200,7 +174,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T03:02:58+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -224,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T01:02:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -244,11 +218,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.6 - Izu Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-14T11:31:15+00:00",
+      "age_days": 46.69,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 46.7d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note",
       "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T22:33:17+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -272,7 +271,7 @@
       "url": "https://codezine.jp/article/detail/30081",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T01:02:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -298,7 +297,7 @@
       "url": "https://codezine.jp/article/detail/30081",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T04:00:20+00:00",
-      "age_days": 0.98,
+      "age_days": 1.01,
       "topics": [
         "ai"
       ],
@@ -324,7 +323,7 @@
       "url": "https://takoratta.hatenablog.com/entry/rememberrdp",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T00:15:45+00:00",
-      "age_days": 58.14,
+      "age_days": 58.16,
       "topics": [
         "ai"
       ],
@@ -335,14 +334,14 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.5,
+      "baseline_z_hint": 0.37,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.50",
+        "baseline z_hint 0.37",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 58.1d old signal",
+        "aging penalty -8.0 for 58.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -352,7 +351,7 @@
       "url": "https://takoratta.hatenablog.com/entry/rememberrdp",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T10:00:58+00:00",
-      "age_days": 0.73,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
