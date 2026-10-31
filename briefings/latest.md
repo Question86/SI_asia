@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-31T23:01:56+00:00_
+_Generiert: 2026-10-31T23:13:44+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „expo/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+31 neue relevante Treffer. Stärkstes Signal: „expo/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -157,6 +157,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点） この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。 3 人のチーム「いくぜカウシェ」で ISUCON2026...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 200 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-31T23:11:08.040+00:00`, fetched `2026-10-31T23:13:14+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-31 22:42:39 UTC 2026-10-31 22:42:39 UTC at epicenter Location 13.873°S 165.646°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 115 km SE of Bushehr, Iran** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-31T21:35:56.040+00:00`, fetched `2026-10-31T21:41:44+00:00`
@@ -165,15 +174,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-31 21:20:39 UTC 2026-10-31 21:20:39 UTC at epicenter Location 28.114°N 51.508°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 4 km S of Bajo Corral, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-31T16:16:27.616+00:00`, fetched `2026-10-31T16:18:40+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - V Time 2026-10-31 15:50:18 UTC 2026-10-31 15:50:18 UTC at epicenter Location 7.569°N 80.255°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **「ここ 3 年くらいの CloudWatch アップデート について丸っと解説します」というタイトルで登壇しました #devio2026 | DevelopersIO** — Score 8, observation — [Quelle](https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

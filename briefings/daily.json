@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T23:02:00+00:00",
-  "today_file_total": 29,
+  "generated_at": "2026-10-31T23:13:47+00:00",
+  "today_file_total": 31,
   "current_clusters": [
     {
       "key": "github_repo:expo/skills",
@@ -147,6 +147,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "earthquake:m 5.2 - 200 km nw of port-olry, vanuatu:5.2",
+      "title": "M 5.2 - 200 km NW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "domain:ogawahideto.github.io",
       "title": "もう無理｜ひでと",
       "sources": [
@@ -212,29 +237,6 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:gigazine.net",
-      "title": "Appleがペニスのサイズを嘲笑しているとの懸念からか韓国でiPad miniの広告を修正",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gigazine.net/news/20261030-ipad-mini-korea-remove-gesture/"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
       "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -462,8 +464,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.nikkei.com",
-      "title": "GMO不正侵入、システム脆弱性を2年前に把握 子会社指摘も対策後手 - 日本経済新聞",
+      "key": "domain:gigazine.net",
+      "title": "Appleがペニスのサイズを嘲笑しているとの懸念からか韓国でiPad miniの広告を修正",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -471,15 +473,15 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/"
+        "https://gigazine.net/news/20261030-ipad-mini-korea-remove-gesture/"
       ],
       "finding_count": 1,
-      "max_score": 7,
+      "max_score": 8,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.1,
+      "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
