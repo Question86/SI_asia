@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T13:32:02+00:00",
+  "generated_at": "2026-10-31T13:47:02+00:00",
   "fx_as_of": null,
-  "candidate_count": 2504,
+  "candidate_count": 2505,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2504
+    "pending": 2505
   },
   "coverage_warning": null,
   "candidates": [
@@ -43687,6 +43687,27 @@
       "snippet": "法の解説記事となります。 概算ではありますが、 検索1回あたり約 $0.0002 のコストになっており、かなり多めに 10PV あたり 1 検索される想定で見積もっても 毎月 $0.016 程度で運用できる計算になります。 一度、数ドルあればおそらく数年は大丈夫と思われるコスト感です。 また、期限付きではありますが TypeSafe AI の無料クレジット $5 がある現状では、金銭負担なしで運用できています [2] 。 Jev とは Jev は TypeSafe AI が提供するモデルで、一般的な LLM と違いテキストを生成せず、型付きの値を確率や confidence とともに返します。 使い方は、コンテキストとなる state とそれに関する質問を送るだけです。 質問の形式は、選択肢から選ぶ Choice、ル",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://zenn.dev/mazrean/articles/bd9b563ace18db"
+    },
+    {
+      "amount_native": 5.0,
+      "amount_usd": 5.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_973acd0f320702a4a592",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_bcf43ffe75ec61359fa4",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-10-31T13:47:00+00:00",
+      "overlap_group_suggestion": "evt_bcf43ffe75ec61359fa4:unknown:a2f9075b83f9",
+      "review_status": "pending",
+      "snippet": "�\u0012��%�yg �?���qŸ�\u0006�F��]�F�x �U�\u001b�A�P!=���b�0\u0007ղ�,wZ�Z��n���6��h�[�V��\u0005\u001a��09]6����ue1��h�U�^��\u0018��&]n�������d�c�����D)>\u0016ߟ\u0010g\u0006I8\u00160�\u0003�@��EGr��\bη��3 ,\u0019\\xdX,=� ��Ë\\��R8) FDF���Ʊș)\\Z��t�\u00021�$5}/u�d��%:/#�z�� t\u0003'Q^\u0014/�I]��[�ҏ_�����\u0003��0։.�y*��\u0014F��I ��N����1�t������\u001b��\u0017���Ȗ$�h�fG��ǋ���Y����!�H\u0014\b�O�d~�=�d ��\u0006\u00142�h�\u0019ײ�w�� x@\u0004~�\u000f\u0007�~�8��vv��=M~��=h\b�� �l����=�����;ܳ.�����8C�q",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://mdpr.jp/news/detail/4862863",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 4.0,
