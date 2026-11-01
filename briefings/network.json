@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:26:35+00:00",
+  "generated_at": "2026-11-01T02:36:33+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 5,
@@ -87,44 +87,6 @@
       "first_seen_at": "2026-11-01T00:38:12+00:00"
     },
     {
-      "key": "domain:www.afpbb.com",
-      "title": "ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.afpbb.com/articles/-/3660265"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.42,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 10.42,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.92,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-02T20:19:20+00:00"
-    },
-    {
       "key": "earthquake:chile:4.5",
       "title": "M 4.5 - 55 km SSW of Ollagüe, Chile",
       "sources": [
@@ -164,6 +126,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-13T13:07:27+00:00"
+    },
+    {
+      "key": "domain:www.afpbb.com",
+      "title": "ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.afpbb.com/articles/-/3660265"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.38,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 10.38,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.88,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-02T20:19:20+00:00"
     },
     {
       "key": "earthquake:m 4.8 - 199 km nw of port-olry, vanuatu:4.8",
@@ -209,7 +209,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-01T02:26:35Z",
+    "generated_at": "2026-11-01T02:36:34Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
