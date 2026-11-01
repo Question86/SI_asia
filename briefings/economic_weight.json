@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T07:49:23+00:00",
+  "generated_at": "2026-11-01T07:57:34+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -779,6 +779,23 @@
       "first_seen_at": "2026-09-29T07:51:11+00:00",
       "last_seen_at": "2026-09-29T23:56:49+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6b1fce2e8cead202e432",
+      "title": "WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨|セキュリティニュースのセキュリティ対策Lab",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11600000.0,
+      "p50_usd": 1160000000.0,
+      "p90_usd": 116000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-01T07:57:15+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_c53fe4db85904ebe1307",
@@ -2448,7 +2465,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T06:58:55+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -4590,7 +4607,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T05:48:12+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -4811,7 +4828,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T13:07:27+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -5627,7 +5644,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T00:38:12+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -7361,7 +7378,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T07:35:24+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -11768,6 +11785,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_559ee67b61a6568c6244",
+      "title": "M 4.7 - 191 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-01T07:57:15+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -15590,7 +15624,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-01T07:27:16+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -17375,7 +17409,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-01T00:38:12+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -19024,7 +19058,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-01T01:59:23+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -23123,7 +23157,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -23973,7 +24007,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-01T03:41:34+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -25895,7 +25929,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:53:58+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
@@ -34005,7 +34039,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-01T06:04:48+00:00",
-      "last_seen_at": "2026-11-01T07:49:04+00:00",
+      "last_seen_at": "2026-11-01T07:57:15+00:00",
       "status": "active"
     },
     {
