@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T12:32:46+00:00_
+_Generiert: 2026-11-01T12:48:28+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,6 @@ _Generiert: 2026-11-01T12:32:46+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-28`
   - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-11-11. Broadcom VMWare ESX Insufficient Logging Vulnerability
-- **USGS earthquake M6.0 - 165 km NW of Port-Olry, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl)
-  - Quelle: USGS
-  - Zeit: `2026-11-01T11:47:03+00:00`
-  - Kurz: M6.0 - 165 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575068)
   - Quelle: GDACS
   - Zeit: ``

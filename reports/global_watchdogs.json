@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:32:50+00:00",
+  "generated_at": "2026-11-01T12:48:31+00:00",
   "sections": {
     "global_security": [
       {
@@ -60,21 +60,6 @@
         "published_at": "2026-10-28",
         "metrics": {
           "cve": "CVE-2026-41709"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.0 - 165 km NW of Port-Olry, Vanuatu",
-        "summary": "M6.0 - 165 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl",
-        "published_at": "2026-11-01T11:47:03+00:00",
-        "metrics": {
-          "mag": 6.0,
-          "alert": "green",
-          "sig": 554.0,
-          "tsunami": 0
         }
       },
       {
