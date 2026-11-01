@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-01T08:45:30+00:00_
+_Generiert: 2026-11-01T09:01:01+00:00_
 
 ## GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,
 
