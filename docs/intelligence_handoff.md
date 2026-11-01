@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-01T09:11:21Z_
+_Generated: 2026-11-01T09:21:50Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-01T02:51:00+00:00` / age_days `0.26`
+- Published: `2026-11-01T02:51:00+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T22:48:42+00:00` / age_days `1.43`
+- Published: `2026-10-30T22:48:42+00:00` / age_days `1.44`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-01T07:27:16+00:00` / age_days `0.07`
+- Published: `2026-11-01T07:27:16+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-01T07:26:38+00:00` / age_days `0.07`
+- Published: `2026-11-01T07:26:38+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -52,17 +52,17 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-01T08:29:22+00:00` / age_days `0.03`
+- Published: `2026-11-01T08:29:22+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +2, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://github.com/vercel-labs/agent-desktop
 
 ### WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨|セキュリティニュースのセキュリティ対策Lab
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-01T07:57:15+00:00` / age_days `0.05`
+- Published: `2026-11-01T07:57:15+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-11-01T06:50:28.353+00:00` / age_days `0.1`
+- Published: `2026-11-01T06:50:28.353+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-11-01T06:58:55+00:00` / age_days `0.09`
+- Published: `2026-11-01T06:58:55+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-11-01T05:48:12+00:00` / age_days `0.14`
+- Published: `2026-11-01T05:48:12+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-01T07:53:25.040+00:00` / age_days `0.05`
+- Published: `2026-11-01T07:53:25.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-01T07:29:13.040+00:00` / age_days `0.07`
+- Published: `2026-11-01T07:29:13.040+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-01T00:17:06.040+00:00` / age_days `0.37`
+- Published: `2026-11-01T00:17:06.040+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
