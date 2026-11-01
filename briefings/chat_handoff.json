@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-01T07:19:05+00:00",
+  "generated_at": "2026-11-01T07:27:11+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 1,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Donchitos/Claude-Code-Game-Studios",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 18,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74…",
+      "section": "medium"
+    },
     {
       "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
       "source": "Hatena Bookmark Hotentry IT",
