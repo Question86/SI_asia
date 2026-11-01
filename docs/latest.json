@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T06:58:51+00:00",
-  "run_id": "2026-11-01T06:58:51+00:00",
+  "generated_at": "2026-11-01T07:19:05+00:00",
+  "run_id": "2026-11-01T07:19:05+00:00",
   "date": "2026-11-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -591,46 +591,7 @@
       "id": "bf0b7f1f1638b3d8feba"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.4 - 203 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-01T06:50:28.353+00:00",
-      "fetched_at": "2026-11-01T06:58:22+00:00",
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-11-01 06:26:42 UTC 2026-11-01 06:26:42 UTC at epicenter Location 13.867°S 165.617°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "d460396943b17f670d55"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
