@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T05:48:32+00:00",
+  "generated_at": "2026-11-01T05:57:10+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -4560,6 +4560,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_aea8a1b4d17b94972a69",
+      "title": "M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-01T05:48:12+00:00",
+      "last_seen_at": "2026-11-01T05:56:48+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_b04ab8775d13596770da",
       "title": "M 4.9 - 31 km WSW of Sipí, Colombia",
       "event_classes": [
@@ -4777,7 +4794,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T13:07:27+00:00",
-      "last_seen_at": "2026-11-01T05:48:12+00:00",
+      "last_seen_at": "2026-11-01T05:56:48+00:00",
       "status": "active"
     },
     {
@@ -5000,23 +5017,6 @@
       "first_seen_at": "2026-09-29T10:50:43+00:00",
       "last_seen_at": "2026-09-29T19:18:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_aea8a1b4d17b94972a69",
-      "title": "M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-11-01T05:48:12+00:00",
-      "last_seen_at": "2026-11-01T05:48:12+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -5610,7 +5610,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T00:38:12+00:00",
-      "last_seen_at": "2026-11-01T05:48:12+00:00",
+      "last_seen_at": "2026-11-01T05:56:48+00:00",
       "status": "active"
     },
     {
@@ -17324,7 +17324,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-01T00:38:12+00:00",
-      "last_seen_at": "2026-11-01T05:48:12+00:00",
+      "last_seen_at": "2026-11-01T05:56:48+00:00",
       "status": "active"
     },
     {
@@ -18973,7 +18973,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-01T01:59:23+00:00",
-      "last_seen_at": "2026-11-01T05:48:12+00:00",
+      "last_seen_at": "2026-11-01T05:56:48+00:00",
       "status": "active"
     },
     {
@@ -23922,7 +23922,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-01T03:41:34+00:00",
-      "last_seen_at": "2026-11-01T05:48:12+00:00",
+      "last_seen_at": "2026-11-01T05:56:48+00:00",
       "status": "active"
     },
     {
@@ -25844,7 +25844,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:53:58+00:00",
-      "last_seen_at": "2026-11-01T05:48:12+00:00",
+      "last_seen_at": "2026-11-01T05:56:48+00:00",
       "status": "active"
     },
     {
