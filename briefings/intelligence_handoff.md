@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-01T06:41:13Z_
+_Generated: 2026-11-01T06:51:10Z_
 
 ## Lageurteil
 
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 71 km NNW of San Antonio de los 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-11-01T00:38:12+00:00` / age_days `0.25`
+- Published: `2026-11-01T00:38:12+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 71 km NNW of San Antonio de los 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-11-01T00:38:12+00:00` / age_days `0.25`
+- Published: `2026-11-01T00:38:12+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 71 km NNW of San Antonio de los 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-10-31T23:27:23+00:00` / age_days `0.3`
+- Published: `2026-10-31T23:27:23+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 71 km NNW of San Antonio de los 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-06-19T09:22:22+00:00` / age_days `134.89`
+- Published: `2026-06-19T09:22:22+00:00` / age_days `134.9`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 134.9d old signal
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 71 km NNW of San Antonio de los 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-10-30T10:18:57+00:00` / age_days `1.85`
+- Published: `2026-10-30T10:18:57+00:00` / age_days `1.86`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 71 km NNW of San Antonio de los 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.5`
-- Published: `2026-09-13T13:07:27+00:00` / age_days `48.73`
+- Published: `2026-09-13T13:07:27+00:00` / age_days `48.74`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 48.7d old signal
