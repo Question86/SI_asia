@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-01T11:50:32Z_
+_Generated: 2026-11-01T12:37:25Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay…” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “TVerにおけるテスト自動化の歩み - TVer Tech Blog” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.
 
 ## Top Dynamics
+
+### TVerにおけるテスト自動化の歩み - TVer Tech Blog
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `25.0`
+- Published: `2026-11-01T11:44:12+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
+- Quelle: https://techblog.tver.co.jp/entry/shiroma/history-of-test-automation
 
 ### GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay…
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-01T02:51:00+00:00` / age_days `0.37`
+- Published: `2026-11-01T02:51:00+00:00` / age_days `0.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T22:48:42+00:00` / age_days `1.54`
+- Published: `2026-10-30T22:48:42+00:00` / age_days `1.58`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-01T07:27:16+00:00` / age_days `0.18`
+- Published: `2026-11-01T07:27:16+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-01T07:26:38+00:00` / age_days `0.18`
+- Published: `2026-11-01T07:26:38+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-01T08:29:22+00:00` / age_days `0.14`
+- Published: `2026-11-01T08:29:22+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,27 +72,37 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-01T07:57:15+00:00` / age_days `0.16`
+- Published: `2026-11-01T07:57:15+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/
 
-### TVerにおけるテスト自動化の歩み - TVer Tech Blog
+### M 4.8 - 203 km NW of Port-Olry, Vanuatu
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `22.5`
-- Published: `2026-11-01T11:44:12+00:00` / age_days `0.0`
+- Dynamics score: `21.59`
+- Published: `2026-10-25T00:01:17+00:00` / age_days `7.53`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
-- Quelle: https://techblog.tver.co.jp/entry/shiroma/history-of-test-automation
+- Warum: momentum delta +3, baseline z_hint 2.90
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupq
+
+### M 6.0 - 165 km NW of Port-Olry, Vanuatu
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-11-01T12:07:14.175+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl
 
 ### M 5.4 - 203 km NW of Port-Olry, Vanuatu
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-11-01T06:50:28.353+00:00` / age_days `0.21`
+- Published: `2026-11-01T06:50:28.353+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-11-01T06:58:55+00:00` / age_days `0.2`
+- Published: `2026-11-01T06:58:55+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agen
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-11-01T05:48:12+00:00` / age_days `0.25`
+- Published: `2026-11-01T05:48:12+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy
-
-### M 4.7 - 191 km NW of Port-Olry, Vanuatu
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-11-01T07:53:25.040+00:00` / age_days `0.16`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tung
-
-### M 5.1 - 201 km NW of Port-Olry, Vanuatu
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-11-01T07:29:13.040+00:00` / age_days `0.18`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tund
 
 END OF DOCUMENT
