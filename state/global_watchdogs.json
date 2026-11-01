@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:12:37+00:00",
+  "generated_at": "2026-11-01T12:23:51+00:00",
   "sections": {
     "global_security": [
       {
@@ -76,6 +76,16 @@
           "sig": 554.0,
           "tsunami": 0
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575068",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",

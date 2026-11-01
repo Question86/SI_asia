@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T12:12:34+00:00_
+_Generiert: 2026-11-01T12:23:48+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-11-01T12:12:34+00:00_
   - Quelle: USGS
   - Zeit: `2026-11-01T11:47:03+00:00`
   - Kurz: M6.0 - 165 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575068)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.
 - **GDACS: Red notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.156 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
   - Quelle: GDACS
   - Zeit: ``
