@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-01T04:13:07Z_
+_Generated: 2026-11-01T04:21:49Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-01T00:17:06.040+00:00` / age_days `0.16`
+- Published: `2026-11-01T00:17:06.040+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-11-01T00:38:12+00:00` / age_days `0.15`
+- Published: `2026-11-01T00:38:12+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-11-01T00:38:12+00:00` / age_days `0.15`
+- Published: `2026-11-01T00:38:12+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-11-01T01:58:21.040+00:00` / age_days `0.09`
+- Published: `2026-11-01T01:58:21.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-11-01T01:59:23+00:00` / age_days `0.09`
+- Published: `2026-11-01T01:59:23+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-11-01T03:41:34+00:00` / age_days `0.02`
+- Published: `2026-11-01T03:41:34+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-31T05:05:33+00:00` / age_days `0.96`
+- Published: `2026-10-31T05:05:33+00:00` / age_days `0.97`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -111,18 +111,18 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 ### ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `2.32`
-- Published: `2026-09-02T20:19:20+00:00` / age_days `59.33`
+- Dynamics score: `2.21`
+- Published: `2026-09-02T20:19:20+00:00` / age_days `59.34`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 1.20, single-source AI hype brake -8.0, aging penalty -8.0 for 59.3d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 1.10, single-source AI hype brake -8.0, aging penalty -8.0 for 59.3d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://www.afpbb.com/articles/-/3660265
 
 ### streamAppendHTML() で AI の回答を HTML のままストリーミング描画する
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `1.0`
-- Published: `2026-10-31T23:34:46+00:00` / age_days `0.19`
+- Published: `2026-10-31T23:34:46+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
