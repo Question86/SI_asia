@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T21:46:11+00:00",
-  "run_id": "2026-11-01T21:46:11+00:00",
+  "generated_at": "2026-11-01T22:00:39+00:00",
+  "run_id": "2026-11-01T22:00:39+00:00",
   "date": "2026-11-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 1,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 7,
-    "observe": 27,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -649,6 +649,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "87765921769997bedde6"
+      },
+      {
+        "title": "M 4.7 - Kermadec Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turj",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-01T21:58:58.040+00:00",
+        "fetched_at": "2026-11-01T21:59:51+00:00",
+        "summary": "Time 2026-11-01 21:26:57 UTC 2026-11-01 21:26:57 UTC at epicenter Location 27.291°S 177.871°W Depth 150.95 km (93.80 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "69c4616a193486e98d57"
       },
       {
         "title": "M 5.1 - South Sandwich Islands region",
@@ -1701,6 +1737,42 @@
       "id": "87765921769997bedde6"
     },
     {
+      "title": "M 4.7 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-01T21:58:58.040+00:00",
+      "fetched_at": "2026-11-01T21:59:51+00:00",
+      "summary": "Time 2026-11-01 21:26:57 UTC 2026-11-01 21:26:57 UTC at epicenter Location 27.291°S 177.871°W Depth 150.95 km (93.80 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "69c4616a193486e98d57"
+    },
+    {
       "title": "M 5.1 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2131,45 +2203,40 @@
   ],
   "new_findings": [
     {
-      "title": "自作PWAをTailscale Serveで配るのが便利だった話",
-      "url": "https://zenn.dev/6uclz1/articles/43e803ec9d54dd",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.7 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-01T14:17:37+00:00",
-      "fetched_at": "2026-11-01T21:45:42+00:00",
-      "summary": "PWAをtailnet serveするのは結構いいアプローチだと思ったので紹介したいです。zennのフォーマットで記事書いて https://zenn.dev/6uclz1 こいつの文体・構成で書いて欲しい Mac miniで動かしている自作のWebアプリを、PWAとしてiPadとiPhoneで使っています。 配信はTailscale Serveで行っています。 この組み合わせがか...",
+      "published_at": "2026-11-01T21:58:58.040+00:00",
+      "fetched_at": "2026-11-01T21:59:51+00:00",
+      "summary": "Time 2026-11-01 21:26:57 UTC 2026-11-01 21:26:57 UTC at epicenter Location 27.291°S 177.871°W Depth 150.95 km (93.80 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7515cb47db60f56b9e9a"
-    },
-    {
-      "title": "Game Off 2026: The theme is SHIFT",
-      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-01T21:36:00+00:00",
-      "fetched_at": "2026-11-01T21:45:42+00:00",
-      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c5d94fb387149473f697"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "69c4616a193486e98d57"
     }
   ],
   "source_errors": [],
