@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:59:05+00:00",
+  "generated_at": "2026-11-01T12:12:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -64,13 +64,18 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.",
-        "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574623",
-        "published_at": "",
-        "metrics": {}
+        "severity": "medium",
+        "title": "USGS earthquake M6.0 - 165 km NW of Port-Olry, Vanuatu",
+        "summary": "M6.0 - 165 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl",
+        "published_at": "2026-11-01T11:47:03+00:00",
+        "metrics": {
+          "mag": 6.0,
+          "alert": "green",
+          "sig": 554.0,
+          "tsunami": 0
+        }
       },
       {
         "domain": "security",
