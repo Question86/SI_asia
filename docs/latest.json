@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T22:37:00+00:00",
-  "run_id": "2026-11-01T22:37:00+00:00",
+  "generated_at": "2026-11-01T22:44:38+00:00",
+  "run_id": "2026-11-01T22:44:38+00:00",
   "date": "2026-11-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 7,
-    "observe": 29,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -447,6 +447,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a1060cae9baad1554b98"
+      },
+      {
+        "title": "M 4.6 - Mid-Indian Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turv",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-01T22:37:14.040+00:00",
+        "fetched_at": "2026-11-01T22:44:10+00:00",
+        "summary": "Time 2026-11-01 22:22:44 UTC 2026-11-01 22:22:44 UTC at epicenter Location 35.403°S 78.404°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5e698553381b4a0435dc"
       },
       {
         "title": "M 4.8 - Mid-Indian Ridge",
@@ -1556,6 +1592,42 @@
       "id": "a1060cae9baad1554b98"
     },
     {
+      "title": "M 4.6 - Mid-Indian Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-01T22:37:14.040+00:00",
+      "fetched_at": "2026-11-01T22:44:10+00:00",
+      "summary": "Time 2026-11-01 22:22:44 UTC 2026-11-01 22:22:44 UTC at epicenter Location 35.403°S 78.404°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5e698553381b4a0435dc"
+    },
+    {
       "title": "M 4.8 - Mid-Indian Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tur0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2245,25 +2317,40 @@
   ],
   "new_findings": [
     {
-      "title": "米Microsoftはなぜ最大6万人に早期退職を打診するのか？ 決算資料から読み解く巨額AI投資の“台所事情”",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news029.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.6 - Mid-Indian Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-01T21:24:27+00:00",
-      "fetched_at": "2026-11-01T22:36:30+00:00",
-      "summary": "米Microsoftはなぜ最大6万人に早期退職を打診するのか？ 決算資料から読み解く巨額AI投資の“台所事情”：Windowsフロントライン（1/3 ページ） Microsoftは10月26日（米国時間）、「Voluntary Exit Offer（VEO）」を従業員に通知した。 直訳すれば「任意退職の申し入れ」となるが、英語圏で「Buyout」と呼ばれる早期退職...",
+      "published_at": "2026-11-01T22:37:14.040+00:00",
+      "fetched_at": "2026-11-01T22:44:10+00:00",
+      "summary": "Time 2026-11-01 22:22:44 UTC 2026-11-01 22:22:44 UTC at epicenter Location 35.403°S 78.404°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0e3c0c4d5b53892c61ce"
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5e698553381b4a0435dc"
     }
   ],
   "source_errors": [],
