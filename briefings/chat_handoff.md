@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-01T17:18:23+00:00_
+_Generated: 2026-11-01T17:27:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `25`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-01T17:18:23+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8
 - summary: PAGER - GREEN ShakeMap - III Time 2026-11-01 06:26:42 UTC 2026-11-01 06:26:42 UTC at epicenter Location 13.867°S 165.617°E Depth 10.00 km (6.21 mi)
 
-### 8. AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明
+### 8. HonoがPRを閉じた理由
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
-- published: `2026-11-01T00:58:30+00:00`
-- url: https://www.itmedia.co.jp/news/article/2611/01/2000002776/
-- summary: 米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IET...
+- published: `2026-11-01T11:35:27+00:00`
+- url: https://slides.yusu.ke/foss4g-2026
+- summary: ::title:: HonoがPRを閉じた理由 Yusuke Wada FOSS4G分科会シンポジウム 2026「AI時代のFOSS4G」 ・ November 1, 2026 Yusuke Wada Cloudflare Senior Developer Advocate Creator of Hono ::right:: Hono JavaScriptで動くWebフレームワーク GitHub上でOSSとして開発 2021年12月〜 32K stars / 月間2.67億 ダウンロード...
 
 END OF DOCUMENT
