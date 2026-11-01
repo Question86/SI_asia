@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-01T12:37:25Z",
+  "generated_at": "2026-11-01T13:09:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,13 +9,13 @@
       "extreme": 2,
       "krass": 2,
       "strong": 7,
-      "watch": 17,
-      "quiet": 12
+      "watch": 18,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 11,
-      "watch": 17,
-      "quiet": 12
+      "watch": 18,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://techblog.tver.co.jp/entry/shiroma/history-of-test-automation",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T11:44:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [],
       "dynamics_score": 25.0,
       "raw_band": "strong",
@@ -48,7 +48,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T02:51:00+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -77,7 +77,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T22:48:42+00:00",
-      "age_days": 1.58,
+      "age_days": 1.6,
       "topics": [
         "security"
       ],
@@ -103,7 +103,7 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-01T07:27:16+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -131,7 +131,7 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-01T07:26:38+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -159,7 +159,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T08:29:22+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -187,7 +187,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T07:57:15+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -207,36 +207,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-25T00:01:17+00:00",
-      "age_days": 7.53,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.59,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 6.0 - 165 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T12:07:14.175+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -261,7 +236,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T06:50:28.353+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -282,11 +257,35 @@
       "summary": "PAGER - GREEN ShakeMap - III Time 2026-11-01 06:26:42 UTC 2026-11-01 06:26:42 UTC at epicenter Location 13.867°S 165.617°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 6.0 - 165 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-01T12:12:37+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.4 - 203 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T06:58:55+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -310,7 +309,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T05:48:12+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -330,35 +329,11 @@
       "summary": ""
     },
     {
-      "title": "M 6.0 - 165 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-01T12:12:37+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T12:26:07.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -383,7 +358,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T12:15:26.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -408,7 +383,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tung",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T07:53:25.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -433,7 +408,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tund",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T07:29:13.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -458,7 +433,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T00:17:06.040+00:00",
-      "age_days": 0.51,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -479,11 +454,59 @@
       "summary": "Time 2026-10-31 23:57:55 UTC 2026-10-31 23:57:55 UTC at epicenter Location 13.875°S 165.663°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T00:01:17+00:00",
+      "age_days": 7.55,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.8 - 176 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-01T12:23:51+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.7 - 191 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tung",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T07:57:15+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -507,7 +530,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tund",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T07:35:24+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -531,7 +554,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T00:38:12+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -555,7 +578,7 @@
       "url": "https://techblog.kazaneya.com/20261030-agent-skills/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T00:38:12+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -581,7 +604,7 @@
       "url": "https://japan.cnet.com/article/35254251/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T23:27:23+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -605,7 +628,7 @@
       "url": "https://type.jp/et/feature/32071/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T06:04:48+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -629,7 +652,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T05:47:27.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -653,7 +676,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T01:58:21.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -677,7 +700,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T01:59:23+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -703,7 +726,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T08:45:30+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -725,35 +748,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.8 - 176 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupp",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-01T12:23:51+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで",
       "url": "https://japan.cnet.com/article/35254251/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 135.14,
+      "age_days": 135.16,
       "topics": [
         "general"
       ],
@@ -769,7 +768,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 135.1d old signal"
+        "aging penalty -8.0 for 135.2d old signal"
       ],
       "summary": ""
     },
@@ -778,7 +777,7 @@
       "url": "https://techblog.kazaneya.com/20261030-agent-skills/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T10:18:57+00:00",
-      "age_days": 2.1,
+      "age_days": 2.12,
       "topics": [
         "ai"
       ],
@@ -804,7 +803,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 48.98,
+      "age_days": 49.0,
       "topics": [
         "general"
       ],
@@ -829,7 +828,7 @@
       "url": "https://azukiazusa.dev/blog/stream-append-html/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T03:41:34+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -855,7 +854,7 @@
       "url": "https://type.jp/et/feature/32071/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T23:39:53+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -879,7 +878,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T00:58:30+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -905,7 +904,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T08:35:43.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "disaster"
@@ -932,7 +931,7 @@
       "url": "https://www.afpbb.com/articles/-/3660265",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T05:05:33+00:00",
-      "age_days": 1.31,
+      "age_days": 1.34,
       "topics": [
         "ai"
       ],
@@ -958,7 +957,7 @@
       "url": "https://www.afpbb.com/articles/-/3660265",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T20:19:20+00:00",
-      "age_days": 59.68,
+      "age_days": 59.7,
       "topics": [
         "ai"
       ],
@@ -985,7 +984,7 @@
       "url": "https://azukiazusa.dev/blog/stream-append-html/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T23:34:46+00:00",
-      "age_days": 0.54,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -1010,7 +1009,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 135.44,
+      "age_days": 135.46,
       "topics": [
         "ai"
       ],
@@ -1027,7 +1026,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 135.4d old signal",
+        "aging penalty -8.0 for 135.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
