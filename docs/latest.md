@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T05:56:44+00:00_
+_Generiert: 2026-11-01T06:04:45+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „AIエージェント向けの業務手順書（Agent Skills）の設計方法“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
+8 neue relevante Treffer. Stärkstes Signal: „AIエージェント向けの業務手順書（Agent Skills）の設計方法“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
 
 ## Priorität Hoch
 
