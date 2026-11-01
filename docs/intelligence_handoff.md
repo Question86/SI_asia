@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-01T01:40:27Z_
+_Generated: 2026-11-01T01:50:31Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-11-01T00:38:12+00:00` / age_days `0.04`
+- Published: `2026-11-01T00:38:12+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-11-01T00:38:12+00:00` / age_days `0.04`
+- Published: `2026-11-01T00:38:12+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-10-30T10:18:57+00:00` / age_days `1.64`
+- Published: `2026-10-30T10:18:57+00:00` / age_days `1.65`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `3.75`
-- Published: `2026-09-02T20:19:20+00:00` / age_days `59.22`
+- Published: `2026-09-02T20:19:20+00:00` / age_days `59.23`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, baseline z_hint 2.50, single-source AI hype brake -8.0, aging penalty -8.0 for 59.2d old signal, single-source AI cap enforced after phrase recheck
