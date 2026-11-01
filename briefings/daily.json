@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T18:54:30+00:00",
-  "today_file_total": 29,
+  "generated_at": "2026-11-01T19:02:45+00:00",
+  "today_file_total": 30,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -126,8 +126,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 5.0 - mid-indian ridge:5.0",
-      "title": "M 5.0 - Mid-Indian Ridge",
+      "key": "earthquake:m 4.6 - mid-indian ridge:4.6",
+      "title": "M 4.6 - Mid-Indian Ridge",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -135,7 +135,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqx"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqv"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -293,6 +293,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.0 - mid-indian ridge:5.0",
+      "title": "M 5.0 - Mid-Indian Ridge",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqx"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 4.8 - 71 km nnw of san antonio de los cobres, argentina:4.8",
@@ -453,31 +478,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tung"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.1 - 201 km nw of port-olry, vanuatu:5.1",
-      "title": "M 5.1 - 201 km NW of Port-Olry, Vanuatu",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tund"
       ],
       "finding_count": 1,
       "max_score": 9,
