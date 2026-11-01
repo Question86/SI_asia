@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T10:47:06+00:00_
+_Generiert: 2026-11-01T11:00:45+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+17 neue relevante Treffer. Stärkstes Signal: „GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -159,3 +159,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_statistical_press` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
