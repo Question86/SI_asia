@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-01T00:54:24Z_
+_Generated: 2026-11-01T01:10:21Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “AIエージェント向けの業務手順書（Agent Skills）の設計方法” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.0.
+Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=17.0.
 
 ## Top Dynamics
+
+### M 4.8 - 199 km NW of Port-Olry, Vanuatu
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-11-01T00:17:06.040+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule
 
 ### AIエージェント向けの業務手順書（Agent Skills）の設計方法
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `18.0`
-- Published: `2026-11-01T00:38:12+00:00` / age_days `0.01`
+- Dynamics score: `15.5`
+- Published: `2026-11-01T00:38:12+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -20,20 +30,10 @@ Stärkste Dynamik nach Gate-Recheck: “AIエージェント向けの業務手�
 
 ### M 4.8 - 199 km NW of Port-Olry, Vanuatu
 
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-11-01T00:17:06.040+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule
-
-### M 4.8 - 199 km NW of Port-Olry, Vanuatu
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.4`
-- Published: `2026-11-01T00:38:12+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `11.5`
+- Published: `2026-11-01T00:38:12+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule
@@ -42,10 +42,30 @@ Stärkste Dynamik nach Gate-Recheck: “AIエージェント向けの業務手�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-10-30T10:18:57+00:00` / age_days `1.61`
+- Published: `2026-10-30T10:18:57+00:00` / age_days `1.62`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://techblog.kazaneya.com/20261030-agent-skills/
+
+### ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `9.88`
+- Published: `2026-09-02T20:19:20+00:00` / age_days `59.2`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +3, baseline z_hint 5.80, single-source AI hype brake -8.0, aging penalty -8.0 for 59.2d old signal, single-source AI cap enforced after phrase recheck
+- Quelle: https://www.afpbb.com/articles/-/3660265
+
+### ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `5.0`
+- Published: `2026-10-31T05:05:33+00:00` / age_days `0.84`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://www.afpbb.com/articles/-/3660265
 
 END OF DOCUMENT
