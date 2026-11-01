@@ -1,26 +1,53 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-01T06:51:10Z",
+  "generated_at": "2026-11-01T07:10:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 18,
+    "dynamics": 20,
     "bands": {
-      "watch": 8,
-      "quiet": 10
+      "strong": 1,
+      "watch": 10,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "watch": 8,
-      "quiet": 10
+      "strong": 1,
+      "watch": 10,
+      "quiet": 9
     }
   },
   "top_dynamics": [
+    {
+      "title": "M 5.4 - 203 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-01T06:50:28.353+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-11-01 06:26:42 UTC 2026-11-01 06:26:42 UTC at epicenter Location 13.867°S 165.617°E Depth 10.00 km (6.21 mi)"
+    },
     {
       "title": "M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T05:48:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -40,11 +67,35 @@
       "summary": ""
     },
     {
+      "title": "M 5.4 - 203 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-01T06:58:55+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.8 - 199 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T00:17:06.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -69,7 +120,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T00:38:12+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -93,7 +144,7 @@
       "url": "https://techblog.kazaneya.com/20261030-agent-skills/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T00:38:12+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -119,7 +170,7 @@
       "url": "https://japan.cnet.com/article/35254251/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T23:27:23+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -139,11 +190,35 @@
       "summary": "不正アクセスを受けたのは、特典の申し込みなどに使われる外部サービスの提供元、NTTデータの委託先が提供する「デジタル証券プラットフォーム」。楽天証券はNTTデータから、システム内の情報が外部に持ち出された可能性があるとの報告を受けた。発生日時は10月30日としている。 対象は「カゴメ株式会社 第1回無担保社債..."
     },
     {
+      "title": "FF14が「毎日ログイン前提」を見直す。吉田直樹が挑む、プレイヤーの時間を奪わないゲーム設計 - エンジニアtype | 転職type",
+      "url": "https://type.jp/et/feature/32071/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-01T06:04:48+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T05:47:27.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -167,7 +242,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T01:58:21.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -191,7 +266,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T01:59:23+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -213,35 +288,11 @@
       "summary": ""
     },
     {
-      "title": "FF14が「毎日ログイン前提」を見直す。吉田直樹が挑む、プレイヤーの時間を奪わないゲーム設計 - エンジニアtype | 転職type",
-      "url": "https://type.jp/et/feature/32071/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-01T06:04:48+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで",
       "url": "https://japan.cnet.com/article/35254251/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 134.9,
+      "age_days": 134.91,
       "topics": [
         "general"
       ],
@@ -266,7 +317,7 @@
       "url": "https://techblog.kazaneya.com/20261030-agent-skills/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T10:18:57+00:00",
-      "age_days": 1.86,
+      "age_days": 1.87,
       "topics": [
         "ai"
       ],
@@ -292,7 +343,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 48.74,
+      "age_days": 48.75,
       "topics": [
         "general"
       ],
@@ -308,7 +359,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 48.7d old signal"
+        "aging penalty -8.0 for 48.8d old signal"
       ],
       "summary": ""
     },
@@ -317,7 +368,7 @@
       "url": "https://azukiazusa.dev/blog/stream-append-html/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T03:41:34+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -343,7 +394,7 @@
       "url": "https://type.jp/et/feature/32071/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T23:39:53+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -367,7 +418,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T00:58:30+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -393,7 +444,7 @@
       "url": "https://www.afpbb.com/articles/-/3660265",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T05:05:33+00:00",
-      "age_days": 1.07,
+      "age_days": 1.09,
       "topics": [
         "ai"
       ],
@@ -419,7 +470,7 @@
       "url": "https://www.afpbb.com/articles/-/3660265",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T20:19:20+00:00",
-      "age_days": 59.44,
+      "age_days": 59.45,
       "topics": [
         "ai"
       ],
@@ -436,7 +487,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 59.4d old signal",
+        "aging penalty -8.0 for 59.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -446,7 +497,7 @@
       "url": "https://azukiazusa.dev/blog/stream-append-html/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T23:34:46+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -467,5 +518,5 @@
       "summary": "LLM の回答を逐次描画するとき、届いた文字列全体を毎回パースして DOM を置き換える実装では、要素が作り直され続けてテキストの選択状態が失われたりします。streamAppendHTML() は WritableStream を返し、届いた HTML を要素の末尾へ順にパースします。この記事では streamAppendHTML() の使い方とサニタイズの挙動..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.5."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 203 km NW of Port-Olry, Vanuatu” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.0."
 }
