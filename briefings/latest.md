@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T06:04:45+00:00_
+_Generiert: 2026-11-01T06:24:30+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „AIエージェント向けの業務手順書（Agent Skills）の設計方法“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
+9 neue relevante Treffer. Stärkstes Signal: „AIエージェント向けの業務手順書（Agent Skills）の設計方法“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-01 01:24:52 UTC 2026-11-01 01:24:52 UTC at epicenter Location 21.698°S 68.435°W Depth 120.44 km (74.84 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254251/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-31T23:27:23+00:00`, fetched `2026-11-01T06:24:00+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 不正アクセスを受けたのは、特典の申し込みなどに使われる外部サービスの提供元、NTTデータの委託先が提供する「デジタル証券プラットフォーム」。楽天証券はNTTデータから、システム内の情報が外部に持ち出された可能性があるとの報告を受けた。発生日時は10月30日としている。 対象は「カゴメ株式会社 第1回無担保社債...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 199 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-01T00:17:06.040+00:00`, fetched `2026-11-01T00:37:42+00:00`
@@ -121,15 +130,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: LLM の回答を逐次描画するとき、届いた文字列全体を毎回パースして DOM を置き換える実装では、要素が作り直され続けてテキストの選択状態が失われたりします。streamAppendHTML() は WritableStream を返し、届いた HTML を要素の末尾へ順にパースします。この記事では streamAppendHTML() の使い方とサニタイズの挙動...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」** — Score 8, observation — [Quelle](https://www.afpbb.com/articles/-/3660265)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-31T05:05:33+00:00`, fetched `2026-11-01T01:05:44+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: バチカンのサンピエトロ広場での毎週の一般謁見で群衆に手を振るローマ・カトリック教会の教皇レオ14世（2026年10月21日撮影）。（c）Tiziana FABI/AFP 【10月31日 AFP】ローマ・カトリック教会の教皇レオ14世（71）は30日、人工知能（AI）エージェントに法的人格や権利を与えることに警鐘を鳴らし、その行動に対する責...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

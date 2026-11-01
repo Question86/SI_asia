@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-01T06:04:45+00:00_
+_Generated: 2026-11-01T06:24:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `9`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-11-01T06:04:45+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly
 - summary: Time 2026-11-01 01:24:52 UTC 2026-11-01 01:24:52 UTC at epicenter Location 21.698°S 68.435°W Depth 120.44 km (74.84 mi)
 
-### 5. M 4.8 - 199 km NW of Port-Olry, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-01T00:17:06.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule
-- summary: Time 2026-10-31 23:57:55 UTC 2026-10-31 23:57:55 UTC at epicenter Location 13.875°S 165.663°E Depth 10.00 km (6.21 mi)
+### 5. 楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-10-31T23:27:23+00:00`
+- url: https://japan.cnet.com/article/35254251/
+- summary: 不正アクセスを受けたのは、特典の申し込みなどに使われる外部サービスの提供元、NTTデータの委託先が提供する「デジタル証券プラットフォーム」。楽天証券はNTTデータから、システム内の情報が外部に持ち出された可能性があるとの報告を受けた。発生日時は10月30日としている。 対象は「カゴメ株式会社 第1回無担保社債...
 
 END OF DOCUMENT
