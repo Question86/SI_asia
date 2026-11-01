@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-01T01:21:26Z",
+  "generated_at": "2026-11-01T01:40:27Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 6,
@@ -16,37 +16,11 @@
   },
   "top_dynamics": [
     {
-      "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
-      "url": "https://techblog.kazaneya.com/20261030-agent-skills/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-01T00:38:12+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.8 - 199 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T00:17:06.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -71,22 +45,48 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T00:38:12+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
+      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
+      "url": "https://techblog.kazaneya.com/20261030-agent-skills/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-01T00:38:12+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -95,7 +95,7 @@
       "url": "https://techblog.kazaneya.com/20261030-agent-skills/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T10:18:57+00:00",
-      "age_days": 1.63,
+      "age_days": 1.64,
       "topics": [
         "ai"
       ],
@@ -121,7 +121,7 @@
       "url": "https://www.afpbb.com/articles/-/3660265",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T05:05:33+00:00",
-      "age_days": 0.84,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -147,23 +147,23 @@
       "url": "https://www.afpbb.com/articles/-/3660265",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T20:19:20+00:00",
-      "age_days": 59.21,
+      "age_days": 59.22,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.97,
+      "dynamics_score": 3.75,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.7,
+      "baseline_z_hint": 2.5,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.70",
+        "baseline z_hint 2.50",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 59.2d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -171,5 +171,5 @@
       "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AIエージェント向けの業務手順書（Agent Skills）の設計方法” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 199 km NW of Port-Olry, Vanuatu” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=17.0."
 }
