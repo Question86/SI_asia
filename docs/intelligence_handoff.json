@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-01T06:31:19Z",
+  "generated_at": "2026-11-01T06:41:13Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T05:48:12+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -39,7 +39,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T00:17:06.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -58,32 +58,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-31 23:57:55 UTC 2026-10-31 23:57:55 UTC at epicenter Location 13.875°S 165.663°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで",
-      "url": "https://japan.cnet.com/article/35254251/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 134.88,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.69,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 134.9d old signal"
-      ],
-      "summary": ""
     },
     {
       "title": "M 4.8 - 199 km NW of Port-Olry, Vanuatu",
@@ -140,7 +114,7 @@
       "url": "https://japan.cnet.com/article/35254251/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T23:27:23+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -164,7 +138,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T05:47:27.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -188,7 +162,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T01:58:21.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -212,7 +186,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T01:59:23+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -234,11 +208,60 @@
       "summary": ""
     },
     {
+      "title": "FF14が「毎日ログイン前提」を見直す。吉田直樹が挑む、プレイヤーの時間を奪わないゲーム設計 - エンジニアtype | 転職type",
+      "url": "https://type.jp/et/feature/32071/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-01T06:04:48+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで",
+      "url": "https://japan.cnet.com/article/35254251/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T09:22:22+00:00",
+      "age_days": 134.89,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 134.9d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
       "url": "https://techblog.kazaneya.com/20261030-agent-skills/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T10:18:57+00:00",
-      "age_days": 1.84,
+      "age_days": 1.85,
       "topics": [
         "ai"
       ],
@@ -264,7 +287,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 48.72,
+      "age_days": 48.73,
       "topics": [
         "general"
       ],
@@ -283,32 +306,6 @@
         "aging penalty -8.0 for 48.7d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "streamAppendHTML() で AI の回答を HTML のままストリーミング描画する",
-      "url": "https://azukiazusa.dev/blog/stream-append-html/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-01T03:41:34+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -320,8 +317,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "watch": 9,
-      "quiet": 3
+      "watch": 8,
+      "quiet": 4
     }
   }
 }
