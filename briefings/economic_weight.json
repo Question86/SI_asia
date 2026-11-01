@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T00:38:31+00:00",
+  "generated_at": "2026-11-01T01:06:35+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -5578,6 +5578,23 @@
       "first_seen_at": "2026-09-29T13:00:54+00:00",
       "last_seen_at": "2026-09-29T13:27:30+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_19f0316760b88a7fbc26",
+      "title": "M 4.8 - 199 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-01T00:38:12+00:00",
+      "last_seen_at": "2026-11-01T01:06:17+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_19f4cfdb835a84f2cd3c",
@@ -11700,23 +11717,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_19f0316760b88a7fbc26",
-      "title": "M 4.8 - 199 km NW of Port-Olry, Vanuatu",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-11-01T00:38:12+00:00",
-      "last_seen_at": "2026-11-01T00:38:12+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -17294,6 +17294,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_09352137332295b83fdf",
+      "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-01T00:38:12+00:00",
+      "last_seen_at": "2026-11-01T01:06:17+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0e0c503e5b9c36c9e578",
       "title": "Why Japan’s booming AI market is harder to crack than it looks",
       "event_classes": [
@@ -18006,23 +18023,6 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_09352137332295b83fdf",
-      "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-01T00:38:12+00:00",
-      "last_seen_at": "2026-11-01T00:38:12+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -25793,8 +25793,8 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T03:53:58+00:00",
-      "last_seen_at": "2026-10-17T14:02:27+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-01T01:06:17+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6db17a52a659563574f1",
