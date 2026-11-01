@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-01T03:27:30Z",
+  "generated_at": "2026-11-01T03:36:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 10,
@@ -20,7 +20,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T00:17:06.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -95,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T01:58:21.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T01:59:23+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -145,7 +145,7 @@
       "url": "https://techblog.kazaneya.com/20261030-agent-skills/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T10:18:57+00:00",
-      "age_days": 1.71,
+      "age_days": 1.72,
       "topics": [
         "ai"
       ],
@@ -196,7 +196,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T00:58:30+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -222,7 +222,7 @@
       "url": "https://www.afpbb.com/articles/-/3660265",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-31T05:05:33+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -252,19 +252,19 @@
       "topics": [
         "ai"
       ],
-      "dynamics_score": 2.87,
+      "dynamics_score": 2.76,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.7,
+      "baseline_z_hint": 1.6,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.70",
+        "baseline z_hint 1.60",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 59.3d old signal",
         "single-source AI cap enforced after phrase recheck"
