@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-01T22:44:38+00:00",
+  "generated_at": "2026-11-01T22:59:19+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 37,
     "displayed_findings": 37,
     "high": 0,
@@ -100,146 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay…” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay…",
-        "url": "https://github.com/vercel-labs/agent-desktop",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-01T02:51:00+00:00",
-        "age_days": 0.83,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Computer use for AI agents: read and operate desktop apps through the OS accessibility tree. A CLI and C library for macOS, Windows and Linux. A snapshot returns JSON with a ref for every element an agent can act on. The agent acts on a ref and snapshots again to check, with no pixel matching; th..."
-      },
-      {
-        "title": "WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨|セキュリティニュースのセキュリティ対策Lab",
-        "url": "https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-30T22:48:42+00:00",
-        "age_days": 2.0,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "WordPressの問い合わせフォーム用プラグイン「Contact Form 7」の開発元は2026年10月29日、セキュリティ修正を含むバージョン6.2.4を公開しました。6.2から6.2.3までのバージョンには、認証していない第三者が本来拒否されるファイルをアップロードし、送信後もサーバー上に残せる問題があります。開発元は全利用者に更..."
-      },
-      {
-        "title": "HonoがPRを閉じた理由",
-        "url": "https://slides.yusu.ke/foss4g-2026",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-01T11:35:27+00:00",
-        "age_days": 0.47,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "::title:: HonoがPRを閉じた理由 Yusuke Wada FOSS4G分科会シンポジウム 2026「AI時代のFOSS4G」 ・ November 1, 2026 Yusuke Wada Cloudflare Senior Developer Advocate Creator of Hono ::right:: Hono JavaScriptで動くWebフレームワーク GitHub上でOSSとして開発 2021年12月〜 32K stars / 月間2.67億 ダウンロード..."
-      },
-      {
-        "title": "Donchitos/Claude-Code-Game-Studios",
-        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-11-01T07:27:16+00:00",
-        "age_days": 0.64,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 40.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Donchitos/Claude-Code-Game-Studios",
-        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-11-01T07:26:38+00:00",
-        "age_days": 0.64,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. Why This Exists Building a…"
-      }
-    ]
-  }
+  ]
 }
