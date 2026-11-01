@@ -117,6 +117,28 @@
     "id": "f59262d6eda651f45e95"
   },
   {
+    "title": "streamAppendHTML() で AI の回答を HTML のままストリーミング描画する",
+    "url": "https://azukiazusa.dev/blog/stream-append-html/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-31T23:34:46+00:00",
+    "fetched_at": "2026-11-01T03:40:57+00:00",
+    "summary": "LLM の回答を逐次描画するとき、届いた文字列全体を毎回パースして DOM を置き換える実装では、要素が作り直され続けてテキストの選択状態が失われたりします。streamAppendHTML() は WritableStream を返し、届いた HTML を要素の末尾へ順にパースします。この記事では streamAppendHTML() の使い方とサニタイズの挙動...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "34c843a61cceefb0786c"
+  },
+  {
     "title": "ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」",
     "url": "https://www.afpbb.com/articles/-/3660265",
     "source": "Hatena Bookmark Hotentry IT",

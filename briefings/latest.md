@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T03:32:36+00:00_
+_Generiert: 2026-11-01T03:41:31+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „AIエージェント向けの業務手順書（Agent Skills）の設計方法“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
+6 neue relevante Treffer. Stärkstes Signal: „AIエージェント向けの業務手順書（Agent Skills）の設計方法“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -54,7 +54,7 @@ _Generiert: 2026-11-01T03:32:36+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-31 23:57:55 UTC 2026-10-31 23:57:55 UTC at epicenter Location 13.875°S 165.663°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **streamAppendHTML() で AI の回答を HTML のままストリーミング描画する** — Score 9, observation — [Quelle](https://azukiazusa.dev/blog/stream-append-html/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-31T23:34:46+00:00`, fetched `2026-11-01T03:40:57+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: LLM の回答を逐次描画するとき、届いた文字列全体を毎回パースして DOM を置き換える実装では、要素が作り直され続けてテキストの選択状態が失われたりします。streamAppendHTML() は WritableStream を返し、届いた HTML を要素の末尾へ順にパースします。この記事では streamAppendHTML() の使い方とサニタイズの挙動...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」** — Score 8, observation — [Quelle](https://www.afpbb.com/articles/-/3660265)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-31T05:05:33+00:00`, fetched `2026-11-01T01:05:44+00:00`
