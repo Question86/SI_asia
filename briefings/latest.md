@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T07:27:11+00:00_
+_Generiert: 2026-11-01T07:35:22+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „Donchitos/Claude-Code-Game-Studios“ aus GitHub Trending RSS All Languages Daily (Score 18, opportunity).
+12 neue relevante Treffer. Stärkstes Signal: „Donchitos/Claude-Code-Game-Studios“ aus GitHub Trending RSS All Languages Daily (Score 18, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
