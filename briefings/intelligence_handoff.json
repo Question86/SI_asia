@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-01T08:12:24Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨|セキュリティニュースのセキュリティ対策Lab” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-11-01T08:37:51Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay…” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,40 @@
   ],
   "top_dynamics": [
     {
+      "title": "GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay…",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-01T02:51:00+00:00",
+      "age_days": 0.24,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Computer use for AI agents: read and operate desktop apps through the OS accessibility tree. A CLI and C library for macOS, Windows and Linux. A snapshot returns JSON with a ref for every element an agent can act on. The agent acts on a ref and snapshots again to check, with no pixel matching; th..."
+    },
+    {
       "title": "WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T22:48:42+00:00",
-      "age_days": 1.39,
+      "age_days": 1.41,
       "topics": [
         "security"
       ],
@@ -41,7 +70,7 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-01T07:27:16+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -69,7 +98,7 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-01T07:26:38+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -93,26 +122,54 @@
       "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74 skills. One coordinated AI team. Why This Exists Building a…"
     },
     {
+      "title": "GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay…",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-01T08:29:22+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T07:57:15+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 24.5,
+      "dynamics_score": 24.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -121,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T06:50:28.353+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -146,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tun8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T06:58:55+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -170,7 +227,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T05:48:12+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -194,7 +251,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tung",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T07:53:25.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -219,7 +276,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tund",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T07:29:13.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -244,7 +301,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T00:17:06.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -263,54 +320,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-31 23:57:55 UTC 2026-10-31 23:57:55 UTC at epicenter Location 13.875°S 165.663°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.1 - 201 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tund",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-01T07:35:24+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.8 - 199 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-01T00:38:12+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -322,8 +331,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 6
+      "strong": 8,
+      "watch": 4
     }
   }
 }
