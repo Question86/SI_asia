@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T22:28:57+00:00",
+  "generated_at": "2026-11-01T22:37:03+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 35,
-    "clusters": 34,
+    "findings": 36,
+    "clusters": 35,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -68,20 +68,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.47,
+      "network_score": 22.44,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.7,
-      "ranking_score": 22.47,
+      "ranking_score": 22.44,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.07,
+      "baseline_bonus": 0.04,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -769,6 +769,44 @@
       "first_seen_at": "2026-09-13T13:07:27+00:00"
     },
     {
+      "key": "title:microsoft",
+      "title": "米Microsoftはなぜ最大6万人に早期退職を打診するのか？ 決算資料から読み解く巨額AI投資の“台所事情”",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/pcuser/articles/2611/02/news029.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.16,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 10.16,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.16,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-08T00:56:10+00:00"
+    },
+    {
       "key": "domain:www.afpbb.com",
       "title": "ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」",
       "sources": [
@@ -1363,7 +1401,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-01T22:28:58Z",
+    "generated_at": "2026-11-01T22:37:04Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
