@@ -417,6 +417,42 @@
     "id": "a1060cae9baad1554b98"
   },
   {
+    "title": "M 4.5 - 86 km WNW of Abra Pampa, Argentina",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-01T23:45:30.040+00:00",
+    "fetched_at": "2026-11-01T23:46:53+00:00",
+    "summary": "Time 2026-11-01 23:18:05 UTC 2026-11-01 23:18:05 UTC at epicenter Location 22.566°S 66.523°W Depth 243.60 km (151.36 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0c8c8579d04ead0b95f1"
+  },
+  {
     "title": "M 4.6 - Mid-Indian Ridge",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turv",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -927,6 +963,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "34c843a61cceefb0786c"
+  },
+  {
+    "title": "Amazon ECS の新機能 「ECS Gateway」 を試してみた | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/try-amazon-ecs-gateway/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-01T12:16:28+00:00",
+    "fetched_at": "2026-11-01T23:46:53+00:00",
+    "summary": "はじめに 2026年10月20日、Amazon ECS Gateway が発表されました。 ECS Gateway は、ECS サービスの入口となる ALB と関連リソースを ECS が管理する機能で、1台の ALB を最大25のサービスで共有できます。 今回は、東京リージョンの同じクラスターにパブリック用とプライベート用のゲートウェイを用意し、それぞれにサ...",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2d7824575d5ad5315033"
   },
   {
     "title": "ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」",
