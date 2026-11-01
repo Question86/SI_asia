@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-01T07:49:01+00:00",
+  "generated_at": "2026-11-01T07:57:12+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 2,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 2,
-    "observe": 10
+    "medium": 3,
+    "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 18,
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74…",
+      "section": "medium"
+    },
+    {
+      "title": "WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨|セキュリティニュースのセキュリティ対策Lab",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T22:48:42+00:00",
+      "relevance_score": 15,
+      "url": "https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/",
+      "summary": "WordPressの問い合わせフォーム用プラグイン「Contact Form 7」の開発元は2026年10月29日、セキュリティ修正を含むバージョン6.2.4を公開しました。6.2から6.2.3までのバージョンには、認証していない第三者が本来拒否されるファイルをアップロードし、送信後もサーバー上に残せる問題があります。開発元は全利用者に更...",
       "section": "medium"
     },
     {
