@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T22:59:19+00:00",
-  "run_id": "2026-11-01T22:59:19+00:00",
+  "generated_at": "2026-11-01T23:19:30+00:00",
+  "run_id": "2026-11-01T23:19:30+00:00",
   "date": "2026-11-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 38
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 1,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
     "medium": 7,
-    "observe": 30,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -1045,6 +1045,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0e3c0c4d5b53892c61ce"
+      },
+      {
+        "title": "【独自】GMO攻撃、北朝鮮ハッカーか 複数の痕跡、政府に報告",
+        "url": "https://www.47news.jp/15170379.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-01T14:23:54+00:00",
+        "fetched_at": "2026-11-01T23:18:47+00:00",
+        "summary": "GMOインターネットグループが、一連の不正アクセスの攻撃側に北朝鮮系のハッカー集団がいる可能性が高いと分析していることが1日、関係者への取材で分かった。マルウエア（悪意あるソフト）の特徴など攻撃者の複数の痕跡から判断したとみられる。GMOは政府側に報告したもようで、真相解明が今後の焦点だ。複数の国をまた...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "46ee11be6b6152046ea1"
       },
       {
         "title": "自作PWAをTailscale Serveで配るのが便利だった話",
@@ -2190,6 +2211,27 @@
       "id": "0e3c0c4d5b53892c61ce"
     },
     {
+      "title": "【独自】GMO攻撃、北朝鮮ハッカーか 複数の痕跡、政府に報告",
+      "url": "https://www.47news.jp/15170379.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-01T14:23:54+00:00",
+      "fetched_at": "2026-11-01T23:18:47+00:00",
+      "summary": "GMOインターネットグループが、一連の不正アクセスの攻撃側に北朝鮮系のハッカー集団がいる可能性が高いと分析していることが1日、関係者への取材で分かった。マルウエア（悪意あるソフト）の特徴など攻撃者の複数の痕跡から判断したとみられる。GMOは政府側に報告したもようで、真相解明が今後の焦点だ。複数の国をまた...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "46ee11be6b6152046ea1"
+    },
+    {
       "title": "自作PWAをTailscale Serveで配るのが便利だった話",
       "url": "https://zenn.dev/6uclz1/articles/43e803ec9d54dd",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2315,7 +2357,29 @@
       "id": "c5d94fb387149473f697"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "【独自】GMO攻撃、北朝鮮ハッカーか 複数の痕跡、政府に報告",
+      "url": "https://www.47news.jp/15170379.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-01T14:23:54+00:00",
+      "fetched_at": "2026-11-01T23:18:47+00:00",
+      "summary": "GMOインターネットグループが、一連の不正アクセスの攻撃側に北朝鮮系のハッカー集団がいる可能性が高いと分析していることが1日、関係者への取材で分かった。マルウエア（悪意あるソフト）の特徴など攻撃者の複数の痕跡から判断したとみられる。GMOは政府側に報告したもようで、真相解明が今後の焦点だ。複数の国をまた...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "46ee11be6b6152046ea1"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
