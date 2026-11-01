@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T00:00:21+00:00",
+  "generated_at": "2026-11-01T00:38:31+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1616,7 +1616,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-31T22:46:45+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1ddd81b9d6ff8acaffef",
@@ -1939,7 +1939,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7b38653a2ae92a87034d",
@@ -4693,7 +4693,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c48f7f2309178bd9f5bf",
@@ -5271,7 +5271,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-31T01:02:54+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0c5f970ffdb9b1c9bee2",
@@ -5679,7 +5679,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-31T09:32:57+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1e164ddbfa3022a28be1",
@@ -6920,7 +6920,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-31T21:42:21+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_492688e8b09f0188de88",
@@ -7209,7 +7209,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-31T09:47:44+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_59a6540db44bb79a9142",
@@ -7719,7 +7719,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-31T16:19:16+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6a6b699cdd116f0d6505",
@@ -9249,7 +9249,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-31T03:02:58+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a19d1d2111ec4a2bf062",
@@ -9504,7 +9504,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-31T23:13:47+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ab2d852f72a8ac60d159",
@@ -10558,7 +10558,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-10-31T11:59:59+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d97a3a7bb88f336581eb",
@@ -11698,6 +11698,23 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_19f0316760b88a7fbc26",
+      "title": "M 4.8 - 199 km NW of Port-Olry, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-01T00:38:12+00:00",
+      "last_seen_at": "2026-11-01T00:38:12+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -13976,7 +13993,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0b8f55a038be7b409784",
@@ -14350,7 +14367,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-31T06:57:05+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b560235cfad2da40e1bb",
@@ -16730,7 +16747,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-31T08:02:47+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e43c9e3077c7255b207a",
@@ -17699,7 +17716,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-31T06:57:05+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8c01b887e726d369cfbb",
@@ -17989,6 +18006,23 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_09352137332295b83fdf",
+      "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-01T00:38:12+00:00",
+      "last_seen_at": "2026-11-01T00:38:12+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -20029,7 +20063,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-31T06:33:29+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
@@ -21491,7 +21525,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-31T22:14:33+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e44532bf08e8d4e1e7dd",
@@ -25522,7 +25556,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-31T02:47:33+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_546d304e456bbce4dad7",
@@ -25930,7 +25964,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-31T05:49:07+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7e7522a67507bf52e98e",
@@ -34108,7 +34142,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T08:23:39+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d287334bcfcb1ae2d454",
