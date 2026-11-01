@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-01T19:28:40+00:00_
+_Generated: 2026-11-01T19:42:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `32`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-01T19:28:40+00:00_
 - url: https://github.com/Donchitos/Claude-Code-Game-Studios
 - summary: Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. Claude Code Game Studios Turn a single Claude Code session into a full game development studio. 49 agents. 74…
 
-### 4. M 4.7 - 78 km SSE of Yonakuni, Japan
+### 4. M 4.6 - 101 km SW of Basco, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-11-01T17:40:10.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqi
-- summary: Time 2026-11-01 17:01:18 UTC 2026-11-01 17:01:18 UTC at epicenter Location 23.806°N 123.271°E Depth 18.48 km (11.48 mi)
+- published: `2026-11-01T19:42:00.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqy
+- summary: Time 2026-11-01 18:42:57 UTC 2026-11-01 18:42:57 UTC at epicenter Location 19.763°N 121.328°E Depth 38.49 km (23.92 mi)
 
 ### 5. M 6.0 - 165 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
