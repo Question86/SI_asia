@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T00:39:10+00:00",
-  "run_id": "2026-11-02T00:39:10+00:00",
+  "generated_at": "2026-11-02T00:53:17+00:00",
+  "run_id": "2026-11-02T00:53:17+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 1,
     "displayed_findings": 1,
     "high": 0,
@@ -120,51 +120,7 @@
       "id": "fec8ed7f6040311ad7e8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
-      "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-01T16:58:30+00:00",
-      "fetched_at": "2026-11-02T00:38:32+00:00",
-      "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusionは、与えられたタスクの特性に応じて、単一または複数のAIモデルを組み合わせて実行するマルチモデル対応の機能です。 推論、コー...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry",
-        "Watchgraph:sports_sf_tech_events"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "sports_sf_tech_events"
-      ],
-      "watchgraph_reasons": [
-        "sports_sf_tech_events: GitHub Universe"
-      ],
-      "market_context": [
-        "DIS",
-        "CMCSA",
-        "ABNB",
-        "BKNG",
-        "DAL",
-        "UAL",
-        "TKO",
-        "FWONK",
-        "AAL",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "fec8ed7f6040311ad7e8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
