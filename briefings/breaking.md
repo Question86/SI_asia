@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-11-02T13:43:30+00:00_
+_Generiert: 2026-11-02T13:57:28+00:00_
 
 ## Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen
 
-- Ranking Score: `27.84`
+- Ranking Score: `27.78`
 - Raw Network Score: `28.3`
 - Max Monitor Score: `22`
 - Reichweite: `specialist` / `2.5`
