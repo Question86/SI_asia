@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T01:32:25+00:00",
+  "generated_at": "2026-11-02T01:43:32+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -10659,7 +10659,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-02T01:17:19+00:00",
-      "last_seen_at": "2026-11-02T01:32:04+00:00",
+      "last_seen_at": "2026-11-02T01:43:14+00:00",
       "status": "active"
     },
     {
@@ -11953,6 +11953,23 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9d16ad04aa4e46b42ee6",
+      "title": "M 5.1 - Kermadec Islands region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-02T01:43:14+00:00",
+      "last_seen_at": "2026-11-02T01:43:14+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -15369,7 +15386,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T01:01:55+00:00",
-      "last_seen_at": "2026-11-02T01:32:04+00:00",
+      "last_seen_at": "2026-11-02T01:43:14+00:00",
       "status": "active"
     },
     {
@@ -22442,7 +22459,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T00:39:14+00:00",
-      "last_seen_at": "2026-11-02T01:32:04+00:00",
+      "last_seen_at": "2026-11-02T01:43:14+00:00",
       "status": "active"
     },
     {
@@ -35535,7 +35552,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T01:17:19+00:00",
-      "last_seen_at": "2026-11-02T01:32:04+00:00",
+      "last_seen_at": "2026-11-02T01:43:14+00:00",
       "status": "active"
     },
     {
