@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T09:48:44+00:00_
+_Generiert: 2026-11-02T09:56:11+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+32 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -194,6 +194,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Every week, the meetings I sit in across the businesses I work with are recorded, and an AI system turns each one into four lists: decisions, risks, blockers and next priorities. It takes minutes. I rely on it. After months of reading those lists back to back, one thing is hard to miss. The system […] The post AI prepared every decision. It did not raise the ceiling on scale appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitslücken in Progress WS_FTP ermöglichen Kompromittierung** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-in-Progress-WS-FTP-ermoeglichen-Kompromittierung-11507580.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-02T09:44:00.000+00:00`, fetched `2026-11-02T09:55:38+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Progress meldet mehrere kritische Sicherheitslücken in WS_FTP. Admins sollten zügig Aktualisierungen anwenden.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Schadcode-Sicherheitslücken bedrohen Veeam Management Pack** — Score 7, observation — [Quelle](https://www.heise.de/news/Schadcode-Sicherheitsluecken-bedrohen-Veeam-Management-Pack-11507704.html)
   - Quelle: heise Security Alerts / `rss`
