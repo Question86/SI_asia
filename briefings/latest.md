@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T03:56:52+00:00_
+_Generiert: 2026-11-02T04:03:45+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+15 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Every week, the meetings I sit in across the businesses I work with are recorded, and an AI system turns each one into four lists: decisions, risks, blockers and next priorities. It takes minutes. I rely on it. After months of reading those lists back to back, one thing is hard to miss. The system […] The post AI prepared every decision. It did not raise the ceiling on scale appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ask for what’s missing: Inside the machine behind “The Breaking Point” — Part 2** — Score 7, opportunity — [Quelle](https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-02T04:00:56+00:00`, fetched `2026-11-02T04:03:15+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: In my last article, I described how the SR21 x World Government Summit workshop in Dubai was curated, planned, and run with AI as the orchestrator, piloted by two part-time organisers, Khor Zijian and Lin Fanghong. I promised a closer look at the engine underneath: Machine Augmented Insights Extraction, or MAIE. This is that look. […] The post Ask for what’s missing: Inside the machine behind “The Breaking Point” —…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **古川大臣記者会見（令和8年11月2日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261102-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-02T02:12:32+00:00`, fetched `2026-11-02T02:35:19+00:00`
@@ -158,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The top two coin reports tell a connected story. Bitcoin rose 1.16 per cent to US$78,293.83 in 24 hours while Ethereum rose 1.22 per cent to US$2,279.47. The broader crypto market gained 0.75 per cent. That surface looks like a clean recovery. My view is less comfortable. The Bitcoin bounce looks mechanical and brittle. The […] The post Bitcoin and Ethereum rebound through a shaky relief move appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Could creating stories be another way to get kids reading?** — Score 4, observation — [Quelle](https://e27.co/could-creating-stories-be-another-way-to-get-kids-reading-20261028/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-02T02:00:48+00:00`, fetched `2026-11-02T02:35:19+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: We spend a lot of time worrying about why kids (or most people) aren’t reading. Screens compete for our attention. Books struggle against the instant gratification of digital content. And as a parent, and now someone building a company around storytelling, I’ve thought about this a great deal. But a recent experiment with young storytellers […] The post Could creating stories be another way to get kids reading? appe…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
