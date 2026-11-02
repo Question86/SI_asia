@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T07:33:02+00:00",
-  "today_file_total": 22,
+  "generated_at": "2026-11-02T07:48:24+00:00",
+  "today_file_total": 23,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -43,14 +43,14 @@
       "max_score": 20,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 25.1,
-      "hot": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.1,
+      "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
       "key": "title:saves-hours-but-don-trust-blindly",
@@ -171,29 +171,6 @@
       "watchgraph_modules": [
         "sports_sf_tech_events"
       ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:future-architect.github.io",
-      "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://future-architect.github.io/articles/20261102a/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
@@ -320,6 +297,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:blog.amebaownd.com",
+      "title": "Ameba Owndサービス終了のお知らせ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://blog.amebaownd.com/posts/59351287/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:startup-island-taiwan-leads-deep-tech-startups-switch",
       "title": "Startup Island TAIWAN leads 33 deep-tech startups to SWITCH 2026, advancing their expansion into Singapore",
       "sources": [
@@ -364,6 +364,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "domain:future-architect.github.io",
+      "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://future-architect.github.io/articles/20261102a/"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "url:https://www.digital.go.jp/speech/minister-261102-01",
@@ -445,29 +468,6 @@
       ],
       "urls": [
         "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:chrome-safari-chrome",
-      "title": "アップル、Chromeを名指しで挑発。「Safariは あなたを守る、Chromeは あなたを晒す」 - すまほん!!",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://smhn.info/202611-apple-switch-to-safari-campaign-targets-chrome"
       ],
       "finding_count": 1,
       "max_score": 5,

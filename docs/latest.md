@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T07:32:57+00:00_
+_Generiert: 2026-11-02T07:48:21+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -150,14 +150,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年11月2日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2611/02/2000002780/)
+- **Ameba Owndサービス終了のお知らせ** — Score 5, observation — [Quelle](https://blog.amebaownd.com/posts/59351287/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-02T01:59:35+00:00`, fetched `2026-11-02T03:56:23+00:00`
+  - Zeit: published `2026-11-02T05:52:07+00:00`, fetched `2026-11-02T07:47:52+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: GMOグローバルサインは10月30日、シングルサインオンサービス「GMOトラスト・ログイン」の設定不備による情報漏えいで、利用企業2492社・4万5030人分の氏名やメールアドレスなどが対象になったと発表した。 顧客情報を含む一時ファイルなどを、ロゴ画像と同じ公開領域に保存する設計になっていたことで、約9年間にわたり...
+  - Kurz: いつもAmeba Owndをご利用いただき、誠にありがとうございます。 この度、Ameba Owndは2026年12月24日（木）11:00をもちまして、サービスを終了させていただくこととなりました。 2015年のサービス開始以来、多くの皆さまにサイトの制作・運営や情報発信の場としてご利用いただきましたことを、心より御礼申し上げます。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

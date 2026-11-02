@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T07:32:57+00:00",
-  "run_id": "2026-11-02T07:32:57+00:00",
+  "generated_at": "2026-11-02T07:48:21+00:00",
+  "run_id": "2026-11-02T07:48:21+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 1,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 6,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -539,6 +539,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a57e4c1ddcaf33c761a1"
+      },
+      {
+        "title": "Ameba Owndサービス終了のお知らせ",
+        "url": "https://blog.amebaownd.com/posts/59351287/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-02T05:52:07+00:00",
+        "fetched_at": "2026-11-02T07:47:52+00:00",
+        "summary": "いつもAmeba Owndをご利用いただき、誠にありがとうございます。 この度、Ameba Owndは2026年12月24日（木）11:00をもちまして、サービスを終了させていただくこととなりました。 2015年のサービス開始以来、多くの皆さまにサイトの制作・運営や情報発信の場としてご利用いただきましたことを、心より御礼申し上げます。...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "23db4700d5f49f5b6e0b"
       },
       {
         "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
@@ -1177,6 +1198,27 @@
       "id": "a57e4c1ddcaf33c761a1"
     },
     {
+      "title": "Ameba Owndサービス終了のお知らせ",
+      "url": "https://blog.amebaownd.com/posts/59351287/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-02T05:52:07+00:00",
+      "fetched_at": "2026-11-02T07:47:52+00:00",
+      "summary": "いつもAmeba Owndをご利用いただき、誠にありがとうございます。 この度、Ameba Owndは2026年12月24日（木）11:00をもちまして、サービスを終了させていただくこととなりました。 2015年のサービス開始以来、多くの皆さまにサイトの制作・運営や情報発信の場としてご利用いただきましたことを、心より御礼申し上げます。...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23db4700d5f49f5b6e0b"
+    },
+    {
       "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
       "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1303,74 +1345,25 @@
   ],
   "new_findings": [
     {
-      "title": "lightpanda-io/browser",
-      "url": "https://github.com/lightpanda-io/browser",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-11-02T07:32:25+00:00",
-      "summary": "Lightpanda: the headless browser designed for AI and automation https://lightpanda.io Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter and 9x faster than Chromium. Benchmarks Requesting 933 real web pages over the network on a AWS EC2 m5.large instance. See benchmark details . Metric Lightpanda…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Automatisierung",
-        "GitHub Trending",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "45048114a27eb98c5aac"
-    },
-    {
-      "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
-      "url": "https://future-architect.github.io/articles/20261102a/",
+      "title": "Ameba Owndサービス終了のお知らせ",
+      "url": "https://blog.amebaownd.com/posts/59351287/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-02T01:20:43+00:00",
-      "fetched_at": "2026-11-02T07:32:25+00:00",
-      "summary": "秋のブログ週間2026 の5本目です。 前回の 非機能はなぜ必要なのか の続編です。前回は社内の非機能要件ガイドラインを読んで感じた違和感をエッセイとして書きましたが、今回はその考え方を、実務で使える形に整理し直したものです。 本記事の位置づけ本記事は、非機能を「システム開発者の目線」ではなく「事業者（サ...",
+      "published_at": "2026-11-02T05:52:07+00:00",
+      "fetched_at": "2026-11-02T07:47:52+00:00",
+      "summary": "いつもAmeba Owndをご利用いただき、誠にありがとうございます。 この度、Ameba Owndは2026年12月24日（木）11:00をもちまして、サービスを終了させていただくこととなりました。 2015年のサービス開始以来、多くの皆さまにサイトの制作・運営や情報発信の場としてご利用いただきましたことを、心より御礼申し上げます。...",
       "matched_keywords": [
-        "GitHub",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "157dbae6c940fdac9405"
+      "id": "23db4700d5f49f5b6e0b"
     }
   ],
   "source_errors": [],
