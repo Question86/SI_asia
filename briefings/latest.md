@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T17:55:46+00:00_
+_Generiert: 2026-11-02T18:04:34+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+75 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -258,6 +258,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
   - Kurz: The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization… The post Security risk assessments include repository protection status appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **pull_request_target blocked by default December 2** — Score 10, risk — [Quelle](https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-02T15:14:46+00:00`, fetched `2026-11-02T18:03:56+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.0); recent (+1.0)
+  - Kurz: Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in all public repositories, unless an applicable Actions event policy explicitly allows them. Enforcement was previously scheduled for… The post pull_request_target blocked by default December 2 appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **LifeVal** — Score 10, observation — [Quelle](https://openai.com/index/lifeval)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-02T09:00:00+00:00`, fetched `2026-11-02T17:48:16+00:00`
@@ -293,15 +302,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: At about 4.20am Singapore time on October 30, while most of Southeast Asia’s crypto traders were asleep, money began leaving Binance. By the time the region’s markets opened, the world’s largest crypto exchange had suffered the biggest theft in crypto history. Blockchain analytics firm Chainalysis has now published its reconstruction of the attack. It puts […] The post Binance’s US$6.4B hack was decided in 54 minute…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI prepared every decision. It did not raise the ceiling on scale** — Score 8, observation — [Quelle](https://e27.co/ai-prepared-every-decision-it-did-not-raise-the-ceiling-on-scale-20261028/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-02T03:30:20+00:00`, fetched `2026-11-02T03:33:07+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Every week, the meetings I sit in across the businesses I work with are recorded, and an AI system turns each one into four lists: decisions, risks, blockers and next priorities. It takes minutes. I rely on it. After months of reading those lists back to back, one thing is hard to miss. The system […] The post AI prepared every decision. It did not raise the ceiling on scale appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
