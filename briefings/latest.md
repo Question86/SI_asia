@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T23:47:13+00:00_
+_Generiert: 2026-11-02T23:54:39+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+82 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -164,6 +164,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Scaling Git at OpenAI** — Score 14, observation — [Quelle](https://openai.com/index/scaling-git-at-openai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-02T15:30:00+00:00`, fetched `2026-11-02T23:54:06+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow, Webentwicklung
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); Webentwicklung (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN23328936/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

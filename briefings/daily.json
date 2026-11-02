@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T23:47:19+00:00",
-  "today_file_total": 81,
+  "generated_at": "2026-11-02T23:54:43+00:00",
+  "today_file_total": 82,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -115,6 +115,34 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
+      "key": "domain:openai.com",
+      "title": "Qodo builds context into AI code review with Codex",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/qodo-codex-plugin",
+        "https://openai.com/index/scaling-git-at-openai",
+        "https://openai.com/index/lifeval",
+        "https://openai.com/index/grid-protectors-program"
+      ],
+      "finding_count": 4,
+      "max_score": 15,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 26.4,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
       "key": "earthquake:updates | reliefweb:unknown",
       "title": "Updates | ReliefWeb",
       "sources": [
@@ -186,33 +214,6 @@
         "ai_agents_workflow"
       ],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "Qodo builds context into AI code review with Codex",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/qodo-codex-plugin",
-        "https://openai.com/index/lifeval",
-        "https://openai.com/index/grid-protectors-program"
-      ],
-      "finding_count": 3,
-      "max_score": 15,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.3,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:saves-hours-but-don-trust-blindly",

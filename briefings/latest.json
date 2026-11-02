@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T23:47:13+00:00",
-  "run_id": "2026-11-02T23:47:13+00:00",
+  "generated_at": "2026-11-02T23:54:39+00:00",
+  "run_id": "2026-11-02T23:54:39+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
-    "medium": 23,
+    "medium": 24,
     "observe": 58,
     "source_errors": 0
   },
@@ -483,6 +483,51 @@
           "PINS"
         ],
         "id": "c63dbabb2d3a58f87507"
+      },
+      {
+        "title": "Scaling Git at OpenAI",
+        "url": "https://openai.com/index/scaling-git-at-openai",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-02T15:30:00+00:00",
+        "fetched_at": "2026-11-02T23:54:06+00:00",
+        "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+        "matched_keywords": [
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow",
+          "Webentwicklung"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.5); Webentwicklung (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "6de775d90ca90692f990"
       },
       {
         "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -2572,6 +2617,51 @@
       "id": "c63dbabb2d3a58f87507"
     },
     {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-02T15:30:00+00:00",
+      "fetched_at": "2026-11-02T23:54:06+00:00",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "matched_keywords": [
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow",
+        "Webentwicklung"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); Webentwicklung (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "6de775d90ca90692f990"
+    },
+    {
       "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4287",
       "source": "BSI CERT-Bund Security Advisories",
@@ -4201,25 +4291,49 @@
   ],
   "new_findings": [
     {
-      "title": "スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2153206.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-02T10:52:51+00:00",
-      "fetched_at": "2026-11-02T23:46:40+00:00",
-      "summary": "スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場",
+      "published_at": "2026-11-02T15:30:00+00:00",
+      "fetched_at": "2026-11-02T23:54:06+00:00",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow",
+        "Webentwicklung"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); Webentwicklung (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d6fa8d19cc10f7bbe758"
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "6de775d90ca90692f990"
     }
   ],
   "source_errors": [],
