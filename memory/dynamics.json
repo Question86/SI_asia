@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-02T01:39:10Z",
+  "generated_at": "2026-11-02T02:15:46Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 8,
+    "dynamics": 10,
     "bands": {
       "strong": 1,
-      "watch": 3,
+      "watch": 5,
       "quiet": 4
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "watch": 3,
+      "watch": 5,
       "quiet": 4
     }
   },
@@ -22,7 +22,7 @@
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:01:55+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -44,11 +44,36 @@
       "summary": ""
     },
     {
+      "title": "M 5.1 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-02T01:36:08.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-02 01:18:16 UTC 2026-11-02 01:18:16 UTC at epicenter Location 31.224°S 177.724°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.1 - Banda Sea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:09:20.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -69,11 +94,35 @@
       "summary": "Time 2026-11-02 00:53:09 UTC 2026-11-02 00:53:09 UTC at epicenter Location 6.974°S 129.936°E Depth 85.69 km (53.25 mi)"
     },
     {
+      "title": "M 5.1 - Banda Sea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-02T01:17:19+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI saves me hours, but I don’t trust it blindly",
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:00:15+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -96,10 +145,10 @@
       "summary": "I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign planning and website troubleshooting. It’s saved me countless h…"
     },
     {
-      "title": "M 5.1 - Banda Sea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
+      "title": "M 5.1 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-02T01:17:19+00:00",
+      "published_at": "2026-11-02T01:43:14+00:00",
       "age_days": 0.02,
       "topics": [
         "general"
@@ -124,7 +173,7 @@
       "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T00:39:14+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -150,7 +199,7 @@
       "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T16:58:30+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -176,22 +225,22 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T01:17:19+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.5,
+      "dynamics_score": 6.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -202,7 +251,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T21:25:56+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
