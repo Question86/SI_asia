@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-02T15:12:09Z",
+  "generated_at": "2026-11-02T15:23:38Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4285",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 136.31,
+      "age_days": 136.32,
       "topics": [
         "security"
       ],
@@ -101,7 +101,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 66.04,
+      "age_days": 66.05,
       "topics": [
         "security",
         "infra"
@@ -113,15 +113,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.57,
+      "baseline_z_hint": 7.22,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.57",
+        "baseline z_hint 7.22",
         "high terms: rce, exchange",
         "security high-signal: rce, exchange",
-        "aging penalty -8.0 for 66.0d old signal",
+        "aging penalty -8.0 for 66.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -131,7 +131,7 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T07:45:00.000+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -157,7 +157,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:57+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security",
         "infra"
@@ -184,7 +184,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4283",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -210,7 +210,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -236,7 +236,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4287",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:57+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -260,7 +260,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4214",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -284,7 +284,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4284",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -308,7 +308,7 @@
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T12:00:00+09:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -332,7 +332,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4254",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:22+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -356,7 +356,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4253",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -380,7 +380,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1406/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-28T00:00:00+00:00",
-      "age_days": 5.63,
+      "age_days": 5.64,
       "topics": [
         "ai",
         "security"
@@ -406,7 +406,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 14.63,
+      "age_days": 14.64,
       "topics": [
         "ai",
         "security"
@@ -443,13 +443,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 3,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.73,
+      "baseline_z_hint": 3.59,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +3",
         "momentum delta +3",
-        "baseline z_hint 3.73",
+        "baseline z_hint 3.59",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 137.0d old signal",
@@ -462,7 +462,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4243",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -488,7 +488,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4245",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -540,7 +540,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-28T00:00:00+00:00",
-      "age_days": 5.63,
+      "age_days": 5.64,
       "topics": [
         "ai",
         "security"
@@ -567,7 +567,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:33:02+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -619,7 +619,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:18:24+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -646,7 +646,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:32:25+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "security"
@@ -758,7 +758,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Progress-WS-FTP-ermoeglichen-Kompromittierung-11507580.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T09:44:00.000+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -808,7 +808,7 @@
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:46:38+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -835,7 +835,7 @@
       "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:03:47+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -862,7 +862,7 @@
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T03:13:40+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -886,7 +886,7 @@
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:01:55+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -912,7 +912,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T14:40:02+00:00",
-      "age_days": 10.02,
+      "age_days": 10.03,
       "topics": [
         "general"
       ],
@@ -936,7 +936,7 @@
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:34:54+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "infra"
@@ -992,7 +992,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T08:27:49.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -1012,40 +1012,35 @@
       "summary": "Time 2026-11-02 08:13:14 UTC 2026-11-02 08:13:14 UTC at epicenter Location 1.392°N 124.648°E Depth 196.65 km (122.19 mi)"
     },
     {
-      "title": "Startups recalibrate Chinese AI for the West",
-      "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 136.55,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 17.18,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 3.8,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 3.80",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 136.6d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Binance’s US$6.4B hack was decided in 54 minutes, and the chase isn’t over",
       "url": "https://e27.co/binances-us6-4b-hack-was-decided-in-54-minutes-and-the-chase-isnt-over-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T11:48:44+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Mozilla (28 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1406/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-19T15:21:10+00:00",
+      "age_days": 14.0,
       "topics": [
         "general"
       ],
