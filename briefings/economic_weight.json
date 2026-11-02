@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T02:58:55+00:00",
+  "generated_at": "2026-11-02T03:14:03+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2023,7 +2023,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
       "status": "active"
     },
     {
@@ -9401,7 +9401,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-02T01:43:14+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
       "status": "active"
     },
     {
@@ -10676,7 +10676,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-02T01:17:19+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
       "status": "active"
     },
     {
@@ -13757,6 +13757,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6e7737af690d821af1ac",
+      "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-02T03:13:40+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -15386,7 +15403,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T01:01:55+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
       "status": "active"
     },
     {
@@ -22459,7 +22476,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T00:39:14+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
       "status": "active"
     },
     {
@@ -28871,7 +28888,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T02:36:14+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
       "status": "active"
     },
     {
@@ -30792,7 +30809,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-30T02:58:50+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
       "status": "active"
     },
     {
@@ -33618,6 +33635,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_9f4ca2b80ad464eaac38",
+      "title": "アップル、Chromeを名指しで挑発。「Safariは あなたを守る、Chromeは あなたを晒す」 - すまほん!!",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_a0dc996da63083e18884",
       "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
       "event_classes": [
@@ -35569,7 +35603,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T01:17:19+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
       "status": "active"
     },
     {
@@ -35605,23 +35639,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_9f4ca2b80ad464eaac38",
-      "title": "アップル、Chromeを名指しで挑発。「Safariは あなたを守る、Chromeは あなたを晒す」 - すまほん!!",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-02T02:58:37+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
@@ -35943,7 +35960,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T02:36:14+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
       "status": "active"
     },
     {
@@ -36045,7 +36062,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T02:36:14+00:00",
-      "last_seen_at": "2026-11-02T02:58:37+00:00",
+      "last_seen_at": "2026-11-02T03:13:40+00:00",
       "status": "active"
     },
     {
