@@ -1,28 +1,83 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-02T11:36:46Z",
+  "generated_at": "2026-11-02T12:17:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
-      "krass": 2,
-      "strong": 14,
-      "watch": 21
+      "krass": 6,
+      "strong": 18,
+      "watch": 13
     },
     "bands_after_gate_recheck": {
-      "strong": 19,
-      "watch": 21
+      "krass": 1,
+      "strong": 26,
+      "watch": 13
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [hoch] pgAdmin: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4242",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-02T11:54:21+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in pgAdmin ausnutzen, um erweiterte Berechtigungen, möglicherweise sogar Administratorrechte, zu erlangen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder Denial-of-Service-Angriffe zu starten."
+    },
+    {
+      "title": "[UPDATE] [hoch] Google Cloud Platform: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 65.92,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 6,
+      "baseline_z_hint": 15.55,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +6",
+        "baseline z_hint 15.55",
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "aging penalty -8.0 for 65.9d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
     {
       "title": "Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen",
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 136.16,
+      "age_days": 136.19,
       "topics": [
         "security"
       ],
@@ -33,12 +88,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.12,
+      "baseline_z_hint": 1.75,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.12",
+        "baseline z_hint 1.75",
         "high terms: rce, ivanti",
         "security high-signal: rce, ivanti",
         "aging penalty -8.0 for 136.2d old signal",
@@ -51,7 +106,7 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T07:45:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -73,11 +128,37 @@
       "summary": "Angreifer missbrauchen Lücken in veralteten Betriebssystemen oder als Zero-Day-Lücken in Drupal, Ivanti Connect Secure und Synology."
     },
     {
+      "title": "[UPDATE] [hoch] Google Cloud Platform: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-02T11:54:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T12:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -97,11 +178,59 @@
       "summary": "ALCPUが提供するCore Tempのカーネルドライバには、IOCTLインタフェースに対するアクセス制御が不十分な脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] Composer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4254",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-02T11:54:22+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Composer ausnutzen, Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren oder Informationen auszulesen."
+    },
+    {
+      "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4253",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-02T11:54:21+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "Euro area bank interest rate statistics: September 2026",
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
       "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 136.88,
+      "age_days": 136.91,
       "topics": [
         "macro"
       ],
@@ -112,13 +241,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.41,
+      "baseline_z_hint": 1.92,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 2.41",
+        "baseline z_hint 1.92",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 136.9d old signal",
@@ -127,11 +256,89 @@
       "summary": ""
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (pillow and aspell): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4243",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-02T11:54:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pillow and aspell) ausnutzen, um einen Denial of Service Angriff durchzuführen oder beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Fleet: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4245",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-02T11:54:21+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Fleet ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Berechtigungen zu erhöhen, Informationen auszulesen, Daten zu manipulieren oder einen Denial of Service Angriff durchzuführen"
+    },
+    {
+      "title": "[UPDATE] [hoch] Rancher: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4246",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-02T11:27:32+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Rancher ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen auszulesen oder Daten zu manipulieren."
+    },
+    {
       "title": "lightpanda-io/browser",
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:33:02+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -156,7 +363,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:26:32+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -183,7 +390,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:18:24+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -210,7 +417,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:32:25+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -237,7 +444,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 136.01,
+      "age_days": 136.03,
       "topics": [
         "general"
       ],
@@ -265,7 +472,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-02T08:48:46+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro",
@@ -294,7 +501,7 @@
       "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-02T11:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security",
@@ -322,7 +529,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Progress-WS-FTP-ermoeglichen-Kompromittierung-11507580.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T09:44:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -347,7 +554,7 @@
       "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-bedrohen-Veeam-Management-Pack-11507704.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T09:32:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -372,7 +579,7 @@
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:46:38+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -399,7 +606,7 @@
       "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:03:47+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -426,7 +633,7 @@
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T03:13:40+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -450,7 +657,7 @@
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:01:55+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -476,7 +683,7 @@
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:34:54+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "infra"
@@ -504,7 +711,7 @@
       "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:00:56+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -532,7 +739,7 @@
       "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 136.4,
+      "age_days": 136.43,
       "topics": [
         "ai",
         "macro"
@@ -544,12 +751,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 11.6,
+      "baseline_z_hint": 10.3,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 11.60",
+        "baseline z_hint 10.30",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 136.4d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance",
@@ -562,7 +769,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T08:27:49.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -586,7 +793,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T05:11:20.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -611,7 +818,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:36:08.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -636,7 +843,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:09:20.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -661,7 +868,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T05:41:43+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -685,7 +892,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T05:17:41+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -709,7 +916,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:43:14+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -733,7 +940,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:17:19+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -757,7 +964,7 @@
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:00:15+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -784,7 +991,7 @@
       "url": "https://e27.co/malaysia-is-selling-more-chips-but-it-isnt-winning-more-of-the-market-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T09:48:48+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -808,7 +1015,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261102-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-02T02:36:14+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -832,7 +1039,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T02:12:33.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "disaster"
@@ -854,203 +1061,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Time 2026-11-02 01:54:55 UTC 2026-11-02 01:54:55 UTC at epicenter Location 30.841°N 135.199°E Depth 510.07 km (316.94 mi)"
-    },
-    {
-      "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
-      "url": "https://future-architect.github.io/articles/20261102a/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-08T19:49:03+00:00",
-      "age_days": 24.66,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.72,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -1.3 for 24.7d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-04T16:56:25+00:00",
-      "age_days": 58.78,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 58.8d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T09:07:55+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Ameba Owndサービス終了のお知らせ",
-      "url": "https://blog.amebaownd.com/posts/59351287/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T07:48:24+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ドコモの5G基地局は他社の半分以下、5G化率18.5％で最下位 総務省調査",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2153051.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T10:49:01+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "アップル、Chromeを名指しで挑発。「Safariは あなたを守る、Chromeは あなたを晒す」 - すまほん!!",
-      "url": "https://smhn.info/202611-apple-switch-to-safari-campaign-targets-chrome",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T02:58:37+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2153092.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T09:23:57+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin and Ethereum rebound through a shaky relief move",
-      "url": "https://e27.co/bitcoin-and-ethereum-rebound-through-a-shaky-relief-move-20261102/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-02T02:36:14+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] pgAdmin: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
