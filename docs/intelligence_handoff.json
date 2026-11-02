@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-02T14:38:38Z",
+  "generated_at": "2026-11-02T15:12:09Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (perl-yaml, pillow): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4285",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4287",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:57+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -85,35 +85,11 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in QT ausnutzen, um einen Denial of Service Angriff durchzuführen oder Dateien zu manipulieren."
     },
     {
-      "title": "[UPDATE] [mittel] expat: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4214",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in expat ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
       "title": "Euro area bank interest rate statistics: September 2026",
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
-      "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
+      "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 137.0,
+      "age_days": 137.03,
       "topics": [
         "macro"
       ],
@@ -122,14 +98,15 @@
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 2,
+      "source_count": 3,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
+      "baseline_z_hint": 3.73,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "source breadth +2",
+        "source breadth +3",
         "momentum delta +3",
+        "baseline z_hint 3.73",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 137.0d old signal",
@@ -142,7 +119,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4243",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -168,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4245",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -194,7 +171,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4246",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:27:32+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -216,11 +193,38 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Rancher ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen auszulesen oder Daten zu manipulieren."
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-28T00:00:00+00:00",
+      "age_days": 5.63,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité."
+    },
+    {
       "title": "lightpanda-io/browser",
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:33:02+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -245,7 +249,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:26:32+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -272,7 +276,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:18:24+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -299,7 +303,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:32:25+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"

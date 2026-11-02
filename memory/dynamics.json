@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-02T14:38:38Z",
+  "generated_at": "2026-11-02T15:12:09Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
-      "krass": 7,
-      "strong": 23,
-      "watch": 7
+      "krass": 8,
+      "strong": 26,
+      "watch": 3
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 31,
-      "watch": 7
+      "strong": 35,
+      "watch": 3
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4285",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 136.29,
+      "age_days": 136.31,
       "topics": [
         "security"
       ],
@@ -84,12 +84,11 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.29,
+      "baseline_z_hint": 0.0,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.29",
         "high terms: rce, ivanti",
         "security high-signal: rce, ivanti",
         "aging penalty -8.0 for 136.3d old signal",
@@ -102,7 +101,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 66.02,
+      "age_days": 66.04,
       "topics": [
         "security",
         "infra"
@@ -114,12 +113,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.62,
+      "baseline_z_hint": 7.57,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.62",
+        "baseline z_hint 7.57",
         "high terms: rce, exchange",
         "security high-signal: rce, exchange",
         "aging penalty -8.0 for 66.0d old signal",
@@ -132,7 +131,7 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T07:45:00.000+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -158,7 +157,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:57+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security",
         "infra"
@@ -185,7 +184,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4283",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -211,7 +210,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -237,7 +236,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4287",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:57+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -261,7 +260,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4214",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -285,7 +284,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4284",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -309,7 +308,7 @@
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T12:00:00+09:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -333,7 +332,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4254",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:22+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -357,7 +356,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4253",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -377,11 +376,63 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "Multiples vulnérabilités dans les produits Mozilla (28 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1406/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-28T00:00:00+00:00",
+      "age_days": 5.63,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+    },
+    {
+      "title": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "age_days": 14.63,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)."
+    },
+    {
       "title": "Euro area bank interest rate statistics: September 2026",
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
-      "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
+      "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 137.0,
+      "age_days": 137.03,
       "topics": [
         "macro"
       ],
@@ -390,14 +441,15 @@
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 2,
+      "source_count": 3,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
+      "baseline_z_hint": 3.73,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "source breadth +2",
+        "source breadth +3",
         "momentum delta +3",
+        "baseline z_hint 3.73",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 137.0d old signal",
@@ -410,7 +462,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4243",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -436,7 +488,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4245",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -462,7 +514,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4246",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:27:32+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -484,11 +536,38 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Rancher ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen auszulesen oder Daten zu manipulieren."
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-28T00:00:00+00:00",
+      "age_days": 5.63,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité."
+    },
+    {
       "title": "lightpanda-io/browser",
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:33:02+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -513,7 +592,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:26:32+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -540,7 +619,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:18:24+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -567,7 +646,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:32:25+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -594,7 +673,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 136.13,
+      "age_days": 136.16,
       "topics": [
         "general"
       ],
@@ -612,7 +691,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 136.1d old signal",
+        "aging penalty -8.0 for 136.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -622,7 +701,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-02T08:48:46+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro",
@@ -651,7 +730,7 @@
       "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-02T11:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security",
@@ -679,7 +758,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Progress-WS-FTP-ermoeglichen-Kompromittierung-11507580.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T09:44:00.000+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -704,7 +783,7 @@
       "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-bedrohen-Veeam-Management-Pack-11507704.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T09:32:00.000+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -729,7 +808,7 @@
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:46:38+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -756,7 +835,7 @@
       "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:03:47+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -783,7 +862,7 @@
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T03:13:40+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -807,7 +886,7 @@
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:01:55+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -829,11 +908,35 @@
       "summary": ""
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-23T14:40:02+00:00",
+      "age_days": 10.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Startup Island TAIWAN leads 33 deep-tech startups to SWITCH 2026, advancing their expansion into Singapore",
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:34:54+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "infra"
@@ -861,7 +964,7 @@
       "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:00:56+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -885,40 +988,11 @@
       "summary": "In my last article, I described how the SR21 x World Government Summit workshop in Dubai was curated, planned, and run with AI as the orchestrator, piloted by two part-time organisers, Khor Zijian and Lin Fanghong. I promised a closer look at the engine underneath: Machine Augmented Insights Extraction, or MAIE. This…"
     },
     {
-      "title": "Startups recalibrate Chinese AI for the West",
-      "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 136.53,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 18.61,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 5.1,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 5.10",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 136.5d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T08:27:49.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -938,114 +1012,44 @@
       "summary": "Time 2026-11-02 08:13:14 UTC 2026-11-02 08:13:14 UTC at epicenter Location 1.392°N 124.648°E Depth 196.65 km (122.19 mi)"
     },
     {
-      "title": "Binance’s US$6.4B hack was decided in 54 minutes, and the chase isn’t over",
-      "url": "https://e27.co/binances-us6-4b-hack-was-decided-in-54-minutes-and-the-chase-isnt-over-20261102/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-02T11:48:44+00:00",
-      "age_days": 0.12,
+      "title": "Startups recalibrate Chinese AI for the West",
+      "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 136.55,
       "topics": [
-        "general"
+        "ai",
+        "macro"
       ],
-      "dynamics_score": 17.0,
+      "dynamics_score": 17.18,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
+      "baseline_z_hint": 3.8,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3"
+        "momentum delta +3",
+        "baseline z_hint 3.80",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 136.6d old signal",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
     {
-      "title": "M 4.6 - 201 km NE of Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-02T05:11:20.040+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-02 04:45:48 UTC 2026-11-02 04:45:48 UTC at epicenter Location 46.602°N 149.579°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.1 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-02T01:36:08.040+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-02 01:18:16 UTC 2026-11-02 01:18:16 UTC at epicenter Location 31.224°S 177.724°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.1 - Banda Sea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-02T01:09:20.040+00:00",
-      "age_days": 0.56,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 9.9"
-      ],
-      "summary": "Time 2026-11-02 00:53:09 UTC 2026-11-02 00:53:09 UTC at epicenter Location 6.974°S 129.936°E Depth 85.69 km (53.25 mi)"
-    },
-    {
-      "title": "M 4.9 - 175 km WNW of Panguna, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-02T05:41:43+00:00",
-      "age_days": 0.37,
+      "title": "Binance’s US$6.4B hack was decided in 54 minutes, and the chase isn’t over",
+      "url": "https://e27.co/binances-us6-4b-hack-was-decided-in-54-minutes-and-the-chase-isnt-over-20261102/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-02T11:48:44+00:00",
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.5,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
