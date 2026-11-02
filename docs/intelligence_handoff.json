@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-02T22:37:32Z",
+  "generated_at": "2026-11-02T23:11:26Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (perl-yaml, pillow): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4285",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 137.34,
+      "age_days": 137.36,
       "topics": [
         "macro"
       ],
@@ -84,7 +84,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 137.3d old signal",
+        "aging penalty -8.0 for 137.4d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -94,7 +94,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4243",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-02T15:58:30+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4245",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4246",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:27:32+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-28T00:00:00+00:00",
-      "age_days": 5.94,
+      "age_days": 5.97,
       "topics": [
         "ai",
         "security"
@@ -225,7 +225,7 @@
       "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-02T15:47:21+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -251,7 +251,7 @@
       "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-02T15:14:46+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -277,7 +277,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:33:02+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -302,7 +302,7 @@
       "url": "https://www.bis.org/speeches/20261102-capital-needs-ai-and-ai-needs-capital-europes-opportunity-more-growth",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 137.34,
+      "age_days": 137.36,
       "topics": [
         "ai"
       ],
@@ -320,7 +320,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 137.3d old signal",
+        "aging penalty -8.0 for 137.4d old signal",
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": ""
