@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T14:48:51+00:00_
+_Generated: 2026-11-02T14:56:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `53`
+- findings: `60`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-02T14:48:51+00:00_
 - url: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html
 - summary: Euro area bank interest rate statistics: September 2026
 
-### 6. 「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘
+### 6. Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-11-02T14:49:00+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260097.en.html
+- summary: Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 7. 「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-02T06:27:09+00:00`
 - url: https://pc.watch.impress.co.jp/docs/news/2153092.html
 - summary: 「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘
 
-### 7. GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-11-01T16:58:30+00:00`
-- url: https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html
-- summary: GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusionは、与えられたタスクの特性に応じて、単一または複数のAIモデルを組み合わせて実行するマルチモデル対応の機能です。 推論、コー...
-
-### 8. M 4.7 - south of the Fiji Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-02T14:30:22.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuwv
-- summary: Time 2026-11-02 14:05:23 UTC 2026-11-02 14:05:23 UTC at epicenter Location 25.618°S 179.671°E Depth 502.36 km (312.15 mi)
+### 8. Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `11`
+- published: `2026-10-28T00:00:00+00:00`
+- url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.
 
 END OF DOCUMENT

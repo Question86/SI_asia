@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T14:48:51+00:00_
+_Generiert: 2026-11-02T14:56:31+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+60 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Euro area bank interest rate statistics: September 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260097.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-11-02T14:49:00+00:00`, fetched `2026-11-02T14:56:00+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘** — Score 12, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2153092.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-02T06:27:09+00:00`, fetched `2026-11-02T09:23:20+00:00`
@@ -140,6 +149,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)** — Score 11, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-28T00:00:00+00:00`, fetched `2026-11-02T14:56:00+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026** — Score 10, observation — [Quelle](https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -195,6 +213,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Every week, the meetings I sit in across the businesses I work with are recorded, and an AI system turns each one into four lists: decisions, risks, blockers and next priorities. It takes minutes. I rely on it. After months of reading those lists back to back, one thing is hard to miss. The system […] The post AI prepared every decision. It did not raise the ceiling on scale appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans les produits Belden (28 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1407/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-28T00:00:00+00:00`, fetched `2026-11-02T14:56:00+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans Axis Camera Station Pro (28 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1408/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-28T00:00:00+00:00`, fetched `2026-11-02T14:56:00+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Axis Camera Station Pro. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitslücken in Progress WS_FTP ermöglichen Kompromittierung** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-in-Progress-WS-FTP-ermoeglichen-Kompromittierung-11507580.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-02T09:44:00.000+00:00`, fetched `2026-11-02T09:55:38+00:00`
@@ -221,33 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Startup Island TAIWAN leads 33 deep-tech startups to SWITCH 2026, advancing their expansion into Singapore** — Score 7, opportunity — [Quelle](https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-02T04:34:54+00:00`, fetched `2026-11-02T04:46:02+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Startup Island TAIWAN, the national startup brand of Taiwan, backed by the National Development Council (NDC), led 33 Taiwanese deep-tech startups to the Taiwan Pavilion at SWITCH 2026 in Singapore from October 27 to 29, in partnership with Startup Terrace, Hsinchu Science Park Bureau, the Taiwan Stock Exchange (TWSE) and Taiwan Digi Gold Card. Exhibiting […] The post Startup Island TAIWAN leads 33 deep-tech startup…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ** — Score 7, observation — [Quelle](https://future-architect.github.io/articles/20261102a/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-02T01:20:43+00:00`, fetched `2026-11-02T07:32:25+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: 秋のブログ週間2026 の5本目です。 前回の 非機能はなぜ必要なのか の続編です。前回は社内の非機能要件ガイドラインを読んで感じた違和感をエッセイとして書きましたが、今回はその考え方を、実務で使える形に整理し直したものです。 本記事の位置づけ本記事は、非機能を「システム開発者の目線」ではなく「事業者（サ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **古川大臣記者会見（令和8年11月2日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261102-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-02T02:12:32+00:00`, fetched `2026-11-02T02:35:19+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 古川大臣記者会見（令和8年11月2日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
