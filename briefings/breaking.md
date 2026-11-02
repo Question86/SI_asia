@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-02T23:02:49+00:00_
+_Generiert: 2026-11-02T23:31:10+00:00_
 
 ## Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen
 
