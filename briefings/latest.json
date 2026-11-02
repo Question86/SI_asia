@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T04:03:45+00:00",
-  "run_id": "2026-11-02T04:03:45+00:00",
+  "generated_at": "2026-11-02T04:19:35+00:00",
+  "run_id": "2026-11-02T04:19:35+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -801,29 +801,7 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Ask for what’s missing: Inside the machine behind “The Breaking Point” — Part 2",
-      "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-02T04:00:56+00:00",
-      "fetched_at": "2026-11-02T04:03:15+00:00",
-      "summary": "In my last article, I described how the SR21 x World Government Summit workshop in Dubai was curated, planned, and run with AI as the orchestrator, piloted by two part-time organisers, Khor Zijian and Lin Fanghong. I promised a closer look at the engine underneath: Machine Augmented Insights Extraction, or MAIE. This is that look. […] The post Ask for what’s missing: Inside the machine behind “The Breaking Point” —…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "77472ff607dd5e984ea7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
