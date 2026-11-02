@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-02T01:13:03Z",
+  "generated_at": "2026-11-02T01:20:56Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 4,
+    "dynamics": 8,
     "bands": {
       "strong": 1,
-      "watch": 1,
-      "quiet": 2
+      "watch": 3,
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "watch": 1,
-      "quiet": 2
+      "watch": 3,
+      "quiet": 4
     }
   },
   "top_dynamics": [
@@ -26,7 +26,7 @@
       "topics": [
         "ai"
       ],
-      "dynamics_score": 23.0,
+      "dynamics_score": 20.5,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -42,6 +42,31 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 5.1 - Banda Sea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-02T01:09:20.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 9.9"
+      ],
+      "summary": "Time 2026-11-02 00:53:09 UTC 2026-11-02 00:53:09 UTC at epicenter Location 6.974°S 129.936°E Depth 85.69 km (53.25 mi)"
     },
     {
       "title": "AI saves me hours, but I don’t trust it blindly",
@@ -71,26 +96,50 @@
       "summary": "I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign planning and website troubleshooting. It’s saved me countless h…"
     },
     {
+      "title": "M 5.1 - Banda Sea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-02T01:17:19+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T00:39:14+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 8.5,
+      "dynamics_score": 11.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -101,7 +150,7 @@
       "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T16:58:30+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -121,7 +170,58 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusionは、与えられたタスクの特性に応じて、単一または複数のAIモデルを組み合わせて実行するマルチモデル対応の機能です。 推論、コー..."
+    },
+    {
+      "title": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-02T01:17:19+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-01T21:25:56+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AI saves me hours, but I don’t trust it blindly” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AI saves me hours, but I don’t trust it blindly” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=20.5."
 }
