@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T01:02:15+00:00",
+  "generated_at": "2026-11-02T01:17:38+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -11938,6 +11938,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d0dc25d076321f73b565",
+      "title": "M 5.1 - Banda Sea",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-02T01:17:19+00:00",
+      "last_seen_at": "2026-11-02T01:17:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -15339,6 +15356,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3c4b146168a8eb2b1659",
+      "title": "AI saves me hours, but I don’t trust it blindly",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 119200.0,
+      "p50_usd": 11920000.0,
+      "p90_usd": 1192000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-02T01:01:55+00:00",
+      "last_seen_at": "2026-11-02T01:17:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3d5151f4252efca247cf",
       "title": "headroomlabs-ai/headroom",
       "event_classes": [
@@ -15575,23 +15609,6 @@
       "first_seen_at": "2026-10-14T05:21:56+00:00",
       "last_seen_at": "2026-10-14T23:56:45+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_3c4b146168a8eb2b1659",
-      "title": "AI saves me hours, but I don’t trust it blindly",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 119200.0,
-      "p50_usd": 11920000.0,
-      "p90_usd": 1192000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-02T01:01:55+00:00",
-      "last_seen_at": "2026-11-02T01:01:55+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -22425,7 +22442,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T00:39:14+00:00",
-      "last_seen_at": "2026-11-02T01:01:55+00:00",
+      "last_seen_at": "2026-11-02T01:17:19+00:00",
       "status": "active"
     },
     {
@@ -35537,6 +35554,23 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ff5c0205241e8b7ab9f9",
+      "title": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-02T01:17:19+00:00",
+      "last_seen_at": "2026-11-02T01:17:19+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
