@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T07:48:21+00:00_
+_Generiert: 2026-11-02T07:56:19+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-11-02T07:48:21+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
+- **GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.104 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.104 million .
 - **GDACS: Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574997)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen** — Score 22, risk — [Quelle](https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-02T07:45:00.000+00:00`, fetched `2026-11-02T07:55:49+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Angreifer missbrauchen Lücken in veralteten Betriebssystemen oder als Zero-Day-Lücken in Drupal, Ivanti Connect Secure und Synology.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **lightpanda-io/browser** — Score 20, opportunity — [Quelle](https://github.com/lightpanda-io/browser)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T07:48:21+00:00_
+_Generated: 2026-11-02T07:56:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `24`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-02T07:48:21+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. lightpanda-io/browser
+### 2. Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen
+- source: heise Security Alerts
+- score: `22`
+- published: `2026-11-02T07:45:00.000+00:00`
+- url: https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html
+- summary: Angreifer missbrauchen Lücken in veralteten Betriebssystemen oder als Zero-Day-Lücken in Drupal, Ivanti Connect Secure und Synology.
+
+### 3. lightpanda-io/browser
 - source: GitHub Trending RSS All Languages Daily
 - score: `20`
 - published: `None`
 - url: https://github.com/lightpanda-io/browser
 - summary: Lightpanda: the headless browser designed for AI and automation https://lightpanda.io Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter…
 
-### 3. AI saves me hours, but I don’t trust it blindly
+### 4. AI saves me hours, but I don’t trust it blindly
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-11-02T01:00:15+00:00`
 - url: https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/
 - summary: I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign pla…
-
-### 4. AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-11-02T05:18:24+00:00`
-- url: https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/
-- summary: A passport is not a clever piece of paper. Anyone with a good printer and bad intentions can fake one. What makes it work is the government standing behind it, an authority that vouched for the holder and can withdraw that vouching the moment something goes w…
 
 ### 5. GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026
 - source: Hatena Bookmark Hotentry IT
