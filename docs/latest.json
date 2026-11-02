@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T04:46:35+00:00",
-  "run_id": "2026-11-02T04:46:35+00:00",
+  "generated_at": "2026-11-02T05:01:51+00:00",
+  "run_id": "2026-11-02T05:01:51+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
@@ -841,28 +841,7 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Startup Island TAIWAN leads 33 deep-tech startups to SWITCH 2026, advancing their expansion into Singapore",
-      "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-02T04:34:54+00:00",
-      "fetched_at": "2026-11-02T04:46:02+00:00",
-      "summary": "Startup Island TAIWAN, the national startup brand of Taiwan, backed by the National Development Council (NDC), led 33 Taiwanese deep-tech startups to the Taiwan Pavilion at SWITCH 2026 in Singapore from October 27 to 29, in partnership with Startup Terrace, Hsinchu Science Park Bureau, the Taiwan Stock Exchange (TWSE) and Taiwan Digi Gold Card. Exhibiting […] The post Startup Island TAIWAN leads 33 deep-tech startup…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "034eee887ce9694ccce4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
