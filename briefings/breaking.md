@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-02T01:17:19+00:00_
+_Generiert: 2026-11-02T01:25:20+00:00_
 
 ## AI saves me hours, but I don’t trust it blindly
 
