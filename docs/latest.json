@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T15:58:26+00:00",
-  "run_id": "2026-11-02T15:58:26+00:00",
+  "generated_at": "2026-11-02T16:09:22+00:00",
+  "run_id": "2026-11-02T16:09:22+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 70,
     "displayed_findings": 70,
     "high": 0,
@@ -3563,29 +3563,7 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Security risk assessments include repository protection status",
-      "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-02T15:47:21+00:00",
-      "fetched_at": "2026-11-02T15:57:51+00:00",
-      "summary": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization… The post Security risk assessments include repository protection status appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4c3efb86500ac9003de8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
