@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T00:53:17+00:00",
-  "run_id": "2026-11-02T00:53:17+00:00",
+  "generated_at": "2026-11-02T01:01:51+00:00",
+  "run_id": "2026-11-02T01:01:51+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,41 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
-    "medium": 0,
+    "medium": 1,
     "observe": 1,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "AI saves me hours, but I don’t trust it blindly",
+        "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-02T01:00:15+00:00",
+        "fetched_at": "2026-11-02T01:01:20+00:00",
+        "summary": "I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign planning and website troubleshooting. It’s saved me countless hours, particularly when it comes to […] The post AI saves me hours, but I don’t trust it blindly app…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "OpenAI",
+          "Webentwicklung"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c510d5107954b0386bef"
+      }
+    ],
     "observe": [
       {
         "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
@@ -77,6 +101,29 @@
   },
   "findings": [
     {
+      "title": "AI saves me hours, but I don’t trust it blindly",
+      "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-02T01:00:15+00:00",
+      "fetched_at": "2026-11-02T01:01:20+00:00",
+      "summary": "I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign planning and website troubleshooting. It’s saved me countless hours, particularly when it comes to […] The post AI saves me hours, but I don’t trust it blindly app…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "OpenAI",
+        "Webentwicklung"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c510d5107954b0386bef"
+    },
+    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -120,7 +167,31 @@
       "id": "fec8ed7f6040311ad7e8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "AI saves me hours, but I don’t trust it blindly",
+      "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-02T01:00:15+00:00",
+      "fetched_at": "2026-11-02T01:01:20+00:00",
+      "summary": "I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign planning and website troubleshooting. It’s saved me countless hours, particularly when it comes to […] The post AI saves me hours, but I don’t trust it blindly app…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "OpenAI",
+        "Webentwicklung"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c510d5107954b0386bef"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
