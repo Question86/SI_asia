@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T05:34:23+00:00_
+_Generiert: 2026-11-02T05:41:40+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+19 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)
   - Kurz: GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusionは、与えられたタスクの特性に応じて、単一または複数のAIモデルを組み合わせて実行するマルチモデル対応の機能です。 推論、コー...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 175 km WNW of Panguna, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-02T05:39:59.040+00:00`, fetched `2026-11-02T05:41:12+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-02 05:19:50 UTC 2026-11-02 05:19:50 UTC at epicenter Location 5.563°S 154.088°E Depth 87.89 km (54.61 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 201 km NE of Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-02T05:11:20.040+00:00`, fetched `2026-11-02T05:17:10+00:00`
@@ -77,15 +86,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-02 01:18:16 UTC 2026-11-02 01:18:16 UTC at epicenter Location 31.224°S 177.724°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - Banda Sea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-02T01:09:20.040+00:00`, fetched `2026-11-02T01:16:47+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-02 00:53:09 UTC 2026-11-02 00:53:09 UTC at epicenter Location 6.974°S 129.936°E Depth 85.69 km (53.25 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI prepared every decision. It did not raise the ceiling on scale** — Score 8, observation — [Quelle](https://e27.co/ai-prepared-every-decision-it-did-not-raise-the-ceiling-on-scale-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

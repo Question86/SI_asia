@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-02T05:34:25+00:00_
+_Generiert: 2026-11-02T05:41:43+00:00_
 
 ## AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen
 
