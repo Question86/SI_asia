@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T21:45:51+00:00_
+_Generiert: 2026-11-02T22:01:37+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+79 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -277,3 +277,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/feed/
+- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
