@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-02T02:27:18Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AI saves me hours, but I don’t trust it blindly” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=20.0.",
+  "generated_at": "2026-11-02T03:37:28Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,59 @@
   ],
   "top_dynamics": [
     {
+      "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
+      "url": "https://jvn.jp/jp/JVN23328936/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "ALCPUが提供するCore Tempのカーネルドライバには、IOCTLインタフェースに対するアクセス制御が不十分な脆弱性が存在します。"
+    },
+    {
+      "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
+      "url": "https://jvn.jp/jp/JVN23328936/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-02T03:13:40+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI saves me hours, but I don’t trust it blindly",
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:01:55+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -41,7 +89,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:36:08.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -66,7 +114,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:09:20.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -87,11 +135,35 @@
       "summary": "Time 2026-11-02 00:53:09 UTC 2026-11-02 00:53:09 UTC at epicenter Location 6.974°S 129.936°E Depth 85.69 km (53.25 mi)"
     },
     {
+      "title": "M 5.1 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-02T01:43:14+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.1 - Banda Sea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:17:19+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -115,7 +187,7 @@
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:00:15+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -138,10 +210,62 @@
       "summary": "I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign planning and website troubleshooting. It’s saved me countless h…"
     },
     {
-      "title": "M 5.1 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
+      "title": "古川大臣記者会見（令和8年11月2日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261102-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-02T02:36:14+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.5 - 288 km SSE of Muroto-misakicho, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-02T01:43:14+00:00",
+      "published_at": "2026-11-02T02:12:33.040+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Time 2026-11-02 01:54:55 UTC 2026-11-02 01:54:55 UTC at epicenter Location 30.841°N 135.199°E Depth 510.07 km (316.94 mi)"
+    },
+    {
+      "title": "アップル、Chromeを名指しで挑発。「Safariは あなたを守る、Chromeは あなたを晒す」 - すまほん!!",
+      "url": "https://smhn.info/202611-apple-switch-to-safari-campaign-targets-chrome",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-02T02:58:37+00:00",
       "age_days": 0.03,
       "topics": [
         "general"
@@ -152,117 +276,38 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
       ],
       "summary": ""
     },
     {
-      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
-      "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T00:39:14+00:00",
-      "age_days": 0.08,
+      "title": "Bitcoin and Ethereum rebound through a shaky relief move",
+      "url": "https://e27.co/bitcoin-and-ethereum-rebound-through-a-shaky-relief-move-20261102/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-02T02:36:14+00:00",
+      "age_days": 0.04,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
-      "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-01T16:58:30+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusionは、与えられたタスクの特性に応じて、単一または複数のAIモデルを組み合わせて実行するマルチモデル対応の機能です。 推論、コー..."
-    },
-    {
-      "title": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T01:17:19+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-01T21:25:56+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし"
     }
   ],
   "read_order": [
@@ -274,9 +319,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 5,
-      "quiet": 4
+      "strong": 3,
+      "watch": 9
     }
   }
 }

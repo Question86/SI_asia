@@ -1,18 +1,38 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-02T02:27:18Z_
+_Generated: 2026-11-02T03:37:28Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “AI saves me hours, but I don’t trust it blindly” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=20.0.
+Stärkste Dynamik nach Gate-Recheck: “Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-11-02T12:00:00+09:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/jp/JVN23328936/
+
+### Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-11-02T03:13:40+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
+- Quelle: https://jvn.jp/jp/JVN23328936/
 
 ### AI saves me hours, but I don’t trust it blindly
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-11-02T01:01:55+00:00` / age_days `0.06`
+- Published: `2026-11-02T01:01:55+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -22,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI saves me hours, but I don’t trust i
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-02T01:36:08.040+00:00` / age_days `0.04`
+- Published: `2026-11-02T01:36:08.040+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -32,17 +52,27 @@ Stärkste Dynamik nach Gate-Recheck: “AI saves me hours, but I don’t trust i
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-02T01:09:20.040+00:00` / age_days `0.05`
+- Published: `2026-11-02T01:09:20.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.9
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv
 
+### M 5.1 - Kermadec Islands region
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.5`
+- Published: `2026-11-02T01:43:14+00:00` / age_days `0.08`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4
+
 ### M 5.1 - Banda Sea
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-11-02T01:17:19+00:00` / age_days `0.05`
+- Published: `2026-11-02T01:17:19+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,60 +82,50 @@ Stärkste Dynamik nach Gate-Recheck: “AI saves me hours, but I don’t trust i
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-11-02T01:00:15+00:00` / age_days `0.06`
+- Published: `2026-11-02T01:00:15+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/
 
-### M 5.1 - Kermadec Islands region
+### 古川大臣記者会見（令和8年11月2日）動画を掲載しました
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `15.0`
+- Published: `2026-11-02T02:36:14+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://www.digital.go.jp/speech/minister-261102-01
+
+### M 4.5 - 288 km SSE of Muroto-misakicho, Japan
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `15.0`
+- Published: `2026-11-02T02:12:33.040+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: early terms: earthquake, high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta
+
+### アップル、Chromeを名指しで挑発。「Safariは あなたを守る、Chromeは あなたを晒す」 - すまほん!!
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-11-02T01:43:14+00:00` / age_days `0.03`
+- Published: `2026-11-02T02:58:37+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4
+- Warum: momentum delta +3
+- Quelle: https://smhn.info/202611-apple-switch-to-safari-campaign-targets-chrome
 
-### GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026
+### Bitcoin and Ethereum rebound through a shaky relief move
 
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-11-02T00:39:14+00:00` / age_days `0.08`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html
-
-### GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `7.0`
-- Published: `2026-11-01T16:58:30+00:00` / age_days `0.4`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html
-
-### 【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.0`
-- Published: `2026-11-02T01:17:19+00:00` / age_days `0.05`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html
-
-### 【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-11-01T21:25:56+00:00` / age_days `0.21`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.0`
+- Published: `2026-11-02T02:36:14+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://e27.co/bitcoin-and-ethereum-rebound-through-a-shaky-relief-move-20261102/
 
 END OF DOCUMENT
