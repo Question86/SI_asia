@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T11:48:31+00:00",
-  "run_id": "2026-11-02T11:48:31+00:00",
+  "generated_at": "2026-11-02T11:55:56+00:00",
+  "run_id": "2026-11-02T11:55:56+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 37,
     "displayed_findings": 37,
     "high": 0,
@@ -1991,52 +1991,7 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [hoch] Rancher: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4246",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-02T11:27:32+00:00",
-      "fetched_at": "2026-11-02T11:47:58+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Rancher ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen auszulesen oder Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "979f68637043989e4901"
-    },
-    {
-      "title": "Binance’s US$6.4B hack was decided in 54 minutes, and the chase isn’t over",
-      "url": "https://e27.co/binances-us6-4b-hack-was-decided-in-54-minutes-and-the-chase-isnt-over-20261102/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-02T11:47:19+00:00",
-      "fetched_at": "2026-11-02T11:47:58+00:00",
-      "summary": "At about 4.20am Singapore time on October 30, while most of Southeast Asia’s crypto traders were asleep, money began leaving Binance. By the time the region’s markets opened, the world’s largest crypto exchange had suffered the biggest theft in crypto history. Blockchain analytics firm Chainalysis has now published its reconstruction of the attack. It puts […] The post Binance’s US$6.4B hack was decided in 54 minute…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f8a11dc5ec219250213f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
