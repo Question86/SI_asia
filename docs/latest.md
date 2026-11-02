@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T21:02:19+00:00_
+_Generiert: 2026-11-02T21:15:22+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+79 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Euro area bank interest rate statistics: September 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **日本の全法令を git の履歴にしてみた** — Score 13, observation — [Quelle](https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-02T05:17:38+00:00`, fetched `2026-11-02T21:14:49+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: きっかけ ただの思いつきです。 私は法律のことを全然知りません。ただ、最近は AI のおかげで、知らない分野の調べものがとても速くなりました。国会会議録の API を眺めていたときに、ふと「法律を git で管理したら面白いのでは」と思いつきました。知らない分野でも、AI と一緒ならどこまでできるのか試してみたくな...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Capital needs AI, and AI needs capital - Europe's opportunity for more growth** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20261102-capital-needs-ai-and-ai-needs-capital-europes-opportunity-more-growth)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-11-02T00:00:00+00:00`, fetched `2026-11-02T15:42:34+00:00`
@@ -240,23 +249,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026** — Score 10, observation — [Quelle](https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-01T16:58:30+00:00`, fetched `2026-11-02T00:38:32+00:00`
-  - Treffer: GitHub, Hatena, hotentry, Watchgraph:sports_sf_tech_events
-  - Watchgraph: sports_sf_tech_events
-  - Markt-/Kontextkorb: DIS, CMCSA, ABNB, BKNG, DAL, UAL, TKO, FWONK, AAL, META, GOOGL, MSFT
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)
-  - Kurz: GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusionは、与えられたタスクの特性に応じて、単一または複数のAIモデルを組み合わせて実行するマルチモデル対応の機能です。 推論、コー...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - 168 km SE of San Jose Village, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuzd)
+- **M 4.6 - 226 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv03)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-02T20:18:25.040+00:00`, fetched `2026-11-02T20:29:55+00:00`
+  - Zeit: published `2026-11-02T21:11:25.040+00:00`, fetched `2026-11-02T21:14:49+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-02 19:59:04 UTC 2026-11-02 19:59:04 UTC at epicenter Location 13.795°N 146.611°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-11-02 20:54:25 UTC 2026-11-02 20:54:25 UTC at epicenter Location 13.807°S 165.394°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Binance’s US$6.4B hack was decided in 54 minutes, and the chase isn’t over** — Score 8, observation — [Quelle](https://e27.co/binances-us6-4b-hack-was-decided-in-54-minutes-and-the-chase-isnt-over-20261102/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

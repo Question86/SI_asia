@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T21:02:19+00:00_
+_Generated: 2026-11-02T21:15:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `77`
+- findings: `79`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-02T21:02:19+00:00_
 - url: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html
 - summary: Euro area bank interest rate statistics: September 2026
 
-### 6. Capital needs AI, and AI needs capital - Europe's opportunity for more growth
+### 6. 日本の全法令を git の履歴にしてみた
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-11-02T05:17:38+00:00`
+- url: https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git
+- summary: きっかけ ただの思いつきです。 私は法律のことを全然知りません。ただ、最近は AI のおかげで、知らない分野の調べものがとても速くなりました。国会会議録の API を眺めていたときに、ふと「法律を git で管理したら面白いのでは」と思いつきました。知らない分野でも、AI と一緒ならどこまでできるのか試してみたくな...
+
+### 7. Capital needs AI, and AI needs capital - Europe's opportunity for more growth
 - source: BIS Central Bankers Speeches
 - score: `13`
 - published: `2026-11-02T00:00:00+00:00`
 - url: https://www.bis.org/speeches/20261102-capital-needs-ai-and-ai-needs-capital-europes-opportunity-more-growth
 - summary: Keynote speech by Dr Sabine Mauderer, First Deputy Governor of the Deutsche Bundesbank, at the AI Week Frankfurt, Frankfurt am Main, 29 October 2026.
 
-### 7. Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30
+### 8. Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-11-02T14:49:00+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260097.en.html
 - summary: Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30
-
-### 8. ISUCON2026 で優勝しました（当日編）
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-02T13:50:45+00:00`
-- url: https://zenn.dev/luvtechno/articles/isucon2026-competition-day
-- summary: 当日の様子 8:53 用意していた agent skill で、競技エージェントの起動依頼をして、競技エージェントに渡すPlaywrightのセッションでポータルにログインしました。この後は、競技エージェントには一度も指示を入力しませんでした。 左の pane が起動に使う Claude Code のセッションで、右の pane が競技エージェント実...
 
 END OF DOCUMENT
