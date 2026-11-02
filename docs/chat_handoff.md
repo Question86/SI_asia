@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T15:34:22+00:00_
+_Generated: 2026-11-02T15:43:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `65`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-02T15:34:22+00:00_
 - url: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html
 - summary: Euro area bank interest rate statistics: September 2026
 
-### 6. Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30
+### 6. Capital needs AI, and AI needs capital - Europe's opportunity for more growth
+- source: BIS Central Bankers Speeches
+- score: `13`
+- published: `2026-11-02T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261102-capital-needs-ai-and-ai-needs-capital-europes-opportunity-more-growth
+- summary: Keynote speech by Dr Sabine Mauderer, First Deputy Governor of the Deutsche Bundesbank, at the AI Week Frankfurt, Frankfurt am Main, 29 October 2026.
+
+### 7. Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-11-02T14:49:00+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260097.en.html
 - summary: Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30
 
-### 7. 「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘
+### 8. 「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-02T06:27:09+00:00`
 - url: https://pc.watch.impress.co.jp/docs/news/2153092.html
 - summary: 「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘
-
-### 8. Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)
-- source: CERT-FR Avis de sécurité
-- score: `11`
-- published: `2026-10-28T00:00:00+00:00`
-- url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/
-- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.
 
 END OF DOCUMENT
