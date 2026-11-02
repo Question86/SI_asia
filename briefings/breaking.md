@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-11-02T09:56:16+00:00_
+_Generiert: 2026-11-02T10:04:29+00:00_
 
 ## Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen
 
-- Ranking Score: `32.54`
-- Raw Network Score: `31.3`
+- Ranking Score: `28.79`
+- Raw Network Score: `28.3`
 - Max Monitor Score: `22`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `nein`
@@ -13,13 +13,13 @@ _Generiert: 2026-11-02T09:56:16+00:00_
 - Quellen: heise Security Alerts
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html
 - Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
 
 ## Euro area bank interest rate statistics: September 2026
 
-- Ranking Score: `23.12`
+- Ranking Score: `23.05`
 - Raw Network Score: `23.2`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
