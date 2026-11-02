@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T14:21:39+00:00",
-  "run_id": "2026-11-02T14:21:39+00:00",
+  "generated_at": "2026-11-02T14:31:11+00:00",
+  "run_id": "2026-11-02T14:31:11+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 51
+      "configured_public_sources_only": 52
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "new_relevant_findings": 1,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
     "medium": 22,
-    "observe": 29,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -1082,6 +1082,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a57e4c1ddcaf33c761a1"
+      },
+      {
+        "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
+        "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-02T12:05:17+00:00",
+        "fetched_at": "2026-11-02T14:30:36+00:00",
+        "summary": "グループ企業のFX自動売買用VPS「お名前.com デスクトップクラウド」に対する不正アクセスを巡り、11月2日に記者会見を開催したGMOインターネットグループ。熊谷正寿代表が連呼したフレーズ「命の砂時計」が午後6時半ごろにはXのトレンドに入るなど注目を集める一方、同氏がAI技術の将来について語る一幕などに対しては...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "70e89af8e4fccede8175"
       },
       {
         "title": "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
@@ -2389,6 +2410,27 @@
       "id": "a57e4c1ddcaf33c761a1"
     },
     {
+      "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-02T12:05:17+00:00",
+      "fetched_at": "2026-11-02T14:30:36+00:00",
+      "summary": "グループ企業のFX自動売買用VPS「お名前.com デスクトップクラウド」に対する不正アクセスを巡り、11月2日に記者会見を開催したGMOインターネットグループ。熊谷正寿代表が連呼したフレーズ「命の砂時計」が午後6時半ごろにはXのトレンドに入るなど注目を集める一方、同氏がAI技術の将来について語る一幕などに対しては...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "70e89af8e4fccede8175"
+    },
+    {
       "title": "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
       "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002823/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2639,7 +2681,29 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-02T12:05:17+00:00",
+      "fetched_at": "2026-11-02T14:30:36+00:00",
+      "summary": "グループ企業のFX自動売買用VPS「お名前.com デスクトップクラウド」に対する不正アクセスを巡り、11月2日に記者会見を開催したGMOインターネットグループ。熊谷正寿代表が連呼したフレーズ「命の砂時計」が午後6時半ごろにはXのトレンドに入るなど注目を集める一方、同氏がAI技術の将来について語る一幕などに対しては...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "70e89af8e4fccede8175"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
