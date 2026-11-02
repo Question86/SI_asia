@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-02T02:58:34+00:00",
+  "generated_at": "2026-11-02T03:13:36+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
-    "medium": 2,
+    "medium": 3,
     "observe": 9
   },
   "source_errors_count": 0,
@@ -32,6 +32,16 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta",
       "summary": "Time 2026-11-02 01:54:55 UTC 2026-11-02 01:54:55 UTC at epicenter Location 30.841°N 135.199°E Depth 510.07 km (316.94 mi)",
+      "section": "medium"
+    },
+    {
+      "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-02T12:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN23328936/",
+      "summary": "ALCPUが提供するCore Tempのカーネルドライバには、IOCTLインタフェースに対するアクセス制御が不十分な脆弱性が存在します。",
       "section": "medium"
     },
     {
