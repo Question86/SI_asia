@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T11:32:40+00:00",
-  "candidate_count": 2535,
+  "generated_at": "2026-11-02T11:49:39+00:00",
+  "candidate_count": 2538,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -32629,6 +32629,42 @@
       "source_url": "https://e27.co/malaysia-is-selling-more-chips-but-it-isnt-winning-more-of-the-market-20261102/"
     },
     {
+      "candidate_id": "cand_dc62e6a9689404f44e9b",
+      "event_id": "evt_f23bef71fd2ff12dea91",
+      "source_url": "https://e27.co/binances-us6-4b-hack-was-decided-in-54-minutes-and-the-chase-isnt-over-20261102/",
+      "observed_at": "2026-11-02T11:49:36+00:00",
+      "currency": "USD",
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_f23bef71fd2ff12dea91:unclassified",
+      "attribution_probability": null,
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
+    },
+    {
+      "candidate_id": "cand_dbdf9f3ac1654cad1421",
+      "event_id": "evt_f23bef71fd2ff12dea91",
+      "source_url": "https://e27.co/binances-us6-4b-hack-was-decided-in-54-minutes-and-the-chase-isnt-over-20261102/",
+      "observed_at": "2026-11-02T11:49:36+00:00",
+      "currency": "USD",
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_f23bef71fd2ff12dea91:unclassified",
+      "attribution_probability": null,
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 44000000.0,
       "amount_usd": 44000000.0,
       "attribution_probability": null,
@@ -49692,6 +49728,24 @@
       "snippet": "P ごとに合計します。1 件ずつは目立たなくても、合計が突出している相手はコンテンツの大量取得やファイル持ち出しの可能性があります(Apache の %b は 0 バイトのとき - ですが、awk の加算では 0 扱いになるので影響ありません)。 集計 7: User-Agent の偏り zcat -f $LOGS | awk -F '\"' '{print $6}' | sort | uniq -c | sort -rn | head -20 ダブルクォート区切りで 6 番目が User-Agent です。空の - やツール名が上位に来ていたら集計 1〜3 と突き合わせます。ただし User-Agent は自由に名乗れるので単独の根拠にはしない でください。 兆候を「1 日 1 回の差分」にする 手で叩くのは最初の",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6"
+    },
+    {
+      "candidate_id": "cand_5ad5d08a3960897c8613",
+      "event_id": "evt_f23bef71fd2ff12dea91",
+      "source_url": "https://e27.co/binances-us6-4b-hack-was-decided-in-54-minutes-and-the-chase-isnt-over-20261102/",
+      "observed_at": "2026-11-02T11:49:36+00:00",
+      "currency": "USD",
+      "amount_native": 6.0,
+      "amount_usd": 6.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_f23bef71fd2ff12dea91:unclassified",
+      "attribution_probability": null,
+      "snippet": "Binance's US$6.4B hack was decided in 54 minutes, and the chase isn't over | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email addre",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 5.0,
