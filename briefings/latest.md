@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T04:30:29+00:00_
+_Generiert: 2026-11-02T04:46:35+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+16 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Every week, the meetings I sit in across the businesses I work with are recorded, and an AI system turns each one into four lists: decisions, risks, blockers and next priorities. It takes minutes. I rely on it. After months of reading those lists back to back, one thing is hard to miss. The system […] The post AI prepared every decision. It did not raise the ceiling on scale appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Startup Island TAIWAN leads 33 deep-tech startups to SWITCH 2026, advancing their expansion into Singapore** — Score 7, opportunity — [Quelle](https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-02T04:34:54+00:00`, fetched `2026-11-02T04:46:02+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Startup Island TAIWAN, the national startup brand of Taiwan, backed by the National Development Council (NDC), led 33 Taiwanese deep-tech startups to the Taiwan Pavilion at SWITCH 2026 in Singapore from October 27 to 29, in partnership with Startup Terrace, Hsinchu Science Park Bureau, the Taiwan Stock Exchange (TWSE) and Taiwan Digi Gold Card. Exhibiting […] The post Startup Island TAIWAN leads 33 deep-tech startup…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Ask for what’s missing: Inside the machine behind “The Breaking Point” — Part 2** — Score 7, opportunity — [Quelle](https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-02T04:00:56+00:00`, fetched `2026-11-02T04:03:15+00:00`
@@ -158,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに こんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。 2026年10月31日、元同僚のJames Ward*1が、Xで「IaC is dead」と投稿しました。AIがあれば、インフラの構成をコードで管理するIaC*2は不要になるという主張で、最後には共著書の宣伝が添えられていました。私は思わず「Such a poor pr...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bitcoin and Ethereum rebound through a shaky relief move** — Score 4, observation — [Quelle](https://e27.co/bitcoin-and-ethereum-rebound-through-a-shaky-relief-move-20261102/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-02T02:30:48+00:00`, fetched `2026-11-02T02:35:19+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The top two coin reports tell a connected story. Bitcoin rose 1.16 per cent to US$78,293.83 in 24 hours while Ethereum rose 1.22 per cent to US$2,279.47. The broader crypto market gained 0.75 per cent. That surface looks like a clean recovery. My view is less comfortable. The Bitcoin bounce looks mechanical and brittle. The […] The post Bitcoin and Ethereum rebound through a shaky relief move appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
