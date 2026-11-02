@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T17:48:49+00:00",
-  "run_id": "2026-11-02T17:48:49+00:00",
+  "generated_at": "2026-11-02T17:55:46+00:00",
+  "run_id": "2026-11-02T17:55:46+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 0,
@@ -3789,29 +3789,7 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-02T09:00:00+00:00",
-      "fetched_at": "2026-11-02T17:48:16+00:00",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "44a15e5ca8d9798f997a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
