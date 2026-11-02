@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T14:31:11+00:00_
+_Generated: 2026-11-02T14:48:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `52`
+- findings: `53`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-02T14:31:11+00:00_
 - url: https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html
 - summary: GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusionは、与えられたタスクの特性に応じて、単一または複数のAIモデルを組み合わせて実行するマルチモデル対応の機能です。 推論、コー...
 
-### 8. M 4.9 - 175 km WNW of Panguna, Papua New Guinea
+### 8. M 4.7 - south of the Fiji Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-11-02T05:39:59.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0
-- summary: Time 2026-11-02 05:19:50 UTC 2026-11-02 05:19:50 UTC at epicenter Location 5.563°S 154.088°E Depth 87.89 km (54.61 mi)
+- published: `2026-11-02T14:30:22.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuwv
+- summary: Time 2026-11-02 14:05:23 UTC 2026-11-02 14:05:23 UTC at epicenter Location 25.618°S 179.671°E Depth 502.36 km (312.15 mi)
 
 END OF DOCUMENT

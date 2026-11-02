@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-02T14:31:11+00:00",
+  "generated_at": "2026-11-02T14:48:51+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
     "medium": 22,
-    "observe": 30
+    "observe": 31
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "M 4.9 - 175 km WNW of Panguna, Papua New Guinea",
+      "title": "M 4.7 - south of the Fiji Islands",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-02T05:39:59.040+00:00",
+      "published_at": "2026-11-02T14:30:22.040+00:00",
       "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0",
-      "summary": "Time 2026-11-02 05:19:50 UTC 2026-11-02 05:19:50 UTC at epicenter Location 5.563°S 154.088°E Depth 87.89 km (54.61 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuwv",
+      "summary": "Time 2026-11-02 14:05:23 UTC 2026-11-02 14:05:23 UTC at epicenter Location 25.618°S 179.671°E Depth 502.36 km (312.15 mi)",
       "section": "observe"
     }
   ],
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Euro area bank interest rate statistics: September 2026” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=41.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Euro area bank interest rate statistics: September 2026",
-        "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
-        "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 137.0,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 137.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[NEU] [hoch] Red Hat Enterprise Linux (perl-yaml, pillow): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4285",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-02T13:17:56+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Dateien zu manipulieren, beliebigen Code auszuführen, Informationen offenzulegen und Denial-of-Service-Angriffe zu starten."
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (pillow and aspell): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4243",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-02T11:54:00+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pillow and aspell) ausnutzen, um einen Denial of Service Angriff durchzuführen oder beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] pgAdmin: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4242",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-02T11:54:21+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in pgAdmin ausnutzen, um erweiterte Berechtigungen, möglicherweise sogar Administratorrechte, zu erlangen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder Denial-of-Service-Angriffe zu starten."
-      },
-      {
-        "title": "[UPDATE] [hoch] Fleet: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4245",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-02T11:54:21+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Fleet ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Berechtigungen zu erhöhen, Informationen auszulesen, Daten zu manipulieren oder einen Denial of Service Angriff durchzuführen"
-      }
-    ]
-  }
+  ]
 }
