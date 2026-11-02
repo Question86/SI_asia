@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T11:03:31+00:00",
-  "run_id": "2026-11-02T11:03:31+00:00",
+  "generated_at": "2026-11-02T11:15:34+00:00",
+  "run_id": "2026-11-02T11:15:34+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -1903,31 +1903,7 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Startups recalibrate Chinese AI for the West",
-      "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-02T11:00:00+00:00",
-      "fetched_at": "2026-11-02T11:02:58+00:00",
-      "summary": "A growing number of startups are editing powerful Chinese open-weight models for Western businesses that are concerned about censorship and security.",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Security"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.8); Security (+6.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c7a3a994962623d31d0e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
