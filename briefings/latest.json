@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T13:18:42+00:00",
-  "run_id": "2026-11-02T13:18:42+00:00",
+  "generated_at": "2026-11-02T13:27:36+00:00",
+  "run_id": "2026-11-02T13:27:36+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 51
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 6,
+    "today_file_total": 51,
+    "displayed_findings": 51,
     "high": 0,
-    "medium": 16,
+    "medium": 22,
     "observe": 29,
     "source_errors": 0
   },
@@ -199,6 +199,55 @@
         "id": "c510d5107954b0386bef"
       },
       {
+        "title": "[NEU] [hoch] Microsoft Azure, Entra und Exchange: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-02T13:17:57+00:00",
+        "fetched_at": "2026-11-02T13:27:05+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra und Microsoft Exchange ausnutzen, um seine Privilegien zu erhöhen oder beliebigen Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Exchange",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1f72d3b1764f8e739881"
+      },
+      {
+        "title": "[NEU] [hoch] WordPress: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4283",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-02T13:17:56+00:00",
+        "fetched_at": "2026-11-02T13:27:05+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WordPress ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "de12dd42aa29c9cc084f"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Cloud Platform: Schwachstelle ermöglicht Codeausführung",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228",
         "source": "BSI CERT-Bund Security Advisories",
@@ -267,6 +316,30 @@
           "PINS"
         ],
         "id": "d5d54f27eca2b4df5627"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (perl-yaml, pillow): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4285",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-02T13:17:56+00:00",
+        "fetched_at": "2026-11-02T13:27:05+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Dateien zu manipulieren, beliebigen Code auszuführen, Informationen offenzulegen und Denial-of-Service-Angriffe zu starten.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a773f32c03eb4538229f"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (pillow and aspell): Mehrere Schwachstellen",
@@ -365,6 +438,75 @@
           "LOW"
         ],
         "id": "59fbe46f926377fc7228"
+      },
+      {
+        "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4287",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-02T13:17:57+00:00",
+        "fetched_at": "2026-11-02T13:27:05+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in QT ausnutzen, um einen Denial of Service Angriff durchzuführen oder Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3f421d96f6fec59aac0c"
+      },
+      {
+        "title": "[UPDATE] [mittel] expat: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4214",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-02T13:17:56+00:00",
+        "fetched_at": "2026-11-02T13:27:05+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1d09f15716dd314e33aa"
+      },
+      {
+        "title": "[NEU] [mittel] GStreamer: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4284",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-02T13:17:56+00:00",
+        "fetched_at": "2026-11-02T13:27:05+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GStreamer ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b74dd0bb01b8656c9073"
       },
       {
         "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
@@ -1364,6 +1506,55 @@
       "id": "c510d5107954b0386bef"
     },
     {
+      "title": "[NEU] [hoch] Microsoft Azure, Entra und Exchange: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:57+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra und Microsoft Exchange ausnutzen, um seine Privilegien zu erhöhen oder beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Exchange",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1f72d3b1764f8e739881"
+    },
+    {
+      "title": "[NEU] [hoch] WordPress: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4283",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:56+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WordPress ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "de12dd42aa29c9cc084f"
+    },
+    {
       "title": "[UPDATE] [hoch] Google Cloud Platform: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1432,6 +1623,30 @@
         "PINS"
       ],
       "id": "d5d54f27eca2b4df5627"
+    },
+    {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (perl-yaml, pillow): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4285",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:56+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Dateien zu manipulieren, beliebigen Code auszuführen, Informationen offenzulegen und Denial-of-Service-Angriffe zu starten.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a773f32c03eb4538229f"
     },
     {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (pillow and aspell): Mehrere Schwachstellen",
@@ -1530,6 +1745,75 @@
         "LOW"
       ],
       "id": "59fbe46f926377fc7228"
+    },
+    {
+      "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4287",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:57+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in QT ausnutzen, um einen Denial of Service Angriff durchzuführen oder Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3f421d96f6fec59aac0c"
+    },
+    {
+      "title": "[UPDATE] [mittel] expat: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4214",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:56+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1d09f15716dd314e33aa"
+    },
+    {
+      "title": "[NEU] [mittel] GStreamer: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4284",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:56+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GStreamer ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b74dd0bb01b8656c9073"
     },
     {
       "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
@@ -2355,7 +2639,150 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[NEU] [hoch] Microsoft Azure, Entra und Exchange: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:57+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra und Microsoft Exchange ausnutzen, um seine Privilegien zu erhöhen oder beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Exchange",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1f72d3b1764f8e739881"
+    },
+    {
+      "title": "[NEU] [hoch] WordPress: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4283",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:56+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WordPress ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "de12dd42aa29c9cc084f"
+    },
+    {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (perl-yaml, pillow): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4285",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:56+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Dateien zu manipulieren, beliebigen Code auszuführen, Informationen offenzulegen und Denial-of-Service-Angriffe zu starten.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a773f32c03eb4538229f"
+    },
+    {
+      "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4287",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:57+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in QT ausnutzen, um einen Denial of Service Angriff durchzuführen oder Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3f421d96f6fec59aac0c"
+    },
+    {
+      "title": "[NEU] [mittel] GStreamer: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4284",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:56+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GStreamer ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b74dd0bb01b8656c9073"
+    },
+    {
+      "title": "[UPDATE] [mittel] expat: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4214",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-02T13:17:56+00:00",
+      "fetched_at": "2026-11-02T13:27:05+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1d09f15716dd314e33aa"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
