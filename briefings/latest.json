@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T05:17:39+00:00",
-  "run_id": "2026-11-02T05:17:39+00:00",
+  "generated_at": "2026-11-02T05:26:29+00:00",
+  "run_id": "2026-11-02T05:26:29+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 14,
     "source_errors": 0
   },
@@ -51,6 +51,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c510d5107954b0386bef"
+      },
+      {
+        "title": "AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen",
+        "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-02T05:18:24+00:00",
+        "fetched_at": "2026-11-02T05:25:58+00:00",
+        "summary": "A passport is not a clever piece of paper. Anyone with a good printer and bad intentions can fake one. What makes it work is the government standing behind it, an authority that vouched for the holder and can withdraw that vouching the moment something goes wrong. Evin McMullen has spent a decade thinking about […] The post AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen appeared first o…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "d5d54f27eca2b4df5627"
       },
       {
         "title": "M 4.5 - 288 km SSE of Muroto-misakicho, Japan",
@@ -497,6 +543,52 @@
       "id": "c510d5107954b0386bef"
     },
     {
+      "title": "AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen",
+      "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-02T05:18:24+00:00",
+      "fetched_at": "2026-11-02T05:25:58+00:00",
+      "summary": "A passport is not a clever piece of paper. Anyone with a good printer and bad intentions can fake one. What makes it work is the government standing behind it, an authority that vouched for the holder and can withdraw that vouching the moment something goes wrong. Evin McMullen has spent a decade thinking about […] The post AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen appeared first o…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "d5d54f27eca2b4df5627"
+    },
+    {
       "title": "M 4.5 - 288 km SSE of Muroto-misakicho, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -915,40 +1007,50 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - 201 km NE of Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen",
+      "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-02T05:11:20.040+00:00",
-      "fetched_at": "2026-11-02T05:17:10+00:00",
-      "summary": "Time 2026-11-02 04:45:48 UTC 2026-11-02 04:45:48 UTC at epicenter Location 46.602°N 149.579°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-11-02T05:18:24+00:00",
+      "fetched_at": "2026-11-02T05:25:58+00:00",
+      "summary": "A passport is not a clever piece of paper. Anyone with a good printer and bad intentions can fake one. What makes it work is the government standing behind it, an authority that vouched for the holder and can withdraw that vouching the moment something goes wrong. Evin McMullen has spent a decade thinking about […] The post AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen appeared first o…",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "ai_agents_workflow: AI agents"
       ],
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
       ],
-      "id": "79bc1823e08f15f7da6e"
+      "id": "d5d54f27eca2b4df5627"
     }
   ],
   "source_errors": [],
