@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T03:25:43+00:00_
+_Generated: 2026-11-02T03:33:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-11-02T03:25:43+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv
 - summary: Time 2026-11-02 00:53:09 UTC 2026-11-02 00:53:09 UTC at epicenter Location 6.974°S 129.936°E Depth 85.69 km (53.25 mi)
 
-### 7. 古川大臣記者会見（令和8年11月2日）動画を掲載しました
-- source: Japan Digital Agency News RSS
-- score: `6`
-- published: `2026-11-02T02:12:32+00:00`
-- url: https://www.digital.go.jp/speech/minister-261102-01
-- summary: 古川大臣記者会見（令和8年11月2日）動画を掲載しました
+### 7. AI prepared every decision. It did not raise the ceiling on scale
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-11-02T03:30:20+00:00`
+- url: https://e27.co/ai-prepared-every-decision-it-did-not-raise-the-ceiling-on-scale-20261028/
+- summary: Every week, the meetings I sit in across the businesses I work with are recorded, and an AI system turns each one into four lists: decisions, risks, blockers and next priorities. It takes minutes. I rely on it. After months of reading those lists back to back…
 
 END OF DOCUMENT
