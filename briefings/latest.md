@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T08:57:26+00:00_
+_Generiert: 2026-11-02T09:07:49+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Euro area bank interest rate statistics: September 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-11-02T09:00:00+00:00`, fetched `2026-11-02T09:07:16+00:00`
+  - Treffer: euro area, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area bank interest rate statistics: September 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026** — Score 10, observation — [Quelle](https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-01T16:58:30+00:00`, fetched `2026-11-02T00:38:32+00:00`
@@ -177,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Every week, the meetings I sit in across the businesses I work with are recorded, and an AI system turns each one into four lists: decisions, risks, blockers and next priorities. It takes minutes. I rely on it. After months of reading those lists back to back, one thing is hard to miss. The system […] The post AI prepared every decision. It did not raise the ceiling on scale appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world** — Score 7, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-11-02T09:30:00+00:00`, fetched `2026-11-02T09:07:16+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Startup Island TAIWAN leads 33 deep-tech startups to SWITCH 2026, advancing their expansion into Singapore** — Score 7, opportunity — [Quelle](https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-02T04:34:54+00:00`, fetched `2026-11-02T04:46:02+00:00`
@@ -213,14 +231,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年11月2日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ameba Owndサービス終了のお知らせ** — Score 5, observation — [Quelle](https://blog.amebaownd.com/posts/59351287/)
+- **GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2611/02/2000002806/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-02T05:52:07+00:00`, fetched `2026-11-02T07:47:52+00:00`
+  - Zeit: published `2026-11-02T07:17:57+00:00`, fetched `2026-11-02T09:07:16+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: いつもAmeba Owndをご利用いただき、誠にありがとうございます。 この度、Ameba Owndは2026年12月24日（木）11:00をもちまして、サービスを終了させていただくこととなりました。 2015年のサービス開始以来、多くの皆さまにサイトの制作・運営や情報発信の場としてご利用いただきましたことを、心より御礼申し上げます。...
+  - Kurz: GMOインターネットグループの熊谷正寿代表は11月2日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡って記者会見を開き、「お客さまをお守りすることができず、誠に申し訳ありませんでした」と謝罪した。10月21日に不正アクセスを公表して以来、GMOインタ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

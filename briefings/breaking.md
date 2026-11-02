@@ -1,6 +1,21 @@
 # Senna Breaking
 
-_Generiert: 2026-11-02T08:57:34+00:00_
+_Generiert: 2026-11-02T09:07:55+00:00_
+
+## Euro area bank interest rate statistics: September 2026
+
+- Ranking Score: `30.72`
+- Raw Network Score: `29.2`
+- Max Monitor Score: `13`
+- Reichweite: `institutional` / `5.0`
+- Early Signal: `nein`
+- Dominanter Emitter: `ja`
+- Quellen: ECB Press Releases Speeches Interviews, ECB Statistical Press Releases
+- Klassen: central_bank, tier3_specialist
+- Cross-source bestaetigt: ja
+- Momentum: increasing (+2)
+- Erste Quelle: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html
+- Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
 ## Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen
 

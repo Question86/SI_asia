@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-02T08:57:26+00:00",
+  "generated_at": "2026-11-02T09:07:49+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 3,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
     "medium": 8,
-    "observe": 17
+    "observe": 20
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Euro area bank interest rate statistics: September 2026",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
+      "summary": "Euro area bank interest rate statistics: September 2026",
+      "section": "observe"
+    },
+    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
       "summary": "Time 2026-11-02 04:45:48 UTC 2026-11-02 04:45:48 UTC at epicenter Location 46.602°N 149.579°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.1 - Kermadec Islands region",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-02T01:36:08.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
-      "summary": "Time 2026-11-02 01:18:16 UTC 2026-11-02 01:18:16 UTC at epicenter Location 31.224°S 177.724°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],

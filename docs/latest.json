@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T08:57:26+00:00",
-  "run_id": "2026-11-02T08:57:26+00:00",
+  "generated_at": "2026-11-02T09:07:49+00:00",
+  "run_id": "2026-11-02T09:07:49+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 3,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
     "medium": 8,
-    "observe": 17,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -320,6 +320,28 @@
     ],
     "observe": [
       {
+        "title": "Euro area bank interest rate statistics: September 2026",
+        "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
+        "source": "ECB Statistical Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-11-02T09:00:00+00:00",
+        "fetched_at": "2026-11-02T09:07:16+00:00",
+        "summary": "Euro area bank interest rate statistics: September 2026",
+        "matched_keywords": [
+          "euro area",
+          "Macro/Policy",
+          "statistics"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c87b08621a9fa5895515"
+      },
+      {
         "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
         "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -528,6 +550,26 @@
         "id": "6efcb3a36639d334a5e4"
       },
       {
+        "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-11-02T09:30:00+00:00",
+        "fetched_at": "2026-11-02T09:07:16+00:00",
+        "summary": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Macro/Policy (+5.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e46b455c9b96d0ab5891"
+      },
+      {
         "title": "Startup Island TAIWAN leads 33 deep-tech startups to SWITCH 2026, advancing their expansion into Singapore",
         "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -609,6 +651,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a57e4c1ddcaf33c761a1"
+      },
+      {
+        "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
+        "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-02T07:17:57+00:00",
+        "fetched_at": "2026-11-02T09:07:16+00:00",
+        "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡って記者会見を開き、「お客さまをお守りすることができず、誠に申し訳ありませんでした」と謝罪した。10月21日に不正アクセスを公表して以来、GMOインタ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "607440171aad5f2f23fa"
       },
       {
         "title": "Ameba Owndサービス終了のお知らせ",
@@ -1047,6 +1110,28 @@
       "id": "9348bc97813c748b6c29"
     },
     {
+      "title": "Euro area bank interest rate statistics: September 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "fetched_at": "2026-11-02T09:07:16+00:00",
+      "summary": "Euro area bank interest rate statistics: September 2026",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy",
+        "statistics"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c87b08621a9fa5895515"
+    },
+    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1255,6 +1340,26 @@
       "id": "6efcb3a36639d334a5e4"
     },
     {
+      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-11-02T09:30:00+00:00",
+      "fetched_at": "2026-11-02T09:07:16+00:00",
+      "summary": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+5.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e46b455c9b96d0ab5891"
+    },
+    {
       "title": "Startup Island TAIWAN leads 33 deep-tech startups to SWITCH 2026, advancing their expansion into Singapore",
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1336,6 +1441,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a57e4c1ddcaf33c761a1"
+    },
+    {
+      "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-02T07:17:57+00:00",
+      "fetched_at": "2026-11-02T09:07:16+00:00",
+      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡って記者会見を開き、「お客さまをお守りすることができず、誠に申し訳ありませんでした」と謝罪した。10月21日に不正アクセスを公表して以来、GMOインタ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "607440171aad5f2f23fa"
     },
     {
       "title": "Ameba Owndサービス終了のお知らせ",
@@ -1483,7 +1609,71 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Euro area bank interest rate statistics: September 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "fetched_at": "2026-11-02T09:07:16+00:00",
+      "summary": "Euro area bank interest rate statistics: September 2026",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy",
+        "statistics"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c87b08621a9fa5895515"
+    },
+    {
+      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-11-02T09:30:00+00:00",
+      "fetched_at": "2026-11-02T09:07:16+00:00",
+      "summary": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+5.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e46b455c9b96d0ab5891"
+    },
+    {
+      "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-02T07:17:57+00:00",
+      "fetched_at": "2026-11-02T09:07:16+00:00",
+      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡って記者会見を開き、「お客さまをお守りすることができず、誠に申し訳ありませんでした」と謝罪した。10月21日に不正アクセスを公表して以来、GMOインタ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "607440171aad5f2f23fa"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
