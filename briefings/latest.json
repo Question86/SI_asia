@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-02T08:32:26+00:00",
-  "run_id": "2026-11-02T08:32:26+00:00",
+  "generated_at": "2026-11-02T08:48:57+00:00",
+  "run_id": "2026-11-02T08:48:57+00:00",
   "date": "2026-11-02",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 25
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 8,
     "observe": 17,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-02T05:56:31+00:00",
-        "fetched_at": "2026-11-02T05:56:18+00:00",
+        "published_at": "2026-11-02T08:48:46+00:00",
+        "fetched_at": "2026-11-02T08:48:33+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "102fdec2ca62cb2c8b85"
+        "id": "9eb899044867d00224f0"
       },
       {
         "title": "Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen",
@@ -763,8 +763,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-02T05:56:31+00:00",
-      "fetched_at": "2026-11-02T05:56:18+00:00",
+      "published_at": "2026-11-02T08:48:46+00:00",
+      "fetched_at": "2026-11-02T08:48:33+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -798,7 +798,7 @@
         "HD",
         "LOW"
       ],
-      "id": "102fdec2ca62cb2c8b85"
+      "id": "9eb899044867d00224f0"
     },
     {
       "title": "Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen",
@@ -1485,20 +1485,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-02T08:27:49.040+00:00",
-      "fetched_at": "2026-11-02T08:31:57+00:00",
-      "summary": "Time 2026-11-02 08:13:14 UTC 2026-11-02 08:13:14 UTC at epicenter Location 1.392°N 124.648°E Depth 196.65 km (122.19 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-02T08:48:46+00:00",
+      "fetched_at": "2026-11-02T08:48:33+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -1519,10 +1524,17 @@
         "HD",
         "LOW"
       ],
-      "id": "270f1bd7b393baa07cf6"
+      "id": "9eb899044867d00224f0"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "403 Client Error: Forbidden for url: https://e27.co/feed/"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
