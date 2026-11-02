@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-02T11:55:56+00:00",
+  "generated_at": "2026-11-02T12:03:13+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,20 @@
         "url": "https://github.com/lightpanda-io/browser"
       },
       {
+        "title": "[UPDATE] [hoch] Google Cloud Platform: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-02T11:54:00+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (pillow and aspell): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-02T11:54:00+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4243"
+      },
+      {
         "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-02T12:00:00+09:00",
@@ -105,25 +119,32 @@
         "url": "https://jvn.jp/jp/JVN23328936/"
       },
       {
-        "title": "[UPDATE] [hoch] Rancher: Mehrere Schwachstellen",
+        "title": "[UPDATE] [mittel] Composer: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-02T11:27:32+00:00",
+        "published_at": "2026-11-02T11:54:22+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4246"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4254"
       },
       {
-        "title": "Sicherheitslücken in Progress WS_FTP ermöglichen Kompromittierung",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-02T09:44:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Sicherheitsluecken-in-Progress-WS-FTP-ermoeglichen-Kompromittierung-11507580.html"
+        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-02T11:54:21+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4253"
       },
       {
-        "title": "Schadcode-Sicherheitslücken bedrohen Veeam Management Pack",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-02T09:32:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-bedrohen-Veeam-Management-Pack-11507704.html"
+        "title": "[UPDATE] [hoch] pgAdmin: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-02T11:54:21+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4242"
+      },
+      {
+        "title": "[UPDATE] [hoch] Fleet: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-02T11:54:21+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4245"
       }
     ],
     "economy": [
@@ -309,6 +330,13 @@
         "url": "https://www.digital.go.jp/speech/minister-261102-01"
       },
       {
+        "title": "GMO会見 熊谷社長、涙で「情報守れず」と痛恨の表情 「みんなを笑顔にしてから死ぬ」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-02T08:28:13+00:00",
+        "relevance_score": 5,
+        "url": "https://www.sankei.com/article/20261102-A5RKDQM3ZRMHXAX3OYFO3RZLYI/"
+      },
+      {
         "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-11-02T07:17:57+00:00",
@@ -321,13 +349,6 @@
         "published_at": "2026-11-02T05:52:07+00:00",
         "relevance_score": 5,
         "url": "https://blog.amebaownd.com/posts/59351287/"
-      },
-      {
-        "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-02T01:59:35+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/"
       }
     ]
   }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T11:55:56+00:00_
+_Generiert: 2026-11-02T12:03:13+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+44 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign planning and website troubleshooting. It’s saved me countless hours, particularly when it comes to […] The post AI saves me hours, but I don’t trust it blindly app…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Google Cloud Platform: Schwachstelle ermöglicht Codeausführung** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-02T11:54:00+00:00`, fetched `2026-11-02T12:02:40+00:00`
+  - Treffer: APAC Trend Radar, BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen** — Score 17, opportunity — [Quelle](https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-02T05:18:24+00:00`, fetched `2026-11-02T05:25:58+00:00`
@@ -66,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: A passport is not a clever piece of paper. Anyone with a good printer and bad intentions can fake one. What makes it work is the government standing behind it, an authority that vouched for the holder and can withdraw that vouching the moment something goes wrong. Evin McMullen has spent a decade thinking about […] The post AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen appeared first o…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (pillow and aspell): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4243)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-02T11:54:00+00:00`, fetched `2026-11-02T12:02:40+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pillow and aspell) ausnutzen, um einen Denial of Service Angriff durchzuführen oder beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 19 km WNW of Tomohon, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-02T08:27:49.040+00:00`, fetched `2026-11-02T08:31:57+00:00`
@@ -93,14 +111,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ALCPUが提供するCore Tempのカーネルドライバには、IOCTLインタフェースに対するアクセス制御が不十分な脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Rancher: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4246)
+- **[UPDATE] [mittel] Composer: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4254)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-02T11:27:32+00:00`, fetched `2026-11-02T11:47:58+00:00`
+  - Zeit: published `2026-11-02T11:54:22+00:00`, fetched `2026-11-02T12:02:40+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Rancher ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen auszulesen oder Daten zu manipulieren.
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Composer ausnutzen, Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren oder Informationen auszulesen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten

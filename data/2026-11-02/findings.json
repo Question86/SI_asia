@@ -169,6 +169,30 @@
     "id": "c510d5107954b0386bef"
   },
   {
+    "title": "[UPDATE] [hoch] Google Cloud Platform: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-02T11:54:00+00:00",
+    "fetched_at": "2026-11-02T12:02:40+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3aeece7437c9d763108d"
+  },
+  {
     "title": "AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen",
     "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -213,6 +237,30 @@
       "PINS"
     ],
     "id": "d5d54f27eca2b4df5627"
+  },
+  {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (pillow and aspell): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4243",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-02T11:54:00+00:00",
+    "fetched_at": "2026-11-02T12:02:40+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pillow and aspell) ausnutzen, um einen Denial of Service Angriff durchzuführen oder beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7c8106f821bb24f5b5b7"
   },
   {
     "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
@@ -309,6 +357,98 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9348bc97813c748b6c29"
+  },
+  {
+    "title": "[UPDATE] [mittel] Composer: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4254",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-02T11:54:22+00:00",
+    "fetched_at": "2026-11-02T12:02:40+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Composer ausnutzen, Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren oder Informationen auszulesen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9413485d0c1675c73bf1"
+  },
+  {
+    "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4253",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-02T11:54:21+00:00",
+    "fetched_at": "2026-11-02T12:02:40+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9ac9a0d3ecbd599bcb7c"
+  },
+  {
+    "title": "[UPDATE] [hoch] pgAdmin: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4242",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-02T11:54:21+00:00",
+    "fetched_at": "2026-11-02T12:02:40+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in pgAdmin ausnutzen, um erweiterte Berechtigungen, möglicherweise sogar Administratorrechte, zu erlangen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder Denial-of-Service-Angriffe zu starten.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "58a953b4d2a047e31ee8"
+  },
+  {
+    "title": "[UPDATE] [hoch] Fleet: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4245",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-02T11:54:21+00:00",
+    "fetched_at": "2026-11-02T12:02:40+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Fleet ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Berechtigungen zu erhöhen, Informationen auszulesen, Daten zu manipulieren oder einen Denial of Service Angriff durchzuführen",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6236794b5243449d7f70"
   },
   {
     "title": "[UPDATE] [hoch] Rancher: Mehrere Schwachstellen",
@@ -768,6 +908,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a57e4c1ddcaf33c761a1"
+  },
+  {
+    "title": "GMO会見 熊谷社長、涙で「情報守れず」と痛恨の表情 「みんなを笑顔にしてから死ぬ」",
+    "url": "https://www.sankei.com/article/20261102-A5RKDQM3ZRMHXAX3OYFO3RZLYI/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-02T08:28:13+00:00",
+    "fetched_at": "2026-11-02T12:02:40+00:00",
+    "summary": "GMOインターネットグループに対する不正アクセス問題で、同社の熊谷正寿社長は2日の会見で、ネット産業の老舗としてサイバーセキュリティーの向上に組織を挙げて取り組み、「お客さまの情報を守れと言い続けてきた」と涙ながらに語り、それにもかかわらず今回の事態を招いたことに痛恨の表情を浮かべた。そして「僕は命...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "df78f83008470c3d5c3f"
   },
   {
     "title": "【速報中】GMO熊谷正寿社長 会見詳報 | 毎日新聞",
