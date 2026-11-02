@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T20:15:32+00:00_
+_Generiert: 2026-11-02T20:30:32+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+77 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -249,14 +249,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)
   - Kurz: GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusionは、与えられたタスクの特性に応じて、単一または複数のAIモデルを組み合わせて実行するマルチモデル対応の機能です。 推論、コー...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - 81 km SSE of Palekastro, Greece** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxy)
+- **M 4.5 - 168 km SE of San Jose Village, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuzd)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-02T17:07:16.040+00:00`, fetched `2026-11-02T17:15:21+00:00`
+  - Zeit: published `2026-11-02T20:18:25.040+00:00`, fetched `2026-11-02T20:29:55+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-02 16:49:17 UTC 2026-11-02 16:49:17 UTC at epicenter Location 34.481°N 26.469°E Depth 48.53 km (30.15 mi)
+  - Kurz: Time 2026-11-02 19:59:04 UTC 2026-11-02 19:59:04 UTC at epicenter Location 13.795°N 146.611°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Binance’s US$6.4B hack was decided in 54 minutes, and the chase isn’t over** — Score 8, observation — [Quelle](https://e27.co/binances-us6-4b-hack-was-decided-in-54-minutes-and-the-chase-isnt-over-20261102/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
