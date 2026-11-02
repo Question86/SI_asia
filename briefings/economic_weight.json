@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T00:39:36+00:00",
+  "generated_at": "2026-11-02T00:53:38+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -22395,6 +22395,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3c002eb3506765c4e944",
+      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-02T00:39:14+00:00",
+      "last_seen_at": "2026-11-02T00:53:20+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3c284bb7efef8ece9009",
       "title": "Confidential comments on repository security advisories",
       "event_classes": [
@@ -23941,23 +23958,6 @@
       "first_seen_at": "2026-09-28T06:50:23+00:00",
       "last_seen_at": "2026-09-28T18:49:20+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_3c002eb3506765c4e944",
-      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-02T00:39:14+00:00",
-      "last_seen_at": "2026-11-02T00:39:14+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_03377f8133c052e61312",
