@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T01:17:38+00:00",
+  "generated_at": "2026-11-02T01:25:40+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -10646,6 +10646,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d0dc25d076321f73b565",
+      "title": "M 5.1 - Banda Sea",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-02T01:17:19+00:00",
+      "last_seen_at": "2026-11-02T01:25:20+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d420437f18d4bf6091f4",
       "title": "M 4.9 - 93 km ESE of Yigo Village, Guam",
       "event_classes": [
@@ -11936,23 +11953,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d0dc25d076321f73b565",
-      "title": "M 5.1 - Banda Sea",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-11-02T01:17:19+00:00",
-      "last_seen_at": "2026-11-02T01:17:19+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -15369,7 +15369,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T01:01:55+00:00",
-      "last_seen_at": "2026-11-02T01:17:19+00:00",
+      "last_seen_at": "2026-11-02T01:25:20+00:00",
       "status": "active"
     },
     {
@@ -22442,7 +22442,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-02T00:39:14+00:00",
-      "last_seen_at": "2026-11-02T01:17:19+00:00",
+      "last_seen_at": "2026-11-02T01:25:20+00:00",
       "status": "active"
     },
     {
@@ -35522,6 +35522,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ff5c0205241e8b7ab9f9",
+      "title": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-02T01:17:19+00:00",
+      "last_seen_at": "2026-11-02T01:25:20+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_ff692f3789f4ee8ecab8",
       "title": "【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！",
       "event_classes": [
@@ -35554,23 +35571,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_ff5c0205241e8b7ab9f9",
-      "title": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-02T01:17:19+00:00",
-      "last_seen_at": "2026-11-02T01:17:19+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
