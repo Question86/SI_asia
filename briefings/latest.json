@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T09:07:49+00:00",
-  "run_id": "2026-11-02T09:07:49+00:00",
+  "generated_at": "2026-11-02T09:23:51+00:00",
+  "run_id": "2026-11-02T09:23:51+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 1,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 8,
-    "observe": 20,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -340,6 +340,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c87b08621a9fa5895515"
+      },
+      {
+        "title": "「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2153092.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-02T06:27:09+00:00",
+        "fetched_at": "2026-11-02T09:23:20+00:00",
+        "summary": "「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ffc84dcf2557418c6a95"
       },
       {
         "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
@@ -1132,6 +1154,28 @@
       "id": "c87b08621a9fa5895515"
     },
     {
+      "title": "「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2153092.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-02T06:27:09+00:00",
+      "fetched_at": "2026-11-02T09:23:20+00:00",
+      "summary": "「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ffc84dcf2557418c6a95"
+    },
+    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1611,67 +1655,26 @@
   ],
   "new_findings": [
     {
-      "title": "Euro area bank interest rate statistics: September 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-11-02T09:00:00+00:00",
-      "fetched_at": "2026-11-02T09:07:16+00:00",
-      "summary": "Euro area bank interest rate statistics: September 2026",
-      "matched_keywords": [
-        "euro area",
-        "Macro/Policy",
-        "statistics"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c87b08621a9fa5895515"
-    },
-    {
-      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-11-02T09:30:00+00:00",
-      "fetched_at": "2026-11-02T09:07:16+00:00",
-      "summary": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Macro/Policy (+5.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e46b455c9b96d0ab5891"
-    },
-    {
-      "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
+      "title": "「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2153092.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-02T07:17:57+00:00",
-      "fetched_at": "2026-11-02T09:07:16+00:00",
-      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡って記者会見を開き、「お客さまをお守りすることができず、誠に申し訳ありませんでした」と謝罪した。10月21日に不正アクセスを公表して以来、GMOインタ...",
+      "published_at": "2026-11-02T06:27:09+00:00",
+      "fetched_at": "2026-11-02T09:23:20+00:00",
+      "summary": "「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "607440171aad5f2f23fa"
+      "id": "ffc84dcf2557418c6a95"
     }
   ],
   "source_errors": [],
