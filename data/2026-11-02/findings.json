@@ -64,5 +64,62 @@
       "PINS"
     ],
     "id": "fec8ed7f6040311ad7e8"
+  },
+  {
+    "title": "M 5.1 - Banda Sea",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-02T01:09:20.040+00:00",
+    "fetched_at": "2026-11-02T01:16:47+00:00",
+    "summary": "Time 2026-11-02 00:53:09 UTC 2026-11-02 00:53:09 UTC at epicenter Location 6.974°S 129.936°E Depth 85.69 km (53.25 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "79358b73cd3e4b24e011"
+  },
+  {
+    "title": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし",
+    "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-01T21:25:56+00:00",
+    "fetched_at": "2026-11-02T01:16:47+00:00",
+    "summary": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3ba0c1ca931dfea69d0a"
   }
 ]
