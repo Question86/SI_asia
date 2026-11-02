@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T15:04:47+00:00_
+_Generiert: 2026-11-02T15:17:52+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: Une vulnérabilité a été découverte dans Axis Camera Station Pro. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Introducing the Grid Protectors Program** — Score 7, observation — [Quelle](https://openai.com/index/grid-protectors-program)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-02T15:00:00+00:00`, fetched `2026-11-02T15:17:21+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); recent (+1.0)
+  - Kurz: OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitslücken in Progress WS_FTP ermöglichen Kompromittierung** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-in-Progress-WS-FTP-ermoeglichen-Kompromittierung-11507580.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-02T09:44:00.000+00:00`, fetched `2026-11-02T09:55:38+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Das Veeam Management Pack für Microsoft System Center ist verwundbar. Abhilfe schafft ein Upgrade auf Version 13.1.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world** — Score 7, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-11-02T09:30:00+00:00`, fetched `2026-11-02T09:07:16+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
