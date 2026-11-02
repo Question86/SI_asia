@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T10:56:13+00:00_
+_Generiert: 2026-11-02T11:03:31+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+35 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: Angreifer missbrauchen Lücken in veralteten Betriebssystemen oder als Zero-Day-Lücken in Drupal, Ivanti Connect Secure und Synology.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Startups recalibrate Chinese AI for the West** — Score 20, observation — [Quelle](https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-11-02T11:00:00+00:00`, fetched `2026-11-02T11:02:58+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Climate/Disaster Infrastructure, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+6.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: A growing number of startups are editing powerful Chinese open-weight models for Western businesses that are concerned about censorship and security.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **lightpanda-io/browser** — Score 20, opportunity — [Quelle](https://github.com/lightpanda-io/browser)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-11-02T07:32:25+00:00`
@@ -217,8 +226,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
