@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-02T15:50:59+00:00_
+_Generiert: 2026-11-02T15:58:30+00:00_
 
 ## Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen
 
@@ -19,7 +19,7 @@ _Generiert: 2026-11-02T15:50:59+00:00_
 
 ## Euro area bank interest rate statistics: September 2026
 
-- Ranking Score: `25.22`
+- Ranking Score: `25.16`
 - Raw Network Score: `27.3`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
