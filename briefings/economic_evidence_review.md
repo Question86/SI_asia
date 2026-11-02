@@ -1,6 +1,6 @@
 # Economic Evidence Review
 
-Generated: `2026-11-02T07:56:56+00:00`
+Generated: `2026-11-02T08:04:49+00:00`
 FX as of: `None`
 
 - Candidates: **2524**
