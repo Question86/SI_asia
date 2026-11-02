@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T05:50:31+00:00_
+_Generated: 2026-11-02T05:56:41+00:00_
 
 ## Status
-- status: `normal`
-- findings: `19`
+- status: `warning`
+- findings: `20`
 
 ## Top Signals
 
-### 1. AI saves me hours, but I don’t trust it blindly
+### 1. Updates | ReliefWeb
+- source: ReliefWeb Mindanao Recovery Watch
+- score: `23`
+- published: `2026-11-02T05:56:31+00:00`
+- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
+- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
+
+### 2. AI saves me hours, but I don’t trust it blindly
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-11-02T01:00:15+00:00`
 - url: https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/
 - summary: I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign pla…
 
-### 2. AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen
+### 3. AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-11-02T05:18:24+00:00`
 - url: https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/
 - summary: A passport is not a clever piece of paper. Anyone with a good printer and bad intentions can fake one. What makes it work is the government standing behind it, an authority that vouched for the holder and can withdraw that vouching the moment something goes w…
 
-### 3. M 4.5 - 288 km SSE of Muroto-misakicho, Japan
+### 4. M 4.5 - 288 km SSE of Muroto-misakicho, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-02T02:12:33.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta
 - summary: Time 2026-11-02 01:54:55 UTC 2026-11-02 01:54:55 UTC at epicenter Location 30.841°N 135.199°E Depth 510.07 km (316.94 mi)
-
-### 4. Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-02T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN23328936/
-- summary: ALCPUが提供するCore Tempのカーネルドライバには、IOCTLインタフェースに対するアクセス制御が不十分な脆弱性が存在します。
 
 ### 5. GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026
 - source: Hatena Bookmark Hotentry IT
