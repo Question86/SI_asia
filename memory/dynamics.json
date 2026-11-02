@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-02T08:38:20Z",
+  "generated_at": "2026-11-02T09:15:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 2,
+      "extreme": 3,
       "krass": 2,
       "strong": 11,
-      "watch": 18,
-      "quiet": 7
+      "watch": 20,
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
-      "strong": 15,
-      "watch": 18,
-      "quiet": 7
+      "strong": 16,
+      "watch": 20,
+      "quiet": 4
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 136.04,
+      "age_days": 136.07,
       "topics": [
         "security"
       ],
@@ -42,7 +42,7 @@
         "momentum delta +3",
         "high terms: rce, ivanti",
         "security high-signal: rce, ivanti",
-        "aging penalty -8.0 for 136.0d old signal",
+        "aging penalty -8.0 for 136.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -52,7 +52,7 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T07:45:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -78,7 +78,7 @@
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T12:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -98,11 +98,41 @@
       "summary": "ALCPUが提供するCore Tempのカーネルドライバには、IOCTLインタフェースに対するアクセス制御が不十分な脆弱性が存在します。"
     },
     {
+      "title": "Euro area bank interest rate statistics: September 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
+      "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 136.78,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 10.54,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 10.54",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 136.8d old signal",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": ""
+    },
+    {
       "title": "lightpanda-io/browser",
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:33:02+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -127,7 +157,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:26:32+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -154,7 +184,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:18:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -181,7 +211,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:32:25+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -208,7 +238,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 135.88,
+      "age_days": 135.91,
       "topics": [
         "general"
       ],
@@ -235,8 +265,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-02T05:56:31+00:00",
-      "age_days": 0.11,
+      "published_at": "2026-11-02T08:48:46+00:00",
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro",
@@ -265,7 +295,7 @@
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:46:38+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -292,7 +322,7 @@
       "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:03:47+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -319,7 +349,7 @@
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T03:13:40+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -343,7 +373,7 @@
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:01:55+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -369,7 +399,7 @@
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:34:54+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "infra"
@@ -397,7 +427,7 @@
       "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:00:56+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -424,34 +454,8 @@
       "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-04T16:56:25+00:00",
-      "age_days": 58.65,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.59,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 58.7d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T08:27:49.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -475,7 +479,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T05:11:20.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -500,7 +504,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:36:08.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -525,7 +529,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:09:20.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -550,7 +554,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T05:41:43+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -574,7 +578,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T05:17:41+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -598,7 +602,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:43:14+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -622,7 +626,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:17:19+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -646,7 +650,7 @@
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:00:15+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -673,7 +677,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261102-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-02T02:36:14+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -697,7 +701,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T02:12:33.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "disaster"
@@ -725,11 +729,11 @@
       "url": "https://future-architect.github.io/articles/20261102a/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-08T19:49:03+00:00",
-      "age_days": 24.53,
+      "age_days": 24.56,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.76,
+      "dynamics_score": 14.75,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -741,7 +745,32 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -1.2 for 24.5d old signal"
+        "aging penalty -1.2 for 24.6d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T16:56:25+00:00",
+      "age_days": 58.68,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 58.7d old signal"
       ],
       "summary": ""
     },
@@ -750,7 +779,7 @@
       "url": "https://blog.amebaownd.com/posts/59351287/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T07:48:24+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -774,7 +803,7 @@
       "url": "https://smhn.info/202611-apple-switch-to-safari-campaign-targets-chrome",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T02:58:37+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -798,7 +827,7 @@
       "url": "https://e27.co/bitcoin-and-ethereum-rebound-through-a-shaky-relief-move-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T02:36:14+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -818,11 +847,35 @@
       "summary": ""
     },
     {
+      "title": "Euro area bank interest rate statistics: September 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
+      "source": "ECB Statistical Press Releases",
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Euro area bank interest rate statistics: September 2026"
+    },
+    {
       "title": "M 4.9 - 175 km WNW of Panguna, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T05:39:59.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -842,11 +895,35 @@
       "summary": "Time 2026-11-02 05:19:50 UTC 2026-11-02 05:19:50 UTC at epicenter Location 5.563°S 154.088°E Depth 87.89 km (54.61 mi)"
     },
     {
+      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-11-02T09:30:00+00:00",
+      "age_days": 0,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world"
+    },
+    {
       "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
       "url": "https://future-architect.github.io/articles/20261102a/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T01:20:43+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -866,11 +943,35 @@
       "summary": "秋のブログ週間2026 の5本目です。 前回の 非機能はなぜ必要なのか の続編です。前回は社内の非機能要件ガイドラインを読んで感じた違和感をエッセイとして書きましたが、今回はその考え方を、実務で使える形に整理し直したものです。 本記事の位置づけ本記事は、非機能を「システム開発者の目線」ではなく「事業者（サ..."
     },
     {
+      "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-02T09:07:55+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
       "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T00:39:14+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -896,7 +997,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261102-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-02T02:12:32+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -916,11 +1017,11 @@
       "summary": "古川大臣記者会見（令和8年11月2日）動画を掲載しました"
     },
     {
-      "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/",
+      "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T01:59:35+00:00",
-      "age_days": 0.28,
+      "published_at": "2026-11-02T07:17:57+00:00",
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -937,111 +1038,7 @@
       "why": [
         "high terms: 10"
       ],
-      "summary": "GMOグローバルサインは10月30日、シングルサインオンサービス「GMOトラスト・ログイン」の設定不備による情報漏えいで、利用企業2492社・4万5030人分の氏名やメールアドレスなどが対象になったと発表した。 顧客情報を含む一時ファイルなどを、ロゴ画像と同じ公開領域に保存する設計になっていたことで、約9年間にわたり..."
-    },
-    {
-      "title": "AI prepared every decision. It did not raise the ceiling on scale",
-      "url": "https://e27.co/ai-prepared-every-decision-it-did-not-raise-the-ceiling-on-scale-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-02T03:33:39+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
-      "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-01T16:58:30+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusionは、与えられたタスクの特性に応じて、単一または複数のAIモデルを組み合わせて実行するマルチモデル対応の機能です。 推論、コー..."
-    },
-    {
-      "title": "M 4.5 - 288 km SSE of Muroto-misakicho, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 58.31,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 58.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
-      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-02T08:35:24+00:00",
-      "age_days": 61.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 61.0d old signal"
-      ],
-      "summary": ""
+      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡って記者会見を開き、「お客さまをお守りすることができず、誠に申し訳ありませんでした」と謝罪した。10月21日に不正アクセスを公表して以来、GMOインタ..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-11-02T08:38:20Z",
+  "generated_at": "2026-11-02T09:15:11Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -22,6 +22,11 @@
     }
   ],
   "current_dynamic_memory_candidates": [
+    {
+      "title": "Euro area bank interest rate statistics: September 2026",
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
     {
       "title": "lightpanda-io/browser",
       "band": "extreme",
@@ -49,11 +54,6 @@
     },
     {
       "title": "Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "Updates | ReliefWeb",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },

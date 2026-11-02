@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-02T08:38:20Z",
+  "generated_at": "2026-11-02T09:15:11Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 136.04,
+      "age_days": 136.07,
       "topics": [
         "security"
       ],
@@ -33,7 +33,7 @@
         "momentum delta +3",
         "high terms: rce, ivanti",
         "security high-signal: rce, ivanti",
-        "aging penalty -8.0 for 136.0d old signal",
+        "aging penalty -8.0 for 136.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -43,7 +43,7 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T07:45:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -69,7 +69,7 @@
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T12:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -89,11 +89,41 @@
       "summary": "ALCPUが提供するCore Tempのカーネルドライバには、IOCTLインタフェースに対するアクセス制御が不十分な脆弱性が存在します。"
     },
     {
+      "title": "Euro area bank interest rate statistics: September 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
+      "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 136.78,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 10.54,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 10.54",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 136.8d old signal",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": ""
+    },
+    {
       "title": "lightpanda-io/browser",
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:33:02+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -118,7 +148,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:26:32+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -145,7 +175,7 @@
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:18:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -172,7 +202,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:32:25+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -199,7 +229,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 135.88,
+      "age_days": 135.91,
       "topics": [
         "general"
       ],
@@ -226,8 +256,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-02T05:56:31+00:00",
-      "age_days": 0.11,
+      "published_at": "2026-11-02T08:48:46+00:00",
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro",
@@ -256,7 +286,7 @@
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:46:38+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -283,7 +313,7 @@
       "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:03:47+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -302,30 +332,6 @@
         "AXI0M/User-Yps identity hit",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
-      "url": "https://jvn.jp/jp/JVN23328936/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-02T03:13:40+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
       ],
       "summary": ""
     }
