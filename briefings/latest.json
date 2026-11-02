@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T18:04:34+00:00",
-  "run_id": "2026-11-02T18:04:34+00:00",
+  "generated_at": "2026-11-02T18:20:06+00:00",
+  "run_id": "2026-11-02T18:20:06+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 0,
@@ -3833,30 +3833,7 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "pull_request_target blocked by default December 2",
-      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-02T15:14:46+00:00",
-      "fetched_at": "2026-11-02T18:03:56+00:00",
-      "summary": "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in all public repositories, unless an applicable Actions event policy explicitly allows them. Enforcement was previously scheduled for… The post pull_request_target blocked by default December 2 appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "GitHub",
-        "GitHub Actions"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4fb527f3649da80e0ead"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
