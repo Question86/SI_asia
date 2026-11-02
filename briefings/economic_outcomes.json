@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T14:32:20+00:00",
+  "generated_at": "2026-11-02T14:49:43+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -5621,7 +5621,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3ca7d2df04b1c6d2e5c0",
@@ -6557,6 +6557,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_45eaf631aa6f8cb4241d",
+      "title": "M 4.7 - south of the Fiji Islands",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_46181d193cf0905d1f04",
