@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T07:49:20+00:00_
+_Generated: 2026-11-03T07:56:06+00:00_
 
 ## Status
-- status: `normal`
-- findings: `23`
+- status: `warning`
+- findings: `27`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-03T07:49:20+00:00_
 - url: https://openai.com/index/dan-driscoll-joins-openai
 - summary: OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.
 
-### 4. The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-11-03T05:26:33+00:00`
-- url: https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/
-- summary: The leading digital asset fell 1.69 per cent to US$76,940.91 over 24 hours, while the total crypto market capitalisation dropped 1.68 per cent. That near-perfect match matters. I don’t see this as a coin-specific move. It is a unified repricing of risk across…
+### 4. D4Vinci/Scrapling
+- source: GitHub Trending RSS All Languages Daily
+- score: `19`
+- published: `None`
+- url: https://github.com/D4Vinci/Scrapling
+- summary: 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev https://scrapling.readthedocs…
 
 ### 5. Are AI fears genuine? Why we should demand evidence, not alarm
 - source: e27 Asia Startup and Tech Feed

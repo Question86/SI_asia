@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-03T07:49:20+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-11-03T07:56:06+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 4,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
-    "medium": 6,
-    "observe": 17
+    "medium": 8,
+    "observe": 19
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "D4Vinci/Scrapling",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-11-03T05:26:33+00:00",
-      "relevance_score": 16,
-      "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/",
-      "summary": "The leading digital asset fell 1.69 per cent to US$76,940.91 over 24 hours, while the total crypto market capitalisation dropped 1.68 per cent. That near-perfect match matters. I don’t see this as a coin-specific move. It is a unified repricing of risk across…",
+      "published_at": null,
+      "relevance_score": 19,
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "summary": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev https://scrapling.readthedocs…",
       "section": "medium"
     },
     {
