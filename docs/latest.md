@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T20:26:13+00:00_
+_Generiert: 2026-11-03T20:32:57+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+86 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -295,7 +295,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)

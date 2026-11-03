@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-03T20:26:17+00:00_
+_Generiert: 2026-11-03T20:33:01+00:00_
 
 ## GitHub - NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 
