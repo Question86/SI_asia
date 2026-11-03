@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T13:41:20+00:00",
+  "generated_at": "2026-11-03T13:50:40+00:00",
   "candidate_count": 2598,
   "candidates": [
     {
@@ -11204,22 +11204,23 @@
       "source_url": "https://www.bis.org/publications/202604-commentary-ibs-gli"
     },
     {
-      "candidate_id": "cand_93f338b2b691dc7a2c3c",
-      "event_id": "evt_5a8609c38e0d544999d3",
-      "source_url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
-      "observed_at": "2026-11-03T13:41:04+00:00",
-      "currency": "EUR",
       "amount_native": 264000000000.0,
       "amount_usd": null,
-      "conversion_status": "pending_fx",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
       "attribution_probability": null,
-      "snippet": "Such dependency may prove costly in the long term. A study commissioned by the association of major French companies for digital technology (CIGREF) estimates that Europeans spend EUR 264 billion each year on US software and cloud services 1 It is also operationally dangerous, as illustrated by recent discussions surrounding the possibility of a “kill switch” affecting US",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.55,
-      "review_status": "pending"
+      "candidate_id": "cand_93f338b2b691dc7a2c3c",
+      "component_confidence": 0.55,
+      "component_suggestion": "real_resource",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-03T13:41:04+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:real_resource:37a49cd505fb",
+      "review_status": "pending",
+      "snippet": "Such dependency may prove costly in the long term. A study commissioned by the association of major French companies for digital technology (CIGREF) estimates that Europeans spend EUR 264 billion each year on US software and cloud services 1 It is also operationally dangerous, as illustrated by recent discussions surrounding the possibility of a “kill switch” affecting US",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives"
     },
     {
       "amount_native": 261000000000.0,
