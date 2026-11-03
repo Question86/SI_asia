@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T20:16:41+00:00",
-  "run_id": "2026-11-03T20:16:41+00:00",
+  "generated_at": "2026-11-03T20:26:13+00:00",
+  "run_id": "2026-11-03T20:26:13+00:00",
   "date": "2026-11-03",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 86,
     "displayed_findings": 86,
     "high": 0,
@@ -4643,34 +4643,7 @@
       "id": "d5b712707e693e13748c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub - NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-03T12:34:20+00:00",
-      "fetched_at": "2026-11-03T20:16:02+00:00",
-      "summary": "Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where data lives, what it means, whether to use it, how to use it, where it came from, ...",
-      "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "AI/KI",
-        "Content-Chance",
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fd21d2fa8341a469f0ed"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "twcert_security_news",

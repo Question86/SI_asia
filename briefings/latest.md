@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T20:16:41+00:00_
+_Generiert: 2026-11-03T20:26:13+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,10 @@ _Generiert: 2026-11-03T20:16:41+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-119977 WordPress WordPress Core** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-03`
+  - Kurz: Known exploited vulnerability. Added 2026-11-03. Due 2026-11-06. WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability
 - **CISA KEV: CVE-2026-118527 Ivanti Connect Secure** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-30`
@@ -25,10 +29,6 @@ _Generiert: 2026-11-03T20:16:41+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-29`
   - Kurz: Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability
-- **CISA KEV: CVE-2026-41709 Broadcom VMware ESX** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-28`
-  - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-11-11. Broadcom VMWare ESX Insufficient Logging Vulnerability
 - **GDACS: Green flood alert in Bulgaria** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104267)
   - Quelle: GDACS
   - Zeit: ``
