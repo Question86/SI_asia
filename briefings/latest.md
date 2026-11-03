@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T07:56:06+00:00_
+_Generiert: 2026-11-03T08:04:09+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+28 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round** — Score 23, opportunity — [Quelle](https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-03T07:55:32+00:00`, fetched `2026-11-03T08:03:41+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Automatisierung, funding, Watchgraph:ai_agents_workflow, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers, ai_agents_workflow
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, NVDA, AMD, TSM, ASML, AVGO, MU, BA
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Automatisierung (+5.0); APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers, ai_agents_workflow (+6.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Bangkok, October 26, 2026 – SCB 10X, the disruptive technology investment arm of SCBX Group, announced its investment in Tasklet, an AI agent platform that enables businesses to automate complex workflows and delegate operational tasks to AI agents. Tasklet has raised an additional $12.8 million in funding, with participation from investors including Union Square Ventures, 359 Capital, […] The post SCB 10X Invests i…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB** — Score 23, observation — [Quelle](https://ai-data-base.com/archives/139789)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-01T04:48:57+00:00`, fetched `2026-11-03T02:36:35+00:00`
@@ -119,15 +128,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Food allergy in Indonesia is a real concern, and we cannot ignore it. According to CNN Indonesia, about 1.7 million children in Indonesia have allergies, and cow’s milk is one of the triggers. This number was shared by Ray Wagiu Basrowi, a doctor and researcher, during World Allergy Week 2026 with Sarihusada in Jakarta on […] The post Indonesia urgently needs an allergy data centre to support national food security…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Singapore and Romania don’t need another MOU. They need first customers** — Score 14, observation — [Quelle](https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-03T03:30:36+00:00`, fetched `2026-11-03T03:42:32+00:00`
-  - Treffer: APAC Trend Radar, founder, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: On a weekday afternoon in late October, a group of Romanian founders pitched to a Singapore audience over Teams. One of them signed off with a plain request. He would be in Singapore the week of the Singapore Fintech Festival, he said, and he’d love an introduction to anyone who runs compliance or risk at […] The post Singapore and Romania don’t need another MOU. They need first customers appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -216,13 +216,9 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
