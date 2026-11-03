@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T14:57:58+00:00_
+_Generiert: 2026-11-03T15:07:24+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+75 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -115,6 +115,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules elections_unrest, ai_agents_workflow (+6.0)
   - Kurz: 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev https://scrapling.readthedocs.io/en/latest/ Effortless Web Scraping for the Modern Web Selection methods · Fetchers · Spiders · Proxy Rotation · CLI · MCP Scrapling is a Python Web Scraping…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-03T14:56:03+00:00`, fetched `2026-11-03T15:06:55+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.3. It supports new Python 3.15 language… The post CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **vercel-labs/agent-desktop** — Score 18, opportunity — [Quelle](https://github.com/vercel-labs/agent-desktop)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-11-03T07:55:31+00:00`
@@ -187,15 +196,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); Markets/Capital Structure (+7.5); recent (+1.0)
   - Kurz: Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the South African Reserve Bank Payments Conference 2026, Pretoria, 21 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Vulnérabilité dans les produits Cisco (29 octobre 2026)** — Score 14, risk — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-11-03T14:26:01+00:00`
-  - Treffer: avis, CERT-FR, Security, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement exploitée.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
