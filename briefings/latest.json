@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T00:58:24+00:00",
-  "run_id": "2026-11-03T00:58:24+00:00",
+  "generated_at": "2026-11-03T01:10:07+00:00",
+  "run_id": "2026-11-03T01:10:07+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 1,
-    "observe": 3,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
@@ -53,6 +53,50 @@
       }
     ],
     "observe": [
+      {
+        "title": "In Southeast Asia, winning at home may no longer be enough",
+        "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-03T01:00:36+00:00",
+        "fetched_at": "2026-11-03T01:09:32+00:00",
+        "summary": "For years, Southeast Asian founders were told to win their home market before expanding abroad. Prove the product, build the team, establish revenue, then move into neighbouring countries. That advice still makes sense. But for startups seeking institutional venture capital, it is becoming less sufficient. Investors are paying closer attention to the limits of domestic […] The post In Southeast Asia, winning at home…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Southeast Asia",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "22d5fdd9efd80777eb50"
+      },
       {
         "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
         "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
@@ -96,6 +140,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "df7a6795436eb6ddf8d6"
+      },
+      {
+        "title": "HKSTP drives Hong Kong mobility innovators to test and scale in Singapore",
+        "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-03T01:00:54+00:00",
+        "fetched_at": "2026-11-03T01:09:32+00:00",
+        "summary": "Ask a Hong Kong engineer why their product deserves a place abroad and you will often hear the same answer: the city is the hardest test bed they know. Towers scramble satellite signals, space is scarce, labour is expensive and safety rules leave little room for error. Survive that, the argument goes, and most other […] The post HKSTP drives Hong Kong mobility innovators to test and scale in Singapore appeared first…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fb2f86e5ae4fa5eb9480"
       },
       {
         "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース",
@@ -144,6 +208,50 @@
       "id": "9ca6791946ffe58e43bb"
     },
     {
+      "title": "In Southeast Asia, winning at home may no longer be enough",
+      "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-03T01:00:36+00:00",
+      "fetched_at": "2026-11-03T01:09:32+00:00",
+      "summary": "For years, Southeast Asian founders were told to win their home market before expanding abroad. Prove the product, build the team, establish revenue, then move into neighbouring countries. That advice still makes sense. But for startups seeking institutional venture capital, it is becoming less sufficient. Investors are paying closer attention to the limits of domestic […] The post In Southeast Asia, winning at home…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "22d5fdd9efd80777eb50"
+    },
+    {
       "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -188,6 +296,26 @@
       "id": "df7a6795436eb6ddf8d6"
     },
     {
+      "title": "HKSTP drives Hong Kong mobility innovators to test and scale in Singapore",
+      "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-03T01:00:54+00:00",
+      "fetched_at": "2026-11-03T01:09:32+00:00",
+      "summary": "Ask a Hong Kong engineer why their product deserves a place abroad and you will often hear the same answer: the city is the hardest test bed they know. Towers scramble satellite signals, space is scarce, labour is expensive and safety rules leave little room for error. Survive that, the argument goes, and most other […] The post HKSTP drives Hong Kong mobility innovators to test and scale in Singapore appeared first…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fb2f86e5ae4fa5eb9480"
+    },
+    {
       "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e",
       "source": "Hatena Bookmark Hotentry IT",
@@ -211,48 +339,68 @@
   ],
   "new_findings": [
     {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI News RSS",
+      "title": "In Southeast Asia, winning at home may no longer be enough",
+      "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-02T00:00:00+00:00",
-      "fetched_at": "2026-11-03T00:57:48+00:00",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "published_at": "2026-11-03T01:00:36+00:00",
+      "fetched_at": "2026-11-03T01:09:32+00:00",
+      "summary": "For years, Southeast Asian founders were told to win their home market before expanding abroad. Prove the product, build the team, establish revenue, then move into neighbouring countries. That advice still makes sense. But for startups seeking institutional venture capital, it is becoming less sufficient. Investors are paying closer attention to the limits of domestic […] The post In Southeast Asia, winning at home…",
       "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "Security"
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Security (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9ca6791946ffe58e43bb"
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "22d5fdd9efd80777eb50"
     },
     {
-      "title": "「日本の防衛はAIで優位に」 米パランティアCEOインタビュー - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "HKSTP drives Hong Kong mobility innovators to test and scale in Singapore",
+      "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-02T09:06:32+00:00",
-      "fetched_at": "2026-11-03T00:57:48+00:00",
-      "summary": "米パランティア・テクノロジーズのアレックス・カープ最高経営責任者（CEO）は日本経済新聞の単独インタビューで「日本は専守防衛型の人工知能（AI）スタック（製品群）の開発で優位に立てる」と自衛隊へのAIシステム供給に意欲をみせた。民間部門には知的財産を守るためにAIの制御・訓練が必要だと指摘した。 米軍・情...",
+      "published_at": "2026-11-03T01:00:54+00:00",
+      "fetched_at": "2026-11-03T01:09:32+00:00",
+      "summary": "Ask a Hong Kong engineer why their product deserves a place abroad and you will often hear the same answer: the city is the hardest test bed they know. Towers scramble satellite signals, space is scarce, labour is expensive and safety rules leave little room for error. Survive that, the argument goes, and most other […] The post HKSTP drives Hong Kong mobility innovators to test and scale in Singapore appeared first…",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "df7a6795436eb6ddf8d6"
+      "id": "fb2f86e5ae4fa5eb9480"
     }
   ],
   "source_errors": [],
