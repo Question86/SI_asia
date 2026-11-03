@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T07:50:00+00:00",
-  "candidate_count": 2585,
+  "generated_at": "2026-11-03T07:56:54+00:00",
+  "candidate_count": 2588,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -8850,6 +8850,24 @@
       "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260097.en.html"
     },
     {
+      "candidate_id": "cand_e6790f933f692ce67332",
+      "event_id": "evt_91f8232ecf8f1f141932",
+      "source_url": "https://github.com/D4Vinci/Scrapling",
+      "observed_at": "2026-11-03T07:56:34+00:00",
+      "currency": "USD",
+      "amount_native": 1.95,
+      "amount_usd": 1.95,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_91f8232ecf8f1f141932:unclassified",
+      "attribution_probability": null,
+      "snippet": "s on your Scrapling runs. 28M real P2P residential devices, 98.7% clean IPs, 195 countries. City/ISP/ZIP targeting, sticky/rotating sessions, traffic never expires. Try 350 MB for $1.95. Code SCRAPEANDTAKE : 25% off . LundProxy : Stop paying per GB. Unlimited residential traffic, 100M+ IPs, 190+ countries. Pay by bandwidth. Request a free 50 Mbps residential prox",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 1.0,
       "amount_usd": null,
       "attribution_probability": null,
@@ -10513,6 +10531,24 @@
       "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260097.en.html"
     },
     {
+      "candidate_id": "cand_295c73da40e5a1375b3d",
+      "event_id": "evt_91f8232ecf8f1f141932",
+      "source_url": "https://github.com/D4Vinci/Scrapling",
+      "observed_at": "2026-11-03T07:56:34+00:00",
+      "currency": "USD",
+      "amount_native": 1.0,
+      "amount_usd": 1.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_91f8232ecf8f1f141932:unclassified",
+      "attribution_probability": null,
+      "snippet": "beta access is available now. hCaptcha in your Scrapling runs? NoneCap returns valid hCaptcha tokens, Enterprise sitekeys included, through one API. 1,300 free credits on signup. $1/GB at DataImpulse . Ethical first-party proxies. 90M+ IPs, 195+ countries. Residential, datacenter, mobile. Pay-as-you-go = no subscription. Traffic never expires. Do you want to",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 0.52,
       "amount_usd": 0.52,
       "attribution_probability": null,
@@ -10532,6 +10568,24 @@
       "snippet": "n Agent Skill Against Experiment — rowan compared against RDKit and experimental data: pKa MAE 0.23 (R² 0.986), logD₇.₄ MAE 1.15, and 0.19 Å RMSD docking pose recovery for roughly $0.52 of compute. GPU-Accelerate Your Science: 58x Average Speedup with a Single Skill — optimize-for-gpu rewriting CPU-bound Python across 12 libraries, with speedups ranging from 1.7x",
       "source_priority": "primary_hint",
       "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "candidate_id": "cand_08fe32e14ac5e8328833",
+      "event_id": "evt_91f8232ecf8f1f141932",
+      "source_url": "https://github.com/D4Vinci/Scrapling",
+      "observed_at": "2026-11-03T07:56:34+00:00",
+      "currency": "USD",
+      "amount_native": 0.49,
+      "amount_usd": 0.49,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_91f8232ecf8f1f141932:unclassified",
+      "attribution_probability": null,
+      "snippet": "PI endpoints that generate valid antibot tokens for Akamai , DataDome , Kasada , and Incapsula . Simple API calls, no browser automation required. Evomi : residential proxies from $0.49/GB. Scraping browser with fully spoofed Chromium, residential IPs, auto CAPTCHA solving, and anti-bot bypass. Scraper API for hassle-free results. MCP and N8N integrations are ava",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
     },
     {
       "amount_native": 0.1,

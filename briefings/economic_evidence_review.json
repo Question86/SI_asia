@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T07:50:00+00:00",
+  "generated_at": "2026-11-03T07:56:55+00:00",
   "fx_as_of": null,
-  "candidate_count": 2585,
+  "candidate_count": 2588,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2585
+    "pending": 2588
   },
   "coverage_warning": null,
   "candidates": [
@@ -2890,6 +2890,27 @@
       "source_url": "https://github.com/bilawalsidhu/gods-eye-view"
     },
     {
+      "amount_native": 1.95,
+      "amount_usd": 1.95,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_e6790f933f692ce67332",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_91f8232ecf8f1f141932",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-03T07:56:34+00:00",
+      "overlap_group_suggestion": "evt_91f8232ecf8f1f141932:unknown:0eae0c24b2f6",
+      "review_status": "pending",
+      "snippet": "s on your Scrapling runs. 28M real P2P residential devices, 98.7% clean IPs, 195 countries. City/ISP/ZIP targeting, sticky/rotating sessions, traffic never expires. Try 350 MB for $1.95. Code SCRAPEANDTAKE : 25% off . LundProxy : Stop paying per GB. Unlimited residential traffic, 100M+ IPs, 190+ countries. Pay by bandwidth. Request a free 50 Mbps residential prox",
+      "source_priority": "primary_hint",
+      "source_url": "https://github.com/D4Vinci/Scrapling",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 1.0,
       "amount_usd": 1.0,
       "attribution_probability": null,
@@ -2995,6 +3016,27 @@
       "source_url": "https://github.com/Panniantong/Agent-Reach"
     },
     {
+      "amount_native": 1.0,
+      "amount_usd": 1.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_295c73da40e5a1375b3d",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_91f8232ecf8f1f141932",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-03T07:56:34+00:00",
+      "overlap_group_suggestion": "evt_91f8232ecf8f1f141932:unknown:cb917b7c3dea",
+      "review_status": "pending",
+      "snippet": "beta access is available now. hCaptcha in your Scrapling runs? NoneCap returns valid hCaptcha tokens, Enterprise sitekeys included, through one API. 1,300 free credits on signup. $1/GB at DataImpulse . Ethical first-party proxies. 90M+ IPs, 195+ countries. Residential, datacenter, mobile. Pay-as-you-go = no subscription. Traffic never expires. Do you want to",
+      "source_priority": "primary_hint",
+      "source_url": "https://github.com/D4Vinci/Scrapling",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 0.52,
       "amount_usd": 0.52,
       "attribution_probability": null,
@@ -3014,6 +3056,27 @@
       "snippet": "n Agent Skill Against Experiment — rowan compared against RDKit and experimental data: pKa MAE 0.23 (R² 0.986), logD₇.₄ MAE 1.15, and 0.19 Å RMSD docking pose recovery for roughly $0.52 of compute. GPU-Accelerate Your Science: 58x Average Speedup with a Single Skill — optimize-for-gpu rewriting CPU-bound Python across 12 libraries, with speedups ranging from 1.7x",
       "source_priority": "primary_hint",
       "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "amount_native": 0.49,
+      "amount_usd": 0.49,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_08fe32e14ac5e8328833",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_91f8232ecf8f1f141932",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-03T07:56:34+00:00",
+      "overlap_group_suggestion": "evt_91f8232ecf8f1f141932:unknown:233376da1ba7",
+      "review_status": "pending",
+      "snippet": "PI endpoints that generate valid antibot tokens for Akamai , DataDome , Kasada , and Incapsula . Simple API calls, no browser automation required. Evomi : residential proxies from $0.49/GB. Scraping browser with fully spoofed Chromium, residential IPs, auto CAPTCHA solving, and anti-bot bypass. Scraper API for hassle-free results. MCP and N8N integrations are ava",
+      "source_priority": "primary_hint",
+      "source_url": "https://github.com/D4Vinci/Scrapling",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 0.1,
