@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T04:30:22+00:00_
+_Generated: 2026-11-03T04:47:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `16`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-03T04:30:22+00:00_
 - url: https://openai.com/index/dan-driscoll-joins-openai
 - summary: OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.
 
-### 4. Singapore and Romania don’t need another MOU. They need first customers
+### 4. Indonesia urgently needs an allergy data centre to support national food security
 - source: e27 Asia Startup and Tech Feed
 - score: `14`
-- published: `2026-11-03T03:30:36+00:00`
-- url: https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/
-- summary: On a weekday afternoon in late October, a group of Romanian founders pitched to a Singapore audience over Teams. One of them signed off with a plain request. He would be in Singapore the week of the Singapore Fintech Festival, he said, and he’d love an introd…
+- published: `2026-11-03T04:30:47+00:00`
+- url: https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/
+- summary: Food allergy in Indonesia is a real concern, and we cannot ignore it. According to CNN Indonesia, about 1.7 million children in Indonesia have allergies, and cow’s milk is one of the triggers. This number was shared by Ray Wagiu Basrowi, a doctor and research…
 
 ### 5. Are AI fears genuine? Why we should demand evidence, not alarm
 - source: e27 Asia Startup and Tech Feed
