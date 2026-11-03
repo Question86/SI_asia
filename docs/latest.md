@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T09:03:19+00:00_
+_Generiert: 2026-11-03T09:18:34+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+31 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -158,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. https://flashml.ai | Download | Paper | Developer Slack | Community Discord | Community WeChat | Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. About FreeToken is an edge-native Mixture-of-E…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Android-Patchday: Kritische Lücken ermöglichen Angriffe ohne Nutzerinteraktion** — Score 7, observation — [Quelle](https://www.heise.de/news/Android-Patchday-Kritische-Luecken-ermoeglichen-Angriffe-ohne-Nutzerinteraktion-11508886.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-03T08:59:00.000+00:00`, fetched `2026-11-03T09:18:04+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Google schließt zahlreiche Sicherheitslücken in verschiedenen Android-Versionen. Bislang gibt es keine Hinweise auf Attacken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **hyprwm/Hyprland** — Score 5, observation — [Quelle](https://github.com/hyprwm/Hyprland)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
