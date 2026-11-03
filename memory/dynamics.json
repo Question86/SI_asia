@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-03T08:26:30Z",
+  "generated_at": "2026-11-03T08:38:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 4,
       "krass": 3,
-      "strong": 14,
-      "watch": 9,
-      "quiet": 10
+      "strong": 13,
+      "watch": 11,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 21,
-      "watch": 9,
-      "quiet": 10
+      "strong": 20,
+      "watch": 11,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:54+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -49,7 +49,7 @@
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "security"
@@ -74,7 +74,7 @@
       "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T05:34:03+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -98,7 +98,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-01T08:29:22+00:00",
-      "age_days": 2.0,
+      "age_days": 2.01,
       "topics": [
         "ai"
       ],
@@ -127,7 +127,7 @@
       "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T07:55:32+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -156,7 +156,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:55:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -185,7 +185,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.35,
+      "age_days": 1.36,
       "topics": [
         "ai",
         "security"
@@ -213,7 +213,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "security"
@@ -239,7 +239,7 @@
       "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:30:47+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -265,7 +265,7 @@
       "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T03:51:48+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -290,7 +290,7 @@
       "url": "https://ai-data-base.com/archives/139789",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T02:37:09+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -317,7 +317,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 138.49,
+      "age_days": 138.5,
       "topics": [
         "ai",
         "security"
@@ -329,12 +329,11 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.08,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.08",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 138.5d old signal",
@@ -347,7 +346,7 @@
       "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:47:35+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -373,7 +372,7 @@
       "url": "https://ai-data-base.com/archives/139789",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T04:48:57+00:00",
-      "age_days": 2.15,
+      "age_days": 2.16,
       "topics": [
         "ai",
         "macro"
@@ -410,12 +409,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "high terms: 10",
         "single-source AI hype brake -8.0",
         "krass gate: single-source non-official/non-identity signal capped",
@@ -428,7 +427,7 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:56:10+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -438,12 +437,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -453,7 +452,7 @@
       "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T03:46:11+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -501,7 +500,7 @@
       "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:10:10+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -525,7 +524,7 @@
       "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T05:26:33+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
@@ -545,35 +544,11 @@
       "summary": "The leading digital asset fell 1.69 per cent to US$76,940.91 over 24 hours, while the total crypto market capitalisation dropped 1.68 per cent. That near-perfect match matters. I don’t see this as a coin-specific move. It is a unified repricing of risk across global markets, and the largest cryptocurrency is caught in…"
     },
     {
-      "title": "FlashML-org/FreeToken",
-      "url": "https://github.com/FlashML-org/FreeToken",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-03T07:56:10+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Vynn Capital backs Econili as Malaysia bets on recycling its battery waste",
       "url": "https://e27.co/vynn-capital-backs-econili-as-malaysia-bets-on-recycling-its-battery-waste-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T05:34:03+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -597,7 +572,7 @@
       "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:10:10+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -617,11 +592,35 @@
       "summary": ""
     },
     {
+      "title": "FlashML-org/FreeToken",
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-03T07:56:10+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Ecosystem Roundup: North Korea’s US$6.4B Binance heist took 54 minutes and isn’t over",
       "url": "https://e27.co/ecosystem-roundup-north-koreas-us6-4b-binance-heist-took-54-minutes-and-isnt-over-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T07:41:33+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -645,7 +644,7 @@
       "url": "https://e27.co/are-ai-fears-genuine-why-we-should-demand-evidence-not-alarm-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T02:37:09+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -691,27 +690,51 @@
       "summary": ""
     },
     {
-      "title": "あなたのAndroid TV端末が「詐欺広告の道具」に？ 中国メーカーが不正ソフトを仕込んで販売 Googleが取引停止",
-      "url": "https://japan.cnet.com/article/35254298/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 136.96,
+      "title": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-03T07:56:10+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.77,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.7,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "あなたのAndroid TV端末が「詐欺広告の道具」に？ 中国メーカーが不正ソフトを仕込んで販売 Googleが取引停止",
+      "url": "https://japan.cnet.com/article/35254298/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T09:22:22+00:00",
+      "age_days": 136.97,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.69,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.63,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.70",
+        "baseline z_hint 0.63",
         "aging penalty -8.0 for 137.0d old signal"
       ],
       "summary": ""
@@ -721,7 +744,7 @@
       "url": "https://zenn.dev/henteko/articles/b76b15922cdf72",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T05:01:18+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -745,7 +768,7 @@
       "url": "https://japan.cnet.com/article/35254298/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T00:12:21+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -769,7 +792,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T23:12:33+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -789,35 +812,11 @@
       "summary": "【ブリュッセル、ロンドン=共同】ベルギーの大手スーパー、デレーズが1〜2日にかけてサイバー攻撃を受け、約40店舗の冷蔵・冷凍設備の温度が上昇した。ベルギー第2の都市アントワープの食肉チェーン店も攻撃を受け、店員らが手動で設備を操作し温度を下げるなどの対応に追われた。地元メディアが報じた。ロイター通信に..."
     },
     {
-      "title": "hyprwm/Hyprland",
-      "url": "https://github.com/hyprwm/Hyprland",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-03T07:56:10+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Krungsri buys into Amity as the Thai AI group dresses its cap table for an IPO",
       "url": "https://e27.co/krungsri-buys-into-amity-as-the-thai-ai-group-dresses-its-cap-table-for-an-ipo-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T06:05:44+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -843,7 +842,7 @@
       "url": "https://e27.co/taiwan-and-singapore-back-nsvs-us53m-bet-on-asias-biotech-pipeline-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:47:35+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "infra"
@@ -871,7 +870,7 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:55:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -922,7 +921,7 @@
       "url": "https://e27.co/are-ai-fears-genuine-why-we-should-demand-evidence-not-alarm-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T02:00:03+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -948,7 +947,7 @@
       "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:36+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -971,37 +970,11 @@
       "summary": "For years, Southeast Asian founders were told to win their home market before expanding abroad. Prove the product, build the team, establish revenue, then move into neighbouring countries. That advice still makes sense. But for startups seeking institutional venture capital, it is becoming less sufficient. Investors a…"
     },
     {
-      "title": "Singapore’s factories are riding the AI wave, but the optimism rests on a narrow base",
-      "url": "https://e27.co/singapores-factories-are-riding-the-ai-wave-but-the-optimism-rests-on-a-narrow-base-20261103/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-03T08:21:48+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "FlashML-org/FreeToken",
       "url": "https://github.com/FlashML-org/FreeToken",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:55:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -1028,7 +1001,7 @@
       "url": "https://e27.co/singapores-factories-are-riding-the-ai-wave-but-the-optimism-rests-on-a-narrow-base-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T08:06:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -1048,6 +1021,33 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Singapore’s manufacturers are in their most buoyant mood in recent memory, and they largely have one customer category to thank: the AI data centre. A net weighted balance of 24 per cent of manufacturers expect business conditions to improve between October 2026 and March 2027, the Singapore Economic Development Board…"
+    },
+    {
+      "title": "Krungsri buys into Amity as the Thai AI group dresses its cap table for an IPO",
+      "url": "https://e27.co/krungsri-buys-into-amity-as-the-thai-ai-group-dresses-its-cap-table-for-an-ipo-20261103/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-03T05:59:28+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Eight months after Amity announced a Series D of more than US$100 million, the round is still open for business. The Thailand-founded AI group said on Monday that Finnoventure Private Equity Trust I, a fund managed by Krungsri Finnovate, has come in as a strategic investor, extending the Series D round led by EDBI, th…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovators to test and scale in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
