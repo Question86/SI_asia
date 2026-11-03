@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T01:10:07+00:00",
-  "run_id": "2026-11-03T01:10:07+00:00",
+  "generated_at": "2026-11-03T01:20:38+00:00",
+  "run_id": "2026-11-03T01:20:38+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 6,
     "displayed_findings": 6,
     "high": 0,
@@ -337,72 +337,7 @@
       "id": "946b7a69f955f9c3764c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "In Southeast Asia, winning at home may no longer be enough",
-      "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-03T01:00:36+00:00",
-      "fetched_at": "2026-11-03T01:09:32+00:00",
-      "summary": "For years, Southeast Asian founders were told to win their home market before expanding abroad. Prove the product, build the team, establish revenue, then move into neighbouring countries. That advice still makes sense. But for startups seeking institutional venture capital, it is becoming less sufficient. Investors are paying closer attention to the limits of domestic […] The post In Southeast Asia, winning at home…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "Southeast Asia",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "22d5fdd9efd80777eb50"
-    },
-    {
-      "title": "HKSTP drives Hong Kong mobility innovators to test and scale in Singapore",
-      "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-03T01:00:54+00:00",
-      "fetched_at": "2026-11-03T01:09:32+00:00",
-      "summary": "Ask a Hong Kong engineer why their product deserves a place abroad and you will often hear the same answer: the city is the hardest test bed they know. Towers scramble satellite signals, space is scarce, labour is expensive and safety rules leave little room for error. Survive that, the argument goes, and most other […] The post HKSTP drives Hong Kong mobility innovators to test and scale in Singapore appeared first…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fb2f86e5ae4fa5eb9480"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
