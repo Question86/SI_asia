@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T03:18:01+00:00",
-  "run_id": "2026-11-03T03:18:01+00:00",
+  "generated_at": "2026-11-03T03:28:11+00:00",
+  "run_id": "2026-11-03T03:28:11+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 11,
     "displayed_findings": 11,
     "high": 0,
@@ -661,51 +661,7 @@
       "id": "946b7a69f955f9c3764c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-02T18:00:00+00:00",
-      "fetched_at": "2026-11-03T03:17:26+00:00",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "Security"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Security (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ff469099e31c2da46474"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-02T18:00:00+00:00",
-      "fetched_at": "2026-11-03T03:17:26+00:00",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "matched_keywords": [
-        "OpenAI",
-        "Security"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f6229711a22fe658b3c2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
