@@ -1,20 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-03T14:11:49Z",
+  "generated_at": "2026-11-03T15:36:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 4,
-      "krass": 17,
-      "strong": 17,
-      "watch": 2
+      "krass": 21,
+      "strong": 15
     },
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 34,
-      "watch": 2
+      "strong": 36
     }
   },
   "top_dynamics": [
@@ -23,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1765",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -48,7 +46,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4165",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -73,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4298",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:32+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -98,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4244",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T10:25:40+00:00",
-      "age_days": 0.16,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -123,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4199",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -147,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4300",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -172,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1597",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:42:38+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -196,7 +194,7 @@
       "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:54+00:00",
-      "age_days": 0.55,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -221,7 +219,7 @@
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.84,
+      "age_days": 0.9,
       "topics": [
         "ai",
         "security"
@@ -242,35 +240,36 @@
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
     },
     {
-      "title": "The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles",
-      "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-03T05:34:03+00:00",
-      "age_days": 0.36,
+      "title": "Vulnérabilité dans les produits NetApp (29 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1410/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "age_days": 5.65,
       "topics": [
-        "general"
+        "security"
       ],
       "dynamics_score": 25.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3"
+        "high terms: 10",
+        "security high-signal: 10"
       ],
-      "summary": ""
+      "summary": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges."
     },
     {
       "title": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-01T08:29:22+00:00",
-      "age_days": 2.24,
+      "age_days": 2.3,
       "topics": [
         "ai"
       ],
@@ -299,7 +298,7 @@
       "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T07:55:32+00:00",
-      "age_days": 0.26,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -328,7 +327,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:55:31+00:00",
-      "age_days": 0.26,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -357,7 +356,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.59,
+      "age_days": 1.65,
       "topics": [
         "ai",
         "security"
@@ -385,7 +384,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T13:19:19+00:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -411,7 +410,7 @@
       "url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 0.59,
+      "age_days": 0.65,
       "topics": [
         "ai",
         "security",
@@ -439,7 +438,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.84,
+      "age_days": 0.9,
       "topics": [
         "ai",
         "security"
@@ -465,7 +464,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4299",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -491,7 +490,7 @@
       "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:30:47+00:00",
-      "age_days": 0.4,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -513,11 +512,37 @@
       "summary": "Food allergy in Indonesia is a real concern, and we cannot ignore it. According to CNN Indonesia, about 1.7 million children in Indonesia have allergies, and cow’s milk is one of the triggers. This number was shared by Ray Wagiu Basrowi, a doctor and researcher, during World Allergy Week 2026 with Sarihusada in Jakart…"
     },
     {
+      "title": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "age_days": 5.65,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active",
+        "security high-signal: active",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement exploitée."
+    },
+    {
       "title": "Protocol Explorer · Learn how the internet works",
       "url": "https://protocol-explorer-alpha.vercel.app/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T03:40:37+00:00",
-      "age_days": 0.44,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -539,11 +564,61 @@
       "summary": "Watch the internet work, packet by packet. Interactive lessons on HTTP, HTTPS, TCP, UDP, IP, DNS, DHCP, ICMP, SMTP, POP3, IMAP, FTP, SSH and TLS, with every packet decoded byte by byte. In English, Spanish, Portuguese, French, German, Turkish, Indonesian, Japanese, Chinese (Simplified and Traditi..."
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0194",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-03T14:44:12+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] util-linux: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3180",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-03T14:24:22+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in util-linux ausnutzen, um seine Privilegien zu erhöhen."
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1517",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T13:49:09+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -568,7 +643,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4301",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T12:17:32+00:00",
-      "age_days": 0.08,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -593,7 +668,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4152",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:25:09+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -618,7 +693,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4224",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T10:25:40+00:00",
-      "age_days": 0.16,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -643,7 +718,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4264",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T09:27:32+00:00",
-      "age_days": 0.2,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -664,11 +739,38 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (PyJWT) ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
     },
     {
+      "title": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "age_days": 5.65,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+    },
+    {
       "title": "Vietnam’s climate-tech has a missing middle, and women founders are falling into it",
       "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T03:51:48+00:00",
-      "age_days": 0.43,
+      "age_days": 0.49,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -693,7 +795,7 @@
       "url": "https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 0.59,
+      "age_days": 0.65,
       "topics": [
         "macro"
       ],
@@ -720,7 +822,7 @@
       "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T08:04:13+00:00",
-      "age_days": 0.26,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -747,7 +849,7 @@
       "url": "https://ai-data-base.com/archives/139789",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T02:37:09+00:00",
-      "age_days": 0.48,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -774,7 +876,7 @@
       "url": "https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T09:34:59+00:00",
-      "age_days": 0.19,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -797,11 +899,11 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1517",
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0194",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 67.0,
+      "age_days": 67.06,
       "topics": [
         "security"
       ],
@@ -812,15 +914,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 11.21,
+      "baseline_z_hint": 8.86,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 11.21",
+        "baseline z_hint 8.86",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 67.0d old signal",
+        "aging penalty -8.0 for 67.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -830,7 +932,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 138.73,
+      "age_days": 138.79,
       "topics": [
         "ai",
         "security"
@@ -842,15 +944,14 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.53,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.53",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 138.7d old signal",
+        "aging penalty -8.0 for 138.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -860,7 +961,7 @@
       "url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 137.98,
+      "age_days": 138.04,
       "topics": [
         "security"
       ],
@@ -871,12 +972,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.65,
+      "baseline_z_hint": 4.25,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 6.65",
+        "baseline z_hint 4.25",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 138.0d old signal",
@@ -889,7 +990,7 @@
       "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:47:35+00:00",
-      "age_days": 0.39,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -915,7 +1016,7 @@
       "url": "https://ai-data-base.com/archives/139789",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T04:48:57+00:00",
-      "age_days": 2.39,
+      "age_days": 2.45,
       "topics": [
         "ai",
         "macro"
@@ -938,42 +1039,16 @@
       "summary": "理解していないAIのコードを出してよいのか、開発者がHacker Newsで議論 10月19日、Hacker Newsに「理解していないAIのコードをリリースすることに、どう向き合えばいいか」という投稿が立ちました。コメントでは、全体の流れは分かっても細部を把握できないことや、AIがコードとテストの両方を書いたときの見逃しが話題..."
     },
     {
-      "title": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-03T07:56:10+00:00",
-      "age_days": 0.26,
+      "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-11-03T14:56:03+00:00",
+      "age_days": 0.03,
       "topics": [
-        "general"
+        "security"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Android-Patchday: Kritische Lücken ermöglichen Angriffe ohne Nutzerinteraktion",
-      "url": "https://www.heise.de/news/Android-Patchday-Kritische-Luecken-ermoeglichen-Angriffe-ohne-Nutzerinteraktion-11508886.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-11-03T08:59:00.000+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "security",
-        "macro"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -981,85 +1056,13 @@
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "high terms: angriffe, kritisch",
-        "security high-signal: angriffe, kritisch"
+        "high terms: code",
+        "security high-signal: code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
-      "summary": "Google schließt zahlreiche Sicherheitslücken in verschiedenen Android-Versionen. Bislang gibt es keine Hinweise auf Attacken."
-    },
-    {
-      "title": "Vietnam’s climate-tech has a missing middle, and women founders are falling into it",
-      "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-03T03:46:11+00:00",
-      "age_days": 0.43,
-      "topics": [],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10, 9.8",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "In Vietnam’s climate-tech scene, a founder can win a grant and, with luck, eventually land a cheque worth several million dollars. What she is increasingly unlikely to find is anything in between. Recorded climate tech funding in Vietnam fell 52 per cent in 2025 to US$49.86 million across 33 transactions, down from US…"
-    },
-    {
-      "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
-      "url": "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-11-03T12:57:00.000+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Die Programmierer des Passwort-Managers mSecure empfehlen nach einem IT-Vorfall, alle gespeicherten Zugänge neu abzusichern."
-    },
-    {
-      "title": "Internet of Things: Siemens Simatic IoT2050 angegriffen",
-      "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-11-03T11:09:00.000+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Am Montag wurde bekannt, dass Angreifer Siemens-IoT-Gateways attackieren. Sie wollen Botnet-Malware einschleusen."
+      "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.3. It supports new Python 3.15 language… The post CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions appeared first on The GitHub Blog ."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Axis Camera Station und Device Manager: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
