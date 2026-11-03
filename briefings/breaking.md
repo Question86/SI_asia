@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-03T02:45:29+00:00_
+_Generiert: 2026-11-03T02:59:57+00:00_
 
 ## Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB
 
