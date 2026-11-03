@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T05:01:15+00:00_
+_Generated: 2026-11-03T05:17:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-03T05:01:15+00:00_
 - url: https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/
 - summary: For years, Southeast Asian founders were told to win their home market before expanding abroad. Prove the product, build the team, establish revenue, then move into neighbouring countries. That advice still makes sense. But for startups seeking institutional…
 
-### 8. Vietnam’s climate-tech has a missing middle, and women founders are falling into it
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-11-03T03:46:11+00:00`
-- url: https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/
-- summary: In Vietnam’s climate-tech scene, a founder can win a grant and, with luck, eventually land a cheque worth several million dollars. What she is increasingly unlikely to find is anything in between. Recorded climate tech funding in Vietnam fell 52 per cent in 2…
+### 8. あなたのAndroid TV端末が「詐欺広告の道具」に？ 中国メーカーが不正ソフトを仕込んで販売 Googleが取引停止
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-11-03T00:12:21+00:00`
+- url: https://japan.cnet.com/article/35254298/
+- summary: Googleは11月2日、130万台を超えるテレビ用端末を広告詐欺などに悪用していたネットワーク「XCPE」の運用を、前週に妨害したと発表した。端末メーカーのVideostrong Technologyが金銭目的で意図的に開発・運用していたと判断し、同社との取引を停止したという。調査と運用妨害には日本の警察庁も協力した。 XCPEは、利用...
 
 END OF DOCUMENT
