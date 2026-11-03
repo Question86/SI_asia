@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T12:22:39+00:00_
+_Generiert: 2026-11-03T12:49:39+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+51 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. https://hypr.land Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. It provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins, easy IPC, much more QoL stuff than other compositors and more...…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Desktop adds short-lived authentication tokens** — Score 4, risk — [Quelle](https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-03T07:55:58+00:00`, fetched `2026-11-03T12:49:08+00:00`
+  - Treffer: GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.5); recent (+1.0)
+  - Kurz: When you sign in to GitHub Desktop 3.6.10 or later, eligible accounts can now use short-lived, automatically refreshing authentication tokens. Short-lived access tokens reduce how long a leaked token can… The post GitHub Desktop adds short-lived authentication tokens appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
