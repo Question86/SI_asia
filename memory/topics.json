@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T09:18:34+00:00",
+  "generated_at": "2026-11-03T09:34:55+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-11-01T04:48:57+00:00",
         "relevance_score": 23,
         "url": "https://ai-data-base.com/archives/139789"
+      },
+      {
+        "title": "Thailand’s labour crisis and the refugees building its AI future",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-03T09:29:30+00:00",
+        "relevance_score": 22,
+        "url": "https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/"
       },
       {
         "title": "Preparing our next security sprint to harden OpenAI",
@@ -66,53 +73,16 @@
         "published_at": "2026-11-02T18:00:00+00:00",
         "relevance_score": 13,
         "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-      },
-      {
-        "title": "Singapore’s factories are riding the AI wave, but the optimism rests on a narrow base",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-03T08:06:29+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/singapores-factories-are-riding-the-ai-wave-but-the-optimism-rests-on-a-narrow-base-20261103/"
-      }
-    ],
-    "security": [
-      {
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-11-02T18:00:00+00:00",
-        "relevance_score": 19,
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-      },
-      {
-        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-11-02T00:00:00+00:00",
-        "relevance_score": 19,
-        "url": "https://openai.com/index/dan-driscoll-joins-openai"
-      },
-      {
-        "title": "Indonesia urgently needs an allergy data centre to support national food security",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-03T04:30:47+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/"
-      },
-      {
-        "title": "Rewarding defenders with bigger bug bounties",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-11-02T18:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-      },
-      {
-        "title": "Android-Patchday: Kritische Lücken ermöglichen Angriffe ohne Nutzerinteraktion",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-03T08:59:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Android-Patchday-Kritische-Luecken-ermoeglichen-Angriffe-ohne-Nutzerinteraktion-11508886.html"
       }
     ],
     "github": [
+      {
+        "title": "Thailand’s labour crisis and the refugees building its AI future",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-03T09:29:30+00:00",
+        "relevance_score": 22,
+        "url": "https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/"
+      },
       {
         "title": "D4Vinci/Scrapling",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -149,6 +119,87 @@
         "url": "https://github.com/hyprwm/Hyprland"
       }
     ],
+    "economy": [
+      {
+        "title": "Thailand’s labour crisis and the refugees building its AI future",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-03T09:29:30+00:00",
+        "relevance_score": 22,
+        "url": "https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/"
+      },
+      {
+        "title": "vercel-labs/agent-desktop",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 18,
+        "url": "https://github.com/vercel-labs/agent-desktop"
+      },
+      {
+        "title": "The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-03T05:26:33+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/"
+      },
+      {
+        "title": "In Southeast Asia, winning at home may no longer be enough",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-03T01:00:36+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/"
+      },
+      {
+        "title": "Krungsri buys into Amity as the Thai AI group dresses its cap table for an IPO",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-03T05:59:28+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/krungsri-buys-into-amity-as-the-thai-ai-group-dresses-its-cap-table-for-an-ipo-20261103/"
+      }
+    ],
+    "security": [
+      {
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-02T18:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+      },
+      {
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-02T00:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://openai.com/index/dan-driscoll-joins-openai"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (PyJWT): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-03T09:27:32+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4264"
+      },
+      {
+        "title": "Indonesia urgently needs an allergy data centre to support national food security",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-03T04:30:47+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/"
+      },
+      {
+        "title": "Rewarding defenders with bigger bug bounties",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-02T18:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+      },
+      {
+        "title": "Android-Patchday: Kritische Lücken ermöglichen Angriffe ohne Nutzerinteraktion",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-03T08:59:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Android-Patchday-Kritische-Luecken-ermoeglichen-Angriffe-ohne-Nutzerinteraktion-11508886.html"
+      }
+    ],
     "geopolitics": [
       {
         "title": "D4Vinci/Scrapling",
@@ -179,36 +230,6 @@
         "url": "https://github.com/FlashML-org/FreeToken"
       }
     ],
-    "economy": [
-      {
-        "title": "vercel-labs/agent-desktop",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 18,
-        "url": "https://github.com/vercel-labs/agent-desktop"
-      },
-      {
-        "title": "The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-03T05:26:33+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/"
-      },
-      {
-        "title": "In Southeast Asia, winning at home may no longer be enough",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-03T01:00:36+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/"
-      },
-      {
-        "title": "Krungsri buys into Amity as the Thai AI group dresses its cap table for an IPO",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-03T05:59:28+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/krungsri-buys-into-amity-as-the-thai-ai-group-dresses-its-cap-table-for-an-ipo-20261103/"
-      }
-    ],
     "general": [
       {
         "title": "あなたのAndroid TV端末が「詐欺広告の道具」に？ 中国メーカーが不正ソフトを仕込んで販売 Googleが取引停止",
@@ -216,6 +237,13 @@
         "published_at": "2026-11-03T00:12:21+00:00",
         "relevance_score": 12,
         "url": "https://japan.cnet.com/article/35254298/"
+      },
+      {
+        "title": "M 5.4 - 24 km NNW of Rioblanco, Colombia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-03T09:32:21.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i"
       },
       {
         "title": "Vietnam’s climate-tech has a missing middle, and women founders are falling into it",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T09:18:34+00:00_
+_Generated: 2026-11-03T09:34:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `34`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-03T09:18:34+00:00_
 - url: https://ai-data-base.com/archives/139789
 - summary: 理解していないAIのコードを出してよいのか、開発者がHacker Newsで議論 10月19日、Hacker Newsに「理解していないAIのコードをリリースすることに、どう向き合えばいいか」という投稿が立ちました。コメントでは、全体の流れは分かっても細部を把握できないことや、AIがコードとテストの両方を書いたときの見逃しが話題...
 
-### 3. Preparing our next security sprint to harden OpenAI
+### 3. Thailand’s labour crisis and the refugees building its AI future
+- source: e27 Asia Startup and Tech Feed
+- score: `22`
+- published: `2026-11-03T09:29:30+00:00`
+- url: https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/
+- summary: One photograph in a recent Nikkei Asia report says more about Southeast Asia’s tech economy than most investor decks I have read this year. It shows Myanmar refugees working on a data centre construction site in Chonburi, eastern Thailand. Sit with that for a…
+
+### 4. Preparing our next security sprint to harden OpenAI
 - source: OpenAI News RSS
 - score: `19`
 - published: `2026-11-02T18:00:00+00:00`
 - url: https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
 - summary: OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.
-
-### 4. OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization
-- source: OpenAI News RSS
-- score: `19`
-- published: `2026-11-02T00:00:00+00:00`
-- url: https://openai.com/index/dan-driscoll-joins-openai
-- summary: OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.
 
 ### 5. Are AI fears genuine? Why we should demand evidence, not alarm
 - source: e27 Asia Startup and Tech Feed
