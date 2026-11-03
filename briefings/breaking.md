@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-03T15:17:57+00:00_
+_Generiert: 2026-11-03T15:24:59+00:00_
 
 ## CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions
 
