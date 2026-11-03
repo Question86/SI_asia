@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T13:17:59+00:00_
+_Generiert: 2026-11-03T13:26:35+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+58 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,22 +29,6 @@ _Generiert: 2026-11-03T13:17:59+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-28`
   - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-11-11. Broadcom VMWare ESX Insufficient Logging Vulnerability
-- **GDACS: Green flood alert in Bulgaria** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104267)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Bulgaria
-- **GDACS: Green flood alert in Spain** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104268)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Spain
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575068)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.
-- **GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .
 
 ## Wirtschaft global
 
@@ -124,6 +108,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: SNAP (+2.0)
   - Kurz: Computer use CLI for AI agents https://agent-browser.dev/desktop agent-desktop Computer use for AI agents: read and operate desktop apps through the OS accessibility tree. A CLI and C library for macOS, Windows and Linux. A snapshot returns JSON with a ref for every element an agent can act on. The agent acts on a ref and snapshots again to check, with no pixel matching; the loop stays in your agent. Every CLI call…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-03T13:19:19+00:00`, fetched `2026-11-03T13:26:06+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [mittel] Red Hat Enterprise Linux (cockpit): Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4301)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-03T12:17:32+00:00`, fetched `2026-11-03T12:22:11+00:00`
@@ -136,15 +129,6 @@ Keine neuen Hochprioritäts-Treffer.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4152)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-03T11:25:09+00:00`, fetched `2026-11-03T11:31:30+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise einen Denial-of-Service-Angriff auszulösen, Daten zu manipulieren oder offenzulegen oder Sicherheitsmaßnahmen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4224)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-03T10:25:40+00:00`, fetched `2026-11-03T10:32:16+00:00`
   - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
@@ -244,6 +228,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 日本株の上昇期待が剝落しつつある。市場は米テック大手による人工知能（AI）投資の拡大ペースが減速する将来を織り込み始めた。悪影響を受けるのは大規模投資の恩恵にあずかってきた「ツルハシ銘柄」。株価上昇を正当化してきたナラティブ（物語）が、株売りの材料にすり替わっている。「過去最大の損失が出た。AI関連...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Stable banks, strong capital markets - Europe’s financial system for the future** — Score 9, opportunity — [Quelle](https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:26:06+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the conference for the 40th anniversary of the International Bankers Forum, Frankfurt am Main, 21 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Marking our tenth anniversary - one conviction, two principles and three challenges** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:26:06+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
+  - Kurz: Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at the Prudential Supervision and Resolution Authority (ACPR)-Financial Markets Authority(AMF) Fintech Forum, Paris, 2 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **FlashML-org/FreeToken** — Score 8, observation — [Quelle](https://github.com/FlashML-org/FreeToken)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-11-03T07:55:31+00:00`
@@ -288,24 +290,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
   - Kurz: Remarks by Dr Kevin Greenidge, Governor of the Central Bank of Barbados, at the UWI (Cave Hill) Cooperative Credit Union’s 40th Anniversary Dinner and Awards, Bridgetown, 24 October 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Building sills for Africa’s home-grown development** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:17:31+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Speech by Mr Paolo Angelini, Senior Deputy Governor of the Bank of Italy, at the Africa growth and opportunity: research in action 2026 conference (AGORA 26), Palermo, 26 October 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **hyprwm/Hyprland** — Score 5, observation — [Quelle](https://github.com/hyprwm/Hyprland)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-11-03T07:55:31+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. https://hypr.land Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. It provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins, easy IPC, much more QoL stuff than other compositors and more...…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

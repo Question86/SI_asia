@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T13:18:01+00:00",
+  "generated_at": "2026-11-03T13:26:36+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 55,
+    "findings": 58,
     "clusters": 36,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -10,6 +10,49 @@
     "dominance_penalized": 1
   },
   "clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4301",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4152",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4224",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4264",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4199"
+      ],
+      "finding_count": 13,
+      "max_score": 16,
+      "credibility_total": 13.65,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 24.81,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 46.3,
+      "ranking_score": 24.81,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 4.81,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
     {
       "key": "title:scb-10x-invests-tasklet-agent-platform-business-workflow",
       "title": "SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round",
@@ -152,20 +195,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.88,
+      "network_score": 20.85,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 27.4,
-      "ranking_score": 20.88,
+      "ranking_score": 20.85,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.38,
+      "baseline_bonus": 0.35,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -214,49 +257,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-03T07:56:10+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (cockpit): Mehrere Schwachstellen ermöglichen Denial of Service",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4301",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4152",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4224",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4264",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4199",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1765"
-      ],
-      "finding_count": 12,
-      "max_score": 16,
-      "credibility_total": 12.6,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 20.28,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 41.2,
-      "ranking_score": 20.28,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.78,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "github_repo:vercel-labs/agent-desktop",
@@ -338,6 +338,50 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-03T05:34:03+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Stable banks, strong capital markets - Europe’s financial system for the future",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future",
+        "https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges",
+        "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
+        "https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development"
+      ],
+      "finding_count": 4,
+      "max_score": 9,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 17.0,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 23.4,
+      "ranking_score": 17.0,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:indonesia-urgently-needs-allergy-data-centre-support-national",
@@ -454,46 +498,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-03T02:37:09+00:00"
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Credit unionism and the development of Barbados",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
-        "https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development"
-      ],
-      "finding_count": 2,
-      "max_score": 6,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 14.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 16.2,
-      "ranking_score": 14.0,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:protocol-explorer-learn-internet-works",
@@ -766,46 +770,6 @@
       "first_seen_at": "2026-11-03T06:05:44+00:00"
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html",
-        "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
-        "https://www.heise.de/news/Android-Patchday-Kritische-Luecken-ermoeglichen-Angriffe-ohne-Nutzerinteraktion-11508886.html"
-      ],
-      "finding_count": 3,
-      "max_score": 7,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.18,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 16.3,
-      "ranking_score": 11.18,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.18,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
-    },
-    {
       "key": "title:vynn-capital-backs-econili-malaysia-bets-recycling-its",
       "title": "Vynn Capital backs Econili as Malaysia bets on recycling its battery waste",
       "sources": [
@@ -963,34 +927,36 @@
       "first_seen_at": "2026-11-03T07:56:10+00:00"
     },
     {
-      "key": "title:142-isucon2026-kawasy-fukabori",
-      "title": "142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm",
+      "key": "domain:www.heise.de",
+      "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "heise Security Alerts"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://fukabori.fm/episode/142"
+        "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html",
+        "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
+        "https://www.heise.de/news/Android-Patchday-Kritische-Luecken-ermoeglichen-Angriffe-ohne-Nutzerinteraktion-11508886.html"
       ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
+      "finding_count": 3,
+      "max_score": 7,
+      "credibility_total": 3.15,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
+      "raw_network_score": 13.3,
+      "ranking_score": 8.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -998,7 +964,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-11-03T13:18:01+00:00"
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:ecosystem-roundup-north-korea-binance-heist-took-minutes",
@@ -1229,6 +1195,44 @@
       "first_seen_at": "2026-11-03T04:11:59+00:00"
     },
     {
+      "key": "title:142-isucon2026-kawasy-fukabori",
+      "title": "142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://fukabori.fm/episode/142"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-03T13:18:01+00:00"
+    },
+    {
       "key": "title:700-game-watch-yahoo",
       "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース",
       "sources": [
@@ -1421,7 +1425,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-03T13:18:02Z",
+    "generated_at": "2026-11-03T13:26:37Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
