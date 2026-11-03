@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T05:24:47+00:00_
+_Generated: 2026-11-03T05:34:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `20`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-03T05:24:47+00:00_
 - url: https://openai.com/index/dan-driscoll-joins-openai
 - summary: OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.
 
-### 4. Indonesia urgently needs an allergy data centre to support national food security
+### 4. The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles
 - source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-11-03T04:30:47+00:00`
-- url: https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/
-- summary: Food allergy in Indonesia is a real concern, and we cannot ignore it. According to CNN Indonesia, about 1.7 million children in Indonesia have allergies, and cow’s milk is one of the triggers. This number was shared by Ray Wagiu Basrowi, a doctor and research…
+- score: `16`
+- published: `2026-11-03T05:26:33+00:00`
+- url: https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/
+- summary: The leading digital asset fell 1.69 per cent to US$76,940.91 over 24 hours, while the total crypto market capitalisation dropped 1.68 per cent. That near-perfect match matters. I don’t see this as a coin-specific move. It is a unified repricing of risk across…
 
 ### 5. Are AI fears genuine? Why we should demand evidence, not alarm
 - source: e27 Asia Startup and Tech Feed
