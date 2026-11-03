@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T20:04:39+00:00_
+_Generated: 2026-11-03T20:16:41+00:00_
 
 ## Status
-- status: `normal`
-- findings: `85`
+- status: `warning`
+- findings: `86`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-03T20:04:39+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round
+### 2. GitHub - NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better…
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-11-03T12:34:20+00:00`
+- url: https://github.com/NVIDIA/auto-ontology
+- summary: Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where data lives, what it means, whether to use i…
+
+### 3. SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round
 - source: e27 Asia Startup and Tech Feed
 - score: `23`
 - published: `2026-11-03T07:55:32+00:00`
 - url: https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/
 - summary: Bangkok, October 26, 2026 – SCB 10X, the disruptive technology investment arm of SCBX Group, announced its investment in Tasklet, an AI agent platform that enables businesses to automate complex workflows and delegate operational tasks to AI agents. Tasklet h…
 
-### 3. Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB
+### 4. Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB
 - source: Hatena Bookmark Hotentry IT
 - score: `23`
 - published: `2026-11-01T04:48:57+00:00`
 - url: https://ai-data-base.com/archives/139789
 - summary: 理解していないAIのコードを出してよいのか、開発者がHacker Newsで議論 10月19日、Hacker Newsに「理解していないAIのコードをリリースすることに、どう向き合えばいいか」という投稿が立ちました。コメントでは、全体の流れは分かっても細部を把握できないことや、AIがコードとテストの両方を書いたときの見逃しが話題...
-
-### 4. Thailand’s labour crisis and the refugees building its AI future
-- source: e27 Asia Startup and Tech Feed
-- score: `22`
-- published: `2026-11-03T09:29:30+00:00`
-- url: https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/
-- summary: One photograph in a recent Nikkei Asia report says more about Southeast Asia’s tech economy than most investor decks I have read this year. It shows Myanmar refugees working on a data centre construction site in Chonburi, eastern Thailand. Sit with that for a…
 
 ### 5. ADRをregoでlintする
 - source: Hatena Bookmark Hotentry IT
