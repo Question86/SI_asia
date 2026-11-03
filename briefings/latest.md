@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T20:32:57+00:00_
+_Generiert: 2026-11-03T20:47:49+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+87 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -106,6 +106,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region japan: METI, Nikkei (+2.0); watchgraph region southeast_asia: Thailand (+2.0); watchgraph modules humanitarian_migration_food_water (+3.0)
   - Kurz: One photograph in a recent Nikkei Asia report says more about Southeast Asia’s tech economy than most investor decks I have read this year. It shows Myanmar refugees working on a data centre construction site in Chonburi, eastern Thailand. Sit with that for a moment. People who spent years, sometimes decades, in border camps without […] The post Thailand’s labour crisis and the refugees building its AI future appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Dependabot version updates support Agent Package Manager** — Score 20, observation — [Quelle](https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-03T20:24:07+00:00`, fetched `2026-11-03T20:47:22+00:00`
+  - Treffer: AI Agents, AI/KI, CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported… The post Dependabot version updates support Agent Package Manager appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Preparing our next security sprint to harden OpenAI** — Score 19, observation — [Quelle](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-02T18:00:00+00:00`, fetched `2026-11-03T03:17:26+00:00`
@@ -186,15 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher spezifizierte Auswirkungen zu erzielen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles** — Score 16, observation — [Quelle](https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-03T05:26:33+00:00`, fetched `2026-11-03T05:33:26+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy, Watchgraph:capitals_power_centers, Watchgraph:elections_unrest
-  - Watchgraph: capitals_power_centers, elections_unrest
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers, elections_unrest (+6.0)
-  - Kurz: The leading digital asset fell 1.69 per cent to US$76,940.91 over 24 hours, while the total crypto market capitalisation dropped 1.68 per cent. That near-perfect match matters. I don’t see this as a coin-specific move. It is a unified repricing of risk across global markets, and the largest cryptocurrency is caught in the current. The […] The post The crypto independence story is fragile: Bitcoin now moves on electi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -344,3 +344,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/feed/
