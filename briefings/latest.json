@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T08:04:09+00:00",
-  "run_id": "2026-11-03T08:04:09+00:00",
+  "generated_at": "2026-11-03T08:21:45+00:00",
+  "run_id": "2026-11-03T08:21:45+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 9,
-    "observe": 19,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -549,6 +549,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "facf71a92b2212bc7ae5"
+      },
+      {
+        "title": "Singapore’s factories are riding the AI wave, but the optimism rests on a narrow base",
+        "url": "https://e27.co/singapores-factories-are-riding-the-ai-wave-but-the-optimism-rests-on-a-narrow-base-20261103/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-03T08:06:29+00:00",
+        "fetched_at": "2026-11-03T08:21:15+00:00",
+        "summary": "Singapore’s manufacturers are in their most buoyant mood in recent memory, and they largely have one customer category to thank: the AI data centre. A net weighted balance of 24 per cent of manufacturers expect business conditions to improve between October 2026 and March 2027, the Singapore Economic Development Board (EDB) said on Monday. A […] The post Singapore’s factories are riding the AI wave, but the optimism…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "00a158048fa2b1804118"
       },
       {
         "title": "Krungsri buys into Amity as the Thai AI group dresses its cap table for an IPO",
@@ -1388,6 +1409,27 @@
       "id": "facf71a92b2212bc7ae5"
     },
     {
+      "title": "Singapore’s factories are riding the AI wave, but the optimism rests on a narrow base",
+      "url": "https://e27.co/singapores-factories-are-riding-the-ai-wave-but-the-optimism-rests-on-a-narrow-base-20261103/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-03T08:06:29+00:00",
+      "fetched_at": "2026-11-03T08:21:15+00:00",
+      "summary": "Singapore’s manufacturers are in their most buoyant mood in recent memory, and they largely have one customer category to thank: the AI data centre. A net weighted balance of 24 per cent of manufacturers expect business conditions to improve between October 2026 and March 2027, the Singapore Economic Development Board (EDB) said on Monday. A […] The post Singapore’s factories are riding the AI wave, but the optimism…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "00a158048fa2b1804118"
+    },
+    {
       "title": "Krungsri buys into Amity as the Thai AI group dresses its cap table for an IPO",
       "url": "https://e27.co/krungsri-buys-into-amity-as-the-thai-ai-group-dresses-its-cap-table-for-an-ipo-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1705,67 +1747,25 @@
   ],
   "new_findings": [
     {
-      "title": "SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round",
-      "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
+      "title": "Singapore’s factories are riding the AI wave, but the optimism rests on a narrow base",
+      "url": "https://e27.co/singapores-factories-are-riding-the-ai-wave-but-the-optimism-rests-on-a-narrow-base-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-03T07:55:32+00:00",
-      "fetched_at": "2026-11-03T08:03:41+00:00",
-      "summary": "Bangkok, October 26, 2026 – SCB 10X, the disruptive technology investment arm of SCBX Group, announced its investment in Tasklet, an AI agent platform that enables businesses to automate complex workflows and delegate operational tasks to AI agents. Tasklet has raised an additional $12.8 million in funding, with participation from investors including Union Square Ventures, 359 Capital, […] The post SCB 10X Invests i…",
+      "published_at": "2026-11-03T08:06:29+00:00",
+      "fetched_at": "2026-11-03T08:21:15+00:00",
+      "summary": "Singapore’s manufacturers are in their most buoyant mood in recent memory, and they largely have one customer category to thank: the AI data centre. A net weighted balance of 24 per cent of manufacturers expect business conditions to improve between October 2026 and March 2027, the Singapore Economic Development Board (EDB) said on Monday. A […] The post Singapore’s factories are riding the AI wave, but the optimism…",
       "matched_keywords": [
-        "AI Agents",
         "AI/KI",
-        "APAC Trend Radar",
-        "Automatisierung",
-        "funding",
-        "Watchgraph:ai_agents_workflow",
-        "Watchgraph:capitals_power_centers"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Automatisierung (+5.0); APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers, ai_agents_workflow (+6.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "capitals_power_centers",
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital",
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META"
-      ],
-      "id": "169b39f6a0e9c58a48cf"
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "00a158048fa2b1804118"
     }
   ],
   "source_errors": [],
