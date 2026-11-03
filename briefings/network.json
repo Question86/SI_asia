@@ -1,55 +1,15 @@
 {
-  "generated_at": "2026-11-03T09:49:20+00:00",
+  "generated_at": "2026-11-03T09:57:43+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 35,
     "clusters": 31,
     "cross_source_confrmed": 0,
-    "hot": 1,
-    "early_signals": 1,
+    "hot": 0,
+    "early_signals": 0,
     "dominance_penalized": 1
   },
   "clusters": [
-    {
-      "key": "title:thailand-labour-crisis-refugees-building-its-future",
-      "title": "Thailand’s labour crisis and the refugees building its AI future",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/"
-      ],
-      "finding_count": 1,
-      "max_score": 22,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 29.0,
-      "hot": true,
-      "watchgraph_modules": [
-        "humanitarian_migration_food_water"
-      ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 24.1,
-      "ranking_score": 29.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-03T09:34:59+00:00"
-    },
     {
       "key": "title:scb-10x-invests-tasklet-agent-platform-business-workflow",
       "title": "SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round",
@@ -130,6 +90,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-03T02:37:09+00:00"
+    },
+    {
+      "key": "title:thailand-labour-crisis-refugees-building-its-future",
+      "title": "Thailand’s labour crisis and the refugees building its AI future",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/"
+      ],
+      "finding_count": 1,
+      "max_score": 22,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 23.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "humanitarian_migration_food_water"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 24.1,
+      "ranking_score": 23.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-03T09:34:59+00:00"
     },
     {
       "key": "domain:openai.com",
@@ -465,18 +465,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.57,
+      "network_score": 13.54,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 13.57,
+      "ranking_score": 13.54,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.07,
+      "baseline_bonus": 0.04,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1219,7 +1219,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-03T09:49:20Z",
+    "generated_at": "2026-11-03T09:57:44Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
