@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-03T09:41:54+00:00_
+_Generiert: 2026-11-03T09:49:20+00:00_
 
 ## Thailand’s labour crisis and the refugees building its AI future
 

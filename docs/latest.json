@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T09:41:51+00:00",
-  "run_id": "2026-11-03T09:41:51+00:00",
+  "generated_at": "2026-11-03T09:49:15+00:00",
+  "run_id": "2026-11-03T09:49:15+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -2077,29 +2077,7 @@
       "id": "548ce0575cb29ea25fa2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話",
-      "url": "https://anond.hatelabo.jp/20261103160506",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-03T07:06:48+00:00",
-      "fetched_at": "2026-11-03T09:41:21+00:00",
-      "summary": "お名前.comで管理している「xxxx.cyou」の更新関連費用が、前年の2,676円から18,139円になりました。 約6.8倍、金額にして15,463円の増加です。 今回、私が問題だと感じたのは、料金が大幅に増加したことだけではありません。 通知が届いてから、更新を希望しない場合の回答期限まで、約45時間しかなかったことです。 こ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0ad7d679013ecd4894a8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
