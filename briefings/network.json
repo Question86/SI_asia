@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T19:48:27+00:00",
+  "generated_at": "2026-11-03T20:04:43+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 83,
+    "findings": 85,
     "clusters": 52,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -10,6 +10,51 @@
     "dominance_penalized": 7
   },
   "clusters": [
+    {
+      "key": "domain:openai.com",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "https://openai.com/index/dan-driscoll-joins-openai",
+        "https://openai.com/index/cisco-cyber",
+        "https://openai.com/index/heimstaden",
+        "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+      ],
+      "finding_count": 7,
+      "max_score": 19,
+      "credibility_total": 7.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 30.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 39.7,
+      "ranking_score": 30.1,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 4.6,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
     {
       "key": "title:scb-10x-invests-tasklet-agent-platform-business-workflow",
       "title": "SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round",
@@ -170,50 +215,6 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-19T11:28:55+00:00"
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-        "https://openai.com/index/dan-driscoll-joins-openai",
-        "https://openai.com/index/heimstaden",
-        "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-        "https://openai.com/index/accelerating-engineering-for-the-physical-world"
-      ],
-      "finding_count": 5,
-      "max_score": 19,
-      "credibility_total": 5.25,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.19,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 29.5,
-      "ranking_score": 21.19,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.69,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "github_repo:d4vinci/scrapling",
@@ -2051,7 +2052,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-03T19:48:28Z",
+    "generated_at": "2026-11-03T20:04:43Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
