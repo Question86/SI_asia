@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T08:31:31+00:00",
-  "run_id": "2026-11-03T08:31:31+00:00",
+  "generated_at": "2026-11-03T08:48:35+00:00",
+  "run_id": "2026-11-03T08:48:35+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 30,
     "displayed_findings": 30,
     "high": 0,
@@ -1787,29 +1787,7 @@
       "id": "548ce0575cb29ea25fa2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI書道コンクール",
-      "url": "https://aishodo.enpitsu.org/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-03T04:55:10+00:00",
-      "fetched_at": "2026-11-03T08:30:59+00:00",
-      "summary": "AI書道コンクール",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3dc91f1c32d16b2c152c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
