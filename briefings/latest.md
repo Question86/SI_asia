@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T14:04:10+00:00_
+_Generiert: 2026-11-03T14:18:30+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+66 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -192,6 +192,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0)
   - Kurz: OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Dependabot now supports Python 3.15** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-03T13:49:32+00:00`, fetched `2026-11-03T14:17:59+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub… The post Dependabot now supports Python 3.15 appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Protocol Explorer · Learn how the internet works** — Score 12, observation — [Quelle](https://protocol-explorer-alpha.vercel.app/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-03T03:40:37+00:00`, fetched `2026-11-03T11:31:30+00:00`
@@ -300,15 +309,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Die Programmierer des Passwort-Managers mSecure empfehlen nach einem IT-Vorfall, alle gespeicherten Zugänge neu abzusichern.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Internet of Things: Siemens Simatic IoT2050 angegriffen** — Score 7, risk — [Quelle](https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-11-03T11:09:00.000+00:00`, fetched `2026-11-03T11:16:04+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Am Montag wurde bekannt, dass Angreifer Siemens-IoT-Gateways attackieren. Sie wollen Botnet-Malware einschleusen.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 

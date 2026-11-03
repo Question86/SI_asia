@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T14:04:10+00:00_
+_Generated: 2026-11-03T14:18:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `65`
+- findings: `66`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-03T14:04:10+00:00_
 - url: https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
 - summary: OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
 
-### 7. Protocol Explorer · Learn how the internet works
+### 7. Dependabot now supports Python 3.15
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-11-03T13:49:32+00:00`
+- url: https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15
+- summary: You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub… The post Dependabot now supports Python 3.15 appeared first on The GitHub Blog…
+
+### 8. Protocol Explorer · Learn how the internet works
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-03T03:40:37+00:00`
 - url: https://protocol-explorer-alpha.vercel.app/
 - summary: Watch the internet work, packet by packet. Interactive lessons on HTTP, HTTPS, TCP, UDP, IP, DNS, DHCP, ICMP, SMTP, POP3, IMAP, FTP, SSH and TLS, with every packet decoded byte by byte. In English, Spanish, Portuguese, French, German, Turkish, Indonesian, Jap…
-
-### 8. In Southeast Asia, winning at home may no longer be enough
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-11-03T01:00:36+00:00`
-- url: https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/
-- summary: For years, Southeast Asian founders were told to win their home market before expanding abroad. Prove the product, build the team, establish revenue, then move into neighbouring countries. That advice still makes sense. But for startups seeking institutional…
 
 END OF DOCUMENT
