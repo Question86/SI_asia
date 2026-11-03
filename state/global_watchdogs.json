@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:35:04+00:00",
+  "generated_at": "2026-11-03T14:41:58+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,46 @@
         "metrics": {
           "cve": "CVE-2026-41709"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Bulgaria",
+        "summary": "Green flood alert in Bulgaria",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104267",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Spain",
+        "summary": "Green flood alert in Spain",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104268",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575068",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .",
+        "summary": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346",
+        "published_at": "",
+        "metrics": {}
       }
     ],
     "global_economy": []

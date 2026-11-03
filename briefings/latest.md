@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T14:35:03+00:00_
+_Generiert: 2026-11-03T14:41:56+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,22 @@ _Generiert: 2026-11-03T14:35:03+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-28`
   - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-11-11. Broadcom VMWare ESX Insufficient Logging Vulnerability
+- **GDACS: Green flood alert in Bulgaria** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104267)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Bulgaria
+- **GDACS: Green flood alert in Spain** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104268)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Spain
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575068)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.
+- **GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .
 
 ## Wirtschaft global
 
