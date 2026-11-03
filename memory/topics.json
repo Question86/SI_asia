@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T14:26:28+00:00",
+  "generated_at": "2026-11-03T14:35:03+00:00",
   "topics": {
     "ai": [
       {
@@ -221,6 +221,13 @@
         "url": "https://openai.com/index/dan-driscoll-joins-openai"
       },
       {
+        "title": "[UPDATE] [hoch] util-linux: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-03T14:24:22+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3180"
+      },
+      {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-03T13:49:09+00:00",
@@ -268,13 +275,6 @@
         "published_at": "2026-11-03T00:00:00+00:00",
         "relevance_score": 16,
         "url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives"
-      },
-      {
-        "title": "[UPDATE] [mittel] Axis Camera Station: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-03T11:52:33+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4199"
       }
     ],
     "geopolitics": [
