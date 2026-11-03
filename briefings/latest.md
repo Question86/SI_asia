@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T18:37:54+00:00_
+_Generiert: 2026-11-03T18:50:49+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+82 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -262,6 +262,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Googleは11月2日、130万台を超えるテレビ用端末を広告詐欺などに悪用していたネットワーク「XCPE」の運用を、前週に妨害したと発表した。端末メーカーのVideostrong Technologyが金銭目的で意図的に開発・運用していたと判断し、同社との取引を停止したという。調査と運用妨害には日本の警察庁も協力した。 XCPEは、利用...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvs3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-03T18:46:16.040+00:00`, fetched `2026-11-03T18:50:21+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-03 18:21:13 UTC 2026-11-03 18:21:13 UTC at epicenter Location 35.520°S 78.303°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 10 km N of Delta, B.C., MX** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/ci41572064)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-03T18:37:07.193+00:00`, fetched `2026-11-03T18:37:15+00:00`
@@ -307,15 +316,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5i)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-03T13:52:00.040+00:00`, fetched `2026-11-03T13:56:06+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-03 13:34:06 UTC 2026-11-03 13:34:06 UTC at epicenter Location 58.840°S 26.474°W Depth 143.60 km (89.23 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Stable banks, strong capital markets - Europe’s financial system for the future** — Score 9, opportunity — [Quelle](https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:26:06+00:00`
