@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T13:26:35+00:00_
+_Generiert: 2026-11-03T13:34:13+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+59 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -153,6 +153,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Payments in a fragmenting world - sovereignty, strategy and system design** — Score 14, opportunity — [Quelle](https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:33:43+00:00`
+  - Treffer: Macro/Policy, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Markets/Capital Structure (+7.5); recent (+1.0)
+  - Kurz: Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the South African Reserve Bank Payments Conference 2026, Pretoria, 21 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Nur beobachten
 
