@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T13:34:13+00:00_
+_Generiert: 2026-11-03T13:40:35+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+60 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -110,6 +110,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers, elections_unrest (+6.0)
   - Kurz: The leading digital asset fell 1.69 per cent to US$76,940.91 over 24 hours, while the total crypto market capitalisation dropped 1.68 per cent. That near-perfect match matters. I don’t see this as a coin-specific move. It is a unified repricing of risk across global markets, and the largest cryptocurrency is caught in the current. The […] The post The crypto independence story is fragile: Bitcoin now moves on electi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Innovation, security and technological sovereignty - reconciling three imperatives** — Score 16, observation — [Quelle](https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:40:04+00:00`
+  - Treffer: Macro/Policy, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
+  - Kurz: Speech by Mr Denis Beau, First Deputy Governor of the Bank of France and Delegated Chairman of the Prudential Supervision and Resolution Authority (ACPR), at a seminar organised by the Association Europe-Finances-Régulations, Paris, 15 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Heimstaden is changing residential real estate management with AI** — Score 14, observation — [Quelle](https://openai.com/index/heimstaden)
   - Quelle: OpenAI News RSS / `rss`
