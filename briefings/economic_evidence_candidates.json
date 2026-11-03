@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T13:34:59+00:00",
-  "candidate_count": 2597,
+  "generated_at": "2026-11-03T13:41:20+00:00",
+  "candidate_count": 2598,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -11202,6 +11202,24 @@
       "snippet": "e euro area and Japan, which collectively accounted for over 80% of the outstanding stock throughout the past decade ( Graph 4.A ). 8 As of Q4 2025, BIS reporting banks had almost $560 billion in foreign claims on GCC countries. The bulk of these claims were vis-à-vis borrowers in United Arab Emirates ($261 billion), Saudi Arabia ($127 billion), Qatar ($108 billion) and",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202604-commentary-ibs-gli"
+    },
+    {
+      "candidate_id": "cand_93f338b2b691dc7a2c3c",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
+      "observed_at": "2026-11-03T13:41:04+00:00",
+      "currency": "EUR",
+      "amount_native": 264000000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "Such dependency may prove costly in the long term. A study commissioned by the association of major French companies for digital technology (CIGREF) estimates that Europeans spend EUR 264 billion each year on US software and cloud services 1 It is also operationally dangerous, as illustrated by recent discussions surrounding the possibility of a “kill switch” affecting US",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
     },
     {
       "amount_native": 261000000000.0,

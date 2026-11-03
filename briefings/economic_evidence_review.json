@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T13:35:00+00:00",
+  "generated_at": "2026-11-03T13:41:21+00:00",
   "fx_as_of": null,
-  "candidate_count": 2597,
+  "candidate_count": 2598,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2597
+    "pending": 2598
   },
   "coverage_warning": null,
   "candidates": [
@@ -36966,6 +36966,25 @@
       "snippet": "51,314,913.0 → 29,960,000 ［VPS 番号・口座 ID・パスワード］ IronFX-Real6 Notesco (BVI) Ltd JPY 111,626,526.8 → 29,960,000 ［VPS 番号・口座 ID・パスワード］ GaitameFinest-LIVE Gaitame Finest Company Limited JPY 82,026,998.0 → 0 ［VPS 番号・口座 ID・パスワード］ XMTrading-Real 31 （画像はここで切れている） メール 10/21 21:13（青は当方、黒は犯人が自サイトで公開した時点で犯人自身が加工） 「すべて」と書いているが、並べた口座の一部は 残高が 0 になっていない （③と同じ口座・同じ数字の使い回し）。 ⑤ 10月22日 11:00〜11:",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://satoru.net/hacker/gmo/261025-seimei.html"
+    },
+    {
+      "amount_native": 264000000000.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_93f338b2b691dc7a2c3c",
+      "component_suggestion": "real_resource",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-03T13:41:04+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:real_resource:37a49cd505fb",
+      "review_status": "pending",
+      "snippet": "Such dependency may prove costly in the long term. A study commissioned by the association of major French companies for digital technology (CIGREF) estimates that Europeans spend EUR 264 billion each year on US software and cloud services 1 It is also operationally dangerous, as illustrated by recent discussions surrounding the possibility of a “kill switch” affecting US",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
+      "component_confidence": 0.55
     },
     {
       "amount_native": 1300000000000.0,
