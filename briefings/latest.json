@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T08:21:45+00:00",
-  "run_id": "2026-11-03T08:21:45+00:00",
+  "generated_at": "2026-11-03T08:31:31+00:00",
+  "run_id": "2026-11-03T08:31:31+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 9,
-    "observe": 20,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -780,6 +780,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "681ceffe0b5330bd7c3f"
+      },
+      {
+        "title": "AI書道コンクール",
+        "url": "https://aishodo.enpitsu.org/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-03T04:55:10+00:00",
+        "fetched_at": "2026-11-03T08:30:59+00:00",
+        "summary": "AI書道コンクール",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3dc91f1c32d16b2c152c"
       },
       {
         "title": "「GoogleやAppleのアカウントを守るためにYubiKeyを使っている」物理キーが注目を集め、売り切れが相次いでいる→導入前に知っておきたい注意点は？",
@@ -1640,6 +1661,27 @@
       "id": "681ceffe0b5330bd7c3f"
     },
     {
+      "title": "AI書道コンクール",
+      "url": "https://aishodo.enpitsu.org/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-03T04:55:10+00:00",
+      "fetched_at": "2026-11-03T08:30:59+00:00",
+      "summary": "AI書道コンクール",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3dc91f1c32d16b2c152c"
+    },
+    {
       "title": "「GoogleやAppleのアカウントを守るためにYubiKeyを使っている」物理キーが注目を集め、売り切れが相次いでいる→導入前に知っておきたい注意点は？",
       "url": "https://togetter.com/li/2766080",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1747,25 +1789,25 @@
   ],
   "new_findings": [
     {
-      "title": "Singapore’s factories are riding the AI wave, but the optimism rests on a narrow base",
-      "url": "https://e27.co/singapores-factories-are-riding-the-ai-wave-but-the-optimism-rests-on-a-narrow-base-20261103/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "AI書道コンクール",
+      "url": "https://aishodo.enpitsu.org/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-03T08:06:29+00:00",
-      "fetched_at": "2026-11-03T08:21:15+00:00",
-      "summary": "Singapore’s manufacturers are in their most buoyant mood in recent memory, and they largely have one customer category to thank: the AI data centre. A net weighted balance of 24 per cent of manufacturers expect business conditions to improve between October 2026 and March 2027, the Singapore Economic Development Board (EDB) said on Monday. A […] The post Singapore’s factories are riding the AI wave, but the optimism…",
+      "published_at": "2026-11-03T04:55:10+00:00",
+      "fetched_at": "2026-11-03T08:30:59+00:00",
+      "summary": "AI書道コンクール",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "00a158048fa2b1804118"
+      "id": "3dc91f1c32d16b2c152c"
     }
   ],
   "source_errors": [],
