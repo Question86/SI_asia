@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T14:50:17+00:00_
+_Generated: 2026-11-03T14:57:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `73`
+- findings: `74`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-03T14:50:17+00:00_
 - url: https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
 - summary: OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.
 
-### 5. Are AI fears genuine? Why we should demand evidence, not alarm
+### 5. ADRをregoでlintする
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-11-03T11:32:21+00:00`
+- url: https://zenn.dev/babarot/articles/regomark-adr-checker
+- summary: AIが書くADRのフォーマットをどう揃えるか 自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを ADR にしておいて」と頼むと書いてくれる。 ただ、AI に書かせた ADR は、...
+
+### 6. Are AI fears genuine? Why we should demand evidence, not alarm
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-11-03T02:00:03+00:00`
 - url: https://e27.co/are-ai-fears-genuine-why-we-should-demand-evidence-not-alarm-20261101/
 - summary: Over the past couple of months, I’ve come across several perspectives from AI founders that have made me question whether the fears surrounding AI are genuine concerns or narratives being shaped to serve their own interests. Recent comments by some of the big…
 
-### 6. Rewarding defenders with bigger bug bounties
+### 7. Rewarding defenders with bigger bug bounties
 - source: OpenAI News RSS
 - score: `13`
 - published: `2026-11-02T18:00:00+00:00`
 - url: https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
 - summary: OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
 
-### 7. Dependabot now supports Python 3.15
+### 8. Dependabot now supports Python 3.15
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-11-03T13:49:32+00:00`
 - url: https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15
 - summary: You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub… The post Dependabot now supports Python 3.15 appeared first on The GitHub Blog…
-
-### 8. Protocol Explorer · Learn how the internet works
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-03T03:40:37+00:00`
-- url: https://protocol-explorer-alpha.vercel.app/
-- summary: Watch the internet work, packet by packet. Interactive lessons on HTTP, HTTPS, TCP, UDP, IP, DNS, DHCP, ICMP, SMTP, POP3, IMAP, FTP, SSH and TLS, with every packet decoded byte by byte. In English, Spanish, Portuguese, French, German, Turkish, Indonesian, Jap…
 
 END OF DOCUMENT
