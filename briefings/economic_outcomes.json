@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T18:39:19+00:00",
+  "generated_at": "2026-11-03T18:52:03+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -2509,6 +2509,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1be566af39938a390416",
+      "title": "M 5.2 - Mid-Indian Ridge",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_1c0340efbc3235e9aef6",
@@ -22412,13 +22423,13 @@
     {
       "event_id": "evt_ea1ccad831bf9a1f78af",
       "title": "M 4.7 - 10 km N of Delta, B.C., MX",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ea502e99b05b79e186de",
