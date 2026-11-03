@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T23:43:15+00:00",
+  "generated_at": "2026-11-03T23:51:46+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -59,7 +59,7 @@
     },
     "earthquake:m 4.9 - south sandwich islands region:4.9": {
       "title": "M 4.9 - South Sandwich Islands region",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Preparing our next security sprint to harden OpenAI",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
-        27.4,
         27.4,
         27.4,
         27.4,
@@ -130,12 +129,13 @@
         33.7,
         33.7,
         33.7,
+        33.7,
         33.7
       ],
-      "rolling_average": 31.55,
+      "rolling_average": 31.76,
       "rolling_peak": 39.7,
       "last_score": 33.7,
-      "z_hint": 2.15
+      "z_hint": 1.94
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -939,7 +939,7 @@
     },
     "domain:www.bis.org": {
       "title": "Innovation, security and technological sovereignty - reconciling three imperatives",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         34.9,
         34.9,
@@ -2165,7 +2165,7 @@
     },
     "earthquake:japan:5.2": {
       "title": "M 5.2 - Volcano Islands, Japan region",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         20.7,
         20.7,
@@ -3636,9 +3636,8 @@
     },
     "domain:speakerdeck.com": {
       "title": "freeeにおけるSoftware Factory",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
-        10.1,
         10.1,
         10.1,
         10.1,
@@ -3667,12 +3666,13 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 9.73,
+      "rolling_average": 9.6,
       "rolling_peak": 15.2,
       "last_score": 6.1,
-      "z_hint": -3.63
+      "z_hint": -3.5
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -4031,7 +4031,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         16.3,
         16.3,
@@ -4408,7 +4408,7 @@
     },
     "domain:www.heise.de": {
       "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         13.3,
         13.3,
@@ -4536,7 +4536,7 @@
     },
     "domain:japan.cnet.com": {
       "title": "あなたのAndroid TV端末が「詐欺広告の道具」に？ 中国メーカーが不正ソフトを仕込んで販売 Googleが取引停止",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -4799,15 +4799,15 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         25.7,
         25.7,
         25.7,
         25.7,
         25.7,
-        25.7,
         28.7,
+        25.7,
         25.7,
         25.7,
         25.7,
@@ -5194,7 +5194,7 @@
     },
     "domain:togetter.com": {
       "title": "「GoogleやAppleのアカウントを守るためにYubiKeyを使っている」物理キーが注目を集め、売り切れが相次いでいる→導入前に知っておきたい注意点は？",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -5952,7 +5952,7 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         49.6,
         49.6,
@@ -10376,9 +10376,8 @@
     },
     "domain:note.com": {
       "title": "続報：毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
-        6.1,
         6.1,
         6.1,
         6.1,
@@ -10407,12 +10406,13 @@
         9.2,
         9.2,
         9.2,
+        9.2,
         9.2
       ],
-      "rolling_average": 7.23,
+      "rolling_average": 7.34,
       "rolling_peak": 12.2,
       "last_score": 9.2,
-      "z_hint": 1.97
+      "z_hint": 1.86
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -88214,7 +88214,7 @@
     },
     "title:vuln-rabilit-dans-mattermost-server-octobre-2026": {
       "title": "Vulnérabilité dans Mattermost Server (29 octobre 2026)",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -100967,7 +100967,7 @@
     },
     "github_repo:vercel-labs/agent-desktop": {
       "title": "vercel-labs/agent-desktop",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         20.1,
         20.1,
@@ -102764,7 +102764,7 @@
     },
     "title:700-game-watch-yahoo": {
       "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -102804,7 +102804,7 @@
     },
     "title:southeast-asia-winning-home-may-longer-enough": {
       "title": "In Southeast Asia, winning at home may no longer be enough",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -102844,7 +102844,7 @@
     },
     "title:hkstp-drives-hong-kong-mobility-innovators-test-scale": {
       "title": "HKSTP drives Hong Kong mobility innovators to test and scale in Singapore",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -102884,7 +102884,7 @@
     },
     "domain:ai-data-base.com": {
       "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -102924,7 +102924,7 @@
     },
     "title:are-fears-genuine-why-should-demand-evidence-not": {
       "title": "Are AI fears genuine? Why we should demand evidence, not alarm",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -102964,7 +102964,7 @@
     },
     "title:singapore-romania-don-need-another-mou-they-need": {
       "title": "Singapore and Romania don’t need another MOU. They need first customers",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -103004,7 +103004,7 @@
     },
     "title:vietnam-climate-tech-has-missing-middle-women-founders": {
       "title": "Vietnam’s climate-tech has a missing middle, and women founders are falling into it",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -103044,7 +103044,7 @@
     },
     "title:140-nhk": {
       "title": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に | NHKニュース",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -103084,7 +103084,7 @@
     },
     "title:indonesia-urgently-needs-allergy-data-centre-support-national": {
       "title": "Indonesia urgently needs an allergy data centre to support national food security",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -103124,7 +103124,7 @@
     },
     "title:taiwan-singapore-back-nsv-53m-bet-asia-biotech": {
       "title": "Taiwan and Singapore back NSV’s US$53M bet on Asia’s biotech pipeline",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -103164,7 +103164,7 @@
     },
     "url:https://zenn.dev/henteko/articles/b76b15922cdf72": {
       "title": "コードレビューをなくして見えたもの",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -103204,7 +103204,7 @@
     },
     "title:crypto-independence-story-fragile-bitcoin-now-moves-elections": {
       "title": "The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -103244,7 +103244,7 @@
     },
     "title:vynn-capital-backs-econili-malaysia-bets-recycling-its": {
       "title": "Vynn Capital backs Econili as Malaysia bets on recycling its battery waste",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -103284,7 +103284,7 @@
     },
     "title:krungsri-buys-amity-thai-group-dresses-its-cap": {
       "title": "Krungsri buys into Amity as the Thai AI group dresses its cap table for an IPO",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -103324,7 +103324,7 @@
     },
     "title:ecosystem-roundup-north-korea-binance-heist-took-minutes": {
       "title": "Ecosystem Roundup: North Korea’s US$6.4B Binance heist took 54 minutes and isn’t over",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -103364,7 +103364,7 @@
     },
     "github_repo:d4vinci/scrapling": {
       "title": "D4Vinci/Scrapling",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         21.1,
         21.1,
@@ -103404,7 +103404,7 @@
     },
     "github_repo:flashml-org/freetoken": {
       "title": "FlashML-org/FreeToken",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -103444,7 +103444,7 @@
     },
     "github_repo:hyprwm/hyprland": {
       "title": "hyprwm/Hyprland",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -103484,7 +103484,7 @@
     },
     "title:scb-10x-invests-tasklet-agent-platform-business-workflow": {
       "title": "SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -103524,7 +103524,7 @@
     },
     "title:singapore-factories-are-riding-wave-but-optimism-rests": {
       "title": "Singapore’s factories are riding the AI wave, but the optimism rests on a narrow base",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -103564,7 +103564,7 @@
     },
     "domain:aishodo.enpitsu.org": {
       "title": "AI書道コンクール",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -103604,7 +103604,7 @@
     },
     "title:thailand-labour-crisis-refugees-building-its-future": {
       "title": "Thailand’s labour crisis and the refugees building its AI future",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         24.1,
         24.1,
@@ -103644,7 +103644,7 @@
     },
     "earthquake:m 5.4 - 24 km nnw of rioblanco, colombia:5.4": {
       "title": "M 5.4 - 24 km NNW of Rioblanco, Colombia",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -103684,7 +103684,7 @@
     },
     "title:676-139": {
       "title": "ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -103724,7 +103724,7 @@
     },
     "title:protocol-explorer-learn-internet-works": {
       "title": "Protocol Explorer · Learn how the internet works",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -103764,7 +103764,7 @@
     },
     "title:github-desktop-adds-short-lived-authentication-tokens": {
       "title": "GitHub Desktop adds short-lived authentication tokens",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -103804,7 +103804,7 @@
     },
     "title:142-isucon2026-kawasy-fukabori": {
       "title": "142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -103844,7 +103844,7 @@
     },
     "title:dependabot-now-supports-python": {
       "title": "Dependabot now supports Python 3.15",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -103884,7 +103884,7 @@
     },
     "cve:CVE-2026-76418": {
       "title": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -103924,7 +103924,7 @@
     },
     "title:multiples-vuln-rabilit-dans-veeam-backup-microsoft-365": {
       "title": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -103964,7 +103964,7 @@
     },
     "title:vuln-rabilit-dans-les-produits-netapp-octobre-2026": {
       "title": "Vulnérabilité dans les produits NetApp (29 octobre 2026)",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -104004,7 +104004,7 @@
     },
     "title:multiples-vuln-rabilit-dans-postgresql-anonymizer-octobre-2026": {
       "title": "Multiples vulnérabilités dans PostgreSQL Anonymizer (29 octobre 2026)",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -104044,7 +104044,7 @@
     },
     "title:adr-rego-lint": {
       "title": "ADRをregoでlintする",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -104084,7 +104084,7 @@
     },
     "title:codeql-adds-python-features-json-data-extensions": {
       "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         20.1,
         20.1,
@@ -104124,7 +104124,7 @@
     },
     "title:github-copilot-now-available-jetbrains-air": {
       "title": "GitHub Copilot is now available in JetBrains Air",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -104164,7 +104164,7 @@
     },
     "title:arnis-turns-any-place-earth-minecraft-world": {
       "title": "Arnis turns any place on Earth into a Minecraft world",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -104204,7 +104204,7 @@
     },
     "title:look-resource-cost-center-github-rest-api": {
       "title": "Look up a resource’s cost center with the GitHub REST API",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -104244,7 +104244,41 @@
     },
     "earthquake:m 4.7 - 10 km n of delta, b.c., mx:4.7": {
       "title": "M 4.7 - 10 km N of Delta, B.C., MX",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
+      "network_scores": [
+        16.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7,
+        13.7
+      ],
+      "rolling_average": 13.82,
+      "rolling_peak": 16.7,
+      "last_score": 13.7,
+      "z_hint": -0.12
+    },
+    "earthquake:m 5.2 - mid-indian ridge:5.2": {
+      "title": "M 5.2 - Mid-Indian Ridge",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -104275,41 +104309,9 @@
       "last_score": 13.7,
       "z_hint": -0.13
     },
-    "earthquake:m 5.2 - mid-indian ridge:5.2": {
-      "title": "M 5.2 - Mid-Indian Ridge",
-      "updated_at": "2026-11-03T23:43:15+00:00",
-      "network_scores": [
-        16.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7,
-        13.7
-      ],
-      "rolling_average": 13.84,
-      "rolling_peak": 16.7,
-      "last_score": 13.7,
-      "z_hint": -0.14
-    },
     "github_repo:nvidia/auto-ontology": {
       "title": "GitHub - NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         28.1,
         25.1,
@@ -104326,16 +104328,17 @@
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.29,
+      "rolling_average": 25.28,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:dependabot-version-updates-support-agent-package-manager": {
       "title": "Dependabot version updates support Agent Package Manager",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         25.1,
         22.1,
@@ -104349,16 +104352,17 @@
         22.1,
         22.1,
         22.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 22.33,
+      "rolling_average": 22.31,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:ipad-mini-randomtracking": {
       "title": "薄く・軽く。画質も「プロ級」になった新iPad mini【西田宗千佳のRandomTracking】",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -104370,16 +104374,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.37,
+      "rolling_average": 7.35,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "domain:disconinja.hatenablog.com": {
       "title": "アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -104389,16 +104394,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.43,
+      "rolling_average": 7.4,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "earthquake:m 5.2 - 97 km ese of kyzyl-eshme, kyrgyzstan:5.2": {
       "title": "M 5.2 - 97 km ESE of Kyzyl-Eshme, Kyrgyzstan",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -104407,16 +104413,32 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.08,
+      "rolling_average": 12.03,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "domain:blog.kuniwak.com": {
       "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
-      "updated_at": "2026-11-03T23:43:15+00:00",
+      "updated_at": "2026-11-03T23:51:46+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.7,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.6
+    },
+    "title:aterm-php-php-nec": {
+      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？ NECに聞いた",
+      "updated_at": "2026-11-03T23:51:46+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -104427,19 +104449,6 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -0.75
-    },
-    "title:aterm-php-php-nec": {
-      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？ NECに聞いた",
-      "updated_at": "2026-11-03T23:43:15+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 8.1,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.0
     }
   }
 }
