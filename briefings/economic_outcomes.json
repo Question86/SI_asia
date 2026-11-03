@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T14:19:29+00:00",
+  "generated_at": "2026-11-03T14:27:19+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -6099,12 +6099,12 @@
     {
       "event_id": "evt_406cc34bdd9c206698ea",
       "title": "Dependabot now supports Python 3.15",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -8448,7 +8448,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_57f72232fbe810f7f12e",
@@ -12906,6 +12906,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_859e66e096532d1feb03",
+      "title": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_85c4781fd6ce67924f9d",
       "title": "AI boom pushes chipmakers to expand across Asia Pacific, FedEx report finds",
       "deduplicated_buckets": 0,
@@ -13201,6 +13212,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_881b138dedc97db0c585",
+      "title": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_88355c0e71af7f4d6734",
@@ -16016,7 +16038,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a8b9aa641cc82423d63a",
