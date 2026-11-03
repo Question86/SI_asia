@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-03T05:48:43+00:00_
+_Generiert: 2026-11-03T05:56:39+00:00_
 
 ## The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles
 
