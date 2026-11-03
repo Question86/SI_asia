@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T18:20:22+00:00_
+_Generated: 2026-11-03T18:27:35+00:00_
 
 ## Status
-- status: `normal`
-- findings: `79`
+- status: `warning`
+- findings: `80`
 
 ## Top Signals
 
-### 1. SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round
+### 1. Updates | ReliefWeb
+- source: ReliefWeb Mindanao Recovery Watch
+- score: `23`
+- published: `2026-11-03T18:27:25+00:00`
+- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
+- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
+
+### 2. SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round
 - source: e27 Asia Startup and Tech Feed
 - score: `23`
 - published: `2026-11-03T07:55:32+00:00`
 - url: https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/
 - summary: Bangkok, October 26, 2026 – SCB 10X, the disruptive technology investment arm of SCBX Group, announced its investment in Tasklet, an AI agent platform that enables businesses to automate complex workflows and delegate operational tasks to AI agents. Tasklet h…
 
-### 2. Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB
+### 3. Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB
 - source: Hatena Bookmark Hotentry IT
 - score: `23`
 - published: `2026-11-01T04:48:57+00:00`
 - url: https://ai-data-base.com/archives/139789
 - summary: 理解していないAIのコードを出してよいのか、開発者がHacker Newsで議論 10月19日、Hacker Newsに「理解していないAIのコードをリリースすることに、どう向き合えばいいか」という投稿が立ちました。コメントでは、全体の流れは分かっても細部を把握できないことや、AIがコードとテストの両方を書いたときの見逃しが話題...
 
-### 3. Thailand’s labour crisis and the refugees building its AI future
+### 4. Thailand’s labour crisis and the refugees building its AI future
 - source: e27 Asia Startup and Tech Feed
 - score: `22`
 - published: `2026-11-03T09:29:30+00:00`
 - url: https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/
 - summary: One photograph in a recent Nikkei Asia report says more about Southeast Asia’s tech economy than most investor decks I have read this year. It shows Myanmar refugees working on a data centre construction site in Chonburi, eastern Thailand. Sit with that for a…
-
-### 4. Preparing our next security sprint to harden OpenAI
-- source: OpenAI News RSS
-- score: `19`
-- published: `2026-11-02T18:00:00+00:00`
-- url: https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
-- summary: OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.
 
 ### 5. ADRをregoでlintする
 - source: Hatena Bookmark Hotentry IT
