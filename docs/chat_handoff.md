@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T03:43:05+00:00_
+_Generated: 2026-11-03T03:51:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-03T03:43:05+00:00_
 - url: https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/
 - summary: For years, Southeast Asian founders were told to win their home market before expanding abroad. Prove the product, build the team, establish revenue, then move into neighbouring countries. That advice still makes sense. But for startups seeking institutional…
 
-### 8. 日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-11-02T09:47:11+00:00`
-- url: https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/
-- summary: 日本株の上昇期待が剝落しつつある。市場は米テック大手による人工知能（AI）投資の拡大ペースが減速する将来を織り込み始めた。悪影響を受けるのは大規模投資の恩恵にあずかってきた「ツルハシ銘柄」。株価上昇を正当化してきたナラティブ（物語）が、株売りの材料にすり替わっている。「過去最大の損失が出た。AI関連...
+### 8. Vietnam’s climate-tech has a missing middle, and women founders are falling into it
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-11-03T03:46:11+00:00`
+- url: https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/
+- summary: In Vietnam’s climate-tech scene, a founder can win a grant and, with luck, eventually land a cheque worth several million dollars. What she is increasingly unlikely to find is anything in between. Recorded climate tech funding in Vietnam fell 52 per cent in 2…
 
 END OF DOCUMENT

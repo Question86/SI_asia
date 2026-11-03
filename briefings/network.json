@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T03:43:13+00:00",
+  "generated_at": "2026-11-03T03:51:48+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 12,
-    "clusters": 8,
+    "findings": 13,
+    "clusters": 9,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 1,
@@ -51,44 +51,6 @@
       "first_seen_at": "2026-11-03T02:37:09+00:00"
     },
     {
-      "key": "title:singapore-romania-don-need-another-mou-they-need",
-      "title": "Singapore and Romania don’t need another MOU. They need first customers",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 23.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 19.1,
-      "ranking_score": 23.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-03T03:43:13+00:00"
-    },
-    {
       "key": "domain:openai.com",
       "title": "Preparing our next security sprint to harden OpenAI",
       "sources": [
@@ -108,18 +70,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.78,
+      "network_score": 21.72,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.3,
-      "ranking_score": 21.78,
+      "ranking_score": 21.72,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.28,
+      "baseline_bonus": 1.22,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -127,6 +89,82 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
+      "key": "title:singapore-romania-don-need-another-mou-they-need",
+      "title": "Singapore and Romania don’t need another MOU. They need first customers",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 21.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-03T03:43:13+00:00"
+    },
+    {
+      "key": "title:vietnam-climate-tech-has-missing-middle-women-founders",
+      "title": "Vietnam’s climate-tech has a missing middle, and women founders are falling into it",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-03T03:51:48+00:00"
     },
     {
       "key": "title:are-fears-genuine-why-should-demand-evidence-not",
@@ -228,18 +266,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.11,
+      "network_score": 13.02,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 16.3,
-      "ranking_score": 13.11,
+      "ranking_score": 13.02,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.61,
+      "baseline_bonus": 1.52,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -327,7 +365,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-03T03:43:14Z",
+    "generated_at": "2026-11-03T03:51:49Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
