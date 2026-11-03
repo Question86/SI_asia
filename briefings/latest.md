@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T13:40:35+00:00_
+_Generiert: 2026-11-03T13:49:48+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+62 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -300,14 +300,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Google schließt zahlreiche Sicherheitslücken in verschiedenen Android-Versionen. Bislang gibt es keine Hinweise auf Attacken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Credit unionism and the development of Barbados** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados)
+- **The path back to 2 % has become less comfortable** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20261103-path-back-2-has-become-less-comfortable)
   - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:17:31+00:00`
+  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:49:19+00:00`
   - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Remarks by Dr Kevin Greenidge, Governor of the Central Bank of Barbados, at the UWI (Cave Hill) Cooperative Credit Union’s 40th Anniversary Dinner and Awards, Bridgetown, 24 October 2026.
+  - Kurz: Dinner speech by Mr Tuomas Välimäki, Board Member of the Bank of Finland, on the outlook for the euro area economy and inflation, Helsinki, 2 November 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

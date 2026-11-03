@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T13:40:35+00:00",
-  "run_id": "2026-11-03T13:40:35+00:00",
+  "generated_at": "2026-11-03T13:49:48+00:00",
+  "run_id": "2026-11-03T13:49:48+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 60
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 60,
-    "displayed_findings": 60,
+    "new_relevant_findings": 2,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 26,
-    "observe": 34,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -1395,6 +1395,46 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "681ceffe0b5330bd7c3f"
+      },
+      {
+        "title": "The path back to 2 % has become less comfortable",
+        "url": "https://www.bis.org/speeches/20261103-path-back-2-has-become-less-comfortable",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-03T00:00:00+00:00",
+        "fetched_at": "2026-11-03T13:49:19+00:00",
+        "summary": "Dinner speech by Mr Tuomas Välimäki, Board Member of the Bank of Finland, on the outlook for the euro area economy and inflation, Helsinki, 2 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3bc0077d581a44db371d"
+      },
+      {
+        "title": "Economic transitions - technology",
+        "url": "https://www.bis.org/speeches/20261103-economic-transitions-technology",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-03T00:00:00+00:00",
+        "fetched_at": "2026-11-03T13:49:19+00:00",
+        "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the 5th Financial System Conference, Dublin, 2 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "358c27d954f48f44deac"
       },
       {
         "title": "Credit unionism and the development of Barbados",
@@ -3014,6 +3054,46 @@
       "id": "681ceffe0b5330bd7c3f"
     },
     {
+      "title": "The path back to 2 % has become less comfortable",
+      "url": "https://www.bis.org/speeches/20261103-path-back-2-has-become-less-comfortable",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "fetched_at": "2026-11-03T13:49:19+00:00",
+      "summary": "Dinner speech by Mr Tuomas Välimäki, Board Member of the Bank of Finland, on the outlook for the euro area economy and inflation, Helsinki, 2 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3bc0077d581a44db371d"
+    },
+    {
+      "title": "Economic transitions - technology",
+      "url": "https://www.bis.org/speeches/20261103-economic-transitions-technology",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "fetched_at": "2026-11-03T13:49:19+00:00",
+      "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the 5th Financial System Conference, Dublin, 2 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "358c27d954f48f44deac"
+    },
+    {
       "title": "Credit unionism and the development of Barbados",
       "url": "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
       "source": "BIS Central Bankers Speeches",
@@ -3265,25 +3345,44 @@
   ],
   "new_findings": [
     {
-      "title": "Innovation, security and technological sovereignty - reconciling three imperatives",
-      "url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
+      "title": "Economic transitions - technology",
+      "url": "https://www.bis.org/speeches/20261103-economic-transitions-technology",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "fetched_at": "2026-11-03T13:40:04+00:00",
-      "summary": "Speech by Mr Denis Beau, First Deputy Governor of the Bank of France and Delegated Chairman of the Prudential Supervision and Resolution Authority (ACPR), at a seminar organised by the Association Europe-Finances-Régulations, Paris, 15 October 2026.",
+      "fetched_at": "2026-11-03T13:49:19+00:00",
+      "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the 5th Financial System Conference, Dublin, 2 November 2026.",
       "matched_keywords": [
-        "Macro/Policy",
-        "Security"
+        "Macro/Policy"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+7.5); Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "358c27d954f48f44deac"
+    },
+    {
+      "title": "The path back to 2 % has become less comfortable",
+      "url": "https://www.bis.org/speeches/20261103-path-back-2-has-become-less-comfortable",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "fetched_at": "2026-11-03T13:49:19+00:00",
+      "summary": "Dinner speech by Mr Tuomas Välimäki, Board Member of the Bank of Finland, on the outlook for the euro area economy and inflation, Helsinki, 2 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cacb22fd0fbc8f4f754b"
+      "id": "3bc0077d581a44db371d"
     }
   ],
   "source_errors": [],
