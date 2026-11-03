@@ -1,42 +1,179 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-03T00:47:52Z",
+  "generated_at": "2026-11-03T01:51:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 4,
+    "dynamics": 12,
     "bands": {
+      "extreme": 2,
+      "strong": 2,
+      "watch": 4,
       "quiet": 4
     },
     "bands_after_gate_recheck": {
+      "strong": 3,
+      "watch": 5,
       "quiet": 4
     }
   },
   "top_dynamics": [
     {
+      "title": "HKSTP drives Hong Kong mobility innovators to test and scale in Singapore",
+      "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-03T01:00:54+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10",
+        "security high-signal: rce, 10"
+      ],
+      "summary": "Ask a Hong Kong engineer why their product deserves a place abroad and you will often hear the same answer: the city is the hardest test bed they know. Towers scramble satellite signals, space is scarce, labour is expensive and safety rules leave little room for error. Survive that, the argument goes, and most other […"
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "age_days": 1.08,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
+    },
+    {
+      "title": "In Southeast Asia, winning at home may no longer be enough",
+      "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-03T01:10:10+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-06-17T20:44:40+00:00",
+      "age_days": 138.21,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "extreme",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.42,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 0.42",
+        "security high-signal: security",
+        "AXI0M/User-Yps identity hit",
+        "aging penalty -8.0 for 138.2d old signal",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "stale single-source cap after 30d: no current exploitation phrase"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "HKSTP drives Hong Kong mobility innovators to test and scale in Singapore",
+      "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-03T01:10:10+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 136.94,
+      "age_days": 136.99,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 11.88,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.98,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.8,
+      "baseline_z_hint": 8.71,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.80",
+        "baseline z_hint 8.71",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 136.9d old signal",
+        "aging penalty -8.0 for 137.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -46,31 +183,82 @@
       "url": "https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T00:36:23+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
+    },
+    {
+      "title": "冷凍庫にサイバー攻撃、食品溶け大量廃棄 欧州各地のスーパー - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-02T23:12:33+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "【ブリュッセル、ロンドン=共同】ベルギーの大手スーパー、デレーズが1〜2日にかけてサイバー攻撃を受け、約40店舗の冷蔵・冷凍設備の温度が上昇した。ベルギー第2の都市アントワープの食肉チェーン店も攻撃を受け、店員らが手動で設備を操作し温度を下げるなどの対応に追われた。地元メディアが報じた。ロイター通信に..."
+    },
+    {
+      "title": "In Southeast Asia, winning at home may no longer be enough",
+      "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-03T01:00:36+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For years, Southeast Asian founders were told to win their home market before expanding abroad. Prove the product, build the team, establish revenue, then move into neighbouring countries. That advice still makes sense. But for startups seeking institutional venture capital, it is becoming less sufficient. Investors a…"
     },
     {
       "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T09:47:11+00:00",
-      "age_days": 0.63,
+      "age_days": 0.67,
       "topics": [
         "ai"
       ],
@@ -96,7 +284,7 @@
       "url": "https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T14:12:40+00:00",
-      "age_days": 0.44,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -114,7 +302,32 @@
         "no strong comparative reason"
       ],
       "summary": "写真：GAME Watch（株式会社インプレス） ノジマは、同社ECサイト「ノジマオンライン」における不正アクセスに伴う個人情報漏えいに関するお知らせを公開した。 同社は、11月1日に発生した「ノジマオンライン」の会員管理システムに対する第三者による不正アクセスによって、同サイト及び中古スマホ買取サイトに登録さ..."
+    },
+    {
+      "title": "「日本の防衛はAIで優位に」 米パランティアCEOインタビュー - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-02T09:06:32+00:00",
+      "age_days": 0.7,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "米パランティア・テクノロジーズのアレックス・カープ最高経営責任者（CEO）は日本経済新聞の単独インタビューで「日本は専守防衛型の人工知能（AI）スタック（製品群）の開発で優位に立てる」と自衛隊へのAIシステム供給に意欲をみせた。民間部門には知的財産を守るためにAIの制御・訓練が必要だと指摘した。 米軍・情..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=11.88."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovators to test and scale in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
