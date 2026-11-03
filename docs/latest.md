@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T18:27:35+00:00_
+_Generiert: 2026-11-03T18:37:54+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+81 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Googleは11月2日、130万台を超えるテレビ用端末を広告詐欺などに悪用していたネットワーク「XCPE」の運用を、前週に妨害したと発表した。端末メーカーのVideostrong Technologyが金銭目的で意図的に開発・運用していたと判断し、同社との取引を停止したという。調査と運用妨害には日本の警察庁も協力した。 XCPEは、利用...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 10 km N of Delta, B.C., MX** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/ci41572064)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-03T18:37:07.193+00:00`, fetched `2026-11-03T18:37:15+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - V DYFI? - III Time 2026-11-03 18:27:31 UTC 2026-11-03 18:27:31 UTC at epicenter Location 32.440°N 115.180°W Depth 15.77 km (9.80 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **GitHub Copilot is now available in JetBrains Air** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-03T15:11:46+00:00`, fetched `2026-11-03T16:03:57+00:00`
@@ -276,15 +285,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)
   - Kurz: Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at the Prudential Supervision and Resolution Authority (ACPR)-Financial Markets Authority(AMF) Fintech Forum, Paris, 2 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **A new payment scheme for Iceland - building a sovereign and secure payment system** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261103-new-payment-scheme-iceland-building-sovereign-and-secure-payment-system)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:56:06+00:00`
-  - Treffer: banking, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0)
-  - Kurz: Speech by Mr Tómas Brynjólfsson, Deputy Governor for Financial Stability at the Central Bank of Iceland, at the Money Live Nordic Banking conference, Copenhagen, 30 October 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
@@ -295,7 +295,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/feed/
