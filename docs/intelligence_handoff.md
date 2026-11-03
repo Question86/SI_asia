@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-03T07:21:27Z_
+_Generated: 2026-11-03T07:36:47Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-03T01:00:54+00:00` / age_days `0.26`
+- Published: `2026-11-03T01:00:54+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-11-02T18:00:00+00:00` / age_days `0.56`
+- Published: `2026-11-02T18:00:00+00:00` / age_days `0.57`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-11-03T05:34:03+00:00` / age_days `0.07`
+- Published: `2026-11-03T05:34:03+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-02T00:00:00+00:00` / age_days `1.31`
+- Published: `2026-11-02T00:00:00+00:00` / age_days `1.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-02T18:00:00+00:00` / age_days `0.56`
+- Published: `2026-11-02T18:00:00+00:00` / age_days `0.57`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-03T04:30:47+00:00` / age_days `0.12`
+- Published: `2026-11-03T04:30:47+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-03T03:51:48+00:00` / age_days `0.15`
+- Published: `2026-11-03T03:51:48+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-03T02:37:09+00:00` / age_days `0.2`
+- Published: `2026-11-03T02:37:09+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, code, security high-signal: rce, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -92,17 +92,17 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `138.44`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `138.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 1.06, high terms: rce, security high-signal: rce, aging penalty -8.0 for 138.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 0.78, high terms: rce, security high-signal: rce, aging penalty -8.0 for 138.5d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
 
 ### Indonesia urgently needs an allergy data centre to support national food security
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-03T04:47:35+00:00` / age_days `0.11`
+- Published: `2026-11-03T04:47:35+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, security high-signal: security, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-01T04:48:57+00:00` / age_days `2.11`
+- Published: `2026-11-01T04:48:57+00:00` / age_days `2.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, 10, security high-signal: rce, code, 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-03T03:46:11+00:00` / age_days `0.15`
+- Published: `2026-11-03T03:46:11+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10, 9.8, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
