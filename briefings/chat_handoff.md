@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-03T11:16:35+00:00_
+_Generated: 2026-11-03T11:32:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `41`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-03T11:16:35+00:00_
 - url: https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
 - summary: OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
 
-### 7. In Southeast Asia, winning at home may no longer be enough
+### 7. Protocol Explorer · Learn how the internet works
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-11-03T03:40:37+00:00`
+- url: https://protocol-explorer-alpha.vercel.app/
+- summary: Watch the internet work, packet by packet. Interactive lessons on HTTP, HTTPS, TCP, UDP, IP, DNS, DHCP, ICMP, SMTP, POP3, IMAP, FTP, SSH and TLS, with every packet decoded byte by byte. In English, Spanish, Portuguese, French, German, Turkish, Indonesian, Jap…
+
+### 8. In Southeast Asia, winning at home may no longer be enough
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-03T01:00:36+00:00`
 - url: https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/
 - summary: For years, Southeast Asian founders were told to win their home market before expanding abroad. Prove the product, build the team, establish revenue, then move into neighbouring countries. That advice still makes sense. But for startups seeking institutional…
-
-### 8. あなたのAndroid TV端末が「詐欺広告の道具」に？ 中国メーカーが不正ソフトを仕込んで販売 Googleが取引停止
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-03T00:12:21+00:00`
-- url: https://japan.cnet.com/article/35254298/
-- summary: Googleは11月2日、130万台を超えるテレビ用端末を広告詐欺などに悪用していたネットワーク「XCPE」の運用を、前週に妨害したと発表した。端末メーカーのVideostrong Technologyが金銭目的で意図的に開発・運用していたと判断し、同社との取引を停止したという。調査と運用妨害には日本の警察庁も協力した。 XCPEは、利用...
 
 END OF DOCUMENT
