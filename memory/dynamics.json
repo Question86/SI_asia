@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-03T03:36:23Z",
+  "generated_at": "2026-11-03T04:38:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 18,
+    "dynamics": 24,
     "bands": {
       "extreme": 1,
-      "krass": 1,
-      "strong": 6,
-      "watch": 4,
-      "quiet": 6
-    },
-    "bands_after_gate_recheck": {
+      "krass": 2,
       "strong": 8,
       "watch": 4,
-      "quiet": 6
+      "quiet": 9
+    },
+    "bands_after_gate_recheck": {
+      "strong": 11,
+      "watch": 4,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -49,7 +49,7 @@
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -74,7 +74,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.15,
+      "age_days": 1.19,
       "topics": [
         "ai",
         "security"
@@ -102,7 +102,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -124,11 +124,36 @@
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
     },
     {
+      "title": "Vietnam’s climate-tech has a missing middle, and women founders are falling into it",
+      "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-03T03:51:48+00:00",
+      "age_days": 0.03,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
       "url": "https://ai-data-base.com/archives/139789",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T02:37:09+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -155,7 +180,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 138.29,
+      "age_days": 138.33,
       "topics": [
         "ai",
         "security"
@@ -167,12 +192,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.33,
+      "baseline_z_hint": 2.53,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.33",
+        "baseline z_hint 2.53",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 138.3d old signal",
@@ -185,7 +210,7 @@
       "url": "https://ai-data-base.com/archives/139789",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T04:48:57+00:00",
-      "age_days": 1.95,
+      "age_days": 1.99,
       "topics": [
         "ai",
         "macro"
@@ -208,11 +233,59 @@
       "summary": "理解していないAIのコードを出してよいのか、開発者がHacker Newsで議論 10月19日、Hacker Newsに「理解していないAIのコードをリリースすることに、どう向き合えばいいか」という投稿が立ちました。コメントでは、全体の流れは分かっても細部を把握できないことや、AIがコードとテストの両方を書いたときの見逃しが話題..."
     },
     {
+      "title": "Vietnam’s climate-tech has a missing middle, and women founders are falling into it",
+      "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-03T03:46:11+00:00",
+      "age_days": 0.04,
+      "topics": [],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10, 9.8",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "In Vietnam’s climate-tech scene, a founder can win a grant and, with luck, eventually land a cheque worth several million dollars. What she is increasingly unlikely to find is anything in between. Recorded climate tech funding in Vietnam fell 52 per cent in 2025 to US$49.86 million across 33 transactions, down from US…"
+    },
+    {
+      "title": "Singapore and Romania don’t need another MOU. They need first customers",
+      "url": "https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-03T03:43:13+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "In Southeast Asia, winning at home may no longer be enough",
       "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:10:10+00:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -236,7 +309,7 @@
       "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:10:10+00:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -260,7 +333,7 @@
       "url": "https://e27.co/are-ai-fears-genuine-why-we-should-demand-evidence-not-alarm-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T02:37:09+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -286,7 +359,7 @@
       "url": "https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T00:36:23+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -310,7 +383,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T23:12:33+00:00",
-      "age_days": 0.18,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -330,11 +403,37 @@
       "summary": "【ブリュッセル、ロンドン=共同】ベルギーの大手スーパー、デレーズが1〜2日にかけてサイバー攻撃を受け、約40店舗の冷蔵・冷凍設備の温度が上昇した。ベルギー第2の都市アントワープの食肉チェーン店も攻撃を受け、店員らが手動で設備を操作し温度を下げるなどの対応に追われた。地元メディアが報じた。ロイター通信に..."
     },
     {
+      "title": "Singapore and Romania don’t need another MOU. They need first customers",
+      "url": "https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-03T03:30:36+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "On a weekday afternoon in late October, a group of Romanian founders pitched to a Singapore audience over Teams. One of them signed off with a plain request. He would be in Singapore the week of the Singapore Fintech Festival, he said, and he’d love an introduction to anyone who runs compliance or risk at […] The post…"
+    },
+    {
       "title": "Are AI fears genuine? Why we should demand evidence, not alarm",
       "url": "https://e27.co/are-ai-fears-genuine-why-we-should-demand-evidence-not-alarm-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T02:00:03+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -360,7 +459,7 @@
       "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:36+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -386,36 +485,8 @@
       "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 137.06,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.7,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 4.27,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 4.27",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 137.1d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T09:47:11+00:00",
-      "age_days": 0.74,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -437,11 +508,39 @@
       "summary": "日本株の上昇期待が剝落しつつある。市場は米テック大手による人工知能（AI）投資の拡大ペースが減速する将来を織り込み始めた。悪影響を受けるのは大規模投資の恩恵にあずかってきた「ツルハシ銘柄」。株価上昇を正当化してきたナラティブ（物語）が、株売りの材料にすり替わっている。「過去最大の損失が出た。AI関連..."
     },
     {
+      "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T02:10:07+00:00",
+      "age_days": 137.1,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.11,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.83,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.83",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 137.1d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T14:12:40+00:00",
-      "age_days": 0.56,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -461,11 +560,37 @@
       "summary": "写真：GAME Watch（株式会社インプレス） ノジマは、同社ECサイト「ノジマオンライン」における不正アクセスに伴う個人情報漏えいに関するお知らせを公開した。 同社は、11月1日に発生した「ノジマオンライン」の会員管理システムに対する第三者による不正アクセスによって、同サイト及び中古スマホ買取サイトに登録さ..."
     },
     {
+      "title": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69869",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-03T04:11:59+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "「日本の防衛はAIで優位に」 米パランティアCEOインタビュー - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T09:06:32+00:00",
-      "age_days": 0.77,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -484,6 +609,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "米パランティア・テクノロジーズのアレックス・カープ最高経営責任者（CEO）は日本経済新聞の単独インタビューで「日本は専守防衛型の人工知能（AI）スタック（製品群）の開発で優位に立てる」と自衛隊へのAIシステム供給に意欲をみせた。民間部門には知的財産を守るためにAIの制御・訓練が必要だと指摘した。 米軍・情..."
+    },
+    {
+      "title": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69869",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-02T23:52:35+00:00",
+      "age_days": 0.2,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。一方、AI開発に必要…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovators to test and scale in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
