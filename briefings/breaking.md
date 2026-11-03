@@ -1,19 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-03T21:04:01+00:00_
+_Generiert: 2026-11-03T21:31:39+00:00_
 
-## Dependabot version updates support Agent Package Manager
-
-- Ranking Score: `27.0`
-- Raw Network Score: `22.1`
-- Max Monitor Score: `20`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: GitHub Changelog Atom
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
+Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
 
