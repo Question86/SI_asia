@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T13:04:00+00:00",
-  "run_id": "2026-11-03T13:04:00+00:00",
+  "generated_at": "2026-11-03T13:17:59+00:00",
+  "run_id": "2026-11-03T13:17:59+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 51
+      "configured_public_sources_only": 55
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "new_relevant_findings": 4,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 0,
     "medium": 23,
-    "observe": 28,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -1148,6 +1148,26 @@
         "id": "1f4cd663db0d0b5a9207"
       },
       {
+        "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
+        "url": "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-11-03T12:57:00.000+00:00",
+        "fetched_at": "2026-11-03T13:17:31+00:00",
+        "summary": "Die Programmierer des Passwort-Managers mSecure empfehlen nach einem IT-Vorfall, alle gespeicherten Zugänge neu abzusichern.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "14801391f1e423e51f34"
+      },
+      {
         "title": "Internet of Things: Siemens Simatic IoT2050 angegriffen",
         "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
         "source": "heise Security Alerts",
@@ -1249,6 +1269,46 @@
         "id": "681ceffe0b5330bd7c3f"
       },
       {
+        "title": "Credit unionism and the development of Barbados",
+        "url": "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-03T00:00:00+00:00",
+        "fetched_at": "2026-11-03T13:17:31+00:00",
+        "summary": "Remarks by Dr Kevin Greenidge, Governor of the Central Bank of Barbados, at the UWI (Cave Hill) Cooperative Credit Union’s 40th Anniversary Dinner and Awards, Bridgetown, 24 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7ec3f30bea7bcda612e8"
+      },
+      {
+        "title": "Building sills for Africa’s home-grown development",
+        "url": "https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-03T00:00:00+00:00",
+        "fetched_at": "2026-11-03T13:17:31+00:00",
+        "summary": "Speech by Mr Paolo Angelini, Senior Deputy Governor of the Bank of Italy, at the Africa growth and opportunity: research in action 2026 conference (AGORA 26), Palermo, 26 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "54bec25662f453aa96ac"
+      },
+      {
         "title": "ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話",
         "url": "https://anond.hatelabo.jp/20261103160506",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1331,6 +1391,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "cffbecabdecd8c32fd65"
+      },
+      {
+        "title": "142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm",
+        "url": "https://fukabori.fm/episode/142",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-02T14:50:40+00:00",
+        "fetched_at": "2026-11-03T13:17:31+00:00",
+        "summary": "MP3ファイルをダウンロード 内容紹介 kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。 出演者 話したネタ ISUCON2026で、競技中に人間が介入せず優勝 fukabori.ep #52 ISUCON 今回の出題課題 競技当日に...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c8ea1b466d44f98b7f63"
       },
       {
         "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース",
@@ -2556,6 +2637,26 @@
       "id": "1f4cd663db0d0b5a9207"
     },
     {
+      "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
+      "url": "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-03T12:57:00.000+00:00",
+      "fetched_at": "2026-11-03T13:17:31+00:00",
+      "summary": "Die Programmierer des Passwort-Managers mSecure empfehlen nach einem IT-Vorfall, alle gespeicherten Zugänge neu abzusichern.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "14801391f1e423e51f34"
+    },
+    {
       "title": "Internet of Things: Siemens Simatic IoT2050 angegriffen",
       "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
       "source": "heise Security Alerts",
@@ -2657,6 +2758,46 @@
       "id": "681ceffe0b5330bd7c3f"
     },
     {
+      "title": "Credit unionism and the development of Barbados",
+      "url": "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "fetched_at": "2026-11-03T13:17:31+00:00",
+      "summary": "Remarks by Dr Kevin Greenidge, Governor of the Central Bank of Barbados, at the UWI (Cave Hill) Cooperative Credit Union’s 40th Anniversary Dinner and Awards, Bridgetown, 24 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7ec3f30bea7bcda612e8"
+    },
+    {
+      "title": "Building sills for Africa’s home-grown development",
+      "url": "https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "fetched_at": "2026-11-03T13:17:31+00:00",
+      "summary": "Speech by Mr Paolo Angelini, Senior Deputy Governor of the Bank of Italy, at the Africa growth and opportunity: research in action 2026 conference (AGORA 26), Palermo, 26 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54bec25662f453aa96ac"
+    },
+    {
       "title": "ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話",
       "url": "https://anond.hatelabo.jp/20261103160506",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2739,6 +2880,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "cffbecabdecd8c32fd65"
+    },
+    {
+      "title": "142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm",
+      "url": "https://fukabori.fm/episode/142",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-02T14:50:40+00:00",
+      "fetched_at": "2026-11-03T13:17:31+00:00",
+      "summary": "MP3ファイルをダウンロード 内容紹介 kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。 出演者 話したネタ ISUCON2026で、競技中に人間が介入せず優勝 fukabori.ep #52 ISUCON 今回の出題課題 競技当日に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c8ea1b466d44f98b7f63"
     },
     {
       "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース",
@@ -2845,7 +3007,89 @@
       "id": "d5b712707e693e13748c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
+      "url": "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-03T12:57:00.000+00:00",
+      "fetched_at": "2026-11-03T13:17:31+00:00",
+      "summary": "Die Programmierer des Passwort-Managers mSecure empfehlen nach einem IT-Vorfall, alle gespeicherten Zugänge neu abzusichern.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "14801391f1e423e51f34"
+    },
+    {
+      "title": "Building sills for Africa’s home-grown development",
+      "url": "https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "fetched_at": "2026-11-03T13:17:31+00:00",
+      "summary": "Speech by Mr Paolo Angelini, Senior Deputy Governor of the Bank of Italy, at the Africa growth and opportunity: research in action 2026 conference (AGORA 26), Palermo, 26 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54bec25662f453aa96ac"
+    },
+    {
+      "title": "Credit unionism and the development of Barbados",
+      "url": "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "fetched_at": "2026-11-03T13:17:31+00:00",
+      "summary": "Remarks by Dr Kevin Greenidge, Governor of the Central Bank of Barbados, at the UWI (Cave Hill) Cooperative Credit Union’s 40th Anniversary Dinner and Awards, Bridgetown, 24 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7ec3f30bea7bcda612e8"
+    },
+    {
+      "title": "142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm",
+      "url": "https://fukabori.fm/episode/142",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-02T14:50:40+00:00",
+      "fetched_at": "2026-11-03T13:17:31+00:00",
+      "summary": "MP3ファイルをダウンロード 内容紹介 kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。 出演者 話したネタ ISUCON2026で、競技中に人間が介入せず優勝 fukabori.ep #52 ISUCON 今回の出題課題 競技当日に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c8ea1b466d44f98b7f63"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
