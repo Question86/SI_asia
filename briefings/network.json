@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:50:01+00:00",
+  "generated_at": "2026-11-03T15:57:05+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 75,
@@ -238,18 +238,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.4,
+      "network_score": 20.03,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 49.6,
-      "ranking_score": 20.4,
+      "ranking_score": 20.03,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.9,
+      "baseline_bonus": 2.53,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -337,52 +337,6 @@
       "first_seen_at": "2026-11-01T08:29:22+00:00"
     },
     {
-      "key": "domain:www.bis.org",
-      "title": "Innovation, security and technological sovereignty - reconciling three imperatives",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
-        "https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design",
-        "https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future",
-        "https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges",
-        "https://www.bis.org/speeches/20261103-new-payment-scheme-iceland-building-sovereign-and-secure-payment-system",
-        "https://www.bis.org/speeches/20261103-path-back-2-has-become-less-comfortable"
-      ],
-      "finding_count": 9,
-      "max_score": 16,
-      "credibility_total": 9.45,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.51,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 34.9,
-      "ranking_score": 17.51,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.51,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "title:crypto-independence-story-fragile-bitcoin-now-moves-elections",
       "title": "The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles",
       "sources": [
@@ -422,6 +376,52 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-03T05:34:03+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Innovation, security and technological sovereignty - reconciling three imperatives",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
+        "https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design",
+        "https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future",
+        "https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges",
+        "https://www.bis.org/speeches/20261103-new-payment-scheme-iceland-building-sovereign-and-secure-payment-system",
+        "https://www.bis.org/speeches/20261103-path-back-2-has-become-less-comfortable"
+      ],
+      "finding_count": 9,
+      "max_score": 16,
+      "credibility_total": 9.45,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.41,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 34.9,
+      "ranking_score": 17.41,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.41,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:indonesia-urgently-needs-allergy-data-centre-support-national",
@@ -1252,18 +1252,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 8.81,
+      "network_score": 8.76,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.3,
-      "ranking_score": 8.81,
+      "ranking_score": 8.76,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.31,
+      "baseline_bonus": 0.26,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1772,7 +1772,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-03T15:50:02Z",
+    "generated_at": "2026-11-03T15:57:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
