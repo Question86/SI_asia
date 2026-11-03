@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T13:04:41+00:00",
-  "candidate_count": 2595,
+  "generated_at": "2026-11-03T13:18:44+00:00",
+  "candidate_count": 2597,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -39372,6 +39372,24 @@
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
     },
     {
+      "candidate_id": "cand_9e8ef06e35ca505b2d7d",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
+      "observed_at": "2026-11-03T13:18:39+00:00",
+      "currency": "USD",
+      "amount_native": 6000000000.0,
+      "amount_usd": 6000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "n and AffinityPlus, have been on that rail from the first night. The rail is national infrastructure; and since launch, BiMPay has carried more than 3.5 million transactions worth $6 billion, with 95.6 percent of all payment attempts succeeding; unsuccessful attempts result either from incorrect payment details, which the system rightly rejects, or from an institution",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 5700000000.0,
       "amount_usd": null,
       "attribution_probability": null,
@@ -39490,6 +39508,24 @@
       "snippet": "have been designated as global systemically important banks (G‑SIBs). The Basel Committee’s sample also includes 43 “Group 2” banks (ie banks that have Tier 1 capital of less than €3 billion or are not internationally active). The values for the previous period may differ slightly from those published in the previous report. This is because, first, some banks have upd",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show"
+    },
+    {
+      "candidate_id": "cand_ab4bf3a510aeea2023b1",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
+      "observed_at": "2026-11-03T13:18:39+00:00",
+      "currency": "USD",
+      "amount_native": 3000000000.0,
+      "amount_usd": 3000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "contributions from many people can be transformed into a substantial pool of domestic savings. Today, the credit union sector records more than 200,000 memberships and holds over $3 billion in assets. The next question is how that capital, managed prudently, can contribute to a more productive and resilient Barbados. Consider renewable energy and energy efficiency. V",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 2400000000.0,

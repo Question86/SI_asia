@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T13:04:41+00:00",
+  "generated_at": "2026-11-03T13:18:44+00:00",
   "fx_as_of": null,
-  "candidate_count": 2595,
+  "candidate_count": 2597,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2595
+    "pending": 2597
   },
   "coverage_warning": null,
   "candidates": [
@@ -39150,6 +39150,27 @@
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
     },
     {
+      "amount_native": 6000000000.0,
+      "amount_usd": 6000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_9e8ef06e35ca505b2d7d",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-03T13:18:39+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:b91275590e0e",
+      "review_status": "pending",
+      "snippet": "n and AffinityPlus, have been on that rail from the first night. The rail is national infrastructure; and since launch, BiMPay has carried more than 3.5 million transactions worth $6 billion, with 95.6 percent of all payment attempts succeeding; unsuccessful attempts result either from incorrect payment details, which the system rightly rejects, or from an institution",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 5000000000.0,
       "amount_usd": 5000000000.0,
       "attribution_probability": null,
@@ -39211,6 +39232,27 @@
       "snippet": "ly has been) to a more specialized product offering,” Miller told Rest of World . Selling chips to Nvidia, OpenAI SK Hynix is deepening ties with the U.S. AI industry, including a $4 billion advanced packaging facility in Indiana, where it broke ground in August. Samsung, too, has been slowly and steadily getting its foot in the American door. Here’s a brief timeline",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://restofworld.org/2026/samsung-sk-hynix-ai-memory-chip-war-nvidia-openai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    },
+    {
+      "amount_native": 3000000000.0,
+      "amount_usd": 3000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_ab4bf3a510aeea2023b1",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-03T13:18:39+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:3d80dcba438f",
+      "review_status": "pending",
+      "snippet": "contributions from many people can be transformed into a substantial pool of domestic savings. Today, the credit union sector records more than 200,000 memberships and holds over $3 billion in assets. The next question is how that capital, managed prudently, can contribute to a more productive and resilient Barbados. Consider renewable energy and energy efficiency. V",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 2400000000.0,
