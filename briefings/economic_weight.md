@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-11-03T05:25:15+00:00`
+Generated: `2026-11-03T05:34:25+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -11,6 +11,7 @@ Generated: `2026-11-03T05:25:15+00:00`
 | Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software | conflict | $121.60M | $12.16B | $1.22T | 0.31 |
 | GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. | regulation, conflict | $120.00M | $12.00B | $1.20T | 0.31 |
 | QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students | conflict | $118.40M | $11.84B | $1.18T | 0.31 |
+| The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles | conflict | $116.80M | $11.68B | $1.17T | 0.31 |
 | Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4 | conflict | $116.00M | $11.60B | $1.16T | 0.31 |
 | Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target? | conflict | $116.00M | $11.60B | $1.16T | 0.31 |
 | Shopwareにおけるクロスサイトスクリプティングの脆弱性 | vulnerability, conflict | $115.20M | $11.52B | $1.15T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-11-03T05:25:15+00:00`
 | Multiples vulnérabilités dans les produits VMware (26 octobre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 | Malaysia’s US$110M startup bet has a matching problem, investors warn | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 | Multiples vulnérabilités dans les produits VMware (07 septembre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
-| Singapore’s robotics dominance is a warning sign dressed up as good news | conflict | $111.20M | $11.12B | $1.11T | 0.31 |
 
 ## Interpretation
 
