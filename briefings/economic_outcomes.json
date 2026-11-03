@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T18:52:03+00:00",
+  "generated_at": "2026-11-03T19:01:25+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -2513,13 +2513,13 @@
     {
       "event_id": "evt_1be566af39938a390416",
       "title": "M 5.2 - Mid-Indian Ridge",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1c0340efbc3235e9aef6",
@@ -9306,7 +9306,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_5ff382818db8aa221c89",
