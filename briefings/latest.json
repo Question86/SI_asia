@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-03T22:45:32+00:00",
-  "run_id": "2026-11-03T22:45:32+00:00",
+  "generated_at": "2026-11-03T23:00:04+00:00",
+  "run_id": "2026-11-03T23:00:04+00:00",
   "date": "2026-11-03",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 94
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 0,
     "medium": 36,
-    "observe": 57,
-    "source_errors": 1
+    "observe": 58,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -2143,6 +2143,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "54bec25662f453aa96ac"
+      },
+      {
+        "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？ NECに聞いた",
+        "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-03T22:22:18+00:00",
+        "fetched_at": "2026-11-03T22:59:33+00:00",
+        "summary": "同社によると、Atermの設定画面ではPHP本体や、一般に提供されているPHPの実行環境は使っていない。PHPから移行したわけでもなく、「過去にPHPを使っていた名残」との見方も否定した。 ではなぜ「.php」なのか。 クイック設定画面で「.php」と表示される機種に実装されているのは、「PHPの一部の仕様を参考にした独自の...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "942fcc1d3e59f7b3668c"
       },
       {
         "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
@@ -4616,6 +4637,27 @@
       "id": "54bec25662f453aa96ac"
     },
     {
+      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？ NECに聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-03T22:22:18+00:00",
+      "fetched_at": "2026-11-03T22:59:33+00:00",
+      "summary": "同社によると、Atermの設定画面ではPHP本体や、一般に提供されているPHPの実行環境は使っていない。PHPから移行したわけでもなく、「過去にPHPを使っていた名残」との見方も否定した。 ではなぜ「.php」なのか。 クイック設定画面で「.php」と表示される機種に実装されているのは、「PHPの一部の仕様を参考にした独自の...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "942fcc1d3e59f7b3668c"
+    },
+    {
       "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
       "url": "https://blog.kuniwak.com/entry/e2ebok",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4973,13 +5015,13 @@
   ],
   "new_findings": [
     {
-      "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
-      "url": "https://blog.kuniwak.com/entry/e2ebok",
+      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？ NECに聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-03T21:27:17+00:00",
-      "fetched_at": "2026-11-03T22:45:06+00:00",
-      "summary": "目次 前置き 独自用語の整理と拡張について E2Eテストの境界と定義 UIテストとの概念的な差異 UIを操作しないE2Eテスト E2Eテストで検知可能な欠陥 正当性違反 妥当性違反 E2Eテストの利点 単体テストでは検知できない結合バグの検出 高い忠実度 内部設計への非依存性 E2Eテストの欠点と数理的制約 実行コストの高さ 保...",
+      "published_at": "2026-11-03T22:22:18+00:00",
+      "fetched_at": "2026-11-03T22:59:33+00:00",
+      "summary": "同社によると、Atermの設定画面ではPHP本体や、一般に提供されているPHPの実行環境は使っていない。PHPから移行したわけでもなく、「過去にPHPを使っていた名残」との見方も否定した。 ではなぜ「.php」なのか。 クイック設定画面で「.php」と表示される機種に実装されているのは、「PHPの一部の仕様を参考にした独自の...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4991,17 +5033,10 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "614f66cdacfad2080d8c"
+      "id": "942fcc1d3e59f7b3668c"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "error": "403 Client Error: Forbidden for url: https://e27.co/feed/"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
