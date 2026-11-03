@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T09:34:55+00:00",
-  "run_id": "2026-11-03T09:34:55+00:00",
+  "generated_at": "2026-11-03T09:41:51+00:00",
+  "run_id": "2026-11-03T09:41:51+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 1,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 11,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -904,6 +904,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "681ceffe0b5330bd7c3f"
+      },
+      {
+        "title": "ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話",
+        "url": "https://anond.hatelabo.jp/20261103160506",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-03T07:06:48+00:00",
+        "fetched_at": "2026-11-03T09:41:21+00:00",
+        "summary": "お名前.comで管理している「xxxx.cyou」の更新関連費用が、前年の2,676円から18,139円になりました。 約6.8倍、金額にして15,463円の増加です。 今回、私が問題だと感じたのは、料金が大幅に増加したことだけではありません。 通知が届いてから、更新を希望しない場合の回答期限まで、約45時間しかなかったことです。 こ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0ad7d679013ecd4894a8"
       },
       {
         "title": "AI書道コンクール",
@@ -1909,6 +1930,27 @@
       "id": "681ceffe0b5330bd7c3f"
     },
     {
+      "title": "ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話",
+      "url": "https://anond.hatelabo.jp/20261103160506",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-03T07:06:48+00:00",
+      "fetched_at": "2026-11-03T09:41:21+00:00",
+      "summary": "お名前.comで管理している「xxxx.cyou」の更新関連費用が、前年の2,676円から18,139円になりました。 約6.8倍、金額にして15,463円の増加です。 今回、私が問題だと感じたのは、料金が大幅に増加したことだけではありません。 通知が届いてから、更新を希望しない場合の回答期限まで、約45時間しかなかったことです。 こ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0ad7d679013ecd4894a8"
+    },
+    {
       "title": "AI書道コンクール",
       "url": "https://aishodo.enpitsu.org/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2037,108 +2079,25 @@
   ],
   "new_findings": [
     {
-      "title": "Thailand’s labour crisis and the refugees building its AI future",
-      "url": "https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話",
+      "url": "https://anond.hatelabo.jp/20261103160506",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-03T09:29:30+00:00",
-      "fetched_at": "2026-11-03T09:34:22+00:00",
-      "summary": "One photograph in a recent Nikkei Asia report says more about Southeast Asia’s tech economy than most investor decks I have read this year. It shows Myanmar refugees working on a data centre construction site in Chonburi, eastern Thailand. Sit with that for a moment. People who spent years, sometimes decades, in border camps without […] The post Thailand’s labour crisis and the refugees building its AI future appear…",
+      "published_at": "2026-11-03T07:06:48+00:00",
+      "fetched_at": "2026-11-03T09:41:21+00:00",
+      "summary": "お名前.comで管理している「xxxx.cyou」の更新関連費用が、前年の2,676円から18,139円になりました。 約6.8倍、金額にして15,463円の増加です。 今回、私が問題だと感じたのは、料金が大幅に増加したことだけではありません。 通知が届いてから、更新を希望しない場合の回答期限まで、約45時間しかなかったことです。 こ...",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Public Health",
-        "Southeast Asia",
-        "Watchgraph:humanitarian_migration_food_water"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 22,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region japan: METI, Nikkei (+2.0); watchgraph region southeast_asia: Thailand (+2.0); watchgraph modules humanitarian_migration_food_water (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "humanitarian_migration_food_water"
-      ],
-      "watchgraph_reasons": [
-        "humanitarian_migration_food_water: refugees"
-      ],
-      "market_context": [
-        "ADM",
-        "BG",
-        "DE",
-        "NTR",
-        "CF",
-        "MOS",
-        "wheat",
-        "corn",
-        "soy",
-        "MAERSK-B.CO",
-        "ZIM",
-        "MATX",
-        "WMT",
-        "TGT",
-        "AMZN"
-      ],
-      "id": "0d375045ce98aff6502a"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (PyJWT): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4264",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-03T09:27:32+00:00",
-      "fetched_at": "2026-11-03T09:34:22+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (PyJWT) ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5412a1397a3b15647628"
-    },
-    {
-      "title": "M 5.4 - 24 km NNW of Rioblanco, Colombia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-03T09:32:21.040+00:00",
-      "fetched_at": "2026-11-03T09:34:22+00:00",
-      "summary": "Time 2026-11-03 09:13:14 UTC 2026-11-03 09:13:14 UTC at epicenter Location 3.739°N 75.720°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "fe3f499084b3bae0cd31"
+      "id": "0ad7d679013ecd4894a8"
     }
   ],
   "source_errors": [],
