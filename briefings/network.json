@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T20:55:17+00:00",
+  "generated_at": "2026-11-03T21:04:01+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 87,
-    "clusters": 54,
+    "findings": 88,
+    "clusters": 55,
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 1,
@@ -270,20 +270,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.28,
+      "network_score": 22.2,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 33.7,
-      "ranking_score": 22.28,
+      "ranking_score": 22.2,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.78,
+      "baseline_bonus": 1.7,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1513,6 +1513,44 @@
       "first_seen_at": "2026-11-03T07:56:10+00:00"
     },
     {
+      "key": "title:ipad-mini-randomtracking",
+      "title": "薄く・軽く。画質も「プロ級」になった新iPad mini【西田宗千佳のRandomTracking】",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://av.watch.impress.co.jp/docs/series/rt/2153275.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-03T21:04:01+00:00"
+    },
+    {
       "key": "domain:www.heise.de",
       "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
       "sources": [
@@ -2128,7 +2166,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-03T20:55:18Z",
+    "generated_at": "2026-11-03T21:04:02Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
