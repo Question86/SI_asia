@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T10:05:41+00:00_
+_Generiert: 2026-11-03T10:17:39+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+36 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,18 +29,6 @@ _Generiert: 2026-11-03T10:05:41+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-28`
   - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-11-11. Broadcom VMWare ESX Insufficient Logging Vulnerability
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575068)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.
-- **GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .
-- **GDACS: Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574997)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.
 
 ## Wirtschaft global
 
@@ -137,6 +125,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers, elections_unrest (+6.0)
   - Kurz: The leading digital asset fell 1.69 per cent to US$76,940.91 over 24 hours, while the total crypto market capitalisation dropped 1.68 per cent. That near-perfect match matters. I don’t see this as a coin-specific move. It is a unified repricing of risk across global markets, and the largest cryptocurrency is caught in the current. The […] The post The crypto independence story is fragile: Bitcoin now moves on electi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Heimstaden is changing residential real estate management with AI** — Score 14, observation — [Quelle](https://openai.com/index/heimstaden)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-03T08:00:00+00:00`, fetched `2026-11-03T10:17:11+00:00`
+  - Treffer: AI/KI, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
