@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T16:59:58+00:00_
+_Generiert: 2026-11-03T17:19:57+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+79 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -115,6 +115,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules elections_unrest, ai_agents_workflow (+6.0)
   - Kurz: 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev https://scrapling.readthedocs.io/en/latest/ Effortless Web Scraping for the Modern Web Selection methods · Fetchers · Spiders · Proxy Rotation · CLI · MCP Scrapling is a Python Web Scraping…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - Volcano Islands, Japan region** — Score 18, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvie)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-03T17:05:18.040+00:00`, fetched `2026-11-03T17:19:30+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami, Watchgraph:volcano_aviation
+  - Watchgraph: earthquakes_tsunami, volcano_aviation
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, DIS, CMCSA
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami, volcano_aviation (+6.0)
+  - Kurz: Time 2026-11-03 16:48:13 UTC 2026-11-03 16:48:13 UTC at epicenter Location 24.144°N 141.673°E Depth 139.46 km (86.65 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-03T14:56:03+00:00`, fetched `2026-11-03T15:06:55+00:00`
@@ -187,15 +196,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Payments in a fragmenting world - sovereignty, strategy and system design** — Score 14, opportunity — [Quelle](https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:33:43+00:00`
-  - Treffer: Macro/Policy, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); Markets/Capital Structure (+7.5); recent (+1.0)
-  - Kurz: Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the South African Reserve Bank Payments Conference 2026, Pretoria, 21 October 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Nur beobachten
 
