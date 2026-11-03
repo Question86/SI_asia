@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T11:04:22+00:00",
-  "run_id": "2026-11-03T11:04:22+00:00",
+  "generated_at": "2026-11-03T11:16:35+00:00",
+  "run_id": "2026-11-03T11:16:35+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 1,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
     "medium": 14,
-    "observe": 24,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -915,6 +915,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1f4cd663db0d0b5a9207"
+      },
+      {
+        "title": "Internet of Things: Siemens Simatic IoT2050 angegriffen",
+        "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-11-03T11:09:00.000+00:00",
+        "fetched_at": "2026-11-03T11:16:04+00:00",
+        "summary": "Am Montag wurde bekannt, dass Angreifer Siemens-IoT-Gateways attackieren. Sie wollen Botnet-Malware einschleusen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2d435bf456606e3742dc"
       },
       {
         "title": "Android-Patchday: Kritische Lücken ermöglichen Angriffe ohne Nutzerinteraktion",
@@ -2033,6 +2053,26 @@
       "id": "1f4cd663db0d0b5a9207"
     },
     {
+      "title": "Internet of Things: Siemens Simatic IoT2050 angegriffen",
+      "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-03T11:09:00.000+00:00",
+      "fetched_at": "2026-11-03T11:16:04+00:00",
+      "summary": "Am Montag wurde bekannt, dass Angreifer Siemens-IoT-Gateways attackieren. Sie wollen Botnet-Malware einschleusen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2d435bf456606e3742dc"
+    },
+    {
       "title": "Android-Patchday: Kritische Lücken ermöglichen Angriffe ohne Nutzerinteraktion",
       "url": "https://www.heise.de/news/Android-Patchday-Kritische-Luecken-ermoeglichen-Angriffe-ohne-Nutzerinteraktion-11508886.html",
       "source": "heise Security Alerts",
@@ -2261,7 +2301,28 @@
       "id": "548ce0575cb29ea25fa2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Internet of Things: Siemens Simatic IoT2050 angegriffen",
+      "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-03T11:09:00.000+00:00",
+      "fetched_at": "2026-11-03T11:16:04+00:00",
+      "summary": "Am Montag wurde bekannt, dass Angreifer Siemens-IoT-Gateways attackieren. Sie wollen Botnet-Malware einschleusen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2d435bf456606e3742dc"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
