@@ -818,6 +818,30 @@
     "id": "268d0c0586926e913110"
   },
   {
+    "title": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-29T00:00:00+00:00",
+    "fetched_at": "2026-11-03T14:26:01+00:00",
+    "summary": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement exploitée.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Security",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0a770b53103c5fb23338"
+  },
+  {
     "title": "Are AI fears genuine? Why we should demand evidence, not alarm",
     "url": "https://e27.co/are-ai-fears-genuine-why-we-should-demand-evidence-not-alarm-20261101/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1055,6 +1079,30 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "facf71a92b2212bc7ae5"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-29T00:00:00+00:00",
+    "fetched_at": "2026-11-03T14:26:01+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "40a846dab262f45c09c3"
   },
   {
     "title": "Singapore’s factories are riding the AI wave, but the optimism rests on a narrow base",
@@ -1322,6 +1370,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "058ff7e5ac5a4150db4e"
+  },
+  {
+    "title": "Vulnérabilité dans les produits NetApp (29 octobre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1410/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-29T00:00:00+00:00",
+    "fetched_at": "2026-11-03T14:26:01+00:00",
+    "summary": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d049c21ee4bb9af25cac"
+  },
+  {
+    "title": "Vulnérabilité dans Mattermost Server (29 octobre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1409/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-29T00:00:00+00:00",
+    "fetched_at": "2026-11-03T14:26:01+00:00",
+    "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6ebb3324690716baf3bc"
+  },
+  {
+    "title": "Multiples vulnérabilités dans PostgreSQL Anonymizer (29 octobre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1413/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-29T00:00:00+00:00",
+    "fetched_at": "2026-11-03T14:26:01+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL Anonymizer. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "74229784af360109f378"
   },
   {
     "title": "FlashML-org/FreeToken",
