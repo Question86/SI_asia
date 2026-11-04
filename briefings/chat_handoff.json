@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-04T00:29:25+00:00",
+  "generated_at": "2026-11-04T01:06:36+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 3,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
-    "medium": 1,
-    "observe": 0
+    "medium": 2,
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Could AI agents break fractional-reserve banking?",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-04T01:00:35+00:00",
+      "relevance_score": 19,
+      "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
+      "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers d…",
+      "section": "medium"
+    },
     {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
       "source": "Hatena Bookmark Hotentry IT",
@@ -23,6 +33,26 @@
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "summary": "agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確...",
       "section": "medium"
+    },
+    {
+      "title": "M 5.0 - Fiji region",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-04T00:47:49.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
+      "summary": "Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "BYOK and enterprise custom models in the Copilot usage API",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-04T00:32:19+00:00",
+      "relevance_score": 6,
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "summary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared fir…",
+      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -30,64 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “AI エージェントがデスクトップアプリを操作する CLI agent-desktop” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
-        "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-03T08:51:58+00:00",
-        "age_days": 0.67,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確..."
-      },
-      {
-        "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
-        "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-04T00:29:28+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 20.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

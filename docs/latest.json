@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T00:29:25+00:00",
-  "run_id": "2026-11-04T00:29:25+00:00",
+  "generated_at": "2026-11-04T01:06:36+00:00",
+  "run_id": "2026-11-04T01:06:36+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,64 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 3,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
-    "medium": 1,
-    "observe": 0,
+    "medium": 2,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Could AI agents break fractional-reserve banking?",
+        "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-04T01:00:35+00:00",
+        "fetched_at": "2026-11-04T01:06:05+00:00",
+        "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for their money back at the same time. Most […] The post Could AI agents break fractional-reserve banking? appeared first on e27 .",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "funding",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "a6a4b291834d30177d30"
+      },
       {
         "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
         "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
@@ -54,9 +101,114 @@
         "id": "c6fc478e879fd2562aa0"
       }
     ],
-    "observe": []
+    "observe": [
+      {
+        "title": "M 5.0 - Fiji region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-04T00:47:49.040+00:00",
+        "fetched_at": "2026-11-04T01:06:05+00:00",
+        "summary": "Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "2a8b74b02aa7e8716282"
+      },
+      {
+        "title": "BYOK and enterprise custom models in the Copilot usage API",
+        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-04T00:32:19+00:00",
+        "fetched_at": "2026-11-04T01:06:05+00:00",
+        "summary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6f6cbd5db548786a0d0f"
+      }
+    ]
   },
   "findings": [
+    {
+      "title": "Could AI agents break fractional-reserve banking?",
+      "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-04T01:00:35+00:00",
+      "fetched_at": "2026-11-04T01:06:05+00:00",
+      "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for their money back at the same time. Most […] The post Could AI agents break fractional-reserve banking? appeared first on e27 .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "funding",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "a6a4b291834d30177d30"
+    },
     {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
@@ -80,32 +232,169 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c6fc478e879fd2562aa0"
+    },
+    {
+      "title": "M 5.0 - Fiji region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-04T00:47:49.040+00:00",
+      "fetched_at": "2026-11-04T01:06:05+00:00",
+      "summary": "Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2a8b74b02aa7e8716282"
+    },
+    {
+      "title": "BYOK and enterprise custom models in the Copilot usage API",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-04T00:32:19+00:00",
+      "fetched_at": "2026-11-04T01:06:05+00:00",
+      "summary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6f6cbd5db548786a0d0f"
     }
   ],
   "new_findings": [
     {
-      "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
-      "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Could AI agents break fractional-reserve banking?",
+      "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-03T08:51:58+00:00",
-      "fetched_at": "2026-11-04T00:28:56+00:00",
-      "summary": "agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確...",
+      "published_at": "2026-11-04T01:00:35+00:00",
+      "fetched_at": "2026-11-04T01:06:05+00:00",
+      "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for their money back at the same time. Most […] The post Could AI agents break fractional-reserve banking? appeared first on e27 .",
       "matched_keywords": [
-        "agent",
         "AI Agents",
         "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "funding",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "a6a4b291834d30177d30"
+    },
+    {
+      "title": "M 5.0 - Fiji region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-04T00:47:49.040+00:00",
+      "fetched_at": "2026-11-04T01:06:05+00:00",
+      "summary": "Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2a8b74b02aa7e8716282"
+    },
+    {
+      "title": "BYOK and enterprise custom models in the Copilot usage API",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-04T00:32:19+00:00",
+      "fetched_at": "2026-11-04T01:06:05+00:00",
+      "summary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c6fc478e879fd2562aa0"
+      "id": "6f6cbd5db548786a0d0f"
     }
   ],
   "source_errors": [],
