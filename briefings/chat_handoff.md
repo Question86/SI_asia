@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T06:57:47+00:00_
+_Generated: 2026-11-04T07:06:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `27`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-04T06:57:47+00:00_
 - url: https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/
 - summary: agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確...
 
-### 4. Airbyteにおける任意のコードが実行可能な脆弱性
+### 4. Hinemosにおける不適切な権限の割り当ての脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-11-04T12:00:15+09:00`
-- url: https://jvn.jp/jp/JVN12040144/
-- summary: Airbyteには、不適切なクラスロードにより想定外のコンポーネントを読み込むことができるため、任意のコード実行が可能となる脆弱性が存在します。
+- published: `2026-11-04T16:00:00+09:00`
+- url: https://jvn.jp/jp/JVN46901199/
+- summary: 株式会社NTTデータ先端技術が提供するHinemosには、不適切な権限の割り当ての脆弱性が存在します。
 
 ### 5. 關於時間科技｜Herowatch Go - Security Misconfiguration
 - source: TWCERT/CC TVN Vulnerability Notes RSS
