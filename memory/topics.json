@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T12:57:12+00:00",
+  "generated_at": "2026-11-04T13:05:17+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-11-03T08:51:58+00:00",
         "relevance_score": 16,
         "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/"
+      },
+      {
+        "title": "[UPDATE] [hoch] dnsmasq: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T13:04:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1468"
       },
       {
         "title": "[NEU] [mittel] TYPO3 Extension (Mail): Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-04T07:56:21+00:00",
         "relevance_score": 11,
         "url": "https://gigazine.net/news/20261104-ram-altman/"
-      },
-      {
-        "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-04T11:24:43+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/"
       }
     ],
     "economy": [
@@ -163,25 +163,25 @@
         "url": "https://jvn.jp/jp/JVN46901199/"
       },
       {
+        "title": "[UPDATE] [hoch] dnsmasq: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T13:04:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1468"
+      },
+      {
+        "title": "[NEU] [mittel] Laravel: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T13:04:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4340"
+      },
+      {
         "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-04T12:54:03+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4337"
-      },
-      {
-        "title": "[NEU] [mittel] PJSIP: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:54:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4335"
-      },
-      {
-        "title": "[NEU] [mittel] Kibana: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:54:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4336"
       }
     ],
     "github": [
@@ -251,6 +251,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305"
       },
       {
+        "title": "[NEU] [mittel] Laravel: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T13:04:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4340"
+      },
+      {
         "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-04T12:54:03+00:00",
@@ -291,13 +298,6 @@
         "published_at": "2026-11-04T12:44:15+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4325"
-      },
-      {
-        "title": "[NEU] [mittel] Nagios Enterprises Nagios XI: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:44:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4323"
       }
     ],
     "general": [

@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-11-04T12:57:14+00:00_
+_Generiert: 2026-11-04T13:05:21+00:00_
 
 ## 歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險
 
-- Ranking Score: `22.56`
+- Ranking Score: `22.4`
 - Raw Network Score: `34.7`
 - Max Monitor Score: `14`
 - Reichweite: `specialist` / `2.5`
