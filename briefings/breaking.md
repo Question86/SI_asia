@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-04T01:17:12+00:00_
+_Generiert: 2026-11-04T01:30:53+00:00_
 
 ## Could AI agents break fractional-reserve banking?
 
