@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:50:37+00:00",
+  "generated_at": "2026-11-04T06:57:50+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 26,
@@ -339,18 +339,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.18,
+      "network_score": 14.14,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.6,
-      "ranking_score": 14.18,
+      "ranking_score": 14.14,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.68,
+      "baseline_bonus": 0.64,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -823,7 +823,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-04T06:50:37Z",
+    "generated_at": "2026-11-04T06:57:52Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
