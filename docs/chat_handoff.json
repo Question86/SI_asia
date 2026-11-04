@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-04T09:33:34+00:00",
+  "generated_at": "2026-11-04T09:41:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 2,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 14,
-    "observe": 23
+    "medium": 15,
+    "observe": 24
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T09:34:01+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um den Speicher zu beschädigen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen…",
+      "section": "medium"
+    },
+    {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "summary": "agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確...",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.0 - 207 km ESE of Sarangani, Philippines",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-04T08:00:21.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj",
-      "summary": "Time 2026-11-04 07:40:12 UTC 2026-11-04 07:40:12 UTC at epicenter Location 4.390°N 127.033°E Depth 49.07 km (30.49 mi)",
       "section": "medium"
     },
     {

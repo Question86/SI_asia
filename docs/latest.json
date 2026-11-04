@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T09:33:34+00:00",
-  "run_id": "2026-11-04T09:33:34+00:00",
+  "generated_at": "2026-11-04T09:41:20+00:00",
+  "run_id": "2026-11-04T09:41:20+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 2,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 14,
-    "observe": 23,
+    "medium": 15,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -98,6 +98,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "edc9f9a7e5026c9fa42b"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T09:34:01+00:00",
+        "fetched_at": "2026-11-04T09:40:49+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um den Speicher zu beschädigen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cec6bcfd1d9104faefa2"
       },
       {
         "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
@@ -750,6 +774,26 @@
         "id": "05f4ef84139c90f0efd1"
       },
       {
+        "title": "Barracuda: Root-Sicherheitslücke bedroht unter anderem Email Security Gateway",
+        "url": "https://www.heise.de/news/Barracuda-Root-Sicherheitsluecke-bedroht-unter-anderem-Email-Security-Gateway-11511074.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-11-04T09:28:00.000+00:00",
+        "fetched_at": "2026-11-04T09:40:49+00:00",
+        "summary": "Wenn die Voraussetzungen stimmen, können Angreifer etwa Barracuda Email Security Gateway attackieren und sich Root-Rechte verschaffen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Security (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ea3452dc04b9dc08467f"
+      },
+      {
         "title": "How I use AI for outreach without outsourcing judgement",
         "url": "https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1007,6 +1051,30 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "edc9f9a7e5026c9fa42b"
+    },
+    {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T09:34:01+00:00",
+      "fetched_at": "2026-11-04T09:40:49+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um den Speicher zu beschädigen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cec6bcfd1d9104faefa2"
     },
     {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
@@ -1657,6 +1725,26 @@
       "id": "05f4ef84139c90f0efd1"
     },
     {
+      "title": "Barracuda: Root-Sicherheitslücke bedroht unter anderem Email Security Gateway",
+      "url": "https://www.heise.de/news/Barracuda-Root-Sicherheitsluecke-bedroht-unter-anderem-Email-Security-Gateway-11511074.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-04T09:28:00.000+00:00",
+      "fetched_at": "2026-11-04T09:40:49+00:00",
+      "summary": "Wenn die Voraussetzungen stimmen, können Angreifer etwa Barracuda Email Security Gateway attackieren und sich Root-Rechte verschaffen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Security (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ea3452dc04b9dc08467f"
+    },
+    {
       "title": "How I use AI for outreach without outsourcing judgement",
       "url": "https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1845,91 +1933,48 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Mozilla Firefox: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4304",
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-04T09:29:02+00:00",
-      "fetched_at": "2026-11-04T09:33:06+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Mozilla Firefox ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "published_at": "2026-11-04T09:34:01+00:00",
+      "fetched_at": "2026-11-04T09:40:49+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um den Speicher zu beschädigen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8a8ed40a1daa300a6350"
+      "id": "cec6bcfd1d9104faefa2"
     },
     {
-      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Barracuda: Root-Sicherheitslücke bedroht unter anderem Email Security Gateway",
+      "url": "https://www.heise.de/news/Barracuda-Root-Sicherheitsluecke-bedroht-unter-anderem-Email-Security-Gateway-11511074.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-11-04T09:29:01+00:00",
-      "fetched_at": "2026-11-04T09:33:06+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um möglicherweise beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen, Spoofing-Angriffe durchzuführen oder andere, nicht näher spezifizierte Angriffe auszuführen.",
+      "published_at": "2026-11-04T09:28:00.000+00:00",
+      "fetched_at": "2026-11-04T09:40:49+00:00",
+      "summary": "Wenn die Voraussetzungen stimmen, können Angreifer etwa Barracuda Email Security Gateway attackieren und sich Root-Rechte verschaffen.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Security (+7.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "14e309f4da2cbbd7f12f"
-    },
-    {
-      "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
-      "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-04T09:16:20+00:00",
-      "fetched_at": "2026-11-04T09:33:06+00:00",
-      "summary": "Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, financial disclosure accuracy, and regional labor administration. Managing thousands of employees across multiple business units requires far m…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6ffd9afaff00ff475807"
-    },
-    {
-      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "fetched_at": "2026-11-04T09:33:06+00:00",
-      "summary": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "05f4ef84139c90f0efd1"
+      "id": "ea3452dc04b9dc08467f"
     }
   ],
   "source_errors": [],

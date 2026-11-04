@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T09:33:34+00:00_
+_Generiert: 2026-11-04T09:41:20+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+39 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -79,6 +79,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-04T09:34:01+00:00`, fetched `2026-11-04T09:40:49+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um den Speicher zu beschädigen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI エージェントがデスクトップアプリを操作する CLI agent-desktop** — Score 16, observation — [Quelle](https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-03T08:51:58+00:00`, fetched `2026-11-04T00:28:56+00:00`
@@ -262,6 +271,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Barracuda: Root-Sicherheitslücke bedroht unter anderem Email Security Gateway** — Score 8, observation — [Quelle](https://www.heise.de/news/Barracuda-Root-Sicherheitsluecke-bedroht-unter-anderem-Email-Security-Gateway-11511074.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-04T09:28:00.000+00:00`, fetched `2026-11-04T09:40:49+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); recent (+1.0)
+  - Kurz: Wenn die Voraussetzungen stimmen, können Angreifer etwa Barracuda Email Security Gateway attackieren und sich Root-Rechte verschaffen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-04T06:12:12+00:00`, fetched `2026-11-04T06:29:07+00:00`
@@ -288,15 +306,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。** — Score 5, observation — [Quelle](https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-04T01:42:21+00:00`, fetched `2026-11-04T05:56:35+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Binanceが約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表しています。詳細は以下から。 暗号資産の取引所を運営するBinanceは2026年10月29日、ハッカーにより約63億4,000万ドル、日本円にして1兆円相当の暗号資産が流...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

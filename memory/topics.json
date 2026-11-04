@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T09:33:34+00:00",
+  "generated_at": "2026-11-04T09:41:20+00:00",
   "topics": {
     "ai": [
       {
@@ -54,6 +54,13 @@
         "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/"
       },
       {
+        "title": "Barracuda: Root-Sicherheitslücke bedroht unter anderem Email Security Gateway",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-04T09:28:00.000+00:00",
+        "relevance_score": 8,
+        "url": "https://www.heise.de/news/Barracuda-Root-Sicherheitsluecke-bedroht-unter-anderem-Email-Security-Gateway-11511074.html"
+      },
+      {
         "title": "How I use AI for outreach without outsourcing judgement",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-04T03:00:20+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-04T06:12:12+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf"
-      },
-      {
-        "title": "BYOK and enterprise custom models in the Copilot usage API",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-04T00:32:19+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api"
       }
     ],
     "economy": [
@@ -119,6 +119,13 @@
         "published_at": "2026-11-04T10:15:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU91151184/"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T09:34:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305"
       },
       {
         "title": "Hinemosにおける不適切な権限の割り当ての脆弱性",
@@ -175,13 +182,43 @@
         "published_at": "2026-11-04T08:40:00+00:00",
         "relevance_score": 14,
         "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T09:34:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305"
       },
       {
-        "title": "關於時間科技｜Herowatch Go - Security Misconfiguration",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-11-04T05:55:00+00:00",
+        "title": "[NEU] [hoch] Mozilla Firefox: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T09:29:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4304"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T09:29:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303"
+      },
+      {
+        "title": "Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-11-04T08:15:24+00:00",
         "relevance_score": 12,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html"
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html"
+      },
+      {
+        "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-11-04T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html"
       }
     ],
     "general": [
@@ -226,36 +263,6 @@
         "published_at": "2026-11-03T23:37:15+00:00",
         "relevance_score": 5,
         "url": "https://av.watch.impress.co.jp/docs/topic/special/2149395.html"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [hoch] Mozilla Firefox: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T09:29:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4304"
-      },
-      {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T09:29:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303"
-      },
-      {
-        "title": "Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-11-04T08:15:24+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html"
-      },
-      {
-        "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-11-04T00:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html"
       }
     ],
     "github": [
