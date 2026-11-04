@@ -1,15 +1,57 @@
 {
-  "generated_at": "2026-11-04T05:42:47+00:00",
+  "generated_at": "2026-11-04T05:57:05+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 16,
-    "clusters": 16,
+    "findings": 23,
+    "clusters": 19,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
     "dominance_penalized": 1
   },
   "clusters": [
+    {
+      "key": "domain:www.twcert.org",
+      "title": "關於時間科技｜Herowatch Go - Security Misconfiguration",
+      "sources": [
+        "TWCERT/CC TVN Vulnerability Notes RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html",
+        "https://www.twcert.org.tw/tw/cp-132-11361-55d70-1.html",
+        "https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html",
+        "https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html",
+        "https://www.twcert.org.tw/tw/cp-132-11355-341da-1.html"
+      ],
+      "finding_count": 5,
+      "max_score": 12,
+      "credibility_total": 5.25,
+      "cross_source_confirmed": false,
+      "momentum_delta": 5,
+      "momentum_status": "increasing",
+      "network_score": 26.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 37.5,
+      "ranking_score": 26.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 5.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T11:28:55+00:00"
+    },
     {
       "key": "title:could-agents-break-fractional-reserve-banking",
       "title": "Could AI agents break fractional-reserve banking?",
@@ -317,6 +359,46 @@
       "first_seen_at": "2026-11-04T02:12:26+00:00"
     },
     {
+      "key": "title:afore-funded-him-flew-him-then-watched-him",
+      "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.0,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-04T05:57:05+00:00"
+    },
+    {
       "key": "title:your-startup-should-think-about-scaling-not-surviving",
       "title": "Your startup should think about scaling, not surviving",
       "sources": [
@@ -429,6 +511,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-04T03:17:40+00:00"
+    },
+    {
+      "key": "domain:applech2.com",
+      "title": "Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-04T05:57:05+00:00"
     },
     {
       "key": "earthquake:m 5.0 - fiji region:5.0",
@@ -626,7 +746,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-04T05:42:48Z",
+    "generated_at": "2026-11-04T05:57:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

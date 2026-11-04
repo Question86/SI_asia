@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T05:42:45+00:00_
+_Generiert: 2026-11-04T05:57:02+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+23 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,6 +118,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **關於時間科技｜Herowatch Go - Security Misconfiguration** — Score 12, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-11-04T05:55:00+00:00`, fetched `2026-11-04T05:56:35+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 關於時間科技｜Herowatch Go - Security Misconfiguration
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **關於時間科技｜Herowatch Go - Security Misconfiguration** — Score 12, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11361-55d70-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-11-04T05:55:00+00:00`, fetched `2026-11-04T05:56:35+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 關於時間科技｜Herowatch Go - Security Misconfiguration
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Your startup should think about scaling, not surviving** — Score 12, observation — [Quelle](https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-04T04:00:18+00:00`, fetched `2026-11-04T04:11:43+00:00`
@@ -136,6 +154,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **關於時間科技｜Herowatch Mini - Missing Authentication** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-11-04T05:54:00+00:00`, fetched `2026-11-04T05:56:35+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 關於時間科技｜Herowatch Mini - Missing Authentication
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch** — Score 11, observation — [Quelle](https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-04T05:22:04+00:00`, fetched `2026-11-04T05:56:35+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: The excitement lasted about as long as it took his roommate to ask one question. Mohammed Khambhati was in his dorm at the Singapore University of Technology and Design (SUTD) when he learnt that Afore Capital, a San Francisco pre-seed firm, was backing his startup. “Dude, I just got funded. I have to go to […] The post Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch a…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-04T00:47:49.040+00:00`, fetched `2026-11-04T01:06:05+00:00`
@@ -163,14 +199,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Two interviews and a coding test: How a fake job opened Binance to North Korea** — Score 5, observation — [Quelle](https://e27.co/two-interviews-and-a-coding-test-how-a-fake-job-opened-binance-to-north-korea-20261104/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-04T04:01:15+00:00`, fetched `2026-11-04T04:11:43+00:00`
-  - Treffer: APAC Trend Radar
+- **Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。** — Score 5, observation — [Quelle](https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-04T01:42:21+00:00`, fetched `2026-11-04T05:56:35+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0)
-  - Kurz: Before North Korea’s hackers took US$6.4 billion from Binance, they took US$14.3 million from people most of us will never hear about. That second figure, from a new Chainalysis analysis, may matter more. Over the past 18 months, the blockchain analytics firm has linked more than US$14.3 million in losses to DPRK-linked fake job interview […] The post Two interviews and a coding test: How a fake job opened Binance t…
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Binanceが約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表しています。詳細は以下から。 暗号資産の取引所を運営するBinanceは2026年10月29日、ハッカーにより約63億4,000万ドル、日本円にして1兆円相当の暗号資産が流...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「黙ってブラビアを買いなさい。」アワード大賞受賞モデル“True RGB”の価値と魅力を語りつくす！[Sponsored]** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/topic/special/2149395.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -180,15 +216,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「黙ってブラビアを買いなさい。」アワード大賞受賞モデル“True RGB”の価値と魅力を語りつくす！[Sponsored]
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita** — Score 5, observation — [Quelle](https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-03T13:02:09+00:00`, fetched `2026-11-04T04:29:43+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ⚖️ はじめに 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

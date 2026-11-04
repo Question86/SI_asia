@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T05:42:45+00:00_
+_Generated: 2026-11-04T05:57:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `23`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-04T05:42:45+00:00_
 - url: https://jvn.jp/jp/JVN12040144/
 - summary: Airbyteには、不適切なクラスロードにより想定外のコンポーネントを読み込むことができるため、任意のコード実行が可能となる脆弱性が存在します。
 
-### 5. Your startup should think about scaling, not surviving
+### 5. 關於時間科技｜Herowatch Go - Security Misconfiguration
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `12`
+- published: `2026-11-04T05:55:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html
+- summary: 關於時間科技｜Herowatch Go - Security Misconfiguration
+
+### 6. 關於時間科技｜Herowatch Go - Security Misconfiguration
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `12`
+- published: `2026-11-04T05:55:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11361-55d70-1.html
+- summary: 關於時間科技｜Herowatch Go - Security Misconfiguration
+
+### 7. Your startup should think about scaling, not surviving
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-04T04:00:18+00:00`
 - url: https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/
 - summary: The biggest threat to every startup is short-sightedness. Quick decisions, wrong partners, disproportionate risks, team hires. Every wrong decision needs to be fixed in the medium term. What this causes is disruption, loss of pace, pain, burned money, and som…
 
-### 6. Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab
+### 8. Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-03T13:06:50+00:00`
 - url: https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/
 - summary: Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発...
-
-### 7. M 5.0 - Fiji region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-04T00:47:49.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv
-- summary: Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)
-
-### 8. How I use AI for outreach without outsourcing judgement
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-11-04T03:00:20+00:00`
-- url: https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/
-- summary: I use AI regularly for prospecting and outreach. The useful part is not having it write a generic email to a long list of companies. It is helping me find a more relevant starting point: businesses that have put out a public signal which may match an offer I…
 
 END OF DOCUMENT
