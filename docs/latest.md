@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T15:56:19+00:00_
+_Generiert: 2026-11-04T16:07:01+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+75 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -240,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ローカル生成AIに真の民主化をもたらした推論エンジン「Strata」が凄いらしいけど、イマイチ使い方が分からないし、そもそも「凄さ」が分からない。 そう感じている自作PCユーザーが意外と少なくないので、本記事でStrataの使い方を解説します。すでに知ってる人からすれば当たり前の内容も多いですが、誰だって最初は初...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans CPython (30 octobre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1423/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-30T00:00:00+00:00`, fetched `2026-11-04T16:06:31+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-04T00:47:49.040+00:00`, fetched `2026-11-04T01:06:05+00:00`
@@ -249,15 +258,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-11-04T00:00:00+00:00`, fetched `2026-11-04T09:33:06+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
