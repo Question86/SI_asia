@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T01:07:02+00:00",
+  "generated_at": "2026-11-04T01:17:33+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -759,7 +759,7 @@
       "p90_usd": 119200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:06:42+00:00",
-      "last_seen_at": "2026-11-04T01:06:42+00:00",
+      "last_seen_at": "2026-11-04T01:17:12+00:00",
       "status": "active"
     },
     {
@@ -6953,7 +6953,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T18:55:33+00:00",
-      "last_seen_at": "2026-11-04T01:06:42+00:00",
+      "last_seen_at": "2026-11-04T01:17:12+00:00",
       "status": "active"
     },
     {
@@ -12444,8 +12444,8 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-30T23:58:46+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-04T01:17:12+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -14063,6 +14063,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_bfb5928970b09bbb5617",
+      "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T01:17:12+00:00",
+      "last_seen_at": "2026-11-04T01:17:12+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_077e6cd4464965bf7eea",
+      "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T01:17:12+00:00",
+      "last_seen_at": "2026-11-04T01:17:12+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -14231,6 +14265,23 @@
       "first_seen_at": "2026-10-16T12:31:55+00:00",
       "last_seen_at": "2026-10-17T23:58:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ee5383b4d8cadafc1665",
+      "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 284000.0,
+      "p50_usd": 28400000.0,
+      "p90_usd": 2840000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T01:17:12+00:00",
+      "last_seen_at": "2026-11-04T01:17:12+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_08244bc271b4aa50456f",
@@ -17409,7 +17460,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T00:29:28+00:00",
-      "last_seen_at": "2026-11-04T01:06:42+00:00",
+      "last_seen_at": "2026-11-04T01:17:12+00:00",
       "status": "active"
     },
     {
@@ -30660,6 +30711,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_943dcd19f0f448028eb0",
+      "title": "BYOK and enterprise custom models in the Copilot usage API",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T01:06:42+00:00",
+      "last_seen_at": "2026-11-04T01:17:12+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_956abd6d4f69c2509010",
       "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
       "event_classes": [
@@ -31440,23 +31508,6 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_943dcd19f0f448028eb0",
-      "title": "BYOK and enterprise custom models in the Copilot usage API",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-04T01:06:42+00:00",
-      "last_seen_at": "2026-11-04T01:06:42+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
