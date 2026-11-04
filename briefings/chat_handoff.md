@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T03:03:04+00:00_
+_Generated: 2026-11-04T03:17:37+00:00_
 
 ## Status
-- status: `warning`
-- findings: `11`
+- status: `normal`
+- findings: `12`
 
 ## Top Signals
 
@@ -50,7 +50,14 @@ _Generated: 2026-11-04T03:03:04+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv
 - summary: Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)
 
-### 7. BYOK and enterprise custom models in the Copilot usage API
+### 7. How I use AI for outreach without outsourcing judgement
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-11-04T03:00:20+00:00`
+- url: https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/
+- summary: I use AI regularly for prospecting and outreach. The useful part is not having it write a generic email to a long list of companies. It is helping me find a more relevant starting point: businesses that have put out a public signal which may match an offer I…
+
+### 8. BYOK and enterprise custom models in the Copilot usage API
 - source: GitHub Changelog Atom
 - score: `6`
 - published: `2026-11-04T00:32:19+00:00`
