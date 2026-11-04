@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T15:06:14+00:00_
+_Generated: 2026-11-04T15:18:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `68`
+- findings: `70`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-04T15:06:14+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288
 - summary: Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Auswi…
 
-### 5. max-sixty/worktrunk
+### 5. Daybreak Red is now available in AWS GovCloud (US-East)
+- source: OpenAI News RSS
+- score: `13`
+- published: `2026-11-04T07:00:00+00:00`
+- url: https://openai.com/index/daybreak-red-aws-govcloud
+- summary: Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.
+
+### 6. max-sixty/worktrunk
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/max-sixty/worktrunk
 - summary: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows https://worktrunk.dev Worktrunk November 2026 : Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built…
 
-### 6. OpenAI to acquire Pierre Computer Company, Inc.
+### 7. OpenAI to acquire Pierre Computer Company, Inc.
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-11-04T14:30:00+00:00`
 - url: https://openai.com/index/openai-to-acquire-pierre
 - summary: OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.
 
-### 7. Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45
+### 8. Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-11-04T08:15:24+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html
 - summary: Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45
-
-### 8. 關於時間科技｜Herowatch Go - Security Misconfiguration
-- source: TWCERT/CC TVN Vulnerability Notes RSS
-- score: `12`
-- published: `2026-11-04T05:55:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html
-- summary: 關於時間科技｜Herowatch Go - Security Misconfiguration
 
 END OF DOCUMENT
