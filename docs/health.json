@@ -1,18 +1,31 @@
 {
-  "generated_at": "2026-11-04T18:28:38+00:00",
-  "status": "normal",
+  "generated_at": "2026-11-04T18:44:30+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 1,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
-    "medium": 37,
+    "medium": 38,
     "observe": 39,
-    "source_errors": 0
+    "source_errors": 2
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "403 Client Error: Forbidden for url: https://e27.co/feed/"
+    },
+    {
+      "source_id": "restofworld_feed",
+      "source_name": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "error": "403 Client Error: Forbidden for url: https://restofworld.org/feed/latest/"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
