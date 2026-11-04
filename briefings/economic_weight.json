@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T04:12:38+00:00",
+  "generated_at": "2026-11-04T04:30:41+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -759,7 +759,7 @@
       "p90_usd": 119200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:06:42+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -6953,7 +6953,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T18:55:33+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -12444,7 +12444,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -12597,7 +12597,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:17:12+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -12614,7 +12614,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T03:03:08+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -13277,7 +13277,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T03:03:08+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -13736,7 +13736,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:17:12+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -14297,7 +14297,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:17:12+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -17494,7 +17494,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T00:29:28+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -18174,7 +18174,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T02:12:26+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -20286,6 +20286,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7e35b4128178f5e433f2",
+      "title": "Your startup should think about scaling, not surviving",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_8210999671a7b742db6d",
       "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
       "event_classes": [
@@ -21118,23 +21135,6 @@
       "first_seen_at": "2026-10-31T06:33:29+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_7e35b4128178f5e433f2",
-      "title": "Your startup should think about scaling, not surviving",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-04T04:12:17+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
@@ -27527,7 +27527,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T03:17:40+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -30809,7 +30809,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:06:42+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
       "status": "active"
     },
     {
@@ -31661,6 +31661,23 @@
       "first_seen_at": "2026-09-05T19:14:00+00:00",
       "last_seen_at": "2026-09-05T21:16:55+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_04e76058717487d5f319",
+      "title": "Two interviews and a coding test: How a fake job opened Binance to North Korea",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T04:12:17+00:00",
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_04ff675a06bf1bdc4dd8",
@@ -32815,8 +32832,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-10-25T10:19:56+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-04T04:30:19+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3bdda892d400eb3623aa",
@@ -36880,23 +36897,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_04e76058717487d5f319",
-      "title": "Two interviews and a coding test: How a fake job opened Binance to North Korea",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-04T04:12:17+00:00",
-      "last_seen_at": "2026-11-04T04:12:17+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
