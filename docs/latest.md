@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T14:35:29+00:00_
+_Generiert: 2026-11-04T14:42:50+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+67 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -268,7 +268,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
