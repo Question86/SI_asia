@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-04T07:12:37Z",
+  "generated_at": "2026-11-04T08:14:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 9,
+      "krass": 10,
       "extreme": 1,
-      "strong": 15,
+      "strong": 17,
       "watch": 9,
-      "quiet": 6
+      "quiet": 3
     },
     "bands_after_gate_recheck": {
-      "strong": 24,
+      "strong": 27,
       "watch": 10,
-      "quiet": 6
+      "quiet": 3
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/jp/JVN46901199/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T16:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN12040144/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T12:00:15+09:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security"
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/jp/JVN44272550/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T12:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://jvn.jp/vu/JVNVU99859918/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:30+09:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU92281274/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:15+09:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -141,35 +141,11 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "Hinemosにおける不適切な権限の割り当ての脆弱性",
-      "url": "https://jvn.jp/jp/JVN46901199/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-04T07:06:18+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T08:51:58+00:00",
-      "age_days": 0.93,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
@@ -191,11 +167,38 @@
       "summary": "agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確..."
     },
     {
+      "title": "Eight systems, one number: How DVI Group fixed the back office its pandemic boom broke",
+      "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-04T07:57:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Four years ago, DVI Group’s management team sat down for what should have been a routine meeting. Sales, finance, delivery and customer service each brought a spreadsheet tracking the company’s live contracts. Each spreadsheet carried a different number. “It was shocking,” recalls Tanish Dhillon, General Manager at th…"
+    },
+    {
       "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -221,7 +224,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T13:06:50+00:00",
-      "age_days": 0.75,
+      "age_days": 0.8,
       "topics": [
         "security"
       ],
@@ -247,7 +250,7 @@
       "url": "https://jvn.jp/vu/JVNVU91151184/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -272,7 +275,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:54:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -298,7 +301,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:52:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -324,7 +327,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11355-341da-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:49:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -350,7 +353,7 @@
       "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T01:06:42+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -377,7 +380,7 @@
       "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T01:00:35+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -400,11 +403,36 @@
       "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for their money back at the same time. Most [……"
     },
     {
+      "title": "Eight systems, one number: How DVI Group fixed the back office its pandemic boom broke",
+      "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-04T07:58:53+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "關於時間科技｜Herowatch Go - Security Misconfiguration",
       "url": "https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:55:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -428,7 +456,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11361-55d70-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:55:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -452,7 +480,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11366-d92ac-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T06:18:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -472,11 +500,35 @@
       "summary": "關於時間科技｜Herowatch Go Server - Insecure Direct Object Reference"
     },
     {
+      "title": "Hinemosにおける不適切な権限の割り当ての脆弱性",
+      "url": "https://jvn.jp/jp/JVN46901199/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-04T07:06:18+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
       "url": "https://jvn.jp/jp/JVN44272550/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T03:03:08+00:00",
-      "age_days": 0.17,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -500,7 +552,7 @@
       "url": "https://jvn.jp/vu/JVNVU99859918/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -524,7 +576,7 @@
       "url": "https://jvn.jp/vu/JVNVU92281274/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -548,7 +600,7 @@
       "url": "https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T02:12:26+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -568,11 +620,35 @@
       "summary": ""
     },
     {
+      "title": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-04T07:36:54+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Your startup should think about scaling, not surviving",
       "url": "https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T04:12:17+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -596,7 +672,7 @@
       "url": "https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T05:57:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -620,7 +696,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 137.82,
+      "age_days": 137.87,
       "topics": [
         "security"
       ],
@@ -631,15 +707,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.53,
+      "baseline_z_hint": 1.03,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.53",
+        "baseline z_hint 1.03",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 137.8d old signal",
+        "aging penalty -8.0 for 137.9d old signal",
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": ""
@@ -649,7 +725,7 @@
       "url": "https://jvn.jp/vu/JVNVU91151184/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 138.22,
+      "age_days": 138.26,
       "topics": [
         "general"
       ],
@@ -665,7 +741,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 138.2d old signal"
+        "aging penalty -8.0 for 138.3d old signal"
       ],
       "summary": ""
     },
@@ -674,7 +750,7 @@
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T00:29:28+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -700,7 +776,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-04T00:47:49.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -725,7 +801,7 @@
       "url": "https://jvn.jp/jp/JVN12040144/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T03:03:08+00:00",
-      "age_days": 0.17,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -750,7 +826,7 @@
       "url": "https://www.digital.go.jp/policies/education/2025report",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-04T06:12:26+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -774,7 +850,7 @@
       "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-04T01:06:42+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -798,7 +874,7 @@
       "url": "https://e27.co/two-interviews-and-a-coding-test-how-a-fake-job-opened-binance-to-north-korea-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T04:12:17+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -822,7 +898,7 @@
       "url": "https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T05:57:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -846,7 +922,7 @@
       "url": "https://av.watch.impress.co.jp/docs/topic/special/2149395.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T05:03:09+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -870,7 +946,7 @@
       "url": "https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T02:00:40+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -896,7 +972,7 @@
       "url": "https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T01:42:21+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -920,7 +996,7 @@
       "url": "https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T03:17:40+00:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -940,84 +1016,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "Your startup should think about scaling, not surviving",
-      "url": "https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-04T04:00:18+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The biggest threat to every startup is short-sightedness. Quick decisions, wrong partners, disproportionate risks, team hires. Every wrong decision needs to be fixed in the medium term. What this causes is disruption, loss of pace, pain, burned money, and sometimes the death of the startup. Getting these right separat…"
-    },
-    {
-      "title": "M 5.0 - Fiji region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-03T18:55:33+00:00",
-      "age_days": 61.51,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 61.5d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
-      "url": "https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-04T05:22:04+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The excitement lasted about as long as it took his roommate to ask one question. Mohammed Khambhati was in his dorm at the Singapore University of Technology and Design (SUTD) when he learnt that Afore Capital, a San Francisco pre-seed firm, was backing his startup. “Dude, I just got funded. I have to go to […] The po…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Hinemosにおける不適切な権限の割り当ての脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."

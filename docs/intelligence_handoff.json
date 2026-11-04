@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-04T07:12:37Z",
+  "generated_at": "2026-11-04T08:14:34Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Hinemosにおける不適切な権限の割り当ての脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN46901199/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T16:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -35,36 +35,11 @@
       "summary": "株式会社NTTデータ先端技術が提供するHinemosには、不適切な権限の割り当ての脆弱性が存在します。"
     },
     {
-      "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
-      "url": "https://jvn.jp/jp/JVN12040144/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-04T12:00:15+09:00",
-      "age_days": 0.18,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "Airbyteには、不適切なクラスロードにより想定外のコンポーネントを読み込むことができるため、任意のコード実行が可能となる脆弱性が存在します。"
-    },
-    {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T08:51:58+00:00",
-      "age_days": 0.93,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
@@ -86,11 +61,38 @@
       "summary": "agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確..."
     },
     {
+      "title": "Eight systems, one number: How DVI Group fixed the back office its pandemic boom broke",
+      "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-04T07:57:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Four years ago, DVI Group’s management team sat down for what should have been a routine meeting. Sales, finance, delivery and customer service each brought a spreadsheet tracking the company’s live contracts. Each spreadsheet carried a different number. “It was shocking,” recalls Tanish Dhillon, General Manager at th…"
+    },
+    {
       "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -116,7 +118,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T13:06:50+00:00",
-      "age_days": 0.75,
+      "age_days": 0.8,
       "topics": [
         "security"
       ],
@@ -142,7 +144,7 @@
       "url": "https://jvn.jp/vu/JVNVU91151184/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -167,7 +169,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:54:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -193,7 +195,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:52:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -219,7 +221,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11355-341da-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:49:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -245,7 +247,7 @@
       "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T01:06:42+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -272,7 +274,7 @@
       "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T01:00:35+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -299,7 +301,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 137.82,
+      "age_days": 137.87,
       "topics": [
         "security"
       ],
@@ -310,15 +312,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.53,
+      "baseline_z_hint": 1.03,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.53",
+        "baseline z_hint 1.03",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 137.8d old signal",
+        "aging penalty -8.0 for 137.9d old signal",
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": ""
