@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T11:21:36+00:00_
+_Generiert: 2026-11-04T11:27:51+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+49 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -244,14 +244,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: The excitement lasted about as long as it took his roommate to ask one question. Mohammed Khambhati was in his dorm at the Singapore University of Technology and Design (SUTD) when he learnt that Afore Capital, a San Francisco pre-seed firm, was backing his startup. “Dude, I just got funded. I have to go to […] The post Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises** — Score 10, observation — [Quelle](https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/)
+- **AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst** — Score 10, observation — [Quelle](https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-04T09:16:20+00:00`, fetched `2026-11-04T09:33:06+00:00`
+  - Zeit: published `2026-11-04T11:24:43+00:00`, fetched `2026-11-04T11:27:23+00:00`
   - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, financial disclosure accuracy, and regional labor administration. Managing thousands of employees across multiple business units requires far m…
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0)
+  - Kurz: Ask a chatbot whether human activity is warming the planet and you will almost certainly get the right answer. Argue with it for a turn or two and, according to a new study from UNESCO and University College London, there is a fair chance it will start agreeing with you instead. The report, which UNESCO […] The post AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst appeared first o…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

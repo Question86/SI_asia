@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T11:21:36+00:00",
-  "run_id": "2026-11-04T11:21:36+00:00",
+  "generated_at": "2026-11-04T11:27:51+00:00",
+  "run_id": "2026-11-04T11:27:51+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
     "medium": 22,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -857,6 +857,27 @@
           "EWZ"
         ],
         "id": "ea6286f725ede7fb91ac"
+      },
+      {
+        "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
+        "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-04T11:24:43+00:00",
+        "fetched_at": "2026-11-04T11:27:23+00:00",
+        "summary": "Ask a chatbot whether human activity is warming the planet and you will almost certainly get the right answer. Argue with it for a turn or two and, according to a new study from UNESCO and University College London, there is a fair chance it will start agreeing with you instead. The report, which UNESCO […] The post AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst appeared first o…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "afe020d051962ebc7866"
       },
       {
         "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
@@ -2013,6 +2034,27 @@
       "id": "ea6286f725ede7fb91ac"
     },
     {
+      "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
+      "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-04T11:24:43+00:00",
+      "fetched_at": "2026-11-04T11:27:23+00:00",
+      "summary": "Ask a chatbot whether human activity is warming the planet and you will almost certainly get the right answer. Argue with it for a turn or two and, according to a new study from UNESCO and University College London, there is a fair chance it will start agreeing with you instead. The report, which UNESCO […] The post AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst appeared first o…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "afe020d051962ebc7866"
+    },
+    {
       "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
       "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2339,28 +2381,25 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4302",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
+      "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-04T11:19:02+00:00",
-      "fetched_at": "2026-11-04T11:21:02+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Auslösung eines Denial-of-Service-Angriffs, die Manipulation oder Offenlegung von Daten, die Ausführung von beliebigem Code, die Erlangung erweiterter Berechtigungen oder die Umgehung von Sicherheitsmaßnahmen.",
+      "published_at": "2026-11-04T11:24:43+00:00",
+      "fetched_at": "2026-11-04T11:27:23+00:00",
+      "summary": "Ask a chatbot whether human activity is warming the planet and you will almost certainly get the right answer. Argue with it for a turn or two and, according to a new study from UNESCO and University College London, there is a fair chance it will start agreeing with you instead. The report, which UNESCO […] The post AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst appeared first o…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "67264e49212bcafa9f8b"
+      "id": "afe020d051962ebc7866"
     }
   ],
   "source_errors": [],
