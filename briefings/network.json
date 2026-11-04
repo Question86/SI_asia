@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:45:05+00:00",
+  "generated_at": "2026-11-04T11:53:04+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 51,
@@ -34,20 +34,20 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 23.19,
+      "network_score": 23.02,
       "hot": true,
       "watchgraph_modules": [
         "agriculture_food_fertilizer"
       ],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 34.7,
-      "ranking_score": 23.19,
+      "ranking_score": 23.02,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.19,
+      "baseline_bonus": 2.02,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -158,19 +158,19 @@
       "max_score": 16,
       "credibility_total": 11.55,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 42.1,
-      "ranking_score": 20.0,
+      "raw_network_score": 39.1,
+      "ranking_score": 17.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -872,44 +872,6 @@
       "first_seen_at": "2026-11-04T03:17:40+00:00"
     },
     {
-      "key": "title:android-google",
-      "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/04/2000002884/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-04T11:45:05+00:00"
-    },
-    {
       "key": "earthquake:m 5.0 - fiji region:5.0",
       "title": "M 5.0 - Fiji region",
       "sources": [
@@ -1063,6 +1025,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-04T01:06:42+00:00"
+    },
+    {
+      "key": "title:android-google",
+      "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/04/2000002884/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-04T11:45:05+00:00"
     },
     {
       "key": "title:109-nhk",
@@ -1333,7 +1333,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-04T11:45:06Z",
+    "generated_at": "2026-11-04T11:53:05Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
