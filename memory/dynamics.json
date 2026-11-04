@@ -1,27 +1,52 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-04T11:37:57Z",
+  "generated_at": "2026-11-04T12:15:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
-      "krass": 17,
-      "strong": 20
+      "krass": 18,
+      "strong": 19
     },
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 38
+      "krass": 3,
+      "strong": 37
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-04T11:40:48+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen."
+    },
     {
       "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T09:34:01+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -46,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T09:29:01+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -71,7 +96,7 @@
       "url": "https://www.heise.de/news/Barracuda-Root-Sicherheitsluecke-bedroht-unter-anderem-Email-Security-Gateway-11511074.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 138.17,
+      "age_days": 138.19,
       "topics": [
         "ai",
         "security"
@@ -99,7 +124,7 @@
       "url": "https://jvn.jp/jp/JVN46901199/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T16:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -123,7 +148,7 @@
       "url": "https://jvn.jp/jp/JVN12040144/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T12:00:15+09:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "security"
@@ -148,7 +173,7 @@
       "url": "https://jvn.jp/jp/JVN44272550/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T12:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -172,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:24:01+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -196,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4312",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:19:01+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -221,7 +246,7 @@
       "url": "https://jvn.jp/vu/JVNVU99859918/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:30+09:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -245,7 +270,7 @@
       "url": "https://jvn.jp/vu/JVNVU92281274/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:15+09:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -269,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4309",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:09:02+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -293,7 +318,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4304",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T09:29:02+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -317,7 +342,7 @@
       "url": "https://www.heise.de/news/Barracuda-Root-Sicherheitsluecke-bedroht-unter-anderem-Email-Security-Gateway-11511074.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-04T09:28:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -343,7 +368,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html",
       "source": "TWCERT/CC Security News RSS, TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 138.01,
+      "age_days": 138.03,
       "topics": [
         "general"
       ],
@@ -354,13 +379,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.9,
+      "baseline_z_hint": 4.64,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 5.90",
+        "baseline z_hint 4.64",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 138.0d old signal",
@@ -373,7 +398,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 138.88,
+      "age_days": 138.9,
       "topics": [
         "general"
       ],
@@ -402,7 +427,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4302",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T11:19:02+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -428,7 +453,7 @@
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T08:51:58+00:00",
-      "age_days": 1.12,
+      "age_days": 1.14,
       "topics": [
         "ai"
       ],
@@ -454,7 +479,7 @@
       "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T07:57:24+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -481,7 +506,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:19:01+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -507,7 +532,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:19:01+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -533,7 +558,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:14:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -559,7 +584,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-11-04T08:40:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "security",
         "macro"
@@ -586,7 +611,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -612,7 +637,7 @@
       "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T09:16:20+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "infra"
@@ -640,7 +665,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T13:06:50+00:00",
-      "age_days": 0.94,
+      "age_days": 0.96,
       "topics": [
         "security"
       ],
@@ -666,7 +691,7 @@
       "url": "https://jvn.jp/vu/JVNVU91151184/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -691,7 +716,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:54:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -717,7 +742,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:52:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -743,7 +768,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11355-341da-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:49:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -769,7 +794,7 @@
       "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T01:06:42+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -796,7 +821,7 @@
       "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T01:00:35+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -819,11 +844,11 @@
       "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for their money back at the same time. Most [……"
     },
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4302",
+      "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 67.9,
+      "age_days": 67.92,
       "topics": [
         "security"
       ],
@@ -851,7 +876,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:55:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -875,7 +900,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11361-55d70-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:55:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -899,7 +924,7 @@
       "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T07:58:53+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -923,7 +948,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11366-d92ac-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T06:18:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -947,7 +972,7 @@
       "url": "https://jvn.jp/jp/JVN46901199/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T07:06:18+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -971,7 +996,7 @@
       "url": "https://jvn.jp/jp/JVN44272550/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T03:03:08+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -995,31 +1020,7 @@
       "url": "https://jvn.jp/vu/JVNVU99859918/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU92281274/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -1039,5 +1040,5 @@
       "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
