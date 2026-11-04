@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-04T08:26:35Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Hinemosにおける不適切な権限の割り当ての脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-11-04T09:13:30Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,35 +11,41 @@
   ],
   "top_dynamics": [
     {
-      "title": "Hinemosにおける不適切な権限の割り当ての脆弱性",
-      "url": "https://jvn.jp/jp/JVN46901199/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-04T16:00:00+09:00",
-      "age_days": 0.06,
+      "title": "歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html",
+      "source": "TWCERT/CC Security News RSS, TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-06-19T11:28:55+00:00",
+      "age_days": 137.91,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 9.68,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: jvn, security"
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 9.68",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 137.9d old signal",
+        "extreme gate recheck: insufficient independent/current evidence"
       ],
-      "summary": "株式会社NTTデータ先端技術が提供するHinemosには、不適切な権限の割り当ての脆弱性が存在します。"
+      "summary": ""
     },
     {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T08:51:58+00:00",
-      "age_days": 0.98,
+      "age_days": 1.01,
       "topics": [
         "ai"
       ],
@@ -65,7 +71,7 @@
       "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T07:57:24+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -88,11 +94,38 @@
       "summary": "Four years ago, DVI Group’s management team sat down for what should have been a routine meeting. Sales, finance, delivery and customer service each brought a spreadsheet tracking the company’s live contracts. Each spreadsheet carried a different number. “It was shocking,” recalls Tanish Dhillon, General Manager at th…"
     },
     {
+      "title": "歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html",
+      "source": "TWCERT/CC Security News RSS",
+      "published_at": "2026-11-04T08:40:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "2026 年 10 月起，歐洲超市的冷凍及冷藏設備接連遭到網路攻擊。攻擊者遠端修改設備的溫度與除霜設定，導致大量食品報廢。事件先發生在法國，11 月初再擴及比利時、荷蘭、瑞典、愛爾蘭等國。法國、荷蘭等國的資安機關已陸續發布警示，提醒業者檢視冷凍設備遠端監控系統的連網與存取管理。 法國約 700 家超市受害，CERT-FR 發布警報 第一波攻擊發生在 10 月 11 日夜間，法國數百家超市的冷藏設備遭遠端調高溫度，部分門市還傳出火災。法國財政部長 Roland Lescure 在國會表示，全國約 1 萬家超市中約 700 家受到影響，但糧食供應沒有風險。巴黎檢察署指出這是一起大規模攻擊，已交由網路犯罪單位偵辦，而法國總理 Sébas…"
+    },
+    {
       "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -118,7 +151,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T13:06:50+00:00",
-      "age_days": 0.81,
+      "age_days": 0.84,
       "topics": [
         "security"
       ],
@@ -144,7 +177,7 @@
       "url": "https://jvn.jp/vu/JVNVU91151184/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -169,7 +202,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:54:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -195,7 +228,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:52:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -221,7 +254,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11355-341da-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:49:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -247,7 +280,7 @@
       "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T01:06:42+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -274,7 +307,7 @@
       "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T01:00:35+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -295,35 +328,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for their money back at the same time. Most [……"
-    },
-    {
-      "title": "關於時間科技｜Herowatch Go - Security Misconfiguration",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 137.87,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 1.03,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 1.03",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 137.9d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -335,8 +339,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
