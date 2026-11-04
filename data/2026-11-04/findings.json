@@ -275,6 +275,42 @@
     "id": "d860cc2cbd08452108bb"
   },
   {
+    "title": "歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險",
+    "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html",
+    "source": "TWCERT/CC Security News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-04T08:40:00+00:00",
+    "fetched_at": "2026-11-04T08:42:56+00:00",
+    "summary": "2026 年 10 月起，歐洲超市的冷凍及冷藏設備接連遭到網路攻擊。攻擊者遠端修改設備的溫度與除霜設定，導致大量食品報廢。事件先發生在法國，11 月初再擴及比利時、荷蘭、瑞典、愛爾蘭等國。法國、荷蘭等國的資安機關已陸續發布警示，提醒業者檢視冷凍設備遠端監控系統的連網與存取管理。 法國約 700 家超市受害，CERT-FR 發布警報 第一波攻擊發生在 10 月 11 日夜間，法國數百家超市的冷藏設備遭遠端調高溫度，部分門市還傳出火災。法國財政部長 Roland Lescure 在國會表示，全國約 1 萬家超市中約 700 家受到影響，但糧食供應沒有風險。巴黎檢察署指出這是一起大規模攻擊，已交由網路犯罪單位偵辦，而法國總理 Sébastien Lecornu 也下令國家資訊系統安全局（ANSSI）調查，並與歐洲各國協調。 法國政府電腦緊急應變中心（CERT-FR）於 10 月 12 日發布警報 CERTFR-2026-ALE-01…",
+    "matched_keywords": [
+      "Security",
+      "TWCERT",
+      "Watchgraph:agriculture_food_fertilizer"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "agriculture_food_fertilizer"
+    ],
+    "watchgraph_reasons": [
+      "agriculture_food_fertilizer: corn"
+    ],
+    "market_context": [
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "aeb5cd8af5462b2693dc"
+  },
+  {
     "title": "Information asymmetry didn’t die in 2026. It just learned better PR",
     "url": "https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/",
     "source": "e27 Asia Startup and Tech Feed",

@@ -1,6 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-11-04T08:37:38+00:00_
+_Generiert: 2026-11-04T08:43:27+00:00_
 
-Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
+## 歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險
+
+- Ranking Score: `28.5`
+- Raw Network Score: `37.7`
+- Max Monitor Score: `14`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `nein`
+- Dominanter Emitter: `nein`
+- Quellen: TWCERT/CC Security News RSS, TWCERT/CC TVN Vulnerability Notes RSS
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: ja
+- Momentum: increasing (+1)
+- Erste Quelle: https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html
+- Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 

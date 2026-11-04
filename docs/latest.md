@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T08:37:34+00:00_
+_Generiert: 2026-11-04T08:43:24+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+33 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Airbyteには、不適切なクラスロードにより想定外のコンポーネントを読み込むことができるため、任意のコード実行が可能となる脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險** — Score 14, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-11-04T08:40:00+00:00`, fetched `2026-11-04T08:42:56+00:00`
+  - Treffer: Security, TWCERT, Watchgraph:agriculture_food_fertilizer
+  - Watchgraph: agriculture_food_fertilizer
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
+  - Kurz: 2026 年 10 月起，歐洲超市的冷凍及冷藏設備接連遭到網路攻擊。攻擊者遠端修改設備的溫度與除霜設定，導致大量食品報廢。事件先發生在法國，11 月初再擴及比利時、荷蘭、瑞典、愛爾蘭等國。法國、荷蘭等國的資安機關已陸續發布警示，提醒業者檢視冷凍設備遠端監控系統的連網與存取管理。 法國約 700 家超市受害，CERT-FR 發布警報 第一波攻擊發生在 10 月 11 日夜間，法國數百家超市的冷藏設備遭遠端調高溫度，部分門市還傳出火災。法國財政部長 Roland Lescure 在國會表示，全國約 1 萬家超市中約 700 家受到影響，但糧食供應沒有風險。巴黎檢察署指出這是一起大規模攻擊，已交由網路犯罪單位偵辦，而法國總理 Sébastien Lecornu 也下令國家資訊系統安全局（ANSSI）調查，並與歐洲各國協調。 法國政府電腦緊急應變中心（CERT-FR）於 10 月 12 日發布警報 CERTFR-2026-ALE-01…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Information asymmetry didn’t die in 2026. It just learned better PR** — Score 14, observation — [Quelle](https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-04T02:00:40+00:00`, fetched `2026-11-04T02:11:54+00:00`
