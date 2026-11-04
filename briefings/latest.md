@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T12:00:38+00:00_
+_Generiert: 2026-11-04T12:19:01+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+53 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -226,6 +226,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に** — Score 11, observation — [Quelle](https://gigazine.net/news/20261104-ram-altman/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-04T07:56:21+00:00`, fetched `2026-11-04T12:18:33+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: OpenAIのサム・アルトマンCEOがXのアカウント名を「Ram Altman」に変更しました。 Ram Altman（@sama）さん / X https://x.com/sama OpenAIをはじめとするAI企業はAIの開発およびサービス展開のために膨大な数のメモリを購入しており、世界的なメモリ不足を引き起こしています。個人ユーザー向けのRAMの価格も急騰してお...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **關於時間科技｜Herowatch Go Server - Insecure Direct Object Reference** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11366-d92ac-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-11-04T06:18:00+00:00`, fetched `2026-11-04T06:40:06+00:00`
@@ -252,6 +261,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0)
   - Kurz: Ask a chatbot whether human activity is warming the planet and you will almost certainly get the right answer. Argue with it for a turn or two and, according to a new study from UNESCO and University College London, there is a fair chance it will start agreeing with you instead. The report, which UNESCO […] The post AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst appeared first o…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ** — Score 10, observation — [Quelle](https://chimolog.co/strata-guide/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-04T09:44:17+00:00`, fetched `2026-11-04T12:18:33+00:00`
+  - Treffer: Content-Chance, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ローカル生成AIに真の民主化をもたらした推論エンジン「Strata」が凄いらしいけど、イマイチ使い方が分からないし、そもそも「凄さ」が分からない。 そう感じている自作PCユーザーが意外と少なくないので、本記事でStrataの使い方を解説します。すでに知ってる人からすれば当たり前の内容も多いですが、誰だって最初は初...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -289,24 +307,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/education/2025report)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-04T06:00:00+00:00`, fetched `2026-11-04T06:11:51+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **BYOK and enterprise custom models in the Copilot usage API** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-04T00:32:19+00:00`, fetched `2026-11-04T01:06:05+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
-  - Kurz: The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -317,7 +317,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)

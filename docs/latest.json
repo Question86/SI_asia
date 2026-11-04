@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-04T12:00:38+00:00",
-  "run_id": "2026-11-04T12:00:38+00:00",
+  "generated_at": "2026-11-04T12:19:01+00:00",
+  "run_id": "2026-11-04T12:19:01+00:00",
   "date": "2026-11-04",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 51
+      "configured_public_sources_only": 53
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "new_relevant_findings": 2,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
     "medium": 23,
-    "observe": 28,
-    "source_errors": 1
+    "observe": 30,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -753,6 +753,28 @@
         "id": "8cc17104c7d02fa3b23f"
       },
       {
+        "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
+        "url": "https://gigazine.net/news/20261104-ram-altman/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-04T07:56:21+00:00",
+        "fetched_at": "2026-11-04T12:18:33+00:00",
+        "summary": "OpenAIのサム・アルトマンCEOがXのアカウント名を「Ram Altman」に変更しました。 Ram Altman（@sama）さん / X https://x.com/sama OpenAIをはじめとするAI企業はAIの開発およびサービス展開のために膨大な数のメモリを購入しており、世界的なメモリ不足を引き起こしています。個人ユーザー向けのRAMの価格も急騰してお...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "02f8c81e28c7f76be1dd"
+      },
+      {
         "title": "關於時間科技｜Herowatch Go Server - Insecure Direct Object Reference",
         "url": "https://www.twcert.org.tw/tw/cp-132-11366-d92ac-1.html",
         "source": "TWCERT/CC TVN Vulnerability Notes RSS",
@@ -902,6 +924,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "afe020d051962ebc7866"
+      },
+      {
+        "title": "ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ",
+        "url": "https://chimolog.co/strata-guide/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-04T09:44:17+00:00",
+        "fetched_at": "2026-11-04T12:18:33+00:00",
+        "summary": "ローカル生成AIに真の民主化をもたらした推論エンジン「Strata」が凄いらしいけど、イマイチ使い方が分からないし、そもそも「凄さ」が分からない。 そう感じている自作PCユーザーが意外と少なくないので、本記事でStrataの使い方を解説します。すでに知ってる人からすれば当たり前の内容も多いですが、誰だって最初は初...",
+        "matched_keywords": [
+          "Content-Chance",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9464383e3278174c6b3b"
       },
       {
         "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
@@ -1973,6 +2017,28 @@
       "id": "8cc17104c7d02fa3b23f"
     },
     {
+      "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
+      "url": "https://gigazine.net/news/20261104-ram-altman/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-04T07:56:21+00:00",
+      "fetched_at": "2026-11-04T12:18:33+00:00",
+      "summary": "OpenAIのサム・アルトマンCEOがXのアカウント名を「Ram Altman」に変更しました。 Ram Altman（@sama）さん / X https://x.com/sama OpenAIをはじめとするAI企業はAIの開発およびサービス展開のために膨大な数のメモリを購入しており、世界的なメモリ不足を引き起こしています。個人ユーザー向けのRAMの価格も急騰してお...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "02f8c81e28c7f76be1dd"
+    },
+    {
       "title": "關於時間科技｜Herowatch Go Server - Insecure Direct Object Reference",
       "url": "https://www.twcert.org.tw/tw/cp-132-11366-d92ac-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
@@ -2122,6 +2188,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "afe020d051962ebc7866"
+    },
+    {
+      "title": "ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ",
+      "url": "https://chimolog.co/strata-guide/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-04T09:44:17+00:00",
+      "fetched_at": "2026-11-04T12:18:33+00:00",
+      "summary": "ローカル生成AIに真の民主化をもたらした推論エンジン「Strata」が凄いらしいけど、イマイチ使い方が分からないし、そもそも「凄さ」が分からない。 そう感じている自作PCユーザーが意外と少なくないので、本記事でStrataの使い方を解説します。すでに知ってる人からすれば当たり前の内容も多いですが、誰だって最初は初...",
+      "matched_keywords": [
+        "Content-Chance",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9464383e3278174c6b3b"
     },
     {
       "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
@@ -2469,15 +2557,53 @@
       "id": "6d07835e6d2c1099505b"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "cert_eu_security_advisories",
-      "source_name": "CERT-EU Security Advisories",
+      "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
+      "url": "https://gigazine.net/news/20261104-ram-altman/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-11-04T07:56:21+00:00",
+      "fetched_at": "2026-11-04T12:18:33+00:00",
+      "summary": "OpenAIのサム・アルトマンCEOがXのアカウント名を「Ram Altman」に変更しました。 Ram Altman（@sama）さん / X https://x.com/sama OpenAIをはじめとするAI企業はAIの開発およびサービス展開のために膨大な数のメモリを購入しており、世界的なメモリ不足を引き起こしています。個人ユーザー向けのRAMの価格も急騰してお...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "02f8c81e28c7f76be1dd"
+    },
+    {
+      "title": "ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ",
+      "url": "https://chimolog.co/strata-guide/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-04T09:44:17+00:00",
+      "fetched_at": "2026-11-04T12:18:33+00:00",
+      "summary": "ローカル生成AIに真の民主化をもたらした推論エンジン「Strata」が凄いらしいけど、イマイチ使い方が分からないし、そもそも「凄さ」が分からない。 そう感じている自作PCユーザーが意外と少なくないので、本記事でStrataの使い方を解説します。すでに知ってる人からすれば当たり前の内容も多いですが、誰だって最初は初...",
+      "matched_keywords": [
+        "Content-Chance",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9464383e3278174c6b3b"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
