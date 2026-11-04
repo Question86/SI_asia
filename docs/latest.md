@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T07:51:19+00:00_
+_Generiert: 2026-11-04T07:58:50+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+30 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Eight systems, one number: How DVI Group fixed the back office its pandemic boom broke** — Score 15, risk — [Quelle](https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-04T07:57:24+00:00`, fetched `2026-11-04T07:58:19+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Watchgraph:public_health_biosecurity
+  - Watchgraph: public_health_biosecurity
+  - Markt-/Kontextkorb: PFE, MRNA, BNTX, GSK, AZN, TMO, DHR
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules public_health_biosecurity (+3.0)
+  - Kurz: Four years ago, DVI Group’s management team sat down for what should have been a routine meeting. Sales, finance, delivery and customer service each brought a spreadsheet tracking the company’s live contracts. Each spreadsheet carried a different number. “It was shocking,” recalls Tanish Dhillon, General Manager at the Singapore-headquartered audio-visual (AV) integrator. “How are we […] The post Eight systems, one…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Hinemosにおける不適切な権限の割り当ての脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN46901199/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-04T16:00:00+09:00`, fetched `2026-11-04T07:05:44+00:00`
