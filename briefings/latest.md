@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T23:32:28+00:00_
+_Generiert: 2026-11-04T23:46:46+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+87 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -103,6 +103,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **エンジニアはAIのせいで燃え尽き、働く意欲を失い、アイデンティティ喪失の危機に直面している【3万人調査】 | Business Insider Japan** — Score 16, observation — [Quelle](https://www.businessinsider.jp/article/2610-developers-are-burned-out-as-ai-coding-reshapes-work-survey/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-04T10:51:18+00:00`, fetched `2026-11-04T23:46:18+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, developer, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 開発者はAIコーディングを活用してはいるが、多くは疲弊し、自分は時代遅れだと感じ、AIを信頼できずにいる。Morteza Nikoubazl/NurPhoto via Getty Images プログラマー向けQ&amp;Aサイトのスタック・オーバーフローの調査によると、AIコーディングツールは作業を効率化する一方で、エンジニアに不安と疲弊をもたらしている...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU91151184/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-04T10:15:00+09:00`, fetched `2026-11-04T01:16:42+00:00`
@@ -174,15 +183,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
   - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: 2026 年 10 月起，歐洲超市的冷凍及冷藏設備接連遭到網路攻擊。攻擊者遠端修改設備的溫度與除霜設定，導致大量食品報廢。事件先發生在法國，11 月初再擴及比利時、荷蘭、瑞典、愛爾蘭等國。法國、荷蘭等國的資安機關已陸續發布警示，提醒業者檢視冷凍設備遠端監控系統的連網與存取管理。 法國約 700 家超市受害，CERT-FR 發布警報 第一波攻擊發生在 10 月 11 日夜間，法國數百家超市的冷藏設備遭遠端調高溫度，部分門市還傳出火災。法國財政部長 Roland Lescure 在國會表示，全國約 1 萬家超市中約 700 家受到影響，但糧食供應沒有風險。巴黎檢察署指出這是一起大規模攻擊，已交由網路犯罪單位偵辦，而法國總理 Sébastien Lecornu 也下令國家資訊系統安全局（ANSSI）調查，並與歐洲各國協調。 法國政府電腦緊急應變中心（CERT-FR）於 10 月 12 日發布警報 CERTFR-2026-ALE-01…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Information asymmetry didn’t die in 2026. It just learned better PR** — Score 14, observation — [Quelle](https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-04T02:00:40+00:00`, fetched `2026-11-04T02:11:54+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: In the same month a leading fintech publication declared that “information asymmetry is dead,” Singapore’s largest bank was teaching its flagship AI assistant to handle card refunds. Both claims are about artificial intelligence. Neither describes the same world. The claim making the rounds The Fintech Times’ 2026 banking trends report argues that agentic AI has […] The post Information asymmetry didn’t die in 2026.…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
