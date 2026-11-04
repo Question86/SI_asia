@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-04T12:41:43Z_
+_Generated: 2026-11-04T13:10:57Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Android Patchday Novembe
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-11-04T11:40:48+00:00` / age_days `0.04`
+- Published: `2026-11-04T11:40:48+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,47 +22,67 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Android Patchday Novembe
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-11-04T09:34:01+00:00` / age_days `0.13`
+- Published: `2026-11-04T09:34:01+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305
 
-### [NEU] [hoch] Google Chrome: Mehrere Schwachstellen
+### [UPDATE] [hoch] dnsmasq: Mehrere Schwachstellen
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-11-04T09:29:01+00:00` / age_days `0.13`
+- Published: `2026-11-04T13:04:02+00:00` / age_days `0.0`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, code, security high-signal: angriffe, code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303
+- Warum: high terms: code, domain, root, security high-signal: code, domain, root
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1468
+
+### [NEU] [mittel] Laravel: Schwachstelle ermöglicht Codeausführung
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `31.0`
+- Published: `2026-11-04T13:04:01+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, auth, security high-signal: code, auth
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4340
 
 ### 歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T11:28:55+00:00` / age_days `138.05`
+- Published: `2026-06-19T11:28:55+00:00` / age_days `138.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: source breadth +2, momentum delta +3, baseline z_hint 4.22, high terms: rce, security high-signal: rce, aging penalty -8.0 for 138.1d old signal, extreme gate recheck: insufficient independent/current evidence
+- Warum: source breadth +2, momentum delta +3, baseline z_hint 3.50, high terms: rce, security high-signal: rce, aging penalty -8.0 for 138.1d old signal, extreme gate recheck: insufficient independent/current evidence
 - Quelle: https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html
 
 ### Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `138.92`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `138.94`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: source breadth +2, momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 138.9d old signal, extreme gate recheck: insufficient independent/current evidence
 - Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html
 
+### [NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-11-04T12:54:02+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4334
+
 ### [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T11:19:02+00:00` / age_days `0.06`
+- Published: `2026-11-04T11:19:02+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Android Patchday Novembe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-03T08:51:58+00:00` / age_days `1.16`
+- Published: `2026-11-03T08:51:58+00:00` / age_days `1.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,50 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Android Patchday Novembe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T07:57:24+00:00` / age_days `0.2`
+- Published: `2026-11-04T07:57:24+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/
 
-### [NEU] [hoch] SolarWinds Dameware: Mehrere Schwachstellen
+### [NEU] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T10:19:01+00:00` / age_days `0.1`
+- Published: `2026-11-04T12:54:03+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4337
+
+### [NEU] [mittel] Apache OpenOffice: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-11-04T12:54:01+00:00` / age_days `0.01`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311
-
-### [NEU] [hoch] Emerson Ovation: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-04T10:19:01+00:00` / age_days `0.1`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313
-
-### [NEU] [hoch] Docker Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-04T10:14:01+00:00` / age_days `0.1`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310
-
-### 歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-04T08:40:00+00:00` / age_days `0.17`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4332
 
 END OF DOCUMENT
