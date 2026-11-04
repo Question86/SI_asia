@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T16:34:01+00:00",
-  "today_file_total": 75,
+  "generated_at": "2026-11-04T16:41:22+00:00",
+  "today_file_total": 76,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -395,6 +395,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:japan.cnet.com",
+      "title": "ドコモ社長、5G基地局がKDDIやソフトバンクより少ない理由を説明",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://japan.cnet.com/article/35254374/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:your-startup-should-think-about-scaling-not-surviving",
       "title": "Your startup should think about scaling, not surviving",
       "sources": [
@@ -461,31 +484,6 @@
       "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:afore-funded-him-flew-him-then-watched-him",
-      "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]

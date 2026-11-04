@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T16:33:57+00:00_
+_Generiert: 2026-11-04T16:41:19+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+76 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -231,14 +231,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0)
   - Kurz: Ask a chatbot whether human activity is warming the planet and you will almost certainly get the right answer. Argue with it for a turn or two and, according to a new study from UNESCO and University College London, there is a fair chance it will start agreeing with you instead. The report, which UNESCO […] The post AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst appeared first o…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ** — Score 10, observation — [Quelle](https://chimolog.co/strata-guide/)
+- **ドコモ社長、5G基地局がKDDIやソフトバンクより少ない理由を説明** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254374/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-04T09:44:17+00:00`, fetched `2026-11-04T12:18:33+00:00`
-  - Treffer: Content-Chance, Hatena, hotentry
+  - Zeit: published `2026-11-04T10:06:48+00:00`, fetched `2026-11-04T16:40:50+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ローカル生成AIに真の民主化をもたらした推論エンジン「Strata」が凄いらしいけど、イマイチ使い方が分からないし、そもそも「凄さ」が分からない。 そう感じている自作PCユーザーが意外と少なくないので、本記事でStrataの使い方を解説します。すでに知ってる人からすれば当たり前の内容も多いですが、誰だって最初は初...
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: NTTドコモの前田義晃社長は11月4日の決算説明会で、同社の5G基地局数が他社（KDDIやソフトバンク）より少ない理由について、通信容量を確保できるサブ6（3.7GHz帯、4.5GHz帯）の整備を優先しているためだと説明した。4Gの周波数を5Gに転用するには、基地局を収容する装置の交換工事が必要だという。また、2026年度の設備...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vulnérabilité dans CPython (30 octobre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1423/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
