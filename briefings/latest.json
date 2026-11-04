@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T09:55:39+00:00",
-  "run_id": "2026-11-04T09:55:39+00:00",
+  "generated_at": "2026-11-04T10:28:16+00:00",
+  "run_id": "2026-11-04T10:28:16+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 40
+      "configured_public_sources_only": 46
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 6,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
-    "medium": 15,
+    "medium": 21,
     "observe": 25,
     "source_errors": 0
   },
@@ -285,6 +285,98 @@
         "id": "cf953416d96f91f85630"
       },
       {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T10:24:01+00:00",
+        "fetched_at": "2026-11-04T10:27:48+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen, um falsche Informationen darzustellen und um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "203f538a803d6b03a87b"
+      },
+      {
+        "title": "[NEU] [mittel] IBM AIX und VIOS (Perl): Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4312",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T10:19:01+00:00",
+        "fetched_at": "2026-11-04T10:27:48+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM AIX und IBM VIOS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bdaee926ed5c243b817a"
+      },
+      {
+        "title": "[NEU] [hoch] SolarWinds Dameware: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T10:19:01+00:00",
+        "fetched_at": "2026-11-04T10:27:48+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in SolarWinds Dameware ausnutzen, um beliebigen Programmcode auszuführen oder Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eeeb1e5cda4088a89775"
+      },
+      {
+        "title": "[NEU] [hoch] Emerson Ovation: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T10:19:01+00:00",
+        "fetched_at": "2026-11-04T10:27:48+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Emerson Ovation ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, beliebigen Programmcode auszuführen, oder einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "023e91ecdc1667681036"
+      },
+      {
         "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
         "url": "https://jvn.jp/vu/JVNVU99859918/",
         "source": "JVN Japan Vulnerability Notes",
@@ -327,6 +419,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d860cc2cbd08452108bb"
+      },
+      {
+        "title": "[NEU] [hoch] Docker Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T10:14:01+00:00",
+        "fetched_at": "2026-11-04T10:27:48+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Docker Desktop ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "842da3245e96b6d9f18e"
+      },
+      {
+        "title": "[NEU] [mittel] IBM TXSeries: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4309",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T10:09:02+00:00",
+        "fetched_at": "2026-11-04T10:27:48+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM TXSeries ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c7f1ff07c6088afb888b"
       },
       {
         "title": "[NEU] [hoch] Mozilla Firefox: Schwachstelle ermöglicht nicht spezifizierten Angriff",
@@ -1259,6 +1397,98 @@
       "id": "cf953416d96f91f85630"
     },
     {
+      "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:24:01+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen, um falsche Informationen darzustellen und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "203f538a803d6b03a87b"
+    },
+    {
+      "title": "[NEU] [mittel] IBM AIX und VIOS (Perl): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4312",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:19:01+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM AIX und IBM VIOS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bdaee926ed5c243b817a"
+    },
+    {
+      "title": "[NEU] [hoch] SolarWinds Dameware: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:19:01+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in SolarWinds Dameware ausnutzen, um beliebigen Programmcode auszuführen oder Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eeeb1e5cda4088a89775"
+    },
+    {
+      "title": "[NEU] [hoch] Emerson Ovation: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:19:01+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Emerson Ovation ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, beliebigen Programmcode auszuführen, oder einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "023e91ecdc1667681036"
+    },
+    {
       "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU99859918/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1301,6 +1531,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d860cc2cbd08452108bb"
+    },
+    {
+      "title": "[NEU] [hoch] Docker Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:14:01+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Docker Desktop ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "842da3245e96b6d9f18e"
+    },
+    {
+      "title": "[NEU] [mittel] IBM TXSeries: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4309",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:09:02+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM TXSeries ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c7f1ff07c6088afb888b"
     },
     {
       "title": "[NEU] [hoch] Mozilla Firefox: Schwachstelle ermöglicht nicht spezifizierten Angriff",
@@ -1975,25 +2251,142 @@
   ],
   "new_findings": [
     {
-      "title": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261104de70494",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-04T09:17:59+00:00",
-      "fetched_at": "2026-11-04T09:55:13+00:00",
-      "summary": "「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。 この中には、すでに期限切れとなっているカードも多く含ま…",
+      "published_at": "2026-11-04T10:24:01+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen, um falsche Informationen darzustellen und um Informationen offenzulegen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4d7814aec55dff301162"
+      "id": "203f538a803d6b03a87b"
+    },
+    {
+      "title": "[NEU] [hoch] Emerson Ovation: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:19:01+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Emerson Ovation ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, beliebigen Programmcode auszuführen, oder einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "023e91ecdc1667681036"
+    },
+    {
+      "title": "[NEU] [mittel] IBM AIX und VIOS (Perl): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4312",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:19:01+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM AIX und IBM VIOS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bdaee926ed5c243b817a"
+    },
+    {
+      "title": "[NEU] [hoch] SolarWinds Dameware: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:19:01+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in SolarWinds Dameware ausnutzen, um beliebigen Programmcode auszuführen oder Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eeeb1e5cda4088a89775"
+    },
+    {
+      "title": "[NEU] [hoch] Docker Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:14:01+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Docker Desktop ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "842da3245e96b6d9f18e"
+    },
+    {
+      "title": "[NEU] [mittel] IBM TXSeries: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4309",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:09:02+00:00",
+      "fetched_at": "2026-11-04T10:27:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM TXSeries ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c7f1ff07c6088afb888b"
     }
   ],
   "source_errors": [],

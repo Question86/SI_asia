@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T09:55:41+00:00",
+  "generated_at": "2026-11-04T10:28:18+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -239,7 +239,7 @@
     },
     "earthquake:philippines:5.0": {
       "title": "M 5.0 - 207 km ESE of Sarangani, Philippines",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -263,8 +263,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -1019,9 +1019,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
-        27.3,
         27.3,
         27.3,
         27.3,
@@ -1050,12 +1049,13 @@
         14.1,
         25.2,
         22.2,
+        22.2,
         22.2
       ],
-      "rolling_average": 25.23,
+      "rolling_average": 25.06,
       "rolling_peak": 27.3,
       "last_score": 22.2,
-      "z_hint": -3.03
+      "z_hint": -2.86
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -2955,7 +2955,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -3749,12 +3749,12 @@
     },
     "domain:qiita.com": {
       "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -4408,7 +4408,7 @@
     },
     "domain:www.heise.de": {
       "title": "Barracuda: Root-Sicherheitslücke bedroht unter anderem Email Security Gateway",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         13.3,
         13.3,
@@ -4437,14 +4437,14 @@
         13.3,
         13.3,
         13.3,
-        13.3,
         13.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 13.19,
+      "rolling_average": 13.08,
       "rolling_peak": 13.3,
       "last_score": 10.1,
-      "z_hint": -3.09
+      "z_hint": -2.98
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -4748,9 +4748,8 @@
     },
     "domain:www.twcert.org": {
       "title": "歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
-        22.1,
         22.1,
         22.1,
         22.1,
@@ -4779,12 +4778,13 @@
         34.7,
         34.7,
         34.7,
+        34.7,
         34.7
       ],
-      "rolling_average": 26.28,
+      "rolling_average": 26.7,
       "rolling_peak": 37.7,
       "last_score": 34.7,
-      "z_hint": 8.42
+      "z_hint": 8.0
     },
     "cve:CVE-2025-55182": {
       "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
@@ -5952,9 +5952,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
-        49.6,
         49.6,
         49.6,
         49.6,
@@ -5983,12 +5982,13 @@
         49.6,
         24.2,
         25.3,
-        22.3
+        22.3,
+        52.9
       ],
-      "rolling_average": 47.03,
-      "rolling_peak": 49.6,
-      "last_score": 22.3,
-      "z_hint": -24.73
+      "rolling_average": 47.14,
+      "rolling_peak": 52.9,
+      "last_score": 52.9,
+      "z_hint": 5.76
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -10376,9 +10376,8 @@
     },
     "domain:note.com": {
       "title": "マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
-        6.1,
         6.1,
         6.1,
         6.1,
@@ -10407,12 +10406,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.87,
+      "rolling_average": 7.9,
       "rolling_peak": 12.2,
       "last_score": 7.1,
-      "z_hint": -0.77
+      "z_hint": -0.8
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -16856,7 +16856,7 @@
     },
     "earthquake:m 5.0 - fiji region:5.0": {
       "title": "M 5.0 - Fiji region",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -104453,7 +104453,7 @@
     },
     "title:cli-agent-desktop": {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -104493,7 +104493,7 @@
     },
     "title:could-agents-break-fractional-reserve-banking": {
       "title": "Could AI agents break fractional-reserve banking?",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         21.1,
         21.1,
@@ -104533,7 +104533,7 @@
     },
     "title:byok-enterprise-custom-models-copilot-usage-api": {
       "title": "BYOK and enterprise custom models in the Copilot usage API",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -104573,7 +104573,7 @@
     },
     "title:infinitt-healthcare-infinitt-pacs-system-manager": {
       "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -104613,7 +104613,7 @@
     },
     "title:android-basechat-audio-dating-app": {
       "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -104653,7 +104653,7 @@
     },
     "cve:CVE-2026-58882": {
       "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -104693,7 +104693,7 @@
     },
     "title:information-asymmetry-didn-die-2026-just-learned-better": {
       "title": "Information asymmetry didn’t die in 2026. It just learned better PR",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -104733,7 +104733,7 @@
     },
     "title:airbyte": {
       "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -104773,7 +104773,7 @@
     },
     "title:akeeba": {
       "title": "複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -104813,7 +104813,7 @@
     },
     "title:use-outreach-without-outsourcing-judgement": {
       "title": "How I use AI for outreach without outsourcing judgement",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -104853,7 +104853,7 @@
     },
     "title:your-startup-should-think-about-scaling-not-surviving": {
       "title": "Your startup should think about scaling, not surviving",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -104882,18 +104882,20 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.21,
+      "rolling_average": 14.2,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:two-interviews-coding-test-fake-job-opened-binance": {
       "title": "Two interviews and a coding test: How a fake job opened Binance to North Korea",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -104922,16 +104924,17 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.21,
+      "rolling_average": 7.2,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:true-rgb-sponsored": {
       "title": "「黙ってブラビアを買いなさい。」アワード大賞受賞モデル“True RGB”の価値と魅力を語りつくす！[Sponsored]",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -104964,7 +104967,7 @@
     },
     "title:afore-funded-him-flew-him-then-watched-him": {
       "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -104985,16 +104988,17 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.25,
+      "rolling_average": 13.24,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "domain:applech2.com": {
       "title": "Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -105015,16 +105019,47 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.25,
+      "rolling_average": 7.24,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "url:https://www.digital.go.jp/policies/education/2025report": {
       "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 8.25,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -0.15
+    },
+    "url:https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf": {
+      "title": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -105051,37 +105086,9 @@
       "last_score": 8.1,
       "z_hint": -0.16
     },
-    "url:https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf": {
-      "title": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
-      "updated_at": "2026-11-04T09:55:41+00:00",
-      "network_scores": [
-        11.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1
-      ],
-      "rolling_average": 8.27,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -0.17
-    },
     "title:hinemos": {
       "title": "Hinemosにおける不適切な権限の割り当ての脆弱性",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -105096,16 +105103,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.31,
+      "rolling_average": 16.3,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "github_repo:max-sixty/worktrunk": {
       "title": "max-sixty/worktrunk",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         18.1,
         15.1,
@@ -105117,16 +105125,17 @@
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.37,
+      "rolling_average": 15.35,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:eight-systems-one-number-dvi-group-fixed-back": {
       "title": "Eight systems, one number: How DVI Group fixed the back office its pandemic boom broke",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -105135,36 +105144,39 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.47,
+      "rolling_average": 17.43,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.37
+      "z_hint": -0.33
     },
     "title:why-multiable-hcm-best-hris-singapore-public-companies": {
       "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
         15.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 12.85,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:109-nhk": {
       "title": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ | NHKニュース",
-      "updated_at": "2026-11-04T09:55:41+00:00",
+      "updated_at": "2026-11-04T10:28:18+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }
