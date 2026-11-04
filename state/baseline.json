@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T00:00:22+00:00",
+  "generated_at": "2026-11-04T00:29:28+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -104449,6 +104449,17 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -0.75
+    },
+    "title:cli-agent-desktop": {
+      "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
+      "updated_at": "2026-11-04T00:29:28+00:00",
+      "network_scores": [
+        21.1
+      ],
+      "rolling_average": 21.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 0.0
     }
   }
 }
