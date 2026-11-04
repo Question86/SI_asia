@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T07:28:50+00:00_
+_Generated: 2026-11-04T07:36:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `29`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-04T07:28:50+00:00_
 - url: https://jvn.jp/jp/JVN46901199/
 - summary: 株式会社NTTデータ先端技術が提供するHinemosには、不適切な権限の割り当ての脆弱性が存在します。
 
-### 5. 關於時間科技｜Herowatch Go - Security Misconfiguration
+### 5. max-sixty/worktrunk
+- source: GitHub Trending RSS All Languages Daily
+- score: `13`
+- published: `None`
+- url: https://github.com/max-sixty/worktrunk
+- summary: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows https://worktrunk.dev Worktrunk November 2026 : Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built…
+
+### 6. 關於時間科技｜Herowatch Go - Security Misconfiguration
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `12`
 - published: `2026-11-04T05:55:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html
 - summary: 關於時間科技｜Herowatch Go - Security Misconfiguration
 
-### 6. 關於時間科技｜Herowatch Go - Security Misconfiguration
+### 7. 關於時間科技｜Herowatch Go - Security Misconfiguration
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `12`
 - published: `2026-11-04T05:55:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11361-55d70-1.html
 - summary: 關於時間科技｜Herowatch Go - Security Misconfiguration
 
-### 7. Your startup should think about scaling, not surviving
+### 8. Your startup should think about scaling, not surviving
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-04T04:00:18+00:00`
 - url: https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/
 - summary: The biggest threat to every startup is short-sightedness. Quick decisions, wrong partners, disproportionate risks, team hires. Every wrong decision needs to be fixed in the medium term. What this causes is disruption, loss of pace, pain, burned money, and som…
-
-### 8. Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-03T13:06:50+00:00`
-- url: https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/
-- summary: Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発...
 
 END OF DOCUMENT
