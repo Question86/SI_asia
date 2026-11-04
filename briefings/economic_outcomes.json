@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T20:34:19+00:00",
+  "generated_at": "2026-11-04T20:49:07+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -14393,13 +14393,13 @@
     {
       "event_id": "evt_939bd06a9c24c6be6df5",
       "title": "M 4.5 - 2 km W of Chinandega, Nicaragua",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_93bb97d293e7c3173f2f",
@@ -23122,7 +23122,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_ee7d273316f99f13b0e8",
