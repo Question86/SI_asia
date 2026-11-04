@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T04:12:14+00:00",
-  "run_id": "2026-11-04T04:12:14+00:00",
+  "generated_at": "2026-11-04T04:30:15+00:00",
+  "run_id": "2026-11-04T04:30:15+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 1,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 8,
-    "observe": 6,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -375,6 +375,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d6b967838bbaa9413bed"
+      },
+      {
+        "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
+        "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-03T13:02:09+00:00",
+        "fetched_at": "2026-11-04T04:29:43+00:00",
+        "summary": "⚖️ はじめに 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4d178b05daf5439e3323"
       }
     ]
   },
@@ -723,49 +744,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d6b967838bbaa9413bed"
+    },
+    {
+      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
+      "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-03T13:02:09+00:00",
+      "fetched_at": "2026-11-04T04:29:43+00:00",
+      "summary": "⚖️ はじめに 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4d178b05daf5439e3323"
     }
   ],
   "new_findings": [
     {
-      "title": "Your startup should think about scaling, not surviving",
-      "url": "https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
+      "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-04T04:00:18+00:00",
-      "fetched_at": "2026-11-04T04:11:43+00:00",
-      "summary": "The biggest threat to every startup is short-sightedness. Quick decisions, wrong partners, disproportionate risks, team hires. Every wrong decision needs to be fixed in the medium term. What this causes is disruption, loss of pace, pain, burned money, and sometimes the death of the startup. Getting these right separates those who scale quickly from those […] The post Your startup should think about scaling, not surv…",
+      "published_at": "2026-11-03T13:02:09+00:00",
+      "fetched_at": "2026-11-04T04:29:43+00:00",
+      "summary": "⚖️ はじめに 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみ...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Public Health"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a064ddad0eef5e890f5b"
-    },
-    {
-      "title": "Two interviews and a coding test: How a fake job opened Binance to North Korea",
-      "url": "https://e27.co/two-interviews-and-a-coding-test-how-a-fake-job-opened-binance-to-north-korea-20261104/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-04T04:01:15+00:00",
-      "fetched_at": "2026-11-04T04:11:43+00:00",
-      "summary": "Before North Korea’s hackers took US$6.4 billion from Binance, they took US$14.3 million from people most of us will never hear about. That second figure, from a new Chainalysis analysis, may matter more. Over the past 18 months, the blockchain analytics firm has linked more than US$14.3 million in losses to DPRK-linked fake job interview […] The post Two interviews and a coding test: How a fake job opened Binance t…",
-      "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
       "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d6b967838bbaa9413bed"
+      "id": "4d178b05daf5439e3323"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T04:12:14+00:00_
+_Generiert: 2026-11-04T04:30:15+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+15 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -122,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0)
   - Kurz: Before North Korea’s hackers took US$6.4 billion from Binance, they took US$14.3 million from people most of us will never hear about. That second figure, from a new Chainalysis analysis, may matter more. Over the past 18 months, the blockchain analytics firm has linked more than US$14.3 million in losses to DPRK-linked fake job interview […] The post Two interviews and a coding test: How a fake job opened Binance t…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita** — Score 5, observation — [Quelle](https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-03T13:02:09+00:00`, fetched `2026-11-04T04:29:43+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ⚖️ はじめに 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
