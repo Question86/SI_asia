@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T03:17:37+00:00",
-  "run_id": "2026-11-04T03:17:37+00:00",
+  "generated_at": "2026-11-04T03:27:57+00:00",
+  "run_id": "2026-11-04T03:27:57+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 12,
     "displayed_findings": 12,
     "high": 0,
@@ -643,29 +643,7 @@
       "id": "6f6cbd5db548786a0d0f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How I use AI for outreach without outsourcing judgement",
-      "url": "https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-04T03:00:20+00:00",
-      "fetched_at": "2026-11-04T03:17:08+00:00",
-      "summary": "I use AI regularly for prospecting and outreach. The useful part is not having it write a generic email to a long list of companies. It is helping me find a more relevant starting point: businesses that have put out a public signal which may match an offer I am making. That signal might be […] The post How I use AI for outreach without outsourcing judgement appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4ddfcb0cb5bfb5d5e04c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
