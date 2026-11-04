@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T05:57:05+00:00",
-  "today_file_total": 23,
+  "generated_at": "2026-11-04T06:12:26+00:00",
+  "today_file_total": 24,
   "current_clusters": [
     {
       "key": "domain:www.twcert.org",
@@ -22,12 +22,12 @@
       "max_score": 12,
       "credibility_total": 5.25,
       "cross_source_confirmed": false,
-      "momentum_delta": 5,
-      "momentum_status": "increasing",
-      "network_score": 37.5,
-      "hot": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.5,
+      "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:could-agents-break-fractional-reserve-banking",
@@ -216,31 +216,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:afore-funded-him-flew-him-then-watched-him",
-      "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:your-startup-should-think-about-scaling-not-surviving",
       "title": "Your startup should think about scaling, not surviving",
       "sources": [
@@ -287,6 +262,31 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "title:afore-funded-him-flew-him-then-watched-him",
+      "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:m 5.0 - fiji region:5.0",
       "title": "M 5.0 - Fiji region",
       "sources": [
@@ -312,6 +312,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "url:https://www.digital.go.jp/policies/education/2025report",
+      "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/policies/education/2025report"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:use-outreach-without-outsourcing-judgement",
       "title": "How I use AI for outreach without outsourcing judgement",
       "sources": [
@@ -329,29 +352,6 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:applech2.com",
-      "title": "Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
       "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -391,6 +391,29 @@
       ],
       "urls": [
         "https://e27.co/two-interviews-and-a-coding-test-how-a-fake-job-opened-binance-to-north-korea-20261104/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:applech2.com",
+      "title": "Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html"
       ],
       "finding_count": 1,
       "max_score": 5,
