@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T07:36:52+00:00",
-  "run_id": "2026-11-04T07:36:52+00:00",
+  "generated_at": "2026-11-04T07:43:08+00:00",
+  "run_id": "2026-11-04T07:43:08+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 29,
     "displayed_findings": 29,
     "high": 0,
@@ -1411,31 +1411,7 @@
       "id": "4d178b05daf5439e3323"
     }
   ],
-  "new_findings": [
-    {
-      "title": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-11-04T07:36:24+00:00",
-      "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows https://worktrunk.dev Worktrunk November 2026 : Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built with love (there's no slop!). Please let me know any frictions at all; I'm intensely focused on continuing to make Worktrunk excellent, and the biggest help is…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "003072715f188a8653c6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
