@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-04T01:39:34Z",
+  "generated_at": "2026-11-04T02:38:09Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU99859918/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:30+09:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU92281274/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:15+09:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -59,11 +59,35 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "Information asymmetry didn’t die in 2026. It just learned better PR",
+      "url": "https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-04T02:12:26+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T08:51:58+00:00",
-      "age_days": 0.7,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -88,8 +112,34 @@
       "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-04T01:17:12+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: critical",
+        "security high-signal: critical",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T13:06:50+00:00",
-      "age_days": 0.52,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
@@ -115,7 +165,7 @@
       "url": "https://jvn.jp/vu/JVNVU91151184/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -139,8 +189,35 @@
       "title": "Could AI agents break fractional-reserve banking?",
       "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-04T01:06:42+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Could AI agents break fractional-reserve banking?",
+      "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T01:00:35+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -163,52 +240,26 @@
       "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for their money back at the same time. Most [……"
     },
     {
-      "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
-      "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: critical",
-        "security high-signal: critical",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU99859918/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
-      "dynamics_score": 23.5,
+      "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -217,48 +268,22 @@
       "url": "https://jvn.jp/vu/JVNVU92281274/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "general"
-      ],
-      "dynamics_score": 23.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Could AI agents break fractional-reserve banking?",
-      "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-04T01:06:42+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
       ],
       "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -267,7 +292,7 @@
       "url": "https://jvn.jp/vu/JVNVU91151184/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 137.99,
+      "age_days": 138.03,
       "topics": [
         "general"
       ],
@@ -286,32 +311,6 @@
         "aging penalty -8.0 for 138.0d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
-      "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-04T00:29:28+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -323,8 +322,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 10,
-      "watch": 2
+      "strong": 11,
+      "watch": 1
     }
   }
 }
