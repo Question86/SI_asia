@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T06:40:40+00:00",
+  "generated_at": "2026-11-04T06:50:37+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2955,11 +2955,11 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -3749,7 +3749,7 @@
     },
     "domain:qiita.com": {
       "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -3769,8 +3769,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -4748,9 +4748,8 @@
     },
     "domain:www.twcert.org": {
       "title": "關於時間科技｜Herowatch Go - Security Misconfiguration",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
-        22.1,
         22.1,
         22.1,
         22.1,
@@ -4779,12 +4778,13 @@
         37.5,
         22.5,
         22.5,
-        27.6
+        27.6,
+        24.6
       ],
-      "rolling_average": 22.82,
+      "rolling_average": 22.91,
       "rolling_peak": 37.5,
-      "last_score": 27.6,
-      "z_hint": 4.78
+      "last_score": 24.6,
+      "z_hint": 1.69
     },
     "cve:CVE-2025-55182": {
       "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
@@ -16856,10 +16856,10 @@
     },
     "earthquake:m 5.0 - fiji region:5.0": {
       "title": "M 5.0 - Fiji region",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -104453,9 +104453,9 @@
     },
     "title:cli-agent-desktop": {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
-        21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -104486,16 +104486,17 @@
         18.1,
         18.1
       ],
-      "rolling_average": 18.2,
-      "rolling_peak": 21.1,
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
       "last_score": 18.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:could-agents-break-fractional-reserve-banking": {
       "title": "Could AI agents break fractional-reserve banking?",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         24.1,
+        21.1,
         21.1,
         21.1,
         21.1,
@@ -104532,9 +104533,10 @@
     },
     "title:byok-enterprise-custom-models-copilot-usage-api": {
       "title": "BYOK and enterprise custom models in the Copilot usage API",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         11.1,
+        8.1,
         8.1,
         8.1,
         8.1,
@@ -104571,7 +104573,7 @@
     },
     "title:infinitt-healthcare-infinitt-pacs-system-manager": {
       "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -104600,16 +104602,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.21,
+      "rolling_average": 16.2,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:android-basechat-audio-dating-app": {
       "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -104638,16 +104641,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.21,
+      "rolling_average": 16.2,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "cve:CVE-2026-58882": {
       "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -104676,16 +104680,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.21,
+      "rolling_average": 14.2,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:information-asymmetry-didn-die-2026-just-learned-better": {
       "title": "Information asymmetry didn’t die in 2026. It just learned better PR",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -104710,16 +104715,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.23,
+      "rolling_average": 16.22,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:airbyte": {
       "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -104739,16 +104745,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.26,
+      "rolling_average": 16.25,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:akeeba": {
       "title": "複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -104768,18 +104775,20 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.26,
+      "rolling_average": 16.25,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:use-outreach-without-outsourcing-judgement": {
       "title": "How I use AI for outreach without outsourcing judgement",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -104798,14 +104807,14 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.27,
+      "rolling_average": 10.26,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:your-startup-should-think-about-scaling-not-surviving": {
       "title": "Your startup should think about scaling, not surviving",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -104818,16 +104827,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.35,
+      "rolling_average": 14.33,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:two-interviews-coding-test-fake-job-opened-binance": {
       "title": "Two interviews and a coding test: How a fake job opened Binance to North Korea",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -104840,16 +104850,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.35,
+      "rolling_average": 7.33,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:true-rgb-sponsored": {
       "title": "「黙ってブラビアを買いなさい。」アワード大賞受賞モデル“True RGB”の価値と魅力を語りつくす！[Sponsored]",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -104859,44 +104870,61 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.43,
+      "rolling_average": 7.4,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:afore-funded-him-flew-him-then-watched-him": {
       "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         16.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.85,
+      "rolling_average": 13.7,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "domain:applech2.com": {
       "title": "Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "url:https://www.digital.go.jp/policies/education/2025report": {
       "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
-      "updated_at": "2026-11-04T06:40:40+00:00",
+      "updated_at": "2026-11-04T06:50:37+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 8.85,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -0.75
+    },
+    "url:https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf": {
+      "title": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
+      "updated_at": "2026-11-04T06:50:37+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -104906,18 +104934,6 @@
       "rolling_peak": 11.1,
       "last_score": 8.1,
       "z_hint": -1.0
-    },
-    "url:https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf": {
-      "title": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
-      "updated_at": "2026-11-04T06:40:40+00:00",
-      "network_scores": [
-        11.1,
-        8.1
-      ],
-      "rolling_average": 9.6,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -1.5
     }
   }
 }
