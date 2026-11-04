@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T02:55:23+00:00",
+  "generated_at": "2026-11-04T03:03:36+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -1090,6 +1090,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0b813922b86bfdce3ff0",
+      "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_0b8f55a038be7b409784",
@@ -12882,6 +12893,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_840d5c9eb75ca27fdfba",
+      "title": "複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_84359a53faa82f40db52",

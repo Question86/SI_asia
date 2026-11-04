@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T02:55:18+00:00",
+  "generated_at": "2026-11-04T03:03:29+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -759,7 +759,7 @@
       "p90_usd": 119200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:06:42+00:00",
-      "last_seen_at": "2026-11-04T02:54:58+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
       "status": "active"
     },
     {
@@ -6953,7 +6953,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T18:55:33+00:00",
-      "last_seen_at": "2026-11-04T02:54:58+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
       "status": "active"
     },
     {
@@ -12444,7 +12444,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-04T02:54:58+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
       "status": "active"
     },
     {
@@ -12597,7 +12597,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:17:12+00:00",
-      "last_seen_at": "2026-11-04T02:54:58+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
       "status": "active"
     },
     {
@@ -13702,7 +13702,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:17:12+00:00",
-      "last_seen_at": "2026-11-04T02:54:58+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
       "status": "active"
     },
     {
@@ -14097,6 +14097,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_0b813922b86bfdce3ff0",
+      "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T03:03:08+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_840d5c9eb75ca27fdfba",
+      "title": "複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T03:03:08+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -14263,7 +14297,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:17:12+00:00",
-      "last_seen_at": "2026-11-04T02:54:58+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
       "status": "active"
     },
     {
@@ -17460,7 +17494,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T00:29:28+00:00",
-      "last_seen_at": "2026-11-04T02:54:58+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
       "status": "active"
     },
     {
@@ -18140,7 +18174,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T02:12:26+00:00",
-      "last_seen_at": "2026-11-04T02:54:58+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
       "status": "active"
     },
     {
@@ -30741,7 +30775,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:06:42+00:00",
-      "last_seen_at": "2026-11-04T02:54:58+00:00",
+      "last_seen_at": "2026-11-04T03:03:08+00:00",
       "status": "active"
     },
     {
