@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-04T09:52:04Z",
+  "generated_at": "2026-11-04T10:51:50Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T09:34:01+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T09:29:01+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html",
       "source": "TWCERT/CC Security News RSS, TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 137.93,
+      "age_days": 137.97,
       "topics": [
         "general"
       ],
@@ -76,16 +76,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.84,
+      "baseline_z_hint": 7.16,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 8.84",
+        "baseline z_hint 7.16",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 137.9d old signal",
+        "aging penalty -8.0 for 138.0d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -95,7 +95,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 138.8,
+      "age_days": 138.85,
       "topics": [
         "general"
       ],
@@ -124,7 +124,7 @@
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T08:51:58+00:00",
-      "age_days": 1.04,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
@@ -150,7 +150,7 @@
       "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T07:57:24+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -173,11 +173,89 @@
       "summary": "Four years ago, DVI Group’s management team sat down for what should have been a routine meeting. Sales, finance, delivery and customer service each brought a spreadsheet tracking the company’s live contracts. Each spreadsheet carried a different number. “It was shocking,” recalls Tanish Dhillon, General Manager at th…"
     },
     {
+      "title": "[NEU] [hoch] SolarWinds Dameware: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-04T10:19:01+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in SolarWinds Dameware ausnutzen, um beliebigen Programmcode auszuführen oder Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[NEU] [hoch] Emerson Ovation: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-04T10:19:01+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Emerson Ovation ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, beliebigen Programmcode auszuführen, oder einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [hoch] Docker Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-04T10:14:01+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Docker Desktop ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險",
       "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-11-04T08:40:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "security",
         "macro"
@@ -204,7 +282,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T01:17:12+00:00",
-      "age_days": 0.36,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -230,7 +308,7 @@
       "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T09:16:20+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "infra"
@@ -252,86 +330,6 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, financial disclosure accuracy, and regional…"
-    },
-    {
-      "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
-      "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-03T13:06:50+00:00",
-      "age_days": 0.86,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: critical",
-        "security high-signal: critical",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発..."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
-      "url": "https://jvn.jp/vu/JVNVU91151184/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-04T10:15:00+09:00",
-      "age_days": 0.36,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cisa, jvn, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-    },
-    {
-      "title": "Barracuda: Root-Sicherheitslücke bedroht unter anderem Email Security Gateway",
-      "url": "https://www.heise.de/news/Barracuda-Root-Sicherheitsluecke-bedroht-unter-anderem-Email-Security-Gateway-11511074.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 138.09,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: root",
-        "security high-signal: root",
-        "aging penalty -8.0 for 138.1d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -344,8 +342,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 9,
-      "watch": 1
+      "strong": 10
     }
   }
 }
