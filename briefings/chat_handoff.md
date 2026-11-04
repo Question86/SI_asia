@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T14:57:59+00:00_
+_Generated: 2026-11-04T15:06:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `67`
+- findings: `68`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-04T14:57:59+00:00_
 - url: https://github.com/max-sixty/worktrunk
 - summary: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows https://worktrunk.dev Worktrunk November 2026 : Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built…
 
-### 6. Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45
+### 6. OpenAI to acquire Pierre Computer Company, Inc.
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-11-04T14:30:00+00:00`
+- url: https://openai.com/index/openai-to-acquire-pierre
+- summary: OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.
+
+### 7. Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-11-04T08:15:24+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html
 - summary: Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. 關於時間科技｜Herowatch Go - Security Misconfiguration
-- source: TWCERT/CC TVN Vulnerability Notes RSS
-- score: `12`
-- published: `2026-11-04T05:55:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html
-- summary: 關於時間科技｜Herowatch Go - Security Misconfiguration
-
 ### 8. 關於時間科技｜Herowatch Go - Security Misconfiguration
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `12`
 - published: `2026-11-04T05:55:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11361-55d70-1.html
+- url: https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html
 - summary: 關於時間科技｜Herowatch Go - Security Misconfiguration
 
 END OF DOCUMENT
