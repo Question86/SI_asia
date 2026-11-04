@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T01:06:36+00:00",
+  "generated_at": "2026-11-04T01:17:09+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,36 @@
         "published_at": "2026-11-04T00:32:19+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api"
+      }
+    ],
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-04T10:15:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU91151184/"
+      },
+      {
+        "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-04T10:15:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU99859918/"
+      },
+      {
+        "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-04T10:15:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92281274/"
+      },
+      {
+        "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-03T13:06:50+00:00",
+        "relevance_score": 12,
+        "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/"
       }
     ],
     "general": [

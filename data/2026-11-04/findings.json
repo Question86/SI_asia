@@ -47,6 +47,29 @@
     "id": "a6a4b291834d30177d30"
   },
   {
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
+    "url": "https://jvn.jp/vu/JVNVU91151184/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-04T10:15:00+09:00",
+    "fetched_at": "2026-11-04T01:16:42+00:00",
+    "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+    "matched_keywords": [
+      "advisory",
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "edc9f9a7e5026c9fa42b"
+  },
+  {
     "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
     "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -69,6 +92,72 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c6fc478e879fd2562aa0"
+  },
+  {
+    "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU99859918/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-04T10:15:30+09:00",
+    "fetched_at": "2026-11-04T01:16:42+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7f9eb640d1d27c930549"
+  },
+  {
+    "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU92281274/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-04T10:15:15+09:00",
+    "fetched_at": "2026-11-04T01:16:42+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d860cc2cbd08452108bb"
+  },
+  {
+    "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-03T13:06:50+00:00",
+    "fetched_at": "2026-11-04T01:16:42+00:00",
+    "summary": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8cc17104c7d02fa3b23f"
   },
   {
     "title": "M 5.0 - Fiji region",
