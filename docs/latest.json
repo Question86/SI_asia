@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T06:12:22+00:00",
-  "run_id": "2026-11-04T06:12:22+00:00",
+  "generated_at": "2026-11-04T06:29:36+00:00",
+  "run_id": "2026-11-04T06:29:36+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 8,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -486,6 +486,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4ddfcb0cb5bfb5d5e04c"
+      },
+      {
+        "title": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
+        "url": "https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-04T06:12:12+00:00",
+        "fetched_at": "2026-11-04T06:29:07+00:00",
+        "summary": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cc37a733d71dcd32f034"
       },
       {
         "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
@@ -1071,6 +1091,26 @@
       "id": "4ddfcb0cb5bfb5d5e04c"
     },
     {
+      "title": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
+      "url": "https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-04T06:12:12+00:00",
+      "fetched_at": "2026-11-04T06:29:07+00:00",
+      "summary": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cc37a733d71dcd32f034"
+    },
+    {
       "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
       "url": "https://www.digital.go.jp/policies/education/2025report",
       "source": "Japan Digital Agency News RSS",
@@ -1197,13 +1237,13 @@
   ],
   "new_findings": [
     {
-      "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
-      "url": "https://www.digital.go.jp/policies/education/2025report",
+      "title": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
+      "url": "https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf",
       "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-04T06:00:00+00:00",
-      "fetched_at": "2026-11-04T06:11:51+00:00",
-      "summary": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
+      "published_at": "2026-11-04T06:12:12+00:00",
+      "fetched_at": "2026-11-04T06:29:07+00:00",
+      "summary": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
@@ -1214,7 +1254,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "48d24d1837d6975472d2"
+      "id": "cc37a733d71dcd32f034"
     }
   ],
   "source_errors": [],

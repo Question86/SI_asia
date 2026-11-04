@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T06:12:26+00:00",
-  "today_file_total": 24,
+  "generated_at": "2026-11-04T06:29:39+00:00",
+  "today_file_total": 25,
   "current_clusters": [
     {
       "key": "domain:www.twcert.org",
@@ -312,8 +312,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "url:https://www.digital.go.jp/policies/education/2025report",
-      "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
+      "key": "url:https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf",
+      "title": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
       "sources": [
         "Japan Digital Agency News RSS"
       ],
@@ -321,7 +321,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.digital.go.jp/policies/education/2025report"
+        "https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf"
       ],
       "finding_count": 1,
       "max_score": 6,
@@ -353,6 +353,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://www.digital.go.jp/policies/education/2025report",
+      "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/policies/education/2025report"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -437,29 +460,6 @@
       ],
       "urls": [
         "https://av.watch.impress.co.jp/docs/topic/special/2149395.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:qiita.com",
-      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f"
       ],
       "finding_count": 1,
       "max_score": 5,

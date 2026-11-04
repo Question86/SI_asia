@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T06:12:26+00:00",
+  "generated_at": "2026-11-04T06:29:39+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 24,
-    "clusters": 20,
+    "findings": 25,
+    "clusters": 21,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -475,8 +475,8 @@
       "first_seen_at": "2026-11-04T05:57:05+00:00"
     },
     {
-      "key": "url:https://www.digital.go.jp/policies/education/2025report",
-      "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
+      "key": "url:https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf",
+      "title": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
       "sources": [
         "Japan Digital Agency News RSS"
       ],
@@ -484,7 +484,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.digital.go.jp/policies/education/2025report"
+        "https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf"
       ],
       "finding_count": 1,
       "max_score": 6,
@@ -510,7 +510,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-11-04T06:12:26+00:00"
+      "first_seen_at": "2026-11-04T06:29:39+00:00"
     },
     {
       "key": "title:use-outreach-without-outsourcing-judgement",
@@ -590,6 +590,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-03T18:55:33+00:00"
+    },
+    {
+      "key": "url:https://www.digital.go.jp/policies/education/2025report",
+      "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/policies/education/2025report"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-04T06:12:26+00:00"
     },
     {
       "key": "title:byok-enterprise-custom-models-copilot-usage-api",
@@ -784,7 +822,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-04T06:12:27Z",
+    "generated_at": "2026-11-04T06:29:40Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
