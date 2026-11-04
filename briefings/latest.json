@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T04:30:15+00:00",
-  "run_id": "2026-11-04T04:30:15+00:00",
+  "generated_at": "2026-11-04T04:45:54+00:00",
+  "run_id": "2026-11-04T04:45:54+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -767,29 +767,7 @@
       "id": "4d178b05daf5439e3323"
     }
   ],
-  "new_findings": [
-    {
-      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
-      "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-03T13:02:09+00:00",
-      "fetched_at": "2026-11-04T04:29:43+00:00",
-      "summary": "⚖️ はじめに 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4d178b05daf5439e3323"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
