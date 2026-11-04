@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T01:59:44+00:00_
+_Generiert: 2026-11-04T02:12:24+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+9 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -106,6 +106,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Information asymmetry didn’t die in 2026. It just learned better PR** — Score 14, observation — [Quelle](https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-04T02:00:40+00:00`, fetched `2026-11-04T02:11:54+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: In the same month a leading fintech publication declared that “information asymmetry is dead,” Singapore’s largest bank was teaching its flagship AI assistant to handle card refunds. Both claims are about artificial intelligence. Neither describes the same world. The claim making the rounds The Fintech Times’ 2026 banking trends report argues that agentic AI has […] The post Information asymmetry didn’t die in 2026.…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 

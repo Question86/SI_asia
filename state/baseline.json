@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T01:59:47+00:00",
+  "generated_at": "2026-11-04T02:12:26+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2955,7 +2955,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
-      "updated_at": "2026-11-04T01:59:47+00:00",
+      "updated_at": "2026-11-04T02:12:26+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2982,8 +2982,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1
@@ -16856,7 +16856,7 @@
     },
     "earthquake:m 5.0 - fiji region:5.0": {
       "title": "M 5.0 - Fiji region",
-      "updated_at": "2026-11-04T01:59:47+00:00",
+      "updated_at": "2026-11-04T02:12:26+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -16882,8 +16882,8 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -104453,91 +104453,108 @@
     },
     "title:cli-agent-desktop": {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
-      "updated_at": "2026-11-04T01:59:47+00:00",
+      "updated_at": "2026-11-04T02:12:26+00:00",
       "network_scores": [
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
         18.1,
         18.1
       ],
-      "rolling_average": 18.6,
+      "rolling_average": 18.53,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:could-agents-break-fractional-reserve-banking": {
       "title": "Could AI agents break fractional-reserve banking?",
-      "updated_at": "2026-11-04T01:59:47+00:00",
+      "updated_at": "2026-11-04T02:12:26+00:00",
       "network_scores": [
         24.1,
         21.1,
         21.1,
         21.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 21.7,
+      "rolling_average": 21.6,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:byok-enterprise-custom-models-copilot-usage-api": {
       "title": "BYOK and enterprise custom models in the Copilot usage API",
-      "updated_at": "2026-11-04T01:59:47+00:00",
+      "updated_at": "2026-11-04T02:12:26+00:00",
       "network_scores": [
         11.1,
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.7,
+      "rolling_average": 8.6,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:infinitt-healthcare-infinitt-pacs-system-manager": {
       "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
-      "updated_at": "2026-11-04T01:59:47+00:00",
+      "updated_at": "2026-11-04T02:12:26+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.85,
+      "rolling_average": 16.7,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:android-basechat-audio-dating-app": {
       "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
-      "updated_at": "2026-11-04T01:59:47+00:00",
+      "updated_at": "2026-11-04T02:12:26+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.85,
+      "rolling_average": 16.7,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "cve:CVE-2026-58882": {
       "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
-      "updated_at": "2026-11-04T01:59:47+00:00",
+      "updated_at": "2026-11-04T02:12:26+00:00",
       "network_scores": [
         17.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.85,
+      "rolling_average": 14.7,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
+    },
+    "title:information-asymmetry-didn-die-2026-just-learned-better": {
+      "title": "Information asymmetry didn’t die in 2026. It just learned better PR",
+      "updated_at": "2026-11-04T02:12:26+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
     }
   }
 }
