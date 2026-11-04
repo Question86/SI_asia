@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T00:00:42+00:00",
+  "generated_at": "2026-11-04T00:29:48+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -17564,6 +17564,23 @@
       "first_seen_at": "2026-09-25T09:44:45+00:00",
       "last_seen_at": "2026-09-25T23:54:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_cf51f2d3ac3de4b84573",
+      "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T00:29:28+00:00",
+      "last_seen_at": "2026-11-04T00:29:28+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_064006df2c404d32a98b",
