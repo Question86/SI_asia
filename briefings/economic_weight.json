@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T05:43:07+00:00",
+  "generated_at": "2026-11-04T05:57:24+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -759,7 +759,7 @@
       "p90_usd": 119200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:06:42+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -6953,7 +6953,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T18:55:33+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -12444,7 +12444,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -12597,7 +12597,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:17:12+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -12614,7 +12614,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T03:03:08+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -13277,7 +13277,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T03:03:08+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -13736,7 +13736,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:17:12+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -14297,7 +14297,7 @@
       "p90_usd": 2840000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:17:12+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -14382,8 +14382,8 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-10-29T23:57:29+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2bf1e7d57306cb9b7c1c",
@@ -17494,7 +17494,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T00:29:28+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -18174,7 +18174,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T02:12:26+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -20299,7 +20299,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T04:12:17+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -22767,6 +22767,23 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_cbc48609595efce2b817",
+      "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T05:57:05+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -27527,7 +27544,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T03:17:40+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -30809,7 +30826,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T01:06:42+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -31676,7 +31693,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T04:12:17+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -32339,7 +32356,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-04T05:03:09+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -32849,7 +32866,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-11-04T05:42:47+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
       "status": "active"
     },
     {
@@ -36914,6 +36931,23 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d0facb60b3ee69b3b75e",
+      "title": "Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T05:57:05+00:00",
+      "last_seen_at": "2026-11-04T05:57:05+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
