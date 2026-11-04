@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T11:27:56+00:00",
+  "generated_at": "2026-11-04T11:45:05+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 49,
-    "clusters": 33,
+    "findings": 51,
+    "clusters": 34,
     "cross_source_confrmed": 2,
     "hot": 1,
     "early_signals": 0,
@@ -34,20 +34,20 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 23.36,
+      "network_score": 23.19,
       "hot": true,
       "watchgraph_modules": [
         "agriculture_food_fertilizer"
       ],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 34.7,
-      "ranking_score": 23.36,
+      "ranking_score": 23.19,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.36,
+      "baseline_bonus": 2.19,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -139,7 +139,7 @@
     },
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -147,30 +147,30 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4302",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4312",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311"
       ],
-      "finding_count": 10,
+      "finding_count": 11,
       "max_score": 16,
-      "credibility_total": 10.5,
+      "credibility_total": 11.55,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.5,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 37.0,
-      "ranking_score": 17.5,
+      "raw_network_score": 42.1,
+      "ranking_score": 20.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
+      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -604,44 +604,6 @@
       "first_seen_at": "2026-06-17T22:13:10+00:00"
     },
     {
-      "key": "title:chatbots-cave-climate-facts-under-pressure-sea-languages",
-      "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.1,
-      "ranking_score": 14.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-04T11:27:56+00:00"
-    },
-    {
       "key": "title:your-startup-should-think-about-scaling-not-surviving",
       "title": "Your startup should think about scaling, not surviving",
       "sources": [
@@ -758,6 +720,44 @@
       "first_seen_at": "2026-11-04T05:57:05+00:00"
     },
     {
+      "key": "title:chatbots-cave-climate-facts-under-pressure-sea-languages",
+      "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 11.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-04T11:27:56+00:00"
+    },
+    {
       "key": "title:why-multiable-hcm-best-hris-singapore-public-companies",
       "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
       "sources": [
@@ -870,6 +870,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-04T03:17:40+00:00"
+    },
+    {
+      "key": "title:android-google",
+      "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/04/2000002884/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-04T11:45:05+00:00"
     },
     {
       "key": "earthquake:m 5.0 - fiji region:5.0",
@@ -1295,7 +1333,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-04T11:27:56Z",
+    "generated_at": "2026-11-04T11:45:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

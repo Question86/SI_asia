@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T11:27:51+00:00_
+_Generated: 2026-11-04T11:45:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `49`
+- findings: `51`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-04T11:27:51+00:00_
 - url: https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/
 - summary: Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers d…
 
-### 2. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
+### 2. [UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-11-04T11:40:48+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288
+- summary: Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Auswi…
+
+### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-11-04T11:19:02+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4302
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Auslösung eines Denial-of-Service-Angriffs, die Manipulation oder Offenlegung von Daten, die Ausführung…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-11-04T10:15:00+09:00`
 - url: https://jvn.jp/vu/JVNVU91151184/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. [NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-11-04T09:34:01+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um den Speicher zu beschädigen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen…
 
 ### 5. max-sixty/worktrunk
 - source: GitHub Trending RSS All Languages Daily

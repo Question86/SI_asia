@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T11:27:51+00:00",
+  "generated_at": "2026-11-04T11:45:00+00:00",
   "topics": {
     "ai": [
       {
@@ -114,6 +114,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T11:40:48+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-04T11:19:02+00:00",
@@ -175,13 +182,6 @@
         "published_at": "2026-11-04T10:19:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311"
-      },
-      {
-        "title": "[NEU] [hoch] Emerson Ovation: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:19:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313"
       }
     ],
     "geopolitics": [
@@ -284,6 +284,13 @@
         "published_at": "2026-11-04T00:47:49.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv"
+      },
+      {
+        "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-04T10:13:30+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/"
       },
       {
         "title": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ | NHKニュース",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T11:27:51+00:00",
-  "run_id": "2026-11-04T11:27:51+00:00",
+  "generated_at": "2026-11-04T11:45:00+00:00",
+  "run_id": "2026-11-04T11:45:00+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 51
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 2,
+    "today_file_total": 51,
+    "displayed_findings": 51,
     "high": 0,
-    "medium": 22,
-    "observe": 27,
+    "medium": 23,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -75,6 +75,30 @@
           "PINS"
         ],
         "id": "a6a4b291834d30177d30"
+      },
+      {
+        "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T11:40:48+00:00",
+        "fetched_at": "2026-11-04T11:44:28+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c8ec0b5db8ac9b0bcf98"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -1059,6 +1083,27 @@
         "id": "6f6cbd5db548786a0d0f"
       },
       {
+        "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
+        "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-04T10:13:30+00:00",
+        "fetched_at": "2026-11-04T11:44:28+00:00",
+        "summary": "中国の端末メーカーが製造したAndroid端末に、遠隔から操作できるバックドアを仕込み、そのアクセス権を犯罪者らに販売していた――米Googleは11月3日（現地時間）、Android TV端末など130万台超に不正ソフトが組み込まれ、広告詐欺や不正な通信の中継などに悪用されていたと発表した。 関与を指摘されたのは、中国のOEM／...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f69611fd43a02bb0687a"
+      },
+      {
         "title": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ | NHKニュース",
         "url": "https://news.web.nhk/newsweb/na/nd-20261104de70494",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1252,6 +1297,30 @@
         "PINS"
       ],
       "id": "a6a4b291834d30177d30"
+    },
+    {
+      "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T11:40:48+00:00",
+      "fetched_at": "2026-11-04T11:44:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c8ec0b5db8ac9b0bcf98"
     },
     {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -2234,6 +2303,27 @@
       "id": "6f6cbd5db548786a0d0f"
     },
     {
+      "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:13:30+00:00",
+      "fetched_at": "2026-11-04T11:44:28+00:00",
+      "summary": "中国の端末メーカーが製造したAndroid端末に、遠隔から操作できるバックドアを仕込み、そのアクセス権を犯罪者らに販売していた――米Googleは11月3日（現地時間）、Android TV端末など130万台超に不正ソフトが組み込まれ、広告詐欺や不正な通信の中継などに悪用されていたと発表した。 関与を指摘されたのは、中国のOEM／...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f69611fd43a02bb0687a"
+    },
+    {
       "title": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261104de70494",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2381,25 +2471,49 @@
   ],
   "new_findings": [
     {
-      "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
-      "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-04T11:24:43+00:00",
-      "fetched_at": "2026-11-04T11:27:23+00:00",
-      "summary": "Ask a chatbot whether human activity is warming the planet and you will almost certainly get the right answer. Argue with it for a turn or two and, according to a new study from UNESCO and University College London, there is a fair chance it will start agreeing with you instead. The report, which UNESCO […] The post AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst appeared first o…",
+      "published_at": "2026-11-04T11:40:48+00:00",
+      "fetched_at": "2026-11-04T11:44:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen.",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "afe020d051962ebc7866"
+      "id": "c8ec0b5db8ac9b0bcf98"
+    },
+    {
+      "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-04T10:13:30+00:00",
+      "fetched_at": "2026-11-04T11:44:28+00:00",
+      "summary": "中国の端末メーカーが製造したAndroid端末に、遠隔から操作できるバックドアを仕込み、そのアクセス権を犯罪者らに販売していた――米Googleは11月3日（現地時間）、Android TV端末など130万台超に不正ソフトが組み込まれ、広告詐欺や不正な通信の中継などに悪用されていたと発表した。 関与を指摘されたのは、中国のOEM／...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f69611fd43a02bb0687a"
     }
   ],
   "source_errors": [],
