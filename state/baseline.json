@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T03:35:08+00:00",
+  "generated_at": "2026-11-04T03:42:47+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2955,7 +2955,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2973,8 +2973,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -16856,7 +16856,7 @@
     },
     "earthquake:m 5.0 - fiji region:5.0": {
       "title": "M 5.0 - Fiji region",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -16873,8 +16873,8 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -104453,9 +104453,10 @@
     },
     "title:cli-agent-desktop": {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -104471,14 +104472,14 @@
         18.1,
         18.1
       ],
-      "rolling_average": 18.3,
+      "rolling_average": 18.29,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:could-agents-break-fractional-reserve-banking": {
       "title": "Could AI agents break fractional-reserve banking?",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         24.1,
         21.1,
@@ -104493,16 +104494,17 @@
         21.1,
         21.1,
         21.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 21.31,
+      "rolling_average": 21.3,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:byok-enterprise-custom-models-copilot-usage-api": {
       "title": "BYOK and enterprise custom models in the Copilot usage API",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -104517,16 +104519,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.31,
+      "rolling_average": 8.3,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:infinitt-healthcare-infinitt-pacs-system-manager": {
       "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -104540,16 +104543,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.33,
+      "rolling_average": 16.31,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:android-basechat-audio-dating-app": {
       "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -104563,16 +104567,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.33,
+      "rolling_average": 16.31,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "cve:CVE-2026-58882": {
       "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -104586,16 +104591,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.33,
+      "rolling_average": 14.31,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:information-asymmetry-didn-die-2026-just-learned-better": {
       "title": "Information asymmetry didn’t die in 2026. It just learned better PR",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -104605,53 +104611,57 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.43,
+      "rolling_average": 16.4,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:airbyte": {
       "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.85,
+      "rolling_average": 16.7,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:akeeba": {
       "title": "複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.85,
+      "rolling_average": 16.7,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:use-outreach-without-outsourcing-judgement": {
       "title": "How I use AI for outreach without outsourcing judgement",
-      "updated_at": "2026-11-04T03:35:08+00:00",
+      "updated_at": "2026-11-04T03:42:47+00:00",
       "network_scores": [
         13.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 10.85,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     }
   }
 }
