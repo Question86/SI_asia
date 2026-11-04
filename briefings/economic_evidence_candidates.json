@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T07:20:26+00:00",
+  "generated_at": "2026-11-04T07:29:38+00:00",
   "candidate_count": 2630,
   "candidates": [
     {
@@ -43845,22 +43845,23 @@
       "source_url": "https://note.com/saki_reset/n/nd6d383ce0c75"
     },
     {
-      "candidate_id": "cand_6707309aee46463c50b0",
-      "event_id": "evt_2e9d9ec03302056d3575",
-      "source_url": "https://note.com/uchita_success/n/nfc53d1ef5f81",
-      "observed_at": "2026-11-04T07:20:24+00:00",
-      "currency": "JPY",
       "amount_native": 980.0,
       "amount_usd": null,
-      "conversion_status": "pending_fx",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_2e9d9ec03302056d3575:unclassified",
       "attribution_probability": null,
-      "snippet": "は 8,459字 / 2ファイル メンバーシップ うちたの保管庫へようこそ。 ここは読むだけじゃなくて、「持って帰れる」場所。 仕事で使えるAIプロンプト・Claudeスキル・資料作成Tips・パワポテンプレを、週1で保管庫に入れていきます。ぬくぬく仕事して成果も出してる、非エンジニアの会社員が実務で使ってるやつだけお届けしていきます。 AIぬくぬくプラン ¥ 980 / 月 参加手続きへ 1 人 が高評価 ログイン",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.35,
-      "review_status": "pending"
+      "candidate_id": "cand_6707309aee46463c50b0",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "JPY",
+      "event_id": "evt_2e9d9ec03302056d3575",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-04T07:20:24+00:00",
+      "overlap_group_suggestion": "evt_2e9d9ec03302056d3575:unknown:12b7aae51684",
+      "review_status": "pending",
+      "snippet": "は 8,459字 / 2ファイル メンバーシップ うちたの保管庫へようこそ。 ここは読むだけじゃなくて、「持って帰れる」場所。 仕事で使えるAIプロンプト・Claudeスキル・資料作成Tips・パワポテンプレを、週1で保管庫に入れていきます。ぬくぬく仕事して成果も出してる、非エンジニアの会社員が実務で使ってるやつだけお届けしていきます。 AIぬくぬくプラン ¥ 980 / 月 参加手続きへ 1 人 が高評価 ログイン",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://note.com/uchita_success/n/nfc53d1ef5f81"
     },
     {
       "amount_native": 800.0,
