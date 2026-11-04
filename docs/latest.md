@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T08:59:53+00:00_
+_Generiert: 2026-11-04T09:33:34+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+37 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -75,6 +75,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Airbyteには、不適切なクラスロードにより想定外のコンポーネントを読み込むことができるため、任意のコード実行が可能となる脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [hoch] Mozilla Firefox: Schwachstelle ermöglicht nicht spezifizierten Angriff** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4304)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-04T09:29:02+00:00`, fetched `2026-11-04T09:33:06+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Mozilla Firefox ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] Google Chrome: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-04T09:29:01+00:00`, fetched `2026-11-04T09:33:06+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um möglicherweise beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen, Spoofing-Angriffe durchzuführen oder andere, nicht näher spezifizierte Angriffe auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險** — Score 14, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
   - Zeit: published `2026-11-04T08:40:00+00:00`, fetched `2026-11-04T08:42:56+00:00`
@@ -168,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: The excitement lasted about as long as it took his roommate to ask one question. Mohammed Khambhati was in his dorm at the Singapore University of Technology and Design (SUTD) when he learnt that Afore Capital, a San Francisco pre-seed firm, was backing his startup. “Dude, I just got funded. I have to go to […] The post Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises** — Score 10, observation — [Quelle](https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-04T09:16:20+00:00`, fetched `2026-11-04T09:33:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, financial disclosure accuracy, and regional labor administration. Managing thousands of employees across multiple business units requires far m…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-04T00:47:49.040+00:00`, fetched `2026-11-04T01:06:05+00:00`
@@ -177,14 +204,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How I use AI for outreach without outsourcing judgement** — Score 8, observation — [Quelle](https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-04T03:00:20+00:00`, fetched `2026-11-04T03:17:08+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+- **ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-11-04T00:00:00+00:00`, fetched `2026-11-04T09:33:06+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: I use AI regularly for prospecting and outreach. The useful part is not having it write a generic email to a long list of companies. It is helping me find a more relevant starting point: businesses that have put out a public signal which may match an offer I am making. That signal might be […] The post How I use AI for outreach without outsourcing judgement appeared first on e27 .
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -222,15 +249,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Binanceが約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表しています。詳細は以下から。 暗号資産の取引所を運営するBinanceは2026年10月29日、ハッカーにより約63億4,000万ドル、日本円にして1兆円相当の暗号資産が流...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「黙ってブラビアを買いなさい。」アワード大賞受賞モデル“True RGB”の価値と魅力を語りつくす！[Sponsored]** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/topic/special/2149395.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-03T23:37:15+00:00`, fetched `2026-11-04T05:02:33+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「黙ってブラビアを買いなさい。」アワード大賞受賞モデル“True RGB”の価値と魅力を語りつくす！[Sponsored]
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -241,7 +259,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/
