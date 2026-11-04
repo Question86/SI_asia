@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T02:54:55+00:00_
+_Generated: 2026-11-04T03:03:04+00:00_
 
 ## Status
-- status: `normal`
-- findings: `9`
+- status: `warning`
+- findings: `11`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-04T02:54:55+00:00_
 - url: https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/
 - summary: agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確...
 
-### 4. INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性
+### 4. Airbyteにおける任意のコードが実行可能な脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-11-04T10:15:30+09:00`
-- url: https://jvn.jp/vu/JVNVU99859918/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+- published: `2026-11-04T12:00:15+09:00`
+- url: https://jvn.jp/jp/JVN12040144/
+- summary: Airbyteには、不適切なクラスロードにより想定外のコンポーネントを読み込むことができるため、任意のコード実行が可能となる脆弱性が存在します。
 
 ### 5. Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab
 - source: Hatena Bookmark Hotentry IT

@@ -94,6 +94,50 @@
     "id": "c6fc478e879fd2562aa0"
   },
   {
+    "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
+    "url": "https://jvn.jp/jp/JVN12040144/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-04T12:00:15+09:00",
+    "fetched_at": "2026-11-04T03:02:38+00:00",
+    "summary": "Airbyteには、不適切なクラスロードにより想定外のコンポーネントを読み込むことができるため、任意のコード実行が可能となる脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "68a55746a8c632ec5a41"
+  },
+  {
+    "title": "複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
+    "url": "https://jvn.jp/jp/JVN44272550/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-04T12:00:00+09:00",
+    "fetched_at": "2026-11-04T03:02:38+00:00",
+    "summary": "Akeeba Ltd.が提供する複数の製品には、クロスサイトリクエストフォージェリの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cf953416d96f91f85630"
+  },
+  {
     "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU99859918/",
     "source": "JVN Japan Vulnerability Notes",
