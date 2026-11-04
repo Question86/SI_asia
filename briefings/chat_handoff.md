@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T07:58:50+00:00_
+_Generated: 2026-11-04T08:37:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `32`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-04T07:58:50+00:00_
 - url: https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/
 - summary: agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確...
 
-### 4. Eight systems, one number: How DVI Group fixed the back office its pandemic boom broke
-- source: e27 Asia Startup and Tech Feed
+### 4. M 5.0 - 207 km ESE of Sarangani, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-11-04T07:57:24+00:00`
-- url: https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/
-- summary: Four years ago, DVI Group’s management team sat down for what should have been a routine meeting. Sales, finance, delivery and customer service each brought a spreadsheet tracking the company’s live contracts. Each spreadsheet carried a different number. “It…
+- published: `2026-11-04T08:00:21.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj
+- summary: Time 2026-11-04 07:40:12 UTC 2026-11-04 07:40:12 UTC at epicenter Location 4.390°N 127.033°E Depth 49.07 km (30.49 mi)
 
 ### 5. max-sixty/worktrunk
 - source: GitHub Trending RSS All Languages Daily
@@ -43,25 +43,25 @@ _Generated: 2026-11-04T07:58:50+00:00_
 - url: https://github.com/max-sixty/worktrunk
 - summary: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows https://worktrunk.dev Worktrunk November 2026 : Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built…
 
-### 6. 關於時間科技｜Herowatch Go - Security Misconfiguration
+### 6. Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-11-04T08:15:24+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html
+- summary: Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 7. 關於時間科技｜Herowatch Go - Security Misconfiguration
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `12`
 - published: `2026-11-04T05:55:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html
 - summary: 關於時間科技｜Herowatch Go - Security Misconfiguration
 
-### 7. 關於時間科技｜Herowatch Go - Security Misconfiguration
+### 8. 關於時間科技｜Herowatch Go - Security Misconfiguration
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `12`
 - published: `2026-11-04T05:55:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11361-55d70-1.html
 - summary: 關於時間科技｜Herowatch Go - Security Misconfiguration
-
-### 8. Your startup should think about scaling, not surviving
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-11-04T04:00:18+00:00`
-- url: https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/
-- summary: The biggest threat to every startup is short-sightedness. Quick decisions, wrong partners, disproportionate risks, team hires. Every wrong decision needs to be fixed in the medium term. What this causes is disruption, loss of pace, pain, burned money, and som…
 
 END OF DOCUMENT

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-04T07:58:50+00:00",
+  "generated_at": "2026-11-04T08:37:34+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 30,
-    "displayed_findings": 30,
+    "new_relevant_findings": 2,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
-    "medium": 10,
-    "observe": 20
+    "medium": 11,
+    "observe": 21
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "Eight systems, one number: How DVI Group fixed the back office its pandemic boom broke",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.0 - 207 km ESE of Sarangani, Philippines",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-04T07:57:24+00:00",
+      "published_at": "2026-11-04T08:00:21.040+00:00",
       "relevance_score": 15,
-      "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
-      "summary": "Four years ago, DVI Group’s management team sat down for what should have been a routine meeting. Sales, finance, delivery and customer service each brought a spreadsheet tracking the company’s live contracts. Each spreadsheet carried a different number. “It…",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj",
+      "summary": "Time 2026-11-04 07:40:12 UTC 2026-11-04 07:40:12 UTC at epicenter Location 4.390°N 127.033°E Depth 49.07 km (30.49 mi)",
       "section": "medium"
     },
     {
@@ -62,6 +62,16 @@
       "relevance_score": 13,
       "url": "https://github.com/max-sixty/worktrunk",
       "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows https://worktrunk.dev Worktrunk November 2026 : Worktrunk was released at the start of the year, and has quickly become the most popular git worktree manager. It's built…",
+      "section": "observe"
+    },
+    {
+      "title": "Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-11-04T08:15:24+00:00",
+      "relevance_score": 12,
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html",
+      "summary": "Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45",
       "section": "observe"
     },
     {
@@ -83,16 +93,6 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11361-55d70-1.html",
       "summary": "關於時間科技｜Herowatch Go - Security Misconfiguration",
       "section": "observe"
-    },
-    {
-      "title": "Your startup should think about scaling, not surviving",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-04T04:00:18+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/",
-      "summary": "The biggest threat to every startup is short-sightedness. Quick decisions, wrong partners, disproportionate risks, team hires. Every wrong decision needs to be fixed in the medium term. What this causes is disruption, loss of pace, pain, burned money, and som…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,143 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “AI エージェントがデスクトップアプリを操作する CLI agent-desktop” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
-        "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-03T08:51:58+00:00",
-        "age_days": 0.98,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確..."
-      },
-      {
-        "title": "Eight systems, one number: How DVI Group fixed the back office its pandemic boom broke",
-        "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-04T07:57:24+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "Four years ago, DVI Group’s management team sat down for what should have been a routine meeting. Sales, finance, delivery and customer service each brought a spreadsheet tracking the company’s live contracts. Each spreadsheet carried a different number. “It was shocking,” recalls Tanish Dhillon, General Manager at th…"
-      },
-      {
-        "title": "關於時間科技｜Herowatch Go - Security Misconfiguration",
-        "url": "https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-06-19T11:28:55+00:00",
-        "age_days": 137.87,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.13,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 1.03,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 1.03",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 137.9d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
-        "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-04T01:17:12+00:00",
-        "age_days": 0.3,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 30.5,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: critical",
-          "security high-signal: critical"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
-        "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-03T13:06:50+00:00",
-        "age_days": 0.81,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: critical",
-          "security high-signal: critical"
-        ],
-        "summary": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発..."
-      }
-    ]
-  }
+  ]
 }
