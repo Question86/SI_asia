@@ -1,57 +1,52 @@
 {
-  "generated_at": "2026-11-04T22:30:41+00:00",
+  "generated_at": "2026-11-04T22:48:28+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 83,
-    "clusters": 49,
+    "findings": 86,
+    "clusters": 52,
     "cross_source_confrmed": 2,
-    "hot": 0,
-    "early_signals": 0,
+    "hot": 1,
+    "early_signals": 1,
     "dominance_penalized": 5
   },
   "clusters": [
     {
-      "key": "domain:openai.com",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "key": "title:chatgpt-shiritomo",
+      "title": "ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒め言葉も減らす仕様変更に – shiritomo",
       "sources": [
-        "OpenAI News RSS"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://openai.com/index/daybreak-red-aws-govcloud",
-        "https://openai.com/index/openai-to-acquire-pierre",
-        "https://openai.com/index/devrev-enterprise-self-service",
-        "https://openai.com/index/a-thousand-fewer-paths-to-root"
+        "https://hashout.jp/ai/13689/"
       ],
-      "finding_count": 4,
-      "max_score": 13,
-      "credibility_total": 4.2,
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 23.44,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 27.4,
-      "ranking_score": 23.44,
+      "network_score": 25.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 25.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 3.94,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
+      "first_seen_at": "2026-11-04T22:48:28+00:00"
     },
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -418,6 +413,49 @@
       "first_seen_at": "2026-11-04T07:58:53+00:00"
     },
     {
+      "key": "domain:openai.com",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/daybreak-red-aws-govcloud",
+        "https://openai.com/index/openai-to-acquire-pierre",
+        "https://openai.com/index/devrev-enterprise-self-service",
+        "https://openai.com/index/a-thousand-fewer-paths-to-root"
+      ],
+      "finding_count": 4,
+      "max_score": 13,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.99,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 21.4,
+      "ranking_score": 15.99,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.49,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
       "key": "title:hinemos",
       "title": "Hinemosにおける不適切な権限の割り当ての脆弱性",
       "sources": [
@@ -723,6 +761,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-17T22:13:10+00:00"
+    },
+    {
+      "key": "title:mac-otakara",
+      "title": "30周年を迎えて | お知らせ | Mac OTAKARA",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.macotakara.jp/etc/category-49/entry-52233.html"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.1,
+      "ranking_score": 14.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-04T22:48:28+00:00"
     },
     {
       "key": "title:your-startup-should-think-about-scaling-not-surviving",
@@ -1338,6 +1414,44 @@
       "first_seen_at": "2026-11-04T16:07:04+00:00"
     },
     {
+      "key": "domain:gigazine.net",
+      "title": "無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20261104-project-nomad/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
       "key": "earthquake:m 5.0 - south of the fiji islands:5.0",
       "title": "M 5.0 - south of the Fiji Islands",
       "sources": [
@@ -1916,7 +2030,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-04T22:30:42Z",
+    "generated_at": "2026-11-04T22:48:29Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

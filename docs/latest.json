@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T22:30:37+00:00",
-  "run_id": "2026-11-04T22:30:37+00:00",
+  "generated_at": "2026-11-04T22:48:25+00:00",
+  "run_id": "2026-11-04T22:48:25+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 83
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 83,
-    "displayed_findings": 83,
+    "new_relevant_findings": 3,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
-    "medium": 39,
-    "observe": 44,
+    "medium": 40,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -282,6 +282,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "cec6bcfd1d9104faefa2"
+      },
+      {
+        "title": "ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒め言葉も減らす仕様変更に – shiritomo",
+        "url": "https://hashout.jp/ai/13689/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-04T04:57:27+00:00",
+        "fetched_at": "2026-11-04T22:47:57+00:00",
+        "summary": "「もっと詳しく教えて」と頼んでも、以前なら何行も丁寧に返してくれたChatGPTが、10月29日を境に急に素っ気なくなった――そんな変化に気づいた人がいても不思議ではありません。 ChatGPTを無料で使っている人なら、この話はまったく無関係ではありません。 実はこれ、気のせいではなく、OpenAI自身が公式に行った仕様変...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2f6ef5150ff32ce7778d"
       },
       {
         "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
@@ -1394,6 +1417,28 @@
         "id": "ea6286f725ede7fb91ac"
       },
       {
+        "title": "30周年を迎えて | お知らせ | Mac OTAKARA",
+        "url": "https://www.macotakara.jp/etc/category-49/entry-52233.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-04T15:36:38+00:00",
+        "fetched_at": "2026-11-04T22:47:57+00:00",
+        "summary": "※本サイトは、アフィリエイト広告および広告による収益を得て運営しています。購入により売上の一部が本サイトに還元されることがあります。 MACお宝鑑定団は、1996年11月05日にインターネット上にサイトを開設してから30周年を迎えました。 私達がMACお宝鑑定団サイトをはじめたのは、1996年にApple Japanが主要都市で...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9e8f2e86a27e54a37bf7"
+      },
+      {
         "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
         "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1851,6 +1896,27 @@
         "id": "6f6cbd5db548786a0d0f"
       },
       {
+        "title": "無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」",
+        "url": "https://gigazine.net/news/20261104-project-nomad/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-04T14:13:37+00:00",
+        "fetched_at": "2026-11-04T22:47:57+00:00",
+        "summary": "Wikipediaで調べ物をしたり地図を確認したりする際はインターネット接続が基本ですが、通信回線が使えない場所や災害時には必要な情報を確認するのが難しくなります。そんな状況に備えてWikipedia・教科書・電子書籍・医療資料・オフラインマップをPCにまとめて保存し、さらにインターネット接続なしで動作するAIアシス...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "32274b898207f3825bde"
+      },
+      {
         "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
         "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2293,6 +2359,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "cec6bcfd1d9104faefa2"
+    },
+    {
+      "title": "ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒め言葉も減らす仕様変更に – shiritomo",
+      "url": "https://hashout.jp/ai/13689/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-04T04:57:27+00:00",
+      "fetched_at": "2026-11-04T22:47:57+00:00",
+      "summary": "「もっと詳しく教えて」と頼んでも、以前なら何行も丁寧に返してくれたChatGPTが、10月29日を境に急に素っ気なくなった――そんな変化に気づいた人がいても不思議ではありません。 ChatGPTを無料で使っている人なら、この話はまったく無関係ではありません。 実はこれ、気のせいではなく、OpenAI自身が公式に行った仕様変...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2f6ef5150ff32ce7778d"
     },
     {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
@@ -3403,6 +3492,28 @@
       "id": "ea6286f725ede7fb91ac"
     },
     {
+      "title": "30周年を迎えて | お知らせ | Mac OTAKARA",
+      "url": "https://www.macotakara.jp/etc/category-49/entry-52233.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-04T15:36:38+00:00",
+      "fetched_at": "2026-11-04T22:47:57+00:00",
+      "summary": "※本サイトは、アフィリエイト広告および広告による収益を得て運営しています。購入により売上の一部が本サイトに還元されることがあります。 MACお宝鑑定団は、1996年11月05日にインターネット上にサイトを開設してから30周年を迎えました。 私達がMACお宝鑑定団サイトをはじめたのは、1996年にApple Japanが主要都市で...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9e8f2e86a27e54a37bf7"
+    },
+    {
       "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
       "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3860,6 +3971,27 @@
       "id": "6f6cbd5db548786a0d0f"
     },
     {
+      "title": "無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」",
+      "url": "https://gigazine.net/news/20261104-project-nomad/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-04T14:13:37+00:00",
+      "fetched_at": "2026-11-04T22:47:57+00:00",
+      "summary": "Wikipediaで調べ物をしたり地図を確認したりする際はインターネット接続が基本ですが、通信回線が使えない場所や災害時には必要な情報を確認するのが難しくなります。そんな状況に備えてWikipedia・教科書・電子書籍・医療資料・オフラインマップをPCにまとめて保存し、さらにインターネット接続なしで動作するAIアシス...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "32274b898207f3825bde"
+    },
+    {
       "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止",
       "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4049,44 +4181,70 @@
   ],
   "new_findings": [
     {
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "source": "OpenAI News RSS",
+      "title": "ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒め言葉も減らす仕様変更に – shiritomo",
+      "url": "https://hashout.jp/ai/13689/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "fetched_at": "2026-11-04T22:30:05+00:00",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "published_at": "2026-11-04T04:57:27+00:00",
+      "fetched_at": "2026-11-04T22:47:57+00:00",
+      "summary": "「もっと詳しく教えて」と頼んでも、以前なら何行も丁寧に返してくれたChatGPTが、10月29日を境に急に素っ気なくなった――そんな変化に気づいた人がいても不思議ではありません。 ChatGPTを無料で使っている人なら、この話はまったく無関係ではありません。 実はこれ、気のせいではなく、OpenAI自身が公式に行った仕様変...",
       "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
         "OpenAI"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e8c4a7cb12e3bae19c5f"
+      "id": "2f6ef5150ff32ce7778d"
     },
     {
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "source": "OpenAI News RSS",
+      "title": "30周年を迎えて | お知らせ | Mac OTAKARA",
+      "url": "https://www.macotakara.jp/etc/category-49/entry-52233.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-04T08:00:00+00:00",
-      "fetched_at": "2026-11-04T22:30:05+00:00",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "published_at": "2026-11-04T15:36:38+00:00",
+      "fetched_at": "2026-11-04T22:47:57+00:00",
+      "summary": "※本サイトは、アフィリエイト広告および広告による収益を得て運営しています。購入により売上の一部が本サイトに還元されることがあります。 MACお宝鑑定団は、1996年11月05日にインターネット上にサイトを開設してから30周年を迎えました。 私達がMACお宝鑑定団サイトをはじめたのは、1996年にApple Japanが主要都市で...",
       "matched_keywords": [
-        "OpenAI"
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0ba37a029c617181d934"
+      "id": "9e8f2e86a27e54a37bf7"
+    },
+    {
+      "title": "無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」",
+      "url": "https://gigazine.net/news/20261104-project-nomad/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-04T14:13:37+00:00",
+      "fetched_at": "2026-11-04T22:47:57+00:00",
+      "summary": "Wikipediaで調べ物をしたり地図を確認したりする際はインターネット接続が基本ですが、通信回線が使えない場所や災害時には必要な情報を確認するのが難しくなります。そんな状況に備えてWikipedia・教科書・電子書籍・医療資料・オフラインマップをPCにまとめて保存し、さらにインターネット接続なしで動作するAIアシス...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "32274b898207f3825bde"
     }
   ],
   "source_errors": [],
