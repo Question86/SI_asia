@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T00:29:48+00:00",
+  "generated_at": "2026-11-04T01:07:02+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -744,6 +744,23 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-08-28T23:53:26+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_761e6d11f18da5673306",
+      "title": "Could AI agents break fractional-reserve banking?",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11920000.0,
+      "p50_usd": 1192000000.0,
+      "p90_usd": 119200000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T01:06:42+00:00",
+      "last_seen_at": "2026-11-04T01:06:42+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_f80b0e90faf74fda74ce",
@@ -6936,8 +6953,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T18:55:33+00:00",
-      "last_seen_at": "2026-09-03T18:55:33+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-04T01:06:42+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3dd21871db14ea7df1f0",
@@ -17379,6 +17396,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_cf51f2d3ac3de4b84573",
+      "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T00:29:28+00:00",
+      "last_seen_at": "2026-11-04T01:06:42+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d144dbd4bf15ffdb1851",
       "title": "Deprecation notice: All-platform CodeQL bundle",
       "event_classes": [
@@ -17564,23 +17598,6 @@
       "first_seen_at": "2026-09-25T09:44:45+00:00",
       "last_seen_at": "2026-09-25T23:54:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_cf51f2d3ac3de4b84573",
-      "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116800.0,
-      "p50_usd": 11680000.0,
-      "p90_usd": 1168000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-04T00:29:28+00:00",
-      "last_seen_at": "2026-11-04T00:29:28+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_064006df2c404d32a98b",
@@ -31423,6 +31440,23 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_943dcd19f0f448028eb0",
+      "title": "BYOK and enterprise custom models in the Copilot usage API",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-04T01:06:42+00:00",
+      "last_seen_at": "2026-11-04T01:06:42+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
