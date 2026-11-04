@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T12:19:01+00:00",
+  "generated_at": "2026-11-04T12:49:43+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-11-03T08:51:58+00:00",
         "relevance_score": 16,
         "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/"
+      },
+      {
+        "title": "[NEU] [mittel] TYPO3 Extension (Mail): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:44:13+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4322"
       },
       {
         "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-04T11:24:43+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/"
-      },
-      {
-        "title": "ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-04T09:44:17+00:00",
-        "relevance_score": 10,
-        "url": "https://chimolog.co/strata-guide/"
       }
     ],
     "economy": [
@@ -114,6 +114,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Rsync: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:44:15+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4324"
+      },
+      {
         "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-04T11:40:48+00:00",
@@ -149,42 +156,42 @@
         "url": "https://jvn.jp/jp/JVN46901199/"
       },
       {
-        "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-04T12:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN12040144/"
-      },
-      {
-        "title": "複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-04T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN44272550/"
-      },
-      {
-        "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Elasticsearch: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:24:01+00:00",
+        "published_at": "2026-11-04T12:44:15+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4325"
       },
       {
-        "title": "[NEU] [mittel] IBM AIX und VIOS (Perl): Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [mittel] Nagios Enterprises Nagios XI: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:19:01+00:00",
+        "published_at": "2026-11-04T12:44:14+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4312"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4323"
       },
       {
-        "title": "[NEU] [hoch] SolarWinds Dameware: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] TYPO3 Extension (Mail): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:19:01+00:00",
+        "published_at": "2026-11-04T12:44:13+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4322"
+      },
+      {
+        "title": "[NEU] [mittel] Coolify: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:44:13+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4321"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Rsync: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:44:15+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4324"
+      },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -193,6 +200,41 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305"
       },
       {
+        "title": "[NEU] [mittel] Elasticsearch: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:44:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4325"
+      },
+      {
+        "title": "[NEU] [mittel] Nagios Enterprises Nagios XI: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:44:14+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4323"
+      },
+      {
+        "title": "[NEU] [mittel] TYPO3 Extension (Mail): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:44:13+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4322"
+      },
+      {
+        "title": "[NEU] [mittel] Coolify: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:44:13+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4321"
+      },
+      {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:44:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4320"
+      },
+      {
         "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-04T10:24:01+00:00",
@@ -212,48 +254,6 @@
         "published_at": "2026-11-04T10:19:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311"
-      },
-      {
-        "title": "[NEU] [hoch] Emerson Ovation: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:19:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313"
-      },
-      {
-        "title": "[NEU] [hoch] Docker Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:14:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310"
-      },
-      {
-        "title": "[NEU] [mittel] IBM TXSeries: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:09:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4309"
-      },
-      {
-        "title": "[NEU] [hoch] Mozilla Firefox: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T09:29:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4304"
-      },
-      {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T09:29:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303"
-      },
-      {
-        "title": "Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-11-04T08:15:24+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html"
       }
     ],
     "general": [

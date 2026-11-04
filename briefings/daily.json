@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-04T12:19:04+00:00",
-  "today_file_total": 53,
+  "generated_at": "2026-11-04T12:49:45+00:00",
+  "today_file_total": 59,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
+      "title": "[NEU] [UNGEPATCHT] [mittel] Rsync: Schwachstelle ermöglicht Denial of Service",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -12,20 +12,20 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4324",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4302",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4312",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4325",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4323"
       ],
-      "finding_count": 11,
+      "finding_count": 17,
       "max_score": 16,
-      "credibility_total": 11.55,
+      "credibility_total": 17.85,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 39.1,
+      "momentum_delta": 6,
+      "momentum_status": "increasing",
+      "network_score": 69.7,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -346,29 +346,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:x.com",
-      "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gigazine.net/news/20261104-ram-altman/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "github_repo:max-sixty/worktrunk",
       "title": "max-sixty/worktrunk",
       "sources": [
@@ -386,29 +363,6 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:strata",
-      "title": "ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://chimolog.co/strata-guide/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
       "network_score": 15.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -461,6 +415,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:x.com",
+      "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20261104-ram-altman/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:afore-funded-him-flew-him-then-watched-him",
       "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
       "sources": [
@@ -483,6 +460,29 @@
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:chatbots-cave-climate-facts-under-pressure-sea-languages",
+      "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
+      "hot": false,
+      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]

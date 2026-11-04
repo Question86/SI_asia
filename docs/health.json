@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-11-04T12:19:01+00:00",
-  "status": "normal",
+  "generated_at": "2026-11-04T12:49:43+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "new_relevant_findings": 6,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
-    "medium": 23,
+    "medium": 29,
     "observe": 30,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

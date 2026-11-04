@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-04T12:19:01+00:00",
-  "run_id": "2026-11-04T12:19:01+00:00",
+  "generated_at": "2026-11-04T12:49:43+00:00",
+  "run_id": "2026-11-04T12:49:43+00:00",
   "date": "2026-11-04",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 53
+      "configured_public_sources_only": 59
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "new_relevant_findings": 6,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
-    "medium": 23,
+    "medium": 29,
     "observe": 30,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -75,6 +75,30 @@
           "PINS"
         ],
         "id": "a6a4b291834d30177d30"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Rsync: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4324",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T12:44:15+00:00",
+        "fetched_at": "2026-11-04T12:49:07+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Rsync ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0b7db1b93e2ef3ca2c04"
       },
       {
         "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
@@ -287,6 +311,121 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "eb971ba25f042d801365"
+      },
+      {
+        "title": "[NEU] [mittel] Elasticsearch: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4325",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T12:44:15+00:00",
+        "fetched_at": "2026-11-04T12:49:07+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Elasticsearch ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren oder offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "975008e1602fcb48c193"
+      },
+      {
+        "title": "[NEU] [mittel] Nagios Enterprises Nagios XI: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4323",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T12:44:14+00:00",
+        "fetched_at": "2026-11-04T12:49:07+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Nagios Enterprises Nagios XI ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0993323fed1390d9767a"
+      },
+      {
+        "title": "[NEU] [mittel] TYPO3 Extension (Mail): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4322",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T12:44:13+00:00",
+        "fetched_at": "2026-11-04T12:49:07+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in der TYPO3 Mail Extension ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um falsche Informationen darzustellen, um Daten zu manipulieren, um Informationen offenzulegen und um einen Cross-Site Scripting Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1821b002784e69a25a0f"
+      },
+      {
+        "title": "[NEU] [mittel] Coolify: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4321",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T12:44:13+00:00",
+        "fetched_at": "2026-11-04T12:49:07+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Coolify ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc7b717e3e55e8a88cc0"
+      },
+      {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4320",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T12:44:12+00:00",
+        "fetched_at": "2026-11-04T12:49:07+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "51bbb0d938c148c126d0"
       },
       {
         "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
@@ -1343,6 +1482,30 @@
       "id": "a6a4b291834d30177d30"
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Rsync: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4324",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:44:15+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Rsync ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0b7db1b93e2ef3ca2c04"
+    },
+    {
       "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1553,6 +1716,121 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "eb971ba25f042d801365"
+    },
+    {
+      "title": "[NEU] [mittel] Elasticsearch: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4325",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:44:15+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Elasticsearch ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren oder offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "975008e1602fcb48c193"
+    },
+    {
+      "title": "[NEU] [mittel] Nagios Enterprises Nagios XI: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4323",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:44:14+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Nagios Enterprises Nagios XI ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0993323fed1390d9767a"
+    },
+    {
+      "title": "[NEU] [mittel] TYPO3 Extension (Mail): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4322",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:44:13+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in der TYPO3 Mail Extension ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um falsche Informationen darzustellen, um Daten zu manipulieren, um Informationen offenzulegen und um einen Cross-Site Scripting Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1821b002784e69a25a0f"
+    },
+    {
+      "title": "[NEU] [mittel] Coolify: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4321",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:44:13+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Coolify ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc7b717e3e55e8a88cc0"
+    },
+    {
+      "title": "[NEU] [mittel] IBM WebSphere Application Server: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4320",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:44:12+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "51bbb0d938c148c126d0"
     },
     {
       "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
@@ -2559,51 +2837,153 @@
   ],
   "new_findings": [
     {
-      "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
-      "url": "https://gigazine.net/news/20261104-ram-altman/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [UNGEPATCHT] [mittel] Rsync: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4324",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-04T07:56:21+00:00",
-      "fetched_at": "2026-11-04T12:18:33+00:00",
-      "summary": "OpenAIのサム・アルトマンCEOがXのアカウント名を「Ram Altman」に変更しました。 Ram Altman（@sama）さん / X https://x.com/sama OpenAIをはじめとするAI企業はAIの開発およびサービス展開のために膨大な数のメモリを購入しており、世界的なメモリ不足を引き起こしています。個人ユーザー向けのRAMの価格も急騰してお...",
+      "published_at": "2026-11-04T12:44:15+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Rsync ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "02f8c81e28c7f76be1dd"
+      "id": "0b7db1b93e2ef3ca2c04"
     },
     {
-      "title": "ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ",
-      "url": "https://chimolog.co/strata-guide/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [mittel] Elasticsearch: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4325",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-04T09:44:17+00:00",
-      "fetched_at": "2026-11-04T12:18:33+00:00",
-      "summary": "ローカル生成AIに真の民主化をもたらした推論エンジン「Strata」が凄いらしいけど、イマイチ使い方が分からないし、そもそも「凄さ」が分からない。 そう感じている自作PCユーザーが意外と少なくないので、本記事でStrataの使い方を解説します。すでに知ってる人からすれば当たり前の内容も多いですが、誰だって最初は初...",
+      "published_at": "2026-11-04T12:44:15+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Elasticsearch ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren oder offenzulegen.",
       "matched_keywords": [
-        "Content-Chance",
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9464383e3278174c6b3b"
+      "id": "975008e1602fcb48c193"
+    },
+    {
+      "title": "[NEU] [mittel] Nagios Enterprises Nagios XI: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4323",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:44:14+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Nagios Enterprises Nagios XI ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0993323fed1390d9767a"
+    },
+    {
+      "title": "[NEU] [mittel] TYPO3 Extension (Mail): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4322",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:44:13+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in der TYPO3 Mail Extension ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um falsche Informationen darzustellen, um Daten zu manipulieren, um Informationen offenzulegen und um einen Cross-Site Scripting Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1821b002784e69a25a0f"
+    },
+    {
+      "title": "[NEU] [mittel] Coolify: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4321",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:44:13+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Coolify ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc7b717e3e55e8a88cc0"
+    },
+    {
+      "title": "[NEU] [mittel] IBM WebSphere Application Server: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4320",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:44:12+00:00",
+      "fetched_at": "2026-11-04T12:49:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "51bbb0d938c148c126d0"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
