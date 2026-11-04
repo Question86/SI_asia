@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T16:07:01+00:00",
-  "run_id": "2026-11-04T16:07:01+00:00",
+  "generated_at": "2026-11-04T16:26:32+00:00",
+  "run_id": "2026-11-04T16:26:32+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 0,
@@ -3609,124 +3609,7 @@
       "id": "6d07835e6d2c1099505b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Vulnérabilité dans CPython (30 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1423/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "fetched_at": "2026-11-04T16:06:31+00:00",
-      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1c1af05b7159ddc9225c"
-    },
-    {
-      "title": "Vulnérabilité dans Ruby on Rails trilogy (30 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1424/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "fetched_at": "2026-11-04T16:06:31+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Ruby on Rails trilogy. Elle permet à un attaquant de provoquer une injection SQL (SQLi).",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "63875a29f3424bda9ad3"
-    },
-    {
-      "title": "Vulnérabilité dans Tenable Nessus Plugin (30 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1425/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "fetched_at": "2026-11-04T16:06:31+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Tenable Nessus Plugin. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3ccc326e2deaff9abca9"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "fetched_at": "2026-11-04T16:06:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "10cd78cc1f1539629d3e"
-    },
-    {
-      "title": "Vulnérabilité dans GitLab (30 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1427/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "fetched_at": "2026-11-04T16:06:31+00:00",
-      "summary": "Une vulnérabilité a été découverte dans les produits GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "73635907e79bb0010f8f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
