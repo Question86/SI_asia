@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T20:04:16+00:00_
+_Generated: 2026-11-04T20:17:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `77`
+- findings: `79`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-04T20:04:16+00:00_
 - url: https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/
 - summary: Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers d…
 
-### 3. [NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen
+### 3. CodeQL 2.27.4 improves accuracy and query metadata
+- source: GitHub Changelog Atom
+- score: `18`
+- published: `2026-11-04T20:04:52+00:00`
+- url: https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata
+- summary: CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.4 with query accuracy improvements across several… The post CodeQL 2.27.4 improves accuracy and quer…
+
+### 4. [NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-11-04T12:54:02+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4334
 - summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft GitHub Enterprise ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
-
-### 4. [NEU] [UNGEPATCHT] [mittel] Rsync: Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-11-04T12:44:15+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4324
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Rsync ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Daybreak Red is now available in AWS GovCloud (US-East)
 - source: OpenAI News RSS

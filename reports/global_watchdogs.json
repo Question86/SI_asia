@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-04T20:04:19+00:00",
+  "generated_at": "2026-11-04T20:17:42+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2024-27834 Apple Multiple Products",
+        "summary": "Known exploited vulnerability. Added 2026-11-04. Due 2026-11-18. Apple Multiple Products Improper Authentication Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-04",
+        "metrics": {
+          "cve": "CVE-2024-27834"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -53,52 +65,10 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-76418 Cisco Secure Firewall ASA Software and Cisco Secure FTD Software",
-        "summary": "Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-29",
-        "metrics": {
-          "cve": "CVE-2026-76418"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
         "title": "GDACS: Green flood alert in Bulgaria",
         "summary": "Green flood alert in Bulgaria",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104267",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Spain",
-        "summary": "Green flood alert in Spain",
-        "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104268",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.",
-        "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575068",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .",
-        "summary": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .",
-        "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346",
         "published_at": "",
         "metrics": {}
       }
