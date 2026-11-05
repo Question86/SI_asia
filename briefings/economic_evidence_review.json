@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T08:10:51+00:00",
+  "generated_at": "2026-11-05T08:25:03+00:00",
   "fx_as_of": null,
-  "candidate_count": 2672,
+  "candidate_count": 2676,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2672
+    "pending": 2676
   },
   "coverage_warning": null,
   "candidates": [
@@ -216,6 +216,27 @@
       "snippet": "t to the rental market, affordability is also a problem for many households. In 1980, 55 percent of rental housing units rented for $1,000 or less. 4 Adjusting for inflation, that $1,000 would be about $3,500 today, but only 20 percent of homes rent for less than that price. 5 Today, about one-half of all renters are cost burdened, meaning they pay 30 percent or mo",
       "source_priority": "primary_hint",
       "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm"
+    },
+    {
+      "amount_native": 588.8,
+      "amount_usd": 588.8,
+      "attribution_probability": null,
+      "candidate_confidence": 0.8,
+      "candidate_id": "cand_380a14e4804266c0eac2",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_15fd66135ed482efe095",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-05T08:24:55+00:00",
+      "overlap_group_suggestion": "evt_15fd66135ed482efe095:unknown:88fcbd405faa",
+      "review_status": "pending",
+      "snippet": "with its SQL and the steps that produced it, so you can check the result against the source: Answer: Revenue for USB food flash drive - sushi roll in Pennsylvania in June 2015 was $588.80, from 3 invoice lines. SQL: SELECT SUM(il.extendedprice) AS revenue, COUNT(*) AS invoice_lines FROM sales.invoicelines il JOIN sales.invoices i ON il.invoiceid = i.invoiceid JOIN",
+      "source_priority": "primary_hint",
+      "source_url": "https://github.com/NVIDIA/auto-ontology",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 100.0,
@@ -11065,6 +11086,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.6,
       "candidate_id": "cand_24ebc6e58cb99c813c81",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -11075,8 +11097,7 @@
       "review_status": "pending",
       "snippet": "ed-stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuani",
       "source_priority": "primary_hint",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "component_confidence": 0.0
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html"
     },
     {
       "amount_native": 1.0,
@@ -11084,6 +11105,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.6,
       "candidate_id": "cand_95e112e261629bdc3b5d",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -11094,8 +11116,7 @@
       "review_status": "pending",
       "snippet": "stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2",
       "source_priority": "primary_hint",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "component_confidence": 0.0
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html"
     },
     {
       "amount_native": 2.0,
@@ -11103,6 +11124,7 @@
       "attribution_probability": null,
       "candidate_confidence": 0.6,
       "candidate_id": "cand_f980694cfe99b2bc9428",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "missing_rate",
       "currency": "EUR",
@@ -11113,8 +11135,26 @@
       "review_status": "pending",
       "snippet": "ronmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2015) Latvia (2014) Estonia (2011) Slovakia (2009) Cyprus (200",
       "source_priority": "primary_hint",
-      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "component_confidence": 0.0
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html"
+    },
+    {
+      "amount_native": 1000000000.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_0719e3f3a47365807652",
+      "component_suggestion": "transfers",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_43856848b80264610146",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-05T08:24:54+00:00",
+      "overlap_group_suggestion": "evt_43856848b80264610146:transfers:232c9480ab39",
+      "review_status": "pending",
+      "snippet": "and confirmed strong market demand for a risk-free settlement asset. Pontes is now live with an initial group of market participants and DLT operators. On Monday, Pontes settled a €1 billion transaction in benchmark bonds successfully issued on DLT by the European Stability Mechanism. [ 7 ] Many other national and supernational institutions, including the World Bank,",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+      "component_confidence": 0.55
     },
     {
       "amount_native": 47600000000000.0,
@@ -34173,6 +34213,48 @@
       "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/"
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_e7cb0a3c51ed335fb60e",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_95f57f31cc263eba6ed0",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-05T08:25:01+00:00",
+      "overlap_group_suggestion": "evt_95f57f31cc263eba6ed0:capital_allocation:16a051a7b684",
+      "review_status": "pending",
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/googles-us15b-malaysia-bet-comes-with-a-promise-to-pay-its-own-power-bill-20261105/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_8e357d6d297aeeb05e86",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_95f57f31cc263eba6ed0",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-05T08:25:01+00:00",
+      "overlap_group_suggestion": "evt_95f57f31cc263eba6ed0:capital_allocation:f3a8ffe32888",
+      "review_status": "pending",
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/googles-us15b-malaysia-bet-comes-with-a-promise-to-pay-its-own-power-bill-20261105/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 44000000.0,
