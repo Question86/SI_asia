@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T11:18:41+00:00",
+  "generated_at": "2026-11-05T11:27:17+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
       },
       {
+        "title": "[NEU] [hoch] SEPPmail Secure E-Mail Gateway: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:24:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4349"
+      },
+      {
         "title": "[UPDATE] [hoch] Ruby on Rails: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-05T09:14:57+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-05T02:00:15+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/"
-      },
-      {
-        "title": "AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-04T12:39:35+00:00",
-        "relevance_score": 10,
-        "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219"
       }
     ],
     "security": [
@@ -82,6 +82,13 @@
         "published_at": "2026-11-05T06:05:36+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (tesseract): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:19:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4345"
       },
       {
         "title": "[NEU] [hoch] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
@@ -105,46 +112,39 @@
         "url": "https://jvn.jp/jp/JVN55454512/"
       },
       {
+        "title": "[NEU] [hoch] SEPPmail Secure E-Mail Gateway: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:24:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4349"
+      },
+      {
+        "title": "[NEU] [hoch] Apache ActiveMQ: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:24:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4348"
+      },
+      {
+        "title": "[NEU] [mittel] Cisco Unified Communications Manager (CUCM): Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:24:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4347"
+      },
+      {
+        "title": "[NEU] [mittel] Vercel Next.js: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:19:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4346"
+      },
+      {
         "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-05T11:09:56+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4344"
-      },
-      {
-        "title": "[NEU] [hoch] IBM MQ: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:09:55+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4343"
-      },
-      {
-        "title": "[NEU] [hoch] apt: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:04:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4341"
-      },
-      {
-        "title": "[UPDATE] [mittel] Asterisk: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T09:53:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4205"
-      },
-      {
-        "title": "[UPDATE] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T09:50:26+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3107"
-      },
-      {
-        "title": "[UPDATE] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T09:14:57+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4329"
       }
     ],
     "economy": [
@@ -172,6 +172,13 @@
     ],
     "geopolitics": [
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (tesseract): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:19:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4345"
+      },
+      {
         "title": "[NEU] [hoch] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-05T11:04:56+00:00",
@@ -193,6 +200,34 @@
         "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
       },
       {
+        "title": "[NEU] [hoch] SEPPmail Secure E-Mail Gateway: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:24:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4349"
+      },
+      {
+        "title": "[NEU] [hoch] Apache ActiveMQ: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:24:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4348"
+      },
+      {
+        "title": "[NEU] [mittel] Cisco Unified Communications Manager (CUCM): Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:24:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4347"
+      },
+      {
+        "title": "[NEU] [mittel] Vercel Next.js: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:19:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4346"
+      },
+      {
         "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-05T11:09:56+00:00",
@@ -205,34 +240,6 @@
         "published_at": "2026-11-05T11:09:55+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4343"
-      },
-      {
-        "title": "[NEU] [hoch] apt: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:04:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4341"
-      },
-      {
-        "title": "Piero Cipollone: Shaping the future of money",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-11-05T07:30:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html"
-      },
-      {
-        "title": "Google’s US$15B Malaysia bet comes with a promise to pay its own power bill",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-05T08:12:48+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/googles-us15b-malaysia-bet-comes-with-a-promise-to-pay-its-own-power-bill-20261105/"
-      },
-      {
-        "title": "Why global expansion demands a different mindset today",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-05T03:00:58+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/why-global-expansion-demands-a-different-mindset-today-20261101/"
       }
     ],
     "general": [
