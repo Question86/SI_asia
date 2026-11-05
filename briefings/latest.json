@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T03:37:57+00:00",
-  "run_id": "2026-11-05T03:37:57+00:00",
+  "generated_at": "2026-11-05T03:45:48+00:00",
+  "run_id": "2026-11-05T03:45:48+00:00",
   "date": "2026-11-05",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 11
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 11,
     "displayed_findings": 11,
     "high": 0,
     "medium": 1,
     "observe": 10,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -545,37 +545,8 @@
       "id": "3a044c4dd91b52915c2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "メーカー自身がバックドアを仕込み、犯罪集団に“販売” 乗っ取られたTV用端末130万台超、Googleが遮断 日本の警察庁も参加",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-04T22:58:52+00:00",
-      "fetched_at": "2026-11-05T03:37:18+00:00",
-      "summary": "Googleの脅威分析チーム「Google Threat Intelligence Group」は11月2日（米国時間）、不正プログラム「XCPE」を、日本の警察庁や業界のパートナーと協力して無力化したと発表した。XCPEはTVにつないで動画配信サービスなどを楽しむための「セットトップボックス」130万台超を乗っ取っていた。驚くべきは、不正プログラ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7dc662ef8459496cdec6"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
