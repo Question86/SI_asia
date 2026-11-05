@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-05T09:51:57+00:00",
+  "generated_at": "2026-11-05T09:59:57+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 2,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 12,
+    "medium": 14,
     "observe": 25
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "[UPDATE] [hoch] Samsung Exynos: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-05T08:00:00+00:00",
+      "published_at": "2026-11-05T09:53:06+00:00",
       "relevance_score": 16,
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "summary": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4266",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Exynos ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte…",
       "section": "medium"
     },
     {

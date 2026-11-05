@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T09:51:57+00:00_
+_Generated: 2026-11-05T09:59:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `37`
+- findings: `39`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-05T09:51:57+00:00_
 - url: https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/
 - summary: For two years, the rules of AI fundraising were simple: whoever asked for the biggest number got it. Last week, that stopped being true at the very top of the market. OpenAI cut its fundraising target by US$10 billion to US$20 billion as falling tech stocks a…
 
-### 4. Isabel Schnabel: Navigating stormy waters: reflections on monetary policy
-- source: ECB Press Releases Speeches Interviews
+### 4. [UPDATE] [hoch] Samsung Exynos: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-11-05T08:00:00+00:00`
-- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html
-- summary: Isabel Schnabel: Navigating stormy waters: reflections on monetary policy
+- published: `2026-11-05T09:53:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4266
+- summary: Ein Angreifer kann mehrere Schwachstellen in Samsung Exynos ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte…
 
 ### 5. M 5.0 - 114 km W of Petrolia, CA
 - source: USGS M4.5+ Earthquakes Past Hour
