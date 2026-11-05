@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T07:35:09+00:00",
-  "run_id": "2026-11-05T07:35:09+00:00",
+  "generated_at": "2026-11-05T07:42:14+00:00",
+  "run_id": "2026-11-05T07:42:14+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1163,28 +1163,7 @@
       "id": "3a044c4dd91b52915c2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Piero Cipollone: Shaping the future of money",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-11-05T07:30:00+00:00",
-      "fetched_at": "2026-11-05T07:34:41+00:00",
-      "summary": "Piero Cipollone: Shaping the future of money",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "43c7a816cb71aadd797a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
