@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T00:37:18+00:00_
+_Generiert: 2026-11-05T00:57:59+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+6 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -51,14 +51,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: １．万能の願望器「聖杯」に願いをかけること 「聖杯」と言って連想される作品はさまざまだろう。年配の人なら『インディージョーンズ』を思い出そうが、私はアニメ／ゲーム『Fate』シリーズに登場する「聖杯」、特に『Fate/Zero』に登場する「聖杯」が真っ先に思い出される。 『Fate』シリーズでは、「聖杯戦争」と呼ば...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media** — Score 5, observation — [Quelle](https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari)
+- **日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-03T23:35:47+00:00`, fetched `2026-11-05T00:01:00+00:00`
+  - Zeit: published `2026-11-04T23:02:29+00:00`, fetched `2026-11-05T00:57:30+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 1冊の本が、エンジニアの進む方向を変えることがある。この企画では、エンジニアが1冊の本と出会った場面から今につながる変化までをたどります。誰かの1冊との物語が、あなたが次の1冊に手を伸ばすきっかけになりますように。Findy Engineer Labで全7回・55名の方にご登場いただいた「珠玉の書籍」が、1記事2名でじっく...
+  - Kurz: 日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

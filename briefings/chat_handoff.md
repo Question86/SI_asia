@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T00:37:18+00:00_
+_Generated: 2026-11-05T00:57:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-11-05T00:37:18+00:00_
 - url: https://blog.tinect.jp/?p=91573
 - summary: １．万能の願望器「聖杯」に願いをかけること 「聖杯」と言って連想される作品はさまざまだろう。年配の人なら『インディージョーンズ』を思い出そうが、私はアニメ／ゲーム『Fate』シリーズに登場する「聖杯」、特に『Fate/Zero』に登場する「聖杯」が真っ先に思い出される。 『Fate』シリーズでは、「聖杯戦争」と呼ば...
 
-### 5. 珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media
+### 5. 日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-11-03T23:35:47+00:00`
-- url: https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari
-- summary: 1冊の本が、エンジニアの進む方向を変えることがある。この企画では、エンジニアが1冊の本と出会った場面から今につながる変化までをたどります。誰かの1冊との物語が、あなたが次の1冊に手を伸ばすきっかけになりますように。Findy Engineer Labで全7回・55名の方にご登場いただいた「珠玉の書籍」が、1記事2名でじっく...
+- published: `2026-11-04T23:02:29+00:00`
+- url: https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html
+- summary: 日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】
 
 END OF DOCUMENT
