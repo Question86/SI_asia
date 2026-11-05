@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-05T02:15:53Z",
+  "generated_at": "2026-11-05T02:28:22Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Siemens製品に対するアップデート（2026年11月）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU98354779/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T09:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -35,11 +35,36 @@
       "summary": "Siemensから各製品向けのアドバイザリが公表されました。"
     },
     {
+      "title": "【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた",
+      "url": "https://av.watch.impress.co.jp/docs/review/review/2152900.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-19T09:36:28+00:00",
+      "age_days": 16.7,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.69,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Siemens製品に対するアップデート（2026年11月）",
       "url": "https://jvn.jp/vu/JVNVU98354779/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T01:50:38+00:00",
-      "age_days": 62.02,
+      "age_days": 62.03,
       "topics": [
         "general"
       ],
@@ -60,37 +85,11 @@
       "summary": ""
     },
     {
-      "title": "The Great Unsubscribe: Why shoppers are tuning out brand messaging, and how retailers can stop it",
-      "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-05T02:01:16+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 14.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】",
       "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T00:58:02+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -110,11 +109,37 @@
       "summary": ""
     },
     {
+      "title": "The Great Unsubscribe: Why shoppers are tuning out brand messaging, and how retailers can stop it",
+      "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-05T02:01:16+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Introducing Images 2.6",
       "url": "https://openai.com/index/introducing-images-2-6",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 140.23,
+      "age_days": 140.24,
       "topics": [
         "general"
       ],
@@ -140,7 +165,7 @@
       "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T02:00:15+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "infra"
@@ -168,7 +193,7 @@
       "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T01:08:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -194,7 +219,7 @@
       "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T12:39:35+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "ai"
       ],
@@ -220,7 +245,7 @@
       "url": "https://openai.com/index/introducing-images-2-6",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 1.09,
+      "age_days": 1.1,
       "topics": [
         "ai"
       ],
@@ -246,23 +271,23 @@
       "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 139.01,
+      "age_days": 139.02,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 6.93,
+      "dynamics_score": 6.74,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.57,
+      "baseline_z_hint": 3.4,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.57",
+        "baseline z_hint 3.40",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 139.0d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -274,7 +299,7 @@
       "url": "https://blog.tinect.jp/?p=91573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T00:37:22+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -294,32 +319,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "AI might be the final boss for your best ideas",
-      "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-05T01:00:27+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Earlier this year, I was staring at our 2026 plan and thinking: there are too many things in here. Payroll, billing, cross-border payments, payment licences, more salespeople, more product development. Individually, almost every initiative had a reasonable argument behind it. The problem was that they couldn’t all be…"
     }
   ],
   "read_order": [
@@ -332,8 +331,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 1,
-      "watch": 3,
-      "quiet": 8
+      "watch": 4,
+      "quiet": 7
     }
   }
 }
