@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T09:28:41+00:00_
+_Generiert: 2026-11-05T09:37:11+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+35 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 October, Binance suffered the biggest theft in crypto history, with […] The post Equal spend: why AI budgets need a security twin appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in now** — Score 19, observation — [Quelle](https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-05T09:28:53+00:00`, fetched `2026-11-05T09:36:45+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, OpenAI, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0)
+  - Kurz: For two years, the rules of AI fundraising were simple: whoever asked for the biggest number got it. Last week, that stopped being true at the very top of the market. OpenAI cut its fundraising target by US$10 billion to US$20 billion as falling tech stocks and weaker investor demand complicated its plans ahead of […] The post The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Isabel Schnabel: Navigating stormy waters: reflections on monetary policy** — Score 16, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-11-05T08:00:00+00:00`, fetched `2026-11-05T08:09:41+00:00`
