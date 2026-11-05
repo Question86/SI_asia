@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T23:01:24+00:00_
+_Generated: 2026-11-05T23:29:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `99`
+- findings: `102`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-05T23:01:24+00:00_
 - url: https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/
 - summary: For two years, the rules of AI fundraising were simple: whoever asked for the biggest number got it. Last week, that stopped being true at the very top of the market. OpenAI cut its fundraising target by US$10 billion to US$20 billion as falling tech stocks a…
 
-### 5. M 6.1 - Fiji region
+### 5. M 4.6 - 147 km SSE of False Pass, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-11-05T23:29:00.409+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twd4
+- summary: PAGER - GREEN ShakeMap - III Time 2026-11-05 23:04:57 UTC 2026-11-05 23:04:57 UTC at epicenter Location 53.553°N 162.950°W Depth 16.13 km (10.03 mi)
+
+### 6. M 6.1 - Fiji region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-11-05T17:46:56.144+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r
 - summary: PAGER - GREEN ShakeMap - I Time 2026-11-05 17:21:45 UTC 2026-11-05 17:21:45 UTC at epicenter Location 21.169°S 178.646°W Depth 540.79 km (336.03 mi)
 
-### 6. M 5.0 - 114 km W of Petrolia, CA
+### 7. M 5.0 - 114 km W of Petrolia, CA
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-11-05T05:28:47.542+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637
 - summary: PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-05 04:56:01 UTC 2026-11-05 04:56:01 UTC at epicenter Location 40.425°N 125.627°W Depth 2.14 km (1.33 mi)
 
-### 7. Chopin
+### 8. Chopin
 - source: Hatena Bookmark Hotentry IT
 - score: `13`
 - published: `2026-09-10T10:10:12+00:00`
 - url: https://githubnext.com/projects/chopin/
 - summary: Chopin A real-time multiplayer, agentic planning environment What's it for? Exploring how we can make team planning with agents feel like a truly collaborative experience, with less cognitive load and more capacity for decision making and deep research Share…
-
-### 8. NVIDIA/auto-ontology
-- source: GitHub Trending RSS All Languages Daily
-- score: `13`
-- published: `None`
-- url: https://github.com/NVIDIA/auto-ontology
-- summary: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve docu…
 
 END OF DOCUMENT

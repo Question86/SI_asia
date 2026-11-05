@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T23:01:24+00:00",
-  "run_id": "2026-11-05T23:01:24+00:00",
+  "generated_at": "2026-11-05T23:29:29+00:00",
+  "run_id": "2026-11-05T23:29:29+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 99
+      "configured_public_sources_only": 102
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 99,
-    "displayed_findings": 99,
+    "today_file_total": 102,
+    "displayed_findings": 102,
     "high": 0,
-    "medium": 44,
-    "observe": 55,
+    "medium": 45,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -357,6 +357,51 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a392b16a79da1adda198"
+      },
+      {
+        "title": "Merge builds product and business tools with OpenAI technology",
+        "url": "https://openai.com/index/merge-builds-with-openai",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-05T08:00:00+00:00",
+        "fetched_at": "2026-11-05T23:29:00+00:00",
+        "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "28f2736f008bd7d52cde"
       },
       {
         "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
@@ -1090,6 +1135,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 4.6 - 147 km SSE of False Pass, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twd4",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-05T23:29:00.409+00:00",
+        "fetched_at": "2026-11-05T23:29:00+00:00",
+        "summary": "PAGER - GREEN ShakeMap - III Time 2026-11-05 23:04:57 UTC 2026-11-05 23:04:57 UTC at epicenter Location 53.553°N 162.950°W Depth 16.13 km (10.03 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "ecfa910fcdc3b66d6d44"
+      },
       {
         "title": "M 6.1 - Fiji region",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r",
@@ -2104,6 +2187,27 @@
         "id": "b25f9380ee9598d29bbc"
       },
       {
+        "title": "BS12、'27年4月から2ch体制に。「BS釣りビジョン」を承継",
+        "url": "https://av.watch.impress.co.jp/docs/news/2153831.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-05T02:50:52+00:00",
+        "fetched_at": "2026-11-05T23:29:00+00:00",
+        "summary": "BS12、'27年4月から2ch体制に。「BS釣りビジョン」を承継",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f1862ceb9fb019809fd1"
+      },
+      {
         "title": "PLaMo 3 Translate：世界最高クラスの翻訳特化LLMの重み公開と開発秘話｜株式会社Preferred Networks",
         "url": "https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2744,6 +2848,51 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a392b16a79da1adda198"
+    },
+    {
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "fetched_at": "2026-11-05T23:29:00+00:00",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "28f2736f008bd7d52cde"
     },
     {
       "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
@@ -3474,6 +3623,44 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "927e37eca4239ef13cba"
+    },
+    {
+      "title": "M 4.6 - 147 km SSE of False Pass, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twd4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-05T23:29:00.409+00:00",
+      "fetched_at": "2026-11-05T23:29:00+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-11-05 23:04:57 UTC 2026-11-05 23:04:57 UTC at epicenter Location 53.553°N 162.950°W Depth 16.13 km (10.03 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ecfa910fcdc3b66d6d44"
     },
     {
       "title": "M 6.1 - Fiji region",
@@ -4489,6 +4676,27 @@
       "id": "b25f9380ee9598d29bbc"
     },
     {
+      "title": "BS12、'27年4月から2ch体制に。「BS釣りビジョン」を承継",
+      "url": "https://av.watch.impress.co.jp/docs/news/2153831.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T02:50:52+00:00",
+      "fetched_at": "2026-11-05T23:29:00+00:00",
+      "summary": "BS12、'27年4月から2ch体制に。「BS釣りビジョン」を承継",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f1862ceb9fb019809fd1"
+    },
+    {
       "title": "PLaMo 3 Translate：世界最高クラスの翻訳特化LLMの重み公開と開発秘話｜株式会社Preferred Networks",
       "url": "https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4801,48 +5009,73 @@
   ],
   "new_findings": [
     {
-      "title": "「Firefox」に新しい「ミニウィンドウ」--マルチタスク派にとって夢のような機能",
-      "url": "https://japan.zdnet.com/article/35254318/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-05T21:38:45+00:00",
-      "fetched_at": "2026-11-05T23:00:53+00:00",
-      "summary": "Mozillaの開発陣は、ウェブブラウザーの「Firefox」を市場で最も実用的なブラウザーにすべく、機能改善を重ねている。その一環として追加された新機能が、現在ベータ段階にある「Mini Window」だ。筆者は同機能がFirefox Nightlyに搭載されてから試用しているが、その動作や完成度には大いに満足している。 ミニウィンド...",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "fetched_at": "2026-11-05T23:29:00+00:00",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aec88d192f1f37842b58"
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "28f2736f008bd7d52cde"
     },
     {
-      "title": "M 4.6 - south of the Fiji Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twcy",
+      "title": "M 4.6 - 147 km SSE of False Pass, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twd4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-05T22:53:48.040+00:00",
-      "fetched_at": "2026-11-05T23:00:53+00:00",
-      "summary": "Time 2026-11-05 22:34:48 UTC 2026-11-05 22:34:48 UTC at epicenter Location 23.532°S 179.939°E Depth 523.45 km (325.25 mi)",
+      "published_at": "2026-11-05T23:29:00.409+00:00",
+      "fetched_at": "2026-11-05T23:29:00+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-11-05 23:04:57 UTC 2026-11-05 23:04:57 UTC at epicenter Location 53.553°N 162.950°W Depth 16.13 km (10.03 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -4856,16 +5089,16 @@
         "HD",
         "LOW"
       ],
-      "id": "b445b3542fe5da563e73"
+      "id": "ecfa910fcdc3b66d6d44"
     },
     {
-      "title": "アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持",
-      "url": "https://gigazine.net/news/20261105-us-data-center-vote-reject/",
+      "title": "BS12、'27年4月から2ch体制に。「BS釣りビジョン」を承継",
+      "url": "https://av.watch.impress.co.jp/docs/news/2153831.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-05T10:14:14+00:00",
-      "fetched_at": "2026-11-05T23:00:53+00:00",
-      "summary": "アメリカで2026年11月3日に実施された中間選挙に合わせて、各地でAI向けデータセンターの建設を禁止・制限する住民投票が行われました。多くの地域でデータセンターの建設に反対する結果となり、11月4日時点では2026年に実施された関連住民投票47件のうち46件で規制強化を支持する結果が出ています。 US voters roundly ...",
+      "published_at": "2026-11-05T02:50:52+00:00",
+      "fetched_at": "2026-11-05T23:29:00+00:00",
+      "summary": "BS12、'27年4月から2ch体制に。「BS釣りビジョン」を承継",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4877,7 +5110,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "22470ab418bb9c40d67e"
+      "id": "f1862ceb9fb019809fd1"
     }
   ],
   "source_errors": [],
