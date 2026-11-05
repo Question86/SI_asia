@@ -22,6 +22,28 @@
     "id": "7809bddac3100d432498"
   },
   {
+    "title": "SHIRASAGIにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN55454512/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-05T14:00:00+09:00",
+    "fetched_at": "2026-11-05T05:29:49+00:00",
+    "summary": "SHIRASAGI Projectが提供するSHIRASAGIには、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7a92e09f85a7dc4f52f8"
+  },
+  {
     "title": "Siemens製品に対するアップデート（2026年11月）",
     "url": "https://jvn.jp/vu/JVNVU98354779/",
     "source": "JVN Japan Vulnerability Notes",
@@ -42,6 +64,44 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "aadeab345e5ca56ae783"
+  },
+  {
+    "title": "M 5.0 - 114 km W of Petrolia, CA",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-05T05:28:47.542+00:00",
+    "fetched_at": "2026-11-05T05:29:49+00:00",
+    "summary": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-05 04:56:01 UTC 2026-11-05 04:56:01 UTC at epicenter Location 40.425°N 125.627°W Depth 2.14 km (1.33 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "cf5ea46345ce15b4adfb"
   },
   {
     "title": "The Great Unsubscribe: Why shoppers are tuning out brand messaging, and how retailers can stop it",
