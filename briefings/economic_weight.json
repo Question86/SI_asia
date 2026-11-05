@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T17:17:52+00:00",
+  "generated_at": "2026-11-05T17:33:09+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1700,7 +1700,7 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -2601,7 +2601,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-05T05:30:25+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -5138,6 +5138,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e1110002a2a33b57b819",
+      "title": "M 5.0 - 130 km NE of Thang, India",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e758368a9deb1f05bef2",
       "title": "M 4.8 - 209 km ENE of Nagqu, China",
       "event_classes": [
@@ -5374,23 +5391,6 @@
       "first_seen_at": "2026-11-01T19:20:57+00:00",
       "last_seen_at": "2026-11-01T23:55:49+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e1110002a2a33b57b819",
-      "title": "M 5.0 - 130 km NE of Thang, India",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-11-05T17:17:29+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -10507,7 +10507,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-11-05T09:45:01+00:00",
       "last_seen_at": "2026-11-05T17:17:29+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_bd0c21c7f371aae694ee",
@@ -11986,7 +11986,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-11-05T10:28:38+00:00",
       "last_seen_at": "2026-11-05T17:17:29+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f48c44037424b2457b76",
@@ -12359,7 +12359,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -13940,7 +13940,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T05:21:09+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -14161,7 +14161,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -14452,6 +14452,23 @@
       "first_seen_at": "2026-10-16T12:31:55+00:00",
       "last_seen_at": "2026-10-17T23:58:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c965c5feb3f1bcd76eac",
+      "title": "Multiples vulnérabilités dans Roundcube (09 août 2024)",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 284000.0,
+      "p50_usd": 28400000.0,
+      "p90_usd": 2840000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-05T17:32:46+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_08244bc271b4aa50456f",
@@ -14859,7 +14876,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-03T20:16:44+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -15675,7 +15692,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T06:26:02+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -16168,7 +16185,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T09:37:13+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -17511,7 +17528,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -17545,7 +17562,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T04:01:32+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -20809,7 +20826,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -21932,8 +21949,8 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T13:25:56+00:00",
-      "last_seen_at": "2026-10-15T14:58:25+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_48c84c69de146b1d452c",
@@ -22068,7 +22085,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T13:20:50+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -22238,8 +22255,8 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-09T14:40:14+00:00",
-      "last_seen_at": "2026-10-15T14:58:25+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_73cd3532a8d319313d5e",
@@ -22867,7 +22884,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -23395,7 +23412,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T06:03:10+00:00",
       "last_seen_at": "2026-11-05T17:17:29+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2581e03d08803964ff2c",
@@ -24076,7 +24093,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T02:01:16+00:00",
       "last_seen_at": "2026-11-05T17:17:29+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_77bf4210719b0c6d684a",
@@ -25452,7 +25469,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-11-05T17:17:29+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
       "status": "active"
     },
     {
@@ -29110,6 +29127,40 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_28f9d148e5f11220f014",
+      "title": "Multiples vulnérabilités dans Redmine (02 novembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-05T17:32:46+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_79e17dd6a5e2d5044a1f",
+      "title": "Multiples vulnérabilités dans les produits MongoDB (30 octobre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-05T17:32:46+00:00",
+      "last_seen_at": "2026-11-05T17:32:46+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_041397919a21c7984d11",
@@ -33343,7 +33394,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
       "last_seen_at": "2026-11-05T17:17:29+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3bdda892d400eb3623aa",
