@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T04:36:04+00:00_
+_Generiert: 2026-11-05T04:43:32+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „The step zero problem of the startup ecosystem“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+14 neue relevante Treffer. Stärkstes Signal: „The step zero problem of the startup ecosystem“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts** — Score 8, observation — [Quelle](https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-05T04:35:58+00:00`, fetched `2026-11-05T04:43:03+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
+  - Kurz: Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68 billion across 14 rounds, […] The post US$16.5B and counting: Inside the lopsided year that rewrote…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI might be the final boss for your best ideas** — Score 8, observation — [Quelle](https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-05T01:00:27+00:00`, fetched `2026-11-05T01:07:58+00:00`
@@ -86,15 +95,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: １．万能の願望器「聖杯」に願いをかけること 「聖杯」と言って連想される作品はさまざまだろう。年配の人なら『インディージョーンズ』を思い出そうが、私はアニメ／ゲーム『Fate』シリーズに登場する「聖杯」、特に『Fate/Zero』に登場する「聖杯」が真っ先に思い出される。 『Fate』シリーズでは、「聖杯戦争」と呼ば...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows?** — Score 4, observation — [Quelle](https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-05T04:12:58+00:00`, fetched `2026-11-05T04:16:47+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: I think this crypto advance deserves attention, but not full conviction. Bitcoin rose 4.77 per cent to US$80,721.27 in 24 hours and led a broad move that lifted the total crypto market 4.73 per cent to US$2.69T. The move showed an 87 per cent correlation with the S&P 500 and an 86 per cent correlation […] The post Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows? appeared first o…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

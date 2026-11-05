@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T04:36:04+00:00_
+_Generated: 2026-11-05T04:43:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-11-05T04:36:04+00:00_
 - url: https://openai.com/index/introducing-images-2-6
 - summary: Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.
 
-### 6. AI might be the final boss for your best ideas
+### 6. US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
-- published: `2026-11-05T01:00:27+00:00`
-- url: https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/
-- summary: Earlier this year, I was staring at our 2026 plan and thinking: there are too many things in here. Payroll, billing, cross-border payments, payment licences, more salespeople, more product development. Individually, almost every initiative had a reasonable ar…
+- published: `2026-11-05T04:35:58+00:00`
+- url: https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/
+- summary: Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion…
 
 END OF DOCUMENT

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T04:36:04+00:00",
-  "run_id": "2026-11-05T04:36:04+00:00",
+  "generated_at": "2026-11-05T04:43:32+00:00",
+  "run_id": "2026-11-05T04:43:32+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 13
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 1,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 2,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -161,6 +161,28 @@
           "PINS"
         ],
         "id": "1cee4a7b819df9a1cf8b"
+      },
+      {
+        "title": "US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts",
+        "url": "https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-05T04:35:58+00:00",
+        "fetched_at": "2026-11-05T04:43:03+00:00",
+        "summary": "Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68 billion across 14 rounds, […] The post US$16.5B and counting: Inside the lopsided year that rewrote…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding",
+          "Southeast Asia"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "649368d0ab84b60ae3a3"
       },
       {
         "title": "AI might be the final boss for your best ideas",
@@ -463,6 +485,28 @@
       "id": "1cee4a7b819df9a1cf8b"
     },
     {
+      "title": "US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts",
+      "url": "https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-05T04:35:58+00:00",
+      "fetched_at": "2026-11-05T04:43:03+00:00",
+      "summary": "Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68 billion across 14 rounds, […] The post US$16.5B and counting: Inside the lopsided year that rewrote…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "649368d0ab84b60ae3a3"
+    },
+    {
       "title": "AI might be the final boss for your best ideas",
       "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -629,7 +673,30 @@
       "id": "3a044c4dd91b52915c2a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts",
+      "url": "https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-05T04:35:58+00:00",
+      "fetched_at": "2026-11-05T04:43:03+00:00",
+      "summary": "Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68 billion across 14 rounds, […] The post US$16.5B and counting: Inside the lopsided year that rewrote…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "649368d0ab84b60ae3a3"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
