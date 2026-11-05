@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T12:34:37+00:00",
-  "run_id": "2026-11-05T12:34:37+00:00",
+  "generated_at": "2026-11-05T13:00:51+00:00",
+  "run_id": "2026-11-05T13:00:51+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
     "medium": 43,
-    "observe": 28,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -1408,6 +1408,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dabe184854762aa2a757"
+      },
+      {
+        "title": "SonicWall Global Management System verwundbar, bekommt aber keine Updates mehr",
+        "url": "https://www.heise.de/news/SonicWall-Global-Management-System-verwundbar-bekommt-aber-keine-Updates-mehr-11513413.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-11-05T12:51:00.000+00:00",
+        "fetched_at": "2026-11-05T13:00:15+00:00",
+        "summary": "SonicWalls Managementplattform Global Management System für IT-Security-Appliances ist angreifbar. Admins müssen auf den Nachfolger upgraden.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2074a6a841acf5584dec"
       },
       {
         "title": "OpenSSH und Alpine Linux warnt vor nischigem, aber gravierendem Bug",
@@ -3121,6 +3141,26 @@
       "id": "dabe184854762aa2a757"
     },
     {
+      "title": "SonicWall Global Management System verwundbar, bekommt aber keine Updates mehr",
+      "url": "https://www.heise.de/news/SonicWall-Global-Management-System-verwundbar-bekommt-aber-keine-Updates-mehr-11513413.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-05T12:51:00.000+00:00",
+      "fetched_at": "2026-11-05T13:00:15+00:00",
+      "summary": "SonicWalls Managementplattform Global Management System für IT-Security-Appliances ist angreifbar. Admins müssen auf den Nachfolger upgraden.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2074a6a841acf5584dec"
+    },
+    {
       "title": "OpenSSH und Alpine Linux warnt vor nischigem, aber gravierendem Bug",
       "url": "https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html",
       "source": "heise Security Alerts",
@@ -3453,27 +3493,24 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] docker: Schwachstelle ermöglicht Manipulation von Daten und Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3808",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "SonicWall Global Management System verwundbar, bekommt aber keine Updates mehr",
+      "url": "https://www.heise.de/news/SonicWall-Global-Management-System-verwundbar-bekommt-aber-keine-Updates-mehr-11513413.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-11-05T12:24:58+00:00",
-      "fetched_at": "2026-11-05T12:34:06+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in docker ausnutzen, um Daten zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-11-05T12:51:00.000+00:00",
+      "fetched_at": "2026-11-05T13:00:15+00:00",
+      "summary": "SonicWalls Managementplattform Global Management System für IT-Security-Appliances ist angreifbar. Admins müssen auf den Nachfolger upgraden.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d8beced0b964c3855cfe"
+      "id": "2074a6a841acf5584dec"
     }
   ],
   "source_errors": [],

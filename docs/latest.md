@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T12:34:37+00:00_
+_Generiert: 2026-11-05T13:00:51+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+72 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68 billion across 14 rounds, […] The post US$16.5B and counting: Inside the lopsided year that rewrote…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **SonicWall Global Management System verwundbar, bekommt aber keine Updates mehr** — Score 7, observation — [Quelle](https://www.heise.de/news/SonicWall-Global-Management-System-verwundbar-bekommt-aber-keine-Updates-mehr-11513413.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-05T12:51:00.000+00:00`, fetched `2026-11-05T13:00:15+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: SonicWalls Managementplattform Global Management System für IT-Security-Appliances ist angreifbar. Admins müssen auf den Nachfolger upgraden.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **OpenSSH und Alpine Linux warnt vor nischigem, aber gravierendem Bug** — Score 7, observation — [Quelle](https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-05T11:46:00.000+00:00`, fetched `2026-11-05T11:57:09+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: カードローンなどの保証業務を行っているSMBCコンシューマーファイナンスは、システムが不正アクセスを受け、ローンを申し込んだ人の名前や住所のほか、年収なども含む個人情報が、最大32万人分、漏えいしたと…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **データ転送量が約4倍となる新規格「Bluetooth HDT」正式承認。ロスレスオーディオの標準化へ - PHILE WEB** — Score 5, observation — [Quelle](https://www.phileweb.com/news/d-av/202611/05/66309.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-05T06:36:03+00:00`, fetched `2026-11-05T09:19:35+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: HOME > ニュース > データ転送量が約4倍となる新規格「Bluetooth HDT」正式承認。ロスレスオーディオの標準化へ Bluetooth SIGは、米国時間2026年11月4日、Bluetooth技術の性能を飛躍的に引き上げるという新規格「Bluetooth 高データスループット（High Data Throughput、以下 Bluetooth HDT）」を正式承認したと発表し...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
