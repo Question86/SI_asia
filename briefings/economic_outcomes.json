@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T09:37:47+00:00",
+  "generated_at": "2026-11-05T09:45:41+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -5632,7 +5632,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3a7b64268d90aebb6dad",
@@ -16186,12 +16186,12 @@
     {
       "event_id": "evt_a49e2dea446147f101dc",
       "title": "The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in now",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -18371,6 +18371,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_bb8fd237f24158fa60ce",
+      "title": "M 5.1 - 19 km NNW of Masumbwe, Tanzania",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_bb931d88e1fc4c542891",
