@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-11-05T09:37:13+00:00_
+_Generiert: 2026-11-05T09:45:01+00:00_
 
 ## The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in now
 
-- Ranking Score: `28.5`
-- Raw Network Score: `24.1`
+- Ranking Score: `26.0`
+- Raw Network Score: `21.1`
 - Max Monitor Score: `19`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -13,7 +13,7 @@ _Generiert: 2026-11-05T09:37:13+00:00_
 - Quellen: e27 Asia Startup and Tech Feed
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
