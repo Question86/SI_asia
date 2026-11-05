@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T08:47:54+00:00",
-  "run_id": "2026-11-05T08:47:54+00:00",
+  "generated_at": "2026-11-05T08:56:55+00:00",
+  "run_id": "2026-11-05T08:56:55+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 29,
     "displayed_findings": 29,
     "high": 0,
@@ -1415,28 +1415,7 @@
       "id": "3a044c4dd91b52915c2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Jetzt patchen! Attacken auf Zyxel-Switches beobachtet",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Zyxel-Switches-beobachtet-11512953.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-11-05T08:37:00.000+00:00",
-      "fetched_at": "2026-11-05T08:47:24+00:00",
-      "summary": "Derzeit haben es Angreifer auf Netzwerkswitches der GS1900-Serie von Zyxel abgesehen. Sicherheitspatches sind verfügbar.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "38bd431d96ec0e586f5b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
