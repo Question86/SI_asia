@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T05:47:06+00:00_
+_Generiert: 2026-11-05T06:03:06+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „The step zero problem of the startup ecosystem“ aus e27 Asia Startup and Tech Feed (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+19 neue relevante Treffer. Stärkstes Signal: „The step zero problem of the startup ecosystem“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -88,6 +88,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-05 04:56:01 UTC 2026-11-05 04:56:01 UTC at epicenter Location 40.425°N 125.627°W Depth 2.14 km (1.33 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Nine in ten Singaporeans use AI. Only a third are comfortable with it** — Score 10, observation — [Quelle](https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-05T05:45:31+00:00`, fetched `2026-11-05T06:02:36+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Nine in ten Singapore internet users now reach for an AI tool every month. Barely a third say they are comfortable doing so. That gap between habit and confidence is the most telling finding in Digital 2027: Singapore, the annual report released today by creative agency We Are Social and media intelligence firm Meltwater. According […] The post Nine in ten Singaporeans use AI. Only a third are comfortable with it ap…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The Great Unsubscribe: Why shoppers are tuning out brand messaging, and how retailers can stop it** — Score 10, observation — [Quelle](https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-05T02:00:15+00:00`, fetched `2026-11-05T02:00:41+00:00`
@@ -133,14 +142,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68 billion across 14 rounds, […] The post US$16.5B and counting: Inside the lopsided year that rewrote…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI might be the final boss for your best ideas** — Score 8, observation — [Quelle](https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-05T01:00:27+00:00`, fetched `2026-11-05T01:07:58+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+- **マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-11-05T06:00:00+00:00`, fetched `2026-11-05T06:02:36+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Earlier this year, I was staring at our 2026 plan and thinking: there are too many things in here. Payroll, billing, cross-border payments, payment licences, more salespeople, more product development. Individually, almost every initiative had a reasonable argument behind it. The problem was that they couldn’t all be equally important. So I uploaded the numbers, […] The post AI might be the final boss for your best…
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/review/review/2152900.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -169,7 +178,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/feed/
