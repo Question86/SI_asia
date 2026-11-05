@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T06:03:06+00:00",
-  "run_id": "2026-11-05T06:03:06+00:00",
+  "generated_at": "2026-11-05T06:25:56+00:00",
+  "run_id": "2026-11-05T06:25:56+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 16,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Equal spend: why AI budgets need a security twin",
+        "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-05T06:05:36+00:00",
+        "fetched_at": "2026-11-05T06:25:25+00:00",
+        "summary": "The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 October, Binance suffered the biggest theft in crypto history, with […] The post Equal spend: why AI budgets need a security twin appeared first on e27 .",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Security"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ed7bfc3dae191d31401c"
+      },
       {
         "title": "The step zero problem of the startup ecosystem",
         "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
@@ -491,6 +514,29 @@
   },
   "findings": [
     {
+      "title": "Equal spend: why AI budgets need a security twin",
+      "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-05T06:05:36+00:00",
+      "fetched_at": "2026-11-05T06:25:25+00:00",
+      "summary": "The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 October, Binance suffered the biggest theft in crypto history, with […] The post Equal spend: why AI budgets need a security twin appeared first on e27 .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ed7bfc3dae191d31401c"
+    },
+    {
       "title": "The step zero problem of the startup ecosystem",
       "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -949,45 +995,27 @@
   ],
   "new_findings": [
     {
-      "title": "Nine in ten Singaporeans use AI. Only a third are comfortable with it",
-      "url": "https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/",
+      "title": "Equal spend: why AI budgets need a security twin",
+      "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-05T05:45:31+00:00",
-      "fetched_at": "2026-11-05T06:02:36+00:00",
-      "summary": "Nine in ten Singapore internet users now reach for an AI tool every month. Barely a third say they are comfortable doing so. That gap between habit and confidence is the most telling finding in Digital 2027: Singapore, the annual report released today by creative agency We Are Social and media intelligence firm Meltwater. According […] The post Nine in ten Singaporeans use AI. Only a third are comfortable with it ap…",
+      "published_at": "2026-11-05T06:05:36+00:00",
+      "fetched_at": "2026-11-05T06:25:25+00:00",
+      "summary": "The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 October, Binance suffered the biggest theft in crypto history, with […] The post Equal spend: why AI budgets need a security twin appeared first on e27 .",
       "matched_keywords": [
+        "AI Agents",
         "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Security"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 20,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c6f32effd06d3f4e5b66"
-    },
-    {
-      "title": "マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました",
-      "url": "https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-05T06:00:00+00:00",
-      "fetched_at": "2026-11-05T06:02:36+00:00",
-      "summary": "マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5733516cd58e4cb69454"
+      "id": "ed7bfc3dae191d31401c"
     }
   ],
   "source_errors": [],
