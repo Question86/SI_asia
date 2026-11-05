@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-05T06:46:57+00:00_
+_Generiert: 2026-11-05T07:02:57+00:00_
 
 ## Equal spend: why AI budgets need a security twin
 
