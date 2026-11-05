@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T00:01:38+00:00",
+  "generated_at": "2026-11-05T00:37:22+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -98,10 +98,9 @@
       "z_hint": 0.0
     },
     "domain:openai.com": {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "updated_at": "2026-11-04T23:46:50+00:00",
+      "title": "Introducing Images 2.6",
+      "updated_at": "2026-11-05T00:37:22+00:00",
       "network_scores": [
-        17.2,
         17.2,
         17.2,
         17.2,
@@ -130,12 +129,13 @@
         21.4,
         21.4,
         21.4,
-        21.4
+        21.4,
+        15.1
       ],
-      "rolling_average": 18.38,
+      "rolling_average": 18.31,
       "rolling_peak": 27.4,
-      "last_score": 21.4,
-      "z_hint": 3.02
+      "last_score": 15.1,
+      "z_hint": -3.21
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -3748,8 +3748,8 @@
       "z_hint": 0.0
     },
     "domain:qiita.com": {
-      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
-      "updated_at": "2026-11-04T23:46:50+00:00",
+      "title": "AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita",
+      "updated_at": "2026-11-05T00:37:22+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -3780,12 +3780,12 @@
         7.1,
         7.1,
         7.1,
-        7.1
+        15.1
       ],
-      "rolling_average": 7.1,
-      "rolling_peak": 7.1,
-      "last_score": 7.1,
-      "z_hint": 0.0
+      "rolling_average": 7.37,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 7.73
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -15256,7 +15256,7 @@
     },
     "domain:findy-code.io": {
       "title": "珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media",
-      "updated_at": "2026-11-05T00:01:38+00:00",
+      "updated_at": "2026-11-05T00:37:22+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -15286,13 +15286,13 @@
         7.1,
         7.1,
         7.1,
-        7.1,
-        10.1
+        10.1,
+        7.1
       ],
       "rolling_average": 7.2,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 2.9
+      "last_score": 7.1,
+      "z_hint": -0.1
     },
     "title:aws-aws-cloud-quest-aws-cloud-quest": {
       "title": "AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め",
@@ -17394,8 +17394,8 @@
       "z_hint": -0.0
     },
     "title:siemens-2026": {
-      "title": "Siemens製品に対するアップデート（2026年10月）",
-      "updated_at": "2026-10-14T23:56:45+00:00",
+      "title": "Siemens製品に対するアップデート（2026年11月）",
+      "updated_at": "2026-11-05T00:37:22+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -17426,12 +17426,12 @@
         16.1,
         16.1,
         16.1,
-        16.1
+        19.1
       ],
-      "rolling_average": 16.1,
-      "rolling_peak": 16.1,
-      "last_score": 16.1,
-      "z_hint": -0.0
+      "rolling_average": 16.2,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 2.9
     },
     "domain:techblog.zozo.com": {
       "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
@@ -105801,6 +105801,17 @@
       "rolling_peak": 15.1,
       "last_score": 12.1,
       "z_hint": -0.5
+    },
+    "url:https://blog.tinect.jp/?p=91573": {
+      "title": "AIと「聖杯」は似ている。",
+      "updated_at": "2026-11-05T00:37:22+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }
