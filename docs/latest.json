@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T15:50:05+00:00",
-  "run_id": "2026-11-05T15:50:05+00:00",
+  "generated_at": "2026-11-05T15:58:12+00:00",
+  "run_id": "2026-11-05T15:58:12+00:00",
   "date": "2026-11-05",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 76
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 76,
     "displayed_findings": 76,
     "high": 0,
     "medium": 43,
     "observe": 33,
-    "source_errors": 0
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -3709,30 +3709,21 @@
       "id": "c3ac3e533413f431142c"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "GPUI",
-      "url": "https://gpui.rs/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
       "source_type": "rss",
-      "published_at": "2024-01-25T07:44:56+00:00",
-      "fetched_at": "2026-11-05T15:49:33+00:00",
-      "summary": "GPUI A fast, hybrid immediate and retained mode, GPU-accelerated UI framework for Rust. From the creators of Zed & Delta. use gpui::{ div, prelude::*, px, rgb, size, App, Application, Bounds, Context, SharedString, Window, WindowBounds, WindowOptions, }; struct HelloWorld { text: SharedString, } ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c3ac3e533413f431142c"
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
