@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T11:27:17+00:00",
+  "generated_at": "2026-11-05T11:35:44+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,20 @@
         "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/"
       },
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (xorg-x11-server): Schwachstelle ermöglicht Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:34:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4353"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] SonicWall GMS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:34:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4354"
+      },
+      {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (tesseract): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-05T11:19:56+00:00",
@@ -112,39 +126,25 @@
         "url": "https://jvn.jp/jp/JVN55454512/"
       },
       {
-        "title": "[NEU] [hoch] SEPPmail Secure E-Mail Gateway: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Webmin: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:24:56+00:00",
+        "published_at": "2026-11-05T11:34:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4349"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4355"
       },
       {
-        "title": "[NEU] [hoch] Apache ActiveMQ: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Drupal Erweiterungen: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:24:56+00:00",
+        "published_at": "2026-11-05T11:34:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4348"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4352"
       },
       {
-        "title": "[NEU] [mittel] Cisco Unified Communications Manager (CUCM): Schwachstelle ermöglicht Cross-Site Scripting",
+        "title": "[NEU] [mittel] Cisco Unified Computing System (UCS): Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:24:55+00:00",
+        "published_at": "2026-11-05T11:29:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4347"
-      },
-      {
-        "title": "[NEU] [mittel] Vercel Next.js: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:19:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4346"
-      },
-      {
-        "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:09:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4344"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4351"
       }
     ],
     "economy": [
@@ -171,6 +171,20 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (xorg-x11-server): Schwachstelle ermöglicht Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:34:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4353"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] SonicWall GMS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:34:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4354"
+      },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (tesseract): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -200,46 +214,32 @@
         "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
       },
       {
-        "title": "[NEU] [hoch] SEPPmail Secure E-Mail Gateway: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Webmin: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:24:56+00:00",
+        "published_at": "2026-11-05T11:34:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4349"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4355"
       },
       {
-        "title": "[NEU] [hoch] Apache ActiveMQ: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Drupal Erweiterungen: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:24:56+00:00",
+        "published_at": "2026-11-05T11:34:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4348"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4352"
       },
       {
-        "title": "[NEU] [mittel] Cisco Unified Communications Manager (CUCM): Schwachstelle ermöglicht Cross-Site Scripting",
+        "title": "[NEU] [mittel] Cisco Unified Computing System (UCS): Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:24:55+00:00",
+        "published_at": "2026-11-05T11:29:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4347"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4351"
       },
       {
-        "title": "[NEU] [mittel] Vercel Next.js: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Cisco Identity Services Engine (ISE): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:19:56+00:00",
+        "published_at": "2026-11-05T11:29:55+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4346"
-      },
-      {
-        "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:09:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4344"
-      },
-      {
-        "title": "[NEU] [hoch] IBM MQ: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:09:55+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4343"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4350"
       }
     ],
     "general": [
