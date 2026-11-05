@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-11-05T08:57:44+00:00`
+Generated: `2026-11-05T09:04:42+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -11,6 +11,7 @@ Generated: `2026-11-05T08:57:44+00:00`
 | M 4.9 - 12 km SSW of Tebario, Panama | $0 | — | 0 | 0 | dormant |
 | Every department you add makes your startup harder to understand | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 12 km SE of La Parguera, Puerto Rico | $0 | — | 0 | 0 | dormant |
+| 「勝利の女神：NIKKE」のPCランチャー経由の不正プログラム配布についてまとめてみた - piyolog | $0 | — | 0 | 0 | active |
 | Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 124 km N of Metinaro, Timor Leste | $0 | — | 0 | 0 | dormant |
 | AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-11-05T08:57:44+00:00`
 | pollen-robotics/microduck | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
-| リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中 | $0 | — | 0 | 0 | dormant |
