@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T07:59:00+00:00_
+_Generiert: 2026-11-05T08:10:17+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 October, Binance suffered the biggest theft in crypto history, with […] The post Equal spend: why AI budgets need a security twin appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Isabel Schnabel: Navigating stormy waters: reflections on monetary policy** — Score 16, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-11-05T08:00:00+00:00`, fetched `2026-11-05T08:09:41+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); Climate/Disaster Infrastructure (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Isabel Schnabel: Navigating stormy waters: reflections on monetary policy
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The step zero problem of the startup ecosystem** — Score 16, observation — [Quelle](https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-05T04:00:42+00:00`, fetched `2026-11-05T04:01:01+00:00`

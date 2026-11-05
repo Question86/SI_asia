@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T07:59:00+00:00_
+_Generated: 2026-11-05T08:10:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `25`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-05T07:59:00+00:00_
 - url: https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/
 - summary: The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 O…
 
-### 3. The step zero problem of the startup ecosystem
+### 3. Isabel Schnabel: Navigating stormy waters: reflections on monetary policy
+- source: ECB Press Releases Speeches Interviews
+- score: `16`
+- published: `2026-11-05T08:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html
+- summary: Isabel Schnabel: Navigating stormy waters: reflections on monetary policy
+
+### 4. The step zero problem of the startup ecosystem
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-11-05T04:00:42+00:00`
 - url: https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/
 - summary: Over the last decade, Southeast Asia has built an increasingly sophisticated infrastructure for startups, and countries such as Singapore and Vietnam are known for their reputation as regional startup hubs. Southeast Asia’s tech startup ecosystem was valued a…
-
-### 4. SHIRASAGIにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-05T14:00:00+09:00`
-- url: https://jvn.jp/jp/JVN55454512/
-- summary: SHIRASAGI Projectが提供するSHIRASAGIには、複数の脆弱性が存在します。
 
 ### 5. M 5.0 - 114 km W of Petrolia, CA
 - source: USGS M4.5+ Earthquakes Past Hour

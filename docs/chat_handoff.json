@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-05T07:59:00+00:00",
+  "generated_at": "2026-11-05T08:10:17+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 1,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
-    "medium": 6,
+    "medium": 7,
     "observe": 18
   },
   "source_errors_count": 0,
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "relevance_score": 16,
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+      "summary": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "section": "medium"
+    },
+    {
       "title": "The step zero problem of the startup ecosystem",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
       "summary": "Over the last decade, Southeast Asia has built an increasingly sophisticated infrastructure for startups, and countries such as Singapore and Vietnam are known for their reputation as regional startup hubs. Southeast Asia’s tech startup ecosystem was valued a…",
-      "section": "medium"
-    },
-    {
-      "title": "SHIRASAGIにおける複数の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-05T14:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN55454512/",
-      "summary": "SHIRASAGI Projectが提供するSHIRASAGIには、複数の脆弱性が存在します。",
       "section": "medium"
     },
     {
