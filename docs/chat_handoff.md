@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T17:06:00+00:00_
+_Generated: 2026-11-05T17:17:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `78`
+- findings: `79`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-05T17:06:00+00:00_
 - url: https://github.com/NVIDIA/auto-ontology
 - summary: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve docu…
 
-### 7. 自作AIエージェントの開発をやめた - 無駄と文化
+### 7. M 5.0 - 130 km NE of Thang, India
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-11-05T17:13:46.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p
+- summary: Time 2026-11-05 16:56:25 UTC 2026-11-05 16:56:25 UTC at epicenter Location 35.632°N 77.940°E Depth 76.94 km (47.81 mi)
+
+### 8. 自作AIエージェントの開発をやめた - 無駄と文化
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-11-05T09:16:13+00:00`
 - url: https://blog.mudatobunka.org/entry/2026/11/05/100000
 - summary: 今年の6月まで、データ分析用途の AI エージェント (以下、分析エージェント) をスクラッチで開発していた。 が、思うところがあり開発をスッパリとやめた。この記事でいろいろと振り返ってみようと思う。 3行まとめ 分析エージェントを開発するのはやめて、分析 MCP として作り直した AI エージェントの全てを開発する...
-
-### 8. Nine in ten Singaporeans use AI. Only a third are comfortable with it
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-11-05T05:45:31+00:00`
-- url: https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/
-- summary: Nine in ten Singapore internet users now reach for an AI tool every month. Barely a third say they are comfortable doing so. That gap between habit and confidence is the most telling finding in Digital 2027: Singapore, the annual report released today by crea…
 
 END OF DOCUMENT
