@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T04:01:30+00:00_
+_Generiert: 2026-11-05T04:17:17+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „The step zero problem of the startup ecosystem“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+13 neue relevante Treffer. Stärkstes Signal: „The step zero problem of the startup ecosystem“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -87,14 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: １．万能の願望器「聖杯」に願いをかけること 「聖杯」と言って連想される作品はさまざまだろう。年配の人なら『インディージョーンズ』を思い出そうが、私はアニメ／ゲーム『Fate』シリーズに登場する「聖杯」、特に『Fate/Zero』に登場する「聖杯」が真っ先に思い出される。 『Fate』シリーズでは、「聖杯戦争」と呼ば...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why global expansion demands a different mindset today** — Score 4, observation — [Quelle](https://e27.co/why-global-expansion-demands-a-different-mindset-today-20261101/)
+- **Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows?** — Score 4, observation — [Quelle](https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-05T03:00:58+00:00`, fetched `2026-11-05T03:01:23+00:00`
+  - Zeit: published `2026-11-05T04:12:58+00:00`, fetched `2026-11-05T04:16:47+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: International expansion has always been regarded as the defining milestone for business success. The playbook was seemingly straightforward – identify promising markets, establish local presence and scale the international business as quickly as possible. The more borders a business crossed, the more successful it was deemed to be. That era is over. In a world […] The post Why global expansion demands a different mi…
+  - Kurz: I think this crypto advance deserves attention, but not full conviction. Bitcoin rose 4.77 per cent to US$80,721.27 in 24 hours and led a broad move that lifted the total crypto market 4.73 per cent to US$2.69T. The move showed an 87 per cent correlation with the S&P 500 and an 86 per cent correlation […] The post Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows? appeared first o…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
