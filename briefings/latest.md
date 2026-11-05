@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T22:00:56+00:00_
+_Generiert: 2026-11-05T22:30:39+00:00_
 
 ## Kurzlage
 
-94 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+96 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -187,6 +187,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-05 04:56:01 UTC 2026-11-05 04:56:01 UTC at epicenter Location 40.425°N 125.627°W Depth 2.14 km (1.33 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Chopin** — Score 13, observation — [Quelle](https://githubnext.com/projects/chopin/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-10T10:10:12+00:00`, fetched `2026-11-05T22:30:09+00:00`
+  - Treffer: agent, AI Agents, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0)
+  - Kurz: Chopin A real-time multiplayer, agentic planning environment What's it for? Exploring how we can make team planning with agents feel like a truly collaborative experience, with less cognitive load and more capacity for decision making and deep research Share p:first-of-type::first-letter]:float-l...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **NVIDIA/auto-ontology** — Score 13, observation — [Quelle](https://github.com/NVIDIA/auto-ontology)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-11-05T08:23:54+00:00`
@@ -294,15 +303,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Piero Cipollone: Shaping the future of money
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts** — Score 8, observation — [Quelle](https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-05T04:35:58+00:00`, fetched `2026-11-05T04:43:03+00:00`
-  - Treffer: APAC Trend Radar, funding, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
-  - Kurz: Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68 billion across 14 rounds, […] The post US$16.5B and counting: Inside the lopsided year that rewrote…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

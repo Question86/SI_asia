@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T22:00:56+00:00_
+_Generated: 2026-11-05T22:30:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `94`
+- findings: `96`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-05T22:00:56+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637
 - summary: PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-05 04:56:01 UTC 2026-11-05 04:56:01 UTC at epicenter Location 40.425°N 125.627°W Depth 2.14 km (1.33 mi)
 
-### 7. NVIDIA/auto-ontology
+### 7. Chopin
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-09-10T10:10:12+00:00`
+- url: https://githubnext.com/projects/chopin/
+- summary: Chopin A real-time multiplayer, agentic planning environment What's it for? Exploring how we can make team planning with agents feel like a truly collaborative experience, with less cognitive load and more capacity for decision making and deep research Share…
+
+### 8. NVIDIA/auto-ontology
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/NVIDIA/auto-ontology
 - summary: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve docu…
-
-### 8. Secret scanning upgrades detectors, adds SpaceX as partner
-- source: GitHub Changelog Atom
-- score: `12`
-- published: `2026-11-05T15:48:50+00:00`
-- url: https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner
-- summary: This update expands secret scanning’s detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors: Alibaba, AWS, Google, OpenVSX, Pydantic Services,… The post Sec…
 
 END OF DOCUMENT
