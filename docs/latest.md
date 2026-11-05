@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T01:44:42+00:00_
+_Generiert: 2026-11-05T02:01:14+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+8 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The Great Unsubscribe: Why shoppers are tuning out brand messaging, and how retailers can stop it** — Score 10, observation — [Quelle](https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-05T02:00:15+00:00`, fetched `2026-11-05T02:00:41+00:00`
+  - Treffer: APAC Trend Radar, Datenschutz
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Datenschutz (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Modern retailers are used to disruption. They regularly have to navigate shifting algorithms, platform outages at odd hours, and ever tightening privacy rules with every legislative cycle. Yet a quieter threat is doing more damage than any of these, and most brands will not spot it on a dashboard until their customer base has already […] The post The Great Unsubscribe: Why shoppers are tuning out brand messaging, an…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita** — Score 10, observation — [Quelle](https://qiita.com/Syoitu/items/9364a0a175893bb15219)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-04T12:39:35+00:00`, fetched `2026-11-05T00:36:49+00:00`
