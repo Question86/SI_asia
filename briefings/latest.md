@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T16:05:24+00:00_
+_Generiert: 2026-11-05T16:22:13+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+78 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,6 @@ _Generiert: 2026-11-05T16:05:24+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-29`
   - Kurz: Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability
-- **GDACS: Green flood alert in Bulgaria** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104267)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Bulgaria
 
 ## Wirtschaft global
 
