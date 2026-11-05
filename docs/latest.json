@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T04:17:17+00:00",
-  "run_id": "2026-11-05T04:17:17+00:00",
+  "generated_at": "2026-11-05T04:28:18+00:00",
+  "run_id": "2026-11-05T04:28:18+00:00",
   "date": "2026-11-05",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 13
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
     "medium": 2,
     "observe": 11,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -629,29 +629,15 @@
       "id": "3a044c4dd91b52915c2a"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows?",
-      "url": "https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-05T04:12:58+00:00",
-      "fetched_at": "2026-11-05T04:16:47+00:00",
-      "summary": "I think this crypto advance deserves attention, but not full conviction. Bitcoin rose 4.77 per cent to US$80,721.27 in 24 hours and led a broad move that lifted the total crypto market 4.73 per cent to US$2.69T. The move showed an 87 per cent correlation with the S&P 500 and an 86 per cent correlation […] The post Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows? appeared first o…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ac001dcbedc95f5898fe"
+      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
