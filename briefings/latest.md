@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T08:56:55+00:00_
+_Generiert: 2026-11-05T09:03:58+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -214,6 +214,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「勝利の女神：NIKKE」のPCランチャー経由の不正プログラム配布についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/11/05/133509)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-05T04:48:15+00:00`, fetched `2026-11-05T09:03:31+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年11月5日、Level Infiniteは「勝利の女神：NIKKE」のPCランチャーの一部ファイルが第三者に改ざんされ、起動時に不正プログラムが実行される可能性があったと公表しました。ここでは関連する情報をまとめます。 公式CDNのスクリプト4件を改ざん 「勝利の女神：NIKKE」はSHIFT UPが開発し、Level Infiniteが配信して...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PLaMo 3 Translate：世界最高クラスの翻訳特化LLMの重み公開と開発秘話｜株式会社Preferred Networks** — Score 5, observation — [Quelle](https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-05T01:24:42+00:00`, fetched `2026-11-05T07:49:09+00:00`
@@ -222,15 +231,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Read this article in English. 概要翻訳特化LLM PLaMo 3 Translateの重みをHugging Faceで公開しました。0.8B、2B、8B、31Bの4サイズのモデルを開発・公開しており、最小の0.8Bモデルでも、日英および日本語↔多言語で30倍以上大きな既存の翻訳特化LLMを上回る性能を達成しました。開発の鍵は、「トーナメント式データ合...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/review/review/2152900.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-05T00:06:50+00:00`, fetched `2026-11-05T02:20:34+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **floci-io/floci** — Score 5, observation — [Quelle](https://github.com/floci-io/floci)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
