@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T06:26:26+00:00",
+  "generated_at": "2026-11-05T06:47:19+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1700,8 +1700,8 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-04T23:46:50+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0a6b859024e45098b05e",
@@ -2601,7 +2601,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-05T05:30:25+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -10897,7 +10897,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-05T05:00:38+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -12308,8 +12308,8 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-04T23:46:50+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2662436ab7b285123042",
@@ -13889,7 +13889,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T05:21:09+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -14110,7 +14110,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -14621,7 +14621,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T04:43:35+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -15611,6 +15611,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_1c154165c56207e43517",
+      "title": "Equal spend: why AI budgets need a security twin",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 120000.0,
+      "p50_usd": 12000000.0,
+      "p90_usd": 1200000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_275fc3b910f00a50601a",
       "title": "I used AI to rebuild my websites without knowing how to code",
       "event_classes": [
@@ -15915,23 +15932,6 @@
       "first_seen_at": "2026-10-16T03:16:20+00:00",
       "last_seen_at": "2026-10-16T23:59:00+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_1c154165c56207e43517",
-      "title": "Equal spend: why AI budgets need a security twin",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 120000.0,
-      "p50_usd": 12000000.0,
-      "p90_usd": 1200000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-05T06:26:02+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2170780765320e429d3b",
@@ -17443,7 +17443,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -17477,7 +17477,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T04:01:32+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -23309,7 +23309,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T06:03:10+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -23990,7 +23990,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T02:01:16+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -26303,7 +26303,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T01:08:31+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -30350,7 +30350,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T06:03:10+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -33223,7 +33223,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -34090,7 +34090,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T00:58:02+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -35076,7 +35076,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T02:46:59+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -35195,7 +35195,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T00:37:22+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -35977,7 +35977,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T02:21:06+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -37099,7 +37099,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T03:38:00+00:00",
-      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:46:57+00:00",
       "status": "active"
     },
     {
@@ -37661,7 +37661,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T04:17:21+00:00",
       "last_seen_at": "2026-11-05T06:26:02+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3e16bc4322d9d3e1d35a",
@@ -37984,7 +37984,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T03:01:58+00:00",
       "last_seen_at": "2026-11-05T06:26:02+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_925bed84d61f223bcffe",
