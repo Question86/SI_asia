@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-05T10:36:39+00:00",
-  "run_id": "2026-11-05T10:36:39+00:00",
+  "generated_at": "2026-11-05T10:45:07+00:00",
+  "run_id": "2026-11-05T10:45:07+00:00",
   "date": "2026-11-05",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 40
+      "configured_public_sources_only": 42
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 2,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
-    "medium": 14,
-    "observe": 26,
-    "source_errors": 1
+    "medium": 15,
+    "observe": 27,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -183,6 +183,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7809bddac3100d432498"
+      },
+      {
+        "title": "Setting a new standard for responsible AI infrastructure",
+        "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-05T02:00:00+00:00",
+        "fetched_at": "2026-11-05T10:44:36+00:00",
+        "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+        "matched_keywords": [
+          "AI/KI",
+          "Content-Chance",
+          "OpenAI"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2a3f8bb7137b5bc28e52"
       },
       {
         "title": "SHIRASAGIにおける複数の脆弱性",
@@ -769,6 +791,27 @@
         "id": "5733516cd58e4cb69454"
       },
       {
+        "title": "三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も | NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/nd-20261105de71024",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-05T08:11:57+00:00",
+        "fetched_at": "2026-11-05T10:44:36+00:00",
+        "summary": "カードローンなどの保証業務を行っているSMBCコンシューマーファイナンスは、システムが不正アクセスを受け、ローンを申し込んだ人の名前や住所のほか、年収なども含む個人情報が、最大32万人分、漏えいしたと…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b53633af227defc17cb7"
+      },
+      {
         "title": "データ転送量が約4倍となる新規格「Bluetooth HDT」正式承認。ロスレスオーディオの標準化へ - PHILE WEB",
         "url": "https://www.phileweb.com/news/d-av/202611/05/66309.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1154,6 +1197,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7809bddac3100d432498"
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-05T02:00:00+00:00",
+      "fetched_at": "2026-11-05T10:44:36+00:00",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2a3f8bb7137b5bc28e52"
     },
     {
       "title": "SHIRASAGIにおける複数の脆弱性",
@@ -1738,6 +1803,27 @@
       "id": "5733516cd58e4cb69454"
     },
     {
+      "title": "三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71024",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T08:11:57+00:00",
+      "fetched_at": "2026-11-05T10:44:36+00:00",
+      "summary": "カードローンなどの保証業務を行っているSMBCコンシューマーファイナンスは、システムが不正アクセスを受け、ローンを申し込んだ人の名前や住所のほか、年収なども含む個人情報が、最大32万人分、漏えいしたと…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b53633af227defc17cb7"
+    },
+    {
       "title": "データ転送量が約4倍となる新規格「Bluetooth HDT」正式承認。ロスレスオーディオの標準化へ - PHILE WEB",
       "url": "https://www.phileweb.com/news/d-av/202611/05/66309.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1969,56 +2055,50 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-05T10:36:29+00:00",
-      "fetched_at": "2026-11-05T10:36:16+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "43943947ece871876f4c"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "error": "403 Client Error: Forbidden for url: https://e27.co/feed/"
+      "published_at": "2026-11-05T02:00:00+00:00",
+      "fetched_at": "2026-11-05T10:44:36+00:00",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2a3f8bb7137b5bc28e52"
+    },
+    {
+      "title": "三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71024",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T08:11:57+00:00",
+      "fetched_at": "2026-11-05T10:44:36+00:00",
+      "summary": "カードローンなどの保証業務を行っているSMBCコンシューマーファイナンスは、システムが不正アクセスを受け、ローンを申し込んだ人の名前や住所のほか、年収なども含む個人情報が、最大32万人分、漏えいしたと…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b53633af227defc17cb7"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
