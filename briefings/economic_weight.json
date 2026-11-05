@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T06:03:35+00:00",
+  "generated_at": "2026-11-05T06:26:26+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2601,7 +2601,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-05T05:30:25+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -10897,7 +10897,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-05T05:00:38+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -13889,7 +13889,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T05:21:09+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -14110,7 +14110,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -14621,7 +14621,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T04:43:35+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -15915,6 +15915,23 @@
       "first_seen_at": "2026-10-16T03:16:20+00:00",
       "last_seen_at": "2026-10-16T23:59:00+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1c154165c56207e43517",
+      "title": "Equal spend: why AI budgets need a security twin",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 120000.0,
+      "p50_usd": 12000000.0,
+      "p90_usd": 1200000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-05T06:26:02+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2170780765320e429d3b",
@@ -17426,7 +17443,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -17460,7 +17477,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T04:01:32+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -23279,6 +23296,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_256bfde875017236ab89",
+      "title": "Nine in ten Singaporeans use AI. Only a third are comfortable with it",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2581e03d08803964ff2c",
       "title": "The working capital trap: Lessons from Indonesia’s first D2C generation",
       "event_classes": [
@@ -23956,7 +23990,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T02:01:16+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -25133,23 +25167,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_256bfde875017236ab89",
-      "title": "Nine in ten Singaporeans use AI. Only a third are comfortable with it",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-05T06:03:10+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_03377f8133c052e61312",
       "title": "Change fatigue is an organisational design problem, not a resilience problem",
       "event_classes": [
@@ -26286,7 +26303,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T01:08:31+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -30320,6 +30337,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3a64ddffbb668f4f0aa1",
+      "title": "マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3d903945c8c0f303c3f9",
       "title": "令和8年熊本地震に関する対応状況について（9月16日）",
       "event_classes": [
@@ -31935,23 +31969,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_3a64ddffbb668f4f0aa1",
-      "title": "マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-05T06:03:10+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_00999a707b633ec75a8c",
       "title": "Startups should learn to leave bad markets faster",
       "event_classes": [
@@ -33206,7 +33223,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -34073,7 +34090,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T00:58:02+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -35059,7 +35076,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T02:46:59+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -35178,7 +35195,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T00:37:22+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -35960,7 +35977,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T02:21:06+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -37082,7 +37099,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T03:38:00+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -37643,7 +37660,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T04:17:21+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
@@ -37966,7 +37983,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-05T03:01:58+00:00",
-      "last_seen_at": "2026-11-05T06:03:10+00:00",
+      "last_seen_at": "2026-11-05T06:26:02+00:00",
       "status": "active"
     },
     {
