@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T01:08:28+00:00",
-  "run_id": "2026-11-05T01:08:28+00:00",
+  "generated_at": "2026-11-05T01:20:14+00:00",
+  "run_id": "2026-11-05T01:20:14+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 7,
     "displayed_findings": 7,
     "high": 0,
@@ -379,29 +379,7 @@
       "id": "8364f967a27749d1c98b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI might be the final boss for your best ideas",
-      "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-05T01:00:27+00:00",
-      "fetched_at": "2026-11-05T01:07:58+00:00",
-      "summary": "Earlier this year, I was staring at our 2026 plan and thinking: there are too many things in here. Payroll, billing, cross-border payments, payment licences, more salespeople, more product development. Individually, almost every initiative had a reasonable argument behind it. The problem was that they couldn’t all be equally important. So I uploaded the numbers, […] The post AI might be the final boss for your best…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dabe184854762aa2a757"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
