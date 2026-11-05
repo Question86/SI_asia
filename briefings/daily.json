@@ -1,33 +1,7 @@
 {
-  "generated_at": "2026-11-05T09:20:15+00:00",
+  "generated_at": "2026-11-05T09:28:44+00:00",
   "today_file_total": 34,
   "current_clusters": [
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4329",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4317",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4308",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4328"
-      ],
-      "finding_count": 4,
-      "max_score": 14,
-      "credibility_total": 4.2,
-      "cross_source_confirmed": false,
-      "momentum_delta": 3,
-      "momentum_status": "increasing",
-      "network_score": 31.4,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
     {
       "key": "earthquake:updates | reliefweb:unknown",
       "title": "Updates | ReliefWeb",
@@ -52,6 +26,32 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4329",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4317",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4308",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4328"
+      ],
+      "finding_count": 4,
+      "max_score": 14,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.4,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:equal-spend-why-budgets-need-security-twin",
@@ -383,29 +383,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.phileweb.com",
-      "title": "データ転送量が約4倍となる新規格「Bluetooth HDT」正式承認。ロスレスオーディオの標準化へ - PHILE WEB",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.phileweb.com/news/d-av/202611/05/66309.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:www.heise.de",
       "title": "Jetzt patchen! Attacken auf Zyxel-Switches beobachtet",
       "sources": [
@@ -470,6 +447,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 8.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.phileweb.com",
+      "title": "データ転送量が約4倍となる新規格「Bluetooth HDT」正式承認。ロスレスオーディオの標準化へ - PHILE WEB",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.phileweb.com/news/d-av/202611/05/66309.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
