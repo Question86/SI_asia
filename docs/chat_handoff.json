@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-05T09:59:57+00:00",
+  "generated_at": "2026-11-05T10:28:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 1,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
     "medium": 14,
-    "observe": 25
+    "observe": 26
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [mittel] Asterisk: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [mittel] Asterisk: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4205",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T09:53:05+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Asterisk ausnutzen, um einen Denial-of-Service-Angriff durchzuführen, beliebigen Programmcode auszuführen oder seine Privilegien zu erhöhen."
-      },
-      {
-        "title": "[UPDATE] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3107",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T09:50:26+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, 10",
-          "security high-signal: code, 10"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WebKitGTK ausnutzen, um eine Speicherbeschädigung zu verursachen und möglicherweise beliebigen Code auszuführen oder einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Ruby on Rails: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4317",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T09:14:57+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Ruby on Rails ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Daten zu manipulieren, um falsche Informationen darzustellen, um einen Cross-Site Scripting Angriff durchzuführen und um Sich…"
-      },
-      {
-        "title": "[UPDATE] [hoch] Samsung Exynos: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4266",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T09:53:06+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Exynos ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Auswirkungen zu verursachen."
-      },
-      {
-        "title": "SHIRASAGIにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN55454512/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-05T14:00:00+09:00",
-        "age_days": 0.22,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "SHIRASAGI Projectが提供するSHIRASAGIには、複数の脆弱性が存在します。"
-      }
-    ]
-  }
+  ]
 }
