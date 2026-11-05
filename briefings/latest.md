@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T03:01:55+00:00_
+_Generiert: 2026-11-05T03:19:47+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+10 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -132,3 +132,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
