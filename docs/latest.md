@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T05:30:22+00:00_
+_Generiert: 2026-11-05T05:47:06+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „The step zero problem of the startup ecosystem“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+17 neue relevante Treffer. Stärkstes Signal: „The step zero problem of the startup ecosystem“ aus e27 Asia Startup and Tech Feed (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -132,3 +132,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/feed/
