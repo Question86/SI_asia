@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T03:28:13+00:00_
+_Generiert: 2026-11-05T03:37:57+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+11 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
