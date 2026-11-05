@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T20:00:33+00:00",
-  "run_id": "2026-11-05T20:00:33+00:00",
+  "generated_at": "2026-11-05T20:14:47+00:00",
+  "run_id": "2026-11-05T20:14:47+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 90
+      "configured_public_sources_only": 91
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 90,
-    "displayed_findings": 90,
+    "today_file_total": 91,
+    "displayed_findings": 91,
     "high": 0,
     "medium": 44,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -2164,6 +2164,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3a044c4dd91b52915c2a"
+      },
+      {
+        "title": "最近の HTML の新機能の紹介（2026 年版）",
+        "url": "https://zenn.dev/socialplus/articles/50221eafb8a55a",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-03T13:16:09+00:00",
+        "fetched_at": "2026-11-05T20:14:16+00:00",
+        "summary": "こんにちは、steshima です。 今回は、最近の HTML の新機能の中から、知っておくと役立ちそうなものや面白いものをいくつか紹介します。 関係のある機能は続けて並べているので、上から順に読むとつながりが分かりやすいと思います。 Popover API popover 属性を付けた要素を、ポップオーバーとして表示できる機能です...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5ded09af04efd97e4d2f"
       },
       {
         "title": "GPUI",
@@ -4344,6 +4365,27 @@
       "id": "3a044c4dd91b52915c2a"
     },
     {
+      "title": "最近の HTML の新機能の紹介（2026 年版）",
+      "url": "https://zenn.dev/socialplus/articles/50221eafb8a55a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-03T13:16:09+00:00",
+      "fetched_at": "2026-11-05T20:14:16+00:00",
+      "summary": "こんにちは、steshima です。 今回は、最近の HTML の新機能の中から、知っておくと役立ちそうなものや面白いものをいくつか紹介します。 関係のある機能は続けて並べているので、上から順に読むとつながりが分かりやすいと思います。 Popover API popover 属性を付けた要素を、ポップオーバーとして表示できる機能です...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5ded09af04efd97e4d2f"
+    },
+    {
       "title": "GPUI",
       "url": "https://gpui.rs/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4387,24 +4429,25 @@
   ],
   "new_findings": [
     {
-      "title": "New pull request overview page in public preview",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
-      "source": "GitHub Changelog Atom",
+      "title": "最近の HTML の新機能の紹介（2026 年版）",
+      "url": "https://zenn.dev/socialplus/articles/50221eafb8a55a",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-05T08:00:00+00:00",
-      "fetched_at": "2026-11-05T19:59:53+00:00",
-      "summary": "On a long pull request, checking what’s blocking often means scrolling past dozens of comments and timeline events just to reach the merge box. And once you’re there, you still… The post New pull request overview page in public preview appeared first on The GitHub Blog .",
+      "published_at": "2026-11-03T13:16:09+00:00",
+      "fetched_at": "2026-11-05T20:14:16+00:00",
+      "summary": "こんにちは、steshima です。 今回は、最近の HTML の新機能の中から、知っておくと役立ちそうなものや面白いものをいくつか紹介します。 関係のある機能は続けて並べているので、上から順に読むとつながりが分かりやすいと思います。 Popover API popover 属性を付けた要素を、ポップオーバーとして表示できる機能です...",
       "matched_keywords": [
-        "GitHub"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5072f264cfccc9d93ee4"
+      "id": "5ded09af04efd97e4d2f"
     }
   ],
   "source_errors": [],
