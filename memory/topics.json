@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T12:06:57+00:00",
+  "generated_at": "2026-11-05T12:23:48+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/"
       },
       {
+        "title": "[NEU] [hoch] Samsung Exynos: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T12:09:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4363"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [hoch] Gogs: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und DoS",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-05T11:54:56+00:00",
@@ -133,18 +140,11 @@
         "url": "https://jvn.jp/jp/JVN55454512/"
       },
       {
-        "title": "[NEU] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
+        "title": "[UPDATE] [hoch] Apple macOS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:59:55+00:00",
+        "published_at": "2026-11-05T12:14:55+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4361"
-      },
-      {
-        "title": "[NEU] [mittel] drawio: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:54:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4359"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1109"
       }
     ],
     "economy": [
@@ -171,6 +171,13 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Samsung Exynos: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T12:09:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4363"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [hoch] Gogs: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und DoS",
         "source": "BSI CERT-Bund Security Advisories",
@@ -221,25 +228,18 @@
         "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
       },
       {
+        "title": "[NEU] [hoch] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T12:09:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4362"
+      },
+      {
         "title": "[NEU] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-05T11:59:55+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4361"
-      },
-      {
-        "title": "[NEU] [mittel] drawio: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:54:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4359"
-      },
-      {
-        "title": "[NEU] [mittel] Mattermost Desktop, Server, Plugins: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:49:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4358"
       }
     ],
     "general": [
@@ -315,6 +315,13 @@
       }
     ],
     "github": [
+      {
+        "title": "[NEU] [hoch] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T12:09:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4362"
+      },
       {
         "title": "NVIDIA/auto-ontology",
         "source": "GitHub Trending RSS All Languages Daily",
