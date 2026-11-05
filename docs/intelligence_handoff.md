@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-05T04:23:48Z_
+_Generated: 2026-11-05T05:12:39Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Siemens製品に対するアップデー
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-05T09:00:00+09:00` / age_days `0.18`
+- Published: `2026-11-05T09:00:00+09:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -20,19 +20,19 @@ Stärkste Dynamik nach Gate-Recheck: “Siemens製品に対するアップデー
 
 ### The step zero problem of the startup ecosystem
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-05T04:01:32+00:00` / age_days `0.02`
+- Band: `strong` (raw `strong`)
+- Dynamics score: `25.0`
+- Published: `2026-11-05T04:01:32+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, krass gate: single-source non-official/non-identity signal capped
+- Warum: momentum delta +3
 - Quelle: https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/
 
 ### The step zero problem of the startup ecosystem
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-05T04:00:42+00:00` / age_days `0.02`
+- Published: `2026-11-05T04:00:42+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: regional, high terms: 10
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “Siemens製品に対するアップデー
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-09-04T01:50:38+00:00` / age_days `62.11`
+- Published: `2026-09-04T01:50:38+00:00` / age_days `62.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 62.1d old signal
 - Quelle: https://jvn.jp/vu/JVNVU98354779/
 
+### US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.5`
+- Published: `2026-11-05T04:43:35+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
+- Quelle: https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/
+
 ### 【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-10-19T09:36:28+00:00` / age_days `16.78`
+- Published: `2026-10-19T09:36:28+00:00` / age_days `16.82`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Siemens製品に対するアップデー
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-11-05T00:58:02+00:00` / age_days `0.14`
+- Published: `2026-11-05T00:58:02+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,17 +82,37 @@ Stärkste Dynamik nach Gate-Recheck: “Siemens製品に対するアップデー
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-11-05T03:38:00+00:00` / age_days `0.03`
+- Published: `2026-11-05T03:38:00+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html
 
+### M 4.6 - 92 km WSW of Ferndale, California
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.4`
+- Published: `2026-11-05T05:00:38+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/ew1793854580
+
+### Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows?
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.0`
+- Published: `2026-11-05T04:17:21+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/
+
 ### Why global expansion demands a different mindset today
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-11-05T03:01:58+00:00` / age_days `0.06`
+- Published: `2026-11-05T03:01:58+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,40 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Siemens製品に対するアップデー
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-11-04T22:58:52+00:00` / age_days `0.23`
+- Published: `2026-11-04T22:58:52+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
 - Quelle: https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html
-
-### The Great Unsubscribe: Why shoppers are tuning out brand messaging, and how retailers can stop it
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-11-05T02:01:16+00:00` / age_days `0.1`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/
-
-### Introducing Images 2.6
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `140.32`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, aging penalty -8.0 for 140.3d old signal, single-source AI cap enforced after phrase recheck
-- Quelle: https://openai.com/index/introducing-images-2-6
-
-### Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows?
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.5`
-- Published: `2026-11-05T04:17:21+00:00` / age_days `0.0`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/
 
 END OF DOCUMENT
