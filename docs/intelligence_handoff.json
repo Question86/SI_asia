@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-05T19:22:37Z",
+  "generated_at": "2026-11-05T19:37:05Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Red Hat Enterprise Linux (xorg-x11-server): Schwachstelle ermöglicht Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4353",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T11:34:56+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1109",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T12:14:55+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1097",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T12:09:56+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4360",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T11:54:56+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -116,7 +116,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4354",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T11:34:56+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -142,7 +142,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4345",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T11:19:56+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -168,7 +168,7 @@
       "url": "https://openai.com/index/introducing-gpt-6-cyber",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-05T09:00:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -195,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1101",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T12:09:56+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4362",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T12:09:56+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -247,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4357",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T11:49:56+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -273,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4356",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T11:39:55+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -295,33 +295,30 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in FRRouting Project FRRouting ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen."
     },
     {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 140.94,
+      "title": "[NEU] [mittel] Webmin: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4355",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-05T11:34:56+00:00",
+      "age_days": 0.33,
       "topics": [
-        "ai",
         "security"
       ],
-      "dynamics_score": 19.9,
+      "dynamics_score": 24.9,
       "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 1.86,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 1.86",
-        "security high-signal: security",
-        "aging penalty -8.0 for 140.9d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": ""
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Webmin ausnutzen, um Informationen offenzulegen."
     }
   ],
   "read_order": [
@@ -334,8 +331,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 8,
-      "watch": 1
+      "strong": 9
     }
   }
 }
