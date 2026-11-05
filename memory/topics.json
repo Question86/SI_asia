@@ -1,15 +1,22 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T10:59:49+00:00",
+  "generated_at": "2026-11-05T11:18:41+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-05T10:36:29+00:00",
+        "published_at": "2026-11-05T11:12:57+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "A rare strike in Taiwan exposes labor unrest beneath the global AI rush",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-11-05T11:00:00+00:00",
+        "relevance_score": 23,
+        "url": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
         "title": "Equal spend: why AI budgets need a security twin",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-04T12:39:35+00:00",
         "relevance_score": 10,
         "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219"
-      },
-      {
-        "title": "Introducing Images 2.6",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-11-04T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://openai.com/index/introducing-images-2-6"
       }
     ],
     "security": [
@@ -82,6 +82,13 @@
         "published_at": "2026-11-05T06:05:36+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/"
+      },
+      {
+        "title": "[NEU] [hoch] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:04:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4342"
       },
       {
         "title": "[UPDATE] [hoch] Samsung Exynos: Mehrere Schwachstellen",
@@ -96,6 +103,27 @@
         "published_at": "2026-11-05T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN55454512/"
+      },
+      {
+        "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:09:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4344"
+      },
+      {
+        "title": "[NEU] [hoch] IBM MQ: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:09:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4343"
+      },
+      {
+        "title": "[NEU] [hoch] apt: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:04:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4341"
       },
       {
         "title": "[UPDATE] [mittel] Asterisk: Mehrere Schwachstellen",
@@ -117,34 +145,6 @@
         "published_at": "2026-11-05T09:14:57+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4329"
-      },
-      {
-        "title": "[UPDATE] [hoch] Ruby on Rails: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T09:14:57+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4317"
-      },
-      {
-        "title": "[UPDATE] [hoch] Xen: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T09:14:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4308"
-      },
-      {
-        "title": "Siemens製品に対するアップデート（2026年11月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-05T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU98354779/"
-      },
-      {
-        "title": "[UPDATE] [mittel] MongoDB (EF Core Provider, Atlas SQL, C Treiber, Rust Treiber, Database Tools und Node.js Treiber): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T06:29:44+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4328"
       }
     ],
     "economy": [
@@ -172,6 +172,13 @@
     ],
     "geopolitics": [
       {
+        "title": "[NEU] [hoch] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:04:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4342"
+      },
+      {
         "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
         "source": "ECB Press Releases Speeches Interviews",
         "published_at": "2026-11-05T08:00:00+00:00",
@@ -184,6 +191,27 @@
         "published_at": "2026-11-05T02:00:00+00:00",
         "relevance_score": 16,
         "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+      },
+      {
+        "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:09:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4344"
+      },
+      {
+        "title": "[NEU] [hoch] IBM MQ: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:09:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4343"
+      },
+      {
+        "title": "[NEU] [hoch] apt: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:04:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4341"
       },
       {
         "title": "Piero Cipollone: Shaping the future of money",

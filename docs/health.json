@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-11-05T10:59:49+00:00",
-  "status": "normal",
+  "generated_at": "2026-11-05T11:18:41+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 6,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
-    "medium": 15,
+    "medium": 20,
     "observe": 27,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "403 Client Error: Forbidden for url: https://e27.co/feed/"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T10:59:49+00:00_
+_Generated: 2026-11-05T11:18:41+00:00_
 
 ## Status
-- status: `normal`
-- findings: `42`
+- status: `warning`
+- findings: `47`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-05T10:36:29+00:00`
+- published: `2026-11-05T11:12:57+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. Equal spend: why AI budgets need a security twin
+### 2. A rare strike in Taiwan exposes labor unrest beneath the global AI rush
+- source: Rest of World Global Tech Feed
+- score: `23`
+- published: `2026-11-05T11:00:00+00:00`
+- url: https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: Micron Technology union representatives gesture during a protest outside of the Micron facility demanding greater profit shares and better bonuses, in Taoyuan on October 22, 2026. Eleven workers at a Micron Technology plant in Taiwan went on strike October 22…
+
+### 3. Equal spend: why AI budgets need a security twin
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-11-05T06:05:36+00:00`
 - url: https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/
 - summary: The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 O…
 
-### 3. The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in now
+### 4. The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in now
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-11-05T09:28:53+00:00`
 - url: https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/
 - summary: For two years, the rules of AI fundraising were simple: whoever asked for the biggest number got it. Last week, that stopped being true at the very top of the market. OpenAI cut its fundraising target by US$10 billion to US$20 billion as falling tech stocks a…
-
-### 4. [UPDATE] [hoch] Samsung Exynos: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-11-05T09:53:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4266
-- summary: Ein Angreifer kann mehrere Schwachstellen in Samsung Exynos ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte…
 
 ### 5. M 5.0 - 114 km W of Petrolia, CA
 - source: USGS M4.5+ Earthquakes Past Hour
