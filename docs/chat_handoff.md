@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T06:25:56+00:00_
+_Generated: 2026-11-05T06:46:54+00:00_
 
 ## Status
-- status: `normal`
-- findings: `20`
+- status: `warning`
+- findings: `22`
 
 ## Top Signals
 
-### 1. Equal spend: why AI budgets need a security twin
+### 1. Updates | ReliefWeb
+- source: ReliefWeb Mindanao Recovery Watch
+- score: `23`
+- published: `2026-11-05T06:46:44+00:00`
+- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
+- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
+
+### 2. Equal spend: why AI budgets need a security twin
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-11-05T06:05:36+00:00`
 - url: https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/
 - summary: The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 O…
 
-### 2. The step zero problem of the startup ecosystem
+### 3. The step zero problem of the startup ecosystem
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-11-05T04:00:42+00:00`
 - url: https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/
 - summary: Over the last decade, Southeast Asia has built an increasingly sophisticated infrastructure for startups, and countries such as Singapore and Vietnam are known for their reputation as regional startup hubs. Southeast Asia’s tech startup ecosystem was valued a…
 
-### 3. SHIRASAGIにおける複数の脆弱性
+### 4. SHIRASAGIにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-05T14:00:00+09:00`
 - url: https://jvn.jp/jp/JVN55454512/
 - summary: SHIRASAGI Projectが提供するSHIRASAGIには、複数の脆弱性が存在します。
-
-### 4. Siemens製品に対するアップデート（2026年11月）
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-05T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU98354779/
-- summary: Siemensから各製品向けのアドバイザリが公表されました。
 
 ### 5. M 5.0 - 114 km W of Petrolia, CA
 - source: USGS M4.5+ Earthquakes Past Hour
