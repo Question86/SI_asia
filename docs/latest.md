@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T17:32:44+00:00_
+_Generiert: 2026-11-05T17:48:34+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+87 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.1 - Fiji region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-05T17:46:56.144+00:00`, fetched `2026-11-05T17:48:03+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-11-05 17:21:45 UTC 2026-11-05 17:21:45 UTC at epicenter Location 21.169°S 178.646°W Depth 540.79 km (336.03 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 114 km W of Petrolia, CA** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-05T05:28:47.542+00:00`, fetched `2026-11-05T05:29:49+00:00`
@@ -140,6 +149,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a cont…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Secret scanning upgrades detectors, adds SpaceX as partner** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-05T15:48:50+00:00`, fetched `2026-11-05T17:48:03+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: This update expands secret scanning’s detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors: Alibaba, AWS, Google, OpenVSX, Pydantic Services,… The post Secret scanning upgrades detectors, adds SpaceX as partner appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans Roundcube (09 août 2024)** — Score 12, risk — [Quelle](https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-010/)
   - Quelle: CERT-FR Alertes / `rss`
@@ -222,15 +240,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - Sea of Okhotsk** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw7b)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-05T10:24:31.040+00:00`, fetched `2026-11-05T10:28:06+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-05 10:09:33 UTC 2026-11-05 10:09:33 UTC at epicenter Location 49.259°N 147.753°E Depth 554.42 km (344.50 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Piero Cipollone: Shaping the future of money** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-11-05T07:30:00+00:00`, fetched `2026-11-05T07:34:41+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68 billion across 14 rounds, […] The post US$16.5B and counting: Inside the lopsided year that rewrote…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Redmine (02 novembre 2026)** — Score 8, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1434/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-11-02T00:00:00+00:00`, fetched `2026-11-05T17:32:16+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Redmine. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un déni de service.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

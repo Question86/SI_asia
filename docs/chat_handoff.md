@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T17:32:44+00:00_
+_Generated: 2026-11-05T17:48:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `85`
+- findings: `87`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-05T17:32:44+00:00_
 - url: https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/
 - summary: For two years, the rules of AI fundraising were simple: whoever asked for the biggest number got it. Last week, that stopped being true at the very top of the market. OpenAI cut its fundraising target by US$10 billion to US$20 billion as falling tech stocks a…
 
-### 5. M 5.0 - 114 km W of Petrolia, CA
+### 5. M 6.1 - Fiji region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-11-05T17:46:56.144+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r
+- summary: PAGER - GREEN ShakeMap - I Time 2026-11-05 17:21:45 UTC 2026-11-05 17:21:45 UTC at epicenter Location 21.169°S 178.646°W Depth 540.79 km (336.03 mi)
+
+### 6. M 5.0 - 114 km W of Petrolia, CA
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-11-05T05:28:47.542+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637
 - summary: PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-05 04:56:01 UTC 2026-11-05 04:56:01 UTC at epicenter Location 40.425°N 125.627°W Depth 2.14 km (1.33 mi)
 
-### 6. NVIDIA/auto-ontology
+### 7. NVIDIA/auto-ontology
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/NVIDIA/auto-ontology
 - summary: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve docu…
 
-### 7. Multiples vulnérabilités dans Roundcube (09 août 2024)
-- source: CERT-FR Alertes
+### 8. Secret scanning upgrades detectors, adds SpaceX as partner
+- source: GitHub Changelog Atom
 - score: `12`
-- published: `2024-08-09T00:00:00+00:00`
-- url: https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-010/
-- summary: Le 4 août 2024, Roundcube a publié des correctifs concernant les vulnérabilités critiques CVE-2024-42008 et CVE-2024-42009 affectant son serveur de courriel. Ces vulnérabilités permettent des injections de code indirectes à distance (XSS) qui peuvent, par exe…
-
-### 8. M 5.0 - 130 km NE of Thang, India
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-11-05T17:13:46.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p
-- summary: Time 2026-11-05 16:56:25 UTC 2026-11-05 16:56:25 UTC at epicenter Location 35.632°N 77.940°E Depth 76.94 km (47.81 mi)
+- published: `2026-11-05T15:48:50+00:00`
+- url: https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner
+- summary: This update expands secret scanning’s detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors: Alibaba, AWS, Google, OpenVSX, Pydantic Services,… The post Sec…
 
 END OF DOCUMENT
