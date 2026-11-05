@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-05T01:12:24Z",
+  "generated_at": "2026-11-05T01:51:39Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Siemens製品に対するアップデート（2026年11月）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU98354779/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T09:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU98354779/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T01:50:38+00:00",
-      "age_days": 61.97,
+      "age_days": 62.0,
       "topics": [
         "general"
       ],
@@ -60,11 +60,35 @@
       "summary": ""
     },
     {
+      "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-05T00:58:02+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Introducing Images 2.6",
       "url": "https://openai.com/index/introducing-images-2-6",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 140.19,
+      "age_days": 140.21,
       "topics": [
         "general"
       ],
@@ -86,26 +110,28 @@
       "summary": ""
     },
     {
-      "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】",
-      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-05T00:58:02+00:00",
-      "age_days": 0.01,
+      "title": "AI might be the final boss for your best ideas",
+      "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-05T01:08:31+00:00",
+      "age_days": 0.03,
       "topics": [
-        "general"
+        "ai"
       ],
       "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -114,23 +140,23 @@
       "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 138.97,
+      "age_days": 139.0,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 7.84,
+      "dynamics_score": 7.1,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.4,
+      "baseline_z_hint": 3.73,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.40",
+        "baseline z_hint 3.73",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 139.0d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -142,7 +168,7 @@
       "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T12:39:35+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -168,7 +194,7 @@
       "url": "https://openai.com/index/introducing-images-2-6",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 1.05,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
@@ -190,26 +216,26 @@
       "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
     },
     {
-      "title": "AI might be the final boss for your best ideas",
-      "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-05T01:08:31+00:00",
-      "age_days": 0.0,
+      "title": "AIと「聖杯」は似ている。",
+      "url": "https://blog.tinect.jp/?p=91573",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-05T00:37:22+00:00",
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 6.5,
+      "dynamics_score": 6.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -220,7 +246,7 @@
       "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T01:00:27+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -246,7 +272,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T23:02:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -266,37 +292,11 @@
       "summary": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】"
     },
     {
-      "title": "AIと「聖杯」は似ている。",
-      "url": "https://blog.tinect.jp/?p=91573",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-05T00:37:22+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media",
       "url": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T23:35:47+00:00",
-      "age_days": 1.07,
+      "age_days": 1.09,
       "topics": [
         "ai"
       ],
@@ -328,8 +328,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 1,
-      "watch": 1,
-      "quiet": 10
+      "watch": 2,
+      "quiet": 9
     }
   }
 }
