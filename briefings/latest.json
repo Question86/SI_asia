@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T11:49:25+00:00",
-  "run_id": "2026-11-05T11:49:25+00:00",
+  "generated_at": "2026-11-05T11:57:37+00:00",
+  "run_id": "2026-11-05T11:57:37+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 5,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
-    "medium": 32,
-    "observe": 27,
+    "medium": 36,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -170,6 +170,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c11e416217c95f9247fc"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Gogs: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und DoS",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4360",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-05T11:54:56+00:00",
+        "fetched_at": "2026-11-05T11:57:09+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Gogs ausnutzen, um Sicherheitsvorkehrungen zu umgehen und einen Denial of Service zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a8a390eaff8aa6ac0d0f"
       },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (xorg-x11-server): Schwachstelle ermöglicht Codeausführung und DoS",
@@ -376,6 +400,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7a92e09f85a7dc4f52f8"
+      },
+      {
+        "title": "[NEU] [mittel] drawio: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4359",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-05T11:54:56+00:00",
+        "fetched_at": "2026-11-05T11:57:09+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in drawio ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c5070da49b541c3372fc"
+      },
+      {
+        "title": "[NEU] [mittel] Mattermost Desktop, Server, Plugins: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4358",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-05T11:49:56+00:00",
+        "fetched_at": "2026-11-05T11:57:09+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7d3a67b4ddeb8bd806b2"
+      },
+      {
+        "title": "[NEU] [hoch] Apache OFBiz: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4357",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-05T11:49:56+00:00",
+        "fetched_at": "2026-11-05T11:57:09+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache OFBiz ausnutzen, um Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen, Bestell- und Zahlungsdaten zu manipulieren oder einen DoS auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "edfa552d95cdceaa3ccc"
       },
       {
         "title": "[NEU] [hoch] FRRouting Project FRRouting: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Denial of Service",
@@ -1156,6 +1249,26 @@
         "id": "dabe184854762aa2a757"
       },
       {
+        "title": "OpenSSH und Alpine Linux warnt vor nischigem, aber gravierendem Bug",
+        "url": "https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-11-05T11:46:00.000+00:00",
+        "fetched_at": "2026-11-05T11:57:09+00:00",
+        "summary": "OpenSSH 10.6p2 umgeht einen Bug, der zwar schwerwiegend ist, aber eher wenige Setups betrifft – und wohl auch nicht in OpenSSH selbst liegt.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "04cc2c867590f2eebc8b"
+      },
+      {
         "title": "Jetzt patchen! Attacken auf Zyxel-Switches beobachtet",
         "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Zyxel-Switches-beobachtet-11512953.html",
         "source": "heise Security Alerts",
@@ -1611,6 +1724,30 @@
       "id": "c11e416217c95f9247fc"
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [hoch] Gogs: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4360",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-05T11:54:56+00:00",
+      "fetched_at": "2026-11-05T11:57:09+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Gogs ausnutzen, um Sicherheitsvorkehrungen zu umgehen und einen Denial of Service zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a8a390eaff8aa6ac0d0f"
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (xorg-x11-server): Schwachstelle ermöglicht Codeausführung und DoS",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4353",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1815,6 +1952,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7a92e09f85a7dc4f52f8"
+    },
+    {
+      "title": "[NEU] [mittel] drawio: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4359",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-05T11:54:56+00:00",
+      "fetched_at": "2026-11-05T11:57:09+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in drawio ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c5070da49b541c3372fc"
+    },
+    {
+      "title": "[NEU] [mittel] Mattermost Desktop, Server, Plugins: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4358",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-05T11:49:56+00:00",
+      "fetched_at": "2026-11-05T11:57:09+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7d3a67b4ddeb8bd806b2"
+    },
+    {
+      "title": "[NEU] [hoch] Apache OFBiz: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4357",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-05T11:49:56+00:00",
+      "fetched_at": "2026-11-05T11:57:09+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache OFBiz ausnutzen, um Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen, Bestell- und Zahlungsdaten zu manipulieren oder einen DoS auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "edfa552d95cdceaa3ccc"
     },
     {
       "title": "[NEU] [hoch] FRRouting Project FRRouting: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Denial of Service",
@@ -2593,6 +2799,26 @@
       "id": "dabe184854762aa2a757"
     },
     {
+      "title": "OpenSSH und Alpine Linux warnt vor nischigem, aber gravierendem Bug",
+      "url": "https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-05T11:46:00.000+00:00",
+      "fetched_at": "2026-11-05T11:57:09+00:00",
+      "summary": "OpenSSH 10.6p2 umgeht einen Bug, der zwar schwerwiegend ist, aber eher wenige Setups betrifft – und wohl auch nicht in OpenSSH selbst liegt.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04cc2c867590f2eebc8b"
+    },
+    {
       "title": "Jetzt patchen! Attacken auf Zyxel-Switches beobachtet",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Zyxel-Switches-beobachtet-11512953.html",
       "source": "heise Security Alerts",
@@ -2903,7 +3129,121 @@
       "id": "3a044c4dd91b52915c2a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[NEU] [UNGEPATCHT] [hoch] Gogs: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4360",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-05T11:54:56+00:00",
+      "fetched_at": "2026-11-05T11:57:09+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Gogs ausnutzen, um Sicherheitsvorkehrungen zu umgehen und einen Denial of Service zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a8a390eaff8aa6ac0d0f"
+    },
+    {
+      "title": "[NEU] [mittel] drawio: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4359",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-05T11:54:56+00:00",
+      "fetched_at": "2026-11-05T11:57:09+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in drawio ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c5070da49b541c3372fc"
+    },
+    {
+      "title": "[NEU] [mittel] Mattermost Desktop, Server, Plugins: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4358",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-05T11:49:56+00:00",
+      "fetched_at": "2026-11-05T11:57:09+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7d3a67b4ddeb8bd806b2"
+    },
+    {
+      "title": "[NEU] [hoch] Apache OFBiz: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4357",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-05T11:49:56+00:00",
+      "fetched_at": "2026-11-05T11:57:09+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache OFBiz ausnutzen, um Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen, Bestell- und Zahlungsdaten zu manipulieren oder einen DoS auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "edfa552d95cdceaa3ccc"
+    },
+    {
+      "title": "OpenSSH und Alpine Linux warnt vor nischigem, aber gravierendem Bug",
+      "url": "https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-05T11:46:00.000+00:00",
+      "fetched_at": "2026-11-05T11:57:09+00:00",
+      "summary": "OpenSSH 10.6p2 umgeht einen Bug, der zwar schwerwiegend ist, aber eher wenige Setups betrifft – und wohl auch nicht in OpenSSH selbst liegt.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04cc2c867590f2eebc8b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

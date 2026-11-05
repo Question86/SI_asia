@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T11:49:25+00:00",
+  "generated_at": "2026-11-05T11:57:37+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Gogs: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:54:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4360"
+      },
+      {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (xorg-x11-server): Schwachstelle ermöglicht Codeausführung und DoS",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-05T11:34:56+00:00",
@@ -126,25 +133,18 @@
         "url": "https://jvn.jp/jp/JVN55454512/"
       },
       {
-        "title": "[NEU] [hoch] FRRouting Project FRRouting: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Denial of Service",
+        "title": "[NEU] [mittel] drawio: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:39:55+00:00",
+        "published_at": "2026-11-05T11:54:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4356"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4359"
       },
       {
-        "title": "[NEU] [mittel] Webmin: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[NEU] [mittel] Mattermost Desktop, Server, Plugins: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:34:56+00:00",
+        "published_at": "2026-11-05T11:49:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4355"
-      },
-      {
-        "title": "[NEU] [hoch] Drupal Erweiterungen: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:34:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4352"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4358"
       }
     ],
     "economy": [
@@ -171,6 +171,13 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Gogs: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-05T11:54:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4360"
+      },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (xorg-x11-server): Schwachstelle ermöglicht Codeausführung und DoS",
         "source": "BSI CERT-Bund Security Advisories",
@@ -214,32 +221,25 @@
         "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
       },
       {
-        "title": "[NEU] [hoch] FRRouting Project FRRouting: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Denial of Service",
+        "title": "[NEU] [mittel] drawio: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:39:55+00:00",
+        "published_at": "2026-11-05T11:54:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4356"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4359"
       },
       {
-        "title": "[NEU] [mittel] Webmin: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[NEU] [mittel] Mattermost Desktop, Server, Plugins: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:34:56+00:00",
+        "published_at": "2026-11-05T11:49:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4355"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4358"
       },
       {
-        "title": "[NEU] [hoch] Drupal Erweiterungen: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Apache OFBiz: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:34:56+00:00",
+        "published_at": "2026-11-05T11:49:56+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4352"
-      },
-      {
-        "title": "[NEU] [mittel] Cisco Unified Computing System (UCS): Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-05T11:29:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4351"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4357"
       }
     ],
     "general": [
