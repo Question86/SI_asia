@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T18:02:24+00:00",
-  "run_id": "2026-11-05T18:02:24+00:00",
+  "generated_at": "2026-11-05T18:21:36+00:00",
+  "run_id": "2026-11-05T18:21:36+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 87
+      "configured_public_sources_only": 88
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 87,
-    "displayed_findings": 87,
+    "new_relevant_findings": 1,
+    "today_file_total": 88,
+    "displayed_findings": 88,
     "high": 0,
     "medium": 43,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -1789,6 +1789,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5733516cd58e4cb69454"
+      },
+      {
+        "title": "冷凍庫や冷蔵庫をハックして温度を上げて食料などをダメにするようなサイバー攻撃が世界中で行われているが、何かの予行演習だったりするのか？",
+        "url": "https://togetter.com/li/2766988",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-05T13:37:21+00:00",
+        "fetched_at": "2026-11-05T18:20:55+00:00",
+        "summary": "山口真弘 @yamanguco 冷凍庫や冷蔵庫をハックして温度上げて食品ダメにするやつ、あれ食料を備蓄に頼ってる戦時下や災害時にやられると致命的でその予行演習で攻撃してきてる可能性はあるので世界の人はもう少し危機感持ったほうがいい気はする 2026-11-04 22:11:32 山口真弘 @yamanguco せっかくIoTデバイスを世界的に...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3a3244d4c35302b99af8"
       },
       {
         "title": "*sshole · sshhole.com",
@@ -3907,6 +3928,27 @@
       "id": "5733516cd58e4cb69454"
     },
     {
+      "title": "冷凍庫や冷蔵庫をハックして温度を上げて食料などをダメにするようなサイバー攻撃が世界中で行われているが、何かの予行演習だったりするのか？",
+      "url": "https://togetter.com/li/2766988",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T13:37:21+00:00",
+      "fetched_at": "2026-11-05T18:20:55+00:00",
+      "summary": "山口真弘 @yamanguco 冷凍庫や冷蔵庫をハックして温度上げて食品ダメにするやつ、あれ食料を備蓄に頼ってる戦時下や災害時にやられると致命的でその予行演習で攻撃してきてる可能性はあるので世界の人はもう少し危機感持ったほうがいい気はする 2026-11-04 22:11:32 山口真弘 @yamanguco せっかくIoTデバイスを世界的に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3a3244d4c35302b99af8"
+    },
+    {
       "title": "*sshole · sshhole.com",
       "url": "https://sshhole.com/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4261,7 +4303,29 @@
       "id": "c3ac3e533413f431142c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "冷凍庫や冷蔵庫をハックして温度を上げて食料などをダメにするようなサイバー攻撃が世界中で行われているが、何かの予行演習だったりするのか？",
+      "url": "https://togetter.com/li/2766988",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T13:37:21+00:00",
+      "fetched_at": "2026-11-05T18:20:55+00:00",
+      "summary": "山口真弘 @yamanguco 冷凍庫や冷蔵庫をハックして温度上げて食品ダメにするやつ、あれ食料を備蓄に頼ってる戦時下や災害時にやられると致命的でその予行演習で攻撃してきてる可能性はあるので世界の人はもう少し危機感持ったほうがいい気はする 2026-11-04 22:11:32 山口真弘 @yamanguco せっかくIoTデバイスを世界的に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3a3244d4c35302b99af8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

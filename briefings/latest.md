@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T18:02:24+00:00_
+_Generiert: 2026-11-05T18:21:36+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+88 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-11-05T18:02:24+00:00_
   - Quelle: USGS
   - Zeit: `2026-11-05T17:21:45+00:00`
   - Kurz: M6.1 - Fiji region. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:540.789km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575788)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:540.789km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.
 
 ## Wirtschaft global
 
