@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T18:30:17+00:00_
+_Generiert: 2026-11-05T18:47:38+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+89 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen oder um einen Denial-of-Service-Zustand zu verursachen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents** — Score 16, risk — [Quelle](https://openai.com/index/introducing-gpt-6-cyber)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-05T09:00:00+00:00`, fetched `2026-11-05T18:47:05+00:00`
+  - Treffer: OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Security (+7.5); recent (+1.0)
+  - Kurz: Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Isabel Schnabel: Navigating stormy waters: reflections on monetary policy** — Score 16, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-11-05T08:00:00+00:00`, fetched `2026-11-05T08:09:41+00:00`
