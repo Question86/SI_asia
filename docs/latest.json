@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T10:45:07+00:00",
-  "run_id": "2026-11-05T10:45:07+00:00",
+  "generated_at": "2026-11-05T10:59:49+00:00",
+  "run_id": "2026-11-05T10:59:49+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 42,
     "displayed_findings": 42,
     "high": 0,
@@ -2053,51 +2053,7 @@
       "id": "3a044c4dd91b52915c2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-05T02:00:00+00:00",
-      "fetched_at": "2026-11-05T10:44:36+00:00",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "matched_keywords": [
-        "AI/KI",
-        "Content-Chance",
-        "OpenAI"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2a3f8bb7137b5bc28e52"
-    },
-    {
-      "title": "三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261105de71024",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-05T08:11:57+00:00",
-      "fetched_at": "2026-11-05T10:44:36+00:00",
-      "summary": "カードローンなどの保証業務を行っているSMBCコンシューマーファイナンスは、システムが不正アクセスを受け、ローンを申し込んだ人の名前や住所のほか、年収なども含む個人情報が、最大32万人分、漏えいしたと…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b53633af227defc17cb7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
