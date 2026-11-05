@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T22:01:38+00:00",
+  "generated_at": "2026-11-05T22:31:21+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -5019,6 +5019,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_32cb884d6494d0ccab30",
+      "title": "Chopin",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_32f7be6791361ff56cd9",
       "title": "trycua/cua",
       "deduplicated_buckets": 0,
@@ -7194,7 +7205,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_48c84c69de146b1d452c",
