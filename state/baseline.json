@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T02:01:16+00:00",
+  "generated_at": "2026-11-05T02:21:06+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Introducing Images 2.6",
-      "updated_at": "2026-11-05T02:01:16+00:00",
+      "updated_at": "2026-11-05T02:21:06+00:00",
       "network_scores": [
-        17.2,
         17.2,
         17.2,
         17.2,
@@ -130,12 +129,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 17.12,
+      "rolling_average": 16.95,
       "rolling_peak": 27.4,
       "last_score": 12.1,
-      "z_hint": -5.02
+      "z_hint": -4.85
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -3749,9 +3749,8 @@
     },
     "domain:qiita.com": {
       "title": "AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita",
-      "updated_at": "2026-11-05T02:01:16+00:00",
+      "updated_at": "2026-11-05T02:21:06+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3780,12 +3779,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 8.53,
+      "rolling_average": 8.7,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": 3.57
+      "z_hint": 3.4
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -15256,7 +15256,7 @@
     },
     "domain:findy-code.io": {
       "title": "珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media",
-      "updated_at": "2026-11-05T02:01:16+00:00",
+      "updated_at": "2026-11-05T02:21:06+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -15278,8 +15278,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -17395,7 +17395,7 @@
     },
     "title:siemens-2026": {
       "title": "Siemens製品に対するアップデート（2026年11月）",
-      "updated_at": "2026-11-05T02:01:16+00:00",
+      "updated_at": "2026-11-05T02:21:06+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -17418,8 +17418,8 @@
         16.1,
         16.1,
         16.1,
-        16.1,
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -80002,8 +80002,8 @@
       "z_hint": 0.0
     },
     "title:android-retone": {
-      "title": "使わなくなったAndroidスマホを音楽専用機にする無料アプリ「reTONE」",
-      "updated_at": "2026-10-19T23:45:45+00:00",
+      "title": "【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた",
+      "updated_at": "2026-11-05T02:21:06+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -80034,12 +80034,12 @@
         7.1,
         7.1,
         7.1,
-        7.1
+        10.1
       ],
-      "rolling_average": 7.1,
-      "rolling_peak": 7.1,
-      "last_score": 7.1,
-      "z_hint": 0.0
+      "rolling_average": 7.2,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 2.9
     },
     "title:exit-window-wide-open-southeast-asia-isn-standing": {
       "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
@@ -105804,7 +105804,26 @@
     },
     "url:https://blog.tinect.jp/?p=91573": {
       "title": "AIと「聖杯」は似ている。",
-      "updated_at": "2026-11-05T02:01:16+00:00",
+      "updated_at": "2026-11-05T02:21:06+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.43,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.33
+    },
+    "title:git-git": {
+      "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】",
+      "updated_at": "2026-11-05T02:21:06+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -105820,49 +105839,34 @@
       "last_score": 7.1,
       "z_hint": -0.38
     },
-    "title:git-git": {
-      "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】",
-      "updated_at": "2026-11-05T02:01:16+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.53,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.43
-    },
     "title:might-final-boss-your-best-ideas": {
       "title": "AI might be the final boss for your best ideas",
-      "updated_at": "2026-11-05T02:01:16+00:00",
+      "updated_at": "2026-11-05T02:21:06+00:00",
       "network_scores": [
         13.1,
         10.1,
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.6,
+      "rolling_average": 10.53,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:great-unsubscribe-why-shoppers-are-tuning-out-brand": {
       "title": "The Great Unsubscribe: Why shoppers are tuning out brand messaging, and how retailers can stop it",
-      "updated_at": "2026-11-05T02:01:16+00:00",
+      "updated_at": "2026-11-05T02:21:06+00:00",
       "network_scores": [
-        15.1
+        15.1,
+        12.1
       ],
-      "rolling_average": 15.1,
+      "rolling_average": 13.6,
       "rolling_peak": 15.1,
-      "last_score": 15.1,
-      "z_hint": 0.0
+      "last_score": 12.1,
+      "z_hint": -1.5
     }
   }
 }
