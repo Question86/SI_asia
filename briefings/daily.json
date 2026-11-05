@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-11-05T09:45:01+00:00",
-  "today_file_total": 36,
+  "generated_at": "2026-11-05T09:52:00+00:00",
+  "today_file_total": 37,
   "current_clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3107",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4329",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4317",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4308",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4328"
+      ],
+      "finding_count": 5,
+      "max_score": 14,
+      "credibility_total": 5.25,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 27.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "earthquake:updates | reliefweb:unknown",
       "title": "Updates | ReliefWeb",
@@ -26,32 +53,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4329",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4317",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4308",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4328"
-      ],
-      "finding_count": 4,
-      "max_score": 14,
-      "credibility_total": 4.2,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.4,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:equal-spend-why-budgets-need-security-twin",
@@ -241,31 +242,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 5.1 - 19 km nnw of masumbwe, tanzania:5.1",
-      "title": "M 5.1 - 19 km NNW of Masumbwe, Tanzania",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw76"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "title:nine-ten-singaporeans-use-only-third-are-comfortable",
       "title": "Nine in ten Singaporeans use AI. Only a third are comfortable with it",
       "sources": [
@@ -358,6 +334,31 @@
         "ai_agents_workflow"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.1 - 19 km nnw of masumbwe, tanzania:5.1",
+      "title": "M 5.1 - 19 km NNW of Masumbwe, Tanzania",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw76"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:california:4.6",

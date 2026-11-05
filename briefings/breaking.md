@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-05T09:45:01+00:00_
+_Generiert: 2026-11-05T09:52:00+00:00_
 
 ## The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in now
 
