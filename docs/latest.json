@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T15:25:41+00:00",
-  "run_id": "2026-11-05T15:25:41+00:00",
+  "generated_at": "2026-11-05T15:35:11+00:00",
+  "run_id": "2026-11-05T15:35:11+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 0,
@@ -3625,29 +3625,7 @@
       "id": "3a044c4dd91b52915c2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ドコモからのお知らせ : 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによるお客さま情報流出に関するお知らせ（第二報：11月5日 午後6時30分時点） | お知らせ | NTTドコモ",
-      "url": "https://www.docomo.ne.jp/info/notice/page/261105_03_m.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-05T10:34:28+00:00",
-      "fetched_at": "2026-11-05T15:25:11+00:00",
-      "summary": "お客さまの設定により、お客さま情報が「非表示」となっております。お客さま情報を表示するにはdアカウントでログインしてください。 お客さま情報表示についてへ お客さま情報表示についてへ Tweet 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによる...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c2e059c95eacc36a7cd7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
