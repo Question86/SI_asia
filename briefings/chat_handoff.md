@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T04:52:02+00:00_
+_Generated: 2026-11-05T05:00:35+00:00_
 
 ## Status
-- status: `normal`
-- findings: `14`
+- status: `warning`
+- findings: `15`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-11-05T04:52:02+00:00_
 - url: https://openai.com/index/introducing-images-2-6
 - summary: Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.
 
-### 6. US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-11-05T04:35:58+00:00`
-- url: https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/
-- summary: Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion…
+### 6. M 4.6 - 92 km WSW of Ferndale, California
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-05T04:56:30.000+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/ew1793854580
+- summary: Time 2026-11-05 04:56:06 UTC 2026-11-05 04:56:06 UTC at epicenter Location 40.312°N 125.302°W Depth 8.00 km (4.97 mi)
 
 END OF DOCUMENT
