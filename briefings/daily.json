@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:24:28+00:00",
+  "generated_at": "2026-11-05T08:32:37+00:00",
   "today_file_total": 28,
   "current_clusters": [
     {
@@ -98,29 +98,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "github_repo:nvidia/auto-ontology",
-      "title": "NVIDIA/auto-ontology",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/NVIDIA/auto-ontology"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:shirasagi",
       "title": "SHIRASAGIにおける複数の脆弱性",
       "sources": [
@@ -213,6 +190,29 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "github_repo:nvidia/auto-ontology",
+      "title": "NVIDIA/auto-ontology",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/NVIDIA/auto-ontology"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:nine-ten-singaporeans-use-only-third-are-comfortable",
@@ -334,29 +334,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:google-15b-malaysia-bet-comes-promise-pay-its",
-      "title": "Google’s US$15B Malaysia bet comes with a promise to pay its own power bill",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/googles-us15b-malaysia-bet-comes-with-a-promise-to-pay-its-own-power-bill-20261105/"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:counting-inside-lopsided-year-that-rewrote-sea-funding",
       "title": "US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts",
       "sources": [
@@ -403,24 +380,24 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "github_repo:floci-io/floci",
-      "title": "floci-io/floci",
+      "key": "title:google-15b-malaysia-bet-comes-promise-pay-its",
+      "title": "Google’s US$15B Malaysia bet comes with a promise to pay its own power bill",
       "sources": [
-        "GitHub Trending RSS All Languages Daily"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://github.com/floci-io/floci"
+        "https://e27.co/googles-us15b-malaysia-bet-comes-with-a-promise-to-pay-its-own-power-bill-20261105/"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 6,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -459,6 +436,29 @@
       ],
       "urls": [
         "https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:android-retone",
+      "title": "【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://av.watch.impress.co.jp/docs/review/review/2152900.html"
       ],
       "finding_count": 1,
       "max_score": 5,
