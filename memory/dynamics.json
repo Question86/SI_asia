@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-05T08:15:58Z",
+  "generated_at": "2026-11-05T08:29:16Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "strong": 12,
-      "watch": 16,
-      "quiet": 12
+      "strong": 13,
+      "watch": 19,
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
-      "strong": 12,
-      "watch": 16,
-      "quiet": 12
+      "strong": 13,
+      "watch": 19,
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/jp/JVN55454512/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T14:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/vu/JVNVU98354779/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T09:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4328",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T06:29:44+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -90,11 +90,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB (EF Core Provider, Atlas SQL, C Treiber, Rust Treiber, Database Tools und Node.js Treiber) ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
     },
     {
+      "title": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-05T08:23:54+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local",
+        "high terms: rce, auth, container",
+        "security high-signal: rce, auth, container"
+      ],
+      "summary": "Light, fluffy, and always free - The AWS Local Emulator alternative https://floci.io/floci/ Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs What is Floci? Floci is a fre…"
+    },
+    {
       "title": "The step zero problem of the startup ecosystem",
       "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:01:32+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -118,7 +144,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 138.87,
+      "age_days": 138.88,
       "topics": [
         "general"
       ],
@@ -146,7 +172,7 @@
       "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T06:26:02+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -173,7 +199,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-05T06:46:44+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro",
@@ -202,7 +228,7 @@
       "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T06:05:36+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -229,7 +255,7 @@
       "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:00:42+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -254,7 +280,7 @@
       "url": "https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T05:45:31+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -281,7 +307,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-05T08:00:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "macro",
         "disaster"
@@ -306,7 +332,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-05T05:30:25+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -326,29 +352,26 @@
       "summary": ""
     },
     {
-      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 139.74,
+      "title": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-05T08:24:28+00:00",
+      "age_days": 0.0,
       "topics": [
-        "disaster"
+        "general"
       ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
+      "dynamics_score": 17.5,
+      "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.48,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.48",
-        "aging penalty -8.0 for 139.7d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -357,7 +380,7 @@
       "url": "https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:43:35+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -373,6 +396,32 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-03T20:16:44+00:00",
+      "age_days": 1.51,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -405,7 +454,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-05T05:28:47.542+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -425,11 +474,36 @@
       "summary": "PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-05 04:56:01 UTC 2026-11-05 04:56:01 UTC at epicenter Location 40.425°N 125.627°W Depth 2.14 km (1.33 mi)"
     },
     {
+      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 139.75,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 15.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 139.7d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "SHIRASAGIにおける複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN55454512/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T05:21:09+00:00",
-      "age_days": 56.12,
+      "age_days": 56.13,
       "topics": [
         "general"
       ],
@@ -454,7 +528,7 @@
       "url": "https://jvn.jp/vu/JVNVU98354779/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T01:50:38+00:00",
-      "age_days": 62.27,
+      "age_days": 62.28,
       "topics": [
         "general"
       ],
@@ -504,7 +578,7 @@
       "url": "https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-05T06:03:10+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -528,7 +602,7 @@
       "url": "https://av.watch.impress.co.jp/docs/review/review/2152900.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T09:36:28+00:00",
-      "age_days": 16.94,
+      "age_days": 16.95,
       "topics": [
         "general"
       ],
@@ -552,7 +626,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T00:58:02+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -576,7 +650,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T03:38:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -624,7 +698,7 @@
       "url": "https://e27.co/why-global-expansion-demands-a-different-mindset-today-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T03:01:58+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -648,7 +722,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-05T07:30:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "macro"
       ],
@@ -672,7 +746,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T22:58:52+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -691,11 +765,35 @@
       "summary": "Googleの脅威分析チーム「Google Threat Intelligence Group」は11月2日（米国時間）、不正プログラム「XCPE」を、日本の警察庁や業界のパートナーと協力して無力化したと発表した。XCPEはTVにつないで動画配信サービスなどを楽しむための「セットトップボックス」130万台超を乗っ取っていた。驚くべきは、不正プログラ..."
     },
     {
+      "title": "Google’s US$15B Malaysia bet comes with a promise to pay its own power bill",
+      "url": "https://e27.co/googles-us15b-malaysia-bet-comes-with-a-promise-to-pay-its-own-power-bill-20261105/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-05T08:24:28+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.6 - 92 km WSW of Ferndale, California",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1793854580",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-05T04:56:30.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -719,7 +817,7 @@
       "url": "https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T06:03:10+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -745,7 +843,7 @@
       "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T02:01:16+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -771,7 +869,7 @@
       "url": "https://openai.com/index/introducing-images-2-6",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 140.48,
+      "age_days": 140.49,
       "topics": [
         "general"
       ],
@@ -797,7 +895,7 @@
       "url": "https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-05T06:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -821,7 +919,7 @@
       "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T02:00:15+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "infra"
@@ -849,7 +947,7 @@
       "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T01:08:31+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -875,7 +973,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:12:58+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "macro"
       ],
@@ -899,7 +997,7 @@
       "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T12:39:35+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -919,110 +1017,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "前書き 最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。 記事によると、Claudeは最近、新しい惑星の発見にも一役買ったそうです。 それなのに、私たちの多くはいまだに「..."
-    },
-    {
-      "title": "Introducing Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 1.34,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
-    },
-    {
-      "title": "AIと「聖杯」は似ている。",
-      "url": "https://blog.tinect.jp/?p=91573",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-05T00:37:22+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts",
-      "url": "https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-05T04:35:58+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68…"
-    },
-    {
-      "title": "AI might be the final boss for your best ideas",
-      "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-05T01:00:27+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Earlier this year, I was staring at our 2026 plan and thinking: there are too many things in here. Payroll, billing, cross-border payments, payment licences, more salespeople, more product development. Individually, almost every initiative had a reasonable argument behind it. The problem was that they couldn’t all be…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SHIRASAGIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
