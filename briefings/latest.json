@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T16:22:13+00:00",
-  "run_id": "2026-11-05T16:22:13+00:00",
+  "generated_at": "2026-11-05T16:31:17+00:00",
+  "run_id": "2026-11-05T16:31:17+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 78,
     "displayed_findings": 78,
     "high": 0,
@@ -3791,29 +3791,7 @@
       "id": "c3ac3e533413f431142c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "*sshole · sshhole.com",
-      "url": "https://sshhole.com/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-05T12:50:42+00:00",
-      "fetched_at": "2026-11-05T16:21:41+00:00",
-      "summary": "*sshole so openssh on musl linux (alpine, openwrt, buildroot, yocto, and a lot of the docker images you've pulled) has had a little problem since 2016. accounts that should never take a password at all (root, your key-only deploy user, ldap users, the default user on alpine's aws and azure images...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2b3932735b54b5570dd3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
