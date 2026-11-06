@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T01:29:14+00:00_
+_Generated: 2026-11-06T01:48:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-11-06T01:29:14+00:00_
 - url: https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate
 - summary: The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds c…
 
-### 7. Usage metrics API flags telemetry and version gaps
-- source: GitHub Changelog Atom
+### 7. ソニー、初代ウォークマン付属ヘッドフォンを再現。USB-C化した「MDR-3R」
+- source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-11-06T00:08:31+00:00`
-- url: https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps
-- summary: The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared fir…
+- published: `2026-11-06T00:14:47+00:00`
+- url: https://av.watch.impress.co.jp/docs/news/2153686.html
+- summary: ソニー、初代ウォークマン付属ヘッドフォンを再現。USB-C化した「MDR-3R」
 
 END OF DOCUMENT
