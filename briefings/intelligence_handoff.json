@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-06T10:52:59Z",
+  "generated_at": "2026-11-06T11:10:55Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] SignalWire FreeSWITCH: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4364",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:29:56+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 69.86,
+      "age_days": 69.88,
       "topics": [
         "ai",
         "security",
@@ -70,7 +70,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T06:54:56+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security",
@@ -94,11 +94,35 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Barracuda Networks Email Security Gateway und Barracuda Networks Web Application Firewall ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen und die Authentifizierung zu umgehen. Durch die Kombination dieser Schwachstellen…"
     },
     {
+      "title": "[UPDATE] [hoch] Eclipse Jetty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3992",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-06T10:56:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Eclipse Jetty ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[NEU] [hoch] OpenSSH: Schwachstelle ermöglicht Erlangen von Administratorrechten",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T08:04:56+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -122,7 +146,7 @@
       "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T21:20:44+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "ai",
         "security"
@@ -149,7 +173,7 @@
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-05T17:00:00+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
@@ -175,7 +199,7 @@
       "url": "https://jvn.jp/vu/JVNVU90841469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-06T09:30:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -200,7 +224,7 @@
       "url": "https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T02:03:53+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -227,7 +251,7 @@
       "url": "https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T02:00:47+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -254,7 +278,7 @@
       "url": "https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:03:03+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -279,7 +303,7 @@
       "url": "https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:00:12+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -302,30 +326,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "During five weeks in the United States, I spent much of my time in New York exploring the intersection of blockchain, finance, and emerging technology. I attended Avalanche Summit, spoke about stablecoins for emerging markets during UN Blockchain Week, and observed how conversations around blockchain were evolving bey…"
-    },
-    {
-      "title": "U Mobile opens its 5G-Advanced sandbox to Cradle’s startups, but the cheques are not part of the deal",
-      "url": "https://e27.co/u-mobile-opens-its-5g-advanced-sandbox-to-cradles-startups-but-the-cheques-are-not-part-of-the-deal-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-06T10:00:51+00:00",
-      "age_days": 0.04,
-      "topics": [],
-      "dynamics_score": 21.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
