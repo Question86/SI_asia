@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T06:28:43+00:00_
+_Generiert: 2026-11-06T06:48:39+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+23 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-06 01:37:39 UTC 2026-11-06 01:37:39 UTC at epicenter Location 19.365°S 168.753°E Depth 83.27 km (51.74 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Bitcoin pump and dump? The US$75,000 support zone will decide** — Score 8, observation — [Quelle](https://e27.co/bitcoin-pump-and-dump-the-us75000-support-zone-will-decide-20261106/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-06T06:46:47+00:00`, fetched `2026-11-06T06:48:09+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); financial-market signal circuit breaker (+2.0); watchgraph region south_korea: South Korea (+2.0)
+  - Kurz: Yesterday did not look like a market finding its footing. It looked like a sequence of moves designed to catch as many people offside as possible, and the evidence lies in the timing and the numbers. South Korea’s KOSPI crashed 9 per cent to 4,923.48, and a circuit breaker halted trading. That came one day […] The post Bitcoin pump and dump? The US$75,000 support zone will decide appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI can help me think faster, but I still have to decide how I actually use AI in healthcare** — Score 8, observation — [Quelle](https://e27.co/ai-can-help-me-think-faster-but-i-still-have-to-decide-how-i-actually-use-ai-in-healthcare-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-06T04:30:10+00:00`, fetched `2026-11-06T04:33:38+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: One of the biggest changes AI has brought to my work is that I can do more. I am no longer as daunted by the mundane work involved in getting something started. A research idea, teaching session or presentation comes with preparation: organising notes, building a structure, condensing information and revising the wording. These tasks […] The post AI can help me think faster, but I still have to decide how I actually…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Malaysia carried Southeast Asia’s IPO market in 2026. The rest of the region went quiet** — Score 8, observation — [Quelle](https://e27.co/malaysia-carried-southeast-asias-ipo-market-in-2026-the-rest-of-the-region-went-quiet-20261106/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-06T03:41:07+00:00`, fetched `2026-11-06T03:44:22+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Strip Malaysia out of the numbers, and Southeast Asia’s public markets in 2026 look less like a listing venue and more like a waiting room. Southeast Asia recorded 56 initial public offerings (IPOs) raising US$3 billion in the first nine months of 2026, according to EY data released on Thursday. That is down from 76 […] The post Malaysia carried Southeast Asia’s IPO market in 2026. The rest of the region went quiet…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **浦安市が「さくらのクラウド」採用、ガバメントクラウド移行で自治体初** — Score 7, observation — [Quelle](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12156/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
