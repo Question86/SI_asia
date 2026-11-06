@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T19:02:13+00:00",
+  "generated_at": "2026-11-06T19:14:29+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-06T06:54:56+00:00",
         "relevance_score": 21,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295"
+      },
+      {
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-06T00:00:00+00:00",
+        "relevance_score": 20,
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
       },
       {
         "title": "I automated my entire life with AI agents. Then a 2 am voice note exposed the lie",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-05T20:00:00+00:00",
         "relevance_score": 14,
         "url": "https://openai.com/index/cultfit-builds-with-codex"
-      },
-      {
-        "title": "Usagi-org/ai-goofish-monitor",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 14,
-        "url": "https://github.com/Usagi-org/ai-goofish-monitor"
       }
     ],
     "security": [

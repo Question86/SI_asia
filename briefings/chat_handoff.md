@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T19:02:13+00:00_
+_Generated: 2026-11-06T19:14:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `62`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-06T19:02:13+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295
 - summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Barracuda Networks Email Security Gateway und Barracuda Networks Web Application Firewall ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen und die Authentifizie…
 
-### 2. I automated my entire life with AI agents. Then a 2 am voice note exposed the lie
+### 2. Measuring how AI agents handle everyday wet-lab science
+- source: OpenAI News RSS
+- score: `20`
+- published: `2026-11-06T00:00:00+00:00`
+- url: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
+- summary: OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.
+
+### 3. I automated my entire life with AI agents. Then a 2 am voice note exposed the lie
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-11-06T02:00:47+00:00`
 - url: https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/
 - summary: I spent months building the ultimate autonomous productivity engine to eliminate every bottleneck, until a founder in crisis made me realise that execution is cheap, but presence is priceless. The terminal window glowed with quiet, rhythmic precision. By 2:00…
 
-### 3. Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)
+### 4. Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)
 - source: CERT-FR Avis de sécurité
 - score: `18`
 - published: `2026-11-02T00:00:00+00:00`
 - url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/
 - summary: De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique q…
-
-### 4. M 6.1 - 156 km SE of Hasaki, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `17`
-- published: `2026-11-06T10:58:59.896+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9
-- summary: ShakeMap - I Time 2026-11-06 10:39:24 UTC 2026-11-06 10:39:24 UTC at epicenter Location 34.924°N 142.243°E Depth 10.00 km (6.21 mi)
 
 ### 5. Australian universities are creating AI-native graduates
 - source: OpenAI News RSS
