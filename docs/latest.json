@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T09:02:19+00:00",
-  "run_id": "2026-11-06T09:02:19+00:00",
+  "generated_at": "2026-11-06T09:18:25+00:00",
+  "run_id": "2026-11-06T09:18:25+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 30,
     "displayed_findings": 30,
     "high": 0,
@@ -1511,28 +1511,7 @@
       "id": "a63ff478938475f0c2c6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ECB publishes consolidated banking data for end-June 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-11-06T09:00:00+00:00",
-      "fetched_at": "2026-11-06T09:01:46+00:00",
-      "summary": "ECB publishes consolidated banking data for end-June 2026",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2602905d4e55add00ab6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
