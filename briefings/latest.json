@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T07:49:04+00:00",
-  "run_id": "2026-11-06T07:49:04+00:00",
+  "generated_at": "2026-11-06T07:55:45+00:00",
+  "run_id": "2026-11-06T07:55:45+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 1,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
-    "medium": 7,
+    "medium": 8,
     "observe": 18,
     "source_errors": 0
   },
@@ -237,6 +237,29 @@
           "PINS"
         ],
         "id": "9a141230a2941f120d5c"
+      },
+      {
+        "title": "Usagi-org/ai-goofish-monitor",
+        "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-11-06T07:55:14+00:00",
+        "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 闲鱼智能监控系统 [中文] ｜ English 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。 核心特性 Web 可视化管理 : 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览 AI 驱动 : 自然语言创建任务，多模态模型深度分析商品 多任务并发 : 独立配置关键词、价格、筛选条件和 AI Prompt 高级筛选 : 包邮、新发布时间范围、省/市/区三级区域筛选 即时通知 : 支持 ntfy.sh 、企业微信、Bark、Telegram、Webhook等多渠道 定时调度 : 支持 Cron 配置周期性任务 账号与代理轮换 : 多账号管理、任务绑定账号、代理池轮换与失败重试 Docker 部署 : 一键容器化部署 截图 🐳 Do…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Actions",
+          "GitHub Trending"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "GitHub Actions (+5.0); AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "51c2bd80b6a4e7698f71"
       }
     ],
     "observe": [
@@ -859,6 +882,29 @@
       "id": "9a141230a2941f120d5c"
     },
     {
+      "title": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-06T07:55:14+00:00",
+      "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 闲鱼智能监控系统 [中文] ｜ English 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。 核心特性 Web 可视化管理 : 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览 AI 驱动 : 自然语言创建任务，多模态模型深度分析商品 多任务并发 : 独立配置关键词、价格、筛选条件和 AI Prompt 高级筛选 : 包邮、新发布时间范围、省/市/区三级区域筛选 即时通知 : 支持 ntfy.sh 、企业微信、Bark、Telegram、Webhook等多渠道 定时调度 : 支持 Cron 配置周期性任务 账号与代理轮换 : 多账号管理、任务绑定账号、代理池轮换与失败重试 Docker 部署 : 一键容器化部署 截图 🐳 Do…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Actions",
+        "GitHub Trending"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "GitHub Actions (+5.0); AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "51c2bd80b6a4e7698f71"
+    },
+    {
       "title": "Australian universities are creating AI-native graduates",
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI News RSS",
@@ -1265,7 +1311,31 @@
       "id": "a63ff478938475f0c2c6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-06T07:55:14+00:00",
+      "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 闲鱼智能监控系统 [中文] ｜ English 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。 核心特性 Web 可视化管理 : 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览 AI 驱动 : 自然语言创建任务，多模态模型深度分析商品 多任务并发 : 独立配置关键词、价格、筛选条件和 AI Prompt 高级筛选 : 包邮、新发布时间范围、省/市/区三级区域筛选 即时通知 : 支持 ntfy.sh 、企业微信、Bark、Telegram、Webhook等多渠道 定时调度 : 支持 Cron 配置周期性任务 账号与代理轮换 : 多账号管理、任务绑定账号、代理池轮换与失败重试 Docker 部署 : 一键容器化部署 截图 🐳 Do…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Actions",
+        "GitHub Trending"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "GitHub Actions (+5.0); AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "51c2bd80b6a4e7698f71"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
