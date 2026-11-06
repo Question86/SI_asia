@@ -158,6 +158,29 @@
     "id": "3c655198c7aecac2f0d1"
   },
   {
+    "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4267",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-06T10:57:20+00:00",
+    "fetched_at": "2026-11-06T11:28:07+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Informationen auszuspähen, einen Denial-of-Service-Zustand zu verursachen oder Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "08bf5a69042a728d049c"
+  },
+  {
     "title": "[UPDATE] [hoch] Eclipse Jetty: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3992",
     "source": "BSI CERT-Bund Security Advisories",
@@ -595,6 +618,26 @@
     "id": "92812f130efef558c7a4"
   },
   {
+    "title": "Schadcode-Attacken auf Cisco UCS Central Software und Unified CM möglich",
+    "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-11-06T11:11:00.000+00:00",
+    "fetched_at": "2026-11-06T11:28:07+00:00",
+    "summary": "Sicherheitsupdates schließen Lücken in Cisco UCS Central Software und Cisco Unified Communications Manager.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "915e4ca309831efba319"
+  },
+  {
     "title": "U Mobile opens its 5G-Advanced sandbox to Cradle’s startups, but the cheques are not part of the deal",
     "url": "https://e27.co/u-mobile-opens-its-5g-advanced-sandbox-to-cradles-startups-but-the-cheques-are-not-part-of-the-deal-20261106/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -735,6 +778,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2b014b768c0770995266"
+  },
+  {
+    "title": "セキュリティ啓発団体に不正アクセス 個人情報最大1.5万件漏えいか",
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-06T08:41:42+00:00",
+    "fetched_at": "2026-11-06T11:28:07+00:00",
+    "summary": "情報セキュリティの普及啓発に向けて活動する日本ネットワークセキュリティ協会（JNSA）は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。利用者のIDやハッシュ化したパスワードなどが漏えいした...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bce334beec4997eebb38"
   },
   {
     "title": "メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」",
