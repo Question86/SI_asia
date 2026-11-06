@@ -120,6 +120,29 @@
     "id": "3c655198c7aecac2f0d1"
   },
   {
+    "title": "[UPDATE] [kritisch] SignalWire FreeSWITCH: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4364",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-06T10:29:56+00:00",
+    "fetched_at": "2026-11-06T10:45:19+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in SignalWire FreeSWITCH ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d4a47e1ad7046e221a67"
+  },
+  {
     "title": "[NEU] [hoch] OpenSSH: Schwachstelle ermöglicht Erlangen von Administratorrechten",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365",
     "source": "BSI CERT-Bund Security Advisories",
@@ -735,6 +758,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e822909fc0f39b621d18"
+  },
+  {
+    "title": "インプレス、セキュリティ書籍9冊を全文無料公開。11月9日まで",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2153924.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-05T07:40:34+00:00",
+    "fetched_at": "2026-11-06T10:45:19+00:00",
+    "summary": "インプレス、セキュリティ書籍9冊を全文無料公開。11月9日まで",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b298e953c1b6970c9436"
   },
   {
     "title": "習慣化するための技術 / Techniques for Habit Formation",

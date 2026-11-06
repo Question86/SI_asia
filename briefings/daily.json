@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T10:29:35+00:00",
-  "today_file_total": 31,
+  "generated_at": "2026-11-06T10:45:51+00:00",
+  "today_file_total": 33,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -13,15 +13,16 @@
       ],
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4364",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365"
       ],
-      "finding_count": 2,
+      "finding_count": 3,
       "max_score": 21,
-      "credibility_total": 2.1,
+      "credibility_total": 3.15,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 25.2,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 30.3,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -406,6 +407,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "url:https://pc.watch.impress.co.jp/docs/news/2153924.html",
+      "title": "インプレス、セキュリティ書籍9冊を全文無料公開。11月9日まで",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://pc.watch.impress.co.jp/docs/news/2153924.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:mobile-opens-its-advanced-sandbox-cradle-startups-but",
       "title": "U Mobile opens its 5G-Advanced sandbox to Cradle’s startups, but the cheques are not part of the deal",
       "sources": [
@@ -439,29 +463,6 @@
       ],
       "urls": [
         "https://e27.co/ecosystem-roundup-sea-startups-raised-us16-5b-in-2026-but-four-months-did-most-of-it-20261106/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:business-judgment-gap-why-bumn-investment-decisions-need",
-      "title": "The business judgment gap: Why BUMN investment decisions need a different risk framework in Indonesia",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-business-judgment-gap-why-bumn-investment-decisions-need-a-different-risk-framework-in-indonesia-20261106/"
       ],
       "finding_count": 1,
       "max_score": 7,
