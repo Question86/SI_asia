@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T13:31:54+00:00",
+  "generated_at": "2026-11-06T13:49:54+00:00",
   "topics": {
     "ai": [
       {
@@ -33,6 +33,20 @@
         "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails"
       },
       {
+        "title": "[NEU] [mittel] SmarterTools SmarterMail: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:41:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4384"
+      },
+      {
+        "title": "[NEU] [mittel] JetBrains CLion: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:40:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4381"
+      },
+      {
         "title": "Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-06T04:10:49+00:00",
@@ -59,20 +73,6 @@
         "published_at": null,
         "relevance_score": 14,
         "url": "https://github.com/Usagi-org/ai-goofish-monitor"
-      },
-      {
-        "title": "Australian universities are creating AI-native graduates",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-11-05T17:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://openai.com/index/australian-universities-ai-native-graduates"
-      },
-      {
-        "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-05T23:41:46+00:00",
-        "relevance_score": 12,
-        "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/"
       }
     ],
     "security": [
@@ -98,53 +98,53 @@
         "url": "https://jvn.jp/vu/JVNVU90841469/"
       },
       {
+        "title": "[NEU] [mittel] Moodle: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:41:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4385"
+      },
+      {
+        "title": "[NEU] [mittel] SmarterTools SmarterMail: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:41:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4384"
+      },
+      {
+        "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:41:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4383"
+      },
+      {
+        "title": "[NEU] [mittel] JetBrains CLion: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:40:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4381"
+      },
+      {
+        "title": "[NEU] [hoch] Siemens SIMATIC IoT2050: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:40:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4382"
+      },
+      {
+        "title": "[UPDATE] [mittel] Checkmk: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:40:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4035"
+      },
+      {
         "title": "[UPDATE] [hoch] GIMP: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-06T13:15:14+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4032"
-      },
-      {
-        "title": "[UPDATE] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-06T12:50:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3371"
-      },
-      {
-        "title": "[UPDATE] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-06T12:48:20+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3749"
-      },
-      {
-        "title": "[UPDATE] [hoch] Keycloak: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-06T12:46:41+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1612"
-      },
-      {
-        "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-06T10:57:20+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4267"
-      },
-      {
-        "title": "[UPDATE] [hoch] Eclipse Jetty: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-06T10:56:24+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3992"
-      },
-      {
-        "title": "[UPDATE] [kritisch] SignalWire FreeSWITCH: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-06T10:29:56+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4364"
       }
     ],
     "general": [
@@ -251,6 +251,41 @@
     ],
     "geopolitics": [
       {
+        "title": "[NEU] [mittel] Moodle: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:41:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4385"
+      },
+      {
+        "title": "[NEU] [mittel] SmarterTools SmarterMail: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:41:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4384"
+      },
+      {
+        "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:41:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4383"
+      },
+      {
+        "title": "[NEU] [mittel] JetBrains CLion: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:40:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4381"
+      },
+      {
+        "title": "[NEU] [hoch] Siemens SIMATIC IoT2050: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:40:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4382"
+      },
+      {
         "title": "[NEU] [hoch] OpenSSH: Schwachstelle ermöglicht Erlangen von Administratorrechten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-06T08:04:56+00:00",
@@ -284,27 +319,6 @@
         "published_at": "2026-11-06T12:00:00+00:00",
         "relevance_score": 7,
         "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306241-1032_bits.html"
-      },
-      {
-        "title": "Schadcode-Attacken auf Cisco UCS Central Software und Unified CM möglich",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-06T11:11:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html"
-      },
-      {
-        "title": "U Mobile opens its 5G-Advanced sandbox to Cradle’s startups, but the cheques are not part of the deal",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-06T09:56:48+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/u-mobile-opens-its-5g-advanced-sandbox-to-cradles-startups-but-the-cheques-are-not-part-of-the-deal-20261106/"
-      },
-      {
-        "title": "The business judgment gap: Why BUMN investment decisions need a different risk framework in Indonesia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-06T06:52:36+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/the-business-judgment-gap-why-bumn-investment-decisions-need-a-different-risk-framework-in-indonesia-20261106/"
       }
     ],
     "economy": [
