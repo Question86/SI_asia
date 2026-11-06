@@ -158,6 +158,29 @@
     "id": "3c655198c7aecac2f0d1"
   },
   {
+    "title": "[UPDATE] [hoch] GIMP: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4032",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-06T13:15:14+00:00",
+    "fetched_at": "2026-11-06T13:16:20+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen, einen Denial-of-Service-Angriff auszulösen oder vertrauliche Daten offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3f26c3b4577f8d0e4316"
+  },
+  {
     "title": "[UPDATE] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3371",
     "source": "BSI CERT-Bund Security Advisories",
@@ -869,6 +892,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2b014b768c0770995266"
+  },
+  {
+    "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件",
+    "url": "https://www.watch.impress.co.jp/docs/news/2154508.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-06T11:22:32+00:00",
+    "fetched_at": "2026-11-06T13:16:20+00:00",
+    "summary": "ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cd10230e37528dcc82c0"
   },
   {
     "title": "セキュリティ啓発団体に不正アクセス 個人情報最大1.5万件漏えいか",
