@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T00:35:27+00:00",
+  "generated_at": "2026-11-06T01:29:40+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -12580,7 +12580,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-06T00:35:07+00:00",
+      "last_seen_at": "2026-11-06T01:29:17+00:00",
       "status": "active"
     },
     {
@@ -14825,7 +14825,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-11-06T00:35:07+00:00",
+      "last_seen_at": "2026-11-06T01:29:17+00:00",
       "status": "active"
     },
     {
@@ -17545,8 +17545,8 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-05T23:46:25+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-06T01:29:17+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_a2888de3c57b771f0196",
@@ -20014,6 +20014,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_180ba472e95259899e1f",
+      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-06T00:35:07+00:00",
+      "last_seen_at": "2026-11-06T01:29:17+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_191ab3bc063695a3c886",
       "title": "Southeast Asia is digitising health records. Making them portable is the harder problem",
       "event_classes": [
@@ -21475,23 +21492,6 @@
       "first_seen_at": "2026-10-31T06:33:29+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_180ba472e95259899e1f",
-      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-06T00:35:07+00:00",
-      "last_seen_at": "2026-11-06T00:35:07+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
@@ -30201,6 +30201,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_83f9ad1aad6fbacaa567",
+      "title": "Taiwan’s envoy says its startups are capable enough to go global, with Singapore as the first step",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-06T01:29:17+00:00",
+      "last_seen_at": "2026-11-06T01:29:17+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_01f8d7013bd851003572",
       "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
       "event_classes": [
@@ -33873,6 +33890,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_50e4ed46656e4483ac35",
+      "title": "Usage metrics API flags telemetry and version gaps",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-06T00:35:07+00:00",
+      "last_seen_at": "2026-11-06T01:29:17+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_52fb1d3cabccc6ee2961",
       "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
       "event_classes": [
@@ -35486,6 +35520,23 @@
       "first_seen_at": "2026-11-05T00:37:22+00:00",
       "last_seen_at": "2026-11-05T08:10:20+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9bc31251d52baeb1cb5a",
+      "title": "Usage metrics API adds code review details and addressed rate",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-06T00:35:07+00:00",
+      "last_seen_at": "2026-11-06T01:29:17+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9bddacf42c9d1df7e9f7",
@@ -37662,40 +37713,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_9bc31251d52baeb1cb5a",
-      "title": "Usage metrics API adds code review details and addressed rate",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-06T00:35:07+00:00",
-      "last_seen_at": "2026-11-06T00:35:07+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_50e4ed46656e4483ac35",
-      "title": "Usage metrics API flags telemetry and version gaps",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-06T00:35:07+00:00",
-      "last_seen_at": "2026-11-06T00:35:07+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
