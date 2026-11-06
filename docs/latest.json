@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T03:44:51+00:00",
-  "run_id": "2026-11-06T03:44:51+00:00",
+  "generated_at": "2026-11-06T04:00:12+00:00",
+  "run_id": "2026-11-06T04:00:12+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 19,
     "displayed_findings": 19,
     "high": 0,
@@ -1007,54 +1007,7 @@
       "id": "a63ff478938475f0c2c6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub",
-      "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-05T01:53:25+00:00",
-      "fetched_at": "2026-11-06T03:44:22+00:00",
-      "summary": "こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の...",
-      "matched_keywords": [
-        "agent",
-        "AI/KI",
-        "developer",
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.5); GitHub (+2.0); agent (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3c655198c7aecac2f0d1"
-    },
-    {
-      "title": "Malaysia carried Southeast Asia’s IPO market in 2026. The rest of the region went quiet",
-      "url": "https://e27.co/malaysia-carried-southeast-asias-ipo-market-in-2026-the-rest-of-the-region-went-quiet-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-06T03:41:07+00:00",
-      "fetched_at": "2026-11-06T03:44:22+00:00",
-      "summary": "Strip Malaysia out of the numbers, and Southeast Asia’s public markets in 2026 look less like a listing venue and more like a waiting room. Southeast Asia recorded 56 initial public offerings (IPOs) raising US$3 billion in the first nine months of 2026, according to EY data released on Thursday. That is down from 76 […] The post Malaysia carried Southeast Asia’s IPO market in 2026. The rest of the region went quiet…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "92812f130efef558c7a4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
