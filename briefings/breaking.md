@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-06T22:25:49+00:00_
+_Generiert: 2026-11-06T22:34:26+00:00_
 
 ## Beyond code generation: A developer’s guide to agentic engineering
 
