@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T15:41:13+00:00",
-  "run_id": "2026-11-06T15:41:13+00:00",
+  "generated_at": "2026-11-06T15:49:43+00:00",
+  "run_id": "2026-11-06T15:49:43+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 0,
@@ -2821,29 +2821,7 @@
       "id": "a63ff478938475f0c2c6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ドコモ、不正アクセスで最大29.5万件の情報が流出",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2154506.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-06T12:04:58+00:00",
-      "fetched_at": "2026-11-06T15:40:42+00:00",
-      "summary": "ドコモ、不正アクセスで最大29.5万件の情報が流出",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "298f9da9922d60eb60ba"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
