@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T12:00:57+00:00_
+_Generiert: 2026-11-06T12:19:20+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+39 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -244,6 +244,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: One of the biggest changes AI has brought to my work is that I can do more. I am no longer as daunted by the mundane work involved in getting something started. A research idea, teaching session or presentation comes with preparation: organising notes, building a structure, condensing information and revising the wording. These tasks […] The post AI can help me think faster, but I still have to decide how I actually…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Version 1.0: OpenSSH - Schwachstelle gefährdet Alpine Linux und weitere Produkte** — Score 7, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306241-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-11-06T12:00:00+00:00`, fetched `2026-11-06T12:18:45+00:00`
+  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0)
+  - Kurz: Version 1.0: OpenSSH - Schwachstelle gefährdet Alpine Linux und weitere Produkte
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Schadcode-Attacken auf Cisco UCS Central Software und Unified CM möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-06T11:11:00.000+00:00`, fetched `2026-11-06T11:28:07+00:00`
@@ -288,15 +297,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 情報セキュリティの普及啓発に向けて活動する日本ネットワークセキュリティ協会（JNSA）は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。利用者のIDやハッシュ化したパスワードなどが漏えいした...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Usage metrics API adds code review details and addressed rate** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-06T00:19:07+00:00`, fetched `2026-11-06T00:34:31+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.0); recent (+1.0)
-  - Kurz: The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
