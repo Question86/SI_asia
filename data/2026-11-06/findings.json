@@ -158,6 +158,29 @@
     "id": "3c655198c7aecac2f0d1"
   },
   {
+    "title": "[UPDATE] [hoch] Keycloak: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1612",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-06T12:46:41+00:00",
+    "fetched_at": "2026-11-06T12:49:21+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Informationen offenzulegen, Daten zu manipulieren, Sicherheitsvorkehrungen zu umgehen und einen Denial of Service zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8ea541234a8fa9cc8bc0"
+  },
+  {
     "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4267",
     "source": "BSI CERT-Bund Security Advisories",
@@ -821,6 +844,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bce334beec4997eebb38"
+  },
+  {
+    "title": "Herdrで、複数のエージェントを見守りたい - じゃあ、おうちで学べる",
+    "url": "https://syu-m-5151.hatenablog.com/entry/2026/11/06/132239",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-06T06:46:54+00:00",
+    "fetched_at": "2026-11-06T12:49:21+00:00",
+    "summary": "はじめに 私たちエンジニアの仕事はここ1年で大きく変貌しました。大きく変貌しましたよね？ 自分でコードを書く時間より、エージェントに仕事を渡し、戻ってきた差分を読み、次に何を任せるかを決める時間のほうが長くなった人も多いはずです。仕事術の本を出したのですが、修正をしなければ嘘だなって思ったほどです。...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f2c90f055993dd444635"
   },
   {
     "title": "メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」",
