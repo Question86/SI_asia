@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T13:17:13+00:00",
+  "generated_at": "2026-11-06T13:32:15+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -551,7 +551,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T07:59:58+00:00",
       "last_seen_at": "2026-11-06T13:16:52+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a298fd300fc635a8ed74",
@@ -778,6 +778,25 @@
       "first_seen_at": "2026-09-03T02:46:59+00:00",
       "last_seen_at": "2026-09-03T23:52:47+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a4e0f9a16fad7797d8af",
+      "title": "Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)",
+      "event_classes": [
+        "vulnerability",
+        "exploit",
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11840000.0,
+      "p50_usd": 1184000000.0,
+      "p90_usd": 118400000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-06T13:31:57+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_5292580554ec16f07ced",
@@ -1429,7 +1448,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-06T04:34:13+00:00",
       "last_seen_at": "2026-11-06T13:16:52+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8f19adcf428a7cb64b7e",
@@ -1938,7 +1957,7 @@
       "p90_usd": 11760000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-06T11:01:03+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -4471,7 +4490,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T21:48:18+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -7922,7 +7941,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-06T08:48:12+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -8857,7 +8876,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-06T01:56:29+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -12444,7 +12463,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -12648,7 +12667,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -14893,7 +14912,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -16202,7 +16221,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-06T02:03:53+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -17630,7 +17649,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -18106,7 +18125,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-06T03:44:53+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -19075,7 +19094,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-06T07:55:48+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -19296,7 +19315,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-06T04:34:13+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -20163,7 +20182,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-06T00:35:07+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -21728,7 +21747,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-06T03:03:03+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -25490,6 +25509,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b0c7bb5eadcfa16133d2",
+      "title": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-06T13:31:57+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_03377f8133c052e61312",
       "title": "Change fatigue is an organisational design problem, not a resilience problem",
       "event_classes": [
@@ -25690,7 +25726,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
       "status": "active"
     },
     {
@@ -27052,7 +27088,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-06T06:48:43+00:00",
       "last_seen_at": "2026-11-06T13:16:52+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_311f0e7f9aa49deddda7",
@@ -27477,7 +27513,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-06T03:44:53+00:00",
       "last_seen_at": "2026-11-06T13:16:52+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4d03a7c7781dcfba02ee",
@@ -29416,6 +29452,57 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9a8a2c8a4de418acd434",
+      "title": "Multiples vulnérabilités dans NetApp ONTAP 9 (03 novembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-06T13:31:57+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_b3495473bc01c430a010",
+      "title": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-06T13:31:57+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_daa8cf595ab5b836ff06",
+      "title": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-06T13:31:57+00:00",
+      "last_seen_at": "2026-11-06T13:31:57+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_041397919a21c7984d11",
@@ -36253,6 +36340,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_af927ef058215177be78",
+      "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-06T13:16:52+00:00",
+      "last_seen_at": "2026-11-06T13:16:52+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_afb1070a2882202d2354",
       "title": "「頭脳だけで正解を探したら、AIに大敗する」川邊健太郎が旅と“ヒュー！”に見いだすもの - エンジニアtype | 転職type",
       "event_classes": [
@@ -38053,23 +38157,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_af927ef058215177be78",
-      "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-06T13:16:52+00:00",
-      "last_seen_at": "2026-11-06T13:16:52+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
