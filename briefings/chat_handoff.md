@@ -1,67 +1,11 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T23:46:21+00:00_
+_Generated: 2026-11-06T00:00:36+00:00_
 
 ## Status
-- status: `normal`
-- findings: `105`
+- status: `warning`
+- findings: `0`
 
 ## Top Signals
-
-### 1. Updates | ReliefWeb
-- source: ReliefWeb Mindanao Recovery Watch
-- score: `23`
-- published: `2026-11-05T11:12:57+00:00`
-- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
-- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
-
-### 2. A rare strike in Taiwan exposes labor unrest beneath the global AI rush
-- source: Rest of World Global Tech Feed
-- score: `23`
-- published: `2026-11-05T11:00:00+00:00`
-- url: https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-- summary: Micron Technology union representatives gesture during a protest outside of the Micron facility demanding greater profit shares and better bonuses, in Taoyuan on October 22, 2026. Eleven workers at a Micron Technology plant in Taiwan went on strike October 22…
-
-### 3. Equal spend: why AI budgets need a security twin
-- source: e27 Asia Startup and Tech Feed
-- score: `20`
-- published: `2026-11-05T06:05:36+00:00`
-- url: https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/
-- summary: The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 O…
-
-### 4. The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in now
-- source: e27 Asia Startup and Tech Feed
-- score: `19`
-- published: `2026-11-05T09:28:53+00:00`
-- url: https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/
-- summary: For two years, the rules of AI fundraising were simple: whoever asked for the biggest number got it. Last week, that stopped being true at the very top of the market. OpenAI cut its fundraising target by US$10 billion to US$20 billion as falling tech stocks a…
-
-### 5. M 4.6 - 147 km SSE of False Pass, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-11-05T23:29:00.409+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twd4
-- summary: PAGER - GREEN ShakeMap - III Time 2026-11-05 23:04:57 UTC 2026-11-05 23:04:57 UTC at epicenter Location 53.553°N 162.950°W Depth 16.13 km (10.03 mi)
-
-### 6. M 6.1 - Fiji region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-11-05T17:46:56.144+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8r
-- summary: PAGER - GREEN ShakeMap - I Time 2026-11-05 17:21:45 UTC 2026-11-05 17:21:45 UTC at epicenter Location 21.169°S 178.646°W Depth 540.79 km (336.03 mi)
-
-### 7. M 5.0 - 114 km W of Petrolia, CA
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-11-05T05:28:47.542+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637
-- summary: PAGER - GREEN ShakeMap - III DYFI? - IV Time 2026-11-05 04:56:01 UTC 2026-11-05 04:56:01 UTC at epicenter Location 40.425°N 125.627°W Depth 2.14 km (1.33 mi)
-
-### 8. Chopin
-- source: Hatena Bookmark Hotentry IT
-- score: `13`
-- published: `2026-09-10T10:10:12+00:00`
-- url: https://githubnext.com/projects/chopin/
-- summary: Chopin A real-time multiplayer, agentic planning environment What's it for? Exploring how we can make team planning with agents feel like a truly collaborative experience, with less cognitive load and more capacity for decision making and deep research Share…
 
 END OF DOCUMENT
