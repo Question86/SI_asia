@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T00:35:02+00:00",
-  "run_id": "2026-11-06T00:35:02+00:00",
+  "generated_at": "2026-11-06T01:29:14+00:00",
+  "run_id": "2026-11-06T01:29:14+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 2,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 2,
-    "observe": 3,
+    "medium": 3,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
@@ -74,6 +74,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "542637e05c0b742ab492"
+      },
+      {
+        "title": "Cult.fit builds operational muscle with Codex",
+        "url": "https://openai.com/index/cultfit-builds-with-codex",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-05T20:00:00+00:00",
+        "fetched_at": "2026-11-06T01:28:40+00:00",
+        "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+        "matched_keywords": [
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "9a141230a2941f120d5c"
       }
     ],
     "observe": [
@@ -98,6 +142,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a743225cc609cba8e7a2"
+      },
+      {
+        "title": "Taiwan’s envoy says its startups are capable enough to go global, with Singapore as the first step",
+        "url": "https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-06T01:00:41+00:00",
+        "fetched_at": "2026-11-06T01:28:40+00:00",
+        "summary": "SINGAPORE: The aisles around the Taiwan Pavilion at SWITCH 2026 were busy. At Booth Q01 of Sands Expo and Convention Centre, 33 Taiwanese startups spent three days, from 27 to 29 October, meeting visitors, investors and potential partners from across the region. Among the visitors was Dr Tung Chen-yuan, Representative of the Taipei Representative Office […] The post Taiwan’s envoy says its startups are capable enoug…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1f862beabce72e011166"
       },
       {
         "title": "Usage metrics API adds code review details and addressed rate",
@@ -191,6 +255,50 @@
       "id": "542637e05c0b742ab492"
     },
     {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-05T20:00:00+00:00",
+      "fetched_at": "2026-11-06T01:28:40+00:00",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "matched_keywords": [
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "9a141230a2941f120d5c"
+    },
+    {
       "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -211,6 +319,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a743225cc609cba8e7a2"
+    },
+    {
+      "title": "Taiwan’s envoy says its startups are capable enough to go global, with Singapore as the first step",
+      "url": "https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-06T01:00:41+00:00",
+      "fetched_at": "2026-11-06T01:28:40+00:00",
+      "summary": "SINGAPORE: The aisles around the Taiwan Pavilion at SWITCH 2026 were busy. At Booth Q01 of Sands Expo and Convention Centre, 33 Taiwanese startups spent three days, from 27 to 29 October, meeting visitors, investors and potential partners from across the region. Among the visitors was Dr Tung Chen-yuan, Representative of the Taipei Representative Office […] The post Taiwan’s envoy says its startups are capable enoug…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1f862beabce72e011166"
     },
     {
       "title": "Usage metrics API adds code review details and addressed rate",
@@ -257,114 +385,68 @@
   ],
   "new_findings": [
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）",
-      "url": "https://jvn.jp/vu/JVNVU90841469/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-06T09:30:00+09:00",
-      "fetched_at": "2026-11-06T00:34:31+00:00",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "published_at": "2026-11-05T20:00:00+00:00",
+      "fetched_at": "2026-11-06T01:28:40+00:00",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
       "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a71b56f1af380df1ea4f"
-    },
-    {
-      "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
-      "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-05T21:20:44+00:00",
-      "fetched_at": "2026-11-06T00:34:31+00:00",
-      "summary": "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "Security"
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
       ],
       "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "542637e05c0b742ab492"
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "9a141230a2941f120d5c"
     },
     {
-      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Taiwan’s envoy says its startups are capable enough to go global, with Singapore as the first step",
+      "url": "https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-05T23:41:46+00:00",
-      "fetched_at": "2026-11-06T00:34:31+00:00",
-      "summary": "米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され...",
+      "published_at": "2026-11-06T01:00:41+00:00",
+      "fetched_at": "2026-11-06T01:28:40+00:00",
+      "summary": "SINGAPORE: The aisles around the Taiwan Pavilion at SWITCH 2026 were busy. At Booth Q01 of Sands Expo and Convention Centre, 33 Taiwanese startups spent three days, from 27 to 29 October, meeting visitors, investors and potential partners from across the region. Among the visitors was Dr Tung Chen-yuan, Representative of the Taipei Representative Office […] The post Taiwan’s envoy says its startups are capable enoug…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a743225cc609cba8e7a2"
-    },
-    {
-      "title": "Usage metrics API adds code review details and addressed rate",
-      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-06T00:19:07+00:00",
-      "fetched_at": "2026-11-06T00:34:31+00:00",
-      "summary": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "600665bb54d5be24e003"
-    },
-    {
-      "title": "Usage metrics API flags telemetry and version gaps",
-      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-06T00:08:31+00:00",
-      "fetched_at": "2026-11-06T00:34:31+00:00",
-      "summary": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e822909fc0f39b621d18"
+      "id": "1f862beabce72e011166"
     }
   ],
   "source_errors": [],
