@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T01:48:43+00:00",
-  "run_id": "2026-11-06T01:48:43+00:00",
+  "generated_at": "2026-11-06T01:56:26+00:00",
+  "run_id": "2026-11-06T01:56:26+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 2,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 3,
-    "observe": 5,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -144,6 +144,42 @@
         "id": "a743225cc609cba8e7a2"
       },
       {
+        "title": "M 4.6 - 58 km WNW of Isangel, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-06T01:53:40.040+00:00",
+        "fetched_at": "2026-11-06T01:55:50+00:00",
+        "summary": "Time 2026-11-06 01:37:39 UTC 2026-11-06 01:37:39 UTC at epicenter Location 19.365°S 168.753°E Depth 83.27 km (51.74 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a9d5a4c972639b66bbf2"
+      },
+      {
         "title": "Taiwan’s envoy says its startups are capable enough to go global, with Singapore as the first step",
         "url": "https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -162,6 +198,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1f862beabce72e011166"
+      },
+      {
+        "title": "ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました",
+        "url": "https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-06T01:46:31+00:00",
+        "fetched_at": "2026-11-06T01:55:50+00:00",
+        "summary": "ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2b014b768c0770995266"
       },
       {
         "title": "Usage metrics API adds code review details and addressed rate",
@@ -342,6 +398,42 @@
       "id": "a743225cc609cba8e7a2"
     },
     {
+      "title": "M 4.6 - 58 km WNW of Isangel, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-06T01:53:40.040+00:00",
+      "fetched_at": "2026-11-06T01:55:50+00:00",
+      "summary": "Time 2026-11-06 01:37:39 UTC 2026-11-06 01:37:39 UTC at epicenter Location 19.365°S 168.753°E Depth 83.27 km (51.74 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a9d5a4c972639b66bbf2"
+    },
+    {
       "title": "Taiwan’s envoy says its startups are capable enough to go global, with Singapore as the first step",
       "url": "https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -360,6 +452,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1f862beabce72e011166"
+    },
+    {
+      "title": "ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました",
+      "url": "https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-06T01:46:31+00:00",
+      "fetched_at": "2026-11-06T01:55:50+00:00",
+      "summary": "ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b014b768c0770995266"
     },
     {
       "title": "Usage metrics API adds code review details and addressed rate",
@@ -427,25 +539,60 @@
   ],
   "new_findings": [
     {
-      "title": "ソニー、初代ウォークマン付属ヘッドフォンを再現。USB-C化した「MDR-3R」",
-      "url": "https://av.watch.impress.co.jp/docs/news/2153686.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.6 - 58 km WNW of Isangel, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-06T00:14:47+00:00",
-      "fetched_at": "2026-11-06T01:48:08+00:00",
-      "summary": "ソニー、初代ウォークマン付属ヘッドフォンを再現。USB-C化した「MDR-3R」",
+      "published_at": "2026-11-06T01:53:40.040+00:00",
+      "fetched_at": "2026-11-06T01:55:50+00:00",
+      "summary": "Time 2026-11-06 01:37:39 UTC 2026-11-06 01:37:39 UTC at epicenter Location 19.365°S 168.753°E Depth 83.27 km (51.74 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a9d5a4c972639b66bbf2"
+    },
+    {
+      "title": "ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました",
+      "url": "https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-06T01:46:31+00:00",
+      "fetched_at": "2026-11-06T01:55:50+00:00",
+      "summary": "ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0e16b319c9186fe0764e"
+      "id": "2b014b768c0770995266"
     }
   ],
   "source_errors": [],
