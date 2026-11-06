@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T03:19:02+00:00_
+_Generiert: 2026-11-06T03:27:36+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,8 @@ _Generiert: 2026-11-06T03:19:02+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-29`
   - Kurz: Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575788)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.
+
+- Sensor-Hinweis: GDACS failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 ## Wirtschaft global
 
