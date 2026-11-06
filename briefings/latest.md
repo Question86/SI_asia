@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T11:37:47+00:00_
+_Generiert: 2026-11-06T11:45:24+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,6 @@ _Generiert: 2026-11-06T11:37:47+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-29`
   - Kurz: Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability
-- **USGS earthquake M6.1 - 156 km SE of Hasaki, Japan** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9)
-  - Quelle: USGS
-  - Zeit: `2026-11-06T10:39:24+00:00`
-  - Kurz: M6.1 - 156 km SE of Hasaki, Japan. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575911)
   - Quelle: GDACS
   - Zeit: ``
@@ -50,7 +46,7 @@ _Generiert: 2026-11-06T11:37:47+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
