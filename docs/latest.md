@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T22:10:58+00:00_
+_Generiert: 2026-11-06T22:17:13+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+64 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Firewall (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Barracuda Networks Email Security Gateway und Barracuda Networks Web Application Firewall ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen und die Authentifizierung zu umgehen. Durch die Kombination dieser Schwachstellen kann der Angreifer Root-Zugriff auf das Gerät erlangen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Beyond code generation: A developer’s guide to agentic engineering** — Score 20, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-11-06T22:15:59+00:00`, fetched `2026-11-06T22:16:40+00:00`
+  - Treffer: AI Agents, AI/KI, Content-Chance, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Content-Chance (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
+  - Kurz: Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Measuring how AI agents handle everyday wet-lab science** — Score 20, opportunity — [Quelle](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
   - Quelle: OpenAI News RSS / `rss`

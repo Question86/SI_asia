@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T22:10:58+00:00_
+_Generated: 2026-11-06T22:17:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `63`
+- findings: `64`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-06T22:10:58+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295
 - summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Barracuda Networks Email Security Gateway und Barracuda Networks Web Application Firewall ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen und die Authentifizie…
 
-### 2. Measuring how AI agents handle everyday wet-lab science
+### 2. Beyond code generation: A developer’s guide to agentic engineering
+- source: GitHub Blog Atom
+- score: `20`
+- published: `2026-11-06T22:15:59+00:00`
+- url: https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/
+- summary: Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agent…
+
+### 3. Measuring how AI agents handle everyday wet-lab science
 - source: OpenAI News RSS
 - score: `20`
 - published: `2026-11-06T00:00:00+00:00`
 - url: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
 - summary: OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.
 
-### 3. I automated my entire life with AI agents. Then a 2 am voice note exposed the lie
+### 4. I automated my entire life with AI agents. Then a 2 am voice note exposed the lie
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-11-06T02:00:47+00:00`
 - url: https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/
 - summary: I spent months building the ultimate autonomous productivity engine to eliminate every bottleneck, until a founder in crisis made me realise that execution is cheap, but presence is priceless. The terminal window glowed with quiet, rhythmic precision. By 2:00…
-
-### 4. Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)
-- source: CERT-FR Avis de sécurité
-- score: `18`
-- published: `2026-11-02T00:00:00+00:00`
-- url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/
-- summary: De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique q…
 
 ### 5. Australian universities are creating AI-native graduates
 - source: OpenAI News RSS

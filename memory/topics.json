@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T22:10:58+00:00",
+  "generated_at": "2026-11-06T22:17:13+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-06T06:54:56+00:00",
         "relevance_score": 21,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295"
+      },
+      {
+        "title": "Beyond code generation: A developer’s guide to agentic engineering",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-11-06T22:15:59+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
       },
       {
         "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-05T21:20:44+00:00",
         "relevance_score": 14,
         "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/"
-      },
-      {
-        "title": "Cult.fit builds operational muscle with Codex",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-11-05T20:00:00+00:00",
-        "relevance_score": 14,
-        "url": "https://openai.com/index/cultfit-builds-with-codex"
       }
     ],
     "security": [
@@ -147,6 +147,43 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4032"
       }
     ],
+    "github": [
+      {
+        "title": "Beyond code generation: A developer’s guide to agentic engineering",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-11-06T22:15:59+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
+      },
+      {
+        "title": "定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-05T01:53:25+00:00",
+        "relevance_score": 15,
+        "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails"
+      },
+      {
+        "title": "Usagi-org/ai-goofish-monitor",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 14,
+        "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+      },
+      {
+        "title": "Usage metrics API adds code review details and addressed rate",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-06T00:19:07+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate"
+      },
+      {
+        "title": "Usage metrics API flags telemetry and version gaps",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-06T00:08:31+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps"
+      }
+    ],
     "general": [
       {
         "title": "M 6.1 - 156 km SE of Hasaki, Japan",
@@ -217,36 +254,6 @@
         "published_at": "2026-11-06T11:22:32+00:00",
         "relevance_score": 5,
         "url": "https://www.watch.impress.co.jp/docs/news/2154508.html"
-      }
-    ],
-    "github": [
-      {
-        "title": "定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-05T01:53:25+00:00",
-        "relevance_score": 15,
-        "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails"
-      },
-      {
-        "title": "Usagi-org/ai-goofish-monitor",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 14,
-        "url": "https://github.com/Usagi-org/ai-goofish-monitor"
-      },
-      {
-        "title": "Usage metrics API adds code review details and addressed rate",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-06T00:19:07+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate"
-      },
-      {
-        "title": "Usage metrics API flags telemetry and version gaps",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-06T00:08:31+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps"
       }
     ],
     "geopolitics": [
