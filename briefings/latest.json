@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T17:18:06+00:00",
-  "run_id": "2026-11-06T17:18:06+00:00",
+  "generated_at": "2026-11-06T17:25:33+00:00",
+  "run_id": "2026-11-06T17:25:33+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 60,
     "displayed_findings": 60,
     "high": 0,
@@ -2905,29 +2905,7 @@
       "id": "a63ff478938475f0c2c6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
-      "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-06T16:49:21+00:00",
-      "fetched_at": "2026-11-06T17:17:35+00:00",
-      "summary": "「お前は何を言っているんだ？」と思うかもしれませんが、本当なのだから仕方ない！動いていたはずの CI の単体テストが突然コケるという事態に遭遇してビックリ。「何もしてないのに壊れた」。まじで。 何が起きたか ありのままのコードを載せるわけにはいかないのでポイントを絞って記載します。ざっくり以下のような...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "14e17a0d6087f5bc3315"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
