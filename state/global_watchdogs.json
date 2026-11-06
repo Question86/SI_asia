@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-06T20:00:25+00:00",
+  "generated_at": "2026-11-06T20:29:55+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-19868 SonicWall SonicOS SSLVPN",
+        "summary": "Known exploited vulnerability. Added 2026-11-06. Due 2026-11-20. SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-06",
+        "metrics": {
+          "cve": "CVE-2026-19868"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -53,18 +65,6 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-97229 GitLab Community Edition and Enterprise Edition",
-        "summary": "Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-29",
-        "metrics": {
-          "cve": "CVE-2026-97229"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
         "title": "GDACS: Green flood alert in France",
         "summary": "Green flood alert in France",
         "source": "GDACS",
@@ -85,8 +85,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2127 .",
-        "summary": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2127 .",
+        "title": "GDACS: Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 986 .",
+        "summary": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 986 .",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001347",
         "published_at": "",
