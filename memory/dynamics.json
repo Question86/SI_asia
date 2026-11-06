@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-06T12:16:10Z",
+  "generated_at": "2026-11-06T12:29:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 7,
       "extreme": 1,
-      "strong": 9,
-      "watch": 23
+      "strong": 10,
+      "watch": 22
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 16,
-      "watch": 23
+      "strong": 17,
+      "watch": 22
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4364",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:29:56+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 69.92,
+      "age_days": 69.93,
       "topics": [
         "ai",
         "security",
@@ -78,7 +78,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T06:54:56+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security",
@@ -106,7 +106,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4267",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:57:20+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -154,7 +154,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T08:04:56+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -178,7 +178,7 @@
       "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T21:20:44+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "ai",
         "security"
@@ -205,7 +205,7 @@
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-05T17:00:00+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -231,7 +231,7 @@
       "url": "https://jvn.jp/vu/JVNVU90841469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-06T09:30:00+09:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -283,7 +283,7 @@
       "url": "https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T02:00:47+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -310,7 +310,7 @@
       "url": "https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:03:03+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -335,7 +335,7 @@
       "url": "https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:00:12+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "macro"
@@ -358,6 +358,31 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "During five weeks in the United States, I spent much of my time in New York exploring the intersection of blockchain, finance, and emerging technology. I attended Avalanche Summit, spoke about stablecoins for emerging markets during UN Blockchain Week, and observed how conversations around blockchain were evolving bey…"
+    },
+    {
+      "title": "Version 1.0: OpenSSH - Schwachstelle gefährdet Alpine Linux und weitere Produkte",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306241-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "published_at": "2026-11-06T12:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10"
+      ],
+      "summary": "Version 1.0: OpenSSH - Schwachstelle gefährdet Alpine Linux und weitere Produkte"
     },
     {
       "title": "Schadcode-Attacken auf Cisco UCS Central Software und Unified CM möglich",
@@ -389,7 +414,7 @@
       "url": "https://e27.co/u-mobile-opens-its-5g-advanced-sandbox-to-cradles-startups-but-the-cheques-are-not-part-of-the-deal-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T10:00:51+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -413,7 +438,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T00:35:07+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "security"
@@ -438,7 +463,7 @@
       "url": "https://e27.co/u-mobile-opens-its-5g-advanced-sandbox-to-cradles-startups-but-the-cheques-are-not-part-of-the-deal-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T09:56:48+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -465,7 +490,7 @@
       "url": "https://jvn.jp/vu/JVNVU90841469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 140.43,
+      "age_days": 140.44,
       "topics": [
         "general"
       ],
@@ -490,7 +515,7 @@
       "url": "https://e27.co/bitcoin-pump-and-dump-the-us75000-support-zone-will-decide-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T06:48:43+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -538,7 +563,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T10:58:59.896+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "disaster"
@@ -566,7 +591,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T11:01:03+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -592,7 +617,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T08:48:12+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -616,7 +641,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T01:56:29+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -666,7 +691,7 @@
       "url": "https://e27.co/the-business-judgment-gap-why-bumn-investment-decisions-need-a-different-risk-framework-in-indonesia-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T06:56:12+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -690,7 +715,7 @@
       "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T04:34:13+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -716,7 +741,7 @@
       "url": "https://github.com/Usagi-org/ai-goofish-monitor",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-06T07:55:48+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -766,7 +791,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T11:28:40+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -814,7 +839,7 @@
       "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-06T00:35:07+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -838,7 +863,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2153924.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T10:45:51+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -862,7 +887,7 @@
       "url": "https://speakerdeck.com/3l4l5/techniques-for-habit-formation",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T02:48:02+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -910,7 +935,7 @@
       "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 140.19,
+      "age_days": 140.2,
       "topics": [
         "general"
       ],
@@ -936,7 +961,7 @@
       "url": "https://e27.co/bitcoin-pump-and-dump-the-us75000-support-zone-will-decide-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T06:46:47+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "macro"
       ],
@@ -983,7 +1008,7 @@
       "url": "https://openai.com/index/cultfit-builds-with-codex",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 141.65,
+      "age_days": 141.66,
       "topics": [
         "ai"
       ],
@@ -1001,35 +1026,10 @@
         "momentum delta +3",
         "high terms: code",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 141.6d old signal",
+        "aging penalty -8.0 for 141.7d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-05T23:41:46+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] SignalWire FreeSWITCH: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
