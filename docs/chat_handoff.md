@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T03:27:36+00:00_
+_Generated: 2026-11-06T03:44:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `19`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-06T03:27:36+00:00_
 - url: https://jvn.jp/vu/JVNVU90841469/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている
+### 3. 定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub
+- source: Hatena Bookmark Hotentry IT
+- score: `15`
+- published: `2026-11-05T01:53:25+00:00`
+- url: https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails
+- summary: こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の...
+
+### 4. AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている
 - source: Hatena Bookmark Hotentry IT
 - score: `14`
 - published: `2026-11-05T21:20:44+00:00`
 - url: https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/
 - summary: 2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代...
-
-### 4. Cult.fit builds operational muscle with Codex
-- source: OpenAI News RSS
-- score: `14`
-- published: `2026-11-05T20:00:00+00:00`
-- url: https://openai.com/index/cultfit-builds-with-codex
-- summary: Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.
 
 ### 5. Australian universities are creating AI-native graduates
 - source: OpenAI News RSS
