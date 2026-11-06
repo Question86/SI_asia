@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T22:17:13+00:00",
-  "run_id": "2026-11-06T22:17:13+00:00",
+  "generated_at": "2026-11-06T22:25:45+00:00",
+  "run_id": "2026-11-06T22:25:45+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 64
+      "configured_public_sources_only": 66
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 64,
-    "displayed_findings": 64,
+    "new_relevant_findings": 2,
+    "today_file_total": 66,
+    "displayed_findings": 66,
     "high": 0,
     "medium": 26,
-    "observe": 38,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -1267,6 +1267,27 @@
         "id": "f9bf42443cf1992c8e55"
       },
       {
+        "title": "Copilot impact dashboard adds chat and VS Code agent usage",
+        "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-06T22:17:28+00:00",
+        "fetched_at": "2026-11-06T22:25:15+00:00",
+        "summary": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "97ae52954ebc3681f073"
+      },
+      {
         "title": "古川大臣記者会見（令和8年11月6日）動画を掲載しました",
         "url": "https://www.digital.go.jp/speech/minister-261106-01",
         "source": "Japan Digital Agency News RSS",
@@ -1536,6 +1557,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e822909fc0f39b621d18"
+      },
+      {
+        "title": "自分は旧時代のエンジニアになってしまったのでは",
+        "url": "https://www.mobtown.jp/article/old-engineer/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-05T13:24:35+00:00",
+        "fetched_at": "2026-11-06T22:25:15+00:00",
+        "summary": "最近、生成AIによるバイブコーディングが一般化していくにつれて、自分の中でそことの向き合い方を考えていました。 個人的には、生成AIの出力をそのまま鵜呑みにするのではなく、内容を理解し必要に応じて訂正した上で、自分の責任として成果物を出すのがエンジニアリングだ—、というのが今の自分の結論でした。 それは...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8692c1e623eb7bf742a4"
       },
       {
         "title": "インプレス、セキュリティ書籍9冊を全文無料公開。11月9日まで",
@@ -2818,6 +2860,27 @@
       "id": "f9bf42443cf1992c8e55"
     },
     {
+      "title": "Copilot impact dashboard adds chat and VS Code agent usage",
+      "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-06T22:17:28+00:00",
+      "fetched_at": "2026-11-06T22:25:15+00:00",
+      "summary": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "97ae52954ebc3681f073"
+    },
+    {
       "title": "古川大臣記者会見（令和8年11月6日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261106-01",
       "source": "Japan Digital Agency News RSS",
@@ -3089,6 +3152,27 @@
       "id": "e822909fc0f39b621d18"
     },
     {
+      "title": "自分は旧時代のエンジニアになってしまったのでは",
+      "url": "https://www.mobtown.jp/article/old-engineer/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T13:24:35+00:00",
+      "fetched_at": "2026-11-06T22:25:15+00:00",
+      "summary": "最近、生成AIによるバイブコーディングが一般化していくにつれて、自分の中でそことの向き合い方を考えていました。 個人的には、生成AIの出力をそのまま鵜呑みにするのではなく、内容を理解し必要に応じて訂正した上で、自分の責任として成果物を出すのがエンジニアリングだ—、というのが今の自分の結論でした。 それは...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8692c1e623eb7bf742a4"
+    },
+    {
       "title": "インプレス、セキュリティ書籍9冊を全文無料公開。11月9日まで",
       "url": "https://pc.watch.impress.co.jp/docs/news/2153924.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3133,28 +3217,46 @@
   ],
   "new_findings": [
     {
-      "title": "Beyond code generation: A developer’s guide to agentic engineering",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-      "source": "GitHub Blog Atom",
+      "title": "Copilot impact dashboard adds chat and VS Code agent usage",
+      "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-11-06T22:15:59+00:00",
-      "fetched_at": "2026-11-06T22:16:40+00:00",
-      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
+      "published_at": "2026-11-06T22:17:28+00:00",
+      "fetched_at": "2026-11-06T22:25:15+00:00",
+      "summary": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Content-Chance",
         "Copilot",
         "GitHub"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Content-Chance (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c21c5c76dd232dd23801"
+      "id": "97ae52954ebc3681f073"
+    },
+    {
+      "title": "自分は旧時代のエンジニアになってしまったのでは",
+      "url": "https://www.mobtown.jp/article/old-engineer/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T13:24:35+00:00",
+      "fetched_at": "2026-11-06T22:25:15+00:00",
+      "summary": "最近、生成AIによるバイブコーディングが一般化していくにつれて、自分の中でそことの向き合い方を考えていました。 個人的には、生成AIの出力をそのまま鵜呑みにするのではなく、内容を理解し必要に応じて訂正した上で、自分の責任として成果物を出すのがエンジニアリングだ—、というのが今の自分の結論でした。 それは...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8692c1e623eb7bf742a4"
     }
   ],
   "source_errors": [],
