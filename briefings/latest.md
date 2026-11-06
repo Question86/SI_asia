@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T02:03:50+00:00_
+_Generiert: 2026-11-06T02:22:51+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+13 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -88,6 +88,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Australian universities are creating AI-native graduates** — Score 13, observation — [Quelle](https://openai.com/index/australian-universities-ai-native-graduates)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-05T17:00:00+00:00`, fetched `2026-11-06T02:22:22+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph region australia: Australia (+2.0)
+  - Kurz: Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/news/article/2611/06/2000002931/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-05T23:41:46+00:00`, fetched `2026-11-06T00:34:31+00:00`
