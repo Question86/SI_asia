@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T10:45:47+00:00_
+_Generated: 2026-11-06T11:00:59+00:00_
 
 ## Status
-- status: `normal`
-- findings: `33`
+- status: `warning`
+- findings: `35`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-06T10:45:47+00:00_
 - url: https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/
 - summary: I spent months building the ultimate autonomous productivity engine to eliminate every bottleneck, until a founder in crisis made me realise that execution is cheap, but presence is priceless. The terminal window glowed with quiet, rhythmic precision. By 2:00…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）
+### 3. M 6.1 - 156 km SE of Hasaki, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `17`
+- published: `2026-11-06T10:58:59.896+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9
+- summary: ShakeMap - I Time 2026-11-06 10:39:24 UTC 2026-11-06 10:39:24 UTC at epicenter Location 34.924°N 142.243°E Depth 10.00 km (6.21 mi)
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-11-06T09:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU90841469/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. 定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub
-- source: Hatena Bookmark Hotentry IT
-- score: `15`
-- published: `2026-11-05T01:53:25+00:00`
-- url: https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails
-- summary: こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の...
 
 ### 5. Australian universities are creating AI-native graduates
 - source: OpenAI News RSS

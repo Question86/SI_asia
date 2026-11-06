@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:45:50+00:00",
+  "generated_at": "2026-11-06T11:01:03+00:00",
   "sections": {
     "global_security": [
       {
@@ -60,6 +60,21 @@
         "published_at": "2026-10-29",
         "metrics": {
           "cve": "CVE-2026-97229"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "USGS earthquake M6.1 - 156 km SE of Hasaki, Japan",
+        "summary": "M6.1 - 156 km SE of Hasaki, Japan. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9",
+        "published_at": "2026-11-06T10:39:24+00:00",
+        "metrics": {
+          "mag": 6.1,
+          "alert": "",
+          "sig": 572.0,
+          "tsunami": 0
         }
       },
       {
