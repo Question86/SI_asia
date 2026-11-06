@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T11:45:28+00:00",
+  "generated_at": "2026-11-06T12:00:59+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2026-97229"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in France",
+        "summary": "Green flood alert in France",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104270",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",

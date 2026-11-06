@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T11:45:24+00:00_
+_Generiert: 2026-11-06T12:00:57+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-11-06T11:45:24+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-29`
   - Kurz: Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability
+- **GDACS: Green flood alert in France** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104270)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in France
 - **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575911)
   - Quelle: GDACS
   - Zeit: ``
