@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T18:01:46+00:00_
+_Generated: 2026-11-06T18:20:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `60`
+- findings: `61`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-06T18:01:46+00:00_
 - url: https://openai.com/index/australian-universities-ai-native-graduates
 - summary: Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.
 
-### 6. OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
+### 6. Partnering with Hacktron to find vulnerabilities in OpenAI’s systems
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-11-06T08:00:00+00:00`
+- url: https://openai.com/index/partnering-with-hacktron
+- summary: OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.
+
+### 7. OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-05T23:41:46+00:00`
 - url: https://www.itmedia.co.jp/news/article/2611/06/2000002931/
 - summary: 米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され...
 
-### 7. Start with the problem, not the token: What Wall Street’s tokenisation push means for Southeast Asian founders
+### 8. Start with the problem, not the token: What Wall Street’s tokenisation push means for Southeast Asian founders
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-11-06T03:00:12+00:00`
 - url: https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/
 - summary: During five weeks in the United States, I spent much of my time in New York exploring the intersection of blockchain, finance, and emerging technology. I attended Avalanche Summit, spoke about stablecoins for emerging markets during UN Blockchain Week, and ob…
-
-### 8. M 4.7 - 139 km SSE of False Pass, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-11-06T02:46:31.121+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq
-- summary: ShakeMap - III Time 2026-11-06 02:35:25 UTC 2026-11-06 02:35:25 UTC at epicenter Location 53.635°N 162.950°W Depth 27.96 km (17.38 mi)
 
 END OF DOCUMENT
