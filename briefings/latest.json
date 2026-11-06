@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T04:49:25+00:00",
-  "run_id": "2026-11-06T04:49:25+00:00",
+  "generated_at": "2026-11-06T04:56:55+00:00",
+  "run_id": "2026-11-06T04:56:55+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 1,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 6,
-    "observe": 15,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -475,6 +475,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2b014b768c0770995266"
+      },
+      {
+        "title": "メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」",
+        "url": "https://togetter.com/li/2767231",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-06T02:34:22+00:00",
+        "fetched_at": "2026-11-06T04:56:26+00:00",
+        "summary": "えりまどⅢ @greynomado ここ数年で恐ろしいほど聞かなくなった言葉一覧 ・NFT ・メタバース ・Web3.0 ・Clubhouse ・DAO ・STEPN ・GameFi ・仮想通貨女子 ・ワーケーション ・地方創生 ・ノマドワーカー ・タピオカ ・ひとりキャンプ ・意識高い系 ・SDGs 特にNFTとメタバースの消え方は異常。 1番怖いのは、当時「これ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9bc433db189d03984f36"
       },
       {
         "title": "Usage metrics API adds code review details and addressed rate",
@@ -1009,6 +1030,27 @@
       "id": "2b014b768c0770995266"
     },
     {
+      "title": "メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」",
+      "url": "https://togetter.com/li/2767231",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-06T02:34:22+00:00",
+      "fetched_at": "2026-11-06T04:56:26+00:00",
+      "summary": "えりまどⅢ @greynomado ここ数年で恐ろしいほど聞かなくなった言葉一覧 ・NFT ・メタバース ・Web3.0 ・Clubhouse ・DAO ・STEPN ・GameFi ・仮想通貨女子 ・ワーケーション ・地方創生 ・ノマドワーカー ・タピオカ ・ひとりキャンプ ・意識高い系 ・SDGs 特にNFTとメタバースの消え方は異常。 1番怖いのは、当時「これ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9bc433db189d03984f36"
+    },
+    {
       "title": "Usage metrics API adds code review details and addressed rate",
       "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
       "source": "GitHub Changelog Atom",
@@ -1093,7 +1135,29 @@
       "id": "a63ff478938475f0c2c6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」",
+      "url": "https://togetter.com/li/2767231",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-06T02:34:22+00:00",
+      "fetched_at": "2026-11-06T04:56:26+00:00",
+      "summary": "えりまどⅢ @greynomado ここ数年で恐ろしいほど聞かなくなった言葉一覧 ・NFT ・メタバース ・Web3.0 ・Clubhouse ・DAO ・STEPN ・GameFi ・仮想通貨女子 ・ワーケーション ・地方創生 ・ノマドワーカー ・タピオカ ・ひとりキャンプ ・意識高い系 ・SDGs 特にNFTとメタバースの消え方は異常。 1番怖いのは、当時「これ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9bc433db189d03984f36"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
