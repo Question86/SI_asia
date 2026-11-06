@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T04:00:12+00:00",
-  "run_id": "2026-11-06T04:00:12+00:00",
+  "generated_at": "2026-11-06T04:34:09+00:00",
+  "run_id": "2026-11-06T04:34:09+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 2,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 5,
-    "observe": 14,
+    "medium": 6,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -123,6 +123,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3c655198c7aecac2f0d1"
+      },
+      {
+        "title": "Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies",
+        "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-06T04:10:49+00:00",
+        "fetched_at": "2026-11-06T04:33:38+00:00",
+        "summary": "Young Singaporeans are the best prepared in the Commonwealth to ride the AI wave, according to a new index. The more useful lesson for Southeast Asia, however, sits with Australia, the country in third place: having the technology is the easy part. The Ayre Index, launched this week at the Commonwealth Heads of Government Meeting […] The post Singapore tops a new Commonwealth AI readiness index, but Australia’s resu…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c9f02c8b9a9b59e7c7c4"
       },
       {
         "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
@@ -330,6 +352,27 @@
           "LOW"
         ],
         "id": "a9d5a4c972639b66bbf2"
+      },
+      {
+        "title": "AI can help me think faster, but I still have to decide how I actually use AI in healthcare",
+        "url": "https://e27.co/ai-can-help-me-think-faster-but-i-still-have-to-decide-how-i-actually-use-ai-in-healthcare-20261101/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-06T04:30:10+00:00",
+        "fetched_at": "2026-11-06T04:33:38+00:00",
+        "summary": "One of the biggest changes AI has brought to my work is that I can do more. I am no longer as daunted by the mundane work involved in getting something started. A research idea, teaching session or presentation comes with preparation: organising notes, building a structure, condensing information and revising the wording. These tasks […] The post AI can help me think faster, but I still have to decide how I actually…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c8c1e3899eae5c05586a"
       },
       {
         "title": "Malaysia carried Southeast Asia’s IPO market in 2026. The rest of the region went quiet",
@@ -616,6 +659,28 @@
       "id": "3c655198c7aecac2f0d1"
     },
     {
+      "title": "Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies",
+      "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-06T04:10:49+00:00",
+      "fetched_at": "2026-11-06T04:33:38+00:00",
+      "summary": "Young Singaporeans are the best prepared in the Commonwealth to ride the AI wave, according to a new index. The more useful lesson for Southeast Asia, however, sits with Australia, the country in third place: having the technology is the easy part. The Ayre Index, launched this week at the Commonwealth Heads of Government Meeting […] The post Singapore tops a new Commonwealth AI readiness index, but Australia’s resu…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c9f02c8b9a9b59e7c7c4"
+    },
+    {
       "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
       "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -821,6 +886,27 @@
       "id": "a9d5a4c972639b66bbf2"
     },
     {
+      "title": "AI can help me think faster, but I still have to decide how I actually use AI in healthcare",
+      "url": "https://e27.co/ai-can-help-me-think-faster-but-i-still-have-to-decide-how-i-actually-use-ai-in-healthcare-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-06T04:30:10+00:00",
+      "fetched_at": "2026-11-06T04:33:38+00:00",
+      "summary": "One of the biggest changes AI has brought to my work is that I can do more. I am no longer as daunted by the mundane work involved in getting something started. A research idea, teaching session or presentation comes with preparation: organising notes, building a structure, condensing information and revising the wording. These tasks […] The post AI can help me think faster, but I still have to decide how I actually…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c8c1e3899eae5c05586a"
+    },
+    {
       "title": "Malaysia carried Southeast Asia’s IPO market in 2026. The rest of the region went quiet",
       "url": "https://e27.co/malaysia-carried-southeast-asias-ipo-market-in-2026-the-rest-of-the-region-went-quiet-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1007,7 +1093,51 @@
       "id": "a63ff478938475f0c2c6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies",
+      "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-06T04:10:49+00:00",
+      "fetched_at": "2026-11-06T04:33:38+00:00",
+      "summary": "Young Singaporeans are the best prepared in the Commonwealth to ride the AI wave, according to a new index. The more useful lesson for Southeast Asia, however, sits with Australia, the country in third place: having the technology is the easy part. The Ayre Index, launched this week at the Commonwealth Heads of Government Meeting […] The post Singapore tops a new Commonwealth AI readiness index, but Australia’s resu…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c9f02c8b9a9b59e7c7c4"
+    },
+    {
+      "title": "AI can help me think faster, but I still have to decide how I actually use AI in healthcare",
+      "url": "https://e27.co/ai-can-help-me-think-faster-but-i-still-have-to-decide-how-i-actually-use-ai-in-healthcare-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-06T04:30:10+00:00",
+      "fetched_at": "2026-11-06T04:33:38+00:00",
+      "summary": "One of the biggest changes AI has brought to my work is that I can do more. I am no longer as daunted by the mundane work involved in getting something started. A research idea, teaching session or presentation comes with preparation: organising notes, building a structure, condensing information and revising the wording. These tasks […] The post AI can help me think faster, but I still have to decide how I actually…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c8c1e3899eae5c05586a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

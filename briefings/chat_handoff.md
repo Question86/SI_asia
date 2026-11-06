@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T04:00:12+00:00_
+_Generated: 2026-11-06T04:34:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `21`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-06T04:00:12+00:00_
 - url: https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails
 - summary: こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の...
 
-### 4. AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている
-- source: Hatena Bookmark Hotentry IT
+### 4. Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies
+- source: e27 Asia Startup and Tech Feed
 - score: `14`
-- published: `2026-11-05T21:20:44+00:00`
-- url: https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/
-- summary: 2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代...
+- published: `2026-11-06T04:10:49+00:00`
+- url: https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/
+- summary: Young Singaporeans are the best prepared in the Commonwealth to ride the AI wave, according to a new index. The more useful lesson for Southeast Asia, however, sits with Australia, the country in third place: having the technology is the easy part. The Ayre I…
 
 ### 5. Australian universities are creating AI-native graduates
 - source: OpenAI News RSS
