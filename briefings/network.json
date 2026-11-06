@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T22:49:40+00:00",
+  "generated_at": "2026-11-06T22:58:06+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 66,
@@ -10,49 +10,6 @@
     "dominance_penalized": 5
   },
   "clusters": [
-    {
-      "key": "domain:openai.com",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-        "https://openai.com/index/cultfit-builds-with-codex",
-        "https://openai.com/index/australian-universities-ai-native-graduates",
-        "https://openai.com/index/partnering-with-hacktron"
-      ],
-      "finding_count": 4,
-      "max_score": 20,
-      "credibility_total": 4.2,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.53,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 28.4,
-      "ranking_score": 22.53,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.03,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
-    },
     {
       "key": "domain:wid.cert-bund.de",
       "title": "[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen",
@@ -95,6 +52,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "https://openai.com/index/cultfit-builds-with-codex",
+        "https://openai.com/index/australian-universities-ai-native-graduates",
+        "https://openai.com/index/partnering-with-hacktron"
+      ],
+      "finding_count": 4,
+      "max_score": 20,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 28.4,
+      "ranking_score": 22.4,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.9,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:beyond-code-generation-developer-guide-agentic-engineering",
@@ -1902,7 +1902,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-06T22:49:41Z",
+    "generated_at": "2026-11-06T22:58:07Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
