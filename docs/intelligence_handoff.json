@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-06T11:22:15Z",
+  "generated_at": "2026-11-06T11:51:35Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] SignalWire FreeSWITCH: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4364",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:29:56+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 69.88,
+      "age_days": 69.9,
       "topics": [
         "ai",
         "security",
@@ -66,39 +66,35 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
+      "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4267",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-06T06:54:56+00:00",
-      "age_days": 0.19,
+      "published_at": "2026-11-06T10:57:20+00:00",
+      "age_days": 0.04,
       "topics": [
-        "ai",
-        "security",
-        "infra"
+        "security"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": true,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
       "why": [
-        "high terms: code, firewall, auth",
-        "security high-signal: code, firewall, auth, root",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Barracuda Networks Email Security Gateway und Barracuda Networks Web Application Firewall ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen und die Authentifizierung zu umgehen. Durch die Kombination dieser Schwachstellen…"
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Informationen auszuspähen, einen Denial-of-Service-Zustand zu verursachen oder Daten zu manipulieren."
     },
     {
       "title": "[UPDATE] [hoch] Eclipse Jetty: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3992",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:56:24+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -122,7 +118,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T08:04:56+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -146,7 +142,7 @@
       "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T21:20:44+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "ai",
         "security"
@@ -173,7 +169,7 @@
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-05T17:00:00+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -199,7 +195,7 @@
       "url": "https://jvn.jp/vu/JVNVU90841469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-06T09:30:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -224,7 +220,7 @@
       "url": "https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T02:03:53+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -251,7 +247,7 @@
       "url": "https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T02:00:47+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -278,7 +274,7 @@
       "url": "https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:03:03+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -303,7 +299,7 @@
       "url": "https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:00:12+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
