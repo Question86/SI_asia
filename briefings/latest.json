@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T08:21:57+00:00",
-  "run_id": "2026-11-06T08:21:57+00:00",
+  "generated_at": "2026-11-06T08:48:10+00:00",
+  "run_id": "2026-11-06T08:48:10+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 2,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 9,
-    "observe": 18,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -389,6 +389,42 @@
         "id": "f99ab9a8f933638def5c"
       },
       {
+        "title": "M 4.5 - 87 km N of Isangel, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-06T08:31:16.040+00:00",
+        "fetched_at": "2026-11-06T08:47:41+00:00",
+        "summary": "Time 2026-11-06 08:14:08 UTC 2026-11-06 08:14:08 UTC at epicenter Location 18.754°S 169.264°E Depth 246.52 km (153.18 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "40c189ad90a9e52ad5f4"
+      },
+      {
         "title": "M 4.6 - 58 km WNW of Isangel, Vanuatu",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -485,6 +521,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "92812f130efef558c7a4"
+      },
+      {
+        "title": "Ecosystem Roundup: SEA startups raised US$16.5B in 2026, but four months did most of it",
+        "url": "https://e27.co/ecosystem-roundup-sea-startups-raised-us16-5b-in-2026-but-four-months-did-most-of-it-20261106/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-06T08:34:30+00:00",
+        "fetched_at": "2026-11-06T08:47:41+00:00",
+        "summary": "Southeast Asia’s tech startups drew about US$16.55 billion between January and October 2026, according to Tracxn. October alone delivered US$3.68 billion across 14 rounds, 933.7% above October 2025. The headline flatters the market. January, June, July and October account for 81% of the year’s money, while the other six months averaged about US$520 million each. […] The post Ecosystem Roundup: SEA startups raised US…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5d390d1e9f6b21b77b9d"
       },
       {
         "title": "The business judgment gap: Why BUMN investment decisions need a different risk framework in Indonesia",
@@ -1053,6 +1110,42 @@
       "id": "f99ab9a8f933638def5c"
     },
     {
+      "title": "M 4.5 - 87 km N of Isangel, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-06T08:31:16.040+00:00",
+      "fetched_at": "2026-11-06T08:47:41+00:00",
+      "summary": "Time 2026-11-06 08:14:08 UTC 2026-11-06 08:14:08 UTC at epicenter Location 18.754°S 169.264°E Depth 246.52 km (153.18 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "40c189ad90a9e52ad5f4"
+    },
+    {
       "title": "M 4.6 - 58 km WNW of Isangel, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1149,6 +1242,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "92812f130efef558c7a4"
+    },
+    {
+      "title": "Ecosystem Roundup: SEA startups raised US$16.5B in 2026, but four months did most of it",
+      "url": "https://e27.co/ecosystem-roundup-sea-startups-raised-us16-5b-in-2026-but-four-months-did-most-of-it-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-06T08:34:30+00:00",
+      "fetched_at": "2026-11-06T08:47:41+00:00",
+      "summary": "Southeast Asia’s tech startups drew about US$16.55 billion between January and October 2026, according to Tracxn. October alone delivered US$3.68 billion across 14 rounds, 933.7% above October 2025. The headline flatters the market. January, June, July and October account for 81% of the year’s money, while the other six months averaged about US$520 million each. […] The post Ecosystem Roundup: SEA startups raised US…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5d390d1e9f6b21b77b9d"
     },
     {
       "title": "The business judgment gap: Why BUMN investment decisions need a different risk framework in Indonesia",
@@ -1359,27 +1473,61 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] OpenSSH: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "M 4.5 - 87 km N of Isangel, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-06T08:04:56+00:00",
-      "fetched_at": "2026-11-06T08:21:29+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSSH (in Kombination mit musl libc und ohne PAM) ausnutzen, um Administratorrechte zu erlangen.",
+      "published_at": "2026-11-06T08:31:16.040+00:00",
+      "fetched_at": "2026-11-06T08:47:41+00:00",
+      "summary": "Time 2026-11-06 08:14:08 UTC 2026-11-06 08:14:08 UTC at epicenter Location 18.754°S 169.264°E Depth 246.52 km (153.18 mi)",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "40c189ad90a9e52ad5f4"
+    },
+    {
+      "title": "Ecosystem Roundup: SEA startups raised US$16.5B in 2026, but four months did most of it",
+      "url": "https://e27.co/ecosystem-roundup-sea-startups-raised-us16-5b-in-2026-but-four-months-did-most-of-it-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-06T08:34:30+00:00",
+      "fetched_at": "2026-11-06T08:47:41+00:00",
+      "summary": "Southeast Asia’s tech startups drew about US$16.55 billion between January and October 2026, according to Tracxn. October alone delivered US$3.68 billion across 14 rounds, 933.7% above October 2025. The headline flatters the market. January, June, July and October account for 81% of the year’s money, while the other six months averaged about US$520 million each. […] The post Ecosystem Roundup: SEA startups raised US…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2663986c2170b28d117c"
+      "id": "5d390d1e9f6b21b77b9d"
     }
   ],
   "source_errors": [],
