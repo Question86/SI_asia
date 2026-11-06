@@ -1,6 +1,71 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T00:00:36+00:00",
-  "topics": {}
+  "generated_at": "2026-11-06T00:35:02+00:00",
+  "topics": {
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-06T09:30:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU90841469/"
+      },
+      {
+        "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-05T21:20:44+00:00",
+        "relevance_score": 14,
+        "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/"
+      }
+    ],
+    "ai": [
+      {
+        "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-05T21:20:44+00:00",
+        "relevance_score": 14,
+        "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/"
+      },
+      {
+        "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-05T23:41:46+00:00",
+        "relevance_score": 12,
+        "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/"
+      },
+      {
+        "title": "Usage metrics API adds code review details and addressed rate",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-06T00:19:07+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate"
+      }
+    ],
+    "github": [
+      {
+        "title": "Usage metrics API adds code review details and addressed rate",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-06T00:19:07+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate"
+      },
+      {
+        "title": "Usage metrics API flags telemetry and version gaps",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-06T00:08:31+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Usage metrics API adds code review details and addressed rate",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-06T00:19:07+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate"
+      }
+    ]
+  }
 }
