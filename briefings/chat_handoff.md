@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T13:16:48+00:00_
+_Generated: 2026-11-06T13:31:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `45`
+- findings: `50`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-06T13:16:48+00:00_
 - url: https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/
 - summary: I spent months building the ultimate autonomous productivity engine to eliminate every bottleneck, until a founder in crisis made me realise that execution is cheap, but presence is priceless. The terminal window glowed with quiet, rhythmic precision. By 2:00…
 
-### 3. M 6.1 - 156 km SE of Hasaki, Japan
+### 3. Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `18`
+- published: `2026-11-02T00:00:00+00:00`
+- url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/
+- summary: De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique q…
+
+### 4. M 6.1 - 156 km SE of Hasaki, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `17`
 - published: `2026-11-06T10:58:59.896+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9
 - summary: ShakeMap - I Time 2026-11-06 10:39:24 UTC 2026-11-06 10:39:24 UTC at epicenter Location 34.924°N 142.243°E Depth 10.00 km (6.21 mi)
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-11-06T09:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU90841469/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. Australian universities are creating AI-native graduates
 - source: OpenAI News RSS
