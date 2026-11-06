@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-06T02:22:54+00:00_
+_Generiert: 2026-11-06T02:32:18+00:00_
 
 ## I automated my entire life with AI agents. Then a 2 am voice note exposed the lie
 

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T02:22:51+00:00",
-  "run_id": "2026-11-06T02:22:51+00:00",
+  "generated_at": "2026-11-06T02:32:14+00:00",
+  "run_id": "2026-11-06T02:32:14+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -713,29 +713,7 @@
       "id": "e822909fc0f39b621d18"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-05T17:00:00+00:00",
-      "fetched_at": "2026-11-06T02:22:22+00:00",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph region australia: Australia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "46d1dbed6c0d02f2eb12"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
