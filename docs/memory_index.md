@@ -1,12 +1,12 @@
 # Senna Memory Index
 
-_Generated: 2026-11-06T16:07:27+00:00_
+_Generated: 2026-11-06T16:21:07+00:00_
 
 ## Topic Counts
 
 - ai: `24`
 - security: `19`
-- general: `15`
+- general: `16`
 - geopolitics: `13`
 - economy: `6`
 - github: `4`
