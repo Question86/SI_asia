@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-06T13:12:00Z",
+  "generated_at": "2026-11-06T13:23:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 9,
+      "krass": 10,
       "extreme": 1,
       "strong": 11,
-      "watch": 19
+      "watch": 18
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 20,
-      "watch": 19
+      "strong": 21,
+      "watch": 18
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4364",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:29:56+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 69.96,
+      "age_days": 69.97,
       "topics": [
         "ai",
         "security",
@@ -61,12 +61,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.62,
+      "baseline_z_hint": 10.2,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.62",
+        "baseline z_hint 10.20",
         "high terms: rce, firewall",
         "security high-signal: rce, firewall",
         "aging penalty -8.0 for 70.0d old signal",
@@ -79,7 +79,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T06:54:56+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "security",
@@ -107,7 +107,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1612",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T12:46:41+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -131,7 +131,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4267",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:57:20+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -155,7 +155,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3992",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:56:24+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -179,7 +179,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T08:04:56+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -197,6 +197,32 @@
         "security high-signal: cert-bund, bsi, security, advisory"
       ],
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSSH (in Kombination mit musl libc und ohne PAM) ausnutzen, um Administratorrechte zu erlangen."
+    },
+    {
+      "title": "[UPDATE] [hoch] GIMP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4032",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-06T13:15:14+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen, einen Denial-of-Service-Angriff auszulösen oder vertrauliche Daten offenzulegen."
     },
     {
       "title": "[UPDATE] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -255,7 +281,7 @@
       "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T21:20:44+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "ai",
         "security"
@@ -282,7 +308,7 @@
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-05T17:00:00+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -308,7 +334,7 @@
       "url": "https://jvn.jp/vu/JVNVU90841469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-06T09:30:00+09:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -333,7 +359,7 @@
       "url": "https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T02:03:53+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -387,7 +413,7 @@
       "url": "https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:03:03+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -412,7 +438,7 @@
       "url": "https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:00:12+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -441,7 +467,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306241-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-11-06T12:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -466,7 +492,7 @@
       "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-06T11:11:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -491,7 +517,7 @@
       "url": "https://e27.co/u-mobile-opens-its-5g-advanced-sandbox-to-cradles-startups-but-the-cheques-are-not-part-of-the-deal-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T10:00:51+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -567,7 +593,7 @@
       "url": "https://jvn.jp/vu/JVNVU90841469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 140.47,
+      "age_days": 140.48,
       "topics": [
         "general"
       ],
@@ -616,7 +642,7 @@
       "url": "https://e27.co/malaysia-carried-southeast-asias-ipo-market-in-2026-the-rest-of-the-region-went-quiet-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:44:53+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "macro"
       ],
@@ -640,7 +666,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T10:58:59.896+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "disaster"
@@ -668,7 +694,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T11:01:03+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -694,7 +720,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T08:48:12+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -718,7 +744,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T01:56:29+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -742,7 +768,7 @@
       "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T03:44:53+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -768,7 +794,7 @@
       "url": "https://e27.co/the-business-judgment-gap-why-bumn-investment-decisions-need-a-different-risk-framework-in-indonesia-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T06:56:12+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -792,7 +818,7 @@
       "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T04:34:13+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -818,7 +844,7 @@
       "url": "https://github.com/Usagi-org/ai-goofish-monitor",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-06T07:55:48+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -844,7 +870,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261106-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-06T02:03:53+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -868,7 +894,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T11:28:40+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -892,7 +918,7 @@
       "url": "https://av.watch.impress.co.jp/docs/news/2153686.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T01:48:47+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -940,7 +966,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2153924.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T10:45:51+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -964,7 +990,7 @@
       "url": "https://speakerdeck.com/3l4l5/techniques-for-habit-formation",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T02:48:02+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -988,7 +1014,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T02:46:31.121+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -1006,32 +1032,6 @@
         "early terms: earthquake"
       ],
       "summary": "ShakeMap - III Time 2026-11-06 02:35:25 UTC 2026-11-06 02:35:25 UTC at epicenter Location 53.635°N 162.950°W Depth 27.96 km (17.38 mi)"
-    },
-    {
-      "title": "Schadcode-Attacken auf Cisco UCS Central Software und Unified CM möglich",
-      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 140.23,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: code",
-        "aging penalty -8.0 for 140.2d old signal"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] SignalWire FreeSWITCH: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
