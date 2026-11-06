@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T13:05:18+00:00",
+  "generated_at": "2026-11-06T13:17:25+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -16775,7 +16775,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a89d525d77d042e745d8",
@@ -17535,6 +17535,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_af927ef058215177be78",
+      "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_af9b0b0d3dbb2ab1e3b4",
