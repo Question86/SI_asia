@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-06T13:49:57+00:00_
+_Generiert: 2026-11-06T13:56:53+00:00_
 
 ## Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)
 
