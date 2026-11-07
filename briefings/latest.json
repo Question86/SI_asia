@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T17:13:35+00:00",
-  "run_id": "2026-11-07T17:13:35+00:00",
+  "generated_at": "2026-11-07T17:29:12+00:00",
+  "run_id": "2026-11-07T17:29:12+00:00",
   "date": "2026-11-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 1,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 5,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -500,6 +500,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3ea66490cd467f712e99"
+      },
+      {
+        "title": "シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」",
+        "url": "https://togetter.com/li/2767778",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-07T12:12:25+00:00",
+        "fetched_at": "2026-11-07T17:28:42+00:00",
+        "summary": "綺羅星ここな @hotocona_zero 明るさと色味の変化可能なLED灯が全く白くならなくなったから掃除+電気の替え時かと思ってたらなんだこれは…… え、何がどうしてそうなったの？？ pic.x.com/eoF1wL8XtG 2026-11-07 12:27:11",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "44e97c33ce74758961a4"
       },
       {
         "title": "AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記",
@@ -1164,6 +1185,27 @@
       "id": "3ea66490cd467f712e99"
     },
     {
+      "title": "シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」",
+      "url": "https://togetter.com/li/2767778",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-07T12:12:25+00:00",
+      "fetched_at": "2026-11-07T17:28:42+00:00",
+      "summary": "綺羅星ここな @hotocona_zero 明るさと色味の変化可能なLED灯が全く白くならなくなったから掃除+電気の替え時かと思ってたらなんだこれは…… え、何がどうしてそうなったの？？ pic.x.com/eoF1wL8XtG 2026-11-07 12:27:11",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "44e97c33ce74758961a4"
+    },
+    {
       "title": "AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記",
       "url": "https://www.pospome.work/entry/2026/11/07/192125",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1353,7 +1395,29 @@
       "id": "ed5eace05d362e13d639"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」",
+      "url": "https://togetter.com/li/2767778",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-07T12:12:25+00:00",
+      "fetched_at": "2026-11-07T17:28:42+00:00",
+      "summary": "綺羅星ここな @hotocona_zero 明るさと色味の変化可能なLED灯が全く白くならなくなったから掃除+電気の替え時かと思ってたらなんだこれは…… え、何がどうしてそうなったの？？ pic.x.com/eoF1wL8XtG 2026-11-07 12:27:11",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "44e97c33ce74758961a4"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
