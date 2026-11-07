@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-07T13:44:47+00:00",
+  "generated_at": "2026-11-07T14:01:37+00:00",
   "topics": {
     "ai": [
       {
@@ -135,6 +135,29 @@
         "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria"
       }
     ],
+    "geopolitics": [
+      {
+        "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-11-07T14:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html"
+      },
+      {
+        "title": "rust-lang/rust",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/rust-lang/rust"
+      },
+      {
+        "title": "Copilot code review: API management and review overview updates",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-07T00:27:19+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
+      }
+    ],
     "github": [
       {
         "title": "rust-lang/rust",
@@ -193,22 +216,6 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/rust-lang/rust"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "rust-lang/rust",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/rust-lang/rust"
-      },
-      {
-        "title": "Copilot code review: API management and review overview updates",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-07T00:27:19+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
       }
     ]
   }
