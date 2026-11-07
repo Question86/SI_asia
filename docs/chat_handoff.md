@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T07:08:00+00:00_
+_Generated: 2026-11-07T07:16:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `14`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-11-07T07:08:00+00:00_
 - url: https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/
 - summary: 日経平均株価は6日、前日比3643円安となり歴代3位の下げ幅を記録し、さながら株式市場の「ブラックフライデー」となった。東証プライム上場の98%が下落し悲観一色のなかでも「お値打ち銘柄」を拾おうとする動きが出始めた。代表は太陽誘電など人工知能（AI）関連銘柄の一部だ。「朝からひどく忙しかった。海外投資家から...
 
-### 5. Copilot code review: API management and review overview updates
-- source: GitHub Changelog Atom
-- score: `6`
-- published: `2026-11-07T00:27:19+00:00`
-- url: https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates
-- summary: You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review o…
+### 5. rust-lang/rust
+- source: GitHub Trending RSS All Languages Daily
+- score: `8`
+- published: `None`
+- url: https://github.com/rust-lang/rust
+- summary: Empowering everyone to build reliable and efficient software. https://www.rust-lang.org Website | Getting started | Learn | Documentation | Contributing This is the main source code repository for Rust . It contains the compiler, standard library, and documen…
 
-### 6. @GitHub in Slack and Teams is generally available and more
-- source: GitHub Changelog Atom
-- score: `6`
-- published: `2026-11-06T20:31:08+00:00`
-- url: https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available
-- summary: Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests—all without leaving your conversation. What’s new Build and review together… The post @GitHub in Slack and Teams is genera…
+### 6. rails/rails
+- source: GitHub Trending RSS All Languages Daily
+- score: `8`
+- published: `None`
+- url: https://github.com/rails/rails
+- summary: Ruby on Rails https://rubyonrails.org Welcome to Rails What's Rails? Rails is a web application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Understanding the MVC pa…
 
 END OF DOCUMENT

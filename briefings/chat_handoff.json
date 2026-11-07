@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-07T07:08:00+00:00",
+  "generated_at": "2026-11-07T07:16:18+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 5,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 2,
-    "observe": 7
+    "observe": 12
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,23 +55,23 @@
       "section": "observe"
     },
     {
-      "title": "Copilot code review: API management and review overview updates",
-      "source": "GitHub Changelog Atom",
+      "title": "rust-lang/rust",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-11-07T00:27:19+00:00",
-      "relevance_score": 6,
-      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-      "summary": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review o…",
+      "published_at": null,
+      "relevance_score": 8,
+      "url": "https://github.com/rust-lang/rust",
+      "summary": "Empowering everyone to build reliable and efficient software. https://www.rust-lang.org Website | Getting started | Learn | Documentation | Contributing This is the main source code repository for Rust . It contains the compiler, standard library, and documen…",
       "section": "observe"
     },
     {
-      "title": "@GitHub in Slack and Teams is generally available and more",
-      "source": "GitHub Changelog Atom",
+      "title": "rails/rails",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-11-06T20:31:08+00:00",
-      "relevance_score": 6,
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-      "summary": "Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests—all without leaving your conversation. What’s new Build and review together… The post @GitHub in Slack and Teams is genera…",
+      "published_at": null,
+      "relevance_score": 8,
+      "url": "https://github.com/rails/rails",
+      "summary": "Ruby on Rails https://rubyonrails.org Welcome to Rails What's Rails? Rails is a web application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern. Understanding the MVC pa…",
       "section": "observe"
     }
   ],
