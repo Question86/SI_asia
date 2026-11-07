@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-07T01:38:18Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Copilot code review: API management and review overview updates” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=20.0.",
+  "generated_at": "2026-11-07T02:15:03Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,38 @@
   ],
   "top_dynamics": [
     {
+      "title": "東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai",
+      "url": "https://ledge.ai/articles/nicam_claude_code_migration",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-07T01:58:16+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Copilot code review: API management and review overview updates",
       "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:35:25+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -36,11 +63,61 @@
       "summary": ""
     },
     {
+      "title": "東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai",
+      "url": "https://ledge.ai/articles/nicam_claude_code_migration",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-06T19:26:50+00:00",
+      "age_days": 0.28,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Top > 学術＆研究 > 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限"
+    },
+    {
+      "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス",
+      "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-07T02:07:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Copilot code review: API management and review overview updates",
       "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:27:19+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -64,7 +141,7 @@
       "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:01:04+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -90,7 +167,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T22:57:15+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -112,11 +189,37 @@
       "summary": "【シリコンバレー=伴正春】AI（人工知能）データセンターを手がける新興企業に懸念が強まっている。「ネオクラウド」などと呼ばれる米上場6社の負債は1年で8倍となった。米中間選挙で民主党が躍進し、建設延期で資金回収が遅れれば、信用不安が広がる恐れがある。決算、中間選挙に関する質問相次ぐ「進行中のプロジェク..."
     },
     {
+      "title": "「お値打ちAI銘柄」太陽誘電が逆行高 悲観一色に差す光明 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-06T09:39:24+00:00",
+      "age_days": 0.69,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "日経平均株価は6日、前日比3643円安となり歴代3位の下げ幅を記録し、さながら株式市場の「ブラックフライデー」となった。東証プライム上場の98%が下落し悲観一色のなかでも「お値打ち銘柄」を拾おうとする動きが出始めた。代表は太陽誘電など人工知能（AI）関連銘柄の一部だ。「朝からひどく忙しかった。海外投資家から..."
+    },
+    {
       "title": "AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 140.98,
+      "age_days": 141.0,
       "topics": [
         "ai"
       ],
@@ -143,7 +246,7 @@
       "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-06T20:31:08+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -169,7 +272,7 @@
       "url": "https://posfie.com/@Acg3C2/p/NF0FdOe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T09:40:46+00:00",
-      "age_days": 47.66,
+      "age_days": 47.69,
       "topics": [
         "ai"
       ],
@@ -192,11 +295,11 @@
       "summary": ""
     },
     {
-      "title": "「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。",
-      "url": "https://posfie.com/@Acg3C2/p/NF0FdOe",
+      "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス",
+      "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-06T11:09:56+00:00",
-      "age_days": 0.6,
+      "published_at": "2026-11-06T23:36:13+00:00",
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -214,7 +317,7 @@
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "きりつきセンセ @mugetsu_tenshin BLはゾーニングされてる！( ｰ`дｰ´)ｷﾘｯ って言うから見てきたよｗ 場所も書いてあげる。 宇都宮トナリエ5階落合書店。 右の棚全部BLだったwww ゾーニングは纏めておくってことじゃねーぞｗ 真裏の棚は参考書だ。 左の棚は一般少女漫画。 おっとこの店だけって論理は通用しないぜ？ お前..."
+      "summary": "この記事は、Claude と一緒に AWS 公式ドキュメントを調べ、構成図を作りながら整理した内容をまとめたものです。各設定の根拠は、記事中のリンク先の公式ドキュメントで確認できます。 はじめに 先日、X（旧Twitter）でこんな趣旨の話題が流れてきました。 CloudFront + WAF → ALB の構成では、ALB の SG に CloudFront..."
     }
   ],
   "read_order": [
@@ -226,8 +329,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "quiet": 7
+      "strong": 2,
+      "watch": 1,
+      "quiet": 9
     }
   }
 }
