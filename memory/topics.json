@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-07T07:31:48+00:00",
+  "generated_at": "2026-11-07T07:48:33+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,29 @@
         "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria"
       }
     ],
+    "general": [
+      {
+        "title": "M 4.6 - South Sandwich Islands region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-07T07:41:39.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw"
+      },
+      {
+        "title": "旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-07T02:20:55+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2767610"
+      },
+      {
+        "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-06T23:36:13+00:00",
+        "relevance_score": 5,
+        "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection"
+      }
+    ],
     "github": [
       {
         "title": "rust-lang/rust",
@@ -158,22 +181,6 @@
         "published_at": "2026-11-07T00:27:19+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
-      }
-    ],
-    "general": [
-      {
-        "title": "旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-07T02:20:55+00:00",
-        "relevance_score": 5,
-        "url": "https://togetter.com/li/2767610"
-      },
-      {
-        "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-06T23:36:13+00:00",
-        "relevance_score": 5,
-        "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection"
       }
     ]
   }
