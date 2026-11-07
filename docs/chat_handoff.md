@@ -1,14 +1,28 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T00:01:00+00:00_
+_Generated: 2026-11-07T00:35:23+00:00_
 
 ## Status
-- status: `warning`
-- findings: `1`
+- status: `normal`
+- findings: `3`
 
 ## Top Signals
 
-### 1. @GitHub in Slack and Teams is generally available and more
+### 1. AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-11-06T22:57:15+00:00`
+- url: https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/
+- summary: 【シリコンバレー=伴正春】AI（人工知能）データセンターを手がける新興企業に懸念が強まっている。「ネオクラウド」などと呼ばれる米上場6社の負債は1年で8倍となった。米中間選挙で民主党が躍進し、建設延期で資金回収が遅れれば、信用不安が広がる恐れがある。決算、中間選挙に関する質問相次ぐ「進行中のプロジェク...
+
+### 2. Copilot code review: API management and review overview updates
+- source: GitHub Changelog Atom
+- score: `6`
+- published: `2026-11-07T00:27:19+00:00`
+- url: https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates
+- summary: You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review o…
+
+### 3. @GitHub in Slack and Teams is generally available and more
 - source: GitHub Changelog Atom
 - score: `6`
 - published: `2026-11-06T20:31:08+00:00`

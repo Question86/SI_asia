@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T00:01:00+00:00_
+_Generiert: 2026-11-07T00:35:23+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „@GitHub in Slack and Teams is generally available and more“ aus GitHub Changelog Atom (Score 6, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+3 neue relevante Treffer. Stärkstes Signal: „AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
 
 ## Priorität Hoch
 
@@ -16,6 +16,24 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-06T22:57:15+00:00`, fetched `2026-11-07T00:34:53+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 【シリコンバレー=伴正春】AI（人工知能）データセンターを手がける新興企業に懸念が強まっている。「ネオクラウド」などと呼ばれる米上場6社の負債は1年で8倍となった。米中間選挙で民主党が躍進し、建設延期で資金回収が遅れれば、信用不安が広がる恐れがある。決算、中間選挙に関する質問相次ぐ「進行中のプロジェク...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Copilot code review: API management and review overview updates** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-07T00:27:19+00:00`, fetched `2026-11-07T00:34:53+00:00`
+  - Treffer: Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
+  - Kurz: You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **@GitHub in Slack and Teams is generally available and more** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-06T20:31:08+00:00`, fetched `2026-11-07T00:00:24+00:00`
@@ -33,7 +51,3 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
