@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T05:15:57+00:00_
+_Generiert: 2026-11-07T05:31:41+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
+8 neue relevante Treffer. Stärkstes Signal: „東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Top > 学術＆研究 > 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった** — Score 14, observation — [Quelle](https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-07T00:36:39+00:00`, fetched `2026-11-07T05:31:12+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 本番環境に攻撃の兆候が来ていないかを、AIエージェントが平日の朝に確認して、判定付きのレポートを作るルーティンを動かしています。 動かし始めて1週間で、判定の基準を3回変えました。最初は「何かが起きたら赤」でしたが、それだと社員の普段の作業でも毎週赤になります。最後は、何が起きたかではなく、人が動く必...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
