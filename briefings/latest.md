@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T17:02:22+00:00_
+_Generiert: 2026-11-07T17:13:35+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,6 @@ _Generiert: 2026-11-07T17:02:22+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.5 - 10 km NW of Hamakita, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0)
-  - Quelle: USGS
-  - Zeit: `2026-11-07T16:04:35+00:00`
-  - Kurz: M5.5 - 10 km NW of Hamakita, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
