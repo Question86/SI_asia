@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T11:37:37+00:00_
+_Generiert: 2026-11-07T11:45:00+00:00_
 
 ## Kurzlage
 
@@ -29,34 +29,12 @@ _Generiert: 2026-11-07T11:37:37+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-30`
   - Kurz: Known exploited vulnerability. Added 2026-10-30. Due 2026-11-02. Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:31.748km) in Japan 07/11/2026 11:07 UTC, 1.8 million in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576071)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:31.748km) in Japan 07/11/2026 11:07 UTC, 1.8 million in MMI IV.
-- **GDACS: Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001349)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green notification for tropical cyclone PENA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001348)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone PENA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:29km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575911)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:29km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].
-- **GDACS: Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 172 .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001347)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 172 .
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575788)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.
 - **USGS earthquake M5.5 - 74 km NE of Hasaki, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq)
   - Quelle: USGS
   - Zeit: `2026-11-07T11:07:43+00:00`
   - Kurz: M5.5 - 74 km NE of Hasaki, Japan. PAGER alert: green. Tsunami flag: 0.
+
+- Sensor-Hinweis: GDACS failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 ## Wirtschaft global
 
