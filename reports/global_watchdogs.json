@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:29:15+00:00",
+  "generated_at": "2026-11-07T11:37:40+00:00",
   "sections": {
     "global_security": [
       {
@@ -64,11 +64,11 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in France",
-        "summary": "Green flood alert in France",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:31.748km) in Japan 07/11/2026 11:07 UTC, 1.8 million in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:31.748km) in Japan 07/11/2026 11:07 UTC, 1.8 million in MMI IV.",
         "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104270",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576071",
         "published_at": "",
         "metrics": {}
       },
@@ -126,14 +126,14 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - 74 km NE of Hasaki, Japan",
-        "summary": "M5.5 - 74 km NE of Hasaki, Japan. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.5 - 74 km NE of Hasaki, Japan. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq",
         "published_at": "2026-11-07T11:07:43+00:00",
         "metrics": {
           "mag": 5.5,
-          "alert": "",
-          "sig": 466.0,
+          "alert": "green",
+          "sig": 467.0,
           "tsunami": 0
         }
       }
