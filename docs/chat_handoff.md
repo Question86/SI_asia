@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T16:20:15+00:00_
+_Generated: 2026-11-07T16:25:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-07T16:20:15+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq
 - summary: ShakeMap - IV DYFI? - II Time 2026-11-07 11:07:43 UTC 2026-11-07 11:07:43 UTC at epicenter Location 36.188°N 141.440°E Depth 31.75 km (19.73 mi)
 
-### 3. 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai
+### 3. M 5.5 - 10 km NW of Hamakita, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-07T16:23:49.914+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0
+- summary: DYFI? - IV Time 2026-11-07 16:04:35 UTC 2026-11-07 16:04:35 UTC at epicenter Location 34.861°N 137.691°E Depth 38.08 km (23.66 mi)
+
+### 4. 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai
 - source: Hatena Bookmark Hotentry IT
 - score: `15`
 - published: `2026-11-06T19:26:50+00:00`
 - url: https://ledge.ai/articles/nicam_claude_code_migration
 - summary: Top > 学術＆研究 > 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限
-
-### 4. 毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった
-- source: Hatena Bookmark Hotentry IT
-- score: `14`
-- published: `2026-11-07T00:36:39+00:00`
-- url: https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria
-- summary: 本番環境に攻撃の兆候が来ていないかを、AIエージェントが平日の朝に確認して、判定付きのレポートを作るルーティンを動かしています。 動かし始めて1週間で、判定の基準を3回変えました。最初は「何かが起きたら赤」でしたが、それだと社員の普段の作業でも毎週赤になります。最後は、何が起きたかではなく、人が動く必...
 
 ### 5. AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT

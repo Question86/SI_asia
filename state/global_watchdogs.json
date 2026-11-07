@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:20:21+00:00",
+  "generated_at": "2026-11-07T16:25:29+00:00",
   "sections": {
     "global_security": [
       {
@@ -111,6 +111,21 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001347",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 10 km NW of Hamakita, Japan",
+        "summary": "M5.5 - 10 km NW of Hamakita, Japan. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0",
+        "published_at": "2026-11-07T16:04:35+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "",
+          "sig": 466.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

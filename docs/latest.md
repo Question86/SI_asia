@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T16:20:15+00:00_
+_Generiert: 2026-11-07T16:25:23+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „ISUCON2026をClaude Codeが優勝したらしい｜laiso“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
+26 neue relevante Treffer. Stärkstes Signal: „ISUCON2026をClaude Codeが優勝したらしい｜laiso“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - IV DYFI? - II Time 2026-11-07 11:07:43 UTC 2026-11-07 11:07:43 UTC at epicenter Location 36.188°N 141.440°E Depth 31.75 km (19.73 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.5 - 10 km NW of Hamakita, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-07T16:23:49.914+00:00`, fetched `2026-11-07T16:24:53+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - IV Time 2026-11-07 16:04:35 UTC 2026-11-07 16:04:35 UTC at epicenter Location 34.861°N 137.691°E Depth 38.08 km (23.66 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai** — Score 15, observation — [Quelle](https://ledge.ai/articles/nicam_claude_code_migration)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
