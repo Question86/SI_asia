@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T22:44:08+00:00",
-  "run_id": "2026-11-07T22:44:08+00:00",
+  "generated_at": "2026-11-07T22:50:06+00:00",
+  "run_id": "2026-11-07T22:50:06+00:00",
   "date": "2026-11-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 32,
     "displayed_findings": 32,
     "high": 0,
@@ -1709,32 +1709,7 @@
       "id": "ed5eace05d362e13d639"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
-      "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-07T13:18:14+00:00",
-      "fetched_at": "2026-11-07T22:43:37+00:00",
-      "summary": "はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるも...",
-      "matched_keywords": [
-        "GitHub",
-        "GitHub Actions",
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "GitHub Actions (+6.2); Security (+6.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e005880cf4939a6c803a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
