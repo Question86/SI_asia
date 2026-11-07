@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T16:20:41+00:00",
+  "generated_at": "2026-11-07T16:25:49+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2229,7 +2229,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-28T15:27:00+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -8332,7 +8332,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-07T07:48:36+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -9386,7 +9386,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-17T19:46:45+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -11579,7 +11579,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-07T15:44:54+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -16119,7 +16119,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T13:03:47+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -16901,7 +16901,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -18431,7 +18431,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T01:58:16+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -18975,7 +18975,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T05:31:45+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -25879,7 +25879,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -27240,7 +27240,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T07:16:21+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -27393,7 +27393,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T07:16:21+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -27750,7 +27750,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T07:16:21+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -28991,7 +28991,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-06T05:49:53+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -30339,6 +30339,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_90f0c0c86e9267d58e2d",
+      "title": "VoidでWebアプリを作ろう！",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_93ae33d4c4f3d46f4a4d",
       "title": "The business judgment gap: Why BUMN investment decisions need a different risk framework in Indonesia",
       "event_classes": [
@@ -30745,23 +30762,6 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_90f0c0c86e9267d58e2d",
-      "title": "VoidでWebアプリを作ろう！",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 109600.0,
-      "p50_usd": 10960000.0,
-      "p90_usd": 1096000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-07T16:20:21+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -31304,7 +31304,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T00:01:04+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -31950,7 +31950,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T00:35:25+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -33038,7 +33038,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T02:07:46+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -33599,7 +33599,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -35877,7 +35877,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T11:00:13+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
@@ -37934,7 +37934,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T12:12:28+00:00",
-      "last_seen_at": "2026-11-07T16:20:21+00:00",
+      "last_seen_at": "2026-11-07T16:25:29+00:00",
       "status": "active"
     },
     {
