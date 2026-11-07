@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T06:34:20+00:00",
-  "run_id": "2026-11-07T06:34:20+00:00",
+  "generated_at": "2026-11-07T06:58:01+00:00",
+  "run_id": "2026-11-07T06:58:01+00:00",
   "date": "2026-11-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 2,
-    "observe": 6,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -162,6 +162,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3ea66490cd467f712e99"
+      },
+      {
+        "title": "旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい",
+        "url": "https://togetter.com/li/2767610",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-07T02:20:55+00:00",
+        "fetched_at": "2026-11-07T06:57:26+00:00",
+        "summary": "くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "979ec35fb085901297cd"
       },
       {
         "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス",
@@ -341,6 +362,27 @@
       "id": "3ea66490cd467f712e99"
     },
     {
+      "title": "旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい",
+      "url": "https://togetter.com/li/2767610",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-07T02:20:55+00:00",
+      "fetched_at": "2026-11-07T06:57:26+00:00",
+      "summary": "くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "979ec35fb085901297cd"
+    },
+    {
       "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス",
       "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection",
       "source": "Hatena Bookmark Hotentry IT",
@@ -383,7 +425,29 @@
       "id": "dbd0773cb51d5b386cca"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい",
+      "url": "https://togetter.com/li/2767610",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-07T02:20:55+00:00",
+      "fetched_at": "2026-11-07T06:57:26+00:00",
+      "summary": "くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "979ec35fb085901297cd"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

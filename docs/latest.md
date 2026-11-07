@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T06:34:20+00:00_
+_Generiert: 2026-11-07T06:58:01+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
+9 neue relevante Treffer. Stärkstes Signal: „東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
 
 ## Priorität Hoch
 
@@ -69,14 +69,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.5); Copilot (+2.0); recent (+1.0)
   - Kurz: Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests—all without leaving your conversation. What’s new Build and review together… The post @GitHub in Slack and Teams is generally available and more appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス** — Score 5, observation — [Quelle](https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection)
+- **旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい** — Score 5, observation — [Quelle](https://togetter.com/li/2767610)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-06T23:36:13+00:00`, fetched `2026-11-07T02:07:16+00:00`
+  - Zeit: published `2026-11-07T02:20:55+00:00`, fetched `2026-11-07T06:57:26+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: この記事は、Claude と一緒に AWS 公式ドキュメントを調べ、構成図を作りながら整理した内容をまとめたものです。各設定の根拠は、記事中のリンク先の公式ドキュメントで確認できます。 はじめに 先日、X（旧Twitter）でこんな趣旨の話題が流れてきました。 CloudFront + WAF → ALB の構成では、ALB の SG に CloudFront...
+  - Kurz: くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
