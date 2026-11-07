@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T00:01:25+00:00",
+  "generated_at": "2026-11-07T00:35:47+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -16833,8 +16833,8 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-03T23:51:46+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-07T00:35:25+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_b2900bb5b86e7a8f9953",
@@ -31121,6 +31121,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_52ead92c287577295bdf",
+      "title": "@GitHub in Slack and Teams is generally available and more",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-07T00:01:04+00:00",
+      "last_seen_at": "2026-11-07T00:35:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5355e9a96716a6140433",
       "title": "塩崎デジタル副大臣がアンドレス・ウンガ駐日エストニア共和国大使の表敬訪問を受けました",
       "event_classes": [
@@ -32634,8 +32651,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_52ead92c287577295bdf",
-      "title": "@GitHub in Slack and Teams is generally available and more",
+      "event_id": "evt_8f1cb92fdc2ecac6d468",
+      "title": "Copilot code review: API management and review overview updates",
       "event_classes": [
         "unknown"
       ],
@@ -32646,8 +32663,8 @@
       "p50_usd": 10880000.0,
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-11-07T00:01:04+00:00",
-      "last_seen_at": "2026-11-07T00:01:04+00:00",
+      "first_seen_at": "2026-11-07T00:35:25+00:00",
+      "last_seen_at": "2026-11-07T00:35:25+00:00",
       "status": "active"
     },
     {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T00:01:28+00:00",
+  "generated_at": "2026-11-07T00:35:52+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -8354,12 +8354,12 @@
     {
       "event_id": "evt_52ead92c287577295bdf",
       "title": "@GitHub in Slack and Teams is generally available and more",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -12364,7 +12364,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_790c08ce3bb1f8fbe804",
@@ -14422,6 +14422,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8f1cb92fdc2ecac6d468",
+      "title": "Copilot code review: API management and review overview updates",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_8f39f926129543e9523b",
