@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-07T07:37:38Z",
+  "generated_at": "2026-11-07T08:13:05Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:36:39+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -40,7 +40,7 @@
       "url": "https://github.com/rust-lang/rust",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:15:48+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -66,7 +66,7 @@
       "url": "https://github.com/mpv-player/mpv",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:15:48+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -94,7 +94,7 @@
       "url": "https://ledge.ai/articles/nicam_claude_code_migration",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T01:58:16+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -121,7 +121,7 @@
       "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:35:25+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -146,7 +146,7 @@
       "url": "https://github.com/react/react",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:15:48+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -169,11 +169,84 @@
       "summary": "The library for web and native user interfaces. https://react.dev React · React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right compo…"
     },
     {
+      "title": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-07T07:16:21+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-07T07:16:21+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.6 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-07T07:41:39.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-07 07:14:10 UTC 2026-11-07 07:14:10 UTC at epicenter Location 57.958°S 25.802°W Depth 103.68 km (64.43 mi)"
+    },
+    {
       "title": "毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった",
       "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T05:31:45+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -194,26 +267,26 @@
       "summary": ""
     },
     {
-      "title": "zed-industries/zed",
-      "url": "https://github.com/zed-industries/zed",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-07T07:16:21+00:00",
-      "age_days": 0.01,
+      "title": "M 4.6 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-07T07:48:36+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.0,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -222,7 +295,7 @@
       "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T02:07:46+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -240,80 +313,6 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-07T07:16:21+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "mpv-player/mpv",
-      "url": "https://github.com/mpv-player/mpv",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-07T07:16:21+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai",
-      "url": "https://ledge.ai/articles/nicam_claude_code_migration",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-06T19:26:50+00:00",
-      "age_days": 0.51,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Top > 学術＆研究 > 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限"
     }
   ],
   "read_order": [
