@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T05:32:04+00:00",
+  "generated_at": "2026-11-07T05:47:42+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -16833,7 +16833,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-07T05:31:45+00:00",
+      "last_seen_at": "2026-11-07T05:47:23+00:00",
       "status": "active"
     },
     {
@@ -18363,7 +18363,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T01:58:16+00:00",
-      "last_seen_at": "2026-11-07T05:31:45+00:00",
+      "last_seen_at": "2026-11-07T05:47:23+00:00",
       "status": "active"
     },
     {
@@ -18894,6 +18894,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_53d366c762f712b1ab6c",
+      "title": "毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "market_valuation"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-07T05:31:45+00:00",
+      "last_seen_at": "2026-11-07T05:47:23+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_54c5cb037c78db50a987",
       "title": "GitHub Copilot app for Beginners: Run several agents at once",
       "event_classes": [
@@ -19402,23 +19419,6 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_53d366c762f712b1ab6c",
-      "title": "毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "market_valuation"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-07T05:31:45+00:00",
-      "last_seen_at": "2026-11-07T05:31:45+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -31168,7 +31168,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T00:01:04+00:00",
-      "last_seen_at": "2026-11-07T05:31:45+00:00",
+      "last_seen_at": "2026-11-07T05:47:23+00:00",
       "status": "active"
     },
     {
@@ -31814,7 +31814,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T00:35:25+00:00",
-      "last_seen_at": "2026-11-07T05:31:45+00:00",
+      "last_seen_at": "2026-11-07T05:47:23+00:00",
       "status": "active"
     },
     {
@@ -32902,7 +32902,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T02:07:46+00:00",
-      "last_seen_at": "2026-11-07T05:31:45+00:00",
+      "last_seen_at": "2026-11-07T05:47:23+00:00",
       "status": "active"
     },
     {
@@ -34772,7 +34772,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T09:40:46+00:00",
-      "last_seen_at": "2026-11-07T05:31:45+00:00",
+      "last_seen_at": "2026-11-07T05:47:23+00:00",
       "status": "active"
     },
     {
