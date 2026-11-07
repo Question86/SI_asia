@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T21:02:30+00:00_
+_Generated: 2026-11-07T21:22:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-07T21:02:30+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq
 - summary: ShakeMap - IV DYFI? - II Time 2026-11-07 11:07:43 UTC 2026-11-07 11:07:43 UTC at epicenter Location 36.188°N 141.440°E Depth 31.75 km (19.73 mi)
 
-### 3. M 5.5 - 10 km NW of Hamakita, Japan
+### 3. M 4.7 - 43 km ESE of Ambon, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-07T21:19:02.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twu1
+- summary: Time 2026-11-07 20:55:38 UTC 2026-11-07 20:55:38 UTC at epicenter Location 3.905°S 128.512°E Depth 136.66 km (84.91 mi)
+
+### 4. M 5.5 - 10 km NW of Hamakita, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-07T16:23:49.914+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0
 - summary: DYFI? - IV Time 2026-11-07 16:04:35 UTC 2026-11-07 16:04:35 UTC at epicenter Location 34.861°N 137.691°E Depth 38.08 km (23.66 mi)
-
-### 4. 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai
-- source: Hatena Bookmark Hotentry IT
-- score: `15`
-- published: `2026-11-06T19:26:50+00:00`
-- url: https://ledge.ai/articles/nicam_claude_code_migration
-- summary: Top > 学術＆研究 > 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限
 
 ### 5. ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例
 - source: Hatena Bookmark Hotentry IT
