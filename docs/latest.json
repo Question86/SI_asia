@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T12:12:25+00:00",
-  "run_id": "2026-11-07T12:12:25+00:00",
+  "generated_at": "2026-11-07T12:32:49+00:00",
+  "run_id": "2026-11-07T12:32:49+00:00",
   "date": "2026-11-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -987,29 +987,7 @@
       "id": "4cf1d20630bf8cc9d8db"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記",
-      "url": "https://www.pospome.work/entry/2026/11/07/192125",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-07T10:23:56+00:00",
-      "fetched_at": "2026-11-07T12:11:53+00:00",
-      "summary": "\"TechLead Conference 2026 Autumn powered by connpass\" の登壇資料です。 概要： 生成AIの進化によって、ソフトウェア開発のあり方は大きく変化しています。AIがコードを書く時代になり、技術的な知識や経験だけでなく、TechLeadとしてどのような価値を生み出すべきなのか、改めて考える必要があるのではないでしょう...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dca3213a8228dd357206"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
