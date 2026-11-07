@@ -1,28 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-07T02:15:03Z_
+_Generated: 2026-11-07T02:37:35Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.5.
+Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.0.
 
 ## Top Dynamics
 
 ### 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `21.5`
-- Published: `2026-11-07T01:58:16+00:00` / age_days `0.01`
+- Dynamics score: `21.0`
+- Published: `2026-11-07T01:58:16+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://ledge.ai/articles/nicam_claude_code_migration
 
 ### Copilot code review: API management and review overview updates
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-11-07T00:35:25+00:00` / age_days `0.07`
+- Published: `2026-11-07T00:35:25+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: code
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-11-06T19:26:50+00:00` / age_days `0.28`
+- Published: `2026-11-06T19:26:50+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -42,17 +42,17 @@ Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.5`
-- Published: `2026-11-07T02:07:46+00:00` / age_days `0.01`
+- Published: `2026-11-07T02:07:46+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: momentum delta +2
 - Quelle: https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection
 
 ### Copilot code review: API management and review overview updates
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-11-07T00:27:19+00:00` / age_days `0.07`
+- Published: `2026-11-07T00:27:19+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: code
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-11-07T00:01:04+00:00` / age_days `0.09`
+- Published: `2026-11-07T00:01:04+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-11-06T22:57:15+00:00` / age_days `0.14`
+- Published: `2026-11-06T22:57:15+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-11-06T09:39:24+00:00` / age_days `0.69`
+- Published: `2026-11-06T09:39:24+00:00` / age_days `0.71`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `3.0`
-- Published: `2026-06-19T02:10:07+00:00` / age_days `141.0`
+- Published: `2026-06-19T02:10:07+00:00` / age_days `141.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 141.0d old signal, single-source AI cap enforced after phrase recheck
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `3.0`
-- Published: `2026-11-06T20:31:08+00:00` / age_days `0.24`
+- Published: `2026-11-06T20:31:08+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-09-20T09:40:46+00:00` / age_days `47.69`
+- Published: `2026-09-20T09:40:46+00:00` / age_days `47.71`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 47.7d old signal, single-source AI cap enforced after phrase recheck
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “東大・国立環境研、20年以上�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-11-06T23:36:13+00:00` / age_days `0.11`
+- Published: `2026-11-06T23:36:13+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
