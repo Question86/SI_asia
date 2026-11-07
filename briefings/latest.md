@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T17:29:12+00:00_
+_Generiert: 2026-11-07T17:46:16+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „ISUCON2026をClaude Codeが優勝したらしい｜laiso“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
+29 neue relevante Treffer. Stärkstes Signal: „ISUCON2026をClaude Codeが優勝したらしい｜laiso“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -117,6 +117,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例** — Score 13, observation — [Quelle](https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-07T09:20:09+00:00`, fetched `2026-11-07T17:45:45+00:00`
+  - Treffer: agent, AI/KI, Hatena, hotentry, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: 信頼の厚さの評価はハーネスの設計から読み取った筆者の解釈で、プロジェクトの規模や開発文化の違いも影響しているはずです。各行の根拠はそれぞれの節で引用しています。 信頼が厚いZedとSentryは、ハーネスに書く量を最小限にして、残りをAIの判断に任せています。中間のOpenClawはAIを自走させる一方で、判断の仕方...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-06T22:57:15+00:00`, fetched `2026-11-07T00:34:53+00:00`
@@ -135,6 +144,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 日経平均株価は6日、前日比3643円安となり歴代3位の下げ幅を記録し、さながら株式市場の「ブラックフライデー」となった。東証プライム上場の98%が下落し悲観一色のなかでも「お値打ち銘柄」を拾おうとする動きが出始めた。代表は太陽誘電など人工知能（AI）関連銘柄の一部だ。「朝からひどく忙しかった。海外投資家から...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 45 km NNW of Salinas, Ecuador** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt8)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-07T17:37:15.040+00:00`, fetched `2026-11-07T17:45:45+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-07 17:17:38 UTC 2026-11-07 17:17:38 UTC at epicenter Location 1.851°S 81.144°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 77 km NNW of Khorixas, Namibia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twss)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-07T15:42:25.040+00:00`, fetched `2026-11-07T15:44:18+00:00`
@@ -162,15 +180,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-07 11:35:38 UTC 2026-11-07 11:35:38 UTC at epicenter Location 18.248°S 12.945°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-07T07:41:39.040+00:00`, fetched `2026-11-07T07:47:59+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-07 07:14:10 UTC 2026-11-07 07:14:10 UTC at epicenter Location 57.958°S 25.802°W Depth 103.68 km (64.43 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **rust-lang/rust** — Score 8, observation — [Quelle](https://github.com/rust-lang/rust)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-11-07T07:15:48+00:00`
@@ -197,15 +206,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: 🎥 Command line media player https://mpv.io mpv External links Overview System requirements Downloads Changelog Compilation Release cycle Bug reports Contributing License Contact External links Wiki User Scripts FAQ Manual Overview mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types. There is a FAQ . Releases can…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **VoidでWebアプリを作ろう！** — Score 7, observation — [Quelle](https://void-workshop.yusuke.run/phpmatsuri)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-07T07:15:20+00:00`, fetched `2026-11-07T16:19:42+00:00`
-  - Treffer: developer, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
-  - Kurz: # VoidでWebアプリを作ろう！ PHPMatsuri Reboot in Hackone Cloudflare / VoidZero - Developer Advocate / Yusuke Wada
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Copilot code review: API management and review overview updates** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates)
   - Quelle: GitHub Changelog Atom / `rss`
