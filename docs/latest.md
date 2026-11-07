@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T16:10:32+00:00_
+_Generiert: 2026-11-07T16:20:15+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „ISUCON2026をClaude Codeが優勝したらしい｜laiso“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
+25 neue relevante Treffer. Stärkstes Signal: „ISUCON2026をClaude Codeが優勝したらしい｜laiso“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: 🎥 Command line media player https://mpv.io mpv External links Overview System requirements Downloads Changelog Compilation Release cycle Bug reports Contributing License Contact External links Wiki User Scripts FAQ Manual Overview mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types. There is a FAQ . Releases can…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **VoidでWebアプリを作ろう！** — Score 7, observation — [Quelle](https://void-workshop.yusuke.run/phpmatsuri)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-07T07:15:20+00:00`, fetched `2026-11-07T16:19:42+00:00`
+  - Treffer: developer, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
+  - Kurz: # VoidでWebアプリを作ろう！ PHPMatsuri Reboot in Hackone Cloudflare / VoidZero - Developer Advocate / Yusuke Wada
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Copilot code review: API management and review overview updates** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-07T00:27:19+00:00`, fetched `2026-11-07T00:34:53+00:00`
@@ -150,15 +159,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.5); Copilot (+2.0); recent (+1.0)
   - Kurz: Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests—all without leaving your conversation. What’s new Build and review together… The post @GitHub in Slack and Teams is generally available and more appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記** — Score 5, opportunity — [Quelle](https://www.pospome.work/entry/2026/11/07/192125)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-07T10:23:56+00:00`, fetched `2026-11-07T12:11:53+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: "TechLead Conference 2026 Autumn powered by connpass" の登壇資料です。 概要： 生成AIの進化によって、ソフトウェア開発のあり方は大きく変化しています。AIがコードを書く時代になり、技術的な知識や経験だけでなく、TechLeadとしてどのような価値を生み出すべきなのか、改めて考える必要があるのではないでしょう...
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
