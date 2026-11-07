@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T00:35:23+00:00_
+_Generiert: 2026-11-07T01:05:03+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
+4 neue relevante Treffer. Stärkstes Signal: „AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.5); Copilot (+2.0); recent (+1.0)
   - Kurz: Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests—all without leaving your conversation. What’s new Build and review together… The post @GitHub in Slack and Teams is generally available and more appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。** — Score 5, observation — [Quelle](https://posfie.com/@Acg3C2/p/NF0FdOe)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-06T11:09:56+00:00`, fetched `2026-11-07T01:04:30+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: きりつきセンセ @mugetsu_tenshin BLはゾーニングされてる！( ｰ`дｰ´)ｷﾘｯ って言うから見てきたよｗ 場所も書いてあげる。 宇都宮トナリエ5階落合書店。 右の棚全部BLだったwww ゾーニングは纏めておくってことじゃねーぞｗ 真裏の棚は参考書だ。 左の棚は一般少女漫画。 おっとこの店だけって論理は通用しないぜ？ お前...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
