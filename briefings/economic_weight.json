@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T23:31:40+00:00",
+  "generated_at": "2026-11-07T23:47:07+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -688,7 +688,7 @@
       "p90_usd": 120000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T22:44:11+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -2093,7 +2093,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -2144,8 +2144,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T04:36:22+00:00",
-      "last_seen_at": "2026-10-16T23:59:00+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_74f0f1c56f8e7f996c36",
@@ -2246,7 +2246,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-28T15:27:00+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -3523,6 +3523,23 @@
       "first_seen_at": "2026-11-01T08:45:30+00:00",
       "last_seen_at": "2026-11-01T23:55:49+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_287e0d9634cc0e345660",
+      "title": "M 5.9 - central Mid-Atlantic Ridge",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-07T23:46:48+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -8349,7 +8366,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-07T07:48:36+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -8961,7 +8978,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-07T17:46:22+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -9420,7 +9437,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-17T19:46:45+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -9862,7 +9879,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-07T20:17:42+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -11630,7 +11647,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-07T15:44:54+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -12567,6 +12584,23 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2e6efaf8710efdce2678",
+      "title": "M 5.1 - 91 km ENE of Hihifo, Tonga",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-07T23:46:48+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -16170,7 +16204,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T13:03:47+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -16952,7 +16986,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -18482,7 +18516,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T01:58:16+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -19026,7 +19060,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T05:31:45+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -19587,7 +19621,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T17:46:22+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -25947,7 +25981,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -27308,7 +27342,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T07:16:21+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -27461,7 +27495,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T07:16:21+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -27818,7 +27852,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T07:16:21+00:00",
-      "last_seen_at": "2026-11-07T23:31:20+00:00",
+      "last_seen_at": "2026-11-07T23:46:48+00:00",
       "status": "active"
     },
     {
@@ -30421,7 +30455,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T16:20:21+00:00",
       "last_seen_at": "2026-11-07T23:31:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_93ae33d4c4f3d46f4a4d",
@@ -31373,7 +31407,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T00:01:04+00:00",
       "last_seen_at": "2026-11-07T23:31:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5355e9a96716a6140433",
@@ -32019,7 +32053,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-07T00:35:25+00:00",
       "last_seen_at": "2026-11-07T23:31:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9184ca738d03d16d5623",
