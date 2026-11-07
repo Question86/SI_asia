@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-07T22:50:09+00:00_
+_Generiert: 2026-11-07T22:58:43+00:00_
 
 ## Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化
 
