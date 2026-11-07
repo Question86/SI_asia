@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-07T08:50:08+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-11-07T08:57:04+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 2,
-    "observe": 13
+    "observe": 14
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai",
