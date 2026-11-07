@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-07T08:57:04+00:00",
-  "run_id": "2026-11-07T08:57:04+00:00",
+  "generated_at": "2026-11-07T09:07:02+00:00",
+  "run_id": "2026-11-07T09:07:02+00:00",
   "date": "2026-11-07",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 16
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
     "medium": 2,
     "observe": 14,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -755,37 +755,8 @@
       "id": "4cf1d20630bf8cc9d8db"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261107de72062",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-07T03:30:33+00:00",
-      "fetched_at": "2026-11-07T08:56:27+00:00",
-      "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dcb07e534375f7338b10"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "bis_statistics",
-      "source_name": "BIS Statistical Releases",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

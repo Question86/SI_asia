@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T08:57:04+00:00_
+_Generiert: 2026-11-07T09:07:02+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai“ aus Hatena Bookmark Hotentry IT (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+16 neue relevante Treffer. Stärkstes Signal: „東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
 
 ## Priorität Hoch
 
@@ -122,7 +122,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
