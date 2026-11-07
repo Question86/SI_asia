@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-07T19:09:58Z_
+_Generated: 2026-11-07T19:20:44Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-07T00:36:39+00:00` / age_days `0.77`
+- Published: `2026-11-07T00:36:39+00:00` / age_days `0.78`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-07T09:20:09+00:00` / age_days `0.41`
+- Published: `2026-11-07T09:20:09+00:00` / age_days `0.42`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-11-07T13:03:47+00:00` / age_days `0.25`
+- Published: `2026-11-07T13:03:47+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-11-07T12:12:28+00:00` / age_days `0.29`
+- Published: `2026-11-07T12:12:28+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-11-07T00:35:25+00:00` / age_days `0.77`
+- Published: `2026-11-07T00:35:25+00:00` / age_days `0.78`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: code
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.38`
-- Published: `2026-10-28T15:27:00+00:00` / age_days `10.15`
+- Published: `2026-10-28T15:27:00+00:00` / age_days `10.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, baseline z_hint 1.25, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
