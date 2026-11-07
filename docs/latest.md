@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T20:56:09+00:00_
+_Generiert: 2026-11-07T21:02:30+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „ISUCON2026をClaude Codeが優勝したらしい｜laiso“ aus Hatena Bookmark Hotentry IT (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+30 neue relevante Treffer. Stärkstes Signal: „ISUCON2026をClaude Codeが優勝したらしい｜laiso“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -177,7 +177,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
