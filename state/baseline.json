@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T01:05:06+00:00",
+  "generated_at": "2026-11-07T01:16:05+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -4031,7 +4031,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞",
-      "updated_at": "2026-11-07T01:05:06+00:00",
+      "updated_at": "2026-11-07T01:16:05+00:00",
       "network_scores": [
         16.3,
         16.3,
@@ -4060,14 +4060,14 @@
         16.3,
         16.3,
         16.3,
-        16.3,
         15.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 16.12,
+      "rolling_average": 15.98,
       "rolling_peak": 16.3,
       "last_score": 12.1,
-      "z_hint": -4.02
+      "z_hint": -3.88
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -40756,9 +40756,8 @@
     },
     "domain:posfie.com": {
       "title": "「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。",
-      "updated_at": "2026-11-07T01:05:06+00:00",
+      "updated_at": "2026-11-07T01:16:05+00:00",
       "network_scores": [
-        13.1,
         13.1,
         13.1,
         13.1,
@@ -40787,12 +40786,13 @@
         7.1,
         7.1,
         7.1,
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 12.1,
+      "rolling_average": 11.9,
       "rolling_peak": 13.1,
-      "last_score": 10.1,
-      "z_hint": -2.0
+      "last_score": 7.1,
+      "z_hint": -4.8
     },
     "domain:tarosite.net": {
       "title": "iPhone Duoは重すぎる？ Pro Maxを1年使った私が気になったのは、重さよりTouch ID – @tarosite",
@@ -108716,7 +108716,21 @@
     },
     "title:github-slack-teams-generally-available-more": {
       "title": "@GitHub in Slack and Teams is generally available and more",
-      "updated_at": "2026-11-07T01:05:06+00:00",
+      "updated_at": "2026-11-07T01:16:05+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 8.85,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -0.75
+    },
+    "title:copilot-code-review-api-management-review-overview-updates": {
+      "title": "Copilot code review: API management and review overview updates",
+      "updated_at": "2026-11-07T01:16:05+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -108726,18 +108740,6 @@
       "rolling_peak": 11.1,
       "last_score": 8.1,
       "z_hint": -1.0
-    },
-    "title:copilot-code-review-api-management-review-overview-updates": {
-      "title": "Copilot code review: API management and review overview updates",
-      "updated_at": "2026-11-07T01:05:06+00:00",
-      "network_scores": [
-        11.1,
-        8.1
-      ],
-      "rolling_average": 9.6,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -1.5
     }
   }
 }
