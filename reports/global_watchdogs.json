@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:00:13+00:00",
+  "generated_at": "2026-11-07T11:29:15+00:00",
   "sections": {
     "global_security": [
       {
@@ -121,6 +121,21 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575788",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 74 km NE of Hasaki, Japan",
+        "summary": "M5.5 - 74 km NE of Hasaki, Japan. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq",
+        "published_at": "2026-11-07T11:07:43+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "",
+          "sig": 466.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

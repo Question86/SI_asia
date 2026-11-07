@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T11:00:10+00:00_
+_Generiert: 2026-11-07T11:29:11+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
+18 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 74 km NE of Hasaki, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,6 +53,10 @@ _Generiert: 2026-11-07T11:00:10+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.
+- **USGS earthquake M5.5 - 74 km NE of Hasaki, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq)
+  - Quelle: USGS
+  - Zeit: `2026-11-07T11:07:43+00:00`
+  - Kurz: M5.5 - 74 km NE of Hasaki, Japan. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -69,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 5.5 - 74 km NE of Hasaki, Japan** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-07T11:28:07.636+00:00`, fetched `2026-11-07T11:28:43+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - IV DYFI? - II Time 2026-11-07 11:07:43 UTC 2026-11-07 11:07:43 UTC at epicenter Location 36.188°N 141.440°E Depth 31.75 km (19.73 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai** — Score 15, observation — [Quelle](https://ledge.ai/articles/nicam_claude_code_migration)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-06T19:26:50+00:00`, fetched `2026-11-07T01:57:39+00:00`
@@ -174,6 +187,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
