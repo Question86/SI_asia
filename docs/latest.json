@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T20:17:31+00:00",
-  "run_id": "2026-11-07T20:17:31+00:00",
+  "generated_at": "2026-11-07T20:25:45+00:00",
+  "run_id": "2026-11-07T20:25:45+00:00",
   "date": "2026-11-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 30,
     "displayed_findings": 30,
     "high": 0,
@@ -1587,44 +1587,7 @@
       "id": "ed5eace05d362e13d639"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.5 - 65 km WSW of Masachapa, Nicaragua",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twtv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-07T20:13:03.040+00:00",
-      "fetched_at": "2026-11-07T20:17:01+00:00",
-      "summary": "Time 2026-11-07 19:55:10 UTC 2026-11-07 19:55:10 UTC at epicenter Location 11.526°N 87.054°W Depth 37.05 km (23.02 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "be32e41e708904dd81a9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
