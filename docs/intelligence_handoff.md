@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-07T00:46:29Z_
+_Generated: 2026-11-07T00:55:18Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Copilot code review: API management and 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-11-07T00:27:19+00:00` / age_days `0.01`
+- Published: `2026-11-07T00:27:19+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: code
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Copilot code review: API management and 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.5`
-- Published: `2026-06-19T02:10:07+00:00` / age_days `140.94`
+- Published: `2026-06-19T02:10:07+00:00` / age_days `140.95`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 140.9d old signal, single-source AI cap enforced after phrase recheck
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Copilot code review: API management and 
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `2.0`
-- Published: `2026-11-07T00:01:04+00:00` / age_days `0.03`
+- Published: `2026-11-07T00:01:04+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
