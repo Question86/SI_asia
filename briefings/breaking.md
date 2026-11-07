@@ -1,6 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-11-07T22:35:21+00:00_
+_Generiert: 2026-11-07T22:44:11+00:00_
 
-Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
+## Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化
+
+- Ranking Score: `29.5`
+- Raw Network Score: `25.1`
+- Max Monitor Score: `20`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `ja`
+- Dominanter Emitter: `nein`
+- Quellen: Hatena Bookmark Hotentry IT
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://zenn.dev/tomipetit/articles/zero-wire-github-actions
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 

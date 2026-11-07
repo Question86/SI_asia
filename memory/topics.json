@@ -1,8 +1,82 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-07T22:35:15+00:00",
+  "generated_at": "2026-11-07T22:44:08+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-07T13:18:14+00:00",
+        "relevance_score": 20,
+        "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions"
+      },
+      {
+        "title": "毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-07T00:36:39+00:00",
+        "relevance_score": 14,
+        "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria"
+      }
+    ],
+    "github": [
+      {
+        "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-07T13:18:14+00:00",
+        "relevance_score": 20,
+        "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions"
+      },
+      {
+        "title": "rust-lang/rust",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/rust-lang/rust"
+      },
+      {
+        "title": "rails/rails",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/rails/rails"
+      },
+      {
+        "title": "mpv-player/mpv",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/mpv-player/mpv"
+      },
+      {
+        "title": "Copilot code review: API management and review overview updates",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-07T00:27:19+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
+      },
+      {
+        "title": "@GitHub in Slack and Teams is generally available and more",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-06T20:31:08+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available"
+      },
+      {
+        "title": "zed-industries/zed",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/zed-industries/zed"
+      },
+      {
+        "title": "react/react",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/react/react"
+      }
+    ],
     "ai": [
       {
         "title": "ISUCON2026をClaude Codeが優勝したらしい｜laiso",
@@ -147,15 +221,6 @@
         "url": "https://togetter.com/li/2767778"
       }
     ],
-    "security": [
-      {
-        "title": "毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-07T00:36:39+00:00",
-        "relevance_score": 14,
-        "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria"
-      }
-    ],
     "geopolitics": [
       {
         "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
@@ -177,57 +242,6 @@
         "published_at": "2026-11-07T00:27:19+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
-      }
-    ],
-    "github": [
-      {
-        "title": "rust-lang/rust",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/rust-lang/rust"
-      },
-      {
-        "title": "rails/rails",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/rails/rails"
-      },
-      {
-        "title": "mpv-player/mpv",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/mpv-player/mpv"
-      },
-      {
-        "title": "Copilot code review: API management and review overview updates",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-07T00:27:19+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
-      },
-      {
-        "title": "@GitHub in Slack and Teams is generally available and more",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-06T20:31:08+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available"
-      },
-      {
-        "title": "zed-industries/zed",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/zed-industries/zed"
-      },
-      {
-        "title": "react/react",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/react/react"
       }
     ],
     "economy": [

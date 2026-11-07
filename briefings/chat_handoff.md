@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T22:35:15+00:00_
+_Generated: 2026-11-07T22:44:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `32`
 
 ## Top Signals
 
-### 1. ISUCON2026をClaude Codeが優勝したらしい｜laiso
+### 1. Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化
+- source: Hatena Bookmark Hotentry IT
+- score: `20`
+- published: `2026-11-07T13:18:14+00:00`
+- url: https://zenn.dev/tomipetit/articles/zero-wire-github-actions
+- summary: はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるも...
+
+### 2. ISUCON2026をClaude Codeが優勝したらしい｜laiso
 - source: Hatena Bookmark Hotentry IT
 - score: `20`
 - published: `2026-11-07T10:00:45+00:00`
 - url: https://sizu.me/laiso/posts/k59is4cnd77f
 - summary: タイトルは釣りです（懐かしいブログ仕草） 正確には、元Wantedly CTOのkawasyさんが、ISUCON参加に向けて3ヶ月以上の試行錯誤をしたハーネスを、本番では無停止で自律的に8時間動作させて1位のスコアを叩き出したらしい。 もちろん他のチームも競技にClaude CodeやCodexなどを大活用して挑んだようだけど、完全自律実行...
 
-### 2. M 5.5 - 74 km NE of Hasaki, Japan
+### 3. M 5.5 - 74 km NE of Hasaki, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `17`
 - published: `2026-11-07T11:28:07.636+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq
 - summary: ShakeMap - IV DYFI? - II Time 2026-11-07 11:07:43 UTC 2026-11-07 11:07:43 UTC at epicenter Location 36.188°N 141.440°E Depth 31.75 km (19.73 mi)
 
-### 3. M 4.7 - 43 km ESE of Ambon, Indonesia
+### 4. M 4.7 - 43 km ESE of Ambon, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-07T21:19:02.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twu1
 - summary: Time 2026-11-07 20:55:38 UTC 2026-11-07 20:55:38 UTC at epicenter Location 3.905°S 128.512°E Depth 136.66 km (84.91 mi)
-
-### 4. M 5.5 - 10 km NW of Hamakita, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-07T16:23:49.914+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0
-- summary: DYFI? - IV Time 2026-11-07 16:04:35 UTC 2026-11-07 16:04:35 UTC at epicenter Location 34.861°N 137.691°E Depth 38.08 km (23.66 mi)
 
 ### 5. ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例
 - source: Hatena Bookmark Hotentry IT
