@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T01:32:29+00:00",
+  "generated_at": "2026-11-08T01:42:51+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -15065,7 +15065,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-11-08T01:32:09+00:00",
+      "last_seen_at": "2026-11-08T01:42:32+00:00",
       "status": "active"
     },
     {
@@ -18401,6 +18401,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4fee29d2150a97bdf952",
+      "title": "Sakutto - Local AI translation - Chrome Web Store",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116000.0,
+      "p50_usd": 11600000.0,
+      "p90_usd": 1160000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-08T01:32:09+00:00",
+      "last_seen_at": "2026-11-08T01:42:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_67c2499b8f5d8b26b94b",
       "title": "2026-012: Critical Vulnerabilities in Check Point Products",
       "event_classes": [
@@ -18705,23 +18722,6 @@
       "first_seen_at": "2026-11-04T07:58:53+00:00",
       "last_seen_at": "2026-11-04T23:46:50+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_4fee29d2150a97bdf952",
-      "title": "Sakutto - Local AI translation - Chrome Web Store",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116000.0,
-      "p50_usd": 11600000.0,
-      "p90_usd": 1160000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-08T01:32:09+00:00",
-      "last_seen_at": "2026-11-08T01:32:09+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_070b081f5eeabbc39c41",
@@ -27954,7 +27954,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T00:40:56+00:00",
-      "last_seen_at": "2026-11-08T01:32:09+00:00",
+      "last_seen_at": "2026-11-08T01:42:32+00:00",
       "status": "active"
     },
     {
@@ -34126,7 +34126,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T00:03:25+00:00",
-      "last_seen_at": "2026-11-08T01:32:09+00:00",
+      "last_seen_at": "2026-11-08T01:42:32+00:00",
       "status": "active"
     },
     {
