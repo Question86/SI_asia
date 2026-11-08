@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T00:03:45+00:00",
+  "generated_at": "2026-11-08T00:41:18+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -15065,8 +15065,8 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-11-06T23:46:43+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-08T00:40:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0b8f55a038be7b409784",
@@ -29811,6 +29811,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_56e235a682be43366596",
+      "title": "NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-08T00:40:56+00:00",
+      "last_seen_at": "2026-11-08T00:40:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_041397919a21c7984d11",
       "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
       "event_classes": [
@@ -34077,6 +34094,23 @@
       "first_seen_at": "2026-10-09T06:12:03+00:00",
       "last_seen_at": "2026-10-09T08:25:31+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_35037c98190aa8c511f6",
+      "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-08T00:03:25+00:00",
+      "last_seen_at": "2026-11-08T00:40:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_37073614552c957af89b",
@@ -38599,23 +38633,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_35037c98190aa8c511f6",
-      "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-08T00:03:25+00:00",
-      "last_seen_at": "2026-11-08T00:03:25+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",

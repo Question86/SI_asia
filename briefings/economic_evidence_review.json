@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T00:03:47+00:00",
+  "generated_at": "2026-11-08T00:41:20+00:00",
   "fx_as_of": null,
-  "candidate_count": 2710,
+  "candidate_count": 2711,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2710
+    "pending": 2711
   },
   "coverage_warning": null,
   "candidates": [
@@ -38800,6 +38800,25 @@
       "snippet": "all@5 回答LLMに渡したチャンクに含まれる正解の割合 TTFT 質問を送ってから回答の最初のトークンが届くまで Cost 1クエリあたりの費用（USD） 📊 結果 方式 Hit@1 Recall@5 TTFT Cost/query DecisionRAG 0.91 0.91 1.63秒 $0.0013 NaiveRAG 0.72 0.78 1.65秒 $0.0024 今回の検証ではDecisionRAGがNaiveRAGを全てにおいて上回りました。 NaiveRAGより速いとまでは言えません。タイトルの「速い！」はNaiveRAGと同じくらい速いという意味で受け取ってください。 コストの内訳 DecisionRAGはJevが$0.0011で回答が$0.0002です。NaiveRAGはRerankが$0.0020で回答が$",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f"
+    },
+    {
+      "amount_native": 152527.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_73d092c3b42e6be773b2",
+      "component_suggestion": "transfers",
+      "conversion_status": "missing_rate",
+      "currency": "JPY",
+      "event_id": "evt_56e235a682be43366596",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T00:41:19+00:00",
+      "overlap_group_suggestion": "evt_56e235a682be43366596:transfers:a519c27459b0",
+      "review_status": "pending",
+      "snippet": "立すれば、データセンター向けに転用できるRTX 5090や、2028年とされる 次世代のGeForce RTX 6000シリーズ の最上位モデルには、ドライバーなどで利用国の位置を推定する仕組みが投入される可能性もあります。 関連商品 ASUS GeForce RTX 5070 (DUAL-RTX5070-O12G) 国内正規品 ASUS Amazon価格 ¥ 152,527 2026/11/08 更新 Amazon ソース Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims | Tom's Hardware GPU GeForce RTX 5000 GeForce",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
+      "component_confidence": 0.55
     },
     {
       "amount_native": 1300000000000.0,
