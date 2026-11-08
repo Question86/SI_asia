@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T06:23:32+00:00_
+_Generiert: 2026-11-08T06:42:23+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 11 km W of Honmachi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+10 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 11 km W of Honmachi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -82,6 +82,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.5 - 90 km NE of Punta Cana, Dominican Republic** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-08T06:39:09.040+00:00`, fetched `2026-11-08T06:41:52+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-08 06:30:19 UTC 2026-11-08 06:30:19 UTC at epicenter Location 19.205°N 67.852°W Depth 30.42 km (18.90 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も** — Score 8, observation — [Quelle](https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-07T21:13:41+00:00`, fetched `2026-11-08T00:40:22+00:00`
