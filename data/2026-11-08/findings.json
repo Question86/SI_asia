@@ -182,6 +182,29 @@
     "id": "a759a310eae1dd061578"
   },
   {
+    "title": "Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note",
+    "url": "https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-08T10:31:52+00:00",
+    "fetched_at": "2026-11-08T18:29:38+00:00",
+    "summary": "Claude Codeで「Yes, and don't ask again（今後確認しない）」を選ぶと、承認したコマンドがそのままプロジェクト内の.claude/settings.local.jsonに保存されます。コマンドにパスワードやAPIキーが含まれていると、平文のまま残ります。セキュリティ企業Apiiroの調査（11月7日公表）では、公開GitHubリポジトリにある...",
+    "matched_keywords": [
+      "AI Agents",
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4e68a92f71276af5f05b"
+  },
+  {
     "title": "日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.",
     "url": "https://posfie.com/@su_damari/p/xvcxjNy",
     "source": "Hatena Bookmark Hotentry IT",
