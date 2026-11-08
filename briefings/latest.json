@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T05:47:28+00:00",
-  "run_id": "2026-11-08T05:47:28+00:00",
+  "generated_at": "2026-11-08T06:03:29+00:00",
+  "run_id": "2026-11-08T06:03:29+00:00",
   "date": "2026-11-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 8,
     "displayed_findings": 8,
     "high": 0,
@@ -409,29 +409,7 @@
       "id": "b34bc42f677f083eb493"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AWSを利用する上で知っておきたい名前解決の話 2026",
-      "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-07T13:51:49+00:00",
-      "fetched_at": "2026-11-08T05:46:56+00:00",
-      "summary": "JAWS FESTA 2026 in AKITA",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "27ce53456bd6da86166f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
