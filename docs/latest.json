@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T04:25:49+00:00",
-  "run_id": "2026-11-08T04:25:49+00:00",
+  "generated_at": "2026-11-08T04:35:27+00:00",
+  "run_id": "2026-11-08T04:35:27+00:00",
   "date": "2026-11-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 7,
     "displayed_findings": 7,
     "high": 0,
@@ -367,29 +367,7 @@
       "id": "b34bc42f677f083eb493"
     }
   ],
-  "new_findings": [
-    {
-      "title": "生成AI時代のIAMのマニアックな話",
-      "url": "https://speakerdeck.com/takuros/jaws-festa-2026-public",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-07T02:15:16+00:00",
-      "fetched_at": "2026-11-08T04:25:23+00:00",
-      "summary": "JAWS FESTA 2026 in AKITA(2026年11月7日)の登壇資料です。 プログラムには鍵を渡せるのに、なぜLLMには渡してはいけないのか。AIエージェントからAWSを操作するときに、鍵ではなく権限を渡す考え方を、IAMの代理実行とAI専用ロールから解説しました。 関連書籍 …",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0d760fb791de198545b8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
