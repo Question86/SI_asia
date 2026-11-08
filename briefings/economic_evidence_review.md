@@ -1,9 +1,9 @@
 # Economic Evidence Review
 
-Generated: `2026-11-08T22:15:31+00:00`
+Generated: `2026-11-08T22:30:42+00:00`
 FX as of: `None`
 
-- Candidates: **2724**
+- Candidates: **2725**
 - Promoted: **0**
 
 | Candidate | Event | USD | Component | Status |
