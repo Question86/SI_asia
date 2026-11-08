@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T05:33:56+00:00",
+  "generated_at": "2026-11-08T05:47:54+00:00",
   "fx_as_of": null,
-  "candidate_count": 2711,
+  "candidate_count": 2717,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2711
+    "pending": 2717
   },
   "coverage_warning": null,
   "candidates": [
@@ -43460,6 +43460,27 @@
       "source_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
     },
     {
+      "amount_native": 3650.0,
+      "amount_usd": 3650.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_d9215bc53091844153d1",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T05:47:51+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:unknown:f9c63ec6f978",
+      "review_status": "pending",
+      "snippet": "l Resolver（2026年3月GA） 主な目的：DNSのセキュリティと統制 ・拠点やリモート端末のDNSを一か所で管理（PHZも名前解決できる） ・DNSフィルタリングとクエリログ ・DNS over HTTPS（DoH）／DNS over TLS（DoT）で暗号化 料金の目安 月額 内訳（1か月730時間で計算） Global Resolver 約 $3,650 最初の2リージョンで $5.00/時 Inbound Endpoint 約 $183＋クエリ IPアドレス2つで $0.125/時×2 Route 53 Profiles 約 $548 アカウント・リージョンあたり $0.75/時 （VPCとの関連付け100件まで。超えると追加） 名前解決だけなら割高。閉域網があるならInbound Endpointで十分",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 3162.5,
       "amount_usd": 3162.5,
       "attribution_probability": null,
@@ -43731,6 +43752,27 @@
       "snippet": "sic is amazing, and it is appropriate, that’s all that matters.” Before AI, Rhythmus relied on YouTube videos and licensed educational music. A music production company had quoted $629 per song to create 10 original songs. Ananya Bhattacharya AI music-creation app Suno creates songs using lyrics provided to it. Making a rhythm and melody that would work for presc",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    },
+    {
+      "amount_native": 548.0,
+      "amount_usd": 548.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_0e0a6b7d9d49ed50b08a",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T05:47:51+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:unknown:fc0ab2df7844",
+      "review_status": "pending",
+      "snippet": "DNS over HTTPS（DoH）／DNS over TLS（DoT）で暗号化 料金の目安 月額 内訳（1か月730時間で計算） Global Resolver 約 $3,650 最初の2リージョンで $5.00/時 Inbound Endpoint 約 $183＋クエリ IPアドレス2つで $0.125/時×2 Route 53 Profiles 約 $548 アカウント・リージョンあたり $0.75/時 （VPCとの関連付け100件まで。超えると追加） 名前解決だけなら割高。閉域網があるならInbound Endpointで十分 出典：What's New：Global Resolver（2026年3月）／Route 53：Global Resolver とは Route 53 料金 ④ パブリックDNS × リ",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 500.0,
@@ -44151,6 +44193,27 @@
       "snippet": "ト。OpenID Connect と PKCE を使い、Web サイトやプラグインへ実装する手順を説明。商用アプリでの利用枠の連携は、選定されたパートナー向けのパイロット。オープンソースクライアント向けの利用枠認証フローも用意。 ChatGPT の新プランと契約枠の活用 月額 $500 の Pro 500 ChatGPT の Pro プランに月額 $100、$200 のものに加えて $500 のものが追加。Pro プラン内で Ultrafast を使えるのは Pro 500 で、Enterprise も対象。 https://openai.com/index/devday-2026-recap/ Pro 500 は Plus の 25 倍の利用枠と Ultrafast。 https://help.openai.com/e",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://zenn.dev/schroneko/articles/openai-devday-2026"
+    },
+    {
+      "amount_native": 183.0,
+      "amount_usd": 183.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_ac788a12c5065b2ed435",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T05:47:51+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:unknown:0f20a5e159bd",
+      "review_status": "pending",
+      "snippet": "リモート端末のDNSを一か所で管理（PHZも名前解決できる） ・DNSフィルタリングとクエリログ ・DNS over HTTPS（DoH）／DNS over TLS（DoT）で暗号化 料金の目安 月額 内訳（1か月730時間で計算） Global Resolver 約 $3,650 最初の2リージョンで $5.00/時 Inbound Endpoint 約 $183＋クエリ IPアドレス2つで $0.125/時×2 Route 53 Profiles 約 $548 アカウント・リージョンあたり $0.75/時 （VPCとの関連付け100件まで。超えると追加） 名前解決だけなら割高。閉域網があるならInbound Endpointで十分 出典：What's New：Global Resolver（2026年3月）／Rou",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 174.0,
@@ -47618,6 +47681,27 @@
       "source_url": "https://mdpr.jp/news/detail/4862863"
     },
     {
+      "amount_native": 5.0,
+      "amount_usd": 5.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_c3149cf48fb5ce15eb89",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T05:47:51+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:unknown:47e82313161f",
+      "review_status": "pending",
+      "snippet": "GA） 主な目的：DNSのセキュリティと統制 ・拠点やリモート端末のDNSを一か所で管理（PHZも名前解決できる） ・DNSフィルタリングとクエリログ ・DNS over HTTPS（DoH）／DNS over TLS（DoT）で暗号化 料金の目安 月額 内訳（1か月730時間で計算） Global Resolver 約 $3,650 最初の2リージョンで $5.00/時 Inbound Endpoint 約 $183＋クエリ IPアドレス2つで $0.125/時×2 Route 53 Profiles 約 $548 アカウント・リージョンあたり $0.75/時 （VPCとの関連付け100件まで。超えると追加） 名前解決だけなら割高。閉域網があるならInbound Endpointで十分 出典：What's New：Gl",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 4.0,
       "amount_usd": 4.0,
       "attribution_probability": null,
@@ -48857,6 +48941,27 @@
       "source_url": "https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/"
     },
     {
+      "amount_native": 0.75,
+      "amount_usd": 0.75,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_c382f51cf58254b3c5b0",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T05:47:51+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:unknown:d01a12bf0624",
+      "review_status": "pending",
+      "snippet": "DNS over TLS（DoT）で暗号化 料金の目安 月額 内訳（1か月730時間で計算） Global Resolver 約 $3,650 最初の2リージョンで $5.00/時 Inbound Endpoint 約 $183＋クエリ IPアドレス2つで $0.125/時×2 Route 53 Profiles 約 $548 アカウント・リージョンあたり $0.75/時 （VPCとの関連付け100件まで。超えると追加） 名前解決だけなら割高。閉域網があるならInbound Endpointで十分 出典：What's New：Global Resolver（2026年3月）／Route 53：Global Resolver とは Route 53 料金 ④ パブリックDNS × リンクローカルなど 例：VPC Latti",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 0.34,
       "amount_usd": 0.34,
       "attribution_probability": null,
@@ -48981,6 +49086,27 @@
       "snippet": "かりません。 主要な LLM の料金と比べてみると差が分かりやすいです。 モデル インプット (per 1M tokens) アウトプット (per 1M tokens) Jev $0.042 $0 Claude Sonnet 5 $2 $10 Claude Haiku 4.5 $1 $5 GPT-5.6 Terra $2 $12 GPT-5.6 Luna $0.20 $1.20 Claude Sonnet 5 のインプットと比べて約50分の1、アウトプットに至ってはゼロです。分類やスコアリングといった判定タスクを LLM に投げていた場合、Jev に置き換えるだけで API コストが数十分の一になる計算です。 もちろん Jev はテキスト生成ができないので、「判定結果を自然言語で説明してほしい」みたいな用途には使えませ",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/"
+    },
+    {
+      "amount_native": 0.125,
+      "amount_usd": 0.12,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_21fe8ece7935b2fc0c13",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T05:47:51+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:unknown:1f91146fb139",
+      "review_status": "pending",
+      "snippet": "HZも名前解決できる） ・DNSフィルタリングとクエリログ ・DNS over HTTPS（DoH）／DNS over TLS（DoT）で暗号化 料金の目安 月額 内訳（1か月730時間で計算） Global Resolver 約 $3,650 最初の2リージョンで $5.00/時 Inbound Endpoint 約 $183＋クエリ IPアドレス2つで $0.125/時×2 Route 53 Profiles 約 $548 アカウント・リージョンあたり $0.75/時 （VPCとの関連付け100件まで。超えると追加） 名前解決だけなら割高。閉域網があるならInbound Endpointで十分 出典：What's New：Global Resolver（2026年3月）／Route 53：Global Resolver",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 0.1,
