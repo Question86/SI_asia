@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T07:57:20+00:00",
-  "run_id": "2026-11-08T07:57:20+00:00",
+  "generated_at": "2026-11-08T08:06:59+00:00",
+  "run_id": "2026-11-08T08:06:59+00:00",
   "date": "2026-11-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -747,29 +747,7 @@
       "id": "f65b628b477bc03596a6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "リストラします。会社のMacBookは引き続き使えます",
-      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-07T22:20:32+00:00",
-      "fetched_at": "2026-11-08T07:56:48+00:00",
-      "summary": "リストラします。会社のMacBookは引き続き使えます",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bec19caf3a140b89b884"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
