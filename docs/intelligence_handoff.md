@@ -1,28 +1,68 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-08T00:28:05Z_
+_Generated: 2026-11-08T01:11:42Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=3.5.
+Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.
 
 ## Top Dynamics
+
+### NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `25.0`
+- Published: `2026-11-07T21:13:41+00:00` / age_days `0.17`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce
+- Quelle: https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/
+
+### NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-11-08T00:40:56+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +2, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/
+
+### 無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `10.0`
+- Published: `2026-11-07T09:05:57+00:00` / age_days `0.67`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: high terms: 10
+- Quelle: https://gigazine.net/news/20261107-harmony/
 
 ### 桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `3.5`
-- Published: `2026-11-08T00:03:25+00:00` / age_days `0.02`
+- Dynamics score: `6.0`
+- Published: `2026-11-08T00:03:25+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://www.famitsu.com/article/202611/93352
+
+### 無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `6.0`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `141.97`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, aging penalty -8.0 for 142.0d old signal
+- Quelle: https://gigazine.net/news/20261107-harmony/
 
 ### 桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-11-07T09:49:08+00:00` / age_days `0.61`
+- Published: `2026-11-07T09:49:08+00:00` / age_days `0.64`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
