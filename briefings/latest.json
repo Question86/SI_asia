@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T13:30:13+00:00",
-  "run_id": "2026-11-08T13:30:13+00:00",
+  "generated_at": "2026-11-08T13:36:58+00:00",
+  "run_id": "2026-11-08T13:36:58+00:00",
   "date": "2026-11-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1317,29 +1317,7 @@
       "id": "f65b628b477bc03596a6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Macのセキュリティの仕組み - 標準機能と安全に使うための対策｜npaka",
-      "url": "https://note.com/npaka/n/nae09bd9ce37d",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-08T03:30:34+00:00",
-      "fetched_at": "2026-11-08T13:29:41+00:00",
-      "summary": "1. はじめにAppleの「Mac」には、ウイルスやマルウェア、不正アクセス、情報漏洩などから保護するためのセキュリティ機能が標準搭載されています。 今回は、Macの主なセキュリティ機能とその仕組み、サイバー攻撃に対する強さ・弱さ、安全に利用するための注意点を紹介します。 2. Macのセキュリティの全体像Macには、ハ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "395fd3a3375acb33940d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
