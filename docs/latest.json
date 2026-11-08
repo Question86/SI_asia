@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T23:00:18+00:00",
-  "run_id": "2026-11-08T23:00:18+00:00",
+  "generated_at": "2026-11-08T23:19:32+00:00",
+  "run_id": "2026-11-08T23:19:32+00:00",
   "date": "2026-11-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 31
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 2,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
     "medium": 7,
-    "observe": 22,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -576,6 +576,27 @@
         "id": "3a9837a7b9396bdaa7d6"
       },
       {
+        "title": "人生タイムライン",
+        "url": "https://ltimeline.com/ja/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-08T15:27:37+00:00",
+        "fetched_at": "2026-11-08T23:19:01+00:00",
+        "summary": "あなた 生年月日を入れるだけで描けます。ほかの項目は任意です。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "16ced26186710b6284c8"
+      },
+      {
         "title": "警告:ジャンプルーキーはそのうちAI漫画で埋まる",
         "url": "https://anond.hatelabo.jp/20261108174809",
         "source": "Hatena Bookmark Hotentry IT",
@@ -595,6 +616,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "050e65ca249aca09a99d"
+      },
+      {
+        "title": "「エントロピーを下げれる奴が偉い」、｜ラクビル株式会社",
+        "url": "https://note.com/rakbil/n/n16a0b62cd206",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-08T08:17:47+00:00",
+        "fetched_at": "2026-11-08T23:19:01+00:00",
+        "summary": "という世の中にもうすぐなると思う、という話をします。 ラクビル株式会社取締役CTOの塩塚です。 昨今のAI発展の流れの中で、人間がどういうことをやっていくべきかということについて、自分の中で現時点である程度の結論が出たので書き記したいと思います。 エントロピー増大の法則、またの名を熱力学第二法則と言いま...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b035601c6b5f1289d3bc"
       },
       {
         "title": "個人情報“手放す”企業続々 「持たないことが抜本的な解決に」 漏えいなくても運用変更も【#みんなのギモン】（2026年11月8日掲載）｜日テレNEWS NNN",
@@ -1375,6 +1417,27 @@
       "id": "3a9837a7b9396bdaa7d6"
     },
     {
+      "title": "人生タイムライン",
+      "url": "https://ltimeline.com/ja/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T15:27:37+00:00",
+      "fetched_at": "2026-11-08T23:19:01+00:00",
+      "summary": "あなた 生年月日を入れるだけで描けます。ほかの項目は任意です。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "16ced26186710b6284c8"
+    },
+    {
       "title": "警告:ジャンプルーキーはそのうちAI漫画で埋まる",
       "url": "https://anond.hatelabo.jp/20261108174809",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1394,6 +1457,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "050e65ca249aca09a99d"
+    },
+    {
+      "title": "「エントロピーを下げれる奴が偉い」、｜ラクビル株式会社",
+      "url": "https://note.com/rakbil/n/n16a0b62cd206",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T08:17:47+00:00",
+      "fetched_at": "2026-11-08T23:19:01+00:00",
+      "summary": "という世の中にもうすぐなると思う、という話をします。 ラクビル株式会社取締役CTOの塩塚です。 昨今のAI発展の流れの中で、人間がどういうことをやっていくべきかということについて、自分の中で現時点である程度の結論が出たので書き記したいと思います。 エントロピー増大の法則、またの名を熱力学第二法則と言いま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b035601c6b5f1289d3bc"
     },
     {
       "title": "個人情報“手放す”企業続々 「持たないことが抜本的な解決に」 漏えいなくても運用変更も【#みんなのギモン】（2026年11月8日掲載）｜日テレNEWS NNN",
@@ -1627,7 +1711,50 @@
       "id": "f65b628b477bc03596a6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "人生タイムライン",
+      "url": "https://ltimeline.com/ja/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T15:27:37+00:00",
+      "fetched_at": "2026-11-08T23:19:01+00:00",
+      "summary": "あなた 生年月日を入れるだけで描けます。ほかの項目は任意です。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "16ced26186710b6284c8"
+    },
+    {
+      "title": "「エントロピーを下げれる奴が偉い」、｜ラクビル株式会社",
+      "url": "https://note.com/rakbil/n/n16a0b62cd206",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T08:17:47+00:00",
+      "fetched_at": "2026-11-08T23:19:01+00:00",
+      "summary": "という世の中にもうすぐなると思う、という話をします。 ラクビル株式会社取締役CTOの塩塚です。 昨今のAI発展の流れの中で、人間がどういうことをやっていくべきかということについて、自分の中で現時点である程度の結論が出たので書き記したいと思います。 エントロピー増大の法則、またの名を熱力学第二法則と言いま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b035601c6b5f1289d3bc"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
