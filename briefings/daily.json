@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T12:32:44+00:00",
-  "today_file_total": 21,
+  "generated_at": "2026-11-08T12:47:30+00:00",
+  "today_file_total": 22,
   "current_clusters": [
     {
       "key": "github_repo:vercel-labs/agent-browser",
@@ -28,8 +28,8 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "title:mcp-cli-hiraoku-dev",
-      "title": "MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev",
+      "key": "domain:posfie.com",
+      "title": "日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -37,7 +37,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://hiraoku.dev/blog/mcp-cli-cloud/"
+        "https://posfie.com/@su_damari/p/xvcxjNy"
       ],
       "finding_count": 1,
       "max_score": 13,
@@ -47,9 +47,7 @@
       "momentum_status": "increasing",
       "network_score": 18.1,
       "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
+      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
@@ -123,6 +121,31 @@
       "network_score": 17.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:mcp-cli-hiraoku-dev",
+      "title": "MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://hiraoku.dev/blog/mcp-cli-cloud/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
@@ -440,29 +463,6 @@
       ],
       "urls": [
         "https://anond.hatelabo.jp/20261107090533"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:hayasinonakanozou.hatenablog.com",
-      "title": "ホテル川久に宿泊し、バブルの夢を偲ぶ - 生存記録",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931"
       ],
       "finding_count": 1,
       "max_score": 5,

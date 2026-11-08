@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T12:32:42+00:00_
+_Generiert: 2026-11-08T12:47:26+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
+22 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -100,6 +100,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.** — Score 13, observation — [Quelle](https://posfie.com/@su_damari/p/xvcxjNy)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-08T10:45:23+00:00`, fetched `2026-11-08T12:46:57+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Ole Lehmann @itsolelehmann we have a winner for the most absurd AI startup ever this Peter Thiel backed company uses AI robots to stab fish in the brain so they taste better and last up to 3x longer it's called Shinkei and it modernizes a centuries-old Japanese technique dozens of Michelin-star r...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev** — Score 13, observation — [Quelle](https://hiraoku.dev/blog/mcp-cli-cloud/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-08T02:33:33+00:00`, fetched `2026-11-08T12:32:12+00:00`
@@ -135,15 +144,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
   - Kurz: 【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理：AIエージェントの「暴走」を防ぐ6つの基本原則も AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も** — Score 8, observation — [Quelle](https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-07T21:13:41+00:00`, fetched `2026-11-08T00:40:22+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AI GPUの中国への流出が問題になっているNVIDIAが、東南アジアでNVIDIA Cloud Partner（NCP）の認定を求める顧客に、GPUの位置を記録できるFleet Intelligenceへの登録を義務付けたとのことです。NCPになれば最新のAI GPUを優先して回してもらえるため、任意のはずの登録が事実上の条件になります。 NVIDIAが東南アジア...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **meta/astryx** — Score 8, opportunity — [Quelle](https://github.com/meta/astryx)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

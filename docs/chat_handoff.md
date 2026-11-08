@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-08T12:32:42+00:00_
+_Generated: 2026-11-08T12:47:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `22`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-08T12:32:42+00:00_
 - url: https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl
 - summary: A local LLM translates pages on your device. Free, no account. Translate a whole page, selected text, or text you type. You can replace the page with the translation, or read the original and the translation side by side. No ads or analytics. Your page text i…
 
-### 5. MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev
+### 5. 日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-11-08T10:45:23+00:00`
+- url: https://posfie.com/@su_damari/p/xvcxjNy
+- summary: Ole Lehmann @itsolelehmann we have a winner for the most absurd AI startup ever this Peter Thiel backed company uses AI robots to stab fish in the brain so they taste better and last up to 3x longer it's called Shinkei and it modernizes a centuries-old Japane…
+
+### 6. MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev
 - source: Hatena Bookmark Hotentry IT
 - score: `13`
 - published: `2026-11-08T02:33:33+00:00`
 - url: https://hiraoku.dev/blog/mcp-cli-cloud/
 - summary: MCPAICLIAgentCloudMCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更なぜMCPへの批判が生まれ、CLIが支持されたのか。2026年7月28日版のステートレス化と、ツールの遅延読み込み・コード実行から、MCPの再評価を支えた変化を解説します。 Tech·Hiraoku·2026年11月7日·43 分で読めます いま、MCPはAI...
 
-### 6. M 4.7 - 46 km NW of Huara, Chile
+### 7. M 4.7 - 46 km NW of Huara, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-11-08T12:11:37.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf
 - summary: Time 2026-11-08 11:58:32 UTC 2026-11-08 11:58:32 UTC at epicenter Location 19.681°S 70.060°W Depth 68.79 km (42.74 mi)
 
-### 7. M 4.5 - 90 km NE of Punta Cana, Dominican Republic
+### 8. M 4.5 - 90 km NE of Punta Cana, Dominican Republic
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-08T06:39:09.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc
 - summary: Time 2026-11-08 06:30:19 UTC 2026-11-08 06:30:19 UTC at epicenter Location 19.205°N 67.852°W Depth 30.42 km (18.90 mi)
-
-### 8. 【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-11-08T06:14:17+00:00`
-- url: https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html
-- summary: 【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理：AIエージェントの「暴走」を防ぐ6つの基本原則も AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパ...
 
 END OF DOCUMENT
