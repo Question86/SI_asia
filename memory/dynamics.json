@@ -1,13 +1,12 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-08T01:11:42Z",
+  "generated_at": "2026-11-08T01:22:16Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 6,
     "bands": {
-      "krass": 1,
-      "strong": 1,
+      "strong": 2,
       "quiet": 4
     },
     "bands_after_gate_recheck": {
@@ -46,25 +45,25 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T00:40:56+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
     },
@@ -73,7 +72,7 @@
       "url": "https://gigazine.net/news/20261107-harmony/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:05:57+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "general"
       ],
@@ -148,7 +147,7 @@
       "url": "https://www.famitsu.com/article/202611/93352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:49:08+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
