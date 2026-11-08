@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-08T04:01:10+00:00_
+_Generated: 2026-11-08T04:25:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-11-08T04:01:10+00:00_
 - url: https://gigazine.net/news/20261107-harmony/
 - summary: 友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソ...
 
-### 6. 「燃やす」ってなに？
+### 6. 生成AI時代のIAMのマニアックな話
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-11-07T00:14:43+00:00`
-- url: https://anond.hatelabo.jp/20261107090533
-- summary: 表現規制の論争で出てくる「燃やす」って言葉がよくわかんないんだよな よくわからないというか、意図的にぼかされてる 「相手が燃やしてきたからこっちも燃やそう」とか言いますけど、具体的にどんな被害を被ってどんな被害を与えるつもりなのか、よくわからない 最近の件で言うと、レジスタ！が燃やさてたと言うけど、...
+- published: `2026-11-07T02:15:16+00:00`
+- url: https://speakerdeck.com/takuros/jaws-festa-2026-public
+- summary: JAWS FESTA 2026 in AKITA(2026年11月7日)の登壇資料です。 プログラムには鍵を渡せるのに、なぜLLMには渡してはいけないのか。AIエージェントからAWSを操作するときに、鍵ではなく権限を渡す考え方を、IAMの代理実行とAI専用ロールから解説しました。 関連書籍 …
 
 END OF DOCUMENT
