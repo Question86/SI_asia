@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-08T11:59:30+00:00",
+  "generated_at": "2026-11-08T12:12:37+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 4,
-    "observe": 14
+    "observe": 15
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "M 4.7 - 46 km NW of Huara, Chile",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-08T12:11:37.040+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf",
+      "summary": "Time 2026-11-08 11:58:32 UTC 2026-11-08 11:58:32 UTC at epicenter Location 19.681°S 70.060°W Depth 68.79 km (42.74 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 4.5 - 90 km NE of Punta Cana, Dominican Republic",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 8,
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "summary": "AI GPUの中国への流出が問題になっているNVIDIAが、東南アジアでNVIDIA Cloud Partner（NCP）の認定を求める顧客に、GPUの位置を記録できるFleet Intelligenceへの登録を義務付けたとのことです。NCPになれば最新のAI GPUを優先して回してもらえるため、任意のはずの登録が事実上の条件になります。 NVIDIAが東南アジア...",
-      "section": "observe"
-    },
-    {
-      "title": "meta/astryx",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 8,
-      "url": "https://github.com/meta/astryx",
-      "summary": "An open source design system that's fully customizable and agent ready http://astryx.atmeta.com Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta ·…",
       "section": "observe"
     }
   ],
