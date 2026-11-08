@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T18:00:37+00:00",
+  "generated_at": "2026-11-08T18:30:54+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -4015,7 +4015,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_286c3df7e2f2f93926a3",
@@ -21066,6 +21066,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d0b27ee0b3e4627f11f1",
+      "title": "Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d0c97198986b9c98fb2b",

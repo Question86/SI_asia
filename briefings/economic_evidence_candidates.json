@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T18:00:35+00:00",
+  "generated_at": "2026-11-08T18:30:54+00:00",
   "candidate_count": 2722,
   "candidates": [
     {
@@ -36263,22 +36263,23 @@
       "source_url": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
     },
     {
-      "candidate_id": "cand_352ce4c3fab050ed461e",
-      "event_id": "evt_56e235a682be43366596",
-      "source_url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
-      "observed_at": "2026-11-08T18:00:30+00:00",
-      "currency": "JPY",
       "amount_native": 191870.0,
       "amount_usd": null,
-      "conversion_status": "pending_fx",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_56e235a682be43366596:unclassified",
       "attribution_probability": null,
-      "snippet": "ンター向けに転用できるRTX 5090や、2028年とされる 次世代のGeForce RTX 6000シリーズ の最上位モデルには、ドライバーなどで利用国の位置を推定する仕組みが投入される可能性もあります。 関連商品 MSI GeForce RTX 5070 12G GAMING TRIO OC グラフィックスボード VD9068 MSI Amazon価格 ¥ 191,870 2026/11/09 更新 Amazon 楽天市場 Yahooショッピング ソース Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims | Tom's Hardware GPU GeForce",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.55,
-      "review_status": "pending"
+      "candidate_id": "cand_352ce4c3fab050ed461e",
+      "component_confidence": 0.55,
+      "component_suggestion": "transfers",
+      "conversion_status": "missing_rate",
+      "currency": "JPY",
+      "event_id": "evt_56e235a682be43366596",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T18:00:30+00:00",
+      "overlap_group_suggestion": "evt_56e235a682be43366596:transfers:7647505f30dc",
+      "review_status": "pending",
+      "snippet": "ンター向けに転用できるRTX 5090や、2028年とされる 次世代のGeForce RTX 6000シリーズ の最上位モデルには、ドライバーなどで利用国の位置を推定する仕組みが投入される可能性もあります。 関連商品 MSI GeForce RTX 5070 12G GAMING TRIO OC グラフィックスボード VD9068 MSI Amazon価格 ¥ 191,870 2026/11/09 更新 Amazon 楽天市場 Yahooショッピング ソース Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims | Tom's Hardware GPU GeForce",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/"
     },
     {
       "amount_native": 152527.0,
