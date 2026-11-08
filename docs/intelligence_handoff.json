@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-08T05:38:24Z",
+  "generated_at": "2026-11-08T05:52:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T21:13:41+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T00:40:56+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -67,7 +67,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T02:39:56.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -92,7 +92,7 @@
       "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T01:32:09+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -119,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 64.19,
+      "age_days": 64.2,
       "topics": [
         "general"
       ],
@@ -144,7 +144,7 @@
       "url": "https://anond.hatelabo.jp/20261107090533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T02:32:39+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -164,11 +164,37 @@
       "summary": ""
     },
     {
+      "title": "AWSを利用する上で知っておきたい名前解決の話 2026",
+      "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 142.16,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.39,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.45,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.45",
+        "aging penalty -8.0 for 142.2d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Sakutto - Local AI translation - Chrome Web Store",
       "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T15:32:29+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -194,7 +220,7 @@
       "url": "https://gigazine.net/news/20261107-harmony/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:05:57+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "general"
       ],
@@ -218,7 +244,7 @@
       "url": "https://anond.hatelabo.jp/20261107090533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:14:43+00:00",
-      "age_days": 1.22,
+      "age_days": 1.23,
       "topics": [
         "general"
       ],
@@ -242,7 +268,7 @@
       "url": "https://www.famitsu.com/article/202611/93352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T00:03:25+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -268,7 +294,7 @@
       "url": "https://gigazine.net/news/20261107-harmony/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.15,
+      "age_days": 142.16,
       "topics": [
         "general"
       ],
@@ -287,33 +313,6 @@
         "aging penalty -8.0 for 142.2d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "生成AI時代のIAMのマニアックな話",
-      "url": "https://speakerdeck.com/takuros/jaws-festa-2026-public",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.15,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 142.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -326,8 +325,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 3,
-      "quiet": 6
+      "watch": 4,
+      "quiet": 5
     }
   }
 }
