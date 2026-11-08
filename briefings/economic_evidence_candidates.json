@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T00:41:20+00:00",
+  "generated_at": "2026-11-08T00:55:47+00:00",
   "candidate_count": 2711,
   "candidates": [
     {
@@ -36200,22 +36200,23 @@
       "source_url": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
     },
     {
-      "candidate_id": "cand_73d092c3b42e6be773b2",
-      "event_id": "evt_56e235a682be43366596",
-      "source_url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
-      "observed_at": "2026-11-08T00:41:19+00:00",
-      "currency": "JPY",
       "amount_native": 152527.0,
       "amount_usd": null,
-      "conversion_status": "pending_fx",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_56e235a682be43366596:unclassified",
       "attribution_probability": null,
-      "snippet": "立すれば、データセンター向けに転用できるRTX 5090や、2028年とされる 次世代のGeForce RTX 6000シリーズ の最上位モデルには、ドライバーなどで利用国の位置を推定する仕組みが投入される可能性もあります。 関連商品 ASUS GeForce RTX 5070 (DUAL-RTX5070-O12G) 国内正規品 ASUS Amazon価格 ¥ 152,527 2026/11/08 更新 Amazon ソース Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims | Tom's Hardware GPU GeForce RTX 5000 GeForce",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.55,
-      "review_status": "pending"
+      "candidate_id": "cand_73d092c3b42e6be773b2",
+      "component_confidence": 0.55,
+      "component_suggestion": "transfers",
+      "conversion_status": "missing_rate",
+      "currency": "JPY",
+      "event_id": "evt_56e235a682be43366596",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T00:41:19+00:00",
+      "overlap_group_suggestion": "evt_56e235a682be43366596:transfers:a519c27459b0",
+      "review_status": "pending",
+      "snippet": "立すれば、データセンター向けに転用できるRTX 5090や、2028年とされる 次世代のGeForce RTX 6000シリーズ の最上位モデルには、ドライバーなどで利用国の位置を推定する仕組みが投入される可能性もあります。 関連商品 ASUS GeForce RTX 5070 (DUAL-RTX5070-O12G) 国内正規品 ASUS Amazon価格 ¥ 152,527 2026/11/08 更新 Amazon ソース Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims | Tom's Hardware GPU GeForce RTX 5000 GeForce",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/"
     },
     {
       "amount_native": 120000.0,
