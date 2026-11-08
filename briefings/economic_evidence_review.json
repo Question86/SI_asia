@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T22:02:23+00:00",
+  "generated_at": "2026-11-08T22:15:31+00:00",
   "fx_as_of": null,
-  "candidate_count": 2723,
+  "candidate_count": 2724,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2723
+    "pending": 2724
   },
   "coverage_warning": null,
   "candidates": [
@@ -35961,6 +35961,27 @@
       "snippet": "projects jeffersonlam 356 22k Writing Fast Ruby sferik 630 63k The Illustrated Guide to Node.js - THAT Conference 2024 reverentgeek 1 600 Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.4k Bioeconomy Workshop: Dr. Julius Ecuru, Opportunities for a Bioeconomy in West Africa akademiya2063 PRO 1 440 Optimizing for Happi",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_484f76dbfde858124697",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T22:15:28+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:43aec04c4882",
+      "review_status": "pending",
+      "snippet": "lls Apart) techseoconnect PRO 0 520 Refactoring Trust on Your Teams (GOTO; Chicago 2020) rmw 35 3.9k Music & Morning Musume bryan 48 7.5k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.4k Fireside Chat paigeccino 43 4.1k Transcript AWSを利用する上で知っておきたい 名前解決の話 2026 五味なぎさ（X：@nagisa_53） #jawsug #jawsfesta2026 自己紹介 ・名前：五味",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 230000.0,
