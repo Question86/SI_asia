@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T06:03:29+00:00_
+_Generiert: 2026-11-08T06:23:32+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 11 km W of Honmachi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+9 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 11 km W of Honmachi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-11-08T06:03:29+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-30`
   - Kurz: Known exploited vulnerability. Added 2026-10-30. Due 2026-11-02. Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576162)
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, No people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576162)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, No people affected in 100km.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:38.081km) in Japan 07/11/2026 16:04 UTC, 630 thousand in MMI V.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576118)
   - Quelle: GDACS
   - Zeit: ``
