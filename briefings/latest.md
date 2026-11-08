@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T07:42:26+00:00_
+_Generiert: 2026-11-08T07:57:20+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+14 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open source design system that's fully customizable and agent ready http://astryx.atmeta.com Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contributing · Discord Overview Astryx is an open source design system that grew inside Meta over the…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **リストラします。会社のMacBookは引き続き使えます** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-07T22:20:32+00:00`, fetched `2026-11-08T07:56:48+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: リストラします。会社のMacBookは引き続き使えます
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AWSを利用する上で知っておきたい名前解決の話 2026** — Score 5, observation — [Quelle](https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-07T13:51:49+00:00`, fetched `2026-11-08T05:46:56+00:00`
@@ -126,15 +135,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: JAWS FESTA 2026 in AKITA
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com** — Score 5, observation — [Quelle](https://www.famitsu.com/article/202611/93352)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-07T09:49:08+00:00`, fetched `2026-11-08T00:02:34+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: グラフィック方面での生成AIの活用については、「未だに信用を得られていない」し、「どこかへの搾取になってはいけない」。また、「自分たちで考えたほうがいまのところはよいものができる」と考えているという。 ただ、ゲーム業界全般に視野を広げると、「いまのゲームを作るのは大変すぎる」とし、「何百万本も売れて...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -146,8 +146,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5c8d27e490>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-08T07:42:26+00:00",
-  "run_id": "2026-11-08T07:42:26+00:00",
+  "generated_at": "2026-11-08T07:57:20+00:00",
+  "run_id": "2026-11-08T07:57:20+00:00",
   "date": "2026-11-08",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 13
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 1,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 3,
-    "observe": 10,
-    "source_errors": 2
+    "observe": 11,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -218,6 +218,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3a9837a7b9396bdaa7d6"
+      },
+      {
+        "title": "リストラします。会社のMacBookは引き続き使えます",
+        "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-07T22:20:32+00:00",
+        "fetched_at": "2026-11-08T07:56:48+00:00",
+        "summary": "リストラします。会社のMacBookは引き続き使えます",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bec19caf3a140b89b884"
       },
       {
         "title": "AWSを利用する上で知っておきたい名前解決の話 2026",
@@ -558,6 +579,27 @@
       "id": "3a9837a7b9396bdaa7d6"
     },
     {
+      "title": "リストラします。会社のMacBookは引き続き使えます",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-07T22:20:32+00:00",
+      "fetched_at": "2026-11-08T07:56:48+00:00",
+      "summary": "リストラします。会社のMacBookは引き続き使えます",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bec19caf3a140b89b884"
+    },
+    {
       "title": "AWSを利用する上で知っておきたい名前解決の話 2026",
       "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
       "source": "Hatena Bookmark Hotentry IT",
@@ -705,21 +747,30 @@
       "id": "f65b628b477bc03596a6"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "リストラします。会社のMacBookは引き続き使えます",
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
-    },
-    {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5c8d27e490>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+      "published_at": "2026-11-07T22:20:32+00:00",
+      "fetched_at": "2026-11-08T07:56:48+00:00",
+      "summary": "リストラします。会社のMacBookは引き続き使えます",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bec19caf3a140b89b884"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
