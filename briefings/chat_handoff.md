@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-08T11:50:37+00:00_
+_Generated: 2026-11-08T11:59:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-08T11:50:37+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc
 - summary: Time 2026-11-08 06:30:19 UTC 2026-11-08 06:30:19 UTC at epicenter Location 19.205°N 67.852°W Depth 30.42 km (18.90 mi)
 
-### 6. NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も
+### 6. 【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-11-08T06:14:17+00:00`
+- url: https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html
+- summary: 【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理：AIエージェントの「暴走」を防ぐ6つの基本原則も AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパ...
+
+### 7. NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も
 - source: Hatena Bookmark Hotentry IT
 - score: `8`
 - published: `2026-11-07T21:13:41+00:00`
 - url: https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/
 - summary: AI GPUの中国への流出が問題になっているNVIDIAが、東南アジアでNVIDIA Cloud Partner（NCP）の認定を求める顧客に、GPUの位置を記録できるFleet Intelligenceへの登録を義務付けたとのことです。NCPになれば最新のAI GPUを優先して回してもらえるため、任意のはずの登録が事実上の条件になります。 NVIDIAが東南アジア...
 
-### 7. meta/astryx
+### 8. meta/astryx
 - source: GitHub Trending RSS All Languages Daily
 - score: `8`
 - published: `None`
 - url: https://github.com/meta/astryx
 - summary: An open source design system that's fully customizable and agent ready http://astryx.atmeta.com Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta ·…
-
-### 8. 警告:ジャンプルーキーはそのうちAI漫画で埋まる
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-11-08T08:51:31+00:00`
-- url: https://anond.hatelabo.jp/20261108174809
-- summary: ジャンプ＋ならともかく、ジャンプルーキーを読んでいるのはよほどの漫画好き、もしくは漫画家志望者だろう。 ジャンプルーキーは投稿に制限や審査がほぼなく、下手だろうが未完成だろうが好きに投稿できる。 はっきり言えば玉石石石石石…混淆なのだが、その中からルーキー賞などを経て、ジャンプ＋の読み切りなどに頭角...
 
 END OF DOCUMENT

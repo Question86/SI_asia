@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-08T11:50:37+00:00",
+  "generated_at": "2026-11-08T11:59:30+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 1,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 4,
-    "observe": 13
+    "observe": 14
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T06:14:17+00:00",
+      "relevance_score": 8,
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+      "summary": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理：AIエージェントの「暴走」を防ぐ6つの基本原則も AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパ...",
+      "section": "observe"
+    },
+    {
       "title": "NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 8,
       "url": "https://github.com/meta/astryx",
       "summary": "An open source design system that's fully customizable and agent ready http://astryx.atmeta.com Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta ·…",
-      "section": "observe"
-    },
-    {
-      "title": "警告:ジャンプルーキーはそのうちAI漫画で埋まる",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-08T08:51:31+00:00",
-      "relevance_score": 5,
-      "url": "https://anond.hatelabo.jp/20261108174809",
-      "summary": "ジャンプ＋ならともかく、ジャンプルーキーを読んでいるのはよほどの漫画好き、もしくは漫画家志望者だろう。 ジャンプルーキーは投稿に制限や審査がほぼなく、下手だろうが未完成だろうが好きに投稿できる。 はっきり言えば玉石石石石石…混淆なのだが、その中からルーキー賞などを経て、ジャンプ＋の読み切りなどに頭角...",
       "section": "observe"
     }
   ],
