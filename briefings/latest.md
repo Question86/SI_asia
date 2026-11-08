@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T14:57:10+00:00_
+_Generiert: 2026-11-08T15:06:42+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
+24 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity). 4 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -173,3 +173,10 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_japan_hot` (rss): HTTPSConnectionPool(host='trends.google.co.jp', port=443): Read timed out. (read timeout=8)
+- `google_trends_korea_hot` (rss): HTTPSConnectionPool(host='trends.google.co.kr', port=443): Read timed out. (read timeout=8)
+- `google_trends_taiwan_hot` (rss): HTTPSConnectionPool(host='trends.google.com.tw', port=443): Read timed out. (read timeout=8)
+- `google_trends_thailand_hot` (rss): HTTPSConnectionPool(host='trends.google.co.th', port=443): Read timed out. (read timeout=8)
