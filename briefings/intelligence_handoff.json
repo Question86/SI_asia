@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-08T12:38:02Z",
+  "generated_at": "2026-11-08T12:52:21Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T21:13:41+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://github.com/meta/astryx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:19:17+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [],
       "dynamics_score": 25.0,
       "raw_band": "strong",
@@ -64,7 +64,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:18:49+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -93,7 +93,7 @@
       "url": "https://github.com/meta/astryx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:18:49+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -121,7 +121,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:19:17+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -148,7 +148,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T00:40:56+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -175,7 +175,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T09:52:58.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -200,7 +200,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T02:39:56.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -225,7 +225,7 @@
       "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T01:32:09+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -248,27 +248,29 @@
       "summary": ""
     },
     {
-      "title": "MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev",
-      "url": "https://hiraoku.dev/blog/mcp-cli-cloud/",
+      "title": "日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.",
+      "url": "https://posfie.com/@su_damari/p/xvcxjNy",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-08T12:32:44+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-09-20T09:40:46+00:00",
+      "age_days": 49.13,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 17.0,
+      "dynamics_score": 18.75,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
+      "momentum_delta": 3,
+      "baseline_z_hint": 10.63,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
+        "baseline z_hint 10.63",
         "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 49.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -278,7 +280,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T11:59:33+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -302,7 +304,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T06:42:25+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
