@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T23:19:35+00:00",
+  "generated_at": "2026-11-08T23:27:04+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 31,
-    "clusters": 28,
+    "findings": 32,
+    "clusters": 29,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -146,20 +146,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.97,
+      "network_score": 14.94,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.4,
-      "ranking_score": 14.97,
+      "ranking_score": 14.94,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.57,
+      "baseline_bonus": 0.54,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -329,8 +329,8 @@
       "first_seen_at": "2026-08-29T16:09:35+00:00"
     },
     {
-      "key": "domain:note.com",
-      "title": "「エントロピーを下げれる奴が偉い」、｜ラクビル株式会社",
+      "key": "title:iphone-macos-henge",
+      "title": "iPhoneでmacOSが動くエミュレーター「Henge」公開！ - すまほん!!",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -338,34 +338,33 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://note.com/rakbil/n/n16a0b62cd206",
-        "https://note.com/npaka/n/nae09bd9ce37d"
+        "https://smhn.info/202611-henge-macos-emulator-iphone-ipad-release"
       ],
-      "finding_count": 2,
-      "max_score": 5,
-      "credibility_total": 2.1,
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 10.97,
+      "network_score": 11.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.2,
-      "ranking_score": 10.97,
+      "raw_network_score": 12.1,
+      "ranking_score": 11.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
-      "baseline_bonus": 1.97,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-08-31T18:43:10+00:00"
+      "first_seen_at": "2026-11-08T23:27:04+00:00"
     },
     {
       "key": "earthquake:m 4.7 - southwest indian ridge:4.7",
@@ -602,44 +601,6 @@
       "first_seen_at": "2026-11-08T07:19:17+00:00"
     },
     {
-      "key": "domain:ltimeline.com",
-      "title": "人生タイムライン",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://ltimeline.com/ja/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-08T23:19:35+00:00"
-    },
-    {
       "key": "earthquake:central mid-atlantic ridge:4.8",
       "title": "M 4.8 - central Mid-Atlantic Ridge",
       "sources": [
@@ -722,6 +683,45 @@
       "first_seen_at": "2026-11-08T06:42:25+00:00"
     },
     {
+      "key": "domain:note.com",
+      "title": "「エントロピーを下げれる奴が偉い」、｜ラクビル株式会社",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://note.com/rakbil/n/n16a0b62cd206",
+        "https://note.com/npaka/n/nae09bd9ce37d"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.24,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.2,
+      "ranking_score": 7.24,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.74,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-31T18:43:10+00:00"
+    },
+    {
       "key": "domain:speakerdeck.com",
       "title": "AWSを利用する上で知っておきたい名前解決の話 2026",
       "sources": [
@@ -759,6 +759,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "domain:ltimeline.com",
+      "title": "人生タイムライン",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://ltimeline.com/ja/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-08T23:19:35+00:00"
     },
     {
       "key": "url:https://anond.hatelabo.jp/20261108174809",
@@ -1105,7 +1143,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-08T23:19:36Z",
+    "generated_at": "2026-11-08T23:27:05Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
