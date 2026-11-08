@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-08T05:21:43Z_
+_Generated: 2026-11-08T05:38:24Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-11-07T21:13:41+00:00` / age_days `0.34`
+- Published: `2026-11-07T21:13:41+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-08T00:40:56+00:00` / age_days `0.19`
+- Published: `2026-11-08T00:40:56+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-08T02:39:56.040+00:00` / age_days `0.11`
+- Published: `2026-11-08T02:39:56.040+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-11-08T01:32:09+00:00` / age_days `0.16`
+- Published: `2026-11-08T01:32:09+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, early terms: local, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.5`
-- Published: `2026-09-05T01:09:44+00:00` / age_days `64.17`
+- Published: `2026-09-05T01:09:44+00:00` / age_days `64.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 64.2d old signal
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-11-08T02:32:39+00:00` / age_days `0.12`
+- Published: `2026-11-08T02:32:39+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-11-07T15:32:29+00:00` / age_days `0.58`
+- Published: `2026-11-07T15:32:29+00:00` / age_days `0.59`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-11-07T09:05:57+00:00` / age_days `0.84`
+- Published: `2026-11-07T09:05:57+00:00` / age_days `0.86`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-11-07T00:14:43+00:00` / age_days `1.21`
+- Published: `2026-11-07T00:14:43+00:00` / age_days `1.22`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-11-08T00:03:25+00:00` / age_days `0.22`
+- Published: `2026-11-08T00:03:25+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,20 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `142.14`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `142.15`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 142.1d old signal
+- Warum: momentum delta +3, aging penalty -8.0 for 142.2d old signal
 - Quelle: https://gigazine.net/news/20261107-harmony/
 
 ### 生成AI時代のIAMのマニアックな話
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `142.14`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `142.15`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 142.1d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 142.2d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://speakerdeck.com/takuros/jaws-festa-2026-public
 
 END OF DOCUMENT
