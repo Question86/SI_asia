@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T12:33:17+00:00",
+  "generated_at": "2026-11-08T12:48:02+00:00",
   "fx_as_of": null,
-  "candidate_count": 2720,
+  "candidate_count": 2721,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2720
+    "pending": 2721
   },
   "coverage_warning": null,
   "candidates": [
@@ -41736,6 +41736,27 @@
       "snippet": "PSA, Granite Asia launch US$50M fund to scale supply-chain innovation | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit Profile",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://e27.co/psa-granite-asia-launch-us50m-fund-to-scale-supply-chain-innovation-20261001/"
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_9e56fa25b706f061d76f",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5dea9ef673840adb6350",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T12:47:51+00:00",
+      "overlap_group_suggestion": "evt_5dea9ef673840adb6350:unknown:de328c800963",
+      "review_status": "pending",
+      "snippet": "った。 delian @zebulgar My lightly redacted Series A memo for Shinkei (10/28/2024): Hey team, Planning to lead a Series A with a [redacted] check of a [redacted] round into Shinkei @ $50m post. Shinkei is building a fish processor, distributor, and end retail brand, enabled by their in-house robotic equipment + software. In mass processed fish today, the fish are k",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://posfie.com/@su_damari/p/xvcxjNy",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 25000000.0,
