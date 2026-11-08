@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-08T09:11:05Z",
+  "generated_at": "2026-11-08T10:10:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 27,
+    "dynamics": 31,
     "bands": {
       "extreme": 1,
       "krass": 1,
-      "strong": 5,
-      "watch": 7,
-      "quiet": 13
+      "strong": 6,
+      "watch": 9,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 7,
-      "quiet": 13
+      "strong": 8,
+      "watch": 9,
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T21:13:41+00:00",
-      "age_days": 0.5,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://github.com/meta/astryx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:19:17+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [],
       "dynamics_score": 25.0,
       "raw_band": "strong",
@@ -73,7 +73,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:18:49+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -102,7 +102,7 @@
       "url": "https://github.com/meta/astryx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:18:49+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -130,7 +130,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:19:17+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -157,7 +157,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T00:40:56+00:00",
-      "age_days": 0.35,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -180,11 +180,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - 137 km E of Miyako, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-08T09:52:58.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, 9.8"
+      ],
+      "summary": "Time 2026-11-08 09:23:35 UTC 2026-11-08 09:23:35 UTC at epicenter Location 39.865°N 143.526°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - 11 km W of Honmachi, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T02:39:56.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -209,7 +234,7 @@
       "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T01:32:09+00:00",
-      "age_days": 0.32,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -236,7 +261,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T06:42:25+00:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -256,11 +281,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.5 - 11 km W of Honmachi, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
+      "title": "M 4.7 - 137 km E of Miyako, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 64.33,
+      "published_at": "2026-08-29T16:09:35+00:00",
+      "age_days": 70.75,
       "topics": [
         "general"
       ],
@@ -276,7 +301,56 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 64.3d old signal"
+        "aging penalty -8.0 for 70.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.5 - 11 km W of Honmachi, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-05T01:09:44+00:00",
+      "age_days": 64.38,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 64.4d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
+      "url": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-08T09:18:48+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -285,7 +359,7 @@
       "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T07:57:24+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -309,7 +383,7 @@
       "url": "https://anond.hatelabo.jp/20261107090533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T02:32:39+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -333,7 +407,7 @@
       "url": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T07:00:22+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -357,7 +431,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T06:39:09.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -381,7 +455,7 @@
       "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T15:32:29+00:00",
-      "age_days": 0.74,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -407,7 +481,7 @@
       "url": "https://gigazine.net/news/20261107-harmony/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:05:57+00:00",
-      "age_days": 1.0,
+      "age_days": 1.04,
       "topics": [
         "general"
       ],
@@ -431,7 +505,7 @@
       "url": "https://anond.hatelabo.jp/20261107090533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:14:43+00:00",
-      "age_days": 1.37,
+      "age_days": 1.41,
       "topics": [
         "general"
       ],
@@ -455,7 +529,7 @@
       "url": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T07:33:34+00:00",
-      "age_days": 2.07,
+      "age_days": 2.11,
       "topics": [
         "general"
       ],
@@ -479,23 +553,23 @@
       "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.3,
+      "age_days": 142.34,
       "topics": [
         "general"
       ],
-      "dynamics_score": 6.86,
+      "dynamics_score": 6.43,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.78,
+      "baseline_z_hint": 0.39,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.78",
+        "baseline z_hint 0.39",
         "aging penalty -8.0 for 142.3d old signal"
       ],
       "summary": ""
@@ -505,7 +579,7 @@
       "url": "https://www.famitsu.com/article/202611/93352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T00:03:25+00:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -531,7 +605,7 @@
       "url": "https://gigazine.net/news/20261107-harmony/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.3,
+      "age_days": 142.34,
       "topics": [
         "general"
       ],
@@ -552,11 +626,35 @@
       "summary": ""
     },
     {
+      "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
+      "url": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-08T04:37:22+00:00",
+      "age_days": 0.23,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "管理人のイエイリです。 木造住宅の設計でBIMソフトを使っていても、確認申請用の図面は結局、Jw_cadで仕上げる。そんな話をよく聞きます。 しかし、施主の要望で窓を一つ動かすだけでも、平面図や立面図、断面図をあちこち直すのは大変です。かといって、高価なBIMソフトを何本もそろえるのも、小規模な工務店には負担..."
+    },
+    {
       "title": "リストラします。会社のMacBookは引き続き使えます",
       "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T22:20:32+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -580,7 +678,7 @@
       "url": "https://www.techno-edge.net/article/2026/11/06/5679.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T08:23:39+00:00",
-      "age_days": 70.03,
+      "age_days": 70.07,
       "topics": [
         "ai"
       ],
@@ -597,7 +695,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 70.0d old signal",
+        "aging penalty -8.0 for 70.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -607,7 +705,7 @@
       "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T13:51:49+00:00",
-      "age_days": 0.81,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -632,7 +730,7 @@
       "url": "https://www.famitsu.com/article/202611/93352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:49:08+00:00",
-      "age_days": 0.97,
+      "age_days": 1.01,
       "topics": [
         "ai"
       ],
@@ -657,7 +755,7 @@
       "url": "https://speakerdeck.com/takuros/jaws-festa-2026-public",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T02:15:16+00:00",
-      "age_days": 1.29,
+      "age_days": 1.33,
       "topics": [
         "ai"
       ],
@@ -682,7 +780,7 @@
       "url": "https://www.techno-edge.net/article/2026/11/06/5679.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:46:51+00:00",
-      "age_days": 1.35,
+      "age_days": 1.39,
       "topics": [
         "ai"
       ],
