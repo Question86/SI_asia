@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-08T11:02:17+00:00_
+_Generated: 2026-11-08T11:29:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-08T11:02:17+00:00_
 - url: https://github.com/meta/astryx
 - summary: An open source design system that's fully customizable and agent ready http://astryx.atmeta.com Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta ·…
 
-### 8. Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ
+### 8. 警告:ジャンプルーキーはそのうちAI漫画で埋まる
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-11-08T04:37:22+00:00`
-- url: https://ken-it.world/it/2026/11/sumicad-free-bim.html
-- summary: 管理人のイエイリです。 木造住宅の設計でBIMソフトを使っていても、確認申請用の図面は結局、Jw_cadで仕上げる。そんな話をよく聞きます。 しかし、施主の要望で窓を一つ動かすだけでも、平面図や立面図、断面図をあちこち直すのは大変です。かといって、高価なBIMソフトを何本もそろえるのも、小規模な工務店には負担...
+- published: `2026-11-08T08:51:31+00:00`
+- url: https://anond.hatelabo.jp/20261108174809
+- summary: ジャンプ＋ならともかく、ジャンプルーキーを読んでいるのはよほどの漫画好き、もしくは漫画家志望者だろう。 ジャンプルーキーは投稿に制限や審査がほぼなく、下手だろうが未完成だろうが好きに投稿できる。 はっきり言えば玉石石石石石…混淆なのだが、その中からルーキー賞などを経て、ジャンプ＋の読み切りなどに頭角...
 
 END OF DOCUMENT

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T11:02:17+00:00",
-  "run_id": "2026-11-08T11:02:17+00:00",
+  "generated_at": "2026-11-08T11:29:18+00:00",
+  "run_id": "2026-11-08T11:29:18+00:00",
   "date": "2026-11-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 4,
-    "observe": 12,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -255,6 +255,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3a9837a7b9396bdaa7d6"
+      },
+      {
+        "title": "警告:ジャンプルーキーはそのうちAI漫画で埋まる",
+        "url": "https://anond.hatelabo.jp/20261108174809",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-08T08:51:31+00:00",
+        "fetched_at": "2026-11-08T11:28:48+00:00",
+        "summary": "ジャンプ＋ならともかく、ジャンプルーキーを読んでいるのはよほどの漫画好き、もしくは漫画家志望者だろう。 ジャンプルーキーは投稿に制限や審査がほぼなく、下手だろうが未完成だろうが好きに投稿できる。 はっきり言えば玉石石石石石…混淆なのだが、その中からルーキー賞などを経て、ジャンプ＋の読み切りなどに頭角...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "050e65ca249aca09a99d"
       },
       {
         "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
@@ -674,6 +695,27 @@
       "id": "3a9837a7b9396bdaa7d6"
     },
     {
+      "title": "警告:ジャンプルーキーはそのうちAI漫画で埋まる",
+      "url": "https://anond.hatelabo.jp/20261108174809",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T08:51:31+00:00",
+      "fetched_at": "2026-11-08T11:28:48+00:00",
+      "summary": "ジャンプ＋ならともかく、ジャンプルーキーを読んでいるのはよほどの漫画好き、もしくは漫画家志望者だろう。 ジャンプルーキーは投稿に制限や審査がほぼなく、下手だろうが未完成だろうが好きに投稿できる。 はっきり言えば玉石石石石石…混淆なのだが、その中からルーキー賞などを経て、ジャンプ＋の読み切りなどに頭角...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "050e65ca249aca09a99d"
+    },
+    {
       "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
       "url": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -863,7 +905,29 @@
       "id": "f65b628b477bc03596a6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "警告:ジャンプルーキーはそのうちAI漫画で埋まる",
+      "url": "https://anond.hatelabo.jp/20261108174809",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T08:51:31+00:00",
+      "fetched_at": "2026-11-08T11:28:48+00:00",
+      "summary": "ジャンプ＋ならともかく、ジャンプルーキーを読んでいるのはよほどの漫画好き、もしくは漫画家志望者だろう。 ジャンプルーキーは投稿に制限や審査がほぼなく、下手だろうが未完成だろうが好きに投稿できる。 はっきり言えば玉石石石石石…混淆なのだが、その中からルーキー賞などを経て、ジャンプ＋の読み切りなどに頭角...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "050e65ca249aca09a99d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
