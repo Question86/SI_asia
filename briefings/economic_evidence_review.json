@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T17:47:09+00:00",
+  "generated_at": "2026-11-08T18:00:36+00:00",
   "fx_as_of": null,
-  "candidate_count": 2721,
+  "candidate_count": 2722,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2721
+    "pending": 2722
   },
   "coverage_warning": null,
   "candidates": [
@@ -38882,6 +38882,25 @@
       "snippet": "立すれば、データセンター向けに転用できるRTX 5090や、2028年とされる 次世代のGeForce RTX 6000シリーズ の最上位モデルには、ドライバーなどで利用国の位置を推定する仕組みが投入される可能性もあります。 関連商品 ASUS GeForce RTX 5070 (DUAL-RTX5070-O12G) 国内正規品 ASUS Amazon価格 ¥ 152,527 2026/11/08 更新 Amazon ソース Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims | Tom's Hardware GPU GeForce RTX 5000 GeForce",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/"
+    },
+    {
+      "amount_native": 191870.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_352ce4c3fab050ed461e",
+      "component_suggestion": "transfers",
+      "conversion_status": "missing_rate",
+      "currency": "JPY",
+      "event_id": "evt_56e235a682be43366596",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T18:00:30+00:00",
+      "overlap_group_suggestion": "evt_56e235a682be43366596:transfers:7647505f30dc",
+      "review_status": "pending",
+      "snippet": "ンター向けに転用できるRTX 5090や、2028年とされる 次世代のGeForce RTX 6000シリーズ の最上位モデルには、ドライバーなどで利用国の位置を推定する仕組みが投入される可能性もあります。 関連商品 MSI GeForce RTX 5070 12G GAMING TRIO OC グラフィックスボード VD9068 MSI Amazon価格 ¥ 191,870 2026/11/09 更新 Amazon 楽天市場 Yahooショッピング ソース Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims | Tom's Hardware GPU GeForce",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
+      "component_confidence": 0.55
     },
     {
       "amount_native": 1300000000000.0,
