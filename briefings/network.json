@@ -1,15 +1,53 @@
 {
-  "generated_at": "2026-11-08T01:16:40+00:00",
+  "generated_at": "2026-11-08T01:32:09+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 3,
-    "clusters": 3,
+    "findings": 4,
+    "clusters": 4,
     "cross_source_confrmed": 0,
-    "hot": 0,
-    "early_signals": 0,
+    "hot": 1,
+    "early_signals": 1,
     "dominance_penalized": 0
   },
   "clusters": [
+    {
+      "key": "domain:chromewebstore.google.com",
+      "title": "Sakutto - Local AI translation - Chrome Web Store",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 26.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 20.1,
+      "ranking_score": 26.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-08T01:32:09+00:00"
+    },
     {
       "key": "title:nvidia-gpu-geforce-rtx-5090",
       "title": "NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も",
@@ -127,7 +165,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-08T01:16:41Z",
+    "generated_at": "2026-11-08T01:32:10Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

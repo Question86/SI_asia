@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T01:16:35+00:00_
+_Generiert: 2026-11-08T01:32:06+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も“ aus Hatena Bookmark Hotentry IT (Score 8, observation).
+4 neue relevante Treffer. Stärkstes Signal: „Sakutto - Local AI translation - Chrome Web Store“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-11-08T01:16:35+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-30`
   - Kurz: Known exploited vulnerability. Added 2026-10-30. Due 2026-11-02. Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, No people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576162)
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576162)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:38.081km) in Japan 07/11/2026 16:04 UTC, 630 thousand in MMI V.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576118)
   - Quelle: GDACS
   - Zeit: ``
@@ -61,7 +61,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **Sakutto - Local AI translation - Chrome Web Store** — Score 15, observation — [Quelle](https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-07T15:32:29+00:00`, fetched `2026-11-08T01:31:39+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Local-first AI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Local-first AI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: A local LLM translates pages on your device. Free, no account. Translate a whole page, selected text, or text you type. You can replace the page with the translation, or read the original and the translation side by side. No ads or analytics. Your page text is not sent to an outside translation s...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -95,7 +103,7 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
