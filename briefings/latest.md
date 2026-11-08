@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T08:58:33+00:00_
+_Generiert: 2026-11-08T09:18:45+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
+15 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open source design system that's fully customizable and agent ready http://astryx.atmeta.com Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta · Built on React 19+ and StyleX Docs · Storybook · Sandbox · Contributing · Discord Overview Astryx is an open source design system that grew inside Meta over the…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ** — Score 5, observation — [Quelle](https://ken-it.world/it/2026/11/sumicad-free-bim.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-08T04:37:22+00:00`, fetched `2026-11-08T09:18:16+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 管理人のイエイリです。 木造住宅の設計でBIMソフトを使っていても、確認申請用の図面は結局、Jw_cadで仕上げる。そんな話をよく聞きます。 しかし、施主の要望で窓を一つ動かすだけでも、平面図や立面図、断面図をあちこち直すのは大変です。かといって、高価なBIMソフトを何本もそろえるのも、小規模な工務店には負担...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **リストラします。会社のMacBookは引き続き使えます** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-07T22:20:32+00:00`, fetched `2026-11-08T07:56:48+00:00`
@@ -126,15 +135,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: リストラします。会社のMacBookは引き続き使えます
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AWSを利用する上で知っておきたい名前解決の話 2026** — Score 5, observation — [Quelle](https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-07T13:51:49+00:00`, fetched `2026-11-08T05:46:56+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: JAWS FESTA 2026 in AKITA
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

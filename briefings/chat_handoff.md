@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-08T08:58:33+00:00_
+_Generated: 2026-11-08T09:18:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-11-08T08:58:33+00:00_
 - url: https://github.com/meta/astryx
 - summary: An open source design system that's fully customizable and agent ready http://astryx.atmeta.com Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta ·…
 
-### 7. リストラします。会社のMacBookは引き続き使えます
+### 7. Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-11-07T22:20:32+00:00`
-- url: https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html
-- summary: リストラします。会社のMacBookは引き続き使えます
+- published: `2026-11-08T04:37:22+00:00`
+- url: https://ken-it.world/it/2026/11/sumicad-free-bim.html
+- summary: 管理人のイエイリです。 木造住宅の設計でBIMソフトを使っていても、確認申請用の図面は結局、Jw_cadで仕上げる。そんな話をよく聞きます。 しかし、施主の要望で窓を一つ動かすだけでも、平面図や立面図、断面図をあちこち直すのは大変です。かといって、高価なBIMソフトを何本もそろえるのも、小規模な工務店には負担...
 
 END OF DOCUMENT

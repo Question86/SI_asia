@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T08:58:33+00:00",
-  "run_id": "2026-11-08T08:58:33+00:00",
+  "generated_at": "2026-11-08T09:18:45+00:00",
+  "run_id": "2026-11-08T09:18:45+00:00",
   "date": "2026-11-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 1,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 3,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -218,6 +218,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3a9837a7b9396bdaa7d6"
+      },
+      {
+        "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
+        "url": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-08T04:37:22+00:00",
+        "fetched_at": "2026-11-08T09:18:16+00:00",
+        "summary": "管理人のイエイリです。 木造住宅の設計でBIMソフトを使っていても、確認申請用の図面は結局、Jw_cadで仕上げる。そんな話をよく聞きます。 しかし、施主の要望で窓を一つ動かすだけでも、平面図や立面図、断面図をあちこち直すのは大変です。かといって、高価なBIMソフトを何本もそろえるのも、小規模な工務店には負担...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "926d76ad202af38f0bf3"
       },
       {
         "title": "リストラします。会社のMacBookは引き続き使えます",
@@ -579,6 +600,27 @@
       "id": "3a9837a7b9396bdaa7d6"
     },
     {
+      "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
+      "url": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T04:37:22+00:00",
+      "fetched_at": "2026-11-08T09:18:16+00:00",
+      "summary": "管理人のイエイリです。 木造住宅の設計でBIMソフトを使っていても、確認申請用の図面は結局、Jw_cadで仕上げる。そんな話をよく聞きます。 しかし、施主の要望で窓を一つ動かすだけでも、平面図や立面図、断面図をあちこち直すのは大変です。かといって、高価なBIMソフトを何本もそろえるのも、小規模な工務店には負担...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "926d76ad202af38f0bf3"
+    },
+    {
       "title": "リストラします。会社のMacBookは引き続き使えます",
       "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -747,7 +789,29 @@
       "id": "f65b628b477bc03596a6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
+      "url": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T04:37:22+00:00",
+      "fetched_at": "2026-11-08T09:18:16+00:00",
+      "summary": "管理人のイエイリです。 木造住宅の設計でBIMソフトを使っていても、確認申請用の図面は結局、Jw_cadで仕上げる。そんな話をよく聞きます。 しかし、施主の要望で窓を一つ動かすだけでも、平面図や立面図、断面図をあちこち直すのは大変です。かといって、高価なBIMソフトを何本もそろえるのも、小規模な工務店には負担...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "926d76ad202af38f0bf3"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
