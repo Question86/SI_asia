@@ -70,5 +70,141 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も",
+        "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-07T21:13:41+00:00",
+        "age_days": 0.23,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 25.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "AI GPUの中国への流出が問題になっているNVIDIAが、東南アジアでNVIDIA Cloud Partner（NCP）の認定を求める顧客に、GPUの位置を記録できるFleet Intelligenceへの登録を義務付けたとのことです。NCPになれば最新のAI GPUを優先して回してもらえるため、任意のはずの登録が事実上の条件になります。 NVIDIAが東南アジア..."
+      },
+      {
+        "title": "NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も",
+        "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-08T00:40:56+00:00",
+        "age_days": 0.08,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Sakutto - Local AI translation - Chrome Web Store",
+        "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-08T01:32:09+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "early terms: local",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "「燃やす」ってなに？",
+        "url": "https://anond.hatelabo.jp/20261107090533",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-08T02:32:39+00:00",
+        "age_days": 0.0,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 11.5,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Sakutto - Local AI translation - Chrome Web Store",
+        "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-07T15:32:29+00:00",
+        "age_days": 0.46,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 10.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: local",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": "A local LLM translates pages on your device. Free, no account. Translate a whole page, selected text, or text you type. You can replace the page with the translation, or read the original and the translation side by side. No ads or analytics. Your page text is not sent to an outside translation s..."
+      }
+    ]
+  }
 }
