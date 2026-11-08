@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T01:32:06+00:00",
-  "run_id": "2026-11-08T01:32:06+00:00",
+  "generated_at": "2026-11-08T01:42:29+00:00",
+  "run_id": "2026-11-08T01:42:29+00:00",
   "date": "2026-11-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 4,
     "displayed_findings": 4,
     "high": 0,
@@ -209,31 +209,7 @@
       "id": "09e36f77ddb23932527b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Sakutto - Local AI translation - Chrome Web Store",
-      "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-07T15:32:29+00:00",
-      "fetched_at": "2026-11-08T01:31:39+00:00",
-      "summary": "A local LLM translates pages on your device. Free, no account. Translate a whole page, selected text, or text you type. You can replace the page with the translation, or read the original and the translation side by side. No ads or analytics. Your page text is not sent to an outside translation s...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "Local-first AI"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); Local-first AI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a759a310eae1dd061578"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
