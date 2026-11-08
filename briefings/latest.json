@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T23:27:02+00:00",
-  "run_id": "2026-11-08T23:27:02+00:00",
+  "generated_at": "2026-11-08T23:32:47+00:00",
+  "run_id": "2026-11-08T23:32:47+00:00",
   "date": "2026-11-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 32,
     "displayed_findings": 32,
     "high": 0,
@@ -1755,30 +1755,7 @@
       "id": "f65b628b477bc03596a6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "iPhoneでmacOSが動くエミュレーター「Henge」公開！ - すまほん!!",
-      "url": "https://smhn.info/202611-henge-macos-emulator-iphone-ipad-release",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-08T05:16:57+00:00",
-      "fetched_at": "2026-11-08T23:26:33+00:00",
-      "summary": "Hengeの画面例（開発者がMac上でサンプルデータを使って撮影） 先月、AndroidスマホでiOSを起動する実験的プロジェクト「HackiOS」が登場しましたが、今度はなんとiPhoneの上でmacOSが動きます。 開発者のlevi氏は11月6日、iPhoneとiPadでmacOSを動かすエミュレーター「Henge」の初版となるバージョン0.1をGitHubで公開...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ecf99ef5c396be803554"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
