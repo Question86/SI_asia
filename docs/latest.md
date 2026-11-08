@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T02:23:44+00:00_
+_Generiert: 2026-11-08T02:32:35+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „Sakutto - Local AI translation - Chrome Web Store“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
+5 neue relevante Treffer. Stärkstes Signal: „Sakutto - Local AI translation - Chrome Web Store“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
 
 ## Priorität Hoch
 

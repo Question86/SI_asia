@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-08T02:23:44+00:00",
+  "generated_at": "2026-11-08T02:32:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 1,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 1,
-    "observe": 3
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -52,6 +52,16 @@
       "relevance_score": 5,
       "url": "https://gigazine.net/news/20261107-harmony/",
       "summary": "友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソ...",
+      "section": "observe"
+    },
+    {
+      "title": "「燃やす」ってなに？",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-07T00:14:43+00:00",
+      "relevance_score": 5,
+      "url": "https://anond.hatelabo.jp/20261107090533",
+      "summary": "表現規制の論争で出てくる「燃やす」って言葉がよくわかんないんだよな よくわからないというか、意図的にぼかされてる 「相手が燃やしてきたからこっちも燃やそう」とか言いますけど、具体的にどんな被害を被ってどんな被害を与えるつもりなのか、よくわからない 最近の件で言うと、レジスタ！が燃やさてたと言うけど、...",
       "section": "observe"
     }
   ],

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-08T02:23:44+00:00_
+_Generated: 2026-11-08T02:32:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `5`
 
 ## Top Signals
 
@@ -35,5 +35,12 @@ _Generated: 2026-11-08T02:23:44+00:00_
 - published: `2026-11-07T09:05:57+00:00`
 - url: https://gigazine.net/news/20261107-harmony/
 - summary: 友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソ...
+
+### 5. 「燃やす」ってなに？
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-11-07T00:14:43+00:00`
+- url: https://anond.hatelabo.jp/20261107090533
+- summary: 表現規制の論争で出てくる「燃やす」って言葉がよくわかんないんだよな よくわからないというか、意図的にぼかされてる 「相手が燃やしてきたからこっちも燃やそう」とか言いますけど、具体的にどんな被害を被ってどんな被害を与えるつもりなのか、よくわからない 最近の件で言うと、レジスタ！が燃やさてたと言うけど、...
 
 END OF DOCUMENT
