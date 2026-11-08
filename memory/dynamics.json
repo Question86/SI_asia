@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-08T18:20:56Z",
+  "generated_at": "2026-11-08T19:09:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 1,
-      "strong": 6,
-      "watch": 18,
-      "quiet": 14
+      "strong": 7,
+      "watch": 19,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 18,
-      "quiet": 14
+      "strong": 9,
+      "watch": 19,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T21:13:41+00:00",
-      "age_days": 0.88,
+      "age_days": 0.91,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://github.com/meta/astryx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:19:17+00:00",
-      "age_days": 0.46,
+      "age_days": 0.49,
       "topics": [],
       "dynamics_score": 25.0,
       "raw_band": "strong",
@@ -73,7 +73,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:18:49+00:00",
-      "age_days": 0.46,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -102,7 +102,7 @@
       "url": "https://github.com/meta/astryx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:18:49+00:00",
-      "age_days": 0.46,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -130,7 +130,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:19:17+00:00",
-      "age_days": 0.46,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -157,7 +157,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T00:40:56+00:00",
-      "age_days": 0.74,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -184,7 +184,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T09:52:58.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -209,7 +209,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T02:39:56.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -230,11 +230,38 @@
       "summary": "Time 2026-11-08 01:53:16 UTC 2026-11-08 01:53:16 UTC at epicenter Location 32.501°N 130.472°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note",
+      "url": "https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-08T18:30:21+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Sakutto - Local AI translation - Chrome Web Store",
       "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T01:32:09+00:00",
-      "age_days": 0.7,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
@@ -261,7 +288,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T12:51:23.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -286,7 +313,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T13:03:41+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -310,7 +337,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T17:04:06.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -334,7 +361,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T11:59:33+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -358,7 +385,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T17:20:59.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -383,7 +410,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T17:21:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -407,7 +434,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T06:42:25+00:00",
-      "age_days": 0.49,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -431,7 +458,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 143.16,
+      "age_days": 143.19,
       "topics": [
         "general"
       ],
@@ -456,7 +483,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T16:09:35+00:00",
-      "age_days": 71.09,
+      "age_days": 71.12,
       "topics": [
         "general"
       ],
@@ -481,7 +508,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 64.72,
+      "age_days": 64.75,
       "topics": [
         "general"
       ],
@@ -506,7 +533,7 @@
       "url": "https://hiraoku.dev/blog/mcp-cli-cloud/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T12:32:44+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -532,7 +559,7 @@
       "url": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T09:18:48+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -556,7 +583,7 @@
       "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T07:57:24+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -580,7 +607,7 @@
       "url": "https://anond.hatelabo.jp/20261107090533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T02:32:39+00:00",
-      "age_days": 0.66,
+      "age_days": 0.69,
       "topics": [
         "general"
       ],
@@ -604,7 +631,7 @@
       "url": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T07:00:22+00:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -624,11 +651,38 @@
       "summary": ""
     },
     {
+      "title": "Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note",
+      "url": "https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-08T10:31:52+00:00",
+      "age_days": 0.36,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Claude Codeで「Yes, and don't ask again（今後確認しない）」を選ぶと、承認したコマンドがそのままプロジェクト内の.claude/settings.local.jsonに保存されます。コマンドにパスワードやAPIキーが含まれていると、平文のまま残ります。セキュリティ企業Apiiroの調査（11月7日公表）では、公開GitHubリポジトリにある..."
+    },
+    {
       "title": "M 4.7 - 46 km NW of Huara, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T12:11:37.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -652,7 +706,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T06:39:09.040+00:00",
-      "age_days": 0.49,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -676,7 +730,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T05:39:01+00:00",
-      "age_days": 70.53,
+      "age_days": 70.56,
       "topics": [
         "general"
       ],
@@ -692,7 +746,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 70.5d old signal"
+        "aging penalty -8.0 for 70.6d old signal"
       ],
       "summary": ""
     },
@@ -701,7 +755,7 @@
       "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T15:32:29+00:00",
-      "age_days": 1.12,
+      "age_days": 1.15,
       "topics": [
         "ai"
       ],
@@ -727,7 +781,7 @@
       "url": "https://gigazine.net/news/20261107-harmony/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:05:57+00:00",
-      "age_days": 1.39,
+      "age_days": 1.42,
       "topics": [
         "general"
       ],
@@ -751,7 +805,7 @@
       "url": "https://anond.hatelabo.jp/20261107090533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:14:43+00:00",
-      "age_days": 1.75,
+      "age_days": 1.79,
       "topics": [
         "general"
       ],
@@ -775,7 +829,7 @@
       "url": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T07:33:34+00:00",
-      "age_days": 2.45,
+      "age_days": 2.48,
       "topics": [
         "general"
       ],
@@ -799,23 +853,22 @@
       "url": "https://posfie.com/@su_damari/p/xvcxjNy",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T09:40:46+00:00",
-      "age_days": 49.36,
+      "age_days": 49.39,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 7.35,
+      "dynamics_score": 6.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.23,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.23",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 49.4d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -827,7 +880,7 @@
       "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.68,
+      "age_days": 142.72,
       "topics": [
         "general"
       ],
@@ -852,7 +905,7 @@
       "url": "https://anond.hatelabo.jp/20261108174809",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T11:29:21+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -878,7 +931,7 @@
       "url": "https://news.ntv.co.jp/category/economy/4524fbcdecaf445bac0d956439508aca",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T04:09:14+00:00",
-      "age_days": 47.59,
+      "age_days": 47.63,
       "topics": [
         "general"
       ],
@@ -903,7 +956,7 @@
       "url": "https://note.com/npaka/n/nae09bd9ce37d",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 68.98,
+      "age_days": 69.02,
       "topics": [
         "general"
       ],
@@ -928,7 +981,7 @@
       "url": "https://www.famitsu.com/article/202611/93352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T00:03:25+00:00",
-      "age_days": 0.76,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -954,7 +1007,7 @@
       "url": "https://gigazine.net/news/20261107-harmony/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.68,
+      "age_days": 142.72,
       "topics": [
         "general"
       ],
@@ -973,56 +1026,6 @@
         "aging penalty -8.0 for 142.7d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.",
-      "url": "https://posfie.com/@su_damari/p/xvcxjNy",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-08T10:45:23+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Ole Lehmann @itsolelehmann we have a winner for the most absurd AI startup ever this Peter Thiel backed company uses AI robots to stab fish in the brain so they taste better and last up to 3x longer it's called Shinkei and it modernizes a centuries-old Japanese technique dozens of Michelin-star r..."
-    },
-    {
-      "title": "MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev",
-      "url": "https://hiraoku.dev/blog/mcp-cli-cloud/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-08T02:33:33+00:00",
-      "age_days": 0.66,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "MCPAICLIAgentCloudMCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更なぜMCPへの批判が生まれ、CLIが支持されたのか。2026年7月28日版のステートレス化と、ツールの遅延読み込み・コード実行から、MCPの再評価を支えた変化を解説します。 Tech·Hiraoku·2026年11月7日·43 分で読めます いま、MCPはAI..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
