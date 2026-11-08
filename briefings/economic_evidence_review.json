@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T08:28:31+00:00",
+  "generated_at": "2026-11-08T08:46:54+00:00",
   "fx_as_of": null,
-  "candidate_count": 2717,
+  "candidate_count": 2718,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2717
+    "pending": 2718
   },
   "coverage_warning": null,
   "candidates": [
@@ -35877,6 +35877,27 @@
       "snippet": "徹底解説 / pgcon21j-tutorial soudai PRO 203 77k CoffeeScript is Beautiful & I Never Want to Write Plain JavaScript Again sstephenson 162 16k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.4k From π to Pie charts rasagy 1 400 Fireside Chat paigeccino 43 4.1k The Invisible Side of Design smashingmag 301 52k AI Search: Im",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_acd77ff33ffb1d506b73",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-08T08:46:49+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:c5a5a35c400e",
+      "review_status": "pending",
+      "snippet": "browser strikes back jonoalderson 0 1.9k DevOps and Value Stream Thinking: Enabling flow, efficiency and business value helenjbeal 2 430 Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.4k Max Prin - Stacking Signals: How International SEO Comes Together (And Falls Apart) techseoconnect PRO 0 520 Transcript 生成AI時代のIA",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/takuros/jaws-festa-2026-public",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 230000.0,
