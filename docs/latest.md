@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T22:01:50+00:00_
+_Generiert: 2026-11-08T22:14:59+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
+29 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 ## Priorität Hoch
 
