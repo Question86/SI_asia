@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T11:42:53+00:00_
+_Generiert: 2026-11-08T11:50:37+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+17 neue relevante Treffer. Stärkstes Signal: „vercel-labs/agent-browser“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -106,7 +106,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7ff18ce29490>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
