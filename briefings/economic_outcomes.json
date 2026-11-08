@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T17:01:41+00:00",
+  "generated_at": "2026-11-08T17:22:26+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -3014,7 +3014,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_1ec1b7cc4e2fdea160ec",
@@ -4026,7 +4026,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_28766861246e8dbd052a",
@@ -5346,7 +5346,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3510b5735650f2b4db15",
@@ -14433,6 +14433,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8d17c306757d3f101100",
+      "title": "M 4.8 - central Mid-Atlantic Ridge",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_8d36a3d3b78ac7b2096a",

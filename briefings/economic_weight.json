@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T17:01:30+00:00",
+  "generated_at": "2026-11-08T17:22:13+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2042,8 +2042,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-10-12T23:33:31+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_23fb8afd580f37b46528",
@@ -2212,7 +2212,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -2382,7 +2382,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T16:09:35+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -3844,7 +3844,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-08T13:03:41+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -5170,7 +5170,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T05:39:01+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -7295,7 +7295,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-08T06:42:25+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -12637,6 +12637,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8d17c306757d3f101100",
+      "title": "M 4.8 - central Mid-Atlantic Ridge",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-08T17:21:54+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -15100,7 +15117,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
       "last_seen_at": "2026-11-08T17:01:10+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0b8f55a038be7b409784",
@@ -15762,7 +15779,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T07:19:17+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -18465,7 +18482,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T01:32:09+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -20080,7 +20097,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T12:32:44+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -23209,7 +23226,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -26968,7 +26985,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T04:09:14+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -28022,7 +28039,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T00:40:56+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -29008,7 +29025,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T11:59:33+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -29348,7 +29365,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T07:19:17+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -34058,7 +34075,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T07:57:24+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -34126,7 +34143,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -34246,7 +34263,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T00:03:25+00:00",
       "last_seen_at": "2026-11-08T17:01:10+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_37073614552c957af89b",
@@ -35180,7 +35197,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T09:40:46+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -35520,7 +35537,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T11:29:21+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
@@ -36336,7 +36353,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T09:18:48+00:00",
-      "last_seen_at": "2026-11-08T17:01:10+00:00",
+      "last_seen_at": "2026-11-08T17:21:54+00:00",
       "status": "active"
     },
     {
