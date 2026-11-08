@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T02:32:39+00:00",
+  "generated_at": "2026-11-08T02:49:34+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2904,9 +2904,8 @@
     },
     "domain:gigazine.net": {
       "title": "無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能",
-      "updated_at": "2026-11-08T02:32:39+00:00",
+      "updated_at": "2026-11-08T02:49:34+00:00",
       "network_scores": [
-        16.1,
         16.1,
         16.1,
         16.1,
@@ -2935,12 +2934,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 12.9,
+      "rolling_average": 12.6,
       "rolling_peak": 16.1,
       "last_score": 7.1,
-      "z_hint": -5.8
+      "z_hint": -5.5
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -19361,8 +19361,8 @@
       "z_hint": 0.0
     },
     "earthquake:japan:4.5": {
-      "title": "M 4.5 - 288 km SSE of Muroto-misakicho, Japan",
-      "updated_at": "2026-11-02T23:54:43+00:00",
+      "title": "M 4.5 - 11 km W of Honmachi, Japan",
+      "updated_at": "2026-11-08T02:49:34+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -19393,12 +19393,12 @@
         17.7,
         17.7,
         17.7,
-        17.7
+        20.7
       ],
-      "rolling_average": 17.7,
-      "rolling_peak": 17.7,
-      "last_score": 17.7,
-      "z_hint": 0.0
+      "rolling_average": 17.8,
+      "rolling_peak": 20.7,
+      "last_score": 20.7,
+      "z_hint": 2.9
     },
     "earthquake:m 4.8 - kermadec islands, new zealand:4.8": {
       "title": "M 4.8 - Kermadec Islands, New Zealand",
@@ -109509,9 +109509,10 @@
     },
     "domain:www.famitsu.com": {
       "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com",
-      "updated_at": "2026-11-08T02:32:39+00:00",
+      "updated_at": "2026-11-08T02:49:34+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -109524,14 +109525,14 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.35,
+      "rolling_average": 7.33,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:nvidia-gpu-geforce-rtx-5090": {
       "title": "NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も",
-      "updated_at": "2026-11-08T02:32:39+00:00",
+      "updated_at": "2026-11-08T02:49:34+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -109543,16 +109544,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.37,
+      "rolling_average": 10.35,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "domain:chromewebstore.google.com": {
       "title": "Sakutto - Local AI translation - Chrome Web Store",
-      "updated_at": "2026-11-08T02:32:39+00:00",
+      "updated_at": "2026-11-08T02:49:34+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -109560,23 +109562,25 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.53,
+      "rolling_average": 17.47,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "url:https://anond.hatelabo.jp/20261107090533": {
       "title": "「燃やす」ってなに？",
-      "updated_at": "2026-11-08T02:32:39+00:00",
+      "updated_at": "2026-11-08T02:49:34+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }
