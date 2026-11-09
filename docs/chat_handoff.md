@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T21:30:44+00:00_
+_Generated: 2026-11-09T21:48:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `81`
+- findings: `83`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-09T21:30:44+00:00_
 - url: https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs
 - summary: GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How… The post Secret scanning detects secrets in GitHub Act…
 
-### 3. [NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung
+### 3. Krpano 360° の脆弱性 CVE-2020-24901 を悪用：検索結果を操作する大規模な XSS キャンペーン
+- source: Hatena Bookmark Hotentry IT
+- score: `16`
+- published: `2026-11-09T18:48:54+00:00`
+- url: https://iototsecnews.jp/2025/02/28/over-350-high-profile-websites-hit-by-360xss-attack/
+- summary: Over 350 High-Profile Websites Hit by 360XSS Attack 2025/02/28 HackRead — 360XSS と呼ばれるキャンペーンは、Krpano の XSS の脆弱性を悪用することで検索結果を乗っ取り、政府／大学／報道などの 350 以上の Web サイトでスパム広告を配信するものだ。 仮想ツアー・フレームワーク Krpano 内の XSS 脆弱性を悪用す...
+
+### 4. [NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-11-09T12:42:01+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416
 - summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ruby und Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.
-
-### 4. M 4.7 - 271 km N of Tobelo, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-09T11:46:31.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3c
-- summary: Time 2026-11-09 11:25:07 UTC 2026-11-09 11:25:07 UTC at epicenter Location 4.174°N 127.780°E Depth 98.29 km (61.08 mi)
 
 ### 5. M 6.4 - 27 km SW of Lata, Solomon Islands
 - source: USGS M4.5+ Earthquakes Past Hour
