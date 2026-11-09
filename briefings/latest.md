@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T05:36:04+00:00_
+_Generiert: 2026-11-09T05:42:18+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 69 km ESE of Takahagi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+22 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 69 km ESE of Takahagi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
