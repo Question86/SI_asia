@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-09T04:25:08Z_
+_Generated: 2026-11-09T04:38:05Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-09T12:00:00+09:00` / age_days `0.06`
+- Published: `2026-11-09T12:00:00+09:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,17 +22,27 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-09T11:30:00+09:00` / age_days `0.08`
+- Published: `2026-11-09T11:30:00+09:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/vu/JVNVU92635551/
 
+### “Almost” is a strategy, not a stall
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-11-09T04:04:52+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
+- Quelle: https://e27.co/almost-is-a-strategy-not-a-stall-20261105/
+
 ### Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T11:00:00+09:00` / age_days `0.1`
+- Published: `2026-11-09T11:00:00+09:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -42,21 +52,11 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T02:26:11+00:00` / age_days `0.08`
+- Published: `2026-11-09T02:26:11+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: code, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://jvn.jp/vu/JVNVU93403064/
-
-### “Almost” is a strategy, not a stall
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.5`
-- Published: `2026-11-09T04:04:52+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://e27.co/almost-is-a-strategy-not-a-stall-20261105/
 
 ### Effekseerにおける入力データ検証不備の脆弱性
 
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-09T02:35:34+00:00` / age_days `0.08`
+- Published: `2026-11-09T02:35:34+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-11-09T00:03:39+00:00` / age_days `0.18`
+- Published: `2026-11-09T00:03:39+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-11-09T03:50:06.971+00:00` / age_days `0.02`
+- Published: `2026-11-09T03:50:06.971+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-11-09T03:51:01+00:00` / age_days `0.02`
+- Published: `2026-11-09T03:51:01+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-11-09T04:00:50+00:00` / age_days `0.02`
+- Published: `2026-11-09T04:00:50+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
