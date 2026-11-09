@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-09T11:30:47+00:00",
-  "run_id": "2026-11-09T11:30:47+00:00",
+  "generated_at": "2026-11-09T11:48:49+00:00",
+  "run_id": "2026-11-09T11:48:49+00:00",
   "date": "2026-11-09",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 42
+      "configured_public_sources_only": 46
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 4,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
-    "medium": 19,
+    "medium": 23,
     "observe": 23,
-    "source_errors": 2
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -51,6 +51,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5a5f5c110b76ad1a4fa0"
+      },
+      {
+        "title": "M 4.7 - 271 km N of Tobelo, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3c",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-09T11:46:31.040+00:00",
+        "fetched_at": "2026-11-09T11:48:19+00:00",
+        "summary": "Time 2026-11-09 11:25:07 UTC 2026-11-09 11:25:07 UTC at epicenter Location 4.174°N 127.780°E Depth 98.29 km (61.08 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "28f62ab5b51789a208b9"
       },
       {
         "title": "M 4.8 - 183 km E of Masohi, Indonesia",
@@ -265,6 +302,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6a51a28976b1810fd3cf"
+      },
+      {
+        "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0427",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-09T11:37:06+00:00",
+        "fetched_at": "2026-11-09T11:48:19+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um falsche Informationen darzustellen oder nicht näher spezifizierte Auswirkungen zu verursachen",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6cb696863c6596133f78"
+      },
+      {
+        "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2215",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-09T11:37:04+00:00",
+        "fetched_at": "2026-11-09T11:48:19+00:00",
+        "summary": "Ein entfernter Angreifer kann eine Schwachstelle in Ruby ausnutzen, um Informationen offenzulegen",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2ee858e33020508b6af7"
+      },
+      {
+        "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2083",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-09T11:37:04+00:00",
+        "fetched_at": "2026-11-09T11:48:19+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f060e5c0c93de38ca80d"
       },
       {
         "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
@@ -1149,6 +1255,43 @@
       "id": "5a5f5c110b76ad1a4fa0"
     },
     {
+      "title": "M 4.7 - 271 km N of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3c",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-09T11:46:31.040+00:00",
+      "fetched_at": "2026-11-09T11:48:19+00:00",
+      "summary": "Time 2026-11-09 11:25:07 UTC 2026-11-09 11:25:07 UTC at epicenter Location 4.174°N 127.780°E Depth 98.29 km (61.08 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "28f62ab5b51789a208b9"
+    },
+    {
       "title": "M 4.8 - 183 km E of Masohi, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1361,6 +1504,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6a51a28976b1810fd3cf"
+    },
+    {
+      "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0427",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-09T11:37:06+00:00",
+      "fetched_at": "2026-11-09T11:48:19+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um falsche Informationen darzustellen oder nicht näher spezifizierte Auswirkungen zu verursachen",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6cb696863c6596133f78"
+    },
+    {
+      "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2215",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-09T11:37:04+00:00",
+      "fetched_at": "2026-11-09T11:48:19+00:00",
+      "summary": "Ein entfernter Angreifer kann eine Schwachstelle in Ruby ausnutzen, um Informationen offenzulegen",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2ee858e33020508b6af7"
+    },
+    {
+      "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2083",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-09T11:37:04+00:00",
+      "fetched_at": "2026-11-09T11:48:19+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f060e5c0c93de38ca80d"
     },
     {
       "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
@@ -2219,42 +2431,113 @@
   ],
   "new_findings": [
     {
-      "title": "サカナAIが上場準備 スタートアップで国内最大級、生成AI専業初 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC067MH0W6A101C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.7 - 271 km N of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3c",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-09T08:10:58+00:00",
-      "fetched_at": "2026-11-09T11:29:53+00:00",
-      "summary": "人工知能（AI）開発のSakana AI（サカナAI、東京・港）は新規株式公開（IPO）の準備に入った。日米市場を念頭に、早ければ2027年秋に上場させる。計画通り進めば、生成AI専業として国内初となる。初値の時価総額はメルカリの約6800億円を上回り、国内スタートアップで過去最大級の案件となる可能性がある。IPOの助言役と...",
+      "published_at": "2026-11-09T11:46:31.040+00:00",
+      "fetched_at": "2026-11-09T11:48:19+00:00",
+      "summary": "Time 2026-11-09 11:25:07 UTC 2026-11-09 11:25:07 UTC at epicenter Location 4.174°N 127.780°E Depth 98.29 km (61.08 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "28f62ab5b51789a208b9"
+    },
+    {
+      "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0427",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-09T11:37:06+00:00",
+      "fetched_at": "2026-11-09T11:48:19+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um falsche Informationen darzustellen oder nicht näher spezifizierte Auswirkungen zu verursachen",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ae094f8c736ca272a3df"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "twcert_security_news",
-      "source_name": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+      "id": "6cb696863c6596133f78"
     },
     {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2215",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-11-09T11:37:04+00:00",
+      "fetched_at": "2026-11-09T11:48:19+00:00",
+      "summary": "Ein entfernter Angreifer kann eine Schwachstelle in Ruby ausnutzen, um Informationen offenzulegen",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2ee858e33020508b6af7"
+    },
+    {
+      "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2083",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-09T11:37:04+00:00",
+      "fetched_at": "2026-11-09T11:48:19+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f060e5c0c93de38ca80d"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

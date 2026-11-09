@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-09T11:30:47+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-11-09T11:48:49+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 4,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
-    "medium": 19,
+    "medium": 23,
     "observe": 23
   },
-  "source_errors_count": 2,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy",
@@ -22,6 +22,16 @@
       "relevance_score": 22,
       "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "summary": "Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.",
+      "section": "medium"
+    },
+    {
+      "title": "M 4.7 - 271 km N of Tobelo, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-09T11:46:31.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3c",
+      "summary": "Time 2026-11-09 11:25:07 UTC 2026-11-09 11:25:07 UTC at epicenter Location 4.174°N 127.780°E Depth 98.29 km (61.08 mi)",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32",
       "summary": "Time 2026-11-09 09:48:27 UTC 2026-11-09 09:48:27 UTC at epicenter Location 3.055°S 130.410°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.6 - 69 km ESE of Takahagi, Japan",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-09T05:31:19.649+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i",
-      "summary": "DYFI? - IV Time 2026-11-09 05:01:53 UTC 2026-11-09 05:01:53 UTC at epicenter Location 36.494°N 141.449°E Depth 35.00 km (21.75 mi)",
       "section": "medium"
     },
     {
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [mittel] LibreOffice: Schwachstelle ermöglicht Denial-of-Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [mittel] LibreOffice: Schwachstelle ermöglicht Denial-of-Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4371",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-28T14:08:37+00:00",
-        "age_days": 72.89,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 72.9d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[UPDATE] [hoch] MariaDB: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4367",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:15:22+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MariaDB ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und Dateien zu manipulieren oder Informationen offenzulegen."
-      },
-      {
-        "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU93403064/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T11:00:00+09:00",
-        "age_days": 0.4,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "オープンウェーブメッセージング株式会社が提供するWebtop Media Transcoderには、異なる領域間での不適切なリソースの移動の脆弱性が存在します。"
-      },
-      {
-        "title": "[UPDATE] [hoch] Wazuh: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4377",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T10:42:02+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Wazuh ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Informationen auszuspähen, Daten zu manipulieren, beliebigen Programmcode mit Administratorrechten auszuführen oder einen Denial-of-Service-Zustand zu verursachen."
-      },
-      {
-        "title": "[UPDATE] [hoch] JetBrains You Track: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4378",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T10:42:02+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains You Track ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um beliebigen Programmcode auszuführen."
-      }
-    ]
-  }
+  ]
 }

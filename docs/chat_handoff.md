@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T11:30:47+00:00_
+_Generated: 2026-11-09T11:48:49+00:00_
 
 ## Status
-- status: `warning`
-- findings: `42`
+- status: `normal`
+- findings: `46`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-09T11:30:47+00:00_
 - url: https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.
 
-### 2. M 4.8 - 183 km E of Masohi, Indonesia
+### 2. M 4.7 - 271 km N of Tobelo, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-09T11:46:31.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3c
+- summary: Time 2026-11-09 11:25:07 UTC 2026-11-09 11:25:07 UTC at epicenter Location 4.174°N 127.780°E Depth 98.29 km (61.08 mi)
+
+### 3. M 4.8 - 183 km E of Masohi, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-09T10:14:17.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34
 - summary: Time 2026-11-09 09:53:38 UTC 2026-11-09 09:53:38 UTC at epicenter Location 2.978°S 130.584°E Depth 10.00 km (6.21 mi)
 
-### 3. M 5.2 - 162 km E of Masohi, Indonesia
+### 4. M 5.2 - 162 km E of Masohi, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-09T10:04:08.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32
 - summary: Time 2026-11-09 09:48:27 UTC 2026-11-09 09:48:27 UTC at epicenter Location 3.055°S 130.410°E Depth 10.00 km (6.21 mi)
-
-### 4. M 4.6 - 69 km ESE of Takahagi, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-09T05:31:19.649+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i
-- summary: DYFI? - IV Time 2026-11-09 05:01:53 UTC 2026-11-09 05:01:53 UTC at epicenter Location 36.494°N 141.449°E Depth 35.00 km (21.75 mi)
 
 ### 5. M 6.4 - 27 km SW of Lata, Solomon Islands
 - source: USGS M4.5+ Earthquakes Past Hour
