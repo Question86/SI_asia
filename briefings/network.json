@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-09T12:23:56+00:00",
+  "generated_at": "2026-11-09T12:49:43+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 54,
-    "clusters": 37,
+    "findings": 60,
+    "clusters": 39,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 11
+    "dominance_penalized": 12
   },
   "clusters": [
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
+      "title": "[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -20,30 +20,30 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3329",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4415",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4413",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4411",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4407",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0427"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4411"
       ],
-      "finding_count": 16,
-      "max_score": 14,
-      "credibility_total": 16.8,
+      "finding_count": 19,
+      "max_score": 16,
+      "credibility_total": 19.95,
       "cross_source_confirmed": false,
-      "momentum_delta": 5,
+      "momentum_delta": 3,
       "momentum_status": "increasing",
-      "network_score": 28.5,
+      "network_score": 30.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 62.6,
-      "ranking_score": 28.5,
+      "raw_network_score": 64.9,
+      "ranking_score": 30.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 8.0,
+      "momentum_bonus": 7.5,
       "baseline_bonus": 5.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -90,6 +90,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Leading today, building for tomorrow",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261109-leading-today-building-tomorrow",
+        "https://www.bis.org/speeches/20261109-integrated-open-and-resilient-europes-strengths-fragmenting-world"
+      ],
+      "finding_count": 2,
+      "max_score": 8,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 16.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 18.2,
+      "ranking_score": 16.0,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:ss1-ss1-odm-rocoeyes",
@@ -796,6 +836,47 @@
       "first_seen_at": "2026-06-19T02:10:07+00:00"
     },
     {
+      "key": "earthquake:turkey:4.7",
+      "title": "M 4.7 - 17 km NW of İmamoğlu, Turkey",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.7,
+      "ranking_score": 10.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-11-09T12:49:43+00:00"
+    },
+    {
       "key": "title:entering-indonesia-tax-issues-startups-underestimate",
       "title": "Entering Indonesia? The tax issues startups underestimate",
       "sources": [
@@ -894,18 +975,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.19,
+      "network_score": 9.14,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.3,
-      "ranking_score": 9.19,
+      "ranking_score": 9.14,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.69,
+      "baseline_bonus": 0.64,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -932,18 +1013,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 8.94,
+      "network_score": 8.91,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 9.1,
-      "ranking_score": 8.94,
+      "ranking_score": 8.91,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.44,
+      "baseline_bonus": 0.41,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1193,44 +1274,6 @@
       "first_seen_at": "2026-11-09T01:17:38+00:00"
     },
     {
-      "key": "title:bitcoin-tests-188-can-200-day-line-stop",
-      "title": "Bitcoin tests US$73,188: Can the 200-day line stop the slide?",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/bitcoin-tests-us73188-can-the-200-day-line-stop-the-slide-20261109/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 8.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 9.1,
-      "ranking_score": 8.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-09T12:23:56+00:00"
-    },
-    {
       "key": "title:3762-tbs-news-dig-powered-jnn-yahoo",
       "title": "【速報】ニトリ 最大3762万件の会員情報が流出の可能性 今月6日不正アクセスを確認 客の氏名、住所、電話番号など流出か カード情報やパスワード含まれず（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
       "sources": [
@@ -1421,6 +1464,44 @@
       "first_seen_at": "2026-08-31T18:43:10+00:00"
     },
     {
+      "key": "title:bitcoin-tests-188-can-200-day-line-stop",
+      "title": "Bitcoin tests US$73,188: Can the 200-day line stop the slide?",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/bitcoin-tests-us73188-can-the-200-day-line-stop-the-slide-20261109/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 5.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 6.1,
+      "ranking_score": 5.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-09T12:23:56+00:00"
+    },
+    {
       "key": "title:software-collapsing-one-input-window-but-code-still",
       "title": "Software is collapsing into one input window, but code still has to check the model’s work",
       "sources": [
@@ -1461,7 +1542,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-09T12:23:57Z",
+    "generated_at": "2026-11-09T12:49:44Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
