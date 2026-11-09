@@ -100,5 +100,142 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Terminal2Shell: Critical flaw grants instant shell access on every major OS” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=36.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
+        "url": "https://terminal2shell.com/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-09T15:06:09+00:00",
+        "age_days": 0.32,
+        "topics": [
+          "axiom",
+          "security"
+        ],
+        "dynamics_score": 36.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: critical, privilege, privileges",
+          "security high-signal: critical, privilege, privileges",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "What is Terminal2Shell? Terminal2Shell is a design-level vulnerability in terminal emulators. When a terminal is launched, it immediately spawns a shell process and connects it directly to the user's keyboard. From there, the attacker can issue arbitrary commands with the full privileges of the l..."
+      },
+      {
+        "title": "[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:42:01+00:00",
+        "age_days": 0.42,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: kritisch, code",
+          "security high-signal: kritisch, code"
+        ],
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ruby und Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen."
+      },
+      {
+        "title": "Introducing Control Room: Human control over AI workloads",
+        "url": "https://openai.com/index/introducing-control-room",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-09T13:00:00+00:00",
+        "age_days": 0.41,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: security"
+        ],
+        "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+      },
+      {
+        "title": "[UPDATE] [hoch] Squid: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3329",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:42:01+00:00",
+        "age_days": 0.42,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Squid ausnutzen, um einen Denial of Service Angriff durchzuführen, um beliebigen Programmcode auszuführen und um Sicherheitsvorkehrungen zu umgehen."
+      },
+      {
+        "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:01+00:00",
+        "age_days": 0.44,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen sowie Daten zu manipulieren oder offenzulegen."
+      }
+    ]
+  }
 }
