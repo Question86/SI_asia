@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T19:13:46+00:00",
-  "today_file_total": 76,
+  "generated_at": "2026-11-09T19:31:30+00:00",
+  "today_file_total": 78,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -395,6 +395,30 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:openai.com",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "https://openai.com/index/kuken"
+      ],
+      "finding_count": 2,
+      "max_score": 8,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:why-southeast-asia-healthtech-startups-struggle-attract-investment",
       "title": "Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom",
       "sources": [
@@ -462,31 +486,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 4.6 - 206 km e of kirakira, solomon islands:4.6",
-      "title": "M 4.6 - 206 km E of Kirakira, Solomon Islands",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6j"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }

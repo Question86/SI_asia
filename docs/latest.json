@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T19:13:41+00:00",
-  "run_id": "2026-11-09T19:13:41+00:00",
+  "generated_at": "2026-11-09T19:31:26+00:00",
+  "run_id": "2026-11-09T19:31:26+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 78
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "today_file_total": 78,
+    "displayed_findings": 78,
     "high": 0,
     "medium": 31,
-    "observe": 45,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -1169,6 +1169,42 @@
         "id": "98dbf85aa112dbd2236f"
       },
       {
+        "title": "M 4.6 - south of the Fiji Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6l",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-09T19:26:54.040+00:00",
+        "fetched_at": "2026-11-09T19:30:53+00:00",
+        "summary": "Time 2026-11-09 19:09:47 UTC 2026-11-09 19:09:47 UTC at epicenter Location 23.675°S 179.961°W Depth 519.94 km (323.08 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4123dfe6a49bf617c7ef"
+      },
+      {
         "title": "M 4.6 - 206 km E of Kirakira, Solomon Islands",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6j",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1573,6 +1609,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1e76b959fbd2bcf8944f"
+      },
+      {
+        "title": "Kuken Industries searches 70 years of drawings in minutes",
+        "url": "https://openai.com/index/kuken",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-09T08:00:00+00:00",
+        "fetched_at": "2026-11-09T19:30:53+00:00",
+        "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e559f2b4f701d4d075ce"
       },
       {
         "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
@@ -3070,6 +3126,42 @@
       "id": "98dbf85aa112dbd2236f"
     },
     {
+      "title": "M 4.6 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6l",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-09T19:26:54.040+00:00",
+      "fetched_at": "2026-11-09T19:30:53+00:00",
+      "summary": "Time 2026-11-09 19:09:47 UTC 2026-11-09 19:09:47 UTC at epicenter Location 23.675°S 179.961°W Depth 519.94 km (323.08 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4123dfe6a49bf617c7ef"
+    },
+    {
       "title": "M 4.6 - 206 km E of Kirakira, Solomon Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3476,6 +3568,26 @@
       "id": "1e76b959fbd2bcf8944f"
     },
     {
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "fetched_at": "2026-11-09T19:30:53+00:00",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e559f2b4f701d4d075ce"
+    },
+    {
       "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
       "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html",
       "source": "heise Security Alerts",
@@ -3833,13 +3945,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - 206 km E of Kirakira, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6j",
+      "title": "M 4.6 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-09T19:11:08.040+00:00",
-      "fetched_at": "2026-11-09T19:13:10+00:00",
-      "summary": "Time 2026-11-09 18:51:45 UTC 2026-11-09 18:51:45 UTC at epicenter Location 10.530°S 163.805°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-11-09T19:26:54.040+00:00",
+      "fetched_at": "2026-11-09T19:30:53+00:00",
+      "summary": "Time 2026-11-09 19:09:47 UTC 2026-11-09 19:09:47 UTC at epicenter Location 23.675°S 179.961°W Depth 519.94 km (323.08 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -3866,27 +3978,27 @@
         "HD",
         "LOW"
       ],
-      "id": "e336e5f6c99097302703"
+      "id": "4123dfe6a49bf617c7ef"
     },
     {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
       "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-09T19:00:00+00:00",
-      "fetched_at": "2026-11-09T19:13:10+00:00",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "fetched_at": "2026-11-09T19:30:53+00:00",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
       "matched_keywords": [
         "OpenAI"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cf343b766f6be5793c40"
+      "id": "e559f2b4f701d4d075ce"
     }
   ],
   "source_errors": [],
