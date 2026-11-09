@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T02:58:23+00:00",
+  "generated_at": "2026-11-09T03:05:49+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -605,6 +605,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4888e528c50d0cb1a9f7",
+      "title": "Software is collapsing into one input window, but code still has to check the model’s work",
+      "event_classes": [
+        "conflict"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200000.0,
+      "p50_usd": 10720000000.0,
+      "p90_usd": 1072000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-09T03:05:28+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_ba08d4bd315956d1d3e3",
       "title": "CodeQL 2.26.4 improves GitHub actions security detections",
       "event_classes": [
@@ -950,7 +967,7 @@
       "p90_usd": 114400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T02:26:11+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
@@ -10882,7 +10899,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T14:15:15+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
@@ -11426,7 +11443,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-09T01:17:38+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
@@ -14418,7 +14435,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T02:26:11+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
@@ -14588,7 +14605,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T02:35:34+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
@@ -14641,6 +14658,23 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d3bc0aa1aed930337a6b",
+      "title": "Effekseerにおける入力データ検証不備の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-09T03:05:28+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -19757,7 +19791,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T01:02:47+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
@@ -19825,7 +19859,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T00:03:39+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
@@ -31049,7 +31083,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T01:33:21+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
@@ -36625,7 +36659,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T02:49:40+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
@@ -37968,7 +38002,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T08:23:39+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
@@ -38036,7 +38070,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-27T16:37:33+00:00",
-      "last_seen_at": "2026-11-09T02:58:01+00:00",
+      "last_seen_at": "2026-11-09T03:05:28+00:00",
       "status": "active"
     },
     {
