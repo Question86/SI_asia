@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T06:16:24+00:00",
-  "run_id": "2026-11-09T06:16:24+00:00",
+  "generated_at": "2026-11-09T06:39:53+00:00",
+  "run_id": "2026-11-09T06:39:53+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1265,30 +1265,7 @@
       "id": "ad57122a4e19bae0bbc2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN76179675/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-09T15:00:00+09:00",
-      "fetched_at": "2026-11-09T06:15:55+00:00",
-      "summary": "株式会社ディー・オー・エスが提供するSS1／SS1クラウドおよび、株式会社ロココが提供するrocoeyesには複数の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a967299f254005e000ae"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
