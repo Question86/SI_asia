@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T23:47:38+00:00",
-  "run_id": "2026-11-09T23:47:38+00:00",
+  "generated_at": "2026-11-09T23:55:59+00:00",
+  "run_id": "2026-11-09T23:55:59+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 92
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 92,
-    "displayed_findings": 92,
+    "new_relevant_findings": 1,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 0,
     "medium": 36,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -2050,6 +2050,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6bb4ed5eb733a797ae88"
+      },
+      {
+        "title": "Go における Gra ceful Shutdown とハマりどころ",
+        "url": "https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-09T21:51:50+00:00",
+        "fetched_at": "2026-11-09T23:55:29+00:00",
+        "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3d7c9fb9ddcbbe57eb9e"
       },
       {
         "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
@@ -4367,6 +4388,27 @@
       "id": "6bb4ed5eb733a797ae88"
     },
     {
+      "title": "Go における Gra ceful Shutdown とハマりどころ",
+      "url": "https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-09T21:51:50+00:00",
+      "fetched_at": "2026-11-09T23:55:29+00:00",
+      "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3d7c9fb9ddcbbe57eb9e"
+    },
+    {
       "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4659,7 +4701,29 @@
       "id": "ad57122a4e19bae0bbc2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Go における Gra ceful Shutdown とハマりどころ",
+      "url": "https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-09T21:51:50+00:00",
+      "fetched_at": "2026-11-09T23:55:29+00:00",
+      "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3d7c9fb9ddcbbe57eb9e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
