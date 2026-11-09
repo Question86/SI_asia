@@ -1,67 +1,18 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-08T23:55:12+00:00_
+_Generated: 2026-11-09T00:03:36+00:00_
 
 ## Status
 - status: `warning`
-- findings: `32`
+- findings: `1`
 
 ## Top Signals
 
-### 1. vercel-labs/agent-browser
-- source: GitHub Trending RSS All Languages Daily
-- score: `22`
-- published: `None`
-- url: https://github.com/vercel-labs/agent-browser
-- summary: Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a brow…
-
-### 2. M 4.5 - 43 km E of Onagawa Chō, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-08T20:36:23.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twz2
-- summary: Time 2026-11-08 20:16:30 UTC 2026-11-08 20:16:30 UTC at epicenter Location 38.378°N 141.937°E Depth 55.70 km (34.61 mi)
-
-### 3. M 4.6 - 117 km NE of Tobelo, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-08T17:04:06.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd
-- summary: Time 2026-11-08 16:45:12 UTC 2026-11-08 16:45:12 UTC at epicenter Location 2.550°N 128.676°E Depth 224.59 km (139.55 mi)
-
-### 4. M 4.7 - 137 km E of Miyako, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-08T09:52:58.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1
-- summary: Time 2026-11-08 09:23:35 UTC 2026-11-08 09:23:35 UTC at epicenter Location 39.865°N 143.526°E Depth 10.00 km (6.21 mi)
-
-### 5. 日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.
+### 1. 日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）
 - source: Hatena Bookmark Hotentry IT
 - score: `13`
-- published: `2026-11-08T10:45:23+00:00`
-- url: https://posfie.com/@su_damari/p/xvcxjNy
-- summary: Ole Lehmann @itsolelehmann we have a winner for the most absurd AI startup ever this Peter Thiel backed company uses AI robots to stab fish in the brain so they taste better and last up to 3x longer it's called Shinkei and it modernizes a centuries-old Japane…
-
-### 6. MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev
-- source: Hatena Bookmark Hotentry IT
-- score: `13`
-- published: `2026-11-08T02:33:33+00:00`
-- url: https://hiraoku.dev/blog/mcp-cli-cloud/
-- summary: MCPAICLIAgentCloudMCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更なぜMCPへの批判が生まれ、CLIが支持されたのか。2026年7月28日版のステートレス化と、ツールの遅延読み込み・コード実行から、MCPの再評価を支えた変化を解説します。 Tech·Hiraoku·2026年11月7日·43 分で読めます いま、MCPはAI...
-
-### 7. M 4.7 - Southwest Indian Ridge
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-11-08T12:51:23.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxn
-- summary: Time 2026-11-08 12:29:17 UTC 2026-11-08 12:29:17 UTC at epicenter Location 27.690°S 64.443°E Depth 10.00 km (6.21 mi)
-
-### 8. M 4.7 - 46 km NW of Huara, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-11-08T12:11:37.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf
-- summary: Time 2026-11-08 11:58:32 UTC 2026-11-08 11:58:32 UTC at epicenter Location 19.681°S 70.060°W Depth 68.79 km (42.74 mi)
+- published: `2026-11-08T12:05:24+00:00`
+- url: https://shoei05.com/articles/3001/
+- summary: 日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...
 
 END OF DOCUMENT
