@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T07:19:31+00:00_
+_Generiert: 2026-11-09T07:29:43+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 69 km ESE of Takahagi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+25 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 69 km ESE of Takahagi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 9月、都内のクリニックがWebサイトに掲載したお知らせがX上で話題を呼んだ。院内のサーバで動かす「ローカルLLM」で診療情報を処理し、外部のAIサービスには患者の情報を送らないという内容だ。 AIで仕事を効率化する人は着実に増えているが、その多くが米OpenAIの「ChatGPT」や米Anthropicの「Claude」、米Googleの「Ge...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 54 km S of Klyuchi, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2g)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-09T07:25:53.040+00:00`, fetched `2026-11-09T07:29:15+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-09 07:04:13 UTC 2026-11-09 07:04:13 UTC at epicenter Location 55.834°N 160.975°E Depth 154.99 km (96.31 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 26 km SW of Lata, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1p)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-09T05:35:46.040+00:00`, fetched `2026-11-09T05:35:35+00:00`
@@ -141,15 +150,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia is a great place to expand or even build a startup. With more than 280 million people and a rapidly digitising middle class, it is easy to see the market’s growth potential. But a promising market does not always mean a straightforward expansion. For some founders, this is where things get complicated for its […] The post Entering Indonesia? The tax issues startups underestimate appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-09T02:41:32.040+00:00`, fetched `2026-11-09T02:41:39+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-09 02:21:57 UTC 2026-11-09 02:21:57 UTC at epicenter Location 25.186°S 176.996°W Depth 136.31 km (84.70 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-09T07:12:00.000+00:00`, fetched `2026-11-09T07:19:03+00:00`
