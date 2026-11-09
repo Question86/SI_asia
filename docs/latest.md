@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T02:26:08+00:00_
+_Generiert: 2026-11-09T02:35:31+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+9 neue relevante Treffer. Stärkstes Signal: „KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU92635551/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-09T11:30:00+09:00`, fetched `2026-11-09T02:35:01+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93403064/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-09T11:00:00+09:00`, fetched `2026-11-09T02:25:39+00:00`

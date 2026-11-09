@@ -1,5 +1,27 @@
 [
   {
+    "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU92635551/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-09T11:30:00+09:00",
+    "fetched_at": "2026-11-09T02:35:01+00:00",
+    "summary": "GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1decbbd4086ee143a058"
+  },
+  {
     "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU93403064/",
     "source": "JVN Japan Vulnerability Notes",

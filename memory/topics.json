@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T02:26:08+00:00",
+  "generated_at": "2026-11-09T02:35:31+00:00",
   "topics": {
     "security": [
+      {
+        "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T11:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92635551/"
+      },
       {
         "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
         "source": "JVN Japan Vulnerability Notes",

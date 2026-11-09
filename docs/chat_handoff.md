@@ -1,42 +1,49 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T02:26:08+00:00_
+_Generated: 2026-11-09T02:35:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `9`
 
 ## Top Signals
 
-### 1. Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性
+### 1. KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-11-09T11:30:00+09:00`
+- url: https://jvn.jp/vu/JVNVU92635551/
+- summary: GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。
+
+### 2. Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-09T11:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU93403064/
 - summary: オープンウェーブメッセージング株式会社が提供するWebtop Media Transcoderには、異なる領域間での不適切なリソースの移動の脆弱性が存在します。
 
-### 2. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
+### 3. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-11-09T02:00:40+00:00`
 - url: https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/
 - summary: Artificial intelligence is attracting serious investment across Southeast Asia. Startups are using it to automate business processes, develop new products, and solve problems that once required large engineering teams. Healthcare should be a natural beneficia…
 
-### 3. AI became my extra team member. I still have to manage it
+### 4. AI became my extra team member. I still have to manage it
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-11-09T01:00:54+00:00`
 - url: https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/
 - summary: On any given day, I could be editing an article about women’s health, preparing a sponsorship proposal for an esports tournament, planning social media content, answering emails from PR agencies and troubleshooting something on a website. And that’s before I’…
 
-### 4. 日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）
+### 5. 日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）
 - source: Hatena Bookmark Hotentry IT
 - score: `13`
 - published: `2026-11-08T12:05:24+00:00`
 - url: https://shoei05.com/articles/3001/
 - summary: 日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...
 
-### 5. ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？
+### 6. ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-11-08T23:17:44+00:00`

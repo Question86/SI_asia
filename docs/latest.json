@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T02:26:08+00:00",
-  "run_id": "2026-11-09T02:26:08+00:00",
+  "generated_at": "2026-11-09T02:35:31+00:00",
+  "run_id": "2026-11-09T02:35:31+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,39 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 7,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU92635551/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-09T11:30:00+09:00",
+        "fetched_at": "2026-11-09T02:35:01+00:00",
+        "summary": "GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1decbbd4086ee143a058"
+      },
       {
         "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
         "url": "https://jvn.jp/vu/JVNVU93403064/",
@@ -226,6 +248,28 @@
   },
   "findings": [
     {
+      "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92635551/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-09T11:30:00+09:00",
+      "fetched_at": "2026-11-09T02:35:01+00:00",
+      "summary": "GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1decbbd4086ee143a058"
+    },
+    {
       "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
@@ -419,13 +463,13 @@
   ],
   "new_findings": [
     {
-      "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU93403064/",
+      "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-11-09T11:00:00+09:00",
-      "fetched_at": "2026-11-09T02:25:39+00:00",
-      "summary": "オープンウェーブメッセージング株式会社が提供するWebtop Media Transcoderには、異なる領域間での不適切なリソースの移動の脆弱性が存在します。",
+      "published_at": "2026-11-09T11:30:00+09:00",
+      "fetched_at": "2026-11-09T02:35:01+00:00",
+      "summary": "GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。",
       "matched_keywords": [
         "APAC Trend Radar",
         "JVN",
@@ -438,30 +482,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ebf29ad3855cc732470c"
-    },
-    {
-      "title": "Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom",
-      "url": "https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-09T02:00:40+00:00",
-      "fetched_at": "2026-11-09T02:25:39+00:00",
-      "summary": "Artificial intelligence is attracting serious investment across Southeast Asia. Startups are using it to automate business processes, develop new products, and solve problems that once required large engineering teams. Healthcare should be a natural beneficiary. AI can assist with clinical documentation, diagnostics, administrative tasks, and remote care. Yet the region’s healthtech funding numbers tell a […] The po…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "funding",
-        "Southeast Asia"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); funding (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a59092e2db48a5fa5e70"
+      "id": "1decbbd4086ee143a058"
     }
   ],
   "source_errors": [],
