@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T03:57:44+00:00_
+_Generated: 2026-11-09T04:04:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -29,28 +29,35 @@ _Generated: 2026-11-09T03:57:44+00:00_
 - url: https://jvn.jp/vu/JVNVU93403064/
 - summary: オープンウェーブメッセージング株式会社が提供するWebtop Media Transcoderには、異なる領域間での不適切なリソースの移動の脆弱性が存在します。
 
-### 4. M 6.4 - 27 km SW of Lata, Solomon Islands
+### 4. “Almost” is a strategy, not a stall
+- source: e27 Asia Startup and Tech Feed
+- score: `14`
+- published: `2026-11-09T04:00:50+00:00`
+- url: https://e27.co/almost-is-a-strategy-not-a-stall-20261105/
+- summary: A founder I worked with spent four months “about to” shut down a product line that hadn’t worked in over a year. The numbers weren’t ambiguous. She wasn’t missing information. Every week there was one more customer call to make first, one more pricing test to…
+
+### 5. M 6.4 - 27 km SW of Lata, Solomon Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-11-09T03:50:06.971+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16
 - summary: PAGER - GREEN ShakeMap - VI Time 2026-11-09 03:35:01 UTC 2026-11-09 03:35:01 UTC at epicenter Location 10.896°S 165.618°E Depth 25.05 km (15.56 mi)
 
-### 5. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
+### 6. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-11-09T02:00:40+00:00`
 - url: https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/
 - summary: Artificial intelligence is attracting serious investment across Southeast Asia. Startups are using it to automate business processes, develop new products, and solve problems that once required large engineering teams. Healthcare should be a natural beneficia…
 
-### 6. AI became my extra team member. I still have to manage it
+### 7. AI became my extra team member. I still have to manage it
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-11-09T01:00:54+00:00`
 - url: https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/
 - summary: On any given day, I could be editing an article about women’s health, preparing a sponsorship proposal for an esports tournament, planning social media content, answering emails from PR agencies and troubleshooting something on a website. And that’s before I’…
 
-### 7. 日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）
+### 8. 日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）
 - source: Hatena Bookmark Hotentry IT
 - score: `13`
 - published: `2026-11-08T12:05:24+00:00`
