@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-09T07:14:28Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-11-09T07:24:37Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,38 @@
   ],
   "top_dynamics": [
     {
+      "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
+      "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-11-09T07:12:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: vpn",
+        "security high-signal: vpn"
+      ],
+      "summary": "SonicWall mahnt zum zügigen Update: Angreifer missbrauchen eine Sicherheitslücke im SSLVPN von SonicOS. Auch die CISA warnt."
+    },
+    {
       "title": "SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN76179675/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T15:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -39,7 +66,7 @@
       "url": "https://jvn.jp/jp/JVN89009783/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T14:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -111,7 +138,7 @@
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -137,7 +164,7 @@
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T02:26:11+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -163,7 +190,7 @@
       "url": "https://jvn.jp/jp/JVN76179675/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T06:16:28+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -187,7 +214,7 @@
       "url": "https://jvn.jp/jp/JVN89009783/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T05:04:15+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -211,7 +238,7 @@
       "url": "https://jvn.jp/jp/JVN56286875/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T03:05:28+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -235,7 +262,7 @@
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T02:35:34+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -259,35 +286,11 @@
       "url": "https://e27.co/almost-is-a-strategy-not-a-stall-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T04:04:52+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
       "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
-      "url": "https://shoei05.com/articles/3001/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-09T00:03:39+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
