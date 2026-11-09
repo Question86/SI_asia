@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T02:35:53+00:00",
+  "generated_at": "2026-11-09T02:42:29+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -950,7 +950,7 @@
       "p90_usd": 114400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T02:26:11+00:00",
-      "last_seen_at": "2026-11-09T02:35:34+00:00",
+      "last_seen_at": "2026-11-09T02:42:09+00:00",
       "status": "active"
     },
     {
@@ -10882,8 +10882,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T14:15:15+00:00",
-      "last_seen_at": "2026-09-04T14:15:15+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-09T02:42:09+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_bf62c3bb722c6dd077cb",
@@ -11426,7 +11426,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-09T01:17:38+00:00",
-      "last_seen_at": "2026-11-09T02:35:34+00:00",
+      "last_seen_at": "2026-11-09T02:42:09+00:00",
       "status": "active"
     },
     {
@@ -14418,7 +14418,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T02:26:11+00:00",
-      "last_seen_at": "2026-11-09T02:35:34+00:00",
+      "last_seen_at": "2026-11-09T02:42:09+00:00",
       "status": "active"
     },
     {
@@ -14575,6 +14575,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f727722aa5ddbb8c6512",
+      "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-09T02:35:34+00:00",
+      "last_seen_at": "2026-11-09T02:42:09+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_fd59174a18544633e53c",
       "title": "富士電機製V-SFTにおける複数の脆弱性（2026年10月）",
       "event_classes": [
@@ -14624,23 +14641,6 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_f727722aa5ddbb8c6512",
-      "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-09T02:35:34+00:00",
-      "last_seen_at": "2026-11-09T02:35:34+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -19757,7 +19757,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T01:02:47+00:00",
-      "last_seen_at": "2026-11-09T02:35:34+00:00",
+      "last_seen_at": "2026-11-09T02:42:09+00:00",
       "status": "active"
     },
     {
@@ -19825,7 +19825,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T00:03:39+00:00",
-      "last_seen_at": "2026-11-09T02:35:34+00:00",
+      "last_seen_at": "2026-11-09T02:42:09+00:00",
       "status": "active"
     },
     {
@@ -31049,7 +31049,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T01:33:21+00:00",
-      "last_seen_at": "2026-11-09T02:35:34+00:00",
+      "last_seen_at": "2026-11-09T02:42:09+00:00",
       "status": "active"
     },
     {
@@ -37951,7 +37951,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T08:23:39+00:00",
-      "last_seen_at": "2026-11-09T02:35:34+00:00",
+      "last_seen_at": "2026-11-09T02:42:09+00:00",
       "status": "active"
     },
     {
@@ -38019,7 +38019,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-27T16:37:33+00:00",
-      "last_seen_at": "2026-11-09T02:35:34+00:00",
+      "last_seen_at": "2026-11-09T02:42:09+00:00",
       "status": "active"
     },
     {
