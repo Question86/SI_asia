@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-11-09T10:33:20+00:00",
-  "today_file_total": 33,
+  "generated_at": "2026-11-09T10:49:42+00:00",
+  "today_file_total": 37,
   "current_clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Wazuh: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4377",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4378",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4379"
+      ],
+      "finding_count": 3,
+      "max_score": 14,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "network_score": 29.3,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "domain:restofworld.org",
       "title": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy",
@@ -126,29 +151,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+      "key": "earthquake:m 5.3 - 80 km ene of lagunas, peru:5.3",
+      "title": "M 5.3 - 80 km ENE of Lagunas, Peru",
       "sources": [
-        "heise Security Alerts"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "tier1_official"
       ],
       "urls": [
-        "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
-        "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
-        "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38"
       ],
-      "finding_count": 3,
-      "max_score": 7,
-      "credibility_total": 3.15,
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 16.3,
+      "network_score": 16.7,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:ss1-ss1-odm-rocoeyes",
@@ -408,6 +433,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:www.heise.de",
+      "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
+        "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
+        "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html"
+      ],
+      "finding_count": 3,
+      "max_score": 7,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:llm",
       "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
       "sources": [
@@ -429,54 +479,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://wirelesswire.jp/2026/11/94903/",
-      "title": "ソフトウェア産業が消滅する日──小さなローカルAIが暴く「プログラムを売る」という商売の終焉",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wirelesswire.jp/2026/11/94903/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 4.6 - 54 km s of klyuchi, russia:4.6",
-      "title": "M 4.6 - 54 km S of Klyuchi, Russia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2g"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T10:33:14+00:00",
+  "generated_at": "2026-11-09T10:49:39+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,20 @@
         "published_at": "2026-11-09T08:30:00+00:00",
         "relevance_score": 22,
         "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "[UPDATE] [hoch] JetBrains You Track: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T10:42:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4378"
+      },
+      {
+        "title": "[UPDATE] [hoch] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T10:42:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4379"
       },
       {
         "title": "Hackers drain US$4M using fake Wi-Fi at major crypto conferences",
@@ -59,20 +73,6 @@
         "published_at": "2026-11-09T06:10:18+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2768439"
-      },
-      {
-        "title": "AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影【西田宗千佳のイマトミライ】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-08T23:24:01+00:00",
-        "relevance_score": 5,
-        "url": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html"
-      },
-      {
-        "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-08T22:49:48+00:00",
-        "relevance_score": 5,
-        "url": "https://www.techno-edge.net/article/2026/11/09/5686.html"
       }
     ],
     "security": [
@@ -119,25 +119,32 @@
         "url": "https://jvn.jp/vu/JVNVU93403064/"
       },
       {
+        "title": "[UPDATE] [hoch] Wazuh: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T10:42:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4377"
+      },
+      {
+        "title": "[UPDATE] [hoch] JetBrains You Track: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T10:42:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4378"
+      },
+      {
+        "title": "[UPDATE] [hoch] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T10:42:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4379"
+      },
+      {
         "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
         "source": "heise Security Alerts",
         "published_at": "2026-11-09T10:18:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html"
-      },
-      {
-        "title": "Qnap NAS: Attackierte Lücken in Plex Media Server geschlossen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-09T08:31:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html"
-      },
-      {
-        "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-09T07:12:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html"
       }
     ],
     "general": [
@@ -177,6 +184,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16"
       },
       {
+        "title": "M 5.3 - 80 km ENE of Lagunas, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-09T10:36:09.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38"
+      },
+      {
         "title": "M 4.6 - 54 km S of Klyuchi, Russia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-09T07:25:53.040+00:00",
@@ -203,13 +217,6 @@
         "published_at": "2026-11-09T01:03:16.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f"
-      },
-      {
-        "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-08T23:05:32+00:00",
-        "relevance_score": 7,
-        "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/"
       }
     ],
     "economy": [
