@@ -952,6 +952,30 @@
     "id": "34036dd2c0746003ec81"
   },
   {
+    "title": "Multiples vulnérabilités dans WordPress (29 octobre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1420/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-29T00:00:00+00:00",
+    "fetched_at": "2026-11-09T15:18:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité",
+      "Webentwicklung"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Webentwicklung (+3.8); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c7132f93c60feabeb988"
+  },
+  {
     "title": "M 5.3 - 80 km ENE of Lagunas, Peru",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1051,6 +1075,30 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e066a01d2e89c855fb7a"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Google Chrome (04 novembre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1450/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "fetched_at": "2026-11-09T15:18:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "98dbf85aa112dbd2236f"
   },
   {
     "title": "M 4.7 - 17 km NW of İmamoğlu, Turkey",
@@ -1292,6 +1340,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "46ac5d93a2a3be08d065"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (04 novembre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1451/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "fetched_at": "2026-11-09T15:18:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4abcc285429ac6f069b2"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits Citrix (04 novembre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1449/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "fetched_at": "2026-11-09T15:18:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "96fc47c6f5c095a14c6f"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Ruby on Rails (04 novembre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1452/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "fetched_at": "2026-11-09T15:18:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Ruby on Rails. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "60a80bb509331b814bb9"
   },
   {
     "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",

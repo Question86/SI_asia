@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T15:03:54+00:00_
+_Generiert: 2026-11-09T15:18:52+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
+71 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the SEACEN Masterclass “Central bank communication”, Makati City, 20 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans WordPress (29 octobre 2026)** — Score 12, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1420/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-11-09T15:18:21+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.8); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 80 km ENE of Lagunas, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-09T10:36:09.040+00:00`, fetched `2026-11-09T10:49:12+00:00`
@@ -213,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)
   - Kurz: Welcome address by Mr Sergio Nicoletti Altimari, Deputy Governor of the Bank of Italy, at the 13th Joint ESA’s Consumer Protection Day, Rome, 4 November 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Google Chrome (04 novembre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1450/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-04T00:00:00+00:00`, fetched `2026-11-09T15:18:21+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 17 km NW of İmamoğlu, Turkey** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-09T12:48:06.040+00:00`, fetched `2026-11-09T12:49:11+00:00`
@@ -239,24 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the Hong Kong FinTech Week 2026, Hong Kong, 3 November 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Notepad++: Update schließt Rechteausweitungslücke und mehr** — Score 7, observation — [Quelle](https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-11-09T10:18:00.000+00:00`, fetched `2026-11-09T10:32:43+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Qnap NAS: Attackierte Lücken in Plex Media Server geschlossen** — Score 7, observation — [Quelle](https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-11-09T08:31:00.000+00:00`, fetched `2026-11-09T08:49:01+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Derzeit nutzen Angreifer die Plex2Shell-Schwachstellen in Plex Media Server aus. Nun ist eine abgesicherte Version auch für Qnap NAS erschienen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
