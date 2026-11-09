@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-09T16:45:36+00:00",
+  "generated_at": "2026-11-09T16:51:12+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-102895 GPUStack GPUStack",
+        "summary": "Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. GPUStack Improper Authentication Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-09",
+        "metrics": {
+          "cve": "CVE-2026-102895"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-123158 OpenBSD OpenSSH",
+        "summary": "Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-09",
+        "metrics": {
+          "cve": "CVE-2026-123158"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-116779 SignalWire FreeSwitch",
+        "summary": "Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. SignalWire FreeSwitch Code Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-09",
+        "metrics": {
+          "cve": "CVE-2026-116779"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -24,42 +60,6 @@
         "published_at": "2026-11-04",
         "metrics": {
           "cve": "CVE-2024-27834"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-119977 WordPress WordPress Core",
-        "summary": "Known exploited vulnerability. Added 2026-11-03. Due 2026-11-06. WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-03",
-        "metrics": {
-          "cve": "CVE-2026-119977"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-118527 Ivanti Connect Secure",
-        "summary": "Known exploited vulnerability. Added 2026-10-30. Due 2026-11-13. Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-30",
-        "metrics": {
-          "cve": "CVE-2026-118527"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-111357 Ivanti Connect Secure",
-        "summary": "Known exploited vulnerability. Added 2026-10-30. Due 2026-11-02. Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-10-30",
-        "metrics": {
-          "cve": "CVE-2026-111357"
         }
       },
       {

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T16:45:31+00:00_
+_Generiert: 2026-11-09T16:51:09+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,18 @@ _Generiert: 2026-11-09T16:45:31+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-102895 GPUStack GPUStack** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-09`
+  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. GPUStack Improper Authentication Vulnerability
+- **CISA KEV: CVE-2026-123158 OpenBSD OpenSSH** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-09`
+  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability
+- **CISA KEV: CVE-2026-116779 SignalWire FreeSwitch** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-09`
+  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. SignalWire FreeSwitch Code Injection Vulnerability
 - **CISA KEV: CVE-2026-19868 SonicWall SonicOS SSLVPN** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-06`
@@ -17,18 +29,6 @@ _Generiert: 2026-11-09T16:45:31+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-04`
   - Kurz: Known exploited vulnerability. Added 2026-11-04. Due 2026-11-18. Apple Multiple Products Improper Authentication Vulnerability
-- **CISA KEV: CVE-2026-119977 WordPress WordPress Core** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-03`
-  - Kurz: Known exploited vulnerability. Added 2026-11-03. Due 2026-11-06. WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability
-- **CISA KEV: CVE-2026-118527 Ivanti Connect Secure** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-30`
-  - Kurz: Known exploited vulnerability. Added 2026-10-30. Due 2026-11-13. Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability
-- **CISA KEV: CVE-2026-111357 Ivanti Connect Secure** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-30`
-  - Kurz: Known exploited vulnerability. Added 2026-10-30. Due 2026-11-02. Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576364)
   - Quelle: GDACS
   - Zeit: ``
