@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-09T03:14:52Z",
+  "generated_at": "2026-11-09T03:28:21Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 26,
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN56286875/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T12:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:30:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -67,35 +67,11 @@
       "summary": "GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。"
     },
     {
-      "title": "Effekseerにおける入力データ検証不備の脆弱性",
-      "url": "https://jvn.jp/jp/JVN56286875/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-09T03:05:28+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -121,7 +97,7 @@
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T02:26:11+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -143,11 +119,35 @@
       "summary": ""
     },
     {
+      "title": "Effekseerにおける入力データ検証不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN56286875/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-09T03:05:28+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T02:35:34+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -171,7 +171,7 @@
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T00:03:39+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -195,7 +195,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T01:03:16.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -220,7 +220,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T01:17:38+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -240,36 +240,11 @@
       "summary": ""
     },
     {
-      "title": "Software is collapsing into one input window, but code still has to check the model’s work",
-      "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-09T03:05:28+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "high terms: code"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom",
       "url": "https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T02:26:11+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -295,7 +270,7 @@
       "url": "https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T01:02:47+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -317,11 +292,36 @@
       "summary": ""
     },
     {
+      "title": "Software is collapsing into one input window, but code still has to check the model’s work",
+      "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-09T03:05:28+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: code"
+      ],
+      "summary": ""
+    },
+    {
       "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T12:05:24+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "general"
       ],
@@ -345,7 +345,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T02:41:32.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -369,7 +369,7 @@
       "url": "https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T02:00:40+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -395,7 +395,7 @@
       "url": "https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T01:00:54+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -421,7 +421,7 @@
       "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T03:00:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -441,39 +441,11 @@
       "summary": "My feed has been crowded with people showing off chat assistants. Everyone has a GrokBot in their messaging apps, Perplexity on their home screen, or a wrapper hooked into Telegram or Slack. The pitch is always the same: type to a bot and it handles your work. Most of these tools are toys. When you […] The post Softwa…"
     },
     {
-      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-27T16:37:33+00:00",
-      "age_days": 42.44,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.57,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 3.7,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 3.70",
-        "single-source AI hype brake -8.0",
-        "aging penalty -7.5 for 42.4d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.9 - south of the Fiji Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T14:15:15+00:00",
-      "age_days": 65.54,
+      "age_days": 65.55,
       "topics": [
         "general"
       ],
@@ -489,7 +461,35 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 65.5d old signal"
+        "aging penalty -8.0 for 65.6d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-27T16:37:33+00:00",
+      "age_days": 42.45,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.34,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.5,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.50",
+        "single-source AI hype brake -8.0",
+        "aging penalty -7.5 for 42.5d old signal",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -498,7 +498,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T01:33:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -524,22 +524,22 @@
       "url": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T02:49:40+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.5,
+      "dynamics_score": 6.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -550,7 +550,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:17:44+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -602,7 +602,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:05:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -627,7 +627,7 @@
       "url": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:24:01+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -652,7 +652,7 @@
       "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T22:49:48+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],

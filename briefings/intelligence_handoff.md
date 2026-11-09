@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-09T03:14:52Z_
+_Generated: 2026-11-09T03:28:21Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-09T12:00:00+09:00` / age_days `0.01`
+- Published: `2026-11-09T12:00:00+09:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,27 +22,17 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-09T11:30:00+09:00` / age_days `0.03`
+- Published: `2026-11-09T11:30:00+09:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/vu/JVNVU92635551/
 
-### Effekseerにおける入力データ検証不備の脆弱性
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-11-09T03:05:28+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://jvn.jp/jp/JVN56286875/
-
 ### Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T11:00:00+09:00` / age_days `0.05`
+- Published: `2026-11-09T11:00:00+09:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -52,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T02:26:11+00:00` / age_days `0.03`
+- Published: `2026-11-09T02:26:11+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: code, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://jvn.jp/vu/JVNVU93403064/
 
+### Effekseerにおける入力データ検証不備の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.5`
+- Published: `2026-11-09T03:05:28+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://jvn.jp/jp/JVN56286875/
+
 ### KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-09T02:35:34+00:00` / age_days `0.03`
+- Published: `2026-11-09T02:35:34+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-11-09T00:03:39+00:00` / age_days `0.13`
+- Published: `2026-11-09T00:03:39+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-09T01:03:16.040+00:00` / age_days `0.09`
+- Published: `2026-11-09T01:03:16.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,27 +92,17 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-11-09T01:17:38+00:00` / age_days `0.08`
+- Published: `2026-11-09T01:17:38+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f
 
-### Software is collapsing into one input window, but code still has to check the model’s work
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `15.5`
-- Published: `2026-11-09T03:05:28+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, high terms: code
-- Quelle: https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/
-
 ### Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-11-09T02:26:11+00:00` / age_days `0.03`
+- Published: `2026-11-09T02:26:11+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -122,10 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-11-09T01:02:47+00:00` / age_days `0.09`
+- Published: `2026-11-09T01:02:47+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/
+
+### Software is collapsing into one input window, but code still has to check the model’s work
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.0`
+- Published: `2026-11-09T03:05:28+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, high terms: code
+- Quelle: https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/
 
 END OF DOCUMENT
