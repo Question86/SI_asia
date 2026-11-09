@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-09T10:12:47Z_
+_Generated: 2026-11-09T10:22:12Z_
 
 ## Lageurteil
 
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSL
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-09T12:00:00+09:00` / age_days `0.3`
+- Published: `2026-11-09T12:00:00+09:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSL
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-09T11:30:00+09:00` / age_days `0.32`
+- Published: `2026-11-09T11:30:00+09:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSL
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T11:00:00+09:00` / age_days `0.34`
+- Published: `2026-11-09T11:00:00+09:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSL
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `143.34`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `143.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 143.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSL
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T08:30:00+00:00` / age_days `0.07`
+- Published: `2026-11-09T08:30:00+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSL
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T02:26:11+00:00` / age_days `0.32`
+- Published: `2026-11-09T02:26:11+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: code, krass gate: single-source non-official/non-identity signal capped
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSL
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-09T06:16:28+00:00` / age_days `0.16`
+- Published: `2026-11-09T06:16:28+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSL
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-09T05:04:15+00:00` / age_days `0.21`
+- Published: `2026-11-09T05:04:15+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSL
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-11-09T08:31:00.000+00:00` / age_days `0.07`
+- Published: `2026-11-09T08:31:00.000+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: security high-signal: security

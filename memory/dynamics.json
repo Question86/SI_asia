@@ -1,20 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-09T10:12:47Z",
+  "generated_at": "2026-11-09T10:22:12Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 1,
-      "strong": 16,
-      "watch": 20,
-      "quiet": 3
+      "strong": 18,
+      "watch": 21
     },
     "bands_after_gate_recheck": {
-      "strong": 17,
-      "watch": 20,
-      "quiet": 3
+      "strong": 19,
+      "watch": 21
     }
   },
   "top_dynamics": [
@@ -98,7 +96,7 @@
       "url": "https://jvn.jp/jp/JVN56286875/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T12:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -122,7 +120,7 @@
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:30:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -146,7 +144,7 @@
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -172,7 +170,7 @@
       "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 143.34,
+      "age_days": 143.35,
       "topics": [
         "ai"
       ],
@@ -200,7 +198,7 @@
       "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-09T08:30:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -227,7 +225,7 @@
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T02:26:11+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -253,7 +251,7 @@
       "url": "https://jvn.jp/jp/JVN76179675/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T06:16:28+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -277,7 +275,7 @@
       "url": "https://jvn.jp/jp/JVN89009783/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T05:04:15+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -369,11 +367,61 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - 183 km E of Masohi, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-09T10:14:17.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-09 09:53:38 UTC 2026-11-09 09:53:38 UTC at epicenter Location 2.978°S 130.584°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.2 - 162 km E of Masohi, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-09T10:04:08.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-09 09:48:27 UTC 2026-11-09 09:48:27 UTC at epicenter Location 3.055°S 130.410°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T00:03:39+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -442,11 +490,63 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - 183 km E of Masohi, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T21:47:43+00:00",
+      "age_days": 66.52,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.59,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "aging penalty -8.0 for 66.5d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.2 - 162 km E of Masohi, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T05:31:26+00:00",
+      "age_days": 66.2,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.59,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "aging penalty -8.0 for 66.2d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.7 - 106 km ENE of Hasaki, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:04:15+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -473,7 +573,7 @@
       "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-09T08:31:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -522,7 +622,7 @@
       "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T05:04:15+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -595,7 +695,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:35:46.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -620,7 +720,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T01:03:16.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -645,7 +745,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2g",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T07:29:46+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -669,7 +769,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:36:07+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -693,7 +793,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T01:17:38+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -709,6 +809,32 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている",
+      "url": "https://gigazine.net/news/20261109-macos-personal-knowledge-graph/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 143.35,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.81,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.83,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.83",
+        "aging penalty -8.0 for 143.3d old signal"
       ],
       "summary": ""
     },
@@ -787,7 +913,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 55.9d old signal"
+        "aging penalty -8.0 for 56.0d old signal"
       ],
       "summary": ""
     },
@@ -796,7 +922,7 @@
       "url": "https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T02:26:11+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -822,7 +948,7 @@
       "url": "https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T01:02:47+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -876,7 +1002,7 @@
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T12:05:24+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -894,130 +1020,6 @@
         "no strong comparative reason"
       ],
       "summary": "日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹..."
-    },
-    {
-      "title": "M 4.6 - 54 km S of Klyuchi, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2g",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-09T07:25:53.040+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-11-09 07:04:13 UTC 2026-11-09 07:04:13 UTC at epicenter Location 55.834°N 160.975°E Depth 154.99 km (96.31 mi)"
-    },
-    {
-      "title": "M 4.9 - south of the Fiji Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-09T02:41:32.040+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-11-09 02:21:57 UTC 2026-11-09 02:21:57 UTC at epicenter Location 25.186°S 176.996°W Depth 136.31 km (84.70 mi)"
-    },
-    {
-      "title": "Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom",
-      "url": "https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-09T02:00:40+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: remote, 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Artificial intelligence is attracting serious investment across Southeast Asia. Startups are using it to automate business processes, develop new products, and solve problems that once required large engineering teams. Healthcare should be a natural beneficiary. AI can assist with clinical documentation, diagnostics,…"
-    },
-    {
-      "title": "AI became my extra team member. I still have to manage it",
-      "url": "https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-09T01:00:54+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "On any given day, I could be editing an article about women’s health, preparing a sponsorship proposal for an esports tournament, planning social media content, answering emails from PR agencies and troubleshooting something on a website. And that’s before I’ve even looked at the rest of my to-do list. As the founder…"
-    },
-    {
-      "title": "Software is collapsing into one input window, but code still has to check the model’s work",
-      "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-09T03:00:00+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, 10"
-      ],
-      "summary": "My feed has been crowded with people showing off chat assistants. Everyone has a GrokBot in their messaging apps, Perplexity on their home screen, or a wrapper hooked into Telegram or Slack. The pitch is always the same: type to a bot and it handles your work. Most of these tools are toys. When you […] The post Softwa…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0."
