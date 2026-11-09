@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T21:02:17+00:00",
+  "generated_at": "2026-11-09T21:15:40+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-09T08:30:00+00:00",
         "relevance_score": 22,
         "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-09T09:01:37+00:00",
+        "relevance_score": 21,
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"
       },
       {
         "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-08T23:17:44+00:00",
         "relevance_score": 11,
         "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/"
-      },
-      {
-        "title": "サカナAIが上場準備 スタートアップで国内最大級、生成AI専業初 - 日本経済新聞",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-09T08:10:58+00:00",
-        "relevance_score": 10,
-        "url": "https://www.nikkei.com/article/DGXZQOUC067MH0W6A101C2000000/"
       }
     ],
     "security": [
@@ -145,6 +145,29 @@
         "published_at": "2026-11-09T12:07:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410"
+      }
+    ],
+    "github": [
+      {
+        "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-09T09:01:37+00:00",
+        "relevance_score": 21,
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"
+      },
+      {
+        "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-08T12:05:24+00:00",
+        "relevance_score": 13,
+        "url": "https://shoei05.com/articles/3001/"
+      },
+      {
+        "title": "ソフトウェア産業が消滅する日──小さなローカルAIが暴く「プログラムを売る」という商売の終焉",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-09T03:53:21+00:00",
+        "relevance_score": 7,
+        "url": "https://wirelesswire.jp/2026/11/94903/"
       }
     ],
     "geopolitics": [
@@ -361,22 +384,6 @@
         "published_at": "2026-11-09T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261109-integrated-open-and-resilient-europes-strengths-fragmenting-world"
-      }
-    ],
-    "github": [
-      {
-        "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-08T12:05:24+00:00",
-        "relevance_score": 13,
-        "url": "https://shoei05.com/articles/3001/"
-      },
-      {
-        "title": "ソフトウェア産業が消滅する日──小さなローカルAIが暴く「プログラムを売る」という商売の終焉",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-09T03:53:21+00:00",
-        "relevance_score": 7,
-        "url": "https://wirelesswire.jp/2026/11/94903/"
       }
     ]
   }

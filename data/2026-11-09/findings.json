@@ -23,6 +23,29 @@
     "id": "5a5f5c110b76ad1a4fa0"
   },
   {
+    "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+    "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-09T09:01:37+00:00",
+    "fetched_at": "2026-11-09T21:15:13+00:00",
+    "summary": "GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How… The post Secret scanning detects secrets in GitHub Actions workflow logs appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Actions",
+      "CodeQL/Dependabot",
+      "GitHub",
+      "GitHub Actions"
+    ],
+    "relevance_score": 21,
+    "relevance_reason": "GitHub Actions (+6.2); CodeQL/Dependabot (+8.8); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b87eb18601754216c39f"
+  },
+  {
     "title": "[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416",
     "source": "BSI CERT-Bund Security Advisories",

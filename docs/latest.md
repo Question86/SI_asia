@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T21:02:17+00:00_
+_Generiert: 2026-11-09T21:15:40+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
+80 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0)
   - Kurz: Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Secret scanning detects secrets in GitHub Actions workflow logs** — Score 21, observation — [Quelle](https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-09T09:01:37+00:00`, fetched `2026-11-09T21:15:13+00:00`
+  - Treffer: Actions, CodeQL/Dependabot, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); CodeQL/Dependabot (+8.8); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How… The post Secret scanning detects secrets in GitHub Actions workflow logs appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
