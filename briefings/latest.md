@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T07:29:43+00:00_
+_Generiert: 2026-11-09T07:46:05+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,14 @@ _Generiert: 2026-11-09T07:29:43+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.
+- **GDACS: Green flood alert in Iraq** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104272)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Iraq
+- **GDACS: Green flood alert in Israel** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104273)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Israel
 - **USGS earthquake M6.4 - 30 km WSW of Lata, Solomon Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16)
   - Quelle: USGS
   - Zeit: `2026-11-09T03:34:59+00:00`
