@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T08:21:20+00:00_
+_Generated: 2026-11-09T08:33:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
-### 1. M 4.6 - 69 km ESE of Takahagi, Japan
+### 1. Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy
+- source: Rest of World Global Tech Feed
+- score: `22`
+- published: `2026-11-09T08:30:00+00:00`
+- url: https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.
+
+### 2. M 4.6 - 69 km ESE of Takahagi, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-09T05:31:19.649+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i
 - summary: DYFI? - IV Time 2026-11-09 05:01:53 UTC 2026-11-09 05:01:53 UTC at epicenter Location 36.494°N 141.449°E Depth 35.00 km (21.75 mi)
 
-### 2. M 5.7 - 106 km ENE of Hasaki, Japan
+### 3. M 5.7 - 106 km ENE of Hasaki, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-09T05:02:56.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f
 - summary: Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)
 
-### 3. SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性
+### 4. SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-09T15:00:00+09:00`
 - url: https://jvn.jp/jp/JVN76179675/
 - summary: 株式会社ディー・オー・エスが提供するSS1／SS1クラウドおよび、株式会社ロココが提供するrocoeyesには複数の脆弱性が存在します。
-
-### 4. WebSAM WinShareにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-09T14:00:00+09:00`
-- url: https://jvn.jp/jp/JVN89009783/
-- summary: 日本電気株式会社が提供するWebSAM WinShareには、複数の脆弱性が存在します。
 
 ### 5. M 6.4 - 27 km SW of Lata, Solomon Islands
 - source: USGS M4.5+ Earthquakes Past Hour

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T08:21:20+00:00_
+_Generiert: 2026-11-09T08:33:57+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 69 km ESE of Takahagi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+26 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy** — Score 22, observation — [Quelle](https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-11-09T08:30:00+00:00`, fetched `2026-11-09T08:33:27+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0)
+  - Kurz: Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 69 km ESE of Takahagi, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-09T05:31:19.649+00:00`, fetched `2026-11-09T05:35:35+00:00`
@@ -240,9 +249,9 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
