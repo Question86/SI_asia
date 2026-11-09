@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T23:55:34+00:00",
+  "generated_at": "2026-11-09T00:04:01+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2043,7 +2043,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_23fb8afd580f37b46528",
@@ -2213,7 +2213,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ab8bebe9851784271f9a",
@@ -2383,7 +2383,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T16:09:35+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ddc77a3d59c6e5ce526f",
@@ -3845,7 +3845,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-11-08T13:03:41+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2990e7a6daa6de1a0010",
@@ -5171,7 +5171,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T05:39:01+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c86d0d10fad6f29071c3",
@@ -7296,7 +7296,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-11-08T06:42:25+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_40d625e8bf8667c27112",
@@ -9523,7 +9523,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-11-08T17:21:54+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8d8148f763bb012436ab",
@@ -15780,7 +15780,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T07:19:17+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ba4576ae6bd06eeefd2c",
@@ -18483,7 +18483,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T01:32:09+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_67c2499b8f5d8b26b94b",
@@ -19537,7 +19537,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T18:30:21+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_da7e60fa7f5bc3a77be7",
@@ -20115,7 +20115,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T12:32:44+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9bbd060e86eb511bd4ac",
@@ -20439,6 +20439,23 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1b17bf7be3aced60b898",
+      "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-09T00:03:39+00:00",
+      "last_seen_at": "2026-11-09T00:03:39+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0179c38e8dc959d9f1aa",
@@ -23244,7 +23261,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b485f903de3649c75cda",
@@ -28057,7 +28074,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T00:40:56+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_56ea069d7481e3f78a23",
@@ -29043,7 +29060,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T11:59:33+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b236adcbc46d455c1962",
@@ -29162,7 +29179,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T22:15:02+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b7f3064a986314445877",
@@ -29400,7 +29417,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T07:19:17+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d261fddb8ce7672992a8",
@@ -30642,7 +30659,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T23:27:04+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_90f0c0c86e9267d58e2d",
@@ -34195,7 +34212,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2f9a7af18d6b8d2139cf",
@@ -34331,7 +34348,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-08T23:19:35+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_37073614552c957af89b",
@@ -35266,7 +35283,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T09:40:46+00:00",
       "last_seen_at": "2026-11-08T23:55:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5f72774d97fdaeebacff",
