@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T20:32:39+00:00_
+_Generiert: 2026-11-09T20:40:33+00:00_
 
 ## Kurzlage
 
@@ -21,14 +21,14 @@ _Generiert: 2026-11-09T20:32:39+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-09`
   - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. SignalWire FreeSwitch Code Injection Vulnerability
+- **CISA KEV: CVE-2026-123218 IBM Aspera Faspex** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-09`
+  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. IBM Aspera Faspex Incorrect Authorization Vulnerability
 - **CISA KEV: CVE-2026-19868 SonicWall SonicOS SSLVPN** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-06`
   - Kurz: Known exploited vulnerability. Added 2026-11-06. Due 2026-11-20. SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability
-- **CISA KEV: CVE-2024-27834 Apple Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-04`
-  - Kurz: Known exploited vulnerability. Added 2026-11-04. Due 2026-11-18. Apple Multiple Products Improper Authentication Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576364)
   - Quelle: GDACS
   - Zeit: ``

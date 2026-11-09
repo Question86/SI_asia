@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:32:45+00:00",
+  "generated_at": "2026-11-09T20:40:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -41,6 +41,18 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "CISA KEV: CVE-2026-123218 IBM Aspera Faspex",
+        "summary": "Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. IBM Aspera Faspex Incorrect Authorization Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-09",
+        "metrics": {
+          "cve": "CVE-2026-123218"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "CISA KEV: CVE-2026-19868 SonicWall SonicOS SSLVPN",
         "summary": "Known exploited vulnerability. Added 2026-11-06. Due 2026-11-20. SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
         "source": "CISA KEV",
@@ -48,18 +60,6 @@
         "published_at": "2026-11-06",
         "metrics": {
           "cve": "CVE-2026-19868"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2024-27834 Apple Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-11-04. Due 2026-11-18. Apple Multiple Products Improper Authentication Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-04",
-        "metrics": {
-          "cve": "CVE-2024-27834"
         }
       },
       {
