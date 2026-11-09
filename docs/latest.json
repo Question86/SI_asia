@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T03:05:25+00:00",
-  "run_id": "2026-11-09T03:05:25+00:00",
+  "generated_at": "2026-11-09T03:22:26+00:00",
+  "run_id": "2026-11-09T03:22:26+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -659,50 +659,7 @@
       "id": "ad57122a4e19bae0bbc2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Effekseerにおける入力データ検証不備の脆弱性",
-      "url": "https://jvn.jp/jp/JVN56286875/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-09T12:00:00+09:00",
-      "fetched_at": "2026-11-09T03:04:59+00:00",
-      "summary": "パーティクルエフェクト編集ツールEffekseerには、入力データ検証不備の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6a51a28976b1810fd3cf"
-    },
-    {
-      "title": "Software is collapsing into one input window, but code still has to check the model’s work",
-      "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-09T03:00:00+00:00",
-      "fetched_at": "2026-11-09T03:04:59+00:00",
-      "summary": "My feed has been crowded with people showing off chat assistants. Everyone has a GrokBot in their messaging apps, Perplexity on their home screen, or a wrapper hooked into Telegram or Slack. The pitch is always the same: type to a bot and it handles your work. Most of these tools are toys. When you […] The post Software is collapsing into one input window, but code still has to check the model’s work appeared first…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ad57122a4e19bae0bbc2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
