@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T21:49:33+00:00",
+  "generated_at": "2026-11-09T21:54:42+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -16544,7 +16544,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9ed2410de632b1cd74e7",
@@ -17319,12 +17319,12 @@
     {
       "event_id": "evt_a850f061441f876706e2",
       "title": "Krpano 360° の脆弱性 CVE-2020-24901 を悪用：検索結果を操作する大規模な XSS キャンペーン",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -18331,13 +18331,13 @@
     {
       "event_id": "evt_b18ec0a8bf75849855bd",
       "title": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b1cbbade5b62c851f76a",
