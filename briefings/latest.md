@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T07:03:25+00:00_
+_Generiert: 2026-11-09T07:19:31+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 69 km ESE of Takahagi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+24 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 69 km ESE of Takahagi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -211,6 +211,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-09 02:21:57 UTC 2026-11-09 02:21:57 UTC at epicenter Location 25.186°S 176.996°W Depth 136.31 km (84.70 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-09T07:12:00.000+00:00`, fetched `2026-11-09T07:19:03+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: SonicWall mahnt zum zügigen Update: Angreifer missbrauchen eine Sicherheitslücke im SSLVPN von SonicOS. Auch die CISA warnt.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪** — Score 7, observation — [Quelle](https://www.itmedia.co.jp/news/article/2611/09/2000002998/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-08T23:05:32+00:00`, fetched `2026-11-09T01:32:48+00:00`
