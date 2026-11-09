@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T17:58:58+00:00",
-  "run_id": "2026-11-09T17:58:58+00:00",
+  "generated_at": "2026-11-09T18:11:00+00:00",
+  "run_id": "2026-11-09T18:11:00+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 0,
@@ -3719,29 +3719,7 @@
       "id": "ad57122a4e19bae0bbc2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Xユーザーのはまちや２さん: 「今日発表されたばかりの「ドラゴンクエストRPG 魔界樹と導かれし島」でGoogle検索すると1ページ目に西武プリンスホテルのサイトが何故か表示されるんだけど、どうやら... / X",
-      "url": "https://x.com/Hamachiya2/status/2119691158423040348",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-09T15:25:08+00:00",
-      "fetched_at": "2026-11-09T17:58:30+00:00",
-      "summary": "Xユーザーのはまちや２さん: 「今日発表されたばかりの「ドラゴンクエストRPG 魔界樹と導かれし島」でGoogle検索すると1ページ目に西武プリンスホテルのサイトが何故か表示されるんだけど、どうやら... / X",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aab91b2c5fc25b5f0685"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
