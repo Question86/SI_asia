@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T10:17:15+00:00_
+_Generiert: 2026-11-09T10:33:14+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
+33 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -167,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia is a great place to expand or even build a startup. With more than 280 million people and a rapidly digitising middle class, it is easy to see the market’s growth potential. But a promising market does not always mean a straightforward expansion. For some founders, this is where things get complicated for its […] The post Entering Indonesia? The tax issues startups underestimate appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Notepad++: Update schließt Rechteausweitungslücke und mehr** — Score 7, observation — [Quelle](https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-09T10:18:00.000+00:00`, fetched `2026-11-09T10:32:43+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Qnap NAS: Attackierte Lücken in Plex Media Server geschlossen** — Score 7, observation — [Quelle](https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html)
   - Quelle: heise Security Alerts / `rss`
