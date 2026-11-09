@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T02:49:36+00:00",
-  "run_id": "2026-11-09T02:49:36+00:00",
+  "generated_at": "2026-11-09T02:57:57+00:00",
+  "run_id": "2026-11-09T02:57:57+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 11,
     "displayed_findings": 11,
     "high": 0,
@@ -575,29 +575,7 @@
       "id": "754cc07a3f8b08bc47c5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影【西田宗千佳のイマトミライ】",
-      "url": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-08T23:24:01+00:00",
-      "fetched_at": "2026-11-09T02:49:08+00:00",
-      "summary": "AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影【西田宗千佳のイマトミライ】",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b0a01fbabe6e2ec2e9a6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
