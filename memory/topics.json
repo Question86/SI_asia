@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T02:57:57+00:00",
+  "generated_at": "2026-11-09T03:05:25+00:00",
   "topics": {
     "security": [
+      {
+        "title": "Effekseerにおける入力データ検証不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN56286875/"
+      },
       {
         "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
@@ -54,6 +61,13 @@
         "published_at": "2026-11-08T22:49:48+00:00",
         "relevance_score": 5,
         "url": "https://www.techno-edge.net/article/2026/11/09/5686.html"
+      },
+      {
+        "title": "Software is collapsing into one input window, but code still has to check the model’s work",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-09T03:00:00+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/"
       }
     ],
     "github": [
@@ -86,6 +100,15 @@
         "published_at": "2026-11-08T23:05:32+00:00",
         "relevance_score": 7,
         "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Software is collapsing into one input window, but code still has to check the model’s work",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-09T03:00:00+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/"
       }
     ]
   }
