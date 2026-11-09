@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T01:03:08+00:00",
+  "generated_at": "2026-11-09T01:18:00+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -12654,6 +12654,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d6cb17fc5937cbfdd145",
+      "title": "M 5.3 - south of the Fiji Islands",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-09T01:17:38+00:00",
+      "last_seen_at": "2026-11-09T01:17:38+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -19676,6 +19693,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_0ae20b95b446d00e4ba9",
+      "title": "AI became my extra team member. I still have to manage it",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-09T01:02:47+00:00",
+      "last_seen_at": "2026-11-09T01:17:38+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0fe6fa9731ff84e108db",
       "title": "DietrichGebert/ponytail",
       "event_classes": [
@@ -19740,7 +19774,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T00:03:39+00:00",
-      "last_seen_at": "2026-11-09T01:02:47+00:00",
+      "last_seen_at": "2026-11-09T01:17:38+00:00",
       "status": "active"
     },
     {
@@ -20456,23 +20490,6 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_0ae20b95b446d00e4ba9",
-      "title": "AI became my extra team member. I still have to manage it",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 114400.0,
-      "p50_usd": 11440000.0,
-      "p90_usd": 1144000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-09T01:02:47+00:00",
-      "last_seen_at": "2026-11-09T01:02:47+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0179c38e8dc959d9f1aa",
@@ -37866,7 +37883,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T08:23:39+00:00",
-      "last_seen_at": "2026-11-09T01:02:47+00:00",
+      "last_seen_at": "2026-11-09T01:17:38+00:00",
       "status": "active"
     },
     {
@@ -37934,7 +37951,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-27T16:37:33+00:00",
-      "last_seen_at": "2026-11-09T01:02:47+00:00",
+      "last_seen_at": "2026-11-09T01:17:38+00:00",
       "status": "active"
     },
     {
