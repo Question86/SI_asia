@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T21:31:34+00:00",
+  "generated_at": "2026-11-09T21:49:33+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -1122,7 +1122,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0af8c46a768dccd56c0c",
@@ -2618,7 +2618,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1b366742e973eb2c3ff2",
@@ -17317,6 +17317,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a850f061441f876706e2",
+      "title": "Krpano 360° の脆弱性 CVE-2020-24901 を悪用：検索結果を操作する大規模な XSS キャンペーン",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_a8660746cdbef0b1d5c0",
       "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
       "deduplicated_buckets": 0,
@@ -18316,6 +18327,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b18ec0a8bf75849855bd",
+      "title": "Terminal2Shell: Critical flaw grants instant shell access on every major OS",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_b1cbbade5b62c851f76a",
