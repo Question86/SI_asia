@@ -1,18 +1,43 @@
 {
-  "generated_at": "2026-11-09T04:48:03+00:00",
-  "today_file_total": 16,
+  "generated_at": "2026-11-09T05:04:15+00:00",
+  "today_file_total": 19,
   "current_clusters": [
     {
-      "key": "title:hackers-drain-using-fake-major-crypto-conferences",
-      "title": "Hackers drain US$4M using fake Wi-Fi at major crypto conferences",
+      "key": "earthquake:japan:5.7",
+      "title": "M 5.7 - 106 km ENE of Hasaki, Japan",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:websam-winshare",
+      "title": "WebSAM WinShareにおける複数の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/"
+        "https://jvn.jp/jp/JVN89009783/"
       ],
       "finding_count": 1,
       "max_score": 14,
@@ -22,10 +47,8 @@
       "momentum_status": "increasing",
       "network_score": 19.1,
       "hot": false,
-      "watchgraph_modules": [
-        "storms_floods_weather"
-      ],
-      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten."
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:effekseer",
@@ -95,6 +118,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:hackers-drain-using-fake-major-crypto-conferences",
+      "title": "Hackers drain US$4M using fake Wi-Fi at major crypto conferences",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten."
     },
     {
       "key": "title:almost-strategy-not-stall",
@@ -209,6 +257,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:entering-indonesia-tax-issues-startups-underestimate",
+      "title": "Entering Indonesia? The tax issues startups underestimate",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

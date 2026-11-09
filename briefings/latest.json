@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T04:48:00+00:00",
-  "run_id": "2026-11-09T04:48:00+00:00",
+  "generated_at": "2026-11-09T05:04:11+00:00",
+  "run_id": "2026-11-09T05:04:11+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,76 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 3,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 5,
-    "observe": 11,
+    "medium": 7,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "M 5.7 - 106 km ENE of Hasaki, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-09T05:02:56.040+00:00",
+        "fetched_at": "2026-11-09T05:03:37+00:00",
+        "summary": "Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "27992426da1b348e1539"
+      },
+      {
+        "title": "WebSAM WinShareにおける複数の脆弱性",
+        "url": "https://jvn.jp/jp/JVN89009783/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-09T14:00:00+09:00",
+        "fetched_at": "2026-11-09T05:03:37+00:00",
+        "summary": "日本電気株式会社が提供するWebSAM WinShareには、複数の脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1482a64009e2abfb6ce6"
+      },
       {
         "title": "Effekseerにおける入力データ検証不備の脆弱性",
         "url": "https://jvn.jp/jp/JVN56286875/",
@@ -296,6 +355,27 @@
         "id": "cc8d4c42f21e841172b8"
       },
       {
+        "title": "Entering Indonesia? The tax issues startups underestimate",
+        "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-09T05:00:27+00:00",
+        "fetched_at": "2026-11-09T05:03:37+00:00",
+        "summary": "Indonesia is a great place to expand or even build a startup. With more than 280 million people and a rapidly digitising middle class, it is easy to see the market’s growth potential. But a promising market does not always mean a straightforward expansion. For some founders, this is where things get complicated for its […] The post Entering Indonesia? The tax issues startups underestimate appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d512399da3a94675c187"
+      },
+      {
         "title": "M 4.9 - south of the Fiji Islands",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -453,6 +533,65 @@
     ]
   },
   "findings": [
+    {
+      "title": "M 5.7 - 106 km ENE of Hasaki, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-09T05:02:56.040+00:00",
+      "fetched_at": "2026-11-09T05:03:37+00:00",
+      "summary": "Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "27992426da1b348e1539"
+    },
+    {
+      "title": "WebSAM WinShareにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN89009783/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-09T14:00:00+09:00",
+      "fetched_at": "2026-11-09T05:03:37+00:00",
+      "summary": "日本電気株式会社が提供するWebSAM WinShareには、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1482a64009e2abfb6ce6"
+    },
     {
       "title": "Effekseerにおける入力データ検証不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN56286875/",
@@ -718,6 +857,27 @@
       "id": "cc8d4c42f21e841172b8"
     },
     {
+      "title": "Entering Indonesia? The tax issues startups underestimate",
+      "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-09T05:00:27+00:00",
+      "fetched_at": "2026-11-09T05:03:37+00:00",
+      "summary": "Indonesia is a great place to expand or even build a startup. With more than 280 million people and a rapidly digitising middle class, it is easy to see the market’s growth potential. But a promising market does not always mean a straightforward expansion. For some founders, this is where things get complicated for its […] The post Entering Indonesia? The tax issues startups underestimate appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d512399da3a94675c187"
+    },
+    {
       "title": "M 4.9 - south of the Fiji Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -875,27 +1035,27 @@
   ],
   "new_findings": [
     {
-      "title": "Hackers drain US$4M using fake Wi-Fi at major crypto conferences",
-      "url": "https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.7 - 106 km ENE of Hasaki, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-09T04:30:10+00:00",
-      "fetched_at": "2026-11-09T04:47:33+00:00",
-      "summary": "The recent TOKEN2049 conference in Singapore gathered the brightest minds and deepest pockets in the digital asset space. High-net-worth individuals and prominent crypto traders flooded the city to network and explore new financial frontiers. Beneath the surface of this prestigious gathering lurked a dark reality. Malicious actors systematically targeted these very attendees through highly coordinated […] The post H…",
+      "published_at": "2026-11-09T05:02:56.040+00:00",
+      "fetched_at": "2026-11-09T05:03:37+00:00",
+      "summary": "Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "Watchgraph:storms_floods_weather"
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules storms_floods_weather (+3.0)",
-      "risk_or_opportunity": "mixed",
-      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "storms_floods_weather"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "storms_floods_weather: flood"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -907,19 +1067,52 @@
         "MLM",
         "HOLN.SW",
         "HD",
-        "LOW",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
+        "LOW"
       ],
-      "id": "7cd5a65e675b4cf4243e"
+      "id": "27992426da1b348e1539"
+    },
+    {
+      "title": "WebSAM WinShareにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN89009783/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-09T14:00:00+09:00",
+      "fetched_at": "2026-11-09T05:03:37+00:00",
+      "summary": "日本電気株式会社が提供するWebSAM WinShareには、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1482a64009e2abfb6ce6"
+    },
+    {
+      "title": "Entering Indonesia? The tax issues startups underestimate",
+      "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-09T05:00:27+00:00",
+      "fetched_at": "2026-11-09T05:03:37+00:00",
+      "summary": "Indonesia is a great place to expand or even build a startup. With more than 280 million people and a rapidly digitising middle class, it is easy to see the market’s growth potential. But a promising market does not always mean a straightforward expansion. For some founders, this is where things get complicated for its […] The post Entering Indonesia? The tax issues startups underestimate appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d512399da3a94675c187"
     }
   ],
   "source_errors": [],

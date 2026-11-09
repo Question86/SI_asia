@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T04:48:00+00:00_
+_Generated: 2026-11-09T05:04:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `19`
 
 ## Top Signals
 
-### 1. Effekseerにおける入力データ検証不備の脆弱性
+### 1. M 5.7 - 106 km ENE of Hasaki, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-09T05:02:56.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f
+- summary: Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)
+
+### 2. WebSAM WinShareにおける複数の脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-11-09T14:00:00+09:00`
+- url: https://jvn.jp/jp/JVN89009783/
+- summary: 日本電気株式会社が提供するWebSAM WinShareには、複数の脆弱性が存在します。
+
+### 3. Effekseerにおける入力データ検証不備の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-09T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN56286875/
 - summary: パーティクルエフェクト編集ツールEffekseerには、入力データ検証不備の脆弱性が存在します。
 
-### 2. KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性
+### 4. KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-09T11:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU92635551/
 - summary: GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。
-
-### 3. Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-09T11:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU93403064/
-- summary: オープンウェーブメッセージング株式会社が提供するWebtop Media Transcoderには、異なる領域間での不適切なリソースの移動の脆弱性が存在します。
-
-### 4. Hackers drain US$4M using fake Wi-Fi at major crypto conferences
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-11-09T04:30:10+00:00`
-- url: https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/
-- summary: The recent TOKEN2049 conference in Singapore gathered the brightest minds and deepest pockets in the digital asset space. High-net-worth individuals and prominent crypto traders flooded the city to network and explore new financial frontiers. Beneath the surf…
 
 ### 5. M 6.4 - 27 km SW of Lata, Solomon Islands
 - source: USGS M4.5+ Earthquakes Past Hour

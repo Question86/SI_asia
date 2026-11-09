@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T04:48:00+00:00_
+_Generiert: 2026-11-09T05:04:11+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Effekseerにおける入力データ検証不備の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+19 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 106 km ENE of Hasaki, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 5.7 - 106 km ENE of Hasaki, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-09T05:02:56.040+00:00`, fetched `2026-11-09T05:03:37+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **WebSAM WinShareにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN89009783/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-09T14:00:00+09:00`, fetched `2026-11-09T05:03:37+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 日本電気株式会社が提供するWebSAM WinShareには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Effekseerにおける入力データ検証不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN56286875/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-09T12:00:00+09:00`, fetched `2026-11-09T03:04:59+00:00`
@@ -29,15 +47,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93403064/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-11-09T11:00:00+09:00`, fetched `2026-11-09T02:25:39+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: オープンウェーブメッセージング株式会社が提供するWebtop Media Transcoderには、異なる領域間での不適切なリソースの移動の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Hackers drain US$4M using fake Wi-Fi at major crypto conferences** — Score 14, mixed — [Quelle](https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -105,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 9月、都内のクリニックがWebサイトに掲載したお知らせがX上で話題を呼んだ。院内のサーバで動かす「ローカルLLM」で診療情報を処理し、外部のAIサービスには患者の情報を送らないという内容だ。 AIで仕事を効率化する人は着実に増えているが、その多くが米OpenAIの「ChatGPT」や米Anthropicの「Claude」、米Googleの「Ge...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Entering Indonesia? The tax issues startups underestimate** — Score 9, observation — [Quelle](https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-09T05:00:27+00:00`, fetched `2026-11-09T05:03:37+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
+  - Kurz: Indonesia is a great place to expand or even build a startup. With more than 280 million people and a rapidly digitising middle class, it is easy to see the market’s growth potential. But a promising market does not always mean a straightforward expansion. For some founders, this is where things get complicated for its […] The post Entering Indonesia? The tax issues startups underestimate appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-09T02:41:32.040+00:00`, fetched `2026-11-09T02:41:39+00:00`
@@ -131,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region usa: New York (+2.0)
   - Kurz: 米NVIDIAは11月8日（現地時間）、創業者でCEOのジェンスン・フアン氏が外国の情報機関による工作の標的になっていたとする報道を受け、取締役会が独立調査を開始すると発表した。 米New York Timesなどの報道によると、米情報当局は、フアン氏と親密な関係にあった中国人実業家アリス・フアン（Alice Huang、中国名はHua...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Software is collapsing into one input window, but code still has to check the model’s work** — Score 4, observation — [Quelle](https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-09T03:00:00+00:00`, fetched `2026-11-09T03:04:59+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: My feed has been crowded with people showing off chat assistants. Everyone has a GrokBot in their messaging apps, Perplexity on their home screen, or a wrapper hooked into Telegram or Slack. The pitch is always the same: type to a bot and it handles your work. Most of these tools are toys. When you […] The post Software is collapsing into one input window, but code still has to check the model’s work appeared first…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
