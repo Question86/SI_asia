@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T12:49:40+00:00_
+_Generiert: 2026-11-09T12:59:20+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
+62 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -249,6 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Indonesia is a great place to expand or even build a startup. With more than 280 million people and a rapidly digitising middle class, it is easy to see the market’s growth potential. But a promising market does not always mean a straightforward expansion. For some founders, this is where things get complicated for its […] The post Entering Indonesia? The tax issues startups underestimate appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Safeguarding trust and monetary sovereignty in a digital payments era** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20261109-safeguarding-trust-and-monetary-sovereignty-digital-payments-era)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-09T00:00:00+00:00`, fetched `2026-11-09T12:58:50+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the Hong Kong FinTech Week 2026, Hong Kong, 3 November 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Leading today, building for tomorrow** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261109-leading-today-building-tomorrow)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-11-09T00:00:00+00:00`, fetched `2026-11-09T12:49:11+00:00`
@@ -294,15 +303,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph demote clone (x0.45)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um Benutzerrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, Dateien zu manipulieren, Informationen auszulesen oder einen Denial-of-Service-Zustand herbeizuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Integrated, open and resilient - Europe’s strengths in a fragmenting world** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20261109-integrated-open-and-resilient-europes-strengths-fragmenting-world)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-09T00:00:00+00:00`, fetched `2026-11-09T12:49:11+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Speech by Mr Boris Vujčić, Vice-President of the European Central Bank, at the 5th Financial System Conference, organised by the Central Bank of Ireland, Dublin, 2 November 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
