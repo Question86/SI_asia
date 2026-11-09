@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T05:04:11+00:00_
+_Generiert: 2026-11-09T05:18:33+00:00_
 
 ## Kurzlage
 
@@ -56,7 +56,7 @@ _Generiert: 2026-11-09T05:04:11+00:00_
 - **USGS earthquake M5.7 - 106 km ENE of Hasaki, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f)
   - Quelle: USGS
   - Zeit: `2026-11-09T04:52:51+00:00`
-  - Kurz: M5.7 - 106 km ENE of Hasaki, Japan. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.7 - 106 km ENE of Hasaki, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

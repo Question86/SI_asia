@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T05:04:15+00:00",
+  "generated_at": "2026-11-09T05:18:36+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,14 +131,14 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.7 - 106 km ENE of Hasaki, Japan",
-        "summary": "M5.7 - 106 km ENE of Hasaki, Japan. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.7 - 106 km ENE of Hasaki, Japan. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f",
         "published_at": "2026-11-09T04:52:51+00:00",
         "metrics": {
           "mag": 5.7,
-          "alert": "",
-          "sig": 500.0,
+          "alert": "green",
+          "sig": 501.0,
           "tsunami": 0
         }
       }
