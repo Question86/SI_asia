@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T22:59:43+00:00",
-  "run_id": "2026-11-09T22:59:43+00:00",
+  "generated_at": "2026-11-09T23:20:18+00:00",
+  "run_id": "2026-11-09T23:20:18+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 91
+      "configured_public_sources_only": 92
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 91,
-    "displayed_findings": 91,
+    "new_relevant_findings": 1,
+    "today_file_total": 92,
+    "displayed_findings": 92,
     "high": 0,
     "medium": 36,
-    "observe": 55,
+    "observe": 56,
     "source_errors": 0
   },
   "sections": {
@@ -1966,6 +1966,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b8dcb11d17ffb2d35f23"
+      },
+      {
+        "title": "Claude Fable 5.2 in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-09T16:46:43+00:00",
+        "fetched_at": "2026-11-09T23:19:47+00:00",
+        "summary": "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable 5.2 in GitHub Copilot appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2073102e3eb85fb5fb1d"
       },
       {
         "title": "[NEU] [hoch] rclone: Mehrere Schwachstellen",
@@ -4262,6 +4283,27 @@
       "id": "b8dcb11d17ffb2d35f23"
     },
     {
+      "title": "Claude Fable 5.2 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-09T16:46:43+00:00",
+      "fetched_at": "2026-11-09T23:19:47+00:00",
+      "summary": "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable 5.2 in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2073102e3eb85fb5fb1d"
+    },
+    {
       "title": "[NEU] [hoch] rclone: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4412",
       "source": "BSI CERT-Bund Security Advisories",
@@ -4620,11 +4662,11 @@
   "new_findings": [
     {
       "title": "Claude Fable 5.2 in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
       "published_at": "2026-11-09T16:46:43+00:00",
-      "fetched_at": "2026-11-09T22:59:13+00:00",
+      "fetched_at": "2026-11-09T23:19:47+00:00",
       "summary": "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable 5.2 in GitHub Copilot appeared first on The GitHub Blog .",
       "matched_keywords": [
         "Copilot",
@@ -4637,28 +4679,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b8dcb11d17ffb2d35f23"
-    },
-    {
-      "title": "エンジニアにとってEMは魅力のない役割なのか - mtx2s’s blog",
-      "url": "https://mtx2s.hatenablog.com/entry/2026/11/09/210114",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-09T15:26:00+00:00",
-      "fetched_at": "2026-11-09T22:59:13+00:00",
-      "summary": "どうも、ソフトウェアエンジニアというのは、ラインマネージャーになりたがらない。そういう印象を持っている。 かつての私がそうだった。マネージャーへの打診を断った。エンジニアという仕事が楽しかったし、自分の性分に向いていると感じていたからだ。エンジニアとして成長していくことに、生き甲斐も感じていた。 ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0634c242d49bd6810d46"
+      "id": "2073102e3eb85fb5fb1d"
     }
   ],
   "source_errors": [],
