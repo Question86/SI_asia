@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T05:57:20+00:00",
+  "generated_at": "2026-11-09T06:16:24+00:00",
   "topics": {
     "general": [
       {
@@ -55,6 +55,13 @@
       }
     ],
     "security": [
+      {
+        "title": "SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T15:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN76179675/"
+      },
       {
         "title": "WebSAM WinShareにおける複数の脆弱性",
         "source": "JVN Japan Vulnerability Notes",

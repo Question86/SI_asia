@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T05:57:20+00:00_
+_Generated: 2026-11-09T06:16:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `23`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-09T05:57:20+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f
 - summary: Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)
 
-### 3. WebSAM WinShareにおける複数の脆弱性
+### 3. SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-11-09T15:00:00+09:00`
+- url: https://jvn.jp/jp/JVN76179675/
+- summary: 株式会社ディー・オー・エスが提供するSS1／SS1クラウドおよび、株式会社ロココが提供するrocoeyesには複数の脆弱性が存在します。
+
+### 4. WebSAM WinShareにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-09T14:00:00+09:00`
 - url: https://jvn.jp/jp/JVN89009783/
 - summary: 日本電気株式会社が提供するWebSAM WinShareには、複数の脆弱性が存在します。
-
-### 4. Effekseerにおける入力データ検証不備の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-09T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN56286875/
-- summary: パーティクルエフェクト編集ツールEffekseerには、入力データ検証不備の脆弱性が存在します。
 
 ### 5. M 6.4 - 27 km SW of Lata, Solomon Islands
 - source: USGS M4.5+ Earthquakes Past Hour
