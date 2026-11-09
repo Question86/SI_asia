@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T08:33:57+00:00",
-  "run_id": "2026-11-09T08:33:57+00:00",
+  "generated_at": "2026-11-09T08:49:30+00:00",
+  "run_id": "2026-11-09T08:49:30+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 10,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -600,6 +600,26 @@
           "LOW"
         ],
         "id": "bf762cff112b73534780"
+      },
+      {
+        "title": "Qnap NAS: Attackierte Lücken in Plex Media Server geschlossen",
+        "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-11-09T08:31:00.000+00:00",
+        "fetched_at": "2026-11-09T08:49:01+00:00",
+        "summary": "Derzeit nutzen Angreifer die Plex2Shell-Schwachstellen in Plex Media Server aus. Nun ist eine abgesicherte Version auch für Qnap NAS erschienen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1e76b959fbd2bcf8944f"
       },
       {
         "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
@@ -1299,6 +1319,26 @@
       "id": "bf762cff112b73534780"
     },
     {
+      "title": "Qnap NAS: Attackierte Lücken in Plex Media Server geschlossen",
+      "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-09T08:31:00.000+00:00",
+      "fetched_at": "2026-11-09T08:49:01+00:00",
+      "summary": "Derzeit nutzen Angreifer die Plex2Shell-Schwachstellen in Plex Media Server aus. Nun ist eine abgesicherte Version auch für Qnap NAS erschienen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1e76b959fbd2bcf8944f"
+    },
+    {
       "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
       "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html",
       "source": "heise Security Alerts",
@@ -1425,27 +1465,24 @@
   ],
   "new_findings": [
     {
-      "title": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy",
-      "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
+      "title": "Qnap NAS: Attackierte Lücken in Plex Media Server geschlossen",
+      "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-11-09T08:30:00+00:00",
-      "fetched_at": "2026-11-09T08:33:27+00:00",
-      "summary": "Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.",
+      "published_at": "2026-11-09T08:31:00.000+00:00",
+      "fetched_at": "2026-11-09T08:49:01+00:00",
+      "summary": "Derzeit nutzen Angreifer die Plex2Shell-Schwachstellen in Plex Media Server aus. Nun ist eine abgesicherte Version auch für Qnap NAS erschienen.",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "OpenAI",
         "Security"
       ],
-      "relevance_score": 22,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5a5f5c110b76ad1a4fa0"
+      "id": "1e76b959fbd2bcf8944f"
     }
   ],
   "source_errors": [],
