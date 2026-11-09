@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T11:02:59+00:00",
+  "generated_at": "2026-11-09T11:16:51+00:00",
   "topics": {
     "ai": [
       {
@@ -112,39 +112,39 @@
         "url": "https://jvn.jp/vu/JVNVU92635551/"
       },
       {
+        "title": "[UPDATE] [mittel] LibreOffice: Schwachstelle ermöglicht Denial-of-Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T11:15:22+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4371"
+      },
+      {
+        "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T11:15:22+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4375"
+      },
+      {
+        "title": "[UPDATE] [hoch] MariaDB: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T11:15:22+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4367"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T11:15:21+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4331"
+      },
+      {
         "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-09T11:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU93403064/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Wazuh: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T10:42:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4377"
-      },
-      {
-        "title": "[UPDATE] [hoch] JetBrains You Track: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T10:42:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4378"
-      },
-      {
-        "title": "[UPDATE] [hoch] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T10:42:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4379"
-      },
-      {
-        "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-09T10:18:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html"
       }
     ],
     "general": [
