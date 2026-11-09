@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-09T04:14:48Z",
+  "generated_at": "2026-11-09T04:25:08Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Effekseerにおける入力データ検証不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN56286875/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T12:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:30:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -59,35 +59,11 @@
       "summary": "GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。"
     },
     {
-      "title": "“Almost” is a strategy, not a stall",
-      "url": "https://e27.co/almost-is-a-strategy-not-a-stall-20261105/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-09T04:04:52+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -135,11 +111,35 @@
       "summary": ""
     },
     {
+      "title": "“Almost” is a strategy, not a stall",
+      "url": "https://e27.co/almost-is-a-strategy-not-a-stall-20261105/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-09T04:04:52+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 23.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Effekseerにおける入力データ検証不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN56286875/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T03:05:28+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -163,7 +163,7 @@
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T02:35:34+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -187,7 +187,7 @@
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T00:03:39+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -232,11 +232,35 @@
       "summary": "PAGER - GREEN ShakeMap - VI Time 2026-11-09 03:35:01 UTC 2026-11-09 03:35:01 UTC at epicenter Location 10.896°S 165.618°E Depth 25.05 km (15.56 mi)"
     },
     {
+      "title": "M 6.4 - 27 km SW of Lata, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-09T03:51:01+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "“Almost” is a strategy, not a stall",
       "url": "https://e27.co/almost-is-a-strategy-not-a-stall-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T04:00:50+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "macro"
       ],
@@ -256,35 +280,11 @@
       "summary": "A founder I worked with spent four months “about to” shut down a product line that hadn’t worked in over a year. The numbers weren’t ambiguous. She wasn’t missing information. Every week there was one more customer call to make first, one more pricing test to run, one more quarter to be sure. I hear […] The post “Almo…"
     },
     {
-      "title": "M 6.4 - 27 km SW of Lata, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-09T03:51:01+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Software is collapsing into one input window, but code still has to check the model’s work",
       "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T03:05:28+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -314,8 +314,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 3
+      "strong": 10,
+      "watch": 2
     }
   }
 }
