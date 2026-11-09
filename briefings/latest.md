@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T04:04:50+00:00_
+_Generiert: 2026-11-09T04:21:02+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,10 @@ _Generiert: 2026-11-09T04:04:50+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-30`
   - Kurz: Known exploited vulnerability. Added 2026-10-30. Due 2026-11-02. Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.4M, Depth:25.046km) in Solomon Is. 09/11/2026 03:35 UTC, 8 thousand in MMI VI.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576364)
+- **GDACS: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576364)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.4M, Depth:25.046km) in Solomon Is. 09/11/2026 03:35 UTC, 8 thousand in MMI VI.
+  - Kurz: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.
 - **USGS earthquake M6.4 - 30 km WSW of Lata, Solomon Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16)
   - Quelle: USGS
   - Zeit: `2026-11-09T03:34:59+00:00`
