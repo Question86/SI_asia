@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T11:23:05+00:00_
+_Generiert: 2026-11-09T11:30:47+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
+42 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -246,6 +246,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 9月、都内のクリニックがWebサイトに掲載したお知らせがX上で話題を呼んだ。院内のサーバで動かす「ローカルLLM」で診療情報を処理し、外部のAIサービスには患者の情報を送らないという内容だ。 AIで仕事を効率化する人は着実に増えているが、その多くが米OpenAIの「ChatGPT」や米Anthropicの「Claude」、米Googleの「Ge...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **サカナAIが上場準備 スタートアップで国内最大級、生成AI専業初 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC067MH0W6A101C2000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-09T08:10:58+00:00`, fetched `2026-11-09T11:29:53+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 人工知能（AI）開発のSakana AI（サカナAI、東京・港）は新規株式公開（IPO）の準備に入った。日米市場を念頭に、早ければ2027年秋に上場させる。計画通り進めば、生成AI専業として国内初となる。初値の時価総額はメルカリの約6800億円を上回り、国内スタートアップで過去最大級の案件となる可能性がある。IPOの助言役と...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 54 km S of Klyuchi, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2g)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-09T07:25:53.040+00:00`, fetched `2026-11-09T07:29:15+00:00`
@@ -291,15 +300,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: SonicWall mahnt zum zügigen Update: Angreifer missbrauchen eine Sicherheitslücke im SSLVPN von SonicOS. Auch die CISA warnt.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている** — Score 7, observation — [Quelle](https://gigazine.net/news/20261109-macos-personal-knowledge-graph/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-09T07:02:52+00:00`, fetched `2026-11-09T10:16:42+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
-  - Kurz: 2022年10月にリリースされたmacOS Ventura(macOS 13)以降のmacOSには、「ユーザーが誰で、どういった知り合いを持っていて、どのような関係を築いているのか」といった情報をグラフ化するための2つのデーモン(常駐プログラム)が搭載されていることが明らかになりました。 Anatomy of Apple's Personal Knowledge Graph —...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -310,3 +310,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
