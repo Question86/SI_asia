@@ -1,20 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-09T22:10:41Z",
+  "generated_at": "2026-11-09T22:37:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 15,
-      "strong": 23,
-      "watch": 1
+      "krass": 17,
+      "strong": 22
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 36,
-      "watch": 2
+      "strong": 37,
+      "watch": 1
     }
   },
   "top_dynamics": [
@@ -23,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:42:01+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -48,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:22:01+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "security"
@@ -74,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 73.33,
+      "age_days": 73.35,
       "topics": [
         "security"
       ],
@@ -92,7 +91,7 @@
         "momentum delta +3",
         "high terms: kritisch, rce, code",
         "security high-signal: kritisch, rce, code",
-        "aging penalty -8.0 for 73.3d old signal",
+        "aging penalty -8.0 for 73.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -102,7 +101,7 @@
       "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-09T07:12:00.000+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "security",
@@ -129,7 +128,7 @@
       "url": "https://jvn.jp/jp/JVN76179675/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T15:00:00+09:00",
-      "age_days": 0.67,
+      "age_days": 0.69,
       "topics": [
         "security"
       ],
@@ -153,7 +152,7 @@
       "url": "https://jvn.jp/jp/JVN89009783/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T14:00:00+09:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "security"
       ],
@@ -177,7 +176,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4415",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:42:01+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -201,7 +200,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4411",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:12:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -225,7 +224,7 @@
       "url": "https://jvn.jp/jp/JVN56286875/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T12:00:00+09:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "security"
       ],
@@ -249,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0427",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:37:06+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -273,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2215",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:37:04+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -297,7 +296,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2083",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:37:04+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -321,7 +320,7 @@
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:30:00+09:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "security"
       ],
@@ -345,7 +344,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4371",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:15:22+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -369,7 +368,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4375",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:15:22+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -393,7 +392,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4331",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:15:21+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -417,7 +416,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1451/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 5.92,
+      "age_days": 5.94,
       "topics": [
         "ai",
         "security"
@@ -443,7 +442,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1449/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 5.92,
+      "age_days": 5.94,
       "topics": [
         "ai",
         "security"
@@ -469,7 +468,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1452/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 5.92,
+      "age_days": 5.94,
       "topics": [
         "ai",
         "security"
@@ -495,7 +494,7 @@
       "url": "https://terminal2shell.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T15:06:09+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -523,7 +522,7 @@
       "url": "https://openai.com/index/introducing-control-room",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-09T13:00:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security"
@@ -549,7 +548,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3329",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:42:01+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -575,7 +574,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4413",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:22:00+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -601,7 +600,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:07:01+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -627,7 +626,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4407",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:47:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -653,7 +652,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4367",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:15:22+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -679,7 +678,7 @@
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:00:00+09:00",
-      "age_days": 0.84,
+      "age_days": 0.86,
       "topics": [
         "security"
       ],
@@ -705,7 +704,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4377",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:02+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -731,7 +730,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4378",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:02+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "security"
@@ -758,7 +757,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4379",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:01+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "security"
@@ -781,11 +780,36 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in JetBrains IntelliJ IDEA ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Informationen auszuspähen, Dateien zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder beliebigen Programmcode auszuführen."
     },
     {
+      "title": "Krpano 360° の脆弱性 CVE-2020-24901 を悪用：検索結果を操作する大規模な XSS キャンペーン",
+      "url": "https://iototsecnews.jp/2025/02/28/over-350-high-profile-websites-hit-by-360xss-attack/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-09T21:48:52+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cve",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Multiples vulnérabilités dans WordPress (29 octobre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1420/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-29T00:00:00+00:00",
-      "age_days": 11.92,
+      "age_days": 11.94,
       "topics": [
         "ai",
         "security"
@@ -812,7 +836,7 @@
       "url": "https://iototsecnews.jp/2025/02/28/over-350-high-profile-websites-hit-by-360xss-attack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T18:48:54+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -833,11 +857,37 @@
       "summary": "Over 350 High-Profile Websites Hit by 360XSS Attack 2025/02/28 HackRead — 360XSS と呼ばれるキャンペーンは、Krpano の XSS の脆弱性を悪用することで検索結果を乗っ取り、政府／大学／報道などの 350 以上の Web サイトでスパム広告を配信するものだ。 仮想ツアー・フレームワーク Krpano 内の XSS 脆弱性を悪用す..."
     },
     {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-11-09T13:00:00+00:00",
+      "age_days": 0.4,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+    },
+    {
       "title": "CodeRabbit scales agentic software development and ships 20x more",
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 145.06,
+      "age_days": 145.08,
       "topics": [
         "ai"
       ],
@@ -848,12 +898,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.08,
+      "baseline_z_hint": 8.88,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.08",
+        "baseline z_hint 8.88",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "aging penalty -8.0 for 145.1d old signal",
@@ -866,7 +916,7 @@
       "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 143.84,
+      "age_days": 143.86,
       "topics": [
         "ai"
       ],
@@ -884,32 +934,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 143.8d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Krpano 360° の脆弱性 CVE-2020-24901 を悪用：検索結果を操作する大規模な XSS キャンペーン",
-      "url": "https://iototsecnews.jp/2025/02/28/over-350-high-profile-websites-hit-by-360xss-attack/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-09T21:48:52+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "security high-signal: cve",
+        "aging penalty -8.0 for 143.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -919,7 +944,7 @@
       "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-09T08:30:00+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "ai",
         "security"
@@ -946,7 +971,7 @@
       "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-09T10:18:00.000+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -971,7 +996,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1450/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 5.92,
+      "age_days": 5.94,
       "topics": [
         "security"
       ],
@@ -995,7 +1020,7 @@
       "url": "https://www.bis.org/speeches/20261109-message-seacen-masterclass-central-bank-communication",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 144.32,
+      "age_days": 144.34,
       "topics": [
         "general"
       ],
@@ -1017,31 +1042,6 @@
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": ""
-    },
-    {
-      "title": "Qnap NAS: Attackierte Lücken in Plex Media Server geschlossen",
-      "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-11-09T08:31:00.000+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Derzeit nutzen Angreifer die Plex2Shell-Schwachstellen in Plex Media Server aus. Nun ist eine abgesicherte Version auch für Qnap NAS erschienen."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
