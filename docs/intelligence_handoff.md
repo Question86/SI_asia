@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-09T01:22:23Z_
+_Generated: 2026-11-09T01:40:57Z_
 
 ## Lageurteil
 
@@ -12,77 +12,87 @@ Stärkste Dynamik nach Gate-Recheck: “日本の公開データ研究マップ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-11-09T00:03:39+00:00` / age_days `0.05`
+- Published: `2026-11-09T00:03:39+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://shoei05.com/articles/3001/
 
-### M 5.3 - south of the Fiji Islands
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-11-09T01:03:16.040+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f
-
 ### AI became my extra team member. I still have to manage it
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `14.5`
-- Published: `2026-11-09T01:02:47+00:00` / age_days `0.01`
+- Dynamics score: `17.0`
+- Published: `2026-11-09T01:02:47+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +2, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/
 
 ### M 5.3 - south of the Fiji Islands
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `13.4`
-- Published: `2026-11-09T01:17:38+00:00` / age_days `0.0`
+- Dynamics score: `17.0`
+- Published: `2026-11-09T01:03:16.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f
 
 ### 日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-11-08T12:05:24+00:00` / age_days `0.55`
+- Published: `2026-11-08T12:05:24+00:00` / age_days `0.57`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://shoei05.com/articles/3001/
 
+### M 5.3 - south of the Fiji Islands
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `11.5`
+- Published: `2026-11-09T01:17:38+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f
+
 ### ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.57`
-- Published: `2026-09-27T16:37:33+00:00` / age_days `42.36`
+- Dynamics score: `10.35`
+- Published: `2026-09-27T16:37:33+00:00` / age_days `42.38`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 5.50, single-source AI hype brake -8.0, aging penalty -7.5 for 42.4d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 5.30, single-source AI hype brake -8.0, aging penalty -7.5 for 42.4d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/
 
 ### AI became my extra team member. I still have to manage it
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-11-09T01:00:54+00:00` / age_days `0.01`
+- Published: `2026-11-09T01:00:54+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/
 
+### NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `5.5`
+- Published: `2026-11-09T01:33:21+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://www.itmedia.co.jp/news/article/2611/09/2000002998/
+
 ### ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `3.0`
-- Published: `2026-11-08T23:17:44+00:00` / age_days `0.09`
+- Published: `2026-11-08T23:17:44+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,17 +102,27 @@ Stärkste Dynamik nach Gate-Recheck: “日本の公開データ研究マップ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-08-30T08:23:39+00:00` / age_days `70.71`
+- Published: `2026-08-30T08:23:39+00:00` / age_days `70.72`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 70.7d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://www.techno-edge.net/article/2026/11/09/5686.html
 
+### NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-11-08T23:05:32+00:00` / age_days `0.11`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://www.itmedia.co.jp/news/article/2611/09/2000002998/
+
 ### コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-11-08T22:49:48+00:00` / age_days `0.11`
+- Published: `2026-11-08T22:49:48+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
