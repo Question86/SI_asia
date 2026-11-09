@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T02:42:06+00:00_
+_Generiert: 2026-11-09T02:49:36+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+11 neue relevante Treffer. Stärkstes Signal: „KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
