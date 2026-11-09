@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T05:42:18+00:00_
+_Generiert: 2026-11-09T05:57:20+00:00_
 
 ## Kurzlage
 
@@ -57,10 +57,6 @@ _Generiert: 2026-11-09T05:42:18+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.7 - 106 km ENE of Hasaki, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f)
-  - Quelle: USGS
-  - Zeit: `2026-11-09T04:52:51+00:00`
-  - Kurz: M5.7 - 106 km ENE of Hasaki, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

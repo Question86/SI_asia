@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T05:42:18+00:00",
-  "run_id": "2026-11-09T05:42:18+00:00",
+  "generated_at": "2026-11-09T05:57:20+00:00",
+  "run_id": "2026-11-09T05:57:20+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 22,
     "displayed_findings": 22,
     "high": 0,
@@ -1221,29 +1221,7 @@
       "id": "ad57122a4e19bae0bbc2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "超知能で人類はどういう手順で滅ぶと言われているのか，を並べてから，違和感を覚えなくなっていくだろう，と書いた自分の本を読み直す｜落合陽一",
-      "url": "https://note.com/ochyai/n/n7a1dbd68c8fa",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-08T06:33:31+00:00",
-      "fetched_at": "2026-11-09T05:41:48+00:00",
-      "summary": "超知能で人類はどういう手順で滅ぶと言われているのか，を並べてから，違和感を覚えなくなっていくだろう，と書いた自分の本を読み直す どういう手順で，僕らは滅ぶことになっているのか落合陽一です．今日は，超知能で人類は滅ぶのか，という話をしたい． この手の話は，結論から入るとだいたい空中戦になる．滅ぶ，滅...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3ab1dc9404a30b0b0715"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
