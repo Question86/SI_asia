@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T21:02:46+00:00",
+  "generated_at": "2026-11-09T21:16:08+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -673,6 +673,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_70ab696702303f7887aa",
+      "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 12080000.0,
+      "p50_usd": 1208000000.0,
+      "p90_usd": 120800000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-09T21:15:43+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0ce0915efc02654da4f9",
       "title": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
       "event_classes": [
@@ -967,7 +984,7 @@
       "p90_usd": 114400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T02:26:11+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -2127,7 +2144,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-09T05:04:15+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -2144,7 +2161,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -2229,7 +2246,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -2314,7 +2331,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -2348,7 +2365,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -2586,7 +2603,7 @@
       "p90_usd": 11520000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T04:48:03+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -2722,7 +2739,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-09T03:51:01+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -12871,7 +12888,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -13364,7 +13381,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T05:04:15+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -13891,7 +13908,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T06:16:28+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -14537,7 +14554,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T03:05:28+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -14639,7 +14656,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T02:26:11+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -14809,7 +14826,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T02:35:34+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -15388,7 +15405,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -19638,7 +19655,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T04:04:52+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -19995,7 +20012,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T01:02:47+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -20063,7 +20080,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-09T00:03:39+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -23838,7 +23855,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-11-09T21:02:21+00:00",
+      "last_seen_at": "2026-11-09T21:15:43+00:00",
       "status": "active"
     },
     {
@@ -26458,7 +26475,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-11-09T21:02:21+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_49f8e6715c7b9b9770e4",
