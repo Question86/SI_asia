@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-11-09T03:38:23Z",
+  "generated_at": "2026-11-09T04:14:48Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -38,12 +38,17 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Effekseerにおける入力データ検証不備の脆弱性",
+      "title": "“Almost” is a strategy, not a stall",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
       "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "Effekseerにおける入力データ検証不備の脆弱性",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
