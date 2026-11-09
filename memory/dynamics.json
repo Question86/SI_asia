@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-09T01:12:36Z",
+  "generated_at": "2026-11-09T01:22:23Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 8,
+    "dynamics": 10,
     "bands": {
       "strong": 1,
-      "watch": 3,
-      "quiet": 4
+      "watch": 4,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "watch": 3,
-      "quiet": 4
+      "watch": 4,
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -42,6 +42,31 @@
       "summary": ""
     },
     {
+      "title": "M 5.3 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-09T01:03:16.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-09 00:46:59 UTC 2026-11-09 00:46:59 UTC at epicenter Location 23.627°S 179.105°E Depth 538.42 km (334.56 mi)"
+    },
+    {
       "title": "AI became my extra team member. I still have to manage it",
       "url": "https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -50,7 +75,7 @@
       "topics": [
         "ai"
       ],
-      "dynamics_score": 17.0,
+      "dynamics_score": 14.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -68,30 +93,26 @@
       "summary": ""
     },
     {
-      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-27T16:37:33+00:00",
-      "age_days": 42.36,
+      "title": "M 5.3 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-09T01:17:38+00:00",
+      "age_days": 0.0,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 16.5,
+      "dynamics_score": 13.4,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 8.7,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 8.70",
-        "single-source AI hype brake -8.0",
-        "aging penalty -7.5 for 42.4d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -118,6 +139,34 @@
         "no strong comparative reason"
       ],
       "summary": "日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹..."
+    },
+    {
+      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-27T16:37:33+00:00",
+      "age_days": 42.36,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 10.57,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 5.5,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 5.50",
+        "single-source AI hype brake -8.0",
+        "aging penalty -7.5 for 42.4d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
     },
     {
       "title": "AI became my extra team member. I still have to manage it",
@@ -150,7 +199,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:17:44+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -175,7 +224,7 @@
       "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T08:23:39+00:00",
-      "age_days": 70.7,
+      "age_days": 70.71,
       "topics": [
         "ai"
       ],
@@ -202,7 +251,7 @@
       "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T22:49:48+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
