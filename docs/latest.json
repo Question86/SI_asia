@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T15:28:12+00:00",
-  "run_id": "2026-11-09T15:28:12+00:00",
+  "generated_at": "2026-11-09T15:34:19+00:00",
+  "run_id": "2026-11-09T15:34:19+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 31,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -1664,6 +1664,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6bb4ed5eb733a797ae88"
+      },
+      {
+        "title": "GMO熊谷社長は記者会見4日前にも「俺は小さな人間じゃない！」と全社員の前で号泣していた「熊谷さんの講話は社内で『脳内同期』と呼ばれていて…」社員が語る「宗教的な社内慣習」（デイリー新潮） - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/a03f626662a910f876f839e945090826ec56c68c",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-09T09:38:51+00:00",
+        "fetched_at": "2026-11-09T15:33:50+00:00",
+        "summary": "GMOの熊谷正寿代表（新潮社）「あれは素の姿。あの人は本気で自分の演説で、日本人の目を覚ませられると信じていたと思う」。こう語るのはGMOグループで働く30代社員である。先週日本中の話題をさらったGMOインターネットグループの熊谷正寿代表（63）の記者会見を、社員たちはどんな思いで見ていたのか。（前後編の前編...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "193f3395e205663b141f"
       },
       {
         "title": "【速報】ニトリ 最大3762万件の会員情報が流出の可能性 今月6日不正アクセスを確認 客の氏名、住所、電話番号など流出か カード情報やパスワード含まれず（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
@@ -3469,6 +3490,27 @@
       "id": "6bb4ed5eb733a797ae88"
     },
     {
+      "title": "GMO熊谷社長は記者会見4日前にも「俺は小さな人間じゃない！」と全社員の前で号泣していた「熊谷さんの講話は社内で『脳内同期』と呼ばれていて…」社員が語る「宗教的な社内慣習」（デイリー新潮） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/a03f626662a910f876f839e945090826ec56c68c",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-09T09:38:51+00:00",
+      "fetched_at": "2026-11-09T15:33:50+00:00",
+      "summary": "GMOの熊谷正寿代表（新潮社）「あれは素の姿。あの人は本気で自分の演説で、日本人の目を覚ませられると信じていたと思う」。こう語るのはGMOグループで働く30代社員である。先週日本中の話題をさらったGMOインターネットグループの熊谷正寿代表（63）の記者会見を、社員たちはどんな思いで見ていたのか。（前後編の前編...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "193f3395e205663b141f"
+    },
+    {
       "title": "【速報】ニトリ 最大3762万件の会員情報が流出の可能性 今月6日不正アクセスを確認 客の氏名、住所、電話番号など流出か カード情報やパスワード含まれず（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/ec14e72be9639e846f42978f9e81da07fdd05687",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3637,40 +3679,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - Mid-Indian Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx47",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "GMO熊谷社長は記者会見4日前にも「俺は小さな人間じゃない！」と全社員の前で号泣していた「熊谷さんの講話は社内で『脳内同期』と呼ばれていて…」社員が語る「宗教的な社内慣習」（デイリー新潮） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/a03f626662a910f876f839e945090826ec56c68c",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-09T15:23:13.040+00:00",
-      "fetched_at": "2026-11-09T15:27:41+00:00",
-      "summary": "Time 2026-11-09 15:04:33 UTC 2026-11-09 15:04:33 UTC at epicenter Location 28.186°S 74.371°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-11-09T09:38:51+00:00",
+      "fetched_at": "2026-11-09T15:33:50+00:00",
+      "summary": "GMOの熊谷正寿代表（新潮社）「あれは素の姿。あの人は本気で自分の演説で、日本人の目を覚ませられると信じていたと思う」。こう語るのはGMOグループで働く30代社員である。先週日本中の話題をさらったGMOインターネットグループの熊谷正寿代表（63）の記者会見を、社員たちはどんな思いで見ていたのか。（前後編の前編...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "71b3b00f3d22822ab93b"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "193f3395e205663b141f"
     }
   ],
   "source_errors": [],
