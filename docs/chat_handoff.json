@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-09T04:29:50+00:00",
+  "generated_at": "2026-11-09T04:48:00+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 11
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "“Almost” is a strategy, not a stall",
+      "title": "Hackers drain US$4M using fake Wi-Fi at major crypto conferences",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-09T04:00:50+00:00",
+      "published_at": "2026-11-09T04:30:10+00:00",
       "relevance_score": 14,
-      "url": "https://e27.co/almost-is-a-strategy-not-a-stall-20261105/",
-      "summary": "A founder I worked with spent four months “about to” shut down a product line that hadn’t worked in over a year. The numbers weren’t ambiguous. She wasn’t missing information. Every week there was one more customer call to make first, one more pricing test to…",
+      "url": "https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/",
+      "summary": "The recent TOKEN2049 conference in Singapore gathered the brightest minds and deepest pockets in the digital asset space. High-net-worth individuals and prominent crypto traders flooded the city to network and explore new financial frontiers. Beneath the surf…",
       "section": "medium"
     },
     {
@@ -100,137 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU93403064/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T11:00:00+09:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "オープンウェーブメッセージング株式会社が提供するWebtop Media Transcoderには、異なる領域間での不適切なリソースの移動の脆弱性が存在します。"
-      },
-      {
-        "title": "Effekseerにおける入力データ検証不備の脆弱性",
-        "url": "https://jvn.jp/jp/JVN56286875/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T12:00:00+09:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "パーティクルエフェクト編集ツールEffekseerには、入力データ検証不備の脆弱性が存在します。"
-      },
-      {
-        "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU92635551/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T11:30:00+09:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。"
-      },
-      {
-        "title": "“Almost” is a strategy, not a stall",
-        "url": "https://e27.co/almost-is-a-strategy-not-a-stall-20261105/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-09T04:04:52+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU93403064/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T02:26:11+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: code",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

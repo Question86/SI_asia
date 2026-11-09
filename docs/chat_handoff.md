@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T04:29:50+00:00_
+_Generated: 2026-11-09T04:48:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-09T04:29:50+00:00_
 - url: https://jvn.jp/vu/JVNVU93403064/
 - summary: オープンウェーブメッセージング株式会社が提供するWebtop Media Transcoderには、異なる領域間での不適切なリソースの移動の脆弱性が存在します。
 
-### 4. “Almost” is a strategy, not a stall
+### 4. Hackers drain US$4M using fake Wi-Fi at major crypto conferences
 - source: e27 Asia Startup and Tech Feed
 - score: `14`
-- published: `2026-11-09T04:00:50+00:00`
-- url: https://e27.co/almost-is-a-strategy-not-a-stall-20261105/
-- summary: A founder I worked with spent four months “about to” shut down a product line that hadn’t worked in over a year. The numbers weren’t ambiguous. She wasn’t missing information. Every week there was one more customer call to make first, one more pricing test to…
+- published: `2026-11-09T04:30:10+00:00`
+- url: https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/
+- summary: The recent TOKEN2049 conference in Singapore gathered the brightest minds and deepest pockets in the digital asset space. High-net-worth individuals and prominent crypto traders flooded the city to network and explore new financial frontiers. Beneath the surf…
 
 ### 5. M 6.4 - 27 km SW of Lata, Solomon Islands
 - source: USGS M4.5+ Earthquakes Past Hour
