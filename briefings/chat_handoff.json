@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-09T00:55:16+00:00",
+  "generated_at": "2026-11-09T01:02:44+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 2,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 0,
-    "observe": 2
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "AI became my extra team member. I still have to manage it",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-09T01:00:54+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/",
+      "summary": "On any given day, I could be editing an article about women’s health, preparing a sponsorship proposal for an esports tournament, planning social media content, answering emails from PR agencies and troubleshooting something on a website. And that’s before I’…",
+      "section": "observe"
+    },
     {
       "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
       "source": "Hatena Bookmark Hotentry IT",
@@ -22,6 +32,16 @@
       "relevance_score": 13,
       "url": "https://shoei05.com/articles/3001/",
       "summary": "日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...",
+      "section": "observe"
+    },
+    {
+      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T23:17:44+00:00",
+      "relevance_score": 11,
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+      "summary": "9月、都内のクリニックがWebサイトに掲載したお知らせがX上で話題を呼んだ。院内のサーバで動かす「ローカルLLM」で診療情報を処理し、外部のAIサービスには患者の情報を送らないという内容だ。 AIで仕事を効率化する人は着実に増えているが、その多くが米OpenAIの「ChatGPT」や米Anthropicの「Claude」、米Googleの「Ge...",
       "section": "observe"
     },
     {
