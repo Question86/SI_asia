@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T09:04:05+00:00_
+_Generiert: 2026-11-09T09:22:32+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
+28 neue relevante Treffer. Stärkstes Signal: „Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy“ aus Rest of World Global Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
