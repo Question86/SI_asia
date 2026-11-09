@@ -252,6 +252,98 @@
     "id": "1482a64009e2abfb6ce6"
   },
   {
+    "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-09T12:22:01+00:00",
+    "fetched_at": "2026-11-09T12:23:17+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen sowie Daten zu manipulieren oder offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9dd55caf1f18545b2f28"
+  },
+  {
+    "title": "[NEU] [mittel] IBM QRadar SIEM (Log Source Management App): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4413",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-09T12:22:00+00:00",
+    "fetched_at": "2026-11-09T12:23:17+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM QRadar SIEM (Log Source Management App) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4adee722ca711846bda7"
+  },
+  {
+    "title": "[NEU] [hoch] PJSIP: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4411",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-09T12:12:00+00:00",
+    "fetched_at": "2026-11-09T12:23:17+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in PJSIP ausnutzen, um einen Denial of Service Angriff durchzuführen oder eine Speicherbeschädigung zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "58020aeccb7c96670a78"
+  },
+  {
+    "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-09T12:07:01+00:00",
+    "fetched_at": "2026-11-09T12:23:17+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Daten zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f25afefefc5e5c5f2788"
+  },
+  {
     "title": "Effekseerにおける入力データ検証不備の脆弱性",
     "url": "https://jvn.jp/jp/JVN56286875/",
     "source": "JVN Japan Vulnerability Notes",
@@ -1116,6 +1208,29 @@
     "id": "17673fdf9ac58c479fa1"
   },
   {
+    "title": "[NEU] [hoch] rclone: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4412",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-09T12:12:00+00:00",
+    "fetched_at": "2026-11-09T12:23:17+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um Benutzerrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, Dateien zu manipulieren, Informationen auszulesen oder einen Denial-of-Service-Zustand herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph demote clone (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "df7e9fc9ffde0ddc287d"
+  },
+  {
     "title": "【速報】ニトリ 最大3762万件の会員情報が流出の可能性 今月6日不正アクセスを確認 客の氏名、住所、電話番号など流出か カード情報やパスワード含まれず（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
     "url": "https://news.yahoo.co.jp/articles/ec14e72be9639e846f42978f9e81da07fdd05687",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1219,6 +1334,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3ab1dc9404a30b0b0715"
+  },
+  {
+    "title": "Bitcoin tests US$73,188: Can the 200-day line stop the slide?",
+    "url": "https://e27.co/bitcoin-tests-us73188-can-the-200-day-line-stop-the-slide-20261109/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-09T12:06:42+00:00",
+    "fetched_at": "2026-11-09T12:23:17+00:00",
+    "summary": "In 24 hours, Bitcoin dropped 1.5 per cent to US$74,577.82, while the broader crypto market fell 1.52 per cent to US$2.5 trillion. Bitcoin underperformed a broader market that fell 1.98 per cent and showed a 91 per cent correlation with the S&P 500 over the past week. The decline reflects a technical deleveraging shock on […] The post Bitcoin tests US$73,188: Can the 200-day line stop the slide? appeared first on e27…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "783623733d251376d354"
   },
   {
     "title": "Software is collapsing into one input window, but code still has to check the model’s work",

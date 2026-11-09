@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T12:03:04+00:00",
+  "generated_at": "2026-11-09T12:23:47+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-09T08:30:00+00:00",
         "relevance_score": 22,
         "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401"
       },
       {
         "title": "[UPDATE] [hoch] JetBrains You Track: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-09T05:00:27+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/"
-      },
-      {
-        "title": "ソフトウェア産業が消滅する日──小さなローカルAIが暴く「プログラムを売る」という商売の終焉",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-09T03:53:21+00:00",
-        "relevance_score": 7,
-        "url": "https://wirelesswire.jp/2026/11/94903/"
       }
     ],
     "security": [
@@ -98,6 +98,34 @@
         "url": "https://jvn.jp/jp/JVN89009783/"
       },
       {
+        "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401"
+      },
+      {
+        "title": "[NEU] [mittel] IBM QRadar SIEM (Log Source Management App): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4413"
+      },
+      {
+        "title": "[NEU] [hoch] PJSIP: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:12:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4411"
+      },
+      {
+        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:07:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410"
+      },
+      {
         "title": "Effekseerにおける入力データ検証不備の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-09T12:00:00+09:00",
@@ -117,34 +145,6 @@
         "published_at": "2026-11-09T11:37:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0427"
-      },
-      {
-        "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:37:04+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2215"
-      },
-      {
-        "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:37:04+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2083"
-      },
-      {
-        "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T11:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU92635551/"
-      },
-      {
-        "title": "[UPDATE] [mittel] LibreOffice: Schwachstelle ermöglicht Denial-of-Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:15:22+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4371"
       }
     ],
     "general": [
@@ -221,6 +221,34 @@
     ],
     "geopolitics": [
       {
+        "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401"
+      },
+      {
+        "title": "[NEU] [mittel] IBM QRadar SIEM (Log Source Management App): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4413"
+      },
+      {
+        "title": "[NEU] [hoch] PJSIP: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:12:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4411"
+      },
+      {
+        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:07:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410"
+      },
+      {
         "title": "[NEU] [hoch] IBM Tape Library: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T11:47:00+00:00",
@@ -249,6 +277,13 @@
         "url": "https://gigazine.net/news/20261109-macos-personal-knowledge-graph/"
       },
       {
+        "title": "[NEU] [hoch] rclone: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:12:00+00:00",
+        "relevance_score": 6,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4412"
+      },
+      {
         "title": "Software is collapsing into one input window, but code still has to check the model’s work",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-09T03:00:00+00:00",
@@ -270,6 +305,13 @@
         "published_at": "2026-11-09T05:00:27+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/"
+      },
+      {
+        "title": "Bitcoin tests US$73,188: Can the 200-day line stop the slide?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-09T12:06:42+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoin-tests-us73188-can-the-200-day-line-stop-the-slide-20261109/"
       }
     ],
     "github": [
