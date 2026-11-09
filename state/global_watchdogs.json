@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:32:32+00:00",
+  "generated_at": "2026-11-09T03:51:01+00:00",
   "sections": {
     "global_security": [
       {
@@ -60,6 +60,21 @@
         "published_at": "2026-10-30",
         "metrics": {
           "cve": "CVE-2026-111357"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "USGS earthquake M6.4 - 27 km SW of Lata, Solomon Islands",
+        "summary": "M6.4 - 27 km SW of Lata, Solomon Islands. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
+        "published_at": "2026-11-09T03:35:01+00:00",
+        "metrics": {
+          "mag": 6.4,
+          "alert": "green",
+          "sig": 630.0,
+          "tsunami": 0
         }
       },
       {
