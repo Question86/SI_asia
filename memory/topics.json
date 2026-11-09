@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T11:48:49+00:00",
+  "generated_at": "2026-11-09T11:56:16+00:00",
   "topics": {
     "ai": [
       {
@@ -105,6 +105,13 @@
         "url": "https://jvn.jp/jp/JVN56286875/"
       },
       {
+        "title": "[NEU] [hoch] IBM Tape Library: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T11:47:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4407"
+      },
+      {
         "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T11:37:06+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-11-09T11:15:22+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4371"
-      },
-      {
-        "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:15:22+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4375"
       }
     ],
     "general": [
@@ -219,6 +219,43 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x"
       }
     ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] IBM Tape Library: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T11:47:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4407"
+      },
+      {
+        "title": "Entering Indonesia? The tax issues startups underestimate",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-09T05:00:27+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/"
+      },
+      {
+        "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-09T07:12:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html"
+      },
+      {
+        "title": "Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-09T07:02:52+00:00",
+        "relevance_score": 7,
+        "url": "https://gigazine.net/news/20261109-macos-personal-knowledge-graph/"
+      },
+      {
+        "title": "Software is collapsing into one input window, but code still has to check the model’s work",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-09T03:00:00+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/"
+      }
+    ],
     "economy": [
       {
         "title": "“Almost” is a strategy, not a stall",
@@ -249,36 +286,6 @@
         "published_at": "2026-11-09T03:53:21+00:00",
         "relevance_score": 7,
         "url": "https://wirelesswire.jp/2026/11/94903/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Entering Indonesia? The tax issues startups underestimate",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-09T05:00:27+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/"
-      },
-      {
-        "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-09T07:12:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html"
-      },
-      {
-        "title": "Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-09T07:02:52+00:00",
-        "relevance_score": 7,
-        "url": "https://gigazine.net/news/20261109-macos-personal-knowledge-graph/"
-      },
-      {
-        "title": "Software is collapsing into one input window, but code still has to check the model’s work",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-09T03:00:00+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/"
       }
     ]
   }
