@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T04:45:28+00:00",
-  "run_id": "2026-11-10T04:45:28+00:00",
+  "generated_at": "2026-11-10T04:50:33+00:00",
+  "run_id": "2026-11-10T04:50:33+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1237,30 +1237,7 @@
       "id": "01321a249df9c7720143"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Sionic AI brings its Thai-reading model to SEA, with banks as the real exam",
-      "url": "https://e27.co/sionic-ai-brings-its-thai-reading-model-to-sea-with-banks-as-the-real-exam-20261110/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-10T04:42:11+00:00",
-      "fetched_at": "2026-11-10T04:44:57+00:00",
-      "summary": "Most AI models read Thai the way a tourist reads a Bangkok street menu: confidently, and often wrongly. Sionic AI says it has closed part of that language gap, and it is using the result to push into Southeast Asia. The Seoul-based enterprise AI company said last week it is expanding in Thailand and Singapore […] The post Sionic AI brings its Thai-reading model to SEA, with banks as the real exam appeared first on e…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region south_korea: Seoul (+2.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "919430d57e626c94bee5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
