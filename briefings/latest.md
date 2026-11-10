@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T13:55:54+00:00_
+_Generiert: 2026-11-10T14:03:16+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+58 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -285,6 +285,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-09 23:45:21 UTC 2026-11-09 23:45:21 UTC at epicenter Location 24.482°S 177.280°W Depth 126.01 km (78.30 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Piero Cipollone: Cash and the digital euro: two sides of the same coin** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-11-10T14:00:00+00:00`, fetched `2026-11-10T14:02:44+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Piero Cipollone: Cash and the digital euro: two sides of the same coin
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The hidden costs of running an AI video production business** — Score 8, observation — [Quelle](https://e27.co/the-hidden-costs-of-running-an-ai-video-production-business-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-10T04:30:58+00:00`, fetched `2026-11-10T04:35:42+00:00`
@@ -320,15 +329,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Der November-Patchday bei SAP stopft Code-Injection- und Speicherkorrumpierungslücken. Neun Sicherheitslecks gelten als kritisch.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Microsoft Paint: Codeschmuggel-Lücke im Malprogramm** — Score 7, observation — [Quelle](https://www.heise.de/news/Microsoft-Paint-Codeschmuggel-Luecke-im-Malprogramm-11519162.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-11-10T12:58:00.000+00:00`, fetched `2026-11-10T13:04:48+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In dem rudimentären Zeichenprogramm Paint von Windows können Angreifer Schadcode einschleusen. Jetzt gibt es ein Update dagegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

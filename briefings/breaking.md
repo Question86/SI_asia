@@ -1,11 +1,26 @@
 # Senna Breaking
 
-_Generiert: 2026-11-10T13:55:59+00:00_
+_Generiert: 2026-11-10T14:03:25+00:00_
+
+## Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
+
+- Ranking Score: `27.29`
+- Raw Network Score: `25.2`
+- Max Monitor Score: `12`
+- Reichweite: `institutional` / `5.0`
+- Early Signal: `nein`
+- Dominanter Emitter: `ja`
+- Quellen: ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews
+- Klassen: central_bank, tier3_specialist
+- Cross-source bestaetigt: ja
+- Momentum: increasing (+1)
+- Erste Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html
+- Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
 ## Message for the European Chamber of Commerce Philippines Luncheon Meeting
 
-- Ranking Score: `26.41`
-- Raw Network Score: `25.2`
+- Ranking Score: `22.74`
+- Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
@@ -13,7 +28,7 @@ _Generiert: 2026-11-10T13:55:59+00:00_
 - Quellen: BIS Central Bankers Speeches, BIS Press Releases
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T13:55:59+00:00",
-  "today_file_total": 57,
+  "generated_at": "2026-11-10T14:03:25+00:00",
+  "today_file_total": 58,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -31,18 +31,18 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "domain:www.bis.org",
-      "title": "Message for the European Chamber of Commerce Philippines Luncheon Meeting",
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45",
       "sources": [
-        "BIS Central Bankers Speeches",
-        "BIS Press Releases"
+        "ECB Open Market Operations and Communication",
+        "ECB Press Releases Speeches Interviews"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
-        "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas"
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html",
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html"
       ],
       "finding_count": 2,
       "max_score": 12,
@@ -99,6 +99,31 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 24.1,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Message for the European Chamber of Commerce Philippines Luncheon Meeting",
+      "sources": [
+        "BIS Central Bankers Speeches",
+        "BIS Press Releases"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
+        "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas"
+      ],
+      "finding_count": 2,
+      "max_score": 12,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.2,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -464,29 +489,6 @@
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:oss-github-star-lab",
-      "title": "大学1年生がつくったOSSがGitHub Star 1万超。AIに渡す「画面の設計図」はどう生まれた？ - レバテックLAB",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://levtech.jp/media/detail_965/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
