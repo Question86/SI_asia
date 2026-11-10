@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T15:48:42+00:00_
+_Generiert: 2026-11-10T15:56:20+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,6 @@ _Generiert: 2026-11-10T15:48:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.
-- **USGS earthquake M5.6 - 43 km S of Puerto San José, Guatemala** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8)
-  - Quelle: USGS
-  - Zeit: `2026-11-10T14:54:17+00:00`
-  - Kurz: M5.6 - 43 km S of Puerto San José, Guatemala. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

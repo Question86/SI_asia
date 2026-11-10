@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T15:48:46+00:00",
+  "generated_at": "2026-11-10T15:56:24+00:00",
   "sections": {
     "global_security": [
       {
@@ -101,21 +101,6 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576372",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.6 - 43 km S of Puerto San José, Guatemala",
-        "summary": "M5.6 - 43 km S of Puerto San José, Guatemala. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8",
-        "published_at": "2026-11-10T14:54:17+00:00",
-        "metrics": {
-          "mag": 5.6,
-          "alert": "green",
-          "sig": 488.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
