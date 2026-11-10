@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T14:40:43+00:00",
-  "run_id": "2026-11-10T14:40:43+00:00",
+  "generated_at": "2026-11-10T14:50:01+00:00",
+  "run_id": "2026-11-10T14:50:01+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 63
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "today_file_total": 63,
+    "displayed_findings": 63,
     "high": 0,
     "medium": 27,
-    "observe": 34,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -782,6 +782,27 @@
     ],
     "observe": [
       {
+        "title": "Dependabot alerts will pause on inactive repositories",
+        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-10T14:20:05+00:00",
+        "fetched_at": "2026-11-10T14:49:20+00:00",
+        "summary": "Starting December 8, 2026, GitHub will turn off Dependabot alerts on most repositories with no activity in the past year. Their existing alerts are archived, not deleted, and you can… The post Dependabot alerts will pause on inactive repositories appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "57572ca836b5a83565f7"
+      },
+      {
         "title": "Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45",
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html",
         "source": "ECB Open Market Operations and Communication",
@@ -1365,6 +1386,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d284021e7ab892848ce5"
+      },
+      {
+        "title": "【資料公開】「自分の仕事はここまで」はどこから来るのか",
+        "url": "https://www.ryuzee.com/contents/blog/14628",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-10T11:36:50+00:00",
+        "fetched_at": "2026-11-10T14:49:20+00:00",
+        "summary": "みなさんこんにちは。@ryuzeeです。 2026年10月22日に、あるお客様の社内イベントで「『自分の仕事はここまで』はどこから来るのか」というテーマで講演したので、資料を公開します（講演依頼はお気軽にどうぞ！）。 仕事柄いろいろな組織を見ていますが、「担当外のことには手を出さない」「チケットに書いてあるとおり...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d232d32c1455d576f5b1"
       },
       {
         "title": "SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース",
@@ -2287,6 +2329,27 @@
       "id": "6bec4c941112c01c2e4e"
     },
     {
+      "title": "Dependabot alerts will pause on inactive repositories",
+      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-10T14:20:05+00:00",
+      "fetched_at": "2026-11-10T14:49:20+00:00",
+      "summary": "Starting December 8, 2026, GitHub will turn off Dependabot alerts on most repositories with no activity in the past year. Their existing alerts are archived, not deleted, and you can… The post Dependabot alerts will pause on inactive repositories appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "57572ca836b5a83565f7"
+    },
+    {
       "title": "Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html",
       "source": "ECB Open Market Operations and Communication",
@@ -2872,6 +2935,27 @@
       "id": "d284021e7ab892848ce5"
     },
     {
+      "title": "【資料公開】「自分の仕事はここまで」はどこから来るのか",
+      "url": "https://www.ryuzee.com/contents/blog/14628",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-10T11:36:50+00:00",
+      "fetched_at": "2026-11-10T14:49:20+00:00",
+      "summary": "みなさんこんにちは。@ryuzeeです。 2026年10月22日に、あるお客様の社内イベントで「『自分の仕事はここまで』はどこから来るのか」というテーマで講演したので、資料を公開します（講演依頼はお気軽にどうぞ！）。 仕事柄いろいろな組織を見ていますが、「担当外のことには手を出さない」「チケットに書いてあるとおり...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d232d32c1455d576f5b1"
+    },
+    {
       "title": "SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261110de73285",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3041,44 +3125,46 @@
   ],
   "new_findings": [
     {
-      "title": "Introductory remarks - Official Monetary and Financial Institutions Forum (OMFIF)",
-      "url": "https://www.bis.org/speeches/20261110-introductory-remarks-official-monetary-and-financial-institutions-forum-omfif",
-      "source": "BIS Central Bankers Speeches",
+      "title": "Dependabot alerts will pause on inactive repositories",
+      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "fetched_at": "2026-11-10T14:40:12+00:00",
-      "summary": "Introductory remarks by Mr Dimitar Radev, Governor of the Bulgarian National Bank, at the Official Monetary and Financial Institutions Forum (OMFIF), Sofia, 3 November 2026.",
+      "published_at": "2026-11-10T14:20:05+00:00",
+      "fetched_at": "2026-11-10T14:49:20+00:00",
+      "summary": "Starting December 8, 2026, GitHub will turn off Dependabot alerts on most repositories with no activity in the past year. Their existing alerts are archived, not deleted, and you can… The post Dependabot alerts will pause on inactive repositories appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Macro/Policy"
+        "CodeQL/Dependabot",
+        "GitHub"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d284021e7ab892848ce5"
+      "id": "57572ca836b5a83565f7"
     },
     {
-      "title": "The future of FinTech",
-      "url": "https://www.bis.org/speeches/20261110-future-fintech",
-      "source": "BIS Central Bankers Speeches",
+      "title": "【資料公開】「自分の仕事はここまで」はどこから来るのか",
+      "url": "https://www.ryuzee.com/contents/blog/14628",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "fetched_at": "2026-11-10T14:40:12+00:00",
-      "summary": "Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the Sri Lanka FinTech Festival, Colombo, 3 November 2026.",
+      "published_at": "2026-11-10T11:36:50+00:00",
+      "fetched_at": "2026-11-10T14:49:20+00:00",
+      "summary": "みなさんこんにちは。@ryuzeeです。 2026年10月22日に、あるお客様の社内イベントで「『自分の仕事はここまで』はどこから来るのか」というテーマで講演したので、資料を公開します（講演依頼はお気軽にどうぞ！）。 仕事柄いろいろな組織を見ていますが、「担当外のことには手を出さない」「チケットに書いてあるとおり...",
       "matched_keywords": [
-        "Macro/Policy"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bb60ed9071639fe7ff98"
+      "id": "d232d32c1455d576f5b1"
     }
   ],
   "source_errors": [],
