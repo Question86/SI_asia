@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-11-10T19:24:09+00:00",
+  "generated_at": "2026-11-10T19:32:32+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-124194 Microsoft Office",
-        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+        "title": "CISA KEV: CVE-2026-102895 GPUStack GPUStack",
+        "summary": "Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. GPUStack Improper Authentication Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-10",
+        "published_at": "2026-11-09",
         "metrics": {
-          "cve": "CVE-2026-124194"
+          "cve": "CVE-2026-102895"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder",
-        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+        "title": "CISA KEV: CVE-2026-123158 OpenBSD OpenSSH",
+        "summary": "Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-10",
+        "published_at": "2026-11-09",
         "metrics": {
-          "cve": "CVE-2026-111793"
+          "cve": "CVE-2026-123158"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-20320 Cisco BroadWorks",
-        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+        "title": "CISA KEV: CVE-2026-116779 SignalWire FreeSwitch",
+        "summary": "Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. SignalWire FreeSwitch Code Injection Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-10",
+        "published_at": "2026-11-09",
         "metrics": {
-          "cve": "CVE-2026-20320"
+          "cve": "CVE-2026-116779"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-111560 Barracuda Networks Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+        "title": "CISA KEV: CVE-2026-123218 IBM Aspera Faspex",
+        "summary": "Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. IBM Aspera Faspex Incorrect Authorization Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-10",
+        "published_at": "2026-11-09",
         "metrics": {
-          "cve": "CVE-2026-111560"
+          "cve": "CVE-2026-123218"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-116606 Barracuda Networks Barracuda Email Security Gateway (ESG)",
-        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+        "title": "CISA KEV: CVE-2026-19868 SonicWall SonicOS SSLVPN",
+        "summary": "Known exploited vulnerability. Added 2026-11-06. Due 2026-11-20. SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-10",
+        "published_at": "2026-11-06",
         "metrics": {
-          "cve": "CVE-2026-116606"
+          "cve": "CVE-2026-19868"
         }
       },
       {

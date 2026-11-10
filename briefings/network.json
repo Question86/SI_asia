@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:24:09+00:00",
+  "generated_at": "2026-11-10T19:32:32+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 87,
@@ -10,51 +10,6 @@
     "dominance_penalized": 13
   },
   "clusters": [
-    {
-      "key": "domain:www.bis.org",
-      "title": "Navigating stormy waters - reflections on monetary policy",
-      "sources": [
-        "BIS Central Bankers Speeches",
-        "BIS Press Releases"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261110-navigating-stormy-waters-reflections-monetary-policy",
-        "https://www.bis.org/speeches/20261110-welcome-address-fourth-women-central-banking-workshop",
-        "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
-        "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas",
-        "https://www.bis.org/speeches/20261110-trust-expectations-and-monetary-policy",
-        "https://www.bis.org/speeches/20261110-opening-remarks-monetary-policy-report-ipom-press-conference-third-quarter-2026"
-      ],
-      "finding_count": 12,
-      "max_score": 16,
-      "credibility_total": 12.6,
-      "cross_source_confirmed": true,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 24.61,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 47.2,
-      "ranking_score": 24.61,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 5.5,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.11,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
     {
       "key": "title:aquabloom-raises-seed-funding-turn-indonesia-seaweed-climate",
       "title": "AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers",
@@ -94,6 +49,51 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-10T09:36:00+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Navigating stormy waters - reflections on monetary policy",
+      "sources": [
+        "BIS Central Bankers Speeches",
+        "BIS Press Releases"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261110-navigating-stormy-waters-reflections-monetary-policy",
+        "https://www.bis.org/speeches/20261110-welcome-address-fourth-women-central-banking-workshop",
+        "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
+        "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas",
+        "https://www.bis.org/speeches/20261110-trust-expectations-and-monetary-policy",
+        "https://www.bis.org/speeches/20261110-opening-remarks-monetary-policy-report-ipom-press-conference-third-quarter-2026"
+      ],
+      "finding_count": 12,
+      "max_score": 16,
+      "credibility_total": 12.6,
+      "cross_source_confirmed": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 24.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 47.2,
+      "ranking_score": 24.5,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 5.5,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:your-strategy-your-2015-strategy-only-cheaper",
@@ -155,18 +155,18 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.82,
+      "network_score": 20.8,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.3,
-      "ranking_score": 20.82,
+      "ranking_score": 20.8,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.32,
+      "baseline_bonus": 0.3,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -360,18 +360,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.15,
+      "network_score": 18.09,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.4,
-      "ranking_score": 18.15,
+      "ranking_score": 18.09,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.65,
+      "baseline_bonus": 0.59,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2286,7 +2286,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-10T19:24:10Z",
+    "generated_at": "2026-11-10T19:32:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
