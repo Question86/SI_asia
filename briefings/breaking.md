@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-11-10T15:24:12+00:00_
+_Generiert: 2026-11-10T15:31:50+00:00_
 
 ## Navigating stormy waters - reflections on monetary policy
 
-- Ranking Score: `34.5`
-- Raw Network Score: `53.2`
+- Ranking Score: `29.5`
+- Raw Network Score: `47.2`
 - Max Monitor Score: `16`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
@@ -13,13 +13,13 @@ _Generiert: 2026-11-10T15:24:12+00:00_
 - Quellen: BIS Central Bankers Speeches, BIS Press Releases
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: increasing (+2)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.bis.org/speeches/20261110-navigating-stormy-waters-reflections-monetary-policy
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
 ## Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 
-- Ranking Score: `22.62`
+- Ranking Score: `22.51`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
