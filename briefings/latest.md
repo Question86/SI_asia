@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T03:34:32+00:00_
+_Generiert: 2026-11-10T03:41:25+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,6 @@ _Generiert: 2026-11-10T03:34:32+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.
-- **USGS earthquake M6.4 - 30 km WSW of Lata, Solomon Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16)
-  - Quelle: USGS
-  - Zeit: `2026-11-09T03:34:59+00:00`
-  - Kurz: M6.4 - 30 km WSW of Lata, Solomon Islands. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576372)
   - Quelle: GDACS
   - Zeit: ``
