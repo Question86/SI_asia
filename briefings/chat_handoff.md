@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T20:17:09+00:00_
+_Generated: 2026-11-10T20:31:06+00:00_
 
 ## Status
-- status: `normal`
-- findings: `91`
+- status: `warning`
+- findings: `92`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-10T20:17:09+00:00_
 - url: https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/
 - summary: Nvidia’s board has opened an independent investigation into Jensen Huang after the CEO admitted in a staff memo to an affair with Alice Huang, an executive at Singapore-based Megaspeed. A memo circulated among US policymakers earlier this year claimed China’s…
 
-### 5. Dependabot alerts will pause on inactive repositories
+### 5. Bowman, The U.S. Economy and Considerations for Monetary Policy
+- source: Federal Reserve Speeches and Testimony
+- score: `13`
+- published: `2026-11-10T20:30:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm
+- summary: Speech At the C. Peter McColough Series on International Economics Council on Foreign Relations, Washington, D.C.
+
+### 6. Dependabot alerts will pause on inactive repositories
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-11-10T14:20:05+00:00`
 - url: https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories
 - summary: Starting December 8, 2026, GitHub will turn off Dependabot alerts on most repositories with no activity in the past year. Their existing alerts are archived, not deleted, and you can… The post Dependabot alerts will pause on inactive repositories appeared fir…
 
-### 6. Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
+### 7. Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-11-10T08:15:23+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html
 - summary: Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. Welcome address - Fourth Women in Central Banking Workshop
+### 8. Welcome address - Fourth Women in Central Banking Workshop
 - source: BIS Central Bankers Speeches
 - score: `12`
 - published: `2026-11-10T00:00:00+00:00`
 - url: https://www.bis.org/speeches/20261110-welcome-address-fourth-women-central-banking-workshop
 - summary: Welcome address by Ms Victoria Rodríguez Ceja, Governor of Bank of Mexico, at the Fourth Women in Central Banking Workshop, organised by Bank of Mexico, the Federal Reserve Bank of Dallas, Norges Bank (Central Bank of Norway) and Bank of Italy, Mexico City, 6…
-
-### 8. Message for the European Chamber of Commerce Philippines Luncheon Meeting
-- source: BIS Central Bankers Speeches
-- score: `12`
-- published: `2026-11-10T00:00:00+00:00`
-- url: https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting
-- summary: Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the European Chamber of Commerce Philippines Luncheon Meeting, Makati City, 3 November 2026.
 
 END OF DOCUMENT
