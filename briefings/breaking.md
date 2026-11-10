@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-10T06:45:39+00:00_
+_Generiert: 2026-11-10T07:00:58+00:00_
 
 ## Ecosystem Roundup: Nvidia board probes Jensen Huang over affair with Megaspeed exec
 

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T06:45:36+00:00",
-  "run_id": "2026-11-10T06:45:36+00:00",
+  "generated_at": "2026-11-10T07:00:52+00:00",
+  "run_id": "2026-11-10T07:00:52+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 30,
     "displayed_findings": 30,
     "high": 0,
@@ -1571,32 +1571,7 @@
       "id": "01321a249df9c7720143"
     }
   ],
-  "new_findings": [
-    {
-      "title": "大学1年生がつくったOSSがGitHub Star 1万超。AIに渡す「画面の設計図」はどう生まれた？ - レバテックLAB",
-      "url": "https://levtech.jp/media/detail_965/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-10T01:12:53+00:00",
-      "fetched_at": "2026-11-10T06:45:06+00:00",
-      "summary": "OSS開発者 inori（いのり） 大学1年生。個人でアプリやOSSを開発している。M3E Canvasの作者。 @lnkiai @m3e-canvas デモ 急速に注目を集めている技術やオープンソースプロジェクトを取り上げ、開発者本人への取材を通じて、その「バズり」の裏側にあるストーリーを探る連載「OSS TREND WATCH」。 今回は、大学1年生の...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub",
-        "Hatena",
-        "hotentry",
-        "Open Source"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "df5b196eef2b5f7575a1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
