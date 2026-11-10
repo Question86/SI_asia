@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T02:01:11+00:00",
-  "run_id": "2026-11-10T02:01:11+00:00",
+  "generated_at": "2026-11-10T02:39:25+00:00",
+  "run_id": "2026-11-10T02:39:25+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,56 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 5,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
-    "medium": 5,
-    "observe": 6,
+    "medium": 8,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "M 5.4 - Pulau Pulau Tanimbar, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-10T02:17:25.529+00:00",
+        "fetched_at": "2026-11-10T02:38:55+00:00",
+        "summary": "PAGER - GREEN ShakeMap - IV Time 2026-11-10 01:53:24 UTC 2026-11-10 01:53:24 UTC at epicenter Location 7.874°S 130.294°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "ef231842195280c4e358"
+      },
       {
         "title": "When buyers ask an AI who to buy from, will it name you?",
         "url": "https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/",
@@ -119,6 +158,72 @@
         "id": "57fec5713518e4182cce"
       },
       {
+        "title": "The DEFY framework: Where agentic AI actually earns its place in the marketing funnel",
+        "url": "https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-10T02:15:05+00:00",
+        "fetched_at": "2026-11-10T02:38:55+00:00",
+        "summary": "Ask a room of marketing leaders whether AI has transformed their function and nearly every hand goes up. Ask what their agents did on their own last week and the room goes quiet. That gap is the headline of BCG’s CMO survey this year. Of the 300 CMOs it polled, 96 per cent describe an […] The post The DEFY framework: Where agentic AI actually earns its place in the marketing funnel appeared first on e27 .",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e5c59c2aa1200930afea"
+      },
+      {
+        "title": "One founder, many agents: The Philippines’s answer to a vanishing Series A",
+        "url": "https://e27.co/one-founder-many-agents-the-philippiness-answer-to-a-vanishing-series-a-20261109/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-10T02:00:26+00:00",
+        "fetched_at": "2026-11-10T02:38:55+00:00",
+        "summary": "For a decade, the Southeast Asian startup script barely changed. Find two or three co-founders, raise a seed round, hire a dozen people, then sprint to the next round before the money runs out. The script assumed a steady supply of early-stage capital. In 2026, that assumption looks naive. A new report from Gobi Partners, […] The post One founder, many agents: The Philippines’s answer to a vanishing Series A appeare…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Southeast Asia",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "5bb25c682791ce3e95cf"
+      },
+      {
         "title": "The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis",
         "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -142,6 +247,42 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 4.9 - north of Franz Josef Land",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-10T02:16:29.040+00:00",
+        "fetched_at": "2026-11-10T02:38:55+00:00",
+        "summary": "Time 2026-11-10 02:00:03 UTC 2026-11-10 02:00:03 UTC at epicenter Location 86.724°N 65.294°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "ba2cc4670517bdaab217"
+      },
       {
         "title": "M 5.0 - south of the Fiji Islands",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v",
@@ -223,6 +364,27 @@
         "id": "adcb71e3adf64128b1ce"
       },
       {
+        "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
+        "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-09T21:05:20+00:00",
+        "fetched_at": "2026-11-10T02:38:55+00:00",
+        "summary": "筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "92898e1513888c09c8a4"
+      },
+      {
         "title": "sherlock-project/sherlock",
         "url": "https://github.com/sherlock-project/sherlock",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -288,6 +450,45 @@
     ]
   },
   "findings": [
+    {
+      "title": "M 5.4 - Pulau Pulau Tanimbar, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-10T02:17:25.529+00:00",
+      "fetched_at": "2026-11-10T02:38:55+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-11-10 01:53:24 UTC 2026-11-10 01:53:24 UTC at epicenter Location 7.874°S 130.294°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ef231842195280c4e358"
+    },
     {
       "title": "When buyers ask an AI who to buy from, will it name you?",
       "url": "https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/",
@@ -378,6 +579,72 @@
       "id": "57fec5713518e4182cce"
     },
     {
+      "title": "The DEFY framework: Where agentic AI actually earns its place in the marketing funnel",
+      "url": "https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-10T02:15:05+00:00",
+      "fetched_at": "2026-11-10T02:38:55+00:00",
+      "summary": "Ask a room of marketing leaders whether AI has transformed their function and nearly every hand goes up. Ask what their agents did on their own last week and the room goes quiet. That gap is the headline of BCG’s CMO survey this year. Of the 300 CMOs it polled, 96 per cent describe an […] The post The DEFY framework: Where agentic AI actually earns its place in the marketing funnel appeared first on e27 .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e5c59c2aa1200930afea"
+    },
+    {
+      "title": "One founder, many agents: The Philippines’s answer to a vanishing Series A",
+      "url": "https://e27.co/one-founder-many-agents-the-philippiness-answer-to-a-vanishing-series-a-20261109/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-10T02:00:26+00:00",
+      "fetched_at": "2026-11-10T02:38:55+00:00",
+      "summary": "For a decade, the Southeast Asian startup script barely changed. Find two or three co-founders, raise a seed round, hire a dozen people, then sprint to the next round before the money runs out. The script assumed a steady supply of early-stage capital. In 2026, that assumption looks naive. A new report from Gobi Partners, […] The post One founder, many agents: The Philippines’s answer to a vanishing Series A appeare…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "5bb25c682791ce3e95cf"
+    },
+    {
       "title": "The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis",
       "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -398,6 +665,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6bec4c941112c01c2e4e"
+    },
+    {
+      "title": "M 4.9 - north of Franz Josef Land",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-10T02:16:29.040+00:00",
+      "fetched_at": "2026-11-10T02:38:55+00:00",
+      "summary": "Time 2026-11-10 02:00:03 UTC 2026-11-10 02:00:03 UTC at epicenter Location 86.724°N 65.294°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ba2cc4670517bdaab217"
     },
     {
       "title": "M 5.0 - south of the Fiji Islands",
@@ -480,6 +783,27 @@
       "id": "adcb71e3adf64128b1ce"
     },
     {
+      "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
+      "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-09T21:05:20+00:00",
+      "fetched_at": "2026-11-10T02:38:55+00:00",
+      "summary": "筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "92898e1513888c09c8a4"
+    },
+    {
       "title": "sherlock-project/sherlock",
       "url": "https://github.com/sherlock-project/sherlock",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -545,27 +869,166 @@
   ],
   "new_findings": [
     {
-      "title": "When buyers ask an AI who to buy from, will it name you?",
-      "url": "https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/",
+      "title": "M 5.4 - Pulau Pulau Tanimbar, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-10T02:17:25.529+00:00",
+      "fetched_at": "2026-11-10T02:38:55+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-11-10 01:53:24 UTC 2026-11-10 01:53:24 UTC at epicenter Location 7.874°S 130.294°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ef231842195280c4e358"
+    },
+    {
+      "title": "The DEFY framework: Where agentic AI actually earns its place in the marketing funnel",
+      "url": "https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-10T02:00:04+00:00",
-      "fetched_at": "2026-11-10T02:00:37+00:00",
-      "summary": "Buyers across Southeast Asia now ask an AI assistant who to buy from, and get back a handful of names instead of a page of links. Here is what that changes for a small business, and the plain work that makes it easier for the assistant to name you. A search gave buyers ten links; […] The post When buyers ask an AI who to buy from, will it name you? appeared first on e27 .",
+      "published_at": "2026-11-10T02:15:05+00:00",
+      "fetched_at": "2026-11-10T02:38:55+00:00",
+      "summary": "Ask a room of marketing leaders whether AI has transformed their function and nearly every hand goes up. Ask what their agents did on their own last week and the room goes quiet. That gap is the headline of BCG’s CMO survey this year. Of the 300 CMOs it polled, 96 per cent describe an […] The post The DEFY framework: Where agentic AI actually earns its place in the marketing funnel appeared first on e27 .",
       "matched_keywords": [
+        "AI Agents",
         "AI/KI",
-        "APAC Trend Radar",
-        "Public Health",
-        "Southeast Asia"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); Southeast Asia (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c9f8116219ff678f970c"
+      "id": "e5c59c2aa1200930afea"
+    },
+    {
+      "title": "One founder, many agents: The Philippines’s answer to a vanishing Series A",
+      "url": "https://e27.co/one-founder-many-agents-the-philippiness-answer-to-a-vanishing-series-a-20261109/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-10T02:00:26+00:00",
+      "fetched_at": "2026-11-10T02:38:55+00:00",
+      "summary": "For a decade, the Southeast Asian startup script barely changed. Find two or three co-founders, raise a seed round, hire a dozen people, then sprint to the next round before the money runs out. The script assumed a steady supply of early-stage capital. In 2026, that assumption looks naive. A new report from Gobi Partners, […] The post One founder, many agents: The Philippines’s answer to a vanishing Series A appeare…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "5bb25c682791ce3e95cf"
+    },
+    {
+      "title": "M 4.9 - north of Franz Josef Land",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-10T02:16:29.040+00:00",
+      "fetched_at": "2026-11-10T02:38:55+00:00",
+      "summary": "Time 2026-11-10 02:00:03 UTC 2026-11-10 02:00:03 UTC at epicenter Location 86.724°N 65.294°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ba2cc4670517bdaab217"
+    },
+    {
+      "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
+      "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-09T21:05:20+00:00",
+      "fetched_at": "2026-11-10T02:38:55+00:00",
+      "summary": "筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "92898e1513888c09c8a4"
     }
   ],
   "source_errors": [],
