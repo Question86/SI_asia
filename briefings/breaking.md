@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-11-10T14:50:04+00:00_
+_Generiert: 2026-11-10T14:57:13+00:00_
 
 ## Message for the European Chamber of Commerce Philippines Luncheon Meeting
 
-- Ranking Score: `25.05`
-- Raw Network Score: `28.5`
+- Ranking Score: `28.0`
+- Raw Network Score: `33.6`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
@@ -13,13 +13,13 @@ _Generiert: 2026-11-10T14:50:04+00:00_
 - Quellen: BIS Central Bankers Speeches, BIS Press Releases
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: stable (+0)
+- Momentum: increasing (+1)
 - Erste Quelle: https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
 ## Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 
-- Ranking Score: `23.05`
+- Ranking Score: `22.94`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
