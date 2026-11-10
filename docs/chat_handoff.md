@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T13:48:35+00:00_
+_Generated: 2026-11-10T13:55:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `56`
+- findings: `57`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-10T13:48:35+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html
 - summary: Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 6. Appointments to BIS global payments standard-setting body and Consultative Council for the Americas
+### 6. Message for the European Chamber of Commerce Philippines Luncheon Meeting
+- source: BIS Central Bankers Speeches
+- score: `12`
+- published: `2026-11-10T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting
+- summary: Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the European Chamber of Commerce Philippines Luncheon Meeting, Makati City, 3 November 2026.
+
+### 7. Appointments to BIS global payments standard-setting body and Consultative Council for the Americas
 - source: BIS Press Releases
 - score: `12`
 - published: `2026-11-10T00:00:00+00:00`
 - url: https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas
 - summary: Bank of Korea Governor Hyun Song Shin appointed Chair of the Bank for International Settlements (BIS) Committee on Payments and Market Infrastructures (CPMI) for a three-year term from 1 November. In addition, the Board of Directors has extended the term of T…
 
-### 7. Claude Codeで最近使っているTips【2026/11】
+### 8. Claude Codeで最近使っているTips【2026/11】
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-11-10T03:58:52+00:00`
 - url: https://zenn.dev/oikon/articles/claude-code-recipe
 - summary: Oikonです。 気がつけば2026年も終わりが見えてきました。今年はありがたいことにClaude Codeの書籍を2冊出版させていただきました。 Claude Code実践入門 [生成AI深掘りガイド]（SBクリエイティブ） Claude Code実践レシピ集（技術評論社） 新刊のClaude Code実践レシピ集は、個人的に好きなClaude CodeのTipsをベース...
-
-### 8. Closing the AI guidance gap in education
-- source: OpenAI News RSS
-- score: `10`
-- published: `2026-11-10T09:00:00+00:00`
-- url: https://openai.com/index/closing-ai-guidance-gap-education
-- summary: Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.
 
 END OF DOCUMENT
