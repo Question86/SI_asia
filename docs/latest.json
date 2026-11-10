@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T09:02:39+00:00",
-  "run_id": "2026-11-10T09:02:39+00:00",
+  "generated_at": "2026-11-10T09:19:27+00:00",
+  "run_id": "2026-11-10T09:19:27+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 38
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
     "medium": 16,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -784,6 +784,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "adcb71e3adf64128b1ce"
+      },
+      {
+        "title": "Außer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte",
+        "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-11-10T09:12:00.000+00:00",
+        "fetched_at": "2026-11-10T09:18:57+00:00",
+        "summary": "Apple hat iOS 27.2.1, macOS 27.2.1 und diverse weitere Updates veröffentlicht. Gestopft werden unter anderem Lücken in Bluetooth und der Nachrichten-App.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d846d9d1169ed1695919"
       },
       {
         "title": "Chrome-Update stopft attackiertes Sicherheitsleck",
@@ -1749,6 +1769,26 @@
       "id": "adcb71e3adf64128b1ce"
     },
     {
+      "title": "Außer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte",
+      "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-10T09:12:00.000+00:00",
+      "fetched_at": "2026-11-10T09:18:57+00:00",
+      "summary": "Apple hat iOS 27.2.1, macOS 27.2.1 und diverse weitere Updates veröffentlicht. Gestopft werden unter anderem Lücken in Bluetooth und der Nachrichten-App.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d846d9d1169ed1695919"
+    },
+    {
       "title": "Chrome-Update stopft attackiertes Sicherheitsleck",
       "url": "https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html",
       "source": "heise Security Alerts",
@@ -1957,28 +1997,24 @@
   ],
   "new_findings": [
     {
-      "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
-      "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
+      "title": "Außer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte",
+      "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-11-10T09:00:00+00:00",
-      "fetched_at": "2026-11-10T09:02:10+00:00",
-      "summary": "Speech At the Bank of England Watchers Conference King’s Business School and Money, Macro and Finance Society, London, United Kingdom",
+      "published_at": "2026-11-10T09:12:00.000+00:00",
+      "fetched_at": "2026-11-10T09:18:57+00:00",
+      "summary": "Apple hat iOS 27.2.1, macOS 27.2.1 und diverse weitere Updates veröffentlicht. Gestopft werden unter anderem Lücken in Bluetooth und der Nachrichten-App.",
       "matched_keywords": [
-        "labor market",
-        "macro",
-        "Macro/Policy",
-        "speech",
-        "testimony"
+        "Security"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); labor market (+2.5); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "17ae4a215ce01c7f5b61"
+      "id": "d846d9d1169ed1695919"
     }
   ],
   "source_errors": [],
