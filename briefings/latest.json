@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T07:46:21+00:00",
-  "run_id": "2026-11-10T07:46:21+00:00",
+  "generated_at": "2026-11-10T08:01:35+00:00",
+  "run_id": "2026-11-10T08:01:35+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
     "medium": 14,
-    "observe": 17,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -741,6 +741,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "286b14932be5422619fb"
+      },
+      {
+        "title": "前沢友作氏の請求棄却 メタに「なりすまし広告」削除求めた訴訟 | 毎日新聞",
+        "url": "https://mainichi.jp/articles/20261109/k00/00m/040/284000c",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-10T04:41:25+00:00",
+        "fetched_at": "2026-11-10T08:01:04+00:00",
+        "summary": "インスタグラムなどになりすましの詐欺広告を掲載されたとして実業家の前沢友作氏が、運営する米IT大手メタと日本法人（東京）に広告の削除などを求めた訴訟の判決で、東京地裁は10日、前沢氏の請求を棄却した。SNS事業者の責任を明らかにすることが目的だとして、前沢氏側は損害賠償の請求額をあえて1円にとどめたが、...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "784929a0951b477b97ba"
       },
       {
         "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
@@ -1561,6 +1582,27 @@
       "id": "286b14932be5422619fb"
     },
     {
+      "title": "前沢友作氏の請求棄却 メタに「なりすまし広告」削除求めた訴訟 | 毎日新聞",
+      "url": "https://mainichi.jp/articles/20261109/k00/00m/040/284000c",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-10T04:41:25+00:00",
+      "fetched_at": "2026-11-10T08:01:04+00:00",
+      "summary": "インスタグラムなどになりすましの詐欺広告を掲載されたとして実業家の前沢友作氏が、運営する米IT大手メタと日本法人（東京）に広告の削除などを求めた訴訟の判決で、東京地裁は10日、前沢氏の請求を棄却した。SNS事業者の責任を明らかにすることが目的だとして、前沢氏側は損害賠償の請求額をあえて1円にとどめたが、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "784929a0951b477b97ba"
+    },
+    {
       "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
       "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1667,51 +1709,25 @@
   ],
   "new_findings": [
     {
-      "title": "退屈なCoding AgentはMuseにやらせよう",
-      "url": "https://zenn.dev/watany/articles/342b9815dd0553",
+      "title": "前沢友作氏の請求棄却 メタに「なりすまし広告」削除求めた訴訟 | 毎日新聞",
+      "url": "https://mainichi.jp/articles/20261109/k00/00m/040/284000c",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-10T04:12:04+00:00",
-      "fetched_at": "2026-11-10T07:45:53+00:00",
-      "summary": "はじめに 旧FacebookのMetaが開発したパーソナルAIエージェントのMuseがすごく良くて、意味不明なくらいずっと触ってる。紹介コード: 7L990R を入れるとトークンがもらえるのでよろしくね。 Museは触ると魅力がわかるタイプのプロダクトで、使ってないとClaudeやCodexで良いじゃん、なんで今更驚き屋してんの？って思わ...",
+      "published_at": "2026-11-10T04:41:25+00:00",
+      "fetched_at": "2026-11-10T08:01:04+00:00",
+      "summary": "インスタグラムなどになりすましの詐欺広告を掲載されたとして実業家の前沢友作氏が、運営する米IT大手メタと日本法人（東京）に広告の削除などを求めた訴訟の判決で、東京地裁は10日、前沢氏の請求を棄却した。SNS事業者の責任を明らかにすることが目的だとして、前沢氏側は損害賠償の請求額をあえて1円にとどめたが、...",
       "matched_keywords": [
-        "agent",
         "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "hotentry"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: META (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "f4a77e9ea162e41c37ef"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "784929a0951b477b97ba"
     }
   ],
   "source_errors": [],

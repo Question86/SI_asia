@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T07:46:21+00:00_
+_Generiert: 2026-11-10T08:01:35+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+32 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
