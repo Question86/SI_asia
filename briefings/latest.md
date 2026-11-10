@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T06:00:56+00:00_
+_Generiert: 2026-11-10T06:21:08+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+29 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -62,6 +62,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Walk the halls of the Singapore Fintech Festival this November and every bank will have an AI story. Agentic this, generative that, a shiny assistant on every stand. Here is what almost nobody on stage will say out loud: most bank AI strategies in Asia-Pacific are the 2015 strategy with a lower cost base. The […] The post Your AI strategy is your 2015 strategy, only cheaper appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ecosystem Roundup: Nvidia board probes Jensen Huang over affair with Megaspeed exec** — Score 19, observation — [Quelle](https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-10T06:14:01+00:00`, fetched `2026-11-10T06:20:39+00:00`
+  - Treffer: APAC Trend Radar, Security, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China, Beijing (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph markets via defense_war, macro_region_etfs: SPY (+2.0)
+  - Kurz: Nvidia’s board has opened an independent investigation into Jensen Huang after the CEO admitted in a staff memo to an affair with Alice Huang, an executive at Singapore-based Megaspeed. A memo circulated among US policymakers earlier this year claimed China’s Ministry of State Security had recruited her to spy on him. Beijing’s embassy in Washington […] The post Ecosystem Roundup: Nvidia board probes Jensen Huang ov…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.4 - Pulau Pulau Tanimbar, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-10T02:17:25.529+00:00`, fetched `2026-11-10T02:38:55+00:00`
@@ -89,15 +98,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-10 05:20:08 UTC 2026-11-10 05:20:08 UTC at epicenter Location 36.334°N 141.466°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Before the licence: What Singapore’s regulated institutions ask a fintech partner first** — Score 15, observation — [Quelle](https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-10T01:00:41+00:00`, fetched `2026-11-10T01:11:09+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Content-Chance
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: On 7 October the Monetary Authority of Singapore issued its Guidelines on Artificial Intelligence Risk Management, phased in over 2027 and 2028. On 3 November it announced that the Future of Finance Institute has started work, with a pillar called SafeFin.ai that will extend the MindForge toolkit to AI use-case risk assessments, testing and assurance, […] The post Before the licence: What Singapore’s regulated insti…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **FrodoBots EarthRover Mini+における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96830794/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-10T09:30:15+09:00`, fetched `2026-11-10T00:36:27+00:00`
@@ -119,6 +119,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Claude Codeで最近使っているTips【2026/11】** — Score 11, observation — [Quelle](https://zenn.dev/oikon/articles/claude-code-recipe)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-10T03:58:52+00:00`, fetched `2026-11-10T06:20:39+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Oikonです。 気がつけば2026年も終わりが見えてきました。今年はありがたいことにClaude Codeの書籍を2冊出版させていただきました。 Claude Code実践入門 [生成AI深掘りガイド]（SBクリエイティブ） Claude Code実践レシピ集（技術評論社） 新刊のClaude Code実践レシピ集は、個人的に好きなClaude CodeのTipsをベース...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254620/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-09T22:53:05+00:00`, fetched `2026-11-10T03:17:14+00:00`
@@ -208,15 +217,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年11月10日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261110de73285)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-10T04:44:53+00:00`, fetched `2026-11-10T05:28:39+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 実業家の前澤友作さんが自身の名前や画像を無断で使用した偽広告をSNSに掲載され、肖像権を侵害されたとして、運営するアメリカのIT大手「メタ」側に賠償などを求めた裁判で、東京地方裁判所は訴えを退ける判決…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **sherlock-project/sherlock** — Score 5, observation — [Quelle](https://github.com/sherlock-project/sherlock)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
