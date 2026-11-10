@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T08:54:58+00:00",
+  "generated_at": "2026-11-10T09:03:20+00:00",
   "fx_as_of": null,
-  "candidate_count": 2779,
+  "candidate_count": 2781,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2779
+    "pending": 2781
   },
   "coverage_warning": null,
   "candidates": [
@@ -279,6 +279,48 @@
       "snippet": "ully on-chain. /percolator status # Oracle price, OI, funding, spread /percolator positions # Your open positions /percolator long 100 # Open $100 long /percolator short 50 # Open $50 short /percolator deposit 500 # Deposit USDC collateral /percolator withdraw 100 # Withdraw USDC collateral Configure: PERCOLATOR_ENABLED=true PERCOLATOR_SLAB=<pubkey> PERCOLATOR_O",
       "source_priority": "primary_hint",
       "source_url": "https://github.com/alsk1992/CloddsBot"
+    },
+    {
+      "amount_native": 30.0,
+      "amount_usd": 30.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.8,
+      "candidate_id": "cand_817479388784b4e0e8a4",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-10T09:03:11+00:00",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:unknown:654d36103509",
+      "review_status": "pending",
+      "snippet": "e insurance now needed for ships making this passing, and the ship-to-ship transfer of oil necessary to guard against Iranian attacks, are reportedly boosting oil prices by $20 to $30 a barrel. A second problem is that diesel oil production is affected by limited refining capacity and other constraints. As a consequence, elevated prices for diesel in the United",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 20.0,
+      "amount_usd": 20.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.8,
+      "candidate_id": "cand_7be5c46e2e8cb992bfae",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-10T09:03:11+00:00",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:unknown:4cb78932d2e2",
+      "review_status": "pending",
+      "snippet": "nse. The insurance now needed for ships making this passing, and the ship-to-ship transfer of oil necessary to guard against Iranian attacks, are reportedly boosting oil prices by $20 to $30 a barrel. A second problem is that diesel oil production is affected by limited refining capacity and other constraints. As a consequence, elevated prices for diesel in the",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 15.0,
