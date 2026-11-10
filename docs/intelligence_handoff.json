@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-10T20:22:06Z",
+  "generated_at": "2026-11-10T20:36:28Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4444",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:29+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://www.bis.org/speeches/20261110-navigating-stormy-waters-reflections-monetary-policy",
       "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 145.24,
+      "age_days": 145.25,
       "topics": [
         "disaster"
       ],
@@ -59,7 +59,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 145.2d old signal",
+        "aging penalty -8.0 for 145.3d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -69,7 +69,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 145.24,
+      "age_days": 145.25,
       "topics": [
         "general"
       ],
@@ -80,16 +80,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.53,
+      "baseline_z_hint": 0.46,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 0.53",
+        "baseline z_hint 0.46",
         "high terms: rce, 10",
         "security high-signal: rce, 10",
-        "aging penalty -8.0 for 145.2d old signal",
+        "aging penalty -8.0 for 145.3d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -99,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4445",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:29+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -125,7 +125,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4408",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T10:13:57+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -151,7 +151,7 @@
       "url": "https://levtech.jp/media/detail_965/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T01:12:53+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -177,7 +177,7 @@
       "url": "https://www.bis.org/speeches/20261110-danish-pension-system-long-term-perspective",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "macro"
       ],
@@ -205,7 +205,7 @@
       "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-11-10T18:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -233,7 +233,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4447",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:30+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -258,7 +258,7 @@
       "url": "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "macro"
       ],
@@ -284,7 +284,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4446",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:30+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -309,7 +309,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-10T09:00:00+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "macro"
