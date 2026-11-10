@@ -359,6 +359,43 @@
     "id": "e0a28ddb2c352f8dafce"
   },
   {
+    "title": "M 5.2 - 140 km ESE of Labuha, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbi",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-10T16:11:36.040+00:00",
+    "fetched_at": "2026-11-10T16:17:07+00:00",
+    "summary": "Time 2026-11-10 15:51:35 UTC 2026-11-10 15:51:35 UTC at epicenter Location 0.923°S 128.709°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5dd171b142a2606b577c"
+  },
+  {
     "title": "M 5.0 - 58 km NE of Fef, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1892,5 +1929,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "01321a249df9c7720143"
+  },
+  {
+    "title": "【国のデータをしゃぶり尽くせ！】無料で使える公共データ100選【永久保存版】 - Qiita",
+    "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-11T16:28:07+00:00",
+    "fetched_at": "2026-11-10T16:17:07+00:00",
+    "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 日本のオープンデータ、正直かなり充実しています。分析屋・開発者目線で「これ使える」と思えるものだけでも、体感以上に多い印象です。 地図、統計、気象、防災、不動産...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b23d245f5519dc072feb"
   }
 ]
