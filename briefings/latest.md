@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T01:51:52+00:00_
+_Generiert: 2026-11-10T02:01:11+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Before the licence: What Singapore’s regulated institutions ask a fintech partner first“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+11 neue relevante Treffer. Stärkstes Signal: „When buyers ask an AI who to buy from, will it name you?“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **When buyers ask an AI who to buy from, will it name you?** — Score 16, observation — [Quelle](https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-10T02:00:04+00:00`, fetched `2026-11-10T02:00:37+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: Buyers across Southeast Asia now ask an AI assistant who to buy from, and get back a handful of names instead of a page of links. Here is what that changes for a small business, and the plain work that makes it easier for the assistant to name you. A search gave buyers ten links; […] The post When buyers ask an AI who to buy from, will it name you? appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Before the licence: What Singapore’s regulated institutions ask a fintech partner first** — Score 15, observation — [Quelle](https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-10T01:00:41+00:00`, fetched `2026-11-10T01:11:09+00:00`

@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T01:51:52+00:00_
+_Generated: 2026-11-10T02:01:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `11`
 
 ## Top Signals
 
-### 1. Before the licence: What Singapore’s regulated institutions ask a fintech partner first
+### 1. When buyers ask an AI who to buy from, will it name you?
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-11-10T02:00:04+00:00`
+- url: https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/
+- summary: Buyers across Southeast Asia now ask an AI assistant who to buy from, and get back a handful of names instead of a page of links. Here is what that changes for a small business, and the plain work that makes it easier for the assistant to name you. A search g…
+
+### 2. Before the licence: What Singapore’s regulated institutions ask a fintech partner first
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-11-10T01:00:41+00:00`
 - url: https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/
 - summary: On 7 October the Monetary Authority of Singapore issued its Guidelines on Artificial Intelligence Risk Management, phased in over 2027 and 2028. On 3 November it announced that the Future of Finance Institute has started work, with a pillar called SafeFin.ai…
 
-### 2. FrodoBots EarthRover Mini+における複数の脆弱性
+### 3. FrodoBots EarthRover Mini+における複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-10T09:30:15+09:00`
 - url: https://jvn.jp/vu/JVNVU96830794/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 3. PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性
+### 4. PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-10T09:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU98836795/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
-
-### 4. The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-11-10T01:00:38+00:00`
-- url: https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/
-- summary: Nvidia’s board has opened an independent investigation into whether founder and CEO Jensen Huang was the target of a foreign intelligence effort. The move pulls a Singapore-based chip buyer, and the region’s booming data-centre industry, into the middle of th…
 
 ### 5. M 5.0 - south of the Fiji Islands
 - source: USGS M4.5+ Earthquakes Past Hour
