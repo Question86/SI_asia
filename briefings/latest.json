@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T09:35:55+00:00",
-  "run_id": "2026-11-10T09:35:55+00:00",
+  "generated_at": "2026-11-10T09:45:03+00:00",
+  "run_id": "2026-11-10T09:45:03+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 39,
     "displayed_findings": 39,
     "high": 0,
@@ -2085,53 +2085,7 @@
       "id": "01321a249df9c7720143"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers",
-      "url": "https://e27.co/aquabloom-raises-seed-funding-to-turn-indonesias-seaweed-into-climate-armour-for-farmers-20261110/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-10T09:19:50+00:00",
-      "fetched_at": "2026-11-10T09:35:26+00:00",
-      "summary": "Along Indonesia’s coasts, smallholder farmers tie seaweed to lines strung across shallow water. A few hundred kilometres inland, other smallholders watch El Niño bake their rice paddies. Jakarta-based AquaBloom wants the first group’s harvest to rescue the second group’s yields, and it now has fresh capital to test whether that idea scales. The agri-biotech startup […] The post AquaBloom raises seed funding to turn…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "funding",
-        "Markets/Capital Structure",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "94a922d88bc28912f51d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
