@@ -1,25 +1,25 @@
 # Senna Breaking
 
-_Generiert: 2026-11-10T14:57:13+00:00_
+_Generiert: 2026-11-10T15:03:47+00:00_
 
-## Message for the European Chamber of Commerce Philippines Luncheon Meeting
+## Navigating stormy waters - reflections on monetary policy
 
-- Ranking Score: `28.0`
-- Raw Network Score: `33.6`
-- Max Monitor Score: `12`
+- Ranking Score: `34.5`
+- Raw Network Score: `44.8`
+- Max Monitor Score: `16`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
 - Dominanter Emitter: `ja`
 - Quellen: BIS Central Bankers Speeches, BIS Press Releases
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: increasing (+1)
-- Erste Quelle: https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting
+- Momentum: increasing (+2)
+- Erste Quelle: https://www.bis.org/speeches/20261110-navigating-stormy-waters-reflections-monetary-policy
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
 ## Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 
-- Ranking Score: `22.94`
+- Ranking Score: `22.84`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`

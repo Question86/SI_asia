@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T14:57:09+00:00_
+_Generiert: 2026-11-10T15:03:42+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+66 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -102,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); recent (+1.0)
   - Kurz: OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Navigating stormy waters - reflections on monetary policy** — Score 16, opportunity — [Quelle](https://www.bis.org/speeches/20261110-navigating-stormy-waters-reflections-monetary-policy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-10T00:00:00+00:00`, fetched `2026-11-10T15:03:11+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); Climate/Disaster Infrastructure (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at the ECB Conference on Money Markets 2026, Frankfurt am Main, 5 November 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 5.0 - 58 km NE of Fef, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-10T08:53:21.040+00:00`, fetched `2026-11-10T08:53:47+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **大学1年生がつくったOSSがGitHub Star 1万超。AIに渡す「画面の設計図」はどう生まれた？ - レバテックLAB** — Score 14, observation — [Quelle](https://levtech.jp/media/detail_965/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-10T01:12:53+00:00`, fetched `2026-11-10T06:45:06+00:00`
-  - Treffer: APAC Trend Radar, GitHub, Hatena, hotentry, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: OSS開発者 inori（いのり） 大学1年生。個人でアプリやOSSを開発している。M3E Canvasの作者。 @lnkiai @m3e-canvas デモ 急速に注目を集めている技術やオープンソースプロジェクトを取り上げ、開発者本人への取材を通じて、その「バズり」の裏側にあるストーリーを探る連載「OSS TREND WATCH」。 今回は、大学1年生の...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -249,6 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-09 23:45:21 UTC 2026-11-09 23:45:21 UTC at epicenter Location 24.482°S 177.280°W Depth 126.01 km (78.30 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Trust, expectations and monetary policy** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261110-trust-expectations-and-monetary-policy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-10T00:00:00+00:00`, fetched `2026-11-10T15:03:11+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region australia: Australia, Canberra, Reserve Bank of Australia (+2.0)
+  - Kurz: Text of the Sir Leslie Melville Lecture by Mr Andrew Hauser, Deputy Governor of the Reserve Bank of Australia, to the Australian National University, Canberra, 5 November 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Opening remarks - Monetary Policy Report (IPOM) press conference, third quarter of 2026** — Score 9, opportunity — [Quelle](https://www.bis.org/speeches/20261110-opening-remarks-monetary-policy-report-ipom-press-conference-third-quarter-2026)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-11-10T00:00:00+00:00`, fetched `2026-11-10T14:16:09+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: A single AI production worker produced roughly two hours of AI-assisted drama in a week. The completed project was accepted by the client. Model usage, generation and related tools accounted for roughly 60 per cent of direct production costs; my own labour made up the rest. There was no team. One AI production worker adjusted […] The post The hidden costs of running an AI video production business appeared first on…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Rediscovering client/server: The future of AI is distributed, not centralised** — Score 8, observation — [Quelle](https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-10T03:15:08+00:00`, fetched `2026-11-10T03:17:14+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: For the past year, I have been using AI to write Python programs that run on an Ubuntu server. Along the way, I have had to dust off a few brain cells and relearn Linux commands I had not touched in years. There is something to be said for neuroplasticity: apparently, we can still teach […] The post Rediscovering client/server: The future of AI is distributed, not centralised appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
