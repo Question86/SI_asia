@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-10T15:03:42+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-11-10T15:16:51+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 4,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
     "medium": 28,
-    "observe": 38
+    "observe": 42
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers",
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Welcome address - Fourth Women in Central Banking Workshop",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.bis.org/speeches/20261110-welcome-address-fourth-women-central-banking-workshop",
+      "summary": "Welcome address by Ms Victoria Rodríguez Ceja, Governor of Bank of Mexico, at the Fourth Women in Central Banking Workshop, organised by Bank of Mexico, the Federal Reserve Bank of Dallas, Norges Bank (Central Bank of Norway) and Bank of Italy, Mexico City, 6…",
+      "section": "observe"
+    },
+    {
       "title": "Message for the European Chamber of Commerce Philippines Luncheon Meeting",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
       "summary": "Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the European Chamber of Commerce Philippines Luncheon Meeting, Makati City, 3 November 2026.",
       "section": "observe"
-    },
-    {
-      "title": "Appointments to BIS global payments standard-setting body and Consultative Council for the Americas",
-      "source": "BIS Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "relevance_score": 12,
-      "url": "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas",
-      "summary": "Bank of Korea Governor Hyun Song Shin appointed Chair of the Bank for International Settlements (BIS) Committee on Payments and Market Infrastructures (CPMI) for a three-year term from 1 November. In addition, the Board of Directors has extended the term of T…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,147 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Navigating stormy waters - reflections on monetary policy” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=60.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Navigating stormy waters - reflections on monetary policy",
-        "url": "https://www.bis.org/speeches/20261110-navigating-stormy-waters-reflections-monetary-policy",
-        "source": "BIS Central Bankers Speeches, BIS Press Releases",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 145.03,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 60.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 26.11,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "baseline z_hint 26.11",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 145.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45",
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html",
-        "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 145.03,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 46.43,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 5.84,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "baseline z_hint 5.84",
-          "high terms: rce, 10",
-          "security high-signal: rce, 10",
-          "aging penalty -8.0 for 145.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[NEU] [mittel] Contao: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4445",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-10T13:12:29+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Contao ausnutzen, um Informationen offenzulegen."
-      },
-      {
-        "title": "[NEU] [hoch] Composer: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4444",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-10T13:12:29+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Composer ausnutzen, um Informationen offenzulegen, Daten zu manipulieren oder beliebigen Code auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] GStreamer: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4408",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-10T10:13:57+00:00",
-        "age_days": 0.21,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um beliebigen Programmcode auszuführen, Informationen offenzulegen oder einen Denial of Service zu verursachen."
-      }
-    ]
-  }
+  ]
 }

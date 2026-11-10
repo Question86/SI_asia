@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T15:03:42+00:00_
+_Generated: 2026-11-10T15:16:51+00:00_
 
 ## Status
-- status: `normal`
-- findings: `66`
+- status: `warning`
+- findings: `70`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-10T15:03:42+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html
 - summary: Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. Message for the European Chamber of Commerce Philippines Luncheon Meeting
+### 7. Welcome address - Fourth Women in Central Banking Workshop
+- source: BIS Central Bankers Speeches
+- score: `12`
+- published: `2026-11-10T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261110-welcome-address-fourth-women-central-banking-workshop
+- summary: Welcome address by Ms Victoria Rodríguez Ceja, Governor of Bank of Mexico, at the Fourth Women in Central Banking Workshop, organised by Bank of Mexico, the Federal Reserve Bank of Dallas, Norges Bank (Central Bank of Norway) and Bank of Italy, Mexico City, 6…
+
+### 8. Message for the European Chamber of Commerce Philippines Luncheon Meeting
 - source: BIS Central Bankers Speeches
 - score: `12`
 - published: `2026-11-10T00:00:00+00:00`
 - url: https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting
 - summary: Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the European Chamber of Commerce Philippines Luncheon Meeting, Makati City, 3 November 2026.
-
-### 8. Appointments to BIS global payments standard-setting body and Consultative Council for the Americas
-- source: BIS Press Releases
-- score: `12`
-- published: `2026-11-10T00:00:00+00:00`
-- url: https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas
-- summary: Bank of Korea Governor Hyun Song Shin appointed Chair of the Bank for International Settlements (BIS) Committee on Payments and Market Infrastructures (CPMI) for a three-year term from 1 November. In addition, the Board of Directors has extended the term of T…
 
 END OF DOCUMENT
