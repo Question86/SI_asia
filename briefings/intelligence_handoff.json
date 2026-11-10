@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-10T14:12:07Z",
+  "generated_at": "2026-11-10T14:21:50Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4444",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:29+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4449",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:31+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -60,11 +60,11 @@
       "summary": "Ein entfernter Angreifer kann eine Schwachstelle in Shibboleth Identity Provider ausnutzen, um Dateien zu manipulieren oder einen Cross-Site Scripting Angriff durchzuführen."
     },
     {
-      "title": "Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html",
-      "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
+      "title": "Message for the European Chamber of Commerce Philippines Luncheon Meeting",
+      "url": "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
+      "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 144.98,
+      "age_days": 144.99,
       "topics": [
         "general"
       ],
@@ -75,26 +75,26 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 10.73,
+      "baseline_z_hint": 10.62,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 10.73",
-        "high terms: rce, 10",
-        "security high-signal: rce, 10",
+        "baseline z_hint 10.62",
+        "high terms: rce",
+        "security high-signal: rce",
         "aging penalty -8.0 for 145.0d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
     },
     {
-      "title": "Message for the European Chamber of Commerce Philippines Luncheon Meeting",
-      "url": "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
-      "source": "BIS Central Bankers Speeches, BIS Press Releases",
+      "title": "Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html",
+      "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 144.98,
+      "age_days": 144.99,
       "topics": [
         "general"
       ],
@@ -105,15 +105,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.61,
+      "baseline_z_hint": 7.46,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 5.61",
-        "high terms: rce",
-        "security high-signal: rce",
+        "baseline z_hint 7.46",
+        "high terms: rce, 10",
+        "security high-signal: rce, 10",
         "aging penalty -8.0 for 145.0d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4445",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:29+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -176,7 +176,7 @@
       "url": "https://levtech.jp/media/detail_965/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T01:12:53+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -202,7 +202,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4447",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:30+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -227,7 +227,7 @@
       "url": "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "macro"
       ],
@@ -253,7 +253,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4446",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:30+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -306,7 +306,7 @@
       "url": "https://www.heise.de/news/SAP-Patchday-bringt-Korrekturen-fuer-Codeschmuggel-Luecken-11519250.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 144.27,
+      "age_days": 144.28,
       "topics": [
         "security"
       ],
@@ -317,12 +317,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.98,
+      "baseline_z_hint": 3.8,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.98",
+        "baseline z_hint 3.80",
         "high terms: code",
         "security high-signal: code",
         "aging penalty -8.0 for 144.3d old signal",
