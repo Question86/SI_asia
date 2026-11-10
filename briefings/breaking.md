@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-10T09:45:08+00:00_
+_Generiert: 2026-11-10T09:51:06+00:00_
 
 ## AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers
 
