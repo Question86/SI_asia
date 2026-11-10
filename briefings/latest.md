@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T05:19:39+00:00_
+_Generiert: 2026-11-10T05:29:09+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+25 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -191,14 +191,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年11月10日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞** — Score 5, observation — [Quelle](https://www.tsukuba-sp.org/news/wghx7ljlx7/)
+- **SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261110de73285)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-09T21:05:20+00:00`, fetched `2026-11-10T02:38:55+00:00`
+  - Zeit: published `2026-11-10T04:44:53+00:00`, fetched `2026-11-10T05:28:39+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...
+  - Kurz: 実業家の前澤友作さんが自身の名前や画像を無断で使用した偽広告をSNSに掲載され、肖像権を侵害されたとして、運営するアメリカのIT大手「メタ」側に賠償などを求めた裁判で、東京地方裁判所は訴えを退ける判決…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **sherlock-project/sherlock** — Score 5, observation — [Quelle](https://github.com/sherlock-project/sherlock)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
