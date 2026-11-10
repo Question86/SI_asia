@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T06:21:33+00:00",
+  "generated_at": "2026-11-10T06:46:00+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -932,7 +932,7 @@
       "p90_usd": 115200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T02:39:28+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -2076,7 +2076,7 @@
       "p90_usd": 11760000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-27T15:19:24+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -2161,7 +2161,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -8995,7 +8995,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -9284,7 +9284,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-10T02:39:28+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -12480,7 +12480,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-10T03:57:34+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -13517,7 +13517,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T00:37:03+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -13976,7 +13976,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T02:39:28+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -14588,7 +14588,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T00:37:03+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -16255,7 +16255,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T03:17:47+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -16990,6 +16990,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_92f61996a2f535525172",
+      "title": "Ecosystem Roundup: Nvidia board probes Jensen Huang over affair with Megaspeed exec",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 119200.0,
+      "p50_usd": 11920000.0,
+      "p90_usd": 1192000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_a134d0070a5406ad163f",
       "title": "The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for",
       "event_classes": [
@@ -17158,23 +17175,6 @@
       "first_seen_at": "2026-10-14T05:21:56+00:00",
       "last_seen_at": "2026-10-14T23:56:45+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_92f61996a2f535525172",
-      "title": "Ecosystem Roundup: Nvidia board probes Jensen Huang over affair with Megaspeed exec",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 119200.0,
-      "p50_usd": 11920000.0,
-      "p90_usd": 1192000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-10T06:21:12+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -18006,7 +18006,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T02:01:16+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -18992,7 +18992,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T01:11:40+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -19553,7 +19553,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T01:11:40+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -19570,7 +19570,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T04:45:33+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -20235,6 +20235,23 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_69451d7f6f434e4abf19",
+      "title": "大学1年生がつくったOSSがGitHub Star 1万超。AIに渡す「画面の設計図」はどう生まれた？ - レバテックLAB",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-10T06:45:39+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0ae20b95b446d00e4ba9",
@@ -23519,6 +23536,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_794c4fd844d95621043b",
+      "title": "Claude Codeで最近使っているTips【2026/11】",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_7ac43bd43a76d5c2bcc4",
       "title": "サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝",
       "event_classes": [
@@ -24299,23 +24333,6 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_794c4fd844d95621043b",
-      "title": "Claude Codeで最近使っているTips【2026/11】",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-10T06:21:12+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -25777,7 +25794,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -27836,7 +27853,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T00:52:21+00:00",
       "last_seen_at": "2026-11-10T06:21:12+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1caae5d8f3d166ada6d0",
@@ -30436,7 +30453,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T03:17:47+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
@@ -30555,7 +30572,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-10T04:36:15+00:00",
-      "last_seen_at": "2026-11-10T06:21:12+00:00",
+      "last_seen_at": "2026-11-10T06:45:39+00:00",
       "status": "active"
     },
     {
