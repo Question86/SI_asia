@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-10T15:16:51+00:00",
-  "run_id": "2026-11-10T15:16:51+00:00",
+  "generated_at": "2026-11-10T15:24:09+00:00",
+  "run_id": "2026-11-10T15:24:09+00:00",
   "date": "2026-11-10",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 70
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "new_relevant_findings": 2,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
     "medium": 28,
-    "observe": 42,
-    "source_errors": 1
+    "observe": 44,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1263,6 +1263,26 @@
         "id": "2425f75a07a5d64a1743"
       },
       {
+        "title": "What happens to the economy as “intelligence” gets cheaper?",
+        "url": "https://www.bis.org/speeches/20261110-what-happens-economy-as-intelligence-gets-cheaper",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-10T00:00:00+00:00",
+        "fetched_at": "2026-11-10T15:23:38+00:00",
+        "summary": "Speech by Ms Sarah Hunter, Assistant Governor (Economic) of the Reserve Bank of Australia, at the UBS Australasia Conference, Sydney, 9 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Sydney, Reserve Bank of Australia (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "27d8babd6d343a3301a7"
+      },
+      {
         "title": "Claude Fable 5.2へのプロンプト",
         "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1485,6 +1505,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ba54a69eb00a40ce58e3"
+      },
+      {
+        "title": "We have kept the policy rate unchanged",
+        "url": "https://www.bis.org/speeches/20261110-we-have-kept-policy-rate-unchanged",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-10T00:00:00+00:00",
+        "fetched_at": "2026-11-10T15:23:38+00:00",
+        "summary": "Introductory statement by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the press conference following Norway's announcement of the policy rate, Oslo, 5 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cf0c40bed04fae936084"
       },
       {
         "title": "The future of FinTech",
@@ -2969,6 +3009,26 @@
       "id": "2425f75a07a5d64a1743"
     },
     {
+      "title": "What happens to the economy as “intelligence” gets cheaper?",
+      "url": "https://www.bis.org/speeches/20261110-what-happens-economy-as-intelligence-gets-cheaper",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "fetched_at": "2026-11-10T15:23:38+00:00",
+      "summary": "Speech by Ms Sarah Hunter, Assistant Governor (Economic) of the Reserve Bank of Australia, at the UBS Australasia Conference, Sydney, 9 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Sydney, Reserve Bank of Australia (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27d8babd6d343a3301a7"
+    },
+    {
       "title": "Claude Fable 5.2へのプロンプト",
       "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3191,6 +3251,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ba54a69eb00a40ce58e3"
+    },
+    {
+      "title": "We have kept the policy rate unchanged",
+      "url": "https://www.bis.org/speeches/20261110-we-have-kept-policy-rate-unchanged",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "fetched_at": "2026-11-10T15:23:38+00:00",
+      "summary": "Introductory statement by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the press conference following Norway's announcement of the policy rate, Oslo, 5 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf0c40bed04fae936084"
     },
     {
       "title": "The future of FinTech",
@@ -3443,112 +3523,47 @@
   ],
   "new_findings": [
     {
-      "title": "Welcome address - Fourth Women in Central Banking Workshop",
-      "url": "https://www.bis.org/speeches/20261110-welcome-address-fourth-women-central-banking-workshop",
+      "title": "What happens to the economy as “intelligence” gets cheaper?",
+      "url": "https://www.bis.org/speeches/20261110-what-happens-economy-as-intelligence-gets-cheaper",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "fetched_at": "2026-11-10T15:16:12+00:00",
-      "summary": "Welcome address by Ms Victoria Rodríguez Ceja, Governor of Bank of Mexico, at the Fourth Women in Central Banking Workshop, organised by Bank of Mexico, the Federal Reserve Bank of Dallas, Norges Bank (Central Bank of Norway) and Bank of Italy, Mexico City, 6 November 2026.",
-      "matched_keywords": [
-        "banking",
-        "Macro/Policy"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+6.2); banking (+2.5); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a6cb4e661738d389b963"
-    },
-    {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-10T07:00:00+00:00",
-      "fetched_at": "2026-11-10T15:16:12+00:00",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "abd2320ed9e2c713159b"
-    },
-    {
-      "title": "M 5.6 - 43 km S of Puerto San José, Guatemala",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-10T15:14:10.040+00:00",
-      "fetched_at": "2026-11-10T15:16:12+00:00",
-      "summary": "Time 2026-11-10 14:54:17 UTC 2026-11-10 14:54:17 UTC at epicenter Location 13.538°N 90.880°W Depth 35.00 km (21.75 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "994bacc0f0a574971eba"
-    },
-    {
-      "title": "Transmission and conduct of monetary policy in Switzerland",
-      "url": "https://www.bis.org/speeches/20261110-transmission-and-conduct-monetary-policy-switzerland",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "fetched_at": "2026-11-10T15:16:12+00:00",
-      "summary": "Speech by Mr Martin Schlegel, Chairman of the Governing Board of the Swiss National Bank, at the conference \"The SNB and its watchers\", Zurich, 5 November 2026.",
+      "fetched_at": "2026-11-10T15:23:38+00:00",
+      "summary": "Speech by Ms Sarah Hunter, Assistant Governor (Economic) of the Reserve Bank of Australia, at the UBS Australasia Conference, Sydney, 9 November 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Sydney, Reserve Bank of Australia (+2.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2daa2922c408716ec542"
-    }
-  ],
-  "source_errors": [
+      "id": "27d8babd6d343a3301a7"
+    },
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "We have kept the policy rate unchanged",
+      "url": "https://www.bis.org/speeches/20261110-we-have-kept-policy-rate-unchanged",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "fetched_at": "2026-11-10T15:23:38+00:00",
+      "summary": "Introductory statement by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the press conference following Norway's announcement of the policy rate, Oslo, 5 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf0c40bed04fae936084"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

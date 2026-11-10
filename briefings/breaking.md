@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-11-10T15:16:55+00:00_
+_Generiert: 2026-11-10T15:24:12+00:00_
 
 ## Navigating stormy waters - reflections on monetary policy
 
 - Ranking Score: `34.5`
-- Raw Network Score: `49.0`
+- Raw Network Score: `53.2`
 - Max Monitor Score: `16`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
@@ -19,7 +19,7 @@ _Generiert: 2026-11-10T15:16:55+00:00_
 
 ## Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 
-- Ranking Score: `22.73`
+- Ranking Score: `22.62`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
