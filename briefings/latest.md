@@ -1,34 +1,34 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T19:32:29+00:00_
+_Generiert: 2026-11-10T19:46:50+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+88 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **CISA KEV: CVE-2026-102895 GPUStack GPUStack** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- **CISA KEV: CVE-2026-124194 Microsoft Office** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-11-09`
-  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. GPUStack Improper Authentication Vulnerability
-- **CISA KEV: CVE-2026-123158 OpenBSD OpenSSH** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-11-10`
+  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability
+- **CISA KEV: CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-11-09`
-  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability
-- **CISA KEV: CVE-2026-116779 SignalWire FreeSwitch** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-11-10`
+  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability
+- **CISA KEV: CVE-2026-20320 Cisco BroadWorks** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-11-09`
-  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. SignalWire FreeSwitch Code Injection Vulnerability
-- **CISA KEV: CVE-2026-123218 IBM Aspera Faspex** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-11-10`
+  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability
+- **CISA KEV: CVE-2026-111560 Barracuda Networks Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-11-09`
-  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. IBM Aspera Faspex Incorrect Authorization Vulnerability
-- **CISA KEV: CVE-2026-19868 SonicWall SonicOS SSLVPN** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-11-10`
+  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Multiple Products OS Command Injection Vulnerability
+- **CISA KEV: CVE-2026-116606 Barracuda Networks Barracuda Email Security Gateway (ESG)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-11-06`
-  - Kurz: Known exploited vulnerability. Added 2026-11-06. Due 2026-11-20. SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability
+  - Zeit: `2026-11-10`
+  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576364)
   - Quelle: GDACS
   - Zeit: ``
@@ -61,6 +61,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-11-10T19:46:41+00:00`, fetched `2026-11-10T19:46:24+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers** — Score 23, observation — [Quelle](https://e27.co/aquabloom-raises-seed-funding-to-turn-indonesias-seaweed-into-climate-armour-for-farmers-20261110/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-10T09:19:50+00:00`, fetched `2026-11-10T09:35:26+00:00`
@@ -181,15 +190,6 @@ Keine neuen Hochprioritäts-Treffer.
 - **FrodoBots EarthRover Mini+における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96830794/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-10T09:30:15+09:00`, fetched `2026-11-10T00:36:27+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU98836795/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-11-10T09:30:00+09:00`, fetched `2026-11-10T00:36:27+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
@@ -337,10 +337,14 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/feed/

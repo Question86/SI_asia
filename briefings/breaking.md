@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-10T19:32:32+00:00_
+_Generiert: 2026-11-10T19:46:53+00:00_
 
 ## Navigating stormy waters - reflections on monetary policy
 
