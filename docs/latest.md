@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T04:27:09+00:00_
+_Generiert: 2026-11-10T04:36:10+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+23 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-09 23:45:21 UTC 2026-11-09 23:45:21 UTC at epicenter Location 24.482°S 177.280°W Depth 126.01 km (78.30 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The hidden costs of running an AI video production business** — Score 8, observation — [Quelle](https://e27.co/the-hidden-costs-of-running-an-ai-video-production-business-20261106/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-10T04:30:58+00:00`, fetched `2026-11-10T04:35:42+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: A single AI production worker produced roughly two hours of AI-assisted drama in a week. The completed project was accepted by the client. Model usage, generation and related tools accounted for roughly 60 per cent of direct production costs; my own labour made up the rest. There was no team. One AI production worker adjusted […] The post The hidden costs of running an AI video production business appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Rediscovering client/server: The future of AI is distributed, not centralised** — Score 8, observation — [Quelle](https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-10T03:15:08+00:00`, fetched `2026-11-10T03:17:14+00:00`
