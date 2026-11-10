@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-10T12:29:00Z",
+  "generated_at": "2026-11-10T13:11:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 4,
-      "strong": 21,
-      "watch": 15
+      "strong": 22,
+      "watch": 14
     },
     "bands_after_gate_recheck": {
-      "strong": 24,
-      "watch": 16
+      "strong": 25,
+      "watch": 15
     }
   },
   "top_dynamics": [
@@ -21,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4405",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T10:13:56+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -48,7 +48,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T15:19:24+00:00",
-      "age_days": 13.88,
+      "age_days": 13.91,
       "topics": [
         "general"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3596",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T11:05:48+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:15+09:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:00+09:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:11:09+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -169,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4408",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T10:13:57+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -195,7 +195,7 @@
       "url": "https://levtech.jp/media/detail_965/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T01:12:53+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -221,7 +221,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-10T09:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -249,7 +249,7 @@
       "url": "https://e27.co/aquabloom-raises-seed-funding-to-turn-indonesias-seaweed-into-climate-armour-for-farmers-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T09:36:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -276,7 +276,7 @@
       "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:17:47+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "macro"
@@ -304,7 +304,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4405",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 73.93,
+      "age_days": 73.96,
       "topics": [
         "ai",
         "security"
@@ -323,7 +323,7 @@
         "momentum delta +3",
         "high terms: container",
         "security high-signal: container",
-        "aging penalty -8.0 for 73.9d old signal",
+        "aging penalty -8.0 for 74.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -333,7 +333,7 @@
       "url": "https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T06:14:01+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security",
@@ -361,7 +361,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:17:25.529+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -383,11 +383,37 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-11-10 01:53:24 UTC 2026-11-10 01:53:24 UTC at epicenter Location 7.874°S 130.294°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Microsoft Paint: Codeschmuggel-Lücke im Malprogramm",
+      "url": "https://www.heise.de/news/Microsoft-Paint-Codeschmuggel-Luecke-im-Malprogramm-11519162.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-11-10T12:58:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "In dem rudimentären Zeichenprogramm Paint von Windows können Angreifer Schadcode einschleusen. Jetzt gibt es ein Update dagegen."
+    },
+    {
       "title": "Angriffswarnung für GPUStack, FreeSwitch, OpenSSH und IBM Aspera Faspex",
       "url": "https://www.heise.de/news/Angriffswarnung-fuer-GPUStack-FreeSwitch-OpenSSH-und-IBM-Aspera-Faspex-11518710.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T10:33:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -412,7 +438,7 @@
       "url": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-IBM-App-Connect-Enterprise-11518678.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T10:02:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -437,7 +463,7 @@
       "url": "https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T01:11:40+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -461,7 +487,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T00:37:03+00:00",
-      "age_days": 0.49,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -485,7 +511,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T00:37:03+00:00",
-      "age_days": 0.49,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -509,7 +535,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T08:53:21.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -534,7 +560,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T05:53:57.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -559,7 +585,7 @@
       "url": "https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T06:21:12+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -585,7 +611,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261110-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-10T03:17:47+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -610,7 +636,7 @@
       "url": "https://e27.co/aquabloom-raises-seed-funding-to-turn-indonesias-seaweed-into-climate-armour-for-farmers-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T09:19:50+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -637,7 +663,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 144.91,
+      "age_days": 144.94,
       "topics": [
         "macro"
       ],
@@ -648,12 +674,12 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 1.4,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
+        "baseline z_hint 1.40",
         "AXI0M/User-Yps identity hit",
         "aging penalty -8.0 for 144.9d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
@@ -666,7 +692,7 @@
       "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T09:12:00.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -690,7 +716,7 @@
       "url": "https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T07:57:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security"
@@ -715,7 +741,7 @@
       "url": "https://zenn.dev/watany/articles/342b9815dd0553",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T07:46:23+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -737,39 +763,11 @@
       "summary": ""
     },
     {
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 145.66,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 145.7d old signal",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Your AI strategy is your 2015 strategy, only cheaper",
       "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:00:16+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "macro"
@@ -796,7 +794,7 @@
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-10T09:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -822,7 +820,7 @@
       "url": "https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T02:01:16+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -848,7 +846,7 @@
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T06:21:12+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -875,7 +873,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-11-10T08:15:23+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "macro"
       ],
@@ -899,7 +897,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T03:52:17.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -924,7 +922,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:16:29.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -949,7 +947,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 144.91,
+      "age_days": 144.94,
       "topics": [
         "general"
       ],
@@ -975,7 +973,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T03:57:34+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -999,7 +997,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:39:28+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -1023,7 +1021,7 @@
       "url": "https://e27.co/sionic-ai-brings-its-thai-reading-model-to-sea-with-banks-as-the-real-exam-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T04:45:33+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
