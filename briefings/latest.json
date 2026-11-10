@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T18:42:19+00:00",
-  "run_id": "2026-11-10T18:42:19+00:00",
+  "generated_at": "2026-11-10T18:48:46+00:00",
+  "run_id": "2026-11-10T18:48:46+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 87,
     "displayed_findings": 87,
     "high": 0,
@@ -4319,28 +4319,7 @@
       "id": "b23d245f5519dc072feb"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-10T10:00:00+00:00",
-      "fetched_at": "2026-11-10T18:41:46+00:00",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "36de3450a2babf49f57b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
