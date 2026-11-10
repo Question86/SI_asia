@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T08:54:19+00:00_
+_Generated: 2026-11-10T09:02:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `37`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-10T08:54:19+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-11-10 01:53:24 UTC 2026-11-10 01:53:24 UTC at epicenter Location 7.874°S 130.294°E Depth 10.00 km (6.21 mi)
 
-### 4. 退屈なCoding AgentはMuseにやらせよう
-- source: Hatena Bookmark Hotentry IT
+### 4. Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism
+- source: Federal Reserve Speeches and Testimony
 - score: `18`
-- published: `2026-11-10T04:12:04+00:00`
-- url: https://zenn.dev/watany/articles/342b9815dd0553
-- summary: はじめに 旧FacebookのMetaが開発したパーソナルAIエージェントのMuseがすごく良くて、意味不明なくらいずっと触ってる。紹介コード: 7L990R を入れるとトークンがもらえるのでよろしくね。 Museは触ると魅力がわかるタイプのプロダクトで、使ってないとClaudeやCodexで良いじゃん、なんで今更驚き屋してんの？って思わ...
+- published: `2026-11-10T09:00:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm
+- summary: Speech At the Bank of England Watchers Conference King’s Business School and Money, Macro and Finance Society, London, United Kingdom
 
 ### 5. Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
