@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T16:41:52+00:00",
-  "run_id": "2026-11-10T16:41:52+00:00",
+  "generated_at": "2026-11-10T16:50:04+00:00",
+  "run_id": "2026-11-10T16:50:04+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 29,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -1052,6 +1052,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "396d94cdaddcbe48a73f"
+      },
+      {
+        "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-11-10T16:45:00+00:00",
+        "fetched_at": "2026-11-10T16:49:34+00:00",
+        "summary": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "82b3cb63a131c457af27"
       },
       {
         "title": "M 4.8 - 20 km SSW of Lata, Solomon Islands",
@@ -3045,6 +3065,26 @@
       "id": "396d94cdaddcbe48a73f"
     },
     {
+      "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-11-10T16:45:00+00:00",
+      "fetched_at": "2026-11-10T16:49:34+00:00",
+      "summary": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "82b3cb63a131c457af27"
+    },
+    {
       "title": "M 4.8 - 20 km SSW of Lata, Solomon Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4013,40 +4053,24 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - 20 km SSW of Lata, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbj",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-11-10T16:37:50.040+00:00",
-      "fetched_at": "2026-11-10T16:41:20+00:00",
-      "summary": "Time 2026-11-10 15:52:55 UTC 2026-11-10 15:52:55 UTC at epicenter Location 10.898°S 165.737°E Depth 48.33 km (30.03 mi)",
+      "published_at": "2026-11-10T16:45:00+00:00",
+      "fetched_at": "2026-11-10T16:49:34+00:00",
+      "summary": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Macro/Policy"
       ],
       "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "abf0a4007095a89a1841"
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "82b3cb63a131c457af27"
     }
   ],
   "source_errors": [],
