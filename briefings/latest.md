@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T18:56:12+00:00_
+_Generiert: 2026-11-10T19:04:54+00:00_
 
 ## Kurzlage
 
@@ -9,26 +9,26 @@ _Generiert: 2026-11-10T18:56:12+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **CISA KEV: CVE-2026-102895 GPUStack GPUStack** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- **CISA KEV: CVE-2026-124194 Microsoft Office** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-11-09`
-  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. GPUStack Improper Authentication Vulnerability
-- **CISA KEV: CVE-2026-123158 OpenBSD OpenSSH** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-11-10`
+  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability
+- **CISA KEV: CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-11-09`
-  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability
-- **CISA KEV: CVE-2026-116779 SignalWire FreeSwitch** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-11-10`
+  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability
+- **CISA KEV: CVE-2026-20320 Cisco BroadWorks** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-11-09`
-  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. SignalWire FreeSwitch Code Injection Vulnerability
-- **CISA KEV: CVE-2026-123218 IBM Aspera Faspex** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-11-10`
+  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability
+- **CISA KEV: CVE-2026-111560 Barracuda Networks Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-11-09`
-  - Kurz: Known exploited vulnerability. Added 2026-11-09. Due 2026-11-12. IBM Aspera Faspex Incorrect Authorization Vulnerability
-- **CISA KEV: CVE-2026-19868 SonicWall SonicOS SSLVPN** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-11-10`
+  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Multiple Products OS Command Injection Vulnerability
+- **CISA KEV: CVE-2026-116606 Barracuda Networks Barracuda Email Security Gateway (ESG)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-11-06`
-  - Kurz: Known exploited vulnerability. Added 2026-11-06. Due 2026-11-20. SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability
+  - Zeit: `2026-11-10`
+  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576364)
   - Quelle: GDACS
   - Zeit: ``
