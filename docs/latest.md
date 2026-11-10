@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T05:52:02+00:00_
+_Generiert: 2026-11-10T06:00:56+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+27 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: Buyers across Southeast Asia now ask an AI assistant who to buy from, and get back a handful of names instead of a page of links. Here is what that changes for a small business, and the plain work that makes it easier for the assistant to name you. A search gave buyers ten links; […] The post When buyers ask an AI who to buy from, will it name you? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 78 km ESE of Hitachi, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-10T05:53:57.040+00:00`, fetched `2026-11-10T06:00:21+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-10 05:20:08 UTC 2026-11-10 05:20:08 UTC at epicenter Location 36.334°N 141.466°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Before the licence: What Singapore’s regulated institutions ask a fintech partner first** — Score 15, observation — [Quelle](https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-10T01:00:41+00:00`, fetched `2026-11-10T01:11:09+00:00`
@@ -141,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GCash’s record quarter shows Mynt is now a lender that happens to run a wallet** — Score 6, observation — [Quelle](https://e27.co/gcashs-record-quarter-shows-mynt-is-now-a-lender-that-happens-to-run-a-wallet-20261110/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-10T05:56:07+00:00`, fetched `2026-11-10T06:00:21+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
+  - Kurz: Three weeks after a stock market debut that ended flat, Mynt has handed investors the number they were told to wait for. The parent of GCash, the Philippines’s dominant e-wallet, said its third-quarter revenue hit ₱24.0 billion (about US$400 million), up 16.6 per cent year-on-year and the highest in its history. The timing matters. When […] The post GCash’s record quarter shows Mynt is now a lender that happens to r…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年11月10日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261110-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-10T02:59:49+00:00`, fetched `2026-11-10T03:17:14+00:00`
@@ -176,15 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Multi-Joint dynamics with Contact. A general purpose physics simulator. https://mujoco.org MuJoCo stands for Mu lti- Jo int dynamics with Co ntact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environ…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bitcoin is bruised, not broken: Why the crypto sector is holding its ground** — Score 4, observation — [Quelle](https://e27.co/bitcoin-is-bruised-not-broken-why-the-crypto-sector-is-holding-its-ground-20261110/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-10T04:06:19+00:00`, fetched `2026-11-10T04:19:20+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The cryptocurrency sector has taken a beating that would have shattered lesser assets, and the largest digital currency is still standing. As of November 10, 2026, Bitcoin trades at approximately US$74,980.25, clinging to the US$75,000 threshold after a sharp slide that pushed it to its lowest levels since August. On the surface, the headlines scream […] The post Bitcoin is bruised, not broken: Why the crypto sector…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

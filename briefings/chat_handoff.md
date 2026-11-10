@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T05:52:02+00:00_
+_Generated: 2026-11-10T06:00:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `27`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-10T05:52:02+00:00_
 - url: https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/
 - summary: Buyers across Southeast Asia now ask an AI assistant who to buy from, and get back a handful of names instead of a page of links. Here is what that changes for a small business, and the plain work that makes it easier for the assistant to name you. A search g…
 
-### 4. Before the licence: What Singapore’s regulated institutions ask a fintech partner first
-- source: e27 Asia Startup and Tech Feed
+### 4. M 4.9 - 78 km ESE of Hitachi, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-11-10T01:00:41+00:00`
-- url: https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/
-- summary: On 7 October the Monetary Authority of Singapore issued its Guidelines on Artificial Intelligence Risk Management, phased in over 2027 and 2028. On 3 November it announced that the Future of Finance Institute has started work, with a pillar called SafeFin.ai…
+- published: `2026-11-10T05:53:57.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96
+- summary: Time 2026-11-10 05:20:08 UTC 2026-11-10 05:20:08 UTC at epicenter Location 36.334°N 141.466°E Depth 35.00 km (21.75 mi)
 
 ### 5. ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす
 - source: Hatena Bookmark Hotentry IT
