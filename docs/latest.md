@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T02:59:37+00:00_
+_Generiert: 2026-11-10T03:17:45+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „M 5.4 - Pulau Pulau Tanimbar, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+20 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Your AI strategy is your 2015 strategy, only cheaper** — Score 22, observation — [Quelle](https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-10T03:00:16+00:00`, fetched `2026-11-10T03:17:14+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Walk the halls of the Singapore Fintech Festival this November and every bank will have an AI story. Agentic this, generative that, a shiny assistant on every stand. Here is what almost nobody on stage will say out loud: most bank AI strategies in Asia-Pacific are the 2015 strategy with a lower cost base. The […] The post Your AI strategy is your 2015 strategy, only cheaper appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.4 - Pulau Pulau Tanimbar, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-10T02:17:25.529+00:00`, fetched `2026-11-10T02:38:55+00:00`
@@ -57,18 +66,18 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The DEFY framework: Where agentic AI actually earns its place in the marketing funnel** — Score 14, observation — [Quelle](https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-10T02:15:05+00:00`, fetched `2026-11-10T02:38:55+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Ask a room of marketing leaders whether AI has transformed their function and nearly every hand goes up. Ask what their agents did on their own last week and the room goes quiet. That gap is the headline of BCG’s CMO survey this year. Of the 300 CMOs it polled, 96 per cent describe an […] The post The DEFY framework: Where agentic AI actually earns its place in the marketing funnel appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254620/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-09T22:53:05+00:00`, fetched `2026-11-10T03:17:14+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - north of Franz Josef Land** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-10T02:16:29.040+00:00`, fetched `2026-11-10T02:38:55+00:00`
@@ -87,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-09 23:45:21 UTC 2026-11-09 23:45:21 UTC at epicenter Location 24.482°S 177.280°W Depth 126.01 km (78.30 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Rediscovering client/server: The future of AI is distributed, not centralised** — Score 8, observation — [Quelle](https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-10T03:15:08+00:00`, fetched `2026-11-10T03:17:14+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For the past year, I have been using AI to write Python programs that run on an Ubuntu server. Along the way, I have had to dust off a few brain cells and relearn Linux commands I had not touched in years. There is something to be said for neuroplasticity: apparently, we can still teach […] The post Rediscovering client/server: The future of AI is distributed, not centralised appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Fable 5.2へのプロンプト** — Score 8, observation — [Quelle](https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-09T22:21:33+00:00`, fetched `2026-11-10T00:51:44+00:00`
@@ -104,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbr…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **古川大臣記者会見（令和8年11月10日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261110-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-11-10T02:59:49+00:00`, fetched `2026-11-10T03:17:14+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 古川大臣記者会見（令和8年11月10日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞** — Score 5, observation — [Quelle](https://www.tsukuba-sp.org/news/wghx7ljlx7/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -135,8 +162,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

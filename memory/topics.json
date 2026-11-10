@@ -1,39 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-10T02:59:37+00:00",
+  "generated_at": "2026-11-10T03:17:45+00:00",
   "topics": {
-    "general": [
-      {
-        "title": "M 5.4 - Pulau Pulau Tanimbar, Indonesia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-11-10T02:17:25.529+00:00",
-        "relevance_score": 19,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d"
-      },
-      {
-        "title": "M 4.9 - north of Franz Josef Land",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-11-10T02:16:29.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i"
-      },
-      {
-        "title": "M 5.0 - south of the Fiji Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-11-10T00:04:59.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v"
-      },
-      {
-        "title": "Claude Fable 5.2へのプロンプト",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-09T22:21:33+00:00",
-        "relevance_score": 8,
-        "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2"
-      }
-    ],
     "ai": [
+      {
+        "title": "Your AI strategy is your 2015 strategy, only cheaper",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-10T03:00:16+00:00",
+        "relevance_score": 22,
+        "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/"
+      },
       {
         "title": "When buyers ask an AI who to buy from, will it name you?",
         "source": "e27 Asia Startup and Tech Feed",
@@ -70,6 +47,20 @@
         "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/"
       },
       {
+        "title": "ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-09T22:53:05+00:00",
+        "relevance_score": 10,
+        "url": "https://japan.cnet.com/article/35254620/"
+      },
+      {
+        "title": "Rediscovering client/server: The future of AI is distributed, not centralised",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-10T03:15:08+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/"
+      },
+      {
         "title": "garrytan/gbrain",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -82,13 +73,22 @@
         "published_at": "2026-11-09T21:05:20+00:00",
         "relevance_score": 5,
         "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Your AI strategy is your 2015 strategy, only cheaper",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-10T03:00:16+00:00",
+        "relevance_score": 22,
+        "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/"
       },
       {
-        "title": "sherlock-project/sherlock",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/sherlock-project/sherlock"
+        "title": "The DEFY framework: Where agentic AI actually earns its place in the marketing funnel",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-10T02:15:05+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/"
       },
       {
         "title": "google-deepmind/mujoco",
@@ -96,13 +96,43 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/google-deepmind/mujoco"
+      }
+    ],
+    "general": [
+      {
+        "title": "M 5.4 - Pulau Pulau Tanimbar, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-10T02:17:25.529+00:00",
+        "relevance_score": 19,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d"
       },
       {
-        "title": "anthropics/claude-quickstarts",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/anthropics/claude-quickstarts"
+        "title": "M 4.9 - north of Franz Josef Land",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-10T02:16:29.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i"
+      },
+      {
+        "title": "M 5.0 - south of the Fiji Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-10T00:04:59.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v"
+      },
+      {
+        "title": "Claude Fable 5.2へのプロンプト",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-09T22:21:33+00:00",
+        "relevance_score": 8,
+        "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2"
+      },
+      {
+        "title": "古川大臣記者会見（令和8年11月10日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-11-10T02:59:49+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-261110-01"
       }
     ],
     "security": [
@@ -119,22 +149,6 @@
         "published_at": "2026-11-10T09:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU98836795/"
-      }
-    ],
-    "economy": [
-      {
-        "title": "The DEFY framework: Where agentic AI actually earns its place in the marketing funnel",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-10T02:15:05+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/"
-      },
-      {
-        "title": "google-deepmind/mujoco",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/google-deepmind/mujoco"
       }
     ],
     "github": [
@@ -175,6 +189,13 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "Rediscovering client/server: The future of AI is distributed, not centralised",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-10T03:15:08+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/"
+      },
       {
         "title": "sherlock-project/sherlock",
         "source": "GitHub Trending RSS All Languages Daily",
