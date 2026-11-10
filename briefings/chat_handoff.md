@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T08:01:35+00:00_
+_Generated: 2026-11-10T08:21:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `34`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-10T08:01:35+00:00_
 - url: https://zenn.dev/watany/articles/342b9815dd0553
 - summary: はじめに 旧FacebookのMetaが開発したパーソナルAIエージェントのMuseがすごく良くて、意味不明なくらいずっと触ってる。紹介コード: 7L990R を入れるとトークンがもらえるのでよろしくね。 Museは触ると魅力がわかるタイプのプロダクトで、使ってないとClaudeやCodexで良いじゃん、なんで今更驚き屋してんの？って思わ...
 
-### 5. Claude Codeで最近使っているTips【2026/11】
+### 5. Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-11-10T08:15:23+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html
+- summary: Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 6. Claude Codeで最近使っているTips【2026/11】
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-11-10T03:58:52+00:00`
 - url: https://zenn.dev/oikon/articles/claude-code-recipe
 - summary: Oikonです。 気がつけば2026年も終わりが見えてきました。今年はありがたいことにClaude Codeの書籍を2冊出版させていただきました。 Claude Code実践入門 [生成AI深掘りガイド]（SBクリエイティブ） Claude Code実践レシピ集（技術評論社） 新刊のClaude Code実践レシピ集は、個人的に好きなClaude CodeのTipsをベース...
 
-### 6. ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす
+### 7. ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-11-09T22:53:05+00:00`
 - url: https://japan.cnet.com/article/35254620/
 - summary: ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。
 
-### 7. M 5.2 - 19 km WSW of Lata, Solomon Islands
+### 8. M 5.2 - 19 km WSW of Lata, Solomon Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-10T03:52:17.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s
 - summary: Time 2026-11-10 03:37:46 UTC 2026-11-10 03:37:46 UTC at epicenter Location 10.782°S 165.624°E Depth 10.00 km (6.21 mi)
-
-### 8. M 4.9 - north of Franz Josef Land
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-10T02:16:29.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i
-- summary: Time 2026-11-10 02:00:03 UTC 2026-11-10 02:00:03 UTC at epicenter Location 86.724°N 65.294°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

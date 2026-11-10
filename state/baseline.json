@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T08:01:39+00:00",
+  "generated_at": "2026-11-10T08:21:39+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -1018,8 +1018,8 @@
       "z_hint": -0.0
     },
     "domain:www.ecb.europa.eu": {
-      "title": "Announcing 20260099 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "updated_at": "2026-11-09T23:56:01+00:00",
+      "title": "Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -1050,12 +1050,12 @@
         14.1,
         14.1,
         14.1,
-        14.1
+        17.1
       ],
-      "rolling_average": 14.1,
-      "rolling_peak": 14.1,
-      "last_score": 14.1,
-      "z_hint": -0.0
+      "rolling_average": 14.2,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 2.9
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -4407,8 +4407,8 @@
       "z_hint": 0.0
     },
     "domain:www.heise.de": {
-      "title": "Notepad++: Update schließt Rechteausweitungslücke und mehr",
-      "updated_at": "2026-11-09T23:56:01+00:00",
+      "title": "Chrome-Update stopft attackiertes Sicherheitsleck",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         13.3,
         13.3,
@@ -4439,12 +4439,12 @@
         13.3,
         13.3,
         13.3,
-        13.3
+        12.1
       ],
-      "rolling_average": 13.3,
+      "rolling_average": 13.26,
       "rolling_peak": 13.3,
-      "last_score": 13.3,
-      "z_hint": -0.0
+      "last_score": 12.1,
+      "z_hint": -1.16
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -4536,13 +4536,13 @@
     },
     "domain:japan.cnet.com": {
       "title": "ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         12.1,
         12.1,
         12.1,
-        12.1,
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -5729,7 +5729,7 @@
     },
     "earthquake:japan:4.9": {
       "title": "M 4.9 - 78 km ESE of Hitachi, Japan",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         20.7,
         20.7,
@@ -5752,7 +5752,7 @@
         20.7,
         20.7,
         20.7,
-        20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -5762,10 +5762,10 @@
         17.7,
         17.7
       ],
-      "rolling_average": 19.9,
+      "rolling_average": 19.8,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -2.2
+      "z_hint": -2.1
     },
     "earthquake:philippines:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
@@ -57916,7 +57916,7 @@
     },
     "earthquake:m 5.0 - south of the fiji islands:5.0": {
       "title": "M 5.0 - south of the Fiji Islands",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -94337,10 +94337,10 @@
     },
     "earthquake:indonesia:5.4": {
       "title": "M 5.4 - Pulau Pulau Tanimbar, Indonesia",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
-        19.7,
         24.7,
+        21.7,
         21.7,
         21.7,
         21.7,
@@ -94370,10 +94370,10 @@
         21.7,
         21.7
       ],
-      "rolling_average": 21.73,
+      "rolling_average": 21.8,
       "rolling_peak": 24.7,
       "last_score": 21.7,
-      "z_hint": -0.03
+      "z_hint": -0.1
     },
     "url:https://www.yomiuri.co.jp/national/20261027-gyt1t00367/": {
       "title": "公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」",
@@ -111615,7 +111615,7 @@
     },
     "title:frodobots-earthrover-mini": {
       "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -111655,7 +111655,7 @@
     },
     "title:prestashop-performance-debug-php": {
       "title": "PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -111695,7 +111695,7 @@
     },
     "domain:platform.claude.com": {
       "title": "Claude Fable 5.2へのプロンプト",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -111735,7 +111735,7 @@
     },
     "title:before-licence-what-singapore-regulated-institutions-ask-fintech": {
       "title": "Before the licence: What Singapore’s regulated institutions ask a fintech partner first",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         17.1,
         17.1,
@@ -111775,7 +111775,7 @@
     },
     "title:megaspeed-question-singapore-firm-ended-nvidia-biggest-crisis": {
       "title": "The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -111815,7 +111815,7 @@
     },
     "github_repo:garrytan/gbrain": {
       "title": "garrytan/gbrain",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -111855,7 +111855,7 @@
     },
     "github_repo:sherlock-project/sherlock": {
       "title": "sherlock-project/sherlock",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -111895,7 +111895,7 @@
     },
     "github_repo:google-deepmind/mujoco": {
       "title": "google-deepmind/mujoco",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -111935,7 +111935,7 @@
     },
     "github_repo:anthropics/claude-quickstarts": {
       "title": "anthropics/claude-quickstarts",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -111975,9 +111975,9 @@
     },
     "title:when-buyers-ask-who-buy-will-name-you": {
       "title": "When buyers ask an AI who to buy from, will it name you?",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
-        21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -112008,16 +112008,17 @@
         18.1,
         18.1
       ],
-      "rolling_average": 18.2,
-      "rolling_peak": 21.1,
+      "rolling_average": 18.1,
+      "rolling_peak": 18.1,
       "last_score": 18.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:defy-framework-where-agentic-actually-earns-its-place": {
       "title": "The DEFY framework: Where agentic AI actually earns its place in the marketing funnel",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -112054,9 +112055,10 @@
     },
     "title:one-founder-many-agents-philippines-answer-vanishing-series": {
       "title": "One founder, many agents: The Philippines’s answer to a vanishing Series A",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -112093,9 +112095,10 @@
     },
     "earthquake:m 4.9 - north of franz josef land:4.9": {
       "title": "M 4.9 - north of Franz Josef Land",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -112132,9 +112135,10 @@
     },
     "domain:www.tsukuba-sp.org": {
       "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -112171,7 +112175,7 @@
     },
     "title:your-strategy-your-2015-strategy-only-cheaper": {
       "title": "Your AI strategy is your 2015 strategy, only cheaper",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         27.1,
         24.1,
@@ -112198,16 +112202,17 @@
         24.1,
         24.1,
         24.1,
+        24.1,
         24.1
       ],
-      "rolling_average": 24.22,
+      "rolling_average": 24.21,
       "rolling_peak": 27.1,
       "last_score": 24.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:rediscovering-client-server-future-distributed-not-centralised": {
       "title": "Rediscovering client/server: The future of AI is distributed, not centralised",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -112234,16 +112239,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.22,
+      "rolling_average": 10.21,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "url:https://www.digital.go.jp/speech/minister-261110-01": {
       "title": "古川大臣記者会見（令和8年11月10日）動画を掲載しました",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -112270,18 +112276,20 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.22,
+      "rolling_average": 8.21,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "earthquake:m 5.2 - 19 km wsw of lata, solomon islands:5.2": {
       "title": "M 5.2 - 19 km WSW of Lata, Solomon Islands",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -112310,7 +112318,7 @@
     },
     "title:bitcoin-bruised-not-broken-why-crypto-sector-holding": {
       "title": "Bitcoin is bruised, not broken: Why the crypto sector is holding its ground",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -112330,16 +112338,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.26,
+      "rolling_average": 6.25,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:hidden-costs-running-video-production-business": {
       "title": "The hidden costs of running an AI video production business",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -112357,16 +112366,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.28,
+      "rolling_average": 10.27,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "title:sionic-brings-its-thai-reading-model-sea-banks": {
       "title": "Sionic AI brings its Thai-reading model to SEA, with banks as the real exam",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -112383,18 +112393,20 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.29,
+      "rolling_average": 16.28,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:sns-nhk": {
       "title": "SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -112407,14 +112419,14 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.35,
+      "rolling_average": 7.33,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:gcash-record-quarter-shows-mynt-now-lender-that": {
       "title": "GCash’s record quarter shows Mynt is now a lender that happens to run a wallet",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -112424,16 +112436,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.43,
+      "rolling_average": 8.4,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:ecosystem-roundup-nvidia-board-probes-jensen-huang-over": {
       "title": "Ecosystem Roundup: Nvidia board probes Jensen Huang over affair with Megaspeed exec",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         24.1,
         21.1,
@@ -112442,18 +112455,20 @@
         21.1,
         21.1,
         21.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 21.47,
+      "rolling_average": 21.43,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -0.37
+      "z_hint": -0.33
     },
     "title:claude-code-tips-2026": {
       "title": "Claude Codeで最近使っているTips【2026/11】",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -112462,14 +112477,14 @@
         13.1,
         13.1
       ],
-      "rolling_average": 13.47,
+      "rolling_average": 13.43,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.37
+      "z_hint": -0.33
     },
     "title:oss-github-star-lab": {
       "title": "大学1年生がつくったOSSがGitHub Star 1万超。AIに渡す「画面の設計図」はどう生まれた？ - レバテックLAB",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -112477,35 +112492,38 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.53,
+      "rolling_average": 16.47,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "title:coding-agent-muse": {
       "title": "退屈なCoding AgentはMuseにやらせよう",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
         23.1,
+        20.1,
         20.1
       ],
-      "rolling_average": 21.6,
+      "rolling_average": 21.1,
       "rolling_peak": 23.1,
       "last_score": 20.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "url:https://mainichi.jp/articles/20261109/k00/00m/040/284000c": {
       "title": "前沢友作氏の請求棄却 メタに「なりすまし広告」削除求めた訴訟 | 毎日新聞",
-      "updated_at": "2026-11-10T08:01:39+00:00",
+      "updated_at": "2026-11-10T08:21:39+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }
