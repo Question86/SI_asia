@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T00:37:03+00:00",
+  "generated_at": "2026-11-10T00:52:21+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -57916,9 +57916,8 @@
     },
     "earthquake:m 5.0 - south of the fiji islands:5.0": {
       "title": "M 5.0 - south of the Fiji Islands",
-      "updated_at": "2026-11-10T00:37:03+00:00",
+      "updated_at": "2026-11-10T00:52:21+00:00",
       "network_scores": [
-        11.7,
         11.7,
         11.7,
         11.7,
@@ -57947,12 +57946,13 @@
         11.7,
         11.7,
         11.7,
-        14.7
+        14.7,
+        11.7
       ],
       "rolling_average": 11.9,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
-      "z_hint": 2.8
+      "last_score": 11.7,
+      "z_hint": -0.2
     },
     "earthquake:m 5.1 - 159 km se of gizo, solomon islands:5.1": {
       "title": "M 5.1 - 159 km SE of Gizo, Solomon Islands",
@@ -111615,24 +111615,37 @@
     },
     "title:frodobots-earthrover-mini": {
       "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
-      "updated_at": "2026-11-10T00:37:03+00:00",
+      "updated_at": "2026-11-10T00:52:21+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
+      "last_score": 16.1,
+      "z_hint": -1.5
     },
     "title:prestashop-performance-debug-php": {
       "title": "PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性",
-      "updated_at": "2026-11-10T00:37:03+00:00",
+      "updated_at": "2026-11-10T00:52:21+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
+      "last_score": 16.1,
+      "z_hint": -1.5
+    },
+    "domain:platform.claude.com": {
+      "title": "Claude Fable 5.2へのプロンプト",
+      "updated_at": "2026-11-10T00:52:21+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
       "z_hint": 0.0
     }
   }

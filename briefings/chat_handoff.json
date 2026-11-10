@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-10T00:36:58+00:00",
+  "generated_at": "2026-11-10T00:52:17+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 1,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 2,
-    "observe": 1
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -43,6 +43,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v",
       "summary": "Time 2026-11-09 23:45:21 UTC 2026-11-09 23:45:21 UTC at epicenter Location 24.482°S 177.280°W Depth 126.01 km (78.30 mi)",
       "section": "observe"
+    },
+    {
+      "title": "Claude Fable 5.2へのプロンプト",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-09T22:21:33+00:00",
+      "relevance_score": 8,
+      "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
+      "summary": "Claude Fable 5.2およびClaude Mythos 5.2に固有のプロンプトパターン：エフォート、早期停止、承認、コードの所有権、進捗の更新、サブエージェント、蓄積する慎重さ、以前のモデル向けに書かれた指示、最終レポート、拒否について説明します。 このガイドでは、Claude Fable 5.2に固有のプロンプトパターンについて説...",
+      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -50,136 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “FrodoBots EarthRover Mini+における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96830794/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-10T09:30:15+09:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU98836795/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-10T09:30:00+09:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96830794/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-10T00:37:03+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU98836795/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-10T00:37:03+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.0 - south of the Fiji Islands",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-02T04:53:55+00:00",
-        "age_days": 38.83,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 15.24,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.8,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.80",
-          "aging penalty -6.2 for 38.8d old signal"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
