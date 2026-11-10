@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T23:28:32+00:00",
-  "run_id": "2026-11-10T23:28:32+00:00",
+  "generated_at": "2026-11-10T23:37:18+00:00",
+  "run_id": "2026-11-10T23:37:18+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 95
+      "configured_public_sources_only": 96
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "new_relevant_findings": 1,
+    "today_file_total": 96,
+    "displayed_findings": 96,
     "high": 0,
     "medium": 30,
-    "observe": 65,
+    "observe": 66,
     "source_errors": 0
   },
   "sections": {
@@ -2150,6 +2150,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f28dbc4e09849d725469"
+      },
+      {
+        "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
+        "url": "https://gigazine.net/news/20261110-leantime/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-10T14:08:25+00:00",
+        "fetched_at": "2026-11-10T23:36:48+00:00",
+        "summary": "仕事や個人のプロジェクトを進める際はタスクの整理・スケジュールの確認・作業時間の記録などに複数のアプリを使い分けることがあります。そんな作業を1カ所にまとめて管理できるのが無料のオープンソースツール「Leantime」です。カンバン・一覧表・ガントビュー・カレンダー・タイムシートを備えるほか、ADHD・失読症...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ab659cba9682a2ee2050"
       },
       {
         "title": "【資料公開】「自分の仕事はここまで」はどこから来るのか",
@@ -4505,6 +4526,27 @@
       "id": "f28dbc4e09849d725469"
     },
     {
+      "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
+      "url": "https://gigazine.net/news/20261110-leantime/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-10T14:08:25+00:00",
+      "fetched_at": "2026-11-10T23:36:48+00:00",
+      "summary": "仕事や個人のプロジェクトを進める際はタスクの整理・スケジュールの確認・作業時間の記録などに複数のアプリを使い分けることがあります。そんな作業を1カ所にまとめて管理できるのが無料のオープンソースツール「Leantime」です。カンバン・一覧表・ガントビュー・カレンダー・タイムシートを備えるほか、ADHD・失読症...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab659cba9682a2ee2050"
+    },
+    {
       "title": "【資料公開】「自分の仕事はここまで」はどこから来るのか",
       "url": "https://www.ryuzee.com/contents/blog/14628",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4735,7 +4777,29 @@
       "id": "b23d245f5519dc072feb"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
+      "url": "https://gigazine.net/news/20261110-leantime/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-10T14:08:25+00:00",
+      "fetched_at": "2026-11-10T23:36:48+00:00",
+      "summary": "仕事や個人のプロジェクトを進める際はタスクの整理・スケジュールの確認・作業時間の記録などに複数のアプリを使い分けることがあります。そんな作業を1カ所にまとめて管理できるのが無料のオープンソースツール「Leantime」です。カンバン・一覧表・ガントビュー・カレンダー・タイムシートを備えるほか、ADHD・失読症...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab659cba9682a2ee2050"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
