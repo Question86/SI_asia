@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T14:50:59+00:00",
+  "generated_at": "2026-11-10T14:58:11+00:00",
   "fx_as_of": null,
-  "candidate_count": 2787,
+  "candidate_count": 2788,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2787
+    "pending": 2788
   },
   "coverage_warning": null,
   "candidates": [
@@ -56821,6 +56821,25 @@
       "snippet": "7画像 定期購読 落合陽一の見ている風景と考えていること ¥ 3,980 / 月 落合陽一が日々見る景色と気になったトピックを写真付きの散文調で書きます．落合陽一が見てる景色や考えてることがわかるエッセイ系写真集（平均で月２５回くらい更新しています） 購入手続きへ 4 人 が高評価 ログイン ピックアップされています 落合陽一の見ている風景と考えていること ¥ 3,980 / 月 なるほどー 5 件",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://note.com/ochyai/n/n7a1dbd68c8fa"
+    },
+    {
+      "amount_native": 240000.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_22e3170c4bb37b78a959",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-10T14:57:50+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:45b03ea59607",
+      "review_status": "pending",
+      "snippet": "ife expectancy. In fact, the occupational pension system will not be fully mature until 2080. Nevertheless, last year median pension wealth among people aged 60–64 stood at around €240,000. That is more than three times medium annual income. Even before the system has fully matured, this represents substantial savings. And these assets continue to earn returns during",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261110-danish-pension-system-long-term-perspective",
+      "component_confidence": 0.0
     }
   ]
 }
