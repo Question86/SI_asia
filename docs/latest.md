@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T09:59:26+00:00_
+_Generiert: 2026-11-10T10:10:41+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+41 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Appointments to BIS global payments standard-setting body and Consultative Council for the Americas** — Score 12, observation — [Quelle](https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-11-10T00:00:00+00:00`, fetched `2026-11-10T10:10:06+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region canada: Canada, Bank of Canada (+2.0)
+  - Kurz: Bank of Korea Governor Hyun Song Shin appointed Chair of the Bank for International Settlements (BIS) Committee on Payments and Market Infrastructures (CPMI) for a three-year term from 1 November. In addition, the Board of Directors has extended the term of Tiff Macklem, Governor of the Bank of Canada, as Chair of the Consultative Council for the Americas (CCA) until 31 March 2027.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Codeで最近使っているTips【2026/11】** — Score 11, observation — [Quelle](https://zenn.dev/oikon/articles/claude-code-recipe)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-10T03:58:52+00:00`, fetched `2026-11-10T06:20:39+00:00`
@@ -213,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Zahlreiche Sicherheitslücken bedrohen IBM App Connect Enterprise** — Score 7, observation — [Quelle](https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-IBM-App-Connect-Enterprise-11518678.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-10T10:02:00.000+00:00`, fetched `2026-11-10T10:10:06+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Patches schließen Schwachstellen in IBM App Connect Enterprise, der Log Source Management App for IBM QRadar SIEM und der TS4500 Tape Library.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Außer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte** — Score 7, observation — [Quelle](https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-10T09:12:00.000+00:00`, fetched `2026-11-10T09:18:57+00:00`
@@ -230,24 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Google hat ein Update für den Webbrowser Chrome veröffentlicht. Die Entwickler warnen, dass eine Lücke bereits angegriffen wird.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GCash’s record quarter shows Mynt is now a lender that happens to run a wallet** — Score 6, observation — [Quelle](https://e27.co/gcashs-record-quarter-shows-mynt-is-now-a-lender-that-happens-to-run-a-wallet-20261110/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-10T05:56:07+00:00`, fetched `2026-11-10T06:00:21+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
-  - Kurz: Three weeks after a stock market debut that ended flat, Mynt has handed investors the number they were told to wait for. The parent of GCash, the Philippines’s dominant e-wallet, said its third-quarter revenue hit ₱24.0 billion (about US$400 million), up 16.6 per cent year-on-year and the highest in its history. The timing matters. When […] The post GCash’s record quarter shows Mynt is now a lender that happens to r…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **古川大臣記者会見（令和8年11月10日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261110-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-10T02:59:49+00:00`, fetched `2026-11-10T03:17:14+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 古川大臣記者会見（令和8年11月10日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

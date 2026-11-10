@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T09:59:26+00:00_
+_Generated: 2026-11-10T10:10:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `41`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-10T09:59:26+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html
 - summary: Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 6. Claude Codeで最近使っているTips【2026/11】
+### 6. Appointments to BIS global payments standard-setting body and Consultative Council for the Americas
+- source: BIS Press Releases
+- score: `12`
+- published: `2026-11-10T00:00:00+00:00`
+- url: https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas
+- summary: Bank of Korea Governor Hyun Song Shin appointed Chair of the Bank for International Settlements (BIS) Committee on Payments and Market Infrastructures (CPMI) for a three-year term from 1 November. In addition, the Board of Directors has extended the term of T…
+
+### 7. Claude Codeで最近使っているTips【2026/11】
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-11-10T03:58:52+00:00`
 - url: https://zenn.dev/oikon/articles/claude-code-recipe
 - summary: Oikonです。 気がつけば2026年も終わりが見えてきました。今年はありがたいことにClaude Codeの書籍を2冊出版させていただきました。 Claude Code実践入門 [生成AI深掘りガイド]（SBクリエイティブ） Claude Code実践レシピ集（技術評論社） 新刊のClaude Code実践レシピ集は、個人的に好きなClaude CodeのTipsをベース...
 
-### 7. Closing the AI guidance gap in education
+### 8. Closing the AI guidance gap in education
 - source: OpenAI News RSS
 - score: `10`
 - published: `2026-11-10T09:00:00+00:00`
 - url: https://openai.com/index/closing-ai-guidance-gap-education
 - summary: Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.
-
-### 8. ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-11-09T22:53:05+00:00`
-- url: https://japan.cnet.com/article/35254620/
-- summary: ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。
 
 END OF DOCUMENT

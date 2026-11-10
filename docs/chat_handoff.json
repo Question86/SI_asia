@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-10T09:59:26+00:00",
+  "generated_at": "2026-11-10T10:10:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 2,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
     "medium": 17,
-    "observe": 22
+    "observe": 24
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "Appointments to BIS global payments standard-setting body and Consultative Council for the Americas",
+      "source": "BIS Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas",
+      "summary": "Bank of Korea Governor Hyun Song Shin appointed Chair of the Bank for International Settlements (BIS) Committee on Payments and Market Infrastructures (CPMI) for a three-year term from 1 November. In addition, the Board of Directors has extended the term of T…",
+      "section": "observe"
+    },
+    {
       "title": "Claude Codeで最近使っているTips【2026/11】",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 10,
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
-      "section": "observe"
-    },
-    {
-      "title": "ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-09T22:53:05+00:00",
-      "relevance_score": 10,
-      "url": "https://japan.cnet.com/article/35254620/",
-      "summary": "ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。",
       "section": "observe"
     }
   ],
