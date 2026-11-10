@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T05:52:37+00:00",
+  "generated_at": "2026-11-10T06:01:32+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -1045,7 +1045,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_09f8a231b82c8835f290",
@@ -6479,7 +6479,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_3f3cc2b07a63ed6cf103",
@@ -7844,6 +7844,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4ae3410a0e3af8f39905",
+      "title": "GCash’s record quarter shows Mynt is now a lender that happens to run a wallet",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_4af21b38982a38f1ce36",
@@ -25003,7 +25014,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f046ce7ef79d49703e47",
