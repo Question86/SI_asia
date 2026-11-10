@@ -1,18 +1,48 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-10T13:11:53Z_
+_Generated: 2026-11-10T13:37:59Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
 
 ## Top Dynamics
+
+### [NEU] [hoch] Composer: Mehrere Schwachstellen
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `31.0`
+- Published: `2026-11-10T13:12:29+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4444
+
+### [NEU] [mittel] Shibboleth Identity Provider: Schwachstelle ermöglicht Cross-Site Scripting
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-11-10T13:12:31+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4449
+
+### [NEU] [mittel] 7-Zip: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-11-10T13:12:31+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4448
 
 ### [UPDATE] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-10T11:05:48+00:00` / age_days `0.09`
+- Published: `2026-11-10T11:05:48+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -22,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] IBM App Connect Enterpri
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-10T09:30:15+09:00` / age_days `0.53`
+- Published: `2026-11-10T09:30:15+09:00` / age_days `0.55`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,27 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] IBM App Connect Enterpri
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-10T09:30:00+09:00` / age_days `0.53`
+- Published: `2026-11-10T09:30:00+09:00` / age_days `0.55`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/vu/JVNVU98836795/
 
-### garrytan/gbrain
+### [NEU] [mittel] Contao: Schwachstelle ermöglicht Offenlegung von Informationen
 
-- Band: `strong` (raw `strong`)
-- Dynamics score: `25.0`
-- Published: `2026-11-10T01:11:09+00:00` / age_days `0.5`
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-11-10T13:12:29+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce
-- Quelle: https://github.com/garrytan/gbrain
+- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4445
 
 ### [UPDATE] [hoch] GStreamer: Mehrere Schwachstellen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-10T10:13:57+00:00` / age_days `0.12`
+- Published: `2026-11-10T10:13:57+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -62,70 +92,40 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] IBM App Connect Enterpri
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-10T01:12:53+00:00` / age_days `0.5`
+- Published: `2026-11-10T01:12:53+00:00` / age_days `0.52`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://levtech.jp/media/detail_965/
 
+### [NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Cross-Site Scripting
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-11-10T13:12:30+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4447
+
+### [NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-11-10T13:12:30+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4446
+
 ### Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-10T09:00:00+00:00` / age_days `0.17`
+- Published: `2026-11-10T09:00:00+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm
-
-### AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers
-
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-11-10T09:36:00+00:00` / age_days `0.15`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
-- Quelle: https://e27.co/aquabloom-raises-seed-funding-to-turn-indonesias-seaweed-into-climate-armour-for-farmers-20261110/
-
-### Your AI strategy is your 2015 strategy, only cheaper
-
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-11-10T03:17:47+00:00` / age_days `0.41`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
-- Quelle: https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/
-
-### [UPDATE] [mittel] Red Hat Openshift Container Platform (ansible, aws-efs-csi-driver): Mehrere Schwachstellen
-
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-08-28T14:08:37+00:00` / age_days `73.96`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: container, security high-signal: container, aging penalty -8.0 for 74.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4405
-
-### Ecosystem Roundup: Nvidia board probes Jensen Huang over affair with Megaspeed exec
-
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-11-10T06:14:01+00:00` / age_days `0.29`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: 10, security high-signal: 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
-- Quelle: https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/
-
-### Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism
-
-- Band: `watch` (raw `krass`)
-- Dynamics score: `19.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `144.94`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 1.40, AXI0M/User-Yps identity hit, aging penalty -8.0 for 144.9d old signal, identity recheck: no AXI0M/User-Yps phrase hit, stale single-source cap after 30d: no current exploitation phrase
 - Quelle: https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm
 
 END OF DOCUMENT
