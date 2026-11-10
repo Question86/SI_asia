@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-11-10T19:04:57+00:00_
+_Generiert: 2026-11-10T19:17:02+00:00_
 
 ## Navigating stormy waters - reflections on monetary policy
 
-- Ranking Score: `25.03`
+- Ranking Score: `24.86`
 - Raw Network Score: `47.2`
 - Max Monitor Score: `16`
 - Reichweite: `institutional` / `5.0`
