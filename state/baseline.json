@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T01:35:48+00:00",
+  "generated_at": "2026-11-10T01:45:06+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -57916,7 +57916,7 @@
     },
     "earthquake:m 5.0 - south of the fiji islands:5.0": {
       "title": "M 5.0 - south of the Fiji Islands",
-      "updated_at": "2026-11-10T01:35:48+00:00",
+      "updated_at": "2026-11-10T01:45:06+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -57931,7 +57931,6 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
         11.7,
         11.7,
@@ -57942,6 +57941,7 @@
         11.7,
         11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -111615,7 +111615,7 @@
     },
     "title:frodobots-earthrover-mini": {
       "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
-      "updated_at": "2026-11-10T01:35:48+00:00",
+      "updated_at": "2026-11-10T01:45:06+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -111623,16 +111623,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.53,
+      "rolling_average": 16.47,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "title:prestashop-performance-debug-php": {
       "title": "PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性",
-      "updated_at": "2026-11-10T01:35:48+00:00",
+      "updated_at": "2026-11-10T01:45:06+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -111640,112 +111641,120 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.53,
+      "rolling_average": 16.47,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "domain:platform.claude.com": {
       "title": "Claude Fable 5.2へのプロンプト",
-      "updated_at": "2026-11-10T01:35:48+00:00",
+      "updated_at": "2026-11-10T01:45:06+00:00",
       "network_scores": [
         13.1,
         10.1,
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.6,
+      "rolling_average": 10.53,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:before-licence-what-singapore-regulated-institutions-ask-fintech": {
       "title": "Before the licence: What Singapore’s regulated institutions ask a fintech partner first",
-      "updated_at": "2026-11-10T01:35:48+00:00",
+      "updated_at": "2026-11-10T01:45:06+00:00",
       "network_scores": [
         20.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.85,
+      "rolling_average": 17.7,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:megaspeed-question-singapore-firm-ended-nvidia-biggest-crisis": {
       "title": "The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis",
-      "updated_at": "2026-11-10T01:35:48+00:00",
+      "updated_at": "2026-11-10T01:45:06+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.85,
+      "rolling_average": 16.7,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "github_repo:garrytan/gbrain": {
       "title": "garrytan/gbrain",
-      "updated_at": "2026-11-10T01:35:48+00:00",
+      "updated_at": "2026-11-10T01:45:06+00:00",
       "network_scores": [
         13.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.85,
+      "rolling_average": 10.7,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "github_repo:sherlock-project/sherlock": {
       "title": "sherlock-project/sherlock",
-      "updated_at": "2026-11-10T01:35:48+00:00",
+      "updated_at": "2026-11-10T01:45:06+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "github_repo:google-deepmind/mujoco": {
       "title": "google-deepmind/mujoco",
-      "updated_at": "2026-11-10T01:35:48+00:00",
+      "updated_at": "2026-11-10T01:45:06+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "github_repo:anthropics/claude-quickstarts": {
       "title": "anthropics/claude-quickstarts",
-      "updated_at": "2026-11-10T01:35:48+00:00",
+      "updated_at": "2026-11-10T01:45:06+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     }
   }
 }
