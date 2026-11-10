@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T20:54:16+00:00",
-  "run_id": "2026-11-10T20:54:16+00:00",
+  "generated_at": "2026-11-10T21:02:52+00:00",
+  "run_id": "2026-11-10T21:02:52+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 93,
     "displayed_findings": 93,
     "high": 0,
@@ -4649,30 +4649,7 @@
       "id": "b23d245f5519dc072feb"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Gemini 4 Carbon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-10T19:26:51+00:00",
-      "fetched_at": "2026-11-10T20:53:46+00:00",
-      "summary": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e6a32ba59d37a20b7dfa"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
