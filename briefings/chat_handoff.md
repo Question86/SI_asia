@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T07:29:58+00:00_
+_Generated: 2026-11-10T07:46:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-10T07:29:58+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-11-10 01:53:24 UTC 2026-11-10 01:53:24 UTC at epicenter Location 7.874°S 130.294°E Depth 10.00 km (6.21 mi)
 
-### 4. When buyers ask an AI who to buy from, will it name you?
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-11-10T02:00:04+00:00`
-- url: https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/
-- summary: Buyers across Southeast Asia now ask an AI assistant who to buy from, and get back a handful of names instead of a page of links. Here is what that changes for a small business, and the plain work that makes it easier for the assistant to name you. A search g…
+### 4. 退屈なCoding AgentはMuseにやらせよう
+- source: Hatena Bookmark Hotentry IT
+- score: `18`
+- published: `2026-11-10T04:12:04+00:00`
+- url: https://zenn.dev/watany/articles/342b9815dd0553
+- summary: はじめに 旧FacebookのMetaが開発したパーソナルAIエージェントのMuseがすごく良くて、意味不明なくらいずっと触ってる。紹介コード: 7L990R を入れるとトークンがもらえるのでよろしくね。 Museは触ると魅力がわかるタイプのプロダクトで、使ってないとClaudeやCodexで良いじゃん、なんで今更驚き屋してんの？って思わ...
 
 ### 5. Claude Codeで最近使っているTips【2026/11】
 - source: Hatena Bookmark Hotentry IT
