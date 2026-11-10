@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T03:50:15+00:00",
+  "generated_at": "2026-11-10T03:58:05+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -14487,7 +14487,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8b4a23fc9626ab1d86ae",
@@ -25070,6 +25070,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f14973fbc97a83ffa95e",
+      "title": "M 5.2 - 19 km WSW of Lata, Solomon Islands",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_f154bbd01a4526e6b250",
