@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T14:58:10+00:00",
+  "generated_at": "2026-11-10T15:04:34+00:00",
   "candidate_count": 2788,
   "candidates": [
     {
@@ -44363,22 +44363,23 @@
       "source_url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
     },
     {
-      "candidate_id": "cand_22e3170c4bb37b78a959",
-      "event_id": "evt_5a8609c38e0d544999d3",
-      "source_url": "https://www.bis.org/speeches/20261110-danish-pension-system-long-term-perspective",
-      "observed_at": "2026-11-10T14:57:50+00:00",
-      "currency": "EUR",
       "amount_native": 240000.0,
       "amount_usd": null,
-      "conversion_status": "pending_fx",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
       "attribution_probability": null,
-      "snippet": "ife expectancy. In fact, the occupational pension system will not be fully mature until 2080. Nevertheless, last year median pension wealth among people aged 60–64 stood at around €240,000. That is more than three times medium annual income. Even before the system has fully matured, this represents substantial savings. And these assets continue to earn returns during",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.35,
-      "review_status": "pending"
+      "candidate_id": "cand_22e3170c4bb37b78a959",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-10T14:57:50+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:45b03ea59607",
+      "review_status": "pending",
+      "snippet": "ife expectancy. In fact, the occupational pension system will not be fully mature until 2080. Nevertheless, last year median pension wealth among people aged 60–64 stood at around €240,000. That is more than three times medium annual income. Even before the system has fully matured, this represents substantial savings. And these assets continue to earn returns during",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261110-danish-pension-system-long-term-perspective"
     },
     {
       "amount_native": 172000.0,
