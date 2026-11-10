@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T10:10:41+00:00_
+_Generiert: 2026-11-10T10:21:12+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+43 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: META (+2.0)
   - Kurz: はじめに 旧FacebookのMetaが開発したパーソナルAIエージェントのMuseがすごく良くて、意味不明なくらいずっと触ってる。紹介コード: 7L990R を入れるとトークンがもらえるのでよろしくね。 Museは触ると魅力がわかるタイプのプロダクトで、使ってないとClaudeやCodexで良いじゃん、なんで今更驚き屋してんの？って思わ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Red Hat Openshift Container Platform (ansible, aws-efs-csi-driver): Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4405)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-10T10:13:56+00:00`, fetched `2026-11-10T10:20:45+00:00`
+  - Treffer: APAC Trend Radar, BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Openshift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen und Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 58 km NE of Fef, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-10T08:53:21.040+00:00`, fetched `2026-11-10T08:53:47+00:00`
@@ -84,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-10 05:20:08 UTC 2026-11-10 05:20:08 UTC at epicenter Location 36.334°N 141.466°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] GStreamer: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4408)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-10T10:13:57+00:00`, fetched `2026-11-10T10:20:45+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um beliebigen Programmcode auszuführen, Informationen offenzulegen oder einen Denial of Service zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **FrodoBots EarthRover Mini+における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96830794/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-10T09:30:15+09:00`, fetched `2026-11-10T00:36:27+00:00`
