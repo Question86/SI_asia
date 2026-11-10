@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T03:17:45+00:00",
-  "run_id": "2026-11-10T03:17:45+00:00",
+  "generated_at": "2026-11-10T03:26:50+00:00",
+  "run_id": "2026-11-10T03:26:50+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -1039,94 +1039,7 @@
       "id": "34d9a282201de5f57f1c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Your AI strategy is your 2015 strategy, only cheaper",
-      "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-10T03:00:16+00:00",
-      "fetched_at": "2026-11-10T03:17:14+00:00",
-      "summary": "Walk the halls of the Singapore Fintech Festival this November and every bank will have an AI story. Agentic this, generative that, a shiny assistant on every stand. Here is what almost nobody on stage will say out loud: most bank AI strategies in Asia-Pacific are the 2015 strategy with a lower cost base. The […] The post Your AI strategy is your 2015 strategy, only cheaper appeared first on e27 .",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Markets/Capital Structure"
-      ],
-      "relevance_score": 22,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0fb7dab1e03d86cefe68"
-    },
-    {
-      "title": "ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす",
-      "url": "https://japan.cnet.com/article/35254620/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-09T22:53:05+00:00",
-      "fetched_at": "2026-11-10T03:17:14+00:00",
-      "summary": "ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "396d94cdaddcbe48a73f"
-    },
-    {
-      "title": "Rediscovering client/server: The future of AI is distributed, not centralised",
-      "url": "https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-10T03:15:08+00:00",
-      "fetched_at": "2026-11-10T03:17:14+00:00",
-      "summary": "For the past year, I have been using AI to write Python programs that run on an Ubuntu server. Along the way, I have had to dust off a few brain cells and relearn Linux commands I had not touched in years. There is something to be said for neuroplasticity: apparently, we can still teach […] The post Rediscovering client/server: The future of AI is distributed, not centralised appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2425f75a07a5d64a1743"
-    },
-    {
-      "title": "古川大臣記者会見（令和8年11月10日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261110-01",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-10T02:59:49+00:00",
-      "fetched_at": "2026-11-10T03:17:14+00:00",
-      "summary": "古川大臣記者会見（令和8年11月10日）動画を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ba54a69eb00a40ce58e3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
