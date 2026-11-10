@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T21:02:52+00:00",
-  "run_id": "2026-11-10T21:02:52+00:00",
+  "generated_at": "2026-11-10T21:30:09+00:00",
+  "run_id": "2026-11-10T21:30:09+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 94
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "new_relevant_findings": 1,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 0,
     "medium": 30,
-    "observe": 63,
+    "observe": 64,
     "source_errors": 0
   },
   "sections": {
@@ -2149,6 +2149,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d232d32c1455d576f5b1"
+      },
+      {
+        "title": "氏名や電話番号、聞きません 漏洩問題で企業側、個人情報手放す動き：朝日新聞",
+        "url": "https://www.asahi.com/articles/ASVCB0H13VCBUTIL009M.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-10T09:02:35+00:00",
+        "fetched_at": "2026-11-10T21:29:36+00:00",
+        "summary": "不正アクセスなどによる個人情報漏洩（ろうえい）が相次いでいる問題を受け、企業の間で、顧客の個人情報をむやみに集めない動きが出ている。顧客データ活用の歴史に詳しい専門家も「必要以上に持つべきではない」…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cf228e055f9d2184babe"
       },
       {
         "title": "SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース",
@@ -4461,6 +4482,27 @@
       "id": "d232d32c1455d576f5b1"
     },
     {
+      "title": "氏名や電話番号、聞きません 漏洩問題で企業側、個人情報手放す動き：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCB0H13VCBUTIL009M.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-10T09:02:35+00:00",
+      "fetched_at": "2026-11-10T21:29:36+00:00",
+      "summary": "不正アクセスなどによる個人情報漏洩（ろうえい）が相次いでいる問題を受け、企業の間で、顧客の個人情報をむやみに集めない動きが出ている。顧客データ活用の歴史に詳しい専門家も「必要以上に持つべきではない」…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf228e055f9d2184babe"
+    },
+    {
       "title": "SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261110de73285",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4649,7 +4691,29 @@
       "id": "b23d245f5519dc072feb"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "氏名や電話番号、聞きません 漏洩問題で企業側、個人情報手放す動き：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCB0H13VCBUTIL009M.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-10T09:02:35+00:00",
+      "fetched_at": "2026-11-10T21:29:36+00:00",
+      "summary": "不正アクセスなどによる個人情報漏洩（ろうえい）が相次いでいる問題を受け、企業の間で、顧客の個人情報をむやみに集めない動きが出ている。顧客データ活用の歴史に詳しい専門家も「必要以上に持つべきではない」…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf228e055f9d2184babe"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
