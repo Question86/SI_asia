@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T00:37:25+00:00",
+  "generated_at": "2026-11-10T00:52:43+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -8978,7 +8978,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
-      "last_seen_at": "2026-11-10T00:37:03+00:00",
+      "last_seen_at": "2026-11-10T00:52:21+00:00",
       "status": "active"
     },
     {
@@ -13453,6 +13453,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_1d6fd2d34ac981e75c5e",
+      "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-10T00:37:03+00:00",
+      "last_seen_at": "2026-11-10T00:52:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_201940b7c1cad5180657",
       "title": "Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性",
       "event_classes": [
@@ -14490,6 +14507,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c3ddf8c9dde0f668e2fa",
+      "title": "PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-10T00:37:03+00:00",
+      "last_seen_at": "2026-11-10T00:52:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_c40b6b58e007340743d8",
       "title": "Vulnérabilité dans les produits Adobe (08 septembre 2026)",
       "event_classes": [
@@ -14913,40 +14947,6 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_1d6fd2d34ac981e75c5e",
-      "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-10T00:37:03+00:00",
-      "last_seen_at": "2026-11-10T00:37:03+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_c3ddf8c9dde0f668e2fa",
-      "title": "PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-10T00:37:03+00:00",
-      "last_seen_at": "2026-11-10T00:37:03+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -30455,6 +30455,23 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_19ead19f90060ce22450",
+      "title": "Claude Fable 5.2へのプロンプト",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-10T00:52:21+00:00",
+      "last_seen_at": "2026-11-10T00:52:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_041397919a21c7984d11",
