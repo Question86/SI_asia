@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T14:03:16+00:00_
+_Generiert: 2026-11-10T14:16:42+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+59 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -285,6 +285,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-09 23:45:21 UTC 2026-11-09 23:45:21 UTC at epicenter Location 24.482°S 177.280°W Depth 126.01 km (78.30 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Opening remarks - Monetary Policy Report (IPOM) press conference, third quarter of 2026** — Score 9, opportunity — [Quelle](https://www.bis.org/speeches/20261110-opening-remarks-monetary-policy-report-ipom-press-conference-third-quarter-2026)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-10T00:00:00+00:00`, fetched `2026-11-10T14:16:09+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region south_america: Argentina (+2.0)
+  - Kurz: Opening remarks by Mr Santiago Bausili, President of the Central Bank of Argentina, at the Monetary Policy Report (IPOM) press conference, together with Mr Vladimir Werning, Deputy Governor of the Central Bank of Argentina, Buenos Aires, 29 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Piero Cipollone: Cash and the digital euro: two sides of the same coin** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-11-10T14:00:00+00:00`, fetched `2026-11-10T14:02:44+00:00`
@@ -320,15 +329,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbr…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SAP-Patchday bringt Korrekturen für Codeschmuggel-Lücken** — Score 7, observation — [Quelle](https://www.heise.de/news/SAP-Patchday-bringt-Korrekturen-fuer-Codeschmuggel-Luecken-11519250.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-11-10T13:33:00.000+00:00`, fetched `2026-11-10T13:48:04+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Der November-Patchday bei SAP stopft Code-Injection- und Speicherkorrumpierungslücken. Neun Sicherheitslecks gelten als kritisch.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
