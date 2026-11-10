@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-10T04:12:56Z",
+  "generated_at": "2026-11-10T05:12:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “FrodoBots EarthRover Mini+における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:15+09:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:11:09+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -88,7 +88,7 @@
       "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:17:47+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -116,7 +116,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T15:19:24+00:00",
-      "age_days": 13.54,
+      "age_days": 13.58,
       "topics": [
         "general"
       ],
@@ -127,12 +127,12 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.23,
+      "baseline_z_hint": 0.83,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.23",
+        "baseline z_hint 0.83",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -142,7 +142,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:17:25.529+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -168,7 +168,7 @@
       "url": "https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T01:11:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -192,7 +192,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T00:37:03+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -216,7 +216,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T00:37:03+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -240,7 +240,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261110-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-10T03:17:47+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -265,7 +265,7 @@
       "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:00:16+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -288,26 +288,26 @@
       "summary": "Walk the halls of the Singapore Fintech Festival this November and every bank will have an AI story. Agentic this, generative that, a shiny assistant on every stand. Here is what almost nobody on stage will say out loud: most bank AI strategies in Asia-Pacific are the 2015 strategy with a lower cost base. The […] The…"
     },
     {
-      "title": "When buyers ask an AI who to buy from, will it name you?",
-      "url": "https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/",
+      "title": "Sionic AI brings its Thai-reading model to SEA, with banks as the real exam",
+      "url": "https://e27.co/sionic-ai-brings-its-thai-reading-model-to-sea-with-banks-as-the-real-exam-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-10T02:01:16+00:00",
-      "age_days": 0.09,
+      "published_at": "2026-11-10T04:45:33+00:00",
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 17.0,
+      "dynamics_score": 18.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
+        "momentum delta +2",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],

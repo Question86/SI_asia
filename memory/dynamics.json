@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-10T04:12:56Z",
+  "generated_at": "2026-11-10T05:12:03Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "strong": 10,
-      "watch": 16,
-      "quiet": 14
+      "watch": 19,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 10,
-      "watch": 16,
-      "quiet": 14
+      "watch": 19,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:15+09:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:11:09+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -95,7 +95,7 @@
       "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:17:47+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -123,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T15:19:24+00:00",
-      "age_days": 13.54,
+      "age_days": 13.58,
       "topics": [
         "general"
       ],
@@ -134,12 +134,12 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.23,
+      "baseline_z_hint": 0.83,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.23",
+        "baseline z_hint 0.83",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -149,7 +149,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:17:25.529+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -175,7 +175,7 @@
       "url": "https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T01:11:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -199,7 +199,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T00:37:03+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -223,7 +223,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T00:37:03+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -247,7 +247,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261110-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-10T03:17:47+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -272,7 +272,7 @@
       "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:00:16+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -295,11 +295,37 @@
       "summary": "Walk the halls of the Singapore Fintech Festival this November and every bank will have an AI story. Agentic this, generative that, a shiny assistant on every stand. Here is what almost nobody on stage will say out loud: most bank AI strategies in Asia-Pacific are the 2015 strategy with a lower cost base. The […] The…"
     },
     {
+      "title": "Sionic AI brings its Thai-reading model to SEA, with banks as the real exam",
+      "url": "https://e27.co/sionic-ai-brings-its-thai-reading-model-to-sea-with-banks-as-the-real-exam-20261110/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-10T04:45:33+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "When buyers ask an AI who to buy from, will it name you?",
       "url": "https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T02:01:16+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -325,7 +351,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T03:52:17.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -350,7 +376,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:16:29.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -371,11 +397,35 @@
       "summary": "Time 2026-11-10 02:00:03 UTC 2026-11-10 02:00:03 UTC at epicenter Location 86.724°N 65.294°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.2 - 19 km WSW of Lata, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-10T03:57:34+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.9 - north of Franz Josef Land",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:39:28+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -399,7 +449,7 @@
       "url": "https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T02:39:28+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -426,7 +476,7 @@
       "url": "https://e27.co/one-founder-many-agents-the-philippiness-answer-to-a-vanishing-series-a-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T02:39:28+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -452,7 +502,7 @@
       "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T01:11:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -478,7 +528,7 @@
       "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T02:39:28+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -502,7 +552,7 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:11:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -526,7 +576,7 @@
       "url": "https://github.com/google-deepmind/mujoco",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:11:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -550,7 +600,7 @@
       "url": "https://e27.co/one-founder-many-agents-the-philippiness-answer-to-a-vanishing-series-a-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T02:00:26+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -573,11 +623,35 @@
       "summary": "For a decade, the Southeast Asian startup script barely changed. Find two or three co-founders, raise a seed round, hire a dozen people, then sprint to the next round before the money runs out. The script assumed a steady supply of early-stage capital. In 2026, that assumption looks naive. A new report from Gobi Partn…"
     },
     {
+      "title": "Bitcoin is bruised, not broken: Why the crypto sector is holding its ground",
+      "url": "https://e27.co/bitcoin-is-bruised-not-broken-why-the-crypto-sector-is-holding-its-ground-20261110/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-10T04:19:53+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "When buyers ask an AI who to buy from, will it name you?",
       "url": "https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T02:00:04+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -603,7 +677,7 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:11:09+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -629,7 +703,7 @@
       "url": "https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T01:00:41+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -655,7 +729,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T00:04:59.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -675,35 +749,11 @@
       "summary": "Time 2026-11-09 23:45:21 UTC 2026-11-09 23:45:21 UTC at epicenter Location 24.482°S 177.280°W Depth 126.01 km (78.30 mi)"
     },
     {
-      "title": "M 5.2 - 19 km WSW of Lata, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-10T03:57:34+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす",
       "url": "https://japan.cnet.com/article/35254620/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 143.79,
+      "age_days": 143.83,
       "topics": [
         "general"
       ],
@@ -724,11 +774,37 @@
       "summary": ""
     },
     {
+      "title": "Sionic AI brings its Thai-reading model to SEA, with banks as the real exam",
+      "url": "https://e27.co/sionic-ai-brings-its-thai-reading-model-to-sea-with-banks-as-the-real-exam-20261110/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-10T04:42:11+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Most AI models read Thai the way a tourist reads a Bangkok street menu: confidently, and often wrongly. Sionic AI says it has closed part of that language gap, and it is using the result to push into Southeast Asia. The Seoul-based enterprise AI company said last week it is expanding in Thailand and Singapore […] The…"
+    },
+    {
       "title": "The DEFY framework: Where agentic AI actually earns its place in the marketing funnel",
       "url": "https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T02:15:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -755,7 +831,7 @@
       "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T01:00:38+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -781,7 +857,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261110-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-10T02:59:49+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -805,11 +881,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-02T04:53:55+00:00",
-      "age_days": 38.97,
+      "age_days": 39.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.21,
+      "dynamics_score": 10.2,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -826,11 +902,37 @@
       "summary": ""
     },
     {
+      "title": "The hidden costs of running an AI video production business",
+      "url": "https://e27.co/the-hidden-costs-of-running-an-ai-video-production-business-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-10T04:36:15+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Rediscovering client/server: The future of AI is distributed, not centralised",
       "url": "https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:17:47+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -856,7 +958,7 @@
       "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T00:52:21+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -882,7 +984,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:11:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -904,132 +1006,28 @@
       "summary": ""
     },
     {
-      "title": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-10T01:11:40+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Rediscovering client/server: The future of AI is distributed, not centralised",
-      "url": "https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/",
+      "title": "Bitcoin is bruised, not broken: Why the crypto sector is holding its ground",
+      "url": "https://e27.co/bitcoin-is-bruised-not-broken-why-the-crypto-sector-is-holding-its-ground-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-10T03:15:08+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-11-10T04:06:19+00:00",
+      "age_days": 0.05,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 5.0,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "high terms: 10"
       ],
-      "summary": "For the past year, I have been using AI to write Python programs that run on an Ubuntu server. Along the way, I have had to dust off a few brain cells and relearn Linux commands I had not touched in years. There is something to be said for neuroplasticity: apparently, we can still teach […] The post Rediscovering clie…"
-    },
-    {
-      "title": "ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす",
-      "url": "https://japan.cnet.com/article/35254620/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-09T22:53:05+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。"
-    },
-    {
-      "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
-      "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-09T21:05:20+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改..."
-    },
-    {
-      "title": "Claude Fable 5.2へのプロンプト",
-      "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-09T22:21:33+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Claude Fable 5.2およびClaude Mythos 5.2に固有のプロンプトパターン：エフォート、早期停止、承認、コードの所有権、進捗の更新、サブエージェント、蓄積する慎重さ、以前のモデル向けに書かれた指示、最終レポート、拒否について説明します。 このガイドでは、Claude Fable 5.2に固有のプロンプトパターンについて説..."
+      "summary": "The cryptocurrency sector has taken a beating that would have shattered lesser assets, and the largest digital currency is still standing. As of November 10, 2026, Bitcoin trades at approximately US$74,980.25, clinging to the US$75,000 threshold after a sharp slide that pushed it to its lowest levels since August. On…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “FrodoBots EarthRover Mini+における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
