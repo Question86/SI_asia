@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-11-10T14:25:17+00:00_
+_Generiert: 2026-11-10T14:32:42+00:00_
 
 ## Message for the European Chamber of Commerce Philippines Luncheon Meeting
 
-- Ranking Score: `23.55`
+- Ranking Score: `23.56`
 - Raw Network Score: `24.3`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
@@ -19,7 +19,7 @@ _Generiert: 2026-11-10T14:25:17+00:00_
 
 ## Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 
-- Ranking Score: `23.38`
+- Ranking Score: `23.27`
 - Raw Network Score: `22.2`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
