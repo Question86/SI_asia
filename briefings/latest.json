@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T14:32:38+00:00",
-  "run_id": "2026-11-10T14:32:38+00:00",
+  "generated_at": "2026-11-10T14:40:43+00:00",
+  "run_id": "2026-11-10T14:40:43+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 2,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
     "medium": 27,
-    "observe": 32,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -1325,6 +1325,46 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ba54a69eb00a40ce58e3"
+      },
+      {
+        "title": "The future of FinTech",
+        "url": "https://www.bis.org/speeches/20261110-future-fintech",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-10T00:00:00+00:00",
+        "fetched_at": "2026-11-10T14:40:12+00:00",
+        "summary": "Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the Sri Lanka FinTech Festival, Colombo, 3 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bb60ed9071639fe7ff98"
+      },
+      {
+        "title": "Introductory remarks - Official Monetary and Financial Institutions Forum (OMFIF)",
+        "url": "https://www.bis.org/speeches/20261110-introductory-remarks-official-monetary-and-financial-institutions-forum-omfif",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-10T00:00:00+00:00",
+        "fetched_at": "2026-11-10T14:40:12+00:00",
+        "summary": "Introductory remarks by Mr Dimitar Radev, Governor of the Bulgarian National Bank, at the Official Monetary and Financial Institutions Forum (OMFIF), Sofia, 3 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d284021e7ab892848ce5"
       },
       {
         "title": "SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース",
@@ -2792,6 +2832,46 @@
       "id": "ba54a69eb00a40ce58e3"
     },
     {
+      "title": "The future of FinTech",
+      "url": "https://www.bis.org/speeches/20261110-future-fintech",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "fetched_at": "2026-11-10T14:40:12+00:00",
+      "summary": "Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the Sri Lanka FinTech Festival, Colombo, 3 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb60ed9071639fe7ff98"
+    },
+    {
+      "title": "Introductory remarks - Official Monetary and Financial Institutions Forum (OMFIF)",
+      "url": "https://www.bis.org/speeches/20261110-introductory-remarks-official-monetary-and-financial-institutions-forum-omfif",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "fetched_at": "2026-11-10T14:40:12+00:00",
+      "summary": "Introductory remarks by Mr Dimitar Radev, Governor of the Bulgarian National Bank, at the Official Monetary and Financial Institutions Forum (OMFIF), Sofia, 3 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d284021e7ab892848ce5"
+    },
+    {
       "title": "SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261110de73285",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2959,7 +3039,48 @@
       "id": "01321a249df9c7720143"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Introductory remarks - Official Monetary and Financial Institutions Forum (OMFIF)",
+      "url": "https://www.bis.org/speeches/20261110-introductory-remarks-official-monetary-and-financial-institutions-forum-omfif",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "fetched_at": "2026-11-10T14:40:12+00:00",
+      "summary": "Introductory remarks by Mr Dimitar Radev, Governor of the Bulgarian National Bank, at the Official Monetary and Financial Institutions Forum (OMFIF), Sofia, 3 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d284021e7ab892848ce5"
+    },
+    {
+      "title": "The future of FinTech",
+      "url": "https://www.bis.org/speeches/20261110-future-fintech",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "fetched_at": "2026-11-10T14:40:12+00:00",
+      "summary": "Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the Sri Lanka FinTech Festival, Colombo, 3 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb60ed9071639fe7ff98"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
