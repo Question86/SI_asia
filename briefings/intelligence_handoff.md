@@ -1,28 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-10T07:50:15Z_
+_Generated: 2026-11-10T08:14:46Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.52.
+Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.
 
 ## Top Dynamics
 
 ### M 5.4 - Pulau Pulau Tanimbar, Indonesia
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `26.52`
-- Published: `2026-10-27T15:19:24+00:00` / age_days `13.69`
+- Dynamics score: `26.5`
+- Published: `2026-10-27T15:19:24+00:00` / age_days `13.71`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 0.03
+- Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d
 
 ### FrodoBots EarthRover Mini+における複数の脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-10T09:30:15+09:00` / age_days `0.31`
+- Published: `2026-11-10T09:30:15+09:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-10T09:30:00+09:00` / age_days `0.31`
+- Published: `2026-11-10T09:30:00+09:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-11-10T01:11:09+00:00` / age_days `0.28`
+- Published: `2026-11-10T01:11:09+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-10T01:12:53+00:00` / age_days `0.28`
+- Published: `2026-11-10T01:12:53+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-10T03:17:47+00:00` / age_days `0.19`
+- Published: `2026-11-10T03:17:47+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-10T06:14:01+00:00` / age_days `0.07`
+- Published: `2026-11-10T06:14:01+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-10T02:17:25.529+00:00` / age_days `0.23`
+- Published: `2026-11-10T02:17:25.529+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-10T01:11:40+00:00` / age_days `0.28`
+- Published: `2026-11-10T01:11:40+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-10T00:37:03+00:00` / age_days `0.3`
+- Published: `2026-11-10T00:37:03+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-10T00:37:03+00:00` / age_days `0.3`
+- Published: `2026-11-10T00:37:03+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-10T05:53:57.040+00:00` / age_days `0.08`
+- Published: `2026-11-10T05:53:57.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10

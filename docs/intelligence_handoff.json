@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-10T07:50:15Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.52.",
+  "generated_at": "2026-11-10T08:14:46Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -15,23 +15,22 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T15:19:24+00:00",
-      "age_days": 13.69,
+      "age_days": 13.71,
       "topics": [
         "general"
       ],
-      "dynamics_score": 26.52,
+      "dynamics_score": 26.5,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.03,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.03"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -40,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:15+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -64,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -88,7 +87,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:11:09+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -113,7 +112,7 @@
       "url": "https://levtech.jp/media/detail_965/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T01:12:53+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -139,7 +138,7 @@
       "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:17:47+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -167,7 +166,7 @@
       "url": "https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T06:14:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security",
@@ -195,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:17:25.529+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -221,7 +220,7 @@
       "url": "https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T01:11:40+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -245,7 +244,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T00:37:03+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -269,7 +268,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T00:37:03+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -293,7 +292,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T05:53:57.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
