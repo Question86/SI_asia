@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-10T08:14:46Z",
+  "generated_at": "2026-11-10T08:27:05Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.4 - Pulau Pulau Tanimbar, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:15+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:11:09+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -112,7 +112,7 @@
       "url": "https://levtech.jp/media/detail_965/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T01:12:53+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -166,7 +166,7 @@
       "url": "https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T06:14:01+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security",
@@ -194,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:17:25.529+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -220,7 +220,7 @@
       "url": "https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T01:11:40+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -244,7 +244,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T00:37:03+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -268,7 +268,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T00:37:03+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -288,18 +288,19 @@
       "summary": ""
     },
     {
-      "title": "M 4.9 - 78 km ESE of Hitachi, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-10T05:53:57.040+00:00",
-      "age_days": 0.1,
+      "title": "Chrome-Update stopft attackiertes Sicherheitsleck",
+      "url": "https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-11-10T07:57:00.000+00:00",
+      "age_days": 0.02,
       "topics": [
-        "disaster"
+        "ai",
+        "security"
       ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
@@ -307,10 +308,9 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "early terms: earthquake",
-        "high terms: 10"
+        "security high-signal: security, google"
       ],
-      "summary": "Time 2026-11-10 05:20:08 UTC 2026-11-10 05:20:08 UTC at epicenter Location 36.334°N 141.466°E Depth 35.00 km (21.75 mi)"
+      "summary": "Google hat ein Update für den Webbrowser Chrome veröffentlicht. Die Entwickler warnen, dass eine Lücke bereits angegriffen wird."
     }
   ],
   "read_order": [
@@ -322,7 +322,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "strong": 11,
+      "watch": 1
     }
   }
 }
