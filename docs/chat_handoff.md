@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T03:49:38+00:00_
+_Generated: 2026-11-10T03:57:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-10T03:49:38+00:00_
 - url: https://japan.cnet.com/article/35254620/
 - summary: ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。
 
-### 6. M 4.9 - north of Franz Josef Land
+### 6. M 5.2 - 19 km WSW of Lata, Solomon Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-10T03:52:17.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s
+- summary: Time 2026-11-10 03:37:46 UTC 2026-11-10 03:37:46 UTC at epicenter Location 10.782°S 165.624°E Depth 10.00 km (6.21 mi)
+
+### 7. M 4.9 - north of Franz Josef Land
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-10T02:16:29.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i
 - summary: Time 2026-11-10 02:00:03 UTC 2026-11-10 02:00:03 UTC at epicenter Location 86.724°N 65.294°E Depth 10.00 km (6.21 mi)
 
-### 7. M 5.0 - south of the Fiji Islands
+### 8. M 5.0 - south of the Fiji Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-10T00:04:59.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v
 - summary: Time 2026-11-09 23:45:21 UTC 2026-11-09 23:45:21 UTC at epicenter Location 24.482°S 177.280°W Depth 126.01 km (78.30 mi)
-
-### 8. Rediscovering client/server: The future of AI is distributed, not centralised
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-11-10T03:15:08+00:00`
-- url: https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/
-- summary: For the past year, I have been using AI to write Python programs that run on an Ubuntu server. Along the way, I have had to dust off a few brain cells and relearn Linux commands I had not touched in years. There is something to be said for neuroplasticity: ap…
 
 END OF DOCUMENT
