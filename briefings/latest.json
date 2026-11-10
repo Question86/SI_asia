@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T16:50:04+00:00",
-  "run_id": "2026-11-10T16:50:04+00:00",
+  "generated_at": "2026-11-10T16:58:06+00:00",
+  "run_id": "2026-11-10T16:58:06+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 82,
     "displayed_findings": 82,
     "high": 0,
@@ -4051,28 +4051,7 @@
       "id": "b23d245f5519dc072feb"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-11-10T16:45:00+00:00",
-      "fetched_at": "2026-11-10T16:49:34+00:00",
-      "summary": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "82b3cb63a131c457af27"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
