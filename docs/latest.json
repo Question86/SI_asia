@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T10:58:18+00:00",
-  "run_id": "2026-11-10T10:58:18+00:00",
+  "generated_at": "2026-11-10T11:08:23+00:00",
+  "run_id": "2026-11-10T11:08:23+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 44
+      "configured_public_sources_only": 45
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "new_relevant_findings": 1,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
-    "medium": 19,
+    "medium": 20,
     "observe": 25,
     "source_errors": 0
   },
@@ -392,6 +392,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8848ed2a35ce21055324"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3596",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-10T11:05:48+00:00",
+        "fetched_at": "2026-11-10T11:07:53+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um einen Cross-Site Scripting Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "73fbb1eadd7a108d649c"
       },
       {
         "title": "[UPDATE] [hoch] GStreamer: Mehrere Schwachstellen",
@@ -1532,6 +1555,29 @@
       "id": "8848ed2a35ce21055324"
     },
     {
+      "title": "[UPDATE] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3596",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T11:05:48+00:00",
+      "fetched_at": "2026-11-10T11:07:53+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um einen Cross-Site Scripting Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "73fbb1eadd7a108d649c"
+    },
+    {
       "title": "[UPDATE] [hoch] GStreamer: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4408",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2301,7 +2347,31 @@
       "id": "01321a249df9c7720143"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3596",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T11:05:48+00:00",
+      "fetched_at": "2026-11-10T11:07:53+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um einen Cross-Site Scripting Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "73fbb1eadd7a108d649c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
