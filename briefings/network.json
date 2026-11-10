@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:34:03+00:00",
+  "generated_at": "2026-11-10T12:43:00+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 46,
@@ -87,45 +87,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-10T03:17:47+00:00"
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "Helping caregivers use AI in everyday life",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "https://openai.com/index/closing-ai-guidance-gap-education"
-      ],
-      "finding_count": 2,
-      "max_score": 16,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.44,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 23.2,
-      "ranking_score": 22.44,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 2.44,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:ecosystem-roundup-nvidia-board-probes-jensen-huang-over",
@@ -226,18 +187,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 19.04,
+      "network_score": 18.92,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "raw_network_score": 20.1,
-      "ranking_score": 19.04,
+      "ranking_score": 18.92,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.04,
+      "baseline_bonus": 0.92,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -245,6 +206,45 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Helping caregivers use AI in everyday life",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "https://openai.com/index/closing-ai-guidance-gap-education"
+      ],
+      "finding_count": 2,
+      "max_score": 16,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.89,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 20.2,
+      "ranking_score": 18.89,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.39,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "domain:wid.cert-bund.de",
@@ -1080,18 +1080,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.24,
+      "network_score": 9.21,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.4,
-      "ranking_score": 9.24,
+      "ranking_score": 9.21,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.74,
+      "baseline_bonus": 0.71,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1568,7 +1568,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-10T12:34:04Z",
+    "generated_at": "2026-11-10T12:43:01Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

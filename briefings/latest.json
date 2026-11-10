@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T12:33:56+00:00",
-  "run_id": "2026-11-10T12:33:56+00:00",
+  "generated_at": "2026-11-10T12:42:54+00:00",
+  "run_id": "2026-11-10T12:42:54+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 46,
     "displayed_findings": 46,
     "high": 0,
@@ -2391,30 +2391,7 @@
       "id": "01321a249df9c7720143"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-10T12:00:00+00:00",
-      "fetched_at": "2026-11-10T12:33:29+00:00",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cb545868dd9d3be040b3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
