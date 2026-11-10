@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T00:59:12+00:00",
-  "run_id": "2026-11-10T00:59:12+00:00",
+  "generated_at": "2026-11-10T01:11:37+00:00",
+  "run_id": "2026-11-10T01:11:37+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,39 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 6,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
-    "medium": 2,
-    "observe": 2,
+    "medium": 4,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Before the licence: What Singapore’s regulated institutions ask a fintech partner first",
+        "url": "https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-10T01:00:41+00:00",
+        "fetched_at": "2026-11-10T01:11:09+00:00",
+        "summary": "On 7 October the Monetary Authority of Singapore issued its Guidelines on Artificial Intelligence Risk Management, phased in over 2027 and 2028. On 3 November it announced that the Future of Finance Institute has started work, with a pillar called SafeFin.ai that will extend the MindForge toolkit to AI use-case risk assessments, testing and assurance, […] The post Before the licence: What Singapore’s regulated insti…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Content-Chance"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8848ed2a35ce21055324"
+      },
       {
         "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
         "url": "https://jvn.jp/vu/JVNVU96830794/",
@@ -72,6 +94,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "57fec5713518e4182cce"
+      },
+      {
+        "title": "The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis",
+        "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-10T01:00:38+00:00",
+        "fetched_at": "2026-11-10T01:11:09+00:00",
+        "summary": "Nvidia’s board has opened an independent investigation into whether founder and CEO Jensen Huang was the target of a foreign intelligence effort. The move pulls a Singapore-based chip buyer, and the region’s booming data-centre industry, into the middle of the US-China AI rivalry. The probe will be overseen by a committee of independent directors working […] The post The Megaspeed question: How a Singapore firm ende…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6bec4c941112c01c2e4e"
       }
     ],
     "observe": [
@@ -132,10 +176,117 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1f877f1c4d26769c5edc"
+      },
+      {
+        "title": "garrytan/gbrain",
+        "url": "https://github.com/garrytan/gbrain",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-11-10T01:11:09+00:00",
+        "summary": "Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbr…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Open Source"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "adcb71e3adf64128b1ce"
+      },
+      {
+        "title": "sherlock-project/sherlock",
+        "url": "https://github.com/sherlock-project/sherlock",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-11-10T01:11:09+00:00",
+        "summary": "Hunt down social media accounts by username across social networks https://sherlockproject.xyz Hunt down social media accounts by username across 400+ social networks Installation • Usage • Contributing Installation Warning Packages for ParrotOS and Ubuntu 24.04, maintained by a third party, appear to be broken . Users of these systems should defer to uv / pipx / pip or Docker. Method Notes pipx install sherlock-pro…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "028873ccb504bf32ab54"
+      },
+      {
+        "title": "google-deepmind/mujoco",
+        "url": "https://github.com/google-deepmind/mujoco",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-11-10T01:11:09+00:00",
+        "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator. https://mujoco.org MuJoCo stands for Mu lti- Jo int dynamics with Co ntact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environ…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "62a104e107efd4cd7d2c"
+      },
+      {
+        "title": "anthropics/claude-quickstarts",
+        "url": "https://github.com/anthropics/claude-quickstarts",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-11-10T01:11:09+00:00",
+        "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "34d9a282201de5f57f1c"
       }
     ]
   },
   "findings": [
+    {
+      "title": "Before the licence: What Singapore’s regulated institutions ask a fintech partner first",
+      "url": "https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-10T01:00:41+00:00",
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "On 7 October the Monetary Authority of Singapore issued its Guidelines on Artificial Intelligence Risk Management, phased in over 2027 and 2028. On 3 November it announced that the Future of Finance Institute has started work, with a pillar called SafeFin.ai that will extend the MindForge toolkit to AI use-case risk assessments, testing and assurance, […] The post Before the licence: What Singapore’s regulated insti…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8848ed2a35ce21055324"
+    },
     {
       "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96830794/",
@@ -179,6 +330,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "57fec5713518e4182cce"
+    },
+    {
+      "title": "The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis",
+      "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-10T01:00:38+00:00",
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "Nvidia’s board has opened an independent investigation into whether founder and CEO Jensen Huang was the target of a foreign intelligence effort. The move pulls a Singapore-based chip buyer, and the region’s booming data-centre industry, into the middle of the US-China AI rivalry. The probe will be overseen by a committee of independent directors working […] The post The Megaspeed question: How a Singapore firm ende…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bec4c941112c01c2e4e"
     },
     {
       "title": "M 5.0 - south of the Fiji Islands",
@@ -237,9 +410,224 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1f877f1c4d26769c5edc"
+    },
+    {
+      "title": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbr…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Open Source"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "adcb71e3adf64128b1ce"
+    },
+    {
+      "title": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "Hunt down social media accounts by username across social networks https://sherlockproject.xyz Hunt down social media accounts by username across 400+ social networks Installation • Usage • Contributing Installation Warning Packages for ParrotOS and Ubuntu 24.04, maintained by a third party, appear to be broken . Users of these systems should defer to uv / pipx / pip or Docker. Method Notes pipx install sherlock-pro…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "028873ccb504bf32ab54"
+    },
+    {
+      "title": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator. https://mujoco.org MuJoCo stands for Mu lti- Jo int dynamics with Co ntact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environ…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "62a104e107efd4cd7d2c"
+    },
+    {
+      "title": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34d9a282201de5f57f1c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Before the licence: What Singapore’s regulated institutions ask a fintech partner first",
+      "url": "https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-10T01:00:41+00:00",
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "On 7 October the Monetary Authority of Singapore issued its Guidelines on Artificial Intelligence Risk Management, phased in over 2027 and 2028. On 3 November it announced that the Future of Finance Institute has started work, with a pillar called SafeFin.ai that will extend the MindForge toolkit to AI use-case risk assessments, testing and assurance, […] The post Before the licence: What Singapore’s regulated insti…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8848ed2a35ce21055324"
+    },
+    {
+      "title": "The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis",
+      "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-10T01:00:38+00:00",
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "Nvidia’s board has opened an independent investigation into whether founder and CEO Jensen Huang was the target of a foreign intelligence effort. The move pulls a Singapore-based chip buyer, and the region’s booming data-centre industry, into the middle of the US-China AI rivalry. The probe will be overseen by a committee of independent directors working […] The post The Megaspeed question: How a Singapore firm ende…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bec4c941112c01c2e4e"
+    },
+    {
+      "title": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbr…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Open Source"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "adcb71e3adf64128b1ce"
+    },
+    {
+      "title": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "Hunt down social media accounts by username across social networks https://sherlockproject.xyz Hunt down social media accounts by username across 400+ social networks Installation • Usage • Contributing Installation Warning Packages for ParrotOS and Ubuntu 24.04, maintained by a third party, appear to be broken . Users of these systems should defer to uv / pipx / pip or Docker. Method Notes pipx install sherlock-pro…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "028873ccb504bf32ab54"
+    },
+    {
+      "title": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "Multi-Joint dynamics with Contact. A general purpose physics simulator. https://mujoco.org MuJoCo stands for Mu lti- Jo int dynamics with Co ntact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environ…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "62a104e107efd4cd7d2c"
+    },
+    {
+      "title": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-10T01:11:09+00:00",
+      "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. Getting Started…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34d9a282201de5f57f1c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
