@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T08:21:36+00:00_
+_Generiert: 2026-11-10T08:48:17+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+35 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Oikonです。 気がつけば2026年も終わりが見えてきました。今年はありがたいことにClaude Codeの書籍を2冊出版させていただきました。 Claude Code実践入門 [生成AI深掘りガイド]（SBクリエイティブ） Claude Code実践レシピ集（技術評論社） 新刊のClaude Code実践レシピ集は、個人的に好きなClaude CodeのTipsをベース...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Closing the AI guidance gap in education** — Score 10, opportunity — [Quelle](https://openai.com/index/closing-ai-guidance-gap-education)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-10T09:00:00+00:00`, fetched `2026-11-10T08:47:47+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8)
+  - Kurz: Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254620/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-09T22:53:05+00:00`, fetched `2026-11-10T03:17:14+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Hunt down social media accounts by username across social networks https://sherlockproject.xyz Hunt down social media accounts by username across 400+ social networks Installation • Usage • Contributing Installation Warning Packages for ParrotOS and Ubuntu 24.04, maintained by a third party, appear to be broken . Users of these systems should defer to uv / pipx / pip or Docker. Method Notes pipx install sherlock-pro…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **google-deepmind/mujoco** — Score 5, observation — [Quelle](https://github.com/google-deepmind/mujoco)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-11-10T01:11:09+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Multi-Joint dynamics with Contact. A general purpose physics simulator. https://mujoco.org MuJoCo stands for Mu lti- Jo int dynamics with Co ntact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environ…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

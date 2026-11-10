@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T08:21:36+00:00_
+_Generated: 2026-11-10T08:48:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `35`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-10T08:21:36+00:00_
 - url: https://zenn.dev/oikon/articles/claude-code-recipe
 - summary: Oikonです。 気がつけば2026年も終わりが見えてきました。今年はありがたいことにClaude Codeの書籍を2冊出版させていただきました。 Claude Code実践入門 [生成AI深掘りガイド]（SBクリエイティブ） Claude Code実践レシピ集（技術評論社） 新刊のClaude Code実践レシピ集は、個人的に好きなClaude CodeのTipsをベース...
 
-### 7. ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす
+### 7. Closing the AI guidance gap in education
+- source: OpenAI News RSS
+- score: `10`
+- published: `2026-11-10T09:00:00+00:00`
+- url: https://openai.com/index/closing-ai-guidance-gap-education
+- summary: Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.
+
+### 8. ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-11-09T22:53:05+00:00`
 - url: https://japan.cnet.com/article/35254620/
 - summary: ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。
-
-### 8. M 5.2 - 19 km WSW of Lata, Solomon Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-10T03:52:17.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s
-- summary: Time 2026-11-10 03:37:46 UTC 2026-11-10 03:37:46 UTC at epicenter Location 10.782°S 165.624°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
