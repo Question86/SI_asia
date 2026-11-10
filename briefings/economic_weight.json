@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T00:05:00+00:00",
+  "generated_at": "2026-11-10T00:37:25+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -8978,8 +8978,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-02T04:53:55+00:00",
-      "last_seen_at": "2026-11-04T21:46:52+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-10T00:37:03+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_75cae56468e6c4f461fc",
@@ -14913,6 +14913,40 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1d6fd2d34ac981e75c5e",
+      "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-10T00:37:03+00:00",
+      "last_seen_at": "2026-11-10T00:37:03+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_c3ddf8c9dde0f668e2fa",
+      "title": "PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-10T00:37:03+00:00",
+      "last_seen_at": "2026-11-10T00:37:03+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",

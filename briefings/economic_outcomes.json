@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T00:05:02+00:00",
+  "generated_at": "2026-11-10T00:37:29+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -2905,6 +2905,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1d6fd2d34ac981e75c5e",
+      "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_1d7dad128974e69401b3",
@@ -12265,7 +12276,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_757d8af70b6d59ba983f",
@@ -20153,6 +20164,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c3ddf8c9dde0f668e2fa",
+      "title": "PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_c3ec7a1fe4ed0cce5d30",
