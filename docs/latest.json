@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T13:05:21+00:00",
-  "run_id": "2026-11-10T13:05:21+00:00",
+  "generated_at": "2026-11-10T13:17:17+00:00",
+  "run_id": "2026-11-10T13:17:17+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 53
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "new_relevant_findings": 6,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
-    "medium": 21,
+    "medium": 27,
     "observe": 26,
     "source_errors": 0
   },
@@ -251,6 +251,30 @@
         "id": "f4a77e9ea162e41c37ef"
       },
       {
+        "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Cross-Site Scripting",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4447",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-10T13:12:30+00:00",
+        "fetched_at": "2026-11-10T13:16:49+00:00",
+        "summary": "Ein entfernter Angreifer kann eine Schwachstelle in Pega Platform ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "db07b7abc420dd32e181"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat Openshift Container Platform (ansible, aws-efs-csi-driver): Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4405",
         "source": "BSI CERT-Bund Security Advisories",
@@ -273,6 +297,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "448e39d62f9bdd4c1fce"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4446",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-10T13:12:30+00:00",
+        "fetched_at": "2026-11-10T13:16:49+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "270233f9f6e974ad8a73"
       },
       {
         "title": "Helping caregivers use AI in everyday life",
@@ -414,6 +462,98 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8848ed2a35ce21055324"
+      },
+      {
+        "title": "[NEU] [mittel] Shibboleth Identity Provider: Schwachstelle ermöglicht Cross-Site Scripting",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4449",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-10T13:12:31+00:00",
+        "fetched_at": "2026-11-10T13:16:49+00:00",
+        "summary": "Ein entfernter Angreifer kann eine Schwachstelle in Shibboleth Identity Provider ausnutzen, um Dateien zu manipulieren oder einen Cross-Site Scripting Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1a45f6fc5be929867cc2"
+      },
+      {
+        "title": "[NEU] [mittel] 7-Zip: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4448",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-10T13:12:31+00:00",
+        "fetched_at": "2026-11-10T13:16:49+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in 7-Zip ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "82b900e23bfb93632474"
+      },
+      {
+        "title": "[NEU] [mittel] Contao: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4445",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-10T13:12:29+00:00",
+        "fetched_at": "2026-11-10T13:16:49+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Contao ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5ebd894ddef320a232a1"
+      },
+      {
+        "title": "[NEU] [hoch] Composer: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4444",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-10T13:12:29+00:00",
+        "fetched_at": "2026-11-10T13:16:49+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Composer ausnutzen, um Informationen offenzulegen, Daten zu manipulieren oder beliebigen Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "04ad00db03b55f8dfb71"
       },
       {
         "title": "[UPDATE] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
@@ -1454,6 +1594,30 @@
       "id": "f4a77e9ea162e41c37ef"
     },
     {
+      "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Cross-Site Scripting",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4447",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:30+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein entfernter Angreifer kann eine Schwachstelle in Pega Platform ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "db07b7abc420dd32e181"
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Openshift Container Platform (ansible, aws-efs-csi-driver): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4405",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1476,6 +1640,30 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "448e39d62f9bdd4c1fce"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4446",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:30+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "270233f9f6e974ad8a73"
     },
     {
       "title": "Helping caregivers use AI in everyday life",
@@ -1617,6 +1805,98 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8848ed2a35ce21055324"
+    },
+    {
+      "title": "[NEU] [mittel] Shibboleth Identity Provider: Schwachstelle ermöglicht Cross-Site Scripting",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4449",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:31+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein entfernter Angreifer kann eine Schwachstelle in Shibboleth Identity Provider ausnutzen, um Dateien zu manipulieren oder einen Cross-Site Scripting Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1a45f6fc5be929867cc2"
+    },
+    {
+      "title": "[NEU] [mittel] 7-Zip: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4448",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:31+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in 7-Zip ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "82b900e23bfb93632474"
+    },
+    {
+      "title": "[NEU] [mittel] Contao: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4445",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:29+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Contao ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5ebd894ddef320a232a1"
+    },
+    {
+      "title": "[NEU] [hoch] Composer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4444",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:29+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Composer ausnutzen, um Informationen offenzulegen, Daten zu manipulieren oder beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04ad00db03b55f8dfb71"
     },
     {
       "title": "[UPDATE] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
@@ -2433,24 +2713,144 @@
   ],
   "new_findings": [
     {
-      "title": "Microsoft Paint: Codeschmuggel-Lücke im Malprogramm",
-      "url": "https://www.heise.de/news/Microsoft-Paint-Codeschmuggel-Luecke-im-Malprogramm-11519162.html",
-      "source": "heise Security Alerts",
+      "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Cross-Site Scripting",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4447",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-10T12:58:00.000+00:00",
-      "fetched_at": "2026-11-10T13:04:48+00:00",
-      "summary": "In dem rudimentären Zeichenprogramm Paint von Windows können Angreifer Schadcode einschleusen. Jetzt gibt es ein Update dagegen.",
+      "published_at": "2026-11-10T13:12:30+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein entfernter Angreifer kann eine Schwachstelle in Pega Platform ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
       "matched_keywords": [
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a7cd9681b50be67b287e"
+      "id": "db07b7abc420dd32e181"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4446",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:30+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "270233f9f6e974ad8a73"
+    },
+    {
+      "title": "[NEU] [mittel] Shibboleth Identity Provider: Schwachstelle ermöglicht Cross-Site Scripting",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4449",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:31+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein entfernter Angreifer kann eine Schwachstelle in Shibboleth Identity Provider ausnutzen, um Dateien zu manipulieren oder einen Cross-Site Scripting Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1a45f6fc5be929867cc2"
+    },
+    {
+      "title": "[NEU] [mittel] 7-Zip: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4448",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:31+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in 7-Zip ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "82b900e23bfb93632474"
+    },
+    {
+      "title": "[NEU] [mittel] Contao: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4445",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:29+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Contao ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5ebd894ddef320a232a1"
+    },
+    {
+      "title": "[NEU] [hoch] Composer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4444",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-10T13:12:29+00:00",
+      "fetched_at": "2026-11-10T13:16:49+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Composer ausnutzen, um Informationen offenzulegen, Daten zu manipulieren oder beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04ad00db03b55f8dfb71"
     }
   ],
   "source_errors": [],

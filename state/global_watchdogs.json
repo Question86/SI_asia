@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T13:05:29+00:00",
+  "generated_at": "2026-11-10T13:17:23+00:00",
   "sections": {
     "global_security": [
       {
@@ -69,6 +69,16 @@
         "summary": "Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576364",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Argentina",
+        "summary": "Green flood alert in Argentina",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104277",
         "published_at": "",
         "metrics": {}
       },
