@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T01:59:40+00:00_
+_Generiert: 2026-11-11T02:11:59+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+8 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: Grab started life in Malaysia as a taxi-booking app. Fourteen years on, it is heading back to its birthplace with a far heavier load: AI data centres. SoftBank Group and Grab Holdings have signed joint development agreements with Petroleum Sarawak (PETROS), the Sarawak state oil and gas company, to build AI infrastructure across Sarawak and […] The post SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **It doesn’t matter how we use AI, we are all in trouble** — Score 8, observation — [Quelle](https://e27.co/it-doesnt-matter-how-we-use-ai-we-are-all-in-trouble-20261109/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-11T02:00:11+00:00`, fetched `2026-11-11T02:11:31+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: AI helped me enter a world I once watched from the outside. Now I worry about what happens if that world pulls the ladder up. I am self-taught. My rise in AI technology began through my work building OnTheRice. I use AI to help research, connect information and build systems. It has expanded what I […] The post It doesn’t matter how we use AI, we are all in trouble appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub App support for Enterprise Copilot seat management** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management)
   - Quelle: GitHub Changelog Atom / `rss`
