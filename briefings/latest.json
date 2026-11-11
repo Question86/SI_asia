@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T22:54:32+00:00",
-  "run_id": "2026-11-11T22:54:32+00:00",
+  "generated_at": "2026-11-11T23:01:16+00:00",
+  "run_id": "2026-11-11T23:01:16+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 1,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 0,
     "medium": 24,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -1345,6 +1345,29 @@
           "LOW"
         ],
         "id": "6d778cf9fff5fb8f6626"
+      },
+      {
+        "title": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ",
+        "url": "https://future-architect.github.io/articles/20261111a/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-11T01:20:40+00:00",
+        "fetched_at": "2026-11-11T23:00:42+00:00",
+        "summary": "秋のブログ週間2026 の記事です。 はじめにTIG（Technology Innovation Group）の真野です。 フューチャーでは、お客様との会議に出て、プロジェクトを提案・推進することを「フロントに立つ」と呼ぶことがあります1。お客様と直接やり取りすることはITコンサルタントの成長に不可欠ですし、マネジメント目線でも組織の...",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena",
+          "hotentry",
+          "technology"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "65f1a88bbbc7e4bd49f7"
       },
       {
         "title": "【速報】政府、AI開発事業者に罰則検討",
@@ -3209,6 +3232,29 @@
       "id": "6d778cf9fff5fb8f6626"
     },
     {
+      "title": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ",
+      "url": "https://future-architect.github.io/articles/20261111a/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-11T01:20:40+00:00",
+      "fetched_at": "2026-11-11T23:00:42+00:00",
+      "summary": "秋のブログ週間2026 の記事です。 はじめにTIG（Technology Innovation Group）の真野です。 フューチャーでは、お客様との会議に出て、プロジェクトを提案・推進することを「フロントに立つ」と呼ぶことがあります1。お客様と直接やり取りすることはITコンサルタントの成長に不可欠ですし、マネジメント目線でも組織の...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry",
+        "technology"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "65f1a88bbbc7e4bd49f7"
+    },
+    {
       "title": "【速報】政府、AI開発事業者に罰則検討",
       "url": "https://www.47news.jp/15215659.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3753,7 +3799,31 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ",
+      "url": "https://future-architect.github.io/articles/20261111a/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-11T01:20:40+00:00",
+      "fetched_at": "2026-11-11T23:00:42+00:00",
+      "summary": "秋のブログ週間2026 の記事です。 はじめにTIG（Technology Innovation Group）の真野です。 フューチャーでは、お客様との会議に出て、プロジェクトを提案・推進することを「フロントに立つ」と呼ぶことがあります1。お客様と直接やり取りすることはITコンサルタントの成長に不可欠ですし、マネジメント目線でも組織の...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry",
+        "technology"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "65f1a88bbbc7e4bd49f7"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
