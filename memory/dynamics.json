@@ -1,30 +1,78 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-11T04:22:34Z",
+  "generated_at": "2026-11-11T06:16:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 34,
+    "dynamics": 40,
     "bands": {
-      "krass": 3,
-      "extreme": 1,
-      "strong": 5,
-      "watch": 12,
-      "quiet": 13
+      "extreme": 2,
+      "krass": 4,
+      "strong": 10,
+      "watch": 18,
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 12,
-      "quiet": 13
+      "strong": 16,
+      "watch": 18,
+      "quiet": 6
     }
   },
   "top_dynamics": [
+    {
+      "title": "Intel製品に対するアップデート（2026年11月）",
+      "url": "https://jvn.jp/vu/JVNVU93337738/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-11T14:15:00+09:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "Intelから各製品向けのアドバイザリが公表されました。"
+    },
+    {
+      "title": "Sleipnir Mobile for iPhone / iPadにおける不適切な証明書検証の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU93068550/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-11T13:30:00+09:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "フェンリル株式会社が提供するSleipnir Mobile for iPhone / iPadおよびSleipnir Mobile for iPhone / iPad Black Editionには、不適切な証明書検証の脆弱性が存在します。"
+    },
     {
       "title": "Movable Typeにおけるコードインジェクションの脆弱性",
       "url": "https://jvn.jp/jp/JVN11786640/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T12:00:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -44,11 +92,41 @@
       "summary": "シックス・アパート株式会社が提供するMovable Typeには、ダイナミックパブリッシング機能にコードインジェクションの脆弱性が存在します。"
     },
     {
+      "title": "Singapore is paying startups to secure the AI agents it is racing to deploy",
+      "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T04:33:53+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Singapore’s cyber agency has a new worry list, and it reads like the agenda of every AI conference this year: agents talking to other agents, quantum computers that don’t yet exist, and small firms with nobody watching the network. On Tuesday, at CyberSG Innovation Day 2026, the Cyber Security Agency of Singapore (CSA…"
+    },
+    {
       "title": "Security Alert: Microsoft Releases November 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-11-11T02:55:56+00:00",
-      "age_days": 0.06,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -70,11 +148,41 @@
       "summary": ""
     },
     {
+      "title": "Open code, unowned risk: The governance gap in business-critical email",
+      "url": "https://e27.co/governance-gap-in-business-critical-email-20261017-2/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T04:30:44+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai",
+        "security",
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: outage, outage",
+        "high terms: critical, code, 10",
+        "security high-signal: critical, code, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Few organisations deliberately decide to run unsupported infrastructure. More often, a migration gets deferred, an upgrade slips behind other priorities, and a temporary decision becomes a permanent one. Over time, operational risk accumulates quietly until a vulnerability, outage or audit brings it into view. At that…"
+    },
+    {
       "title": "1.89 million BPO workers, 53,500 training seats: The Philippines’s AI maths doesn’t add up",
       "url": "https://e27.co/1-89-million-bpo-workers-53500-training-seats-the-philippiness-ai-maths-doesnt-add-up-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:08:03+00:00",
-      "age_days": 0.01,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -100,7 +208,7 @@
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:04:29+00:00",
-      "age_days": 0.14,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -127,7 +235,7 @@
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:00:45+00:00",
-      "age_days": 0.14,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -154,7 +262,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 145.1,
+      "age_days": 145.18,
       "topics": [
         "general"
       ],
@@ -172,7 +280,34 @@
         "momentum delta +3",
         "high terms: rce, 10",
         "security high-signal: rce, 10",
-        "aging penalty -8.0 for 145.1d old signal",
+        "aging penalty -8.0 for 145.2d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Singapore is paying startups to secure the AI agents it is racing to deploy",
+      "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T04:34:52+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -182,7 +317,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T10:15:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -204,11 +339,83 @@
       "summary": "OpenSSL ProjectからOpenSSL Security Advisory [10th November 2026]が公開されました。"
     },
     {
+      "title": "Intel製品に対するアップデート（2026年11月）",
+      "url": "https://jvn.jp/vu/JVNVU93337738/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-11T05:20:19+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Sleipnir Mobile for iPhone / iPadにおける不適切な証明書検証の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU93068550/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-11T04:34:52+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "3 ways the EDGE Grant changes how a sensible SME buys software",
+      "url": "https://e27.co/3-ways-the-edge-grant-changes-how-a-sensible-sme-buys-software-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T04:18:47+00:00",
+      "age_days": 0.08,
+      "topics": [],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Security Alert: Microsoft Releases November 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-11-11T11:21+09:00",
-      "age_days": 0.08,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -228,35 +435,11 @@
       "summary": "Security Alert: Microsoft Releases November 2026 Security Updates"
     },
     {
-      "title": "3 ways the EDGE Grant changes how a sensible SME buys software",
-      "url": "https://e27.co/3-ways-the-edge-grant-changes-how-a-sensible-sme-buys-software-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-11T04:18:47+00:00",
-      "age_days": 0.0,
-      "topics": [],
-      "dynamics_score": 20.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": ""
-    },
-    {
       "title": "CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?",
       "url": "https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T03:30:11+00:00",
-      "age_days": 0.04,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -280,7 +463,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-11T02:34:44.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -305,7 +488,7 @@
       "url": "https://e27.co/3-ways-the-edge-grant-changes-how-a-sensible-sme-buys-software-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:00:59+00:00",
-      "age_days": 0.01,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -332,7 +515,7 @@
       "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-11T00:10:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.25,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -356,7 +539,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-11T02:39:42+00:00",
-      "age_days": 0.07,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -380,11 +563,11 @@
       "url": "https://jvn.jp/jp/JVN11786640/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-07T05:38:32+00:00",
-      "age_days": 34.95,
+      "age_days": 35.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 18.12,
+      "dynamics_score": 18.09,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -396,16 +579,43 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -4.9 for 34.9d old signal"
+        "aging penalty -4.9 for 35.0d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "「AIで漏洩した？と思うくらいに同感同意」キャリア女性のロールモデルとして、メチャクチャ有能な働きマンを出されても困るという話に賛同が集まる",
+      "url": "https://togetter.com/li/2769100",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-11T02:16:09+00:00",
+      "age_days": 0.17,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "キャリア女性のロールモデルと称してゴリラをお出ししないでほしい｜おたま 戦略コンサルからのスカウトに「今後出産も控えているためワークライフバランスを懸念している」と聞く人が聞けばほぼお断りみたいなことを言ったら、 「お子さんを2人抱えながら戦略コンサルでフルタイム稼働し… 1 user note（ノート） おたま..."
     },
     {
       "title": "AI is a tool. Stop treating it like a strategy",
       "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T03:04:49+00:00",
-      "age_days": 0.05,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -428,11 +638,38 @@
       "summary": ""
     },
     {
+      "title": "Open code, unowned risk: The governance gap in business-critical email",
+      "url": "https://e27.co/governance-gap-in-business-critical-email-20261017-2/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T04:34:52+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: critical, code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GitHub App support for Enterprise Copilot seat management",
       "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-11T00:47:01+00:00",
-      "age_days": 0.15,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -452,11 +689,63 @@
       "summary": ""
     },
     {
+      "title": "M 4.6 - 130 km ENE of Hasaki, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-11T04:19:26.040+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Time 2026-11-11 03:56:52 UTC 2026-11-11 03:56:52 UTC at epicenter Location 36.149°N 142.185°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.0 - 152 km SE of Kuril’sk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-11T05:49:22+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "おやすみ、インターネットの時代",
       "url": "https://wirelesswire.jp/2026/11/94886/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T00:23:02+00:00",
-      "age_days": 0.17,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -480,7 +769,7 @@
       "url": "https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T03:20:07+00:00",
-      "age_days": 0.04,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -500,31 +789,50 @@
       "summary": ""
     },
     {
-      "title": "Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -",
-      "url": "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 145.1,
+      "title": "デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました",
+      "url": "https://www.digital.go.jp/procurement/bid-surveillance-commission/a9362957-7d08-4278-b57d-8a0787c3e679",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-11T06:07:44+00:00",
+      "age_days": 0.01,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 12.29,
+      "dynamics_score": 12.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.99,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.99",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 145.1d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ShopBack’s Justin Lee on why it let Meta’s Muse in while Amazon shut the door",
+      "url": "https://e27.co/shopbacks-justin-lee-on-why-it-let-metas-muse-in-while-amazon-shut-the-door-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T05:49:22+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -533,7 +841,7 @@
       "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T03:00:08+00:00",
-      "age_days": 0.06,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -556,11 +864,35 @@
       "summary": "There is a version of a Swiss army knife that does everything. It has a blade, a saw, scissors, a bottle opener, a USB drive, a laser pointer. When you reach for it, you are always holding something that can do something. But when you need to tighten a specific screw, the right tool is […] The post AI is a tool. Stop…"
     },
     {
-      "title": "SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia",
-      "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/",
+      "title": "M 5.0 - 152 km SE of Kuril’sk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-11T05:42:52.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-11-11 05:26:28 UTC 2026-11-11 05:26:28 UTC at epicenter Location 44.392°N 149.406°E Depth 30.34 km (18.85 mi)"
+    },
+    {
+      "title": "1.89 million BPO workers, 53,500 training seats: The Philippines’s AI maths doesn’t add up",
+      "url": "https://e27.co/1-89-million-bpo-workers-53500-training-seats-the-philippiness-ai-maths-doesnt-add-up-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-11T01:04:29+00:00",
-      "age_days": 0.14,
+      "published_at": "2026-11-11T04:18:47+00:00",
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -582,11 +914,66 @@
       "summary": ""
     },
     {
-      "title": "It doesn’t matter how we use AI, we are all in trouble",
-      "url": "https://e27.co/it-doesnt-matter-how-we-use-ai-we-are-all-in-trouble-20261109/",
+      "title": "SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia",
+      "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-11T02:12:03+00:00",
-      "age_days": 0.09,
+      "published_at": "2026-11-11T01:04:29+00:00",
+      "age_days": 0.22,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -",
+      "url": "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 145.18,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 10.43,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.3,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.30",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 145.2d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The most expensive AI mistakes don’t look like mistakes",
+      "url": "https://e27.co/the-most-expensive-ai-mistakes-dont-look-like-mistakes-20261109/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T05:10:01+00:00",
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -608,26 +995,26 @@
       "summary": ""
     },
     {
-      "title": "1.89 million BPO workers, 53,500 training seats: The Philippines’s AI maths doesn’t add up",
-      "url": "https://e27.co/1-89-million-bpo-workers-53500-training-seats-the-philippiness-ai-maths-doesnt-add-up-20261111/",
+      "title": "It doesn’t matter how we use AI, we are all in trouble",
+      "url": "https://e27.co/it-doesnt-matter-how-we-use-ai-we-are-all-in-trouble-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-11T04:18:47+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-11-11T02:12:03+00:00",
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 8.5,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -638,7 +1025,7 @@
       "url": "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T12:56:40+00:00",
-      "age_days": 0.64,
+      "age_days": 0.72,
       "topics": [
         "ai"
       ],
@@ -658,237 +1045,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "ハーネスは大事。坂東は..."
-    },
-    {
-      "title": "SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia",
-      "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-11T01:00:58+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Grab started life in Malaysia as a taxi-booking app. Fourteen years on, it is heading back to its birthplace with a far heavier load: AI data centres. SoftBank Group and Grab Holdings have signed joint development agreements with Petroleum Sarawak (PETROS), the Sarawak state oil and gas company, to build AI infrastruc…"
-    },
-    {
-      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-11T00:47:01+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "It doesn’t matter how we use AI, we are all in trouble",
-      "url": "https://e27.co/it-doesnt-matter-how-we-use-ai-we-are-all-in-trouble-20261109/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-11T02:00:11+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "AI helped me enter a world I once watched from the outside. Now I worry about what happens if that world pulls the ladder up. I am self-taught. My rise in AI technology began through my work building OnTheRice. I use AI to help research, connect information and build systems. It has expanded what I […] The post It doe…"
-    },
-    {
-      "title": "おやすみ、インターネットの時代",
-      "url": "https://wirelesswire.jp/2026/11/94886/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-10T23:02:09+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "いや、待って。 まず2016年の話してもいい？ あのね、私にもあったはずなんです。2016年が。 去年、電撃結婚された方々や、惜しまれきって解散した方々や、不倫を超暴かれた方々と同様。多分、同じ日数くらいの2016年があったはずなんです。 （加藤はいね） その年は、年明け早々にデヴィッド・ボウイが死に、春には伯父..."
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 146.32,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 146.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
-    },
-    {
-      "title": "CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?",
-      "url": "https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-11T03:20:23+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "As anticipated yesterday, Bitcoin fell below US$73,000 and touched a nearly three-month low after the October US CPI report came in hotter than forecast. Headline CPI rose 0.4 per cent month over month against a 0.3 per cent expectation, while core CPI rose 0.3 per cent against a 0.2 per cent expectation. Bitcoin was…"
-    },
-    {
-      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-10T20:34:16+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "AI眼鏡で何ができるのか？ まず、AIグラスがどのように進化してきたのかを見てみよう。 AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google Glass」が草分けとされる。通常の眼鏡の外側にディスプレイが付いた構造で、一目で普通の眼鏡とは違うことが分かる。メモリは1GBでストレージは16GB。主..."
-    },
-    {
-      "title": "Stablecoins must act like bank money to win APAC businesses, survey suggests",
-      "url": "https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-11T03:09:46+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For a freelancer in Manila or a solo consultant in Ho Chi Minh City, the stressful part of cross-border invoicing is not the moment a client clicks “send”. It is the wait that follows, when the money is technically on its way but still missing from the bank account. A new survey from Morph, the […] The post Stablecoin…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおけるコードインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Intel製品に対するアップデート（2026年11月）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
