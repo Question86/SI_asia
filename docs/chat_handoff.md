@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-11T03:20:04+00:00_
+_Generated: 2026-11-11T03:30:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `15`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-11T03:20:04+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz
 - summary: Time 2026-11-11 01:45:27 UTC 2026-11-11 01:45:27 UTC at epicenter Location 49.088°N 127.691°W Depth 10.00 km (6.21 mi)
 
-### 6. Gilbert + Tobin rethinks the business of law with AI
+### 6. Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-11-10T12:56:40+00:00`
+- url: https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive
+- summary: ハーネスは大事。坂東は...
+
+### 7. Gilbert + Tobin rethinks the business of law with AI
 - source: OpenAI News RSS
 - score: `10`
 - published: `2026-11-12T00:00:00+00:00`
 - url: https://openai.com/index/gilbert-tobin-sam-nickless
 - summary: A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.
 
-### 7. Security Alert: Microsoft Releases November 2026 Security Updates
+### 8. Security Alert: Microsoft Releases November 2026 Security Updates
 - source: JPCERT/CC English Alerts
 - score: `10`
 - published: `2026-11-11T11:21+09:00`
 - url: https://www.jpcert.or.jp/english/at/2026/at260035.html
 - summary: Security Alert: Microsoft Releases November 2026 Security Updates
-
-### 8. SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-11-11T01:00:58+00:00`
-- url: https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/
-- summary: Grab started life in Malaysia as a taxi-booking app. Fourteen years on, it is heading back to its birthplace with a far heavier load: AI data centres. SoftBank Group and Grab Holdings have signed joint development agreements with Petroleum Sarawak (PETROS), t…
 
 END OF DOCUMENT

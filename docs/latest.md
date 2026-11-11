@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T03:20:04+00:00_
+_Generiert: 2026-11-11T03:30:08+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+15 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-11 01:45:27 UTC 2026-11-11 01:45:27 UTC at epicenter Location 49.088°N 127.691°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -** — Score 11, observation — [Quelle](https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-10T12:56:40+00:00`, fetched `2026-11-11T03:29:41+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ハーネスは大事。坂東は...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Gilbert + Tobin rethinks the business of law with AI** — Score 10, observation — [Quelle](https://openai.com/index/gilbert-tobin-sam-nickless)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-11T00:46:30+00:00`
@@ -77,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases November 2026 Security Updates
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?** — Score 10, observation — [Quelle](https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-11T03:20:23+00:00`, fetched `2026-11-11T03:29:41+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: As anticipated yesterday, Bitcoin fell below US$73,000 and touched a nearly three-month low after the October US CPI report came in hotter than forecast. Headline CPI rose 0.4 per cent month over month against a 0.3 per cent expectation, while core CPI rose 0.3 per cent against a 0.2 per cent expectation. Bitcoin was down […] The post CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia** — Score 10, observation — [Quelle](https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -122,15 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI眼鏡で何ができるのか？ まず、AIグラスがどのように進化してきたのかを見てみよう。 AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google Glass」が草分けとされる。通常の眼鏡の外側にディスプレイが付いた構造で、一目で普通の眼鏡とは違うことが分かる。メモリは1GBでストレージは16GB。主...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Stablecoins must act like bank money to win APAC businesses, survey suggests** — Score 4, observation — [Quelle](https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-11T03:09:46+00:00`, fetched `2026-11-11T03:19:37+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: For a freelancer in Manila or a solo consultant in Ho Chi Minh City, the stressful part of cross-border invoicing is not the moment a client clicks “send”. It is the wait that follows, when the money is technically on its way but still missing from the bank account. A new survey from Morph, the […] The post Stablecoins must act like bank money to win APAC businesses, survey suggests appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

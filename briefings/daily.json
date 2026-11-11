@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T03:20:07+00:00",
-  "today_file_total": 13,
+  "generated_at": "2026-11-11T03:30:11+00:00",
+  "today_file_total": 15,
   "current_clusters": [
     {
       "key": "title:openssl-2026",
@@ -95,6 +95,52 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:speakerdeck.com",
+      "title": "Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:cpi-broke-bitcoin-000-floor-what-happens-fed",
+      "title": "CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "earthquake:m 4.7 - 130 km w of tofino, canada:4.7",
@@ -214,29 +260,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:stablecoins-must-act-like-bank-money-win-apac",
-      "title": "Stablecoins must act like bank money to win APAC businesses, survey suggests",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:github-app-support-enterprise-copilot-seat-management",
       "title": "GitHub App support for Enterprise Copilot seat management",
       "sources": [
@@ -301,6 +324,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:stablecoins-must-act-like-bank-money-win-apac",
+      "title": "Stablecoins must act like bank money to win APAC businesses, survey suggests",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
