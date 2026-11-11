@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T05:41:51+00:00",
+  "generated_at": "2026-11-11T05:49:44+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -568,7 +568,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T04:18:47+00:00",
       "last_seen_at": "2026-11-11T05:41:30+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a298fd300fc635a8ed74",
@@ -2331,7 +2331,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -4898,7 +4898,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-11T02:39:42+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -13011,6 +13011,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_46af89920dace0ec3956",
+      "title": "M 5.0 - 152 km SE of Kuril’sk, Russia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-11T05:49:22+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -13075,7 +13092,7 @@
       "p90_usd": 3060000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T02:44:48+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -13823,7 +13840,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T05:20:19+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -14027,7 +14044,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T04:34:52+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -14078,7 +14095,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-07T05:38:32+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -15694,7 +15711,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T04:34:52+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -17768,7 +17785,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T01:04:29+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -18567,7 +18584,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -19366,7 +19383,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T03:04:49+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -24093,7 +24110,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -24892,7 +24909,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T04:18:47+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -25709,7 +25726,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T03:30:11+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -25896,7 +25913,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T02:55:56+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -26304,7 +26321,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T04:34:52+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -26593,7 +26610,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T01:04:29+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -27903,7 +27920,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T05:10:01+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -28855,7 +28872,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T02:12:03+00:00",
-      "last_seen_at": "2026-11-11T05:41:30+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
       "status": "active"
     },
     {
@@ -33991,7 +34008,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-11T00:47:01+00:00",
       "last_seen_at": "2026-11-11T05:41:30+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e26ddc52caa8e28a6514",
@@ -34281,6 +34298,23 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8040fa7a7abd34dd3a27",
+      "title": "ShopBack’s Justin Lee on why it let Meta’s Muse in while Amazon shut the door",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-11T05:49:22+00:00",
+      "last_seen_at": "2026-11-11T05:49:22+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_00999a707b633ec75a8c",
