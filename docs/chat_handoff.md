@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-11T14:16:59+00:00_
+_Generated: 2026-11-11T14:34:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `55`
+- findings: `61`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-11T14:16:59+00:00_
 - url: https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/
 - summary: Subscription businesses have spent the past two decades making revenue more predictable. Instead of selling a product once and persuading the customer to buy again, they persuade the customer to keep paying every month or every year. That creates an important…
 
-### 4. [UPDATE] [UNGEPATCHT] [hoch] Siemens SIMATIC: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten
+### 4. [NEU] [mittel] Ivanti Endpoint Manager Mobile: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-11-11T06:27:01+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4441
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Siemens SIMATIC ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Programmcode mit Benutzerrechten auszuführen.
+- published: `2026-11-11T14:24:01+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4513
+- summary: Ein Angreifer kann mehrere Schwachstellen in Ivanti Endpoint Manager Mobile ausnutzen, um beliebigen Programmcode auszuführen, einen Denial-of-Service-Zustand herbeizuführen, Dateien zu manipulieren oder Informationen auszulesen.
 
 ### 5. Copper is choking AI. Staera secures US$4.6M to swap it for light
 - source: e27 Asia Startup and Tech Feed

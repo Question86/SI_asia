@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-11T14:16:59+00:00",
+  "generated_at": "2026-11-11T14:34:50+00:00",
   "topics": {
     "security": [
       {
@@ -19,6 +19,20 @@
         "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/"
       },
       {
+        "title": "[NEU] [mittel] Ivanti Endpoint Manager Mobile: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4513"
+      },
+      {
+        "title": "[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:00+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4512"
+      },
+      {
         "title": "[UPDATE] [UNGEPATCHT] [hoch] Siemens SIMATIC: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-11T06:27:01+00:00",
@@ -33,46 +47,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4442"
       },
       {
-        "title": "Intel製品に対するアップデート（2026年11月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-11T14:15:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93337738/"
-      },
-      {
-        "title": "Sleipnir Mobile for iPhone / iPadにおける不適切な証明書検証の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-11T13:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93068550/"
-      },
-      {
-        "title": "[UPDATE] [mittel] git für Windows: Mehrere Schwachstellen ermöglichen Manipulation von Dateien und DoS",
+        "title": "[NEU] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T13:02:17+00:00",
+        "published_at": "2026-11-11T14:24:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3611"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4515"
       },
       {
-        "title": "[UPDATE] [mittel] MIT Kerberos: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "title": "[NEU] [hoch] Intel PROSet Wireless WiFi Software: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T12:32:04+00:00",
+        "published_at": "2026-11-11T14:24:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1290"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4514"
       },
       {
-        "title": "Movable Typeにおけるコードインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-11T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN11786640/"
-      },
-      {
-        "title": "[UPDATE] [hoch] MIT Kerberos: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Xwayland und X.Org X Server: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T11:22:00+00:00",
+        "published_at": "2026-11-11T14:24:00+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4435"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4511"
+      },
+      {
+        "title": "[NEU] [mittel] AMI AptioV: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:23:59+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4510"
       }
     ],
     "ai": [
@@ -184,6 +184,78 @@
         "url": "https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/"
       }
     ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Ivanti Endpoint Manager Mobile: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4513"
+      },
+      {
+        "title": "[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:00+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4512"
+      },
+      {
+        "title": "[NEU] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4515"
+      },
+      {
+        "title": "[NEU] [hoch] Intel PROSet Wireless WiFi Software: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4514"
+      },
+      {
+        "title": "[NEU] [hoch] Xwayland und X.Org X Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4511"
+      },
+      {
+        "title": "[NEU] [mittel] AMI AptioV: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:23:59+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4510"
+      },
+      {
+        "title": "SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-11T01:00:58+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/"
+      },
+      {
+        "title": "we-promise/sure",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/we-promise/sure"
+      },
+      {
+        "title": "Patchday Adobe: Kritische Lücken mit Höchstwertung bedrohen Connect",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-11T08:57:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html"
+      },
+      {
+        "title": "3 ways the EDGE Grant changes how a sensible SME buys software",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-11T04:00:59+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/3-ways-the-edge-grant-changes-how-a-sensible-sme-buys-software-20261106/"
+      }
+    ],
     "general": [
       {
         "title": "M 5.1 - Pulau Pulau Tanimbar, Indonesia",
@@ -277,36 +349,6 @@
         "published_at": "2026-11-11T00:10:31+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-11T01:00:58+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/"
-      },
-      {
-        "title": "we-promise/sure",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/we-promise/sure"
-      },
-      {
-        "title": "Patchday Adobe: Kritische Lücken mit Höchstwertung bedrohen Connect",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-11T08:57:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html"
-      },
-      {
-        "title": "3 ways the EDGE Grant changes how a sensible SME buys software",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-11T04:00:59+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/3-ways-the-edge-grant-changes-how-a-sensible-sme-buys-software-20261106/"
       }
     ]
   }
