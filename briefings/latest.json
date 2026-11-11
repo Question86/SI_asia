@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T07:02:43+00:00",
-  "run_id": "2026-11-11T07:02:43+00:00",
+  "generated_at": "2026-11-11T07:18:24+00:00",
+  "run_id": "2026-11-11T07:18:24+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -1753,31 +1753,7 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How Hostinger is helping solo founders in Southeast Asia go from idea to paying customers",
-      "url": "https://e27.co/how-hostinger-is-helping-solo-founders-in-southeast-asia-go-from-idea-to-paying-customers-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-11T07:00:33+00:00",
-      "fetched_at": "2026-11-11T07:02:14+00:00",
-      "summary": "You have an idea for a service or a small product. You have a free weekend and no developer. By Sunday night you also have a list: a domain, hosting, a site builder, a way to take payment, a mailing list, somewhere to keep customer data, and a plan for answering the same three questions […] The post How Hostinger is helping solo founders in Southeast Asia go from idea to paying customers appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "Southeast Asia",
-        "Webentwicklung"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Webentwicklung (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d1a8bdf7eade14f54144"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
