@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T06:08:16+00:00",
+  "generated_at": "2026-11-11T06:28:15+00:00",
   "fx_as_of": null,
-  "candidate_count": 2826,
+  "candidate_count": 2827,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2826
+    "pending": 2827
   },
   "coverage_warning": null,
   "candidates": [
@@ -37783,6 +37783,27 @@
       "snippet": "3,500 product descriptions for ecommerce in one day using ChatGPT katarinadahlin PRO 3 3.9k GraphQLの誤解/rethinking-graphql sonatard 75 12k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.4k The Language of Interfaces destraynor 162 27k Test your architecture with Archunit thirion 2 2.5k Effective software design: The",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/takuros/jaws-festa-2026-public"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_f05b75785cd80fe7cefd",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-11T06:28:12+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:0738bce28168",
+      "review_status": "pending",
+      "snippet": "xbom PRO 2 1.4k How to Grow Your eCommerce with AI & Automation katarinadahlin PRO 2 350 Darren the Foodie - Storyboard khoart PRO 4 4.1k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.4k Automating Front-end Workflow addyosmani 1370 210k CSS Pre-Processors: Stylus, Less & Sass bermonpainter 360 31k Transcript 2026/",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 230000.0,
