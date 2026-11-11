@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-11T10:16:30+00:00",
+  "generated_at": "2026-11-11T10:34:19+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "new_relevant_findings": 1,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
     "medium": 12,
-    "observe": 32
+    "observe": 33
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -100,143 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Singapore is paying startups to secure the AI agents it is racing to deploy” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Singapore is paying startups to secure the AI agents it is racing to deploy",
-        "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-11T04:33:53+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "axiom",
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Singapore’s cyber agency has a new worry list, and it reads like the agenda of every AI conference this year: agents talking to other agents, quantum computers that don’t yet exist, and small firms with nobody watching the network. On Tuesday, at CyberSG Innovation Day 2026, the Cyber Security Agency of Singapore (CSA…"
-      },
-      {
-        "title": "[UPDATE] [UNGEPATCHT] [hoch] Siemens SIMATIC: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4441",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T06:27:01+00:00",
-        "age_days": 0.16,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Siemens SIMATIC ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Programmcode mit Benutzerrechten auszuführen."
-      },
-      {
-        "title": "[UPDATE] [UNGEPATCHT] [hoch] Siemens SIMATIC WinCC: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4442",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T06:27:01+00:00",
-        "age_days": 0.16,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Siemens SIMATIC WinCC ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "Security Alert: Microsoft Releases November 2026 Security Updates",
-        "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
-        "source": "JPCERT/CC English Alerts",
-        "published_at": "2026-11-11T02:55:56+00:00",
-        "age_days": 0.31,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "security high-signal: security, microsoft"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[UPDATE] [hoch] N-able N-Central: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4440",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T09:22:00+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code, root",
-          "security high-signal: angriffe, code, root"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in N-able N-Central ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Administratorrechte zu erlangen oder beliebigen Code und Betriebssystembefehle mit Root- oder Nable-R…"
-      }
-    ]
-  }
+  ]
 }
