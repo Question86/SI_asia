@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-11T03:30:08+00:00",
-  "run_id": "2026-11-11T03:30:08+00:00",
+  "generated_at": "2026-11-11T03:38:36+00:00",
+  "run_id": "2026-11-11T03:38:36+00:00",
   "date": "2026-11-11",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 15
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
     "medium": 4,
     "observe": 11,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -755,52 +755,15 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -",
-      "url": "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive",
-      "source": "Hatena Bookmark Hotentry IT",
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-10T12:56:40+00:00",
-      "fetched_at": "2026-11-11T03:29:41+00:00",
-      "summary": "ハーネスは大事。坂東は...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cfe2ccf05ad1eb05d460"
-    },
-    {
-      "title": "CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?",
-      "url": "https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-11T03:20:23+00:00",
-      "fetched_at": "2026-11-11T03:29:41+00:00",
-      "summary": "As anticipated yesterday, Bitcoin fell below US$73,000 and touched a nearly three-month low after the October US CPI report came in hotter than forecast. Headline CPI rose 0.4 per cent month over month against a 0.3 per cent expectation, while core CPI rose 0.3 per cent against a 0.2 per cent expectation. Bitcoin was down […] The post CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c9a07a0e4acba256e4ba"
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

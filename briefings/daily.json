@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:30:11+00:00",
+  "generated_at": "2026-11-11T03:38:40+00:00",
   "today_file_total": 15,
   "current_clusters": [
     {
@@ -97,52 +97,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:speakerdeck.com",
-      "title": "Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:cpi-broke-bitcoin-000-floor-what-happens-fed",
-      "title": "CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "earthquake:m 4.7 - 130 km w of tofino, canada:4.7",
       "title": "M 4.7 - 130 km W of Tofino, Canada",
       "sources": [
@@ -166,6 +120,29 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:speakerdeck.com",
+      "title": "Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:openai.com",
@@ -201,6 +178,29 @@
       ],
       "urls": [
         "https://www.jpcert.or.jp/english/at/2026/at260035.html"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:cpi-broke-bitcoin-000-floor-what-happens-fed",
+      "title": "CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/"
       ],
       "finding_count": 1,
       "max_score": 10,
