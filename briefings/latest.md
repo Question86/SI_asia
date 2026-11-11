@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T05:09:58+00:00_
+_Generiert: 2026-11-11T05:20:15+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+25 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -102,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)
   - Kurz: There is a version of a Swiss army knife that does everything. It has a blade, a saw, scissors, a bottle opener, a USB drive, a laser pointer. When you reach for it, you are always holding something that can do something. But when you need to tighten a specific screw, the right tool is […] The post AI is a tool. Stop treating it like a strategy appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Intel製品に対するアップデート（2026年11月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93337738/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-11T14:15:00+09:00`, fetched `2026-11-11T05:19:44+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Intelから各製品向けのアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Sleipnir Mobile for iPhone / iPadにおける不適切な証明書検証の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93068550/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-11T13:30:00+09:00`, fetched `2026-11-11T04:34:20+00:00`
@@ -110,15 +119,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: フェンリル株式会社が提供するSleipnir Mobile for iPhone / iPadおよびSleipnir Mobile for iPhone / iPad Black Editionには、不適切な証明書検証の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Movable Typeにおけるコードインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN11786640/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-11-11T12:00:00+09:00`, fetched `2026-11-11T03:04:15+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: シックス・アパート株式会社が提供するMovable Typeには、ダイナミックパブリッシング機能にコードインジェクションの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「またAIの見え方変わった」ダウン症で知的障害のある弟とのやりとりに、AIを活用したら解決できることが増えたという話に注目が集まる** — Score 5, observation — [Quelle](https://togetter.com/li/2769126)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-11T03:28:52+00:00`, fetched `2026-11-11T05:19:44+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: すきえんてぃあ@書け @cicada3301_kig AIは異なる知能の間を翻訳する「眼鏡」だと前から呟いてきた 賢い側の成功談しか聞かなくて失望していたけど、いよいよ知的障害者と健常者の間の仲介に成功しつつある note.kishidanami.com/n/n2cf7aa5a0bf2 2026-11-10 14:48:36 岸田奈美｜Nami Kishida @namikishida 【人生を賭け...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「AIで漏洩した？と思うくらいに同感同意」キャリア女性のロールモデルとして、メチャクチャ有能な働きマンを出されても困るという話に賛同が集まる** — Score 5, observation — [Quelle](https://togetter.com/li/2769100)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-11T02:16:09+00:00`, fetched `2026-11-11T04:42:53+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: キャリア女性のロールモデルと称してゴリラをお出ししないでほしい｜おたま 戦略コンサルからのスカウトに「今後出産も控えているためワークライフバランスを懸念している」と聞く人が聞けばほぼお断りみたいなことを言ったら、 「お子さんを2人抱えながら戦略コンサルでフルタイム稼働し… 1 user note（ノート） おたま...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **おやすみ、インターネットの時代** — Score 5, observation — [Quelle](https://wirelesswire.jp/2026/11/94886/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-10T23:02:09+00:00`, fetched `2026-11-11T00:22:27+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: いや、待って。 まず2016年の話してもいい？ あのね、私にもあったはずなんです。2016年が。 去年、電撃結婚された方々や、惜しまれきって解散した方々や、不倫を超暴かれた方々と同様。多分、同じ日数くらいの2016年があったはずなんです。 （加藤はいね） その年は、年明け早々にデヴィッド・ボウイが死に、春には伯父...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
