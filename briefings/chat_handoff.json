@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-11T02:55:52+00:00",
+  "generated_at": "2026-11-11T03:04:45+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 2,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
-    "medium": 2,
+    "medium": 4,
     "observe": 8
   },
   "source_errors_count": 0,
@@ -32,6 +32,26 @@
       "relevance_score": 17,
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "summary": "Subscription businesses have spent the past two decades making revenue more predictable. Instead of selling a product once and persuading the customer to buy again, they persuade the customer to keep paying every month or every year. That creates an important…",
+      "section": "medium"
+    },
+    {
+      "title": "AI is a tool. Stop treating it like a strategy",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-11T03:00:08+00:00",
+      "relevance_score": 15,
+      "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
+      "summary": "There is a version of a Swiss army knife that does everything. It has a blade, a saw, scissors, a bottle opener, a USB drive, a laser pointer. When you reach for it, you are always holding something that can do something. But when you need to tighten a specif…",
+      "section": "medium"
+    },
+    {
+      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-11T12:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN11786640/",
+      "summary": "シックス・アパート株式会社が提供するMovable Typeには、ダイナミックパブリッシング機能にコードインジェクションの脆弱性が存在します。",
       "section": "medium"
     },
     {

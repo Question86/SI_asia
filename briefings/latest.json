@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T02:55:52+00:00",
-  "run_id": "2026-11-11T02:55:52+00:00",
+  "generated_at": "2026-11-11T03:04:45+00:00",
+  "run_id": "2026-11-11T03:04:45+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 2,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
-    "medium": 2,
+    "medium": 4,
     "observe": 8,
     "source_errors": 0
   },
@@ -98,6 +98,50 @@
           "PINS"
         ],
         "id": "41d0a4e84aa44aa65000"
+      },
+      {
+        "title": "AI is a tool. Stop treating it like a strategy",
+        "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-11T03:00:08+00:00",
+        "fetched_at": "2026-11-11T03:04:15+00:00",
+        "summary": "There is a version of a Swiss army knife that does everything. It has a blade, a saw, scissors, a bottle opener, a USB drive, a laser pointer. When you reach for it, you are always holding something that can do something. But when you need to tighten a specific screw, the right tool is […] The post AI is a tool. Stop treating it like a strategy appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Markets/Capital Structure"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9113c178515cd4c1f651"
+      },
+      {
+        "title": "Movable Typeにおけるコードインジェクションの脆弱性",
+        "url": "https://jvn.jp/jp/JVN11786640/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-11T12:00:00+09:00",
+        "fetched_at": "2026-11-11T03:04:15+00:00",
+        "summary": "シックス・アパート株式会社が提供するMovable Typeには、ダイナミックパブリッシング機能にコードインジェクションの脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3659a6275f741b44740a"
       }
     ],
     "observe": [
@@ -358,6 +402,50 @@
       "id": "41d0a4e84aa44aa65000"
     },
     {
+      "title": "AI is a tool. Stop treating it like a strategy",
+      "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-11T03:00:08+00:00",
+      "fetched_at": "2026-11-11T03:04:15+00:00",
+      "summary": "There is a version of a Swiss army knife that does everything. It has a blade, a saw, scissors, a bottle opener, a USB drive, a laser pointer. When you reach for it, you are always holding something that can do something. But when you need to tighten a specific screw, the right tool is […] The post AI is a tool. Stop treating it like a strategy appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9113c178515cd4c1f651"
+    },
+    {
+      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN11786640/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-11T12:00:00+09:00",
+      "fetched_at": "2026-11-11T03:04:15+00:00",
+      "summary": "シックス・アパート株式会社が提供するMovable Typeには、ダイナミックパブリッシング機能にコードインジェクションの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3659a6275f741b44740a"
+    },
+    {
       "title": "M 4.7 - 130 km W of Tofino, Canada",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -543,25 +631,48 @@
   ],
   "new_findings": [
     {
-      "title": "Security Alert: Microsoft Releases November 2026 Security Updates",
-      "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
-      "source": "JPCERT/CC English Alerts",
+      "title": "AI is a tool. Stop treating it like a strategy",
+      "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-11T11:21+09:00",
-      "fetched_at": "2026-11-11T02:55:22+00:00",
-      "summary": "Security Alert: Microsoft Releases November 2026 Security Updates",
+      "published_at": "2026-11-11T03:00:08+00:00",
+      "fetched_at": "2026-11-11T03:04:15+00:00",
+      "summary": "There is a version of a Swiss army knife that does everything. It has a blade, a saw, scissors, a bottle opener, a USB drive, a laser pointer. When you reach for it, you are always holding something that can do something. But when you need to tighten a specific screw, the right tool is […] The post AI is a tool. Stop treating it like a strategy appeared first on e27 .",
       "matched_keywords": [
-        "JPCERT",
-        "Security"
+        "AI/KI",
+        "APAC Trend Radar",
+        "Markets/Capital Structure"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+7.5); JPCERT (+2.0); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4dd62a6bcf7145c0ae06"
+      "id": "9113c178515cd4c1f651"
+    },
+    {
+      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN11786640/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-11T12:00:00+09:00",
+      "fetched_at": "2026-11-11T03:04:15+00:00",
+      "summary": "シックス・アパート株式会社が提供するMovable Typeには、ダイナミックパブリッシング機能にコードインジェクションの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3659a6275f741b44740a"
     }
   ],
   "source_errors": [],
