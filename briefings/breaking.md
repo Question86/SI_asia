@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-11T04:43:26+00:00_
+_Generiert: 2026-11-11T04:51:29+00:00_
 
 ## Singapore is paying startups to secure the AI agents it is racing to deploy
 
