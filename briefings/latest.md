@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T02:39:39+00:00_
+_Generiert: 2026-11-11T02:48:56+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,6 @@ _Generiert: 2026-11-11T02:39:39+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M4.7 - 130 km W of Tofino, Canada** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz)
-  - Quelle: USGS
-  - Zeit: `2026-11-11T01:45:27+00:00`
-  - Kurz: M4.7 - 130 km W of Tofino, Canada. PAGER alert: none. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-124194 Microsoft Office** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
