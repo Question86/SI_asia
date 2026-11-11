@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T01:31:54+00:00",
+  "generated_at": "2026-11-11T01:43:39+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "updated_at": "2026-11-11T01:31:54+00:00",
+      "updated_at": "2026-11-11T01:43:39+00:00",
       "network_scores": [
-        24.4,
         24.4,
         24.4,
         24.4,
@@ -130,12 +129,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 22.04,
+      "rolling_average": 21.63,
       "rolling_peak": 24.4,
       "last_score": 12.1,
-      "z_hint": -9.94
+      "z_hint": -9.53
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2853,7 +2853,7 @@
     },
     "title:openssl-2026": {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）",
-      "updated_at": "2026-11-11T01:31:54+00:00",
+      "updated_at": "2026-11-11T01:43:39+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -2881,8 +2881,8 @@
         25.1,
         25.1,
         25.1,
-        25.1,
         28.1,
+        25.1,
         25.1,
         25.1
       ],
@@ -113420,7 +113420,42 @@
     },
     "url:https://wirelesswire.jp/2026/11/94886/": {
       "title": "おやすみ、インターネットの時代",
-      "updated_at": "2026-11-11T01:31:54+00:00",
+      "updated_at": "2026-11-11T01:43:39+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.48,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.38
+    },
+    "title:github-app-support-enterprise-copilot-seat-management": {
+      "title": "GitHub App support for Enterprise Copilot seat management",
+      "updated_at": "2026-11-11T01:43:39+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 8.53,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -0.43
+    },
+    "url:https://www.itmedia.co.jp/news/article/2611/11/2000002913/": {
+      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
+      "updated_at": "2026-11-11T01:43:39+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -113435,65 +113470,35 @@
       "last_score": 7.1,
       "z_hint": -0.43
     },
-    "title:github-app-support-enterprise-copilot-seat-management": {
-      "title": "GitHub App support for Enterprise Copilot seat management",
-      "updated_at": "2026-11-11T01:31:54+00:00",
-      "network_scores": [
-        11.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1,
-        8.1
-      ],
-      "rolling_average": 8.6,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -0.5
-    },
-    "url:https://www.itmedia.co.jp/news/article/2611/11/2000002913/": {
-      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
-      "updated_at": "2026-11-11T01:31:54+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.6,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.5
-    },
     "title:what-happens-subscription-economy-when-agents-review-every": {
       "title": "What happens to the subscription economy when AI agents review every payment?",
-      "updated_at": "2026-11-11T01:31:54+00:00",
+      "updated_at": "2026-11-11T01:43:39+00:00",
       "network_scores": [
         22.1,
         19.1,
         19.1,
+        19.1,
         19.1
       ],
-      "rolling_average": 19.85,
+      "rolling_average": 19.7,
       "rolling_peak": 22.1,
       "last_score": 19.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:softbank-grab-put-85b-down-5gw-bet-malaysia": {
       "title": "SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia",
-      "updated_at": "2026-11-11T01:31:54+00:00",
+      "updated_at": "2026-11-11T01:43:39+00:00",
       "network_scores": [
         15.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.85,
+      "rolling_average": 12.7,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     }
   }
 }
