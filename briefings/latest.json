@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T08:04:48+00:00",
-  "run_id": "2026-11-11T08:04:48+00:00",
+  "generated_at": "2026-11-11T08:20:40+00:00",
+  "run_id": "2026-11-11T08:20:40+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 37,
     "displayed_findings": 37,
     "high": 0,
@@ -1889,30 +1889,7 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [
-    {
-      "title": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-11-11T08:04:17+00:00",
-      "summary": "The personal finance app for everyone (by everyone) https://sure.am Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues Important This repository is a community fork of the now-abandoned Maybe Finance project. Learn more in their final release doc. Backstory The Maybe Finance (archived/abandoned repo) team spent most…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Webentwicklung"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bc1c03ba3681e4a960e8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
