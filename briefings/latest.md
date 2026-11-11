@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T04:18:44+00:00_
+_Generiert: 2026-11-11T04:28:34+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+18 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Subscription businesses have spent the past two decades making revenue more predictable. Instead of selling a product once and persuading the customer to buy again, they persuade the customer to keep paying every month or every year. That creates an important advantage: once the subscription has started, continuing to pay usually requires no decision at […] The post What happens to the subscription economy when AI a…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.6 - 130 km ENE of Hasaki, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgg)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-11T04:19:26.040+00:00`, fetched `2026-11-11T04:28:05+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-11 03:56:52 UTC 2026-11-11 03:56:52 UTC at epicenter Location 36.149°N 142.185°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI is a tool. Stop treating it like a strategy** — Score 15, observation — [Quelle](https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-11T03:00:08+00:00`, fetched `2026-11-11T03:04:15+00:00`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-11T04:18:44+00:00_
+_Generated: 2026-11-11T04:28:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-11T04:18:44+00:00_
 - url: https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/
 - summary: Subscription businesses have spent the past two decades making revenue more predictable. Instead of selling a product once and persuading the customer to buy again, they persuade the customer to keep paying every month or every year. That creates an important…
 
-### 3. AI is a tool. Stop treating it like a strategy
+### 3. M 4.6 - 130 km ENE of Hasaki, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-11T04:19:26.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgg
+- summary: Time 2026-11-11 03:56:52 UTC 2026-11-11 03:56:52 UTC at epicenter Location 36.149°N 142.185°E Depth 10.00 km (6.21 mi)
+
+### 4. AI is a tool. Stop treating it like a strategy
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-11-11T03:00:08+00:00`
 - url: https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/
 - summary: There is a version of a Swiss army knife that does everything. It has a blade, a saw, scissors, a bottle opener, a USB drive, a laser pointer. When you reach for it, you are always holding something that can do something. But when you need to tighten a specif…
-
-### 4. Movable Typeにおけるコードインジェクションの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-11T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN11786640/
-- summary: シックス・アパート株式会社が提供するMovable Typeには、ダイナミックパブリッシング機能にコードインジェクションの脆弱性が存在します。
 
 ### 5. M 4.7 - 130 km W of Tofino, Canada
 - source: USGS M4.5+ Earthquakes Past Hour
