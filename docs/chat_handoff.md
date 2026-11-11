@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-11T23:15:11+00:00_
+_Generated: 2026-11-11T23:22:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `75`
+- findings: `77`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-11T23:15:11+00:00_
 - url: https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html
 - summary: Aus Microsofts Security Update Guide geht hervor, dass die Entwickler knapp 1100 Sicherheitslücken in Office, Windows & Co. geschlossen haben.
 
-### 8. M 5.0 - 48 km NW of Ancud, Chile
+### 8. M 4.6 - 73 km NNW of Gyalshing, India
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-11-11T19:36:42.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq
-- summary: Time 2026-11-11 19:21:17 UTC 2026-11-11 19:21:17 UTC at epicenter Location 41.523°S 74.176°W Depth 34.89 km (21.68 mi)
+- published: `2026-11-11T23:16:16.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpk
+- summary: Time 2026-11-11 23:00:22 UTC 2026-11-11 23:00:22 UTC at epicenter Location 27.869°N 87.886°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
