@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T05:49:19+00:00",
-  "run_id": "2026-11-11T05:49:19+00:00",
+  "generated_at": "2026-11-11T05:57:28+00:00",
+  "run_id": "2026-11-11T05:57:28+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 28,
     "displayed_findings": 28,
     "high": 0,
@@ -1413,64 +1413,7 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.0 - 152 km SE of Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-11T05:42:52.040+00:00",
-      "fetched_at": "2026-11-11T05:48:49+00:00",
-      "summary": "Time 2026-11-11 05:26:28 UTC 2026-11-11 05:26:28 UTC at epicenter Location 44.392°N 149.406°E Depth 30.34 km (18.85 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "6d778cf9fff5fb8f6626"
-    },
-    {
-      "title": "ShopBack’s Justin Lee on why it let Meta’s Muse in while Amazon shut the door",
-      "url": "https://e27.co/shopbacks-justin-lee-on-why-it-let-metas-muse-in-while-amazon-shut-the-door-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-11T05:42:14+00:00",
-      "fetched_at": "2026-11-11T05:48:49+00:00",
-      "summary": "When Meta switched on Muse in Singapore last month, ShopBack was one of eight launch connectors the agent could plug into. In the US, Amazon had taken a different view. It blocked Muse within 12 days of launch, complaining in part that an agent shopping for a customer bypasses the personalisation built into its store. […] The post ShopBack’s Justin Lee on why it let Meta’s Muse in while Amazon shut the door appeared…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d25fc35adfc74931677a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
