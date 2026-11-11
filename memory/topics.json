@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-11T12:33:40+00:00",
+  "generated_at": "2026-11-11T12:43:29+00:00",
   "topics": {
     "security": [
       {
@@ -47,6 +47,13 @@
         "url": "https://jvn.jp/vu/JVNVU93068550/"
       },
       {
+        "title": "[UPDATE] [mittel] MIT Kerberos: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T12:32:04+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1290"
+      },
+      {
         "title": "Movable Typeにおけるコードインジェクションの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-11T12:00:00+09:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-11T10:42:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4370"
-      },
-      {
-        "title": "[UPDATE] [hoch] Octopus Deploy: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T10:42:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4434"
       }
     ],
     "ai": [
