@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-11T11:36:57Z",
+  "generated_at": "2026-11-11T14:22:45Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
       "krass": 9,
-      "strong": 18,
-      "watch": 11
+      "strong": 20,
+      "watch": 9
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 27,
-      "watch": 11
+      "strong": 29,
+      "watch": 9
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4442",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-11T06:27:01+00:00",
-      "age_days": 0.22,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4440",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-11T09:22:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU93337738/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T14:15:00+09:00",
-      "age_days": 0.27,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://jvn.jp/vu/JVNVU93068550/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T13:30:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -117,11 +117,59 @@
       "summary": "フェンリル株式会社が提供するSleipnir Mobile for iPhone / iPadおよびSleipnir Mobile for iPhone / iPad Black Editionには、不適切な証明書検証の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] git für Windows: Mehrere Schwachstellen ermöglichen Manipulation von Dateien und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3611",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-11T13:02:17+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in git ausnutzen, um Dateien zu manipulieren und Denial-of-Service-Zustände zu verursachen."
+    },
+    {
+      "title": "[UPDATE] [mittel] MIT Kerberos: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1290",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-11T12:32:04+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MIT Kerberos ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "Movable Typeにおけるコードインジェクションの脆弱性",
       "url": "https://jvn.jp/jp/JVN11786640/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T12:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -145,7 +193,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4370",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-11T10:42:01+00:00",
-      "age_days": 0.04,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -169,7 +217,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4434",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-11T10:42:01+00:00",
-      "age_days": 0.04,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -193,7 +241,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4421",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-11T09:12:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -217,7 +265,7 @@
       "url": "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 145.16,
+      "age_days": 145.28,
       "topics": [
         "security"
       ],
@@ -234,7 +282,7 @@
       "why": [
         "momentum delta +3",
         "security high-signal: microsoft",
-        "aging penalty -8.0 for 145.2d old signal"
+        "aging penalty -8.0 for 145.3d old signal"
       ],
       "summary": ""
     },
@@ -243,7 +291,7 @@
       "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:33:53+00:00",
-      "age_days": 0.29,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security",
@@ -273,7 +321,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4441",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-11T06:27:01+00:00",
-      "age_days": 0.22,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -299,7 +347,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-11-11T02:55:56+00:00",
-      "age_days": 0.36,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -325,7 +373,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4435",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-11T11:22:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -351,7 +399,7 @@
       "url": "https://e27.co/governance-gap-in-business-critical-email-20261017-2/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:30:44+00:00",
-      "age_days": 0.3,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security",
@@ -381,7 +429,7 @@
       "url": "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-11T08:33:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -407,7 +455,7 @@
       "url": "https://e27.co/1-89-million-bpo-workers-53500-training-seats-the-philippiness-ai-maths-doesnt-add-up-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:08:03+00:00",
-      "age_days": 0.31,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -433,7 +481,7 @@
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:04:29+00:00",
-      "age_days": 0.44,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -460,7 +508,7 @@
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:00:45+00:00",
-      "age_days": 0.44,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -487,7 +535,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 145.4,
+      "age_days": 145.52,
       "topics": [
         "general"
       ],
@@ -505,7 +553,7 @@
         "momentum delta +3",
         "high terms: rce, 10",
         "security high-signal: rce, 10",
-        "aging penalty -8.0 for 145.4d old signal",
+        "aging penalty -8.0 for 145.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -515,7 +563,7 @@
       "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:34:52+00:00",
-      "age_days": 0.29,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -542,7 +590,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4441",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 74.89,
+      "age_days": 75.01,
       "topics": [
         "security"
       ],
@@ -553,15 +601,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 10.0,
+      "baseline_z_hint": 4.19,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 10.00",
+        "baseline z_hint 4.19",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 74.9d old signal",
+        "aging penalty -8.0 for 75.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -571,7 +619,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T10:15:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -597,7 +645,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Cisco-BroadWorks-Barracuda-ESG-und-weitere-Produkte-beobachtet-11520190.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-11T09:34:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -622,7 +670,7 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-11T08:57:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security"
@@ -648,7 +696,7 @@
       "url": "https://jvn.jp/vu/JVNVU93337738/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T05:20:19+00:00",
-      "age_days": 0.26,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -672,7 +720,7 @@
       "url": "https://jvn.jp/vu/JVNVU93068550/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T04:34:52+00:00",
-      "age_days": 0.29,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -696,7 +744,7 @@
       "url": "https://e27.co/3-ways-the-edge-grant-changes-how-a-sensible-sme-buys-software-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:18:47+00:00",
-      "age_days": 0.3,
+      "age_days": 0.42,
       "topics": [],
       "dynamics_score": 23.0,
       "raw_band": "strong",
@@ -720,7 +768,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-11-11T11:21+09:00",
-      "age_days": 0.39,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -744,7 +792,7 @@
       "url": "https://e27.co/how-hostinger-is-helping-solo-founders-in-southeast-asia-go-from-idea-to-paying-customers-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T07:02:46+00:00",
-      "age_days": 0.19,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -768,7 +816,7 @@
       "url": "https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T03:30:11+00:00",
-      "age_days": 0.34,
+      "age_days": 0.45,
       "topics": [
         "macro"
       ],
@@ -792,7 +840,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-11T02:34:44.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -817,7 +865,7 @@
       "url": "https://e27.co/3-ways-the-edge-grant-changes-how-a-sensible-sme-buys-software-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:00:59+00:00",
-      "age_days": 0.32,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -844,7 +892,7 @@
       "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-11T00:10:31+00:00",
-      "age_days": 0.48,
+      "age_days": 0.59,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -868,7 +916,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-11T02:39:42+00:00",
-      "age_days": 0.37,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -888,36 +936,35 @@
       "summary": ""
     },
     {
-      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
-      "url": "https://jvn.jp/jp/JVN11786640/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-07T05:38:32+00:00",
-      "age_days": 35.25,
+      "title": "M 5.1 - Pulau Pulau Tanimbar, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txir",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-11T11:55:02.040+00:00",
+      "age_days": 0.1,
       "topics": [
-        "general"
+        "disaster"
       ],
-      "dynamics_score": 18.01,
+      "dynamics_score": 18.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "aging penalty -5.0 for 35.2d old signal"
+        "early terms: earthquake"
       ],
-      "summary": ""
+      "summary": "Time 2026-11-11 11:32:24 UTC 2026-11-11 11:32:24 UTC at epicenter Location 7.945°S 130.251°E Depth 14.70 km (9.14 mi)"
     },
     {
       "title": "「AIで漏洩した？と思うくらいに同感同意」キャリア女性のロールモデルとして、メチャクチャ有能な働きマンを出されても困るという話に賛同が集まる",
       "url": "https://togetter.com/li/2769100",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T02:16:09+00:00",
-      "age_days": 0.39,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -940,88 +987,40 @@
       "summary": "キャリア女性のロールモデルと称してゴリラをお出ししないでほしい｜おたま 戦略コンサルからのスカウトに「今後出産も控えているためワークライフバランスを懸念している」と聞く人が聞けばほぼお断りみたいなことを言ったら、 「お子さんを2人抱えながら戦略コンサルでフルタイム稼働し… 1 user note（ノート） おたま..."
     },
     {
+      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN11786640/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-07T05:38:32+00:00",
+      "age_days": 35.36,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.97,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -5.0 for 35.4d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ISUCON2026 で優勝しました（準備編）",
       "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T15:50:59+00:00",
-      "age_days": 8.82,
+      "age_days": 8.94,
       "topics": [
         "general"
       ],
       "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-11T08:04:51+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.1 - Balleny Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-11T06:38:53.040+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-11 06:21:45 UTC 2026-11-11 06:21:45 UTC at epicenter Location 62.428°S 155.021°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.7 - 152 km WSW of Merizo Village, Guam",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi0",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-11T09:18:10+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
