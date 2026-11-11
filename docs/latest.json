@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T08:47:09+00:00",
-  "run_id": "2026-11-11T08:47:09+00:00",
+  "generated_at": "2026-11-11T09:04:03+00:00",
+  "run_id": "2026-11-11T09:04:03+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
     "medium": 10,
-    "observe": 28,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -772,6 +772,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bc1c03ba3681e4a960e8"
+      },
+      {
+        "title": "Patchday Adobe: Kritische Lücken mit Höchstwertung bedrohen Connect",
+        "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-11-11T08:57:00.000+00:00",
+        "fetched_at": "2026-11-11T09:03:33+00:00",
+        "summary": "Angreifer können mehrere Softwareprodukte von Adobe attackieren und die volle Kontrolle über PCs erlangen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "da550f913db13fbc0d72"
       },
       {
         "title": "デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました",
@@ -1725,6 +1745,26 @@
       "id": "bc1c03ba3681e4a960e8"
     },
     {
+      "title": "Patchday Adobe: Kritische Lücken mit Höchstwertung bedrohen Connect",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-11T08:57:00.000+00:00",
+      "fetched_at": "2026-11-11T09:03:33+00:00",
+      "summary": "Angreifer können mehrere Softwareprodukte von Adobe attackieren und die volle Kontrolle über PCs erlangen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "da550f913db13fbc0d72"
+    },
+    {
       "title": "デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました",
       "url": "https://www.digital.go.jp/procurement/bid-surveillance-commission/a9362957-7d08-4278-b57d-8a0787c3e679",
       "source": "Japan Digital Agency News RSS",
@@ -1933,25 +1973,24 @@
   ],
   "new_findings": [
     {
-      "title": "Microsoft-Patchday: Attacken auf Outlook beobachtet",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html",
+      "title": "Patchday Adobe: Kritische Lücken mit Höchstwertung bedrohen Connect",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html",
       "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-11-11T08:33:00.000+00:00",
-      "fetched_at": "2026-11-11T08:46:40+00:00",
-      "summary": "Aus Microsofts Security Update Guide geht hervor, dass die Entwickler knapp 1100 Sicherheitslücken in Office, Windows & Co. geschlossen haben.",
+      "published_at": "2026-11-11T08:57:00.000+00:00",
+      "fetched_at": "2026-11-11T09:03:33+00:00",
+      "summary": "Angreifer können mehrere Softwareprodukte von Adobe attackieren und die volle Kontrolle über PCs erlangen.",
       "matched_keywords": [
-        "Content-Chance",
         "Security"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+6.0); Content-Chance (+5.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "42430730ee8db58915ae"
+      "id": "da550f913db13fbc0d72"
     }
   ],
   "source_errors": [],

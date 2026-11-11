@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T08:47:09+00:00_
+_Generiert: 2026-11-11T09:04:03+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+39 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -258,6 +258,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The personal finance app for everyone (by everyone) https://sure.am Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues Important This repository is a community fork of the now-abandoned Maybe Finance project. Learn more in their final release doc. Backstory The Maybe Finance (archived/abandoned repo) team spent most…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Patchday Adobe: Kritische Lücken mit Höchstwertung bedrohen Connect** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-11T08:57:00.000+00:00`, fetched `2026-11-11T09:03:33+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer können mehrere Softwareprodukte von Adobe attackieren und die volle Kontrolle über PCs erlangen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/bid-surveillance-commission/a9362957-7d08-4278-b57d-8a0787c3e679)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-11T06:00:00+00:00`, fetched `2026-11-11T06:07:14+00:00`
@@ -266,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub App support for Enterprise Copilot seat management** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-11T00:10:31+00:00`, fetched `2026-11-11T00:46:30+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

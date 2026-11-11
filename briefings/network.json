@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T08:47:13+00:00",
+  "generated_at": "2026-11-11T09:04:07+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 38,
+    "findings": 39,
     "clusters": 36,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -215,11 +215,12 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html"
+        "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html",
+        "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html"
       ],
-      "finding_count": 1,
+      "finding_count": 2,
       "max_score": 12,
-      "credibility_total": 1.05,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
@@ -227,7 +228,7 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.1,
+      "raw_network_score": 19.2,
       "ranking_score": 16.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
@@ -533,18 +534,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.77,
+      "network_score": 11.74,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.2,
-      "ranking_score": 11.77,
+      "ranking_score": 11.74,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.27,
+      "baseline_bonus": 0.24,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1401,7 +1402,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-11T08:47:13Z",
+    "generated_at": "2026-11-11T09:04:08Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
