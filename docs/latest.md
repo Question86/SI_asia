@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T04:00:23+00:00_
+_Generiert: 2026-11-11T04:18:44+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+17 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases November 2026 Security Updates
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **1.89 million BPO workers, 53,500 training seats: The Philippines’s AI maths doesn’t add up** — Score 10, observation — [Quelle](https://e27.co/1-89-million-bpo-workers-53500-training-seats-the-philippiness-ai-maths-doesnt-add-up-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-11T04:08:03+00:00`, fetched `2026-11-11T04:18:13+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
+  - Kurz: Industry bodies rarely talk down their own industries. So when the IT and Business Process Association of the Philippines (IBPAP) rewrote its 2028 roadmap in July, the revision said more than any press release could. The workforce target fell from 2.5 million to a best-case 2.14 million, and the revenue goal dropped from US$59 billion […] The post 1.89 million BPO workers, 53,500 training seats: The Philippines’s AI…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?** — Score 10, observation — [Quelle](https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-11T03:20:23+00:00`, fetched `2026-11-11T03:29:41+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: Grab started life in Malaysia as a taxi-booking app. Fourteen years on, it is heading back to its birthplace with a far heavier load: AI data centres. SoftBank Group and Grab Holdings have signed joint development agreements with Petroleum Sarawak (PETROS), the Sarawak state oil and gas company, to build AI infrastructure across Sarawak and […] The post SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **It doesn’t matter how we use AI, we are all in trouble** — Score 8, observation — [Quelle](https://e27.co/it-doesnt-matter-how-we-use-ai-we-are-all-in-trouble-20261109/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-11T02:00:11+00:00`, fetched `2026-11-11T02:11:31+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: AI helped me enter a world I once watched from the outside. Now I worry about what happens if that world pulls the ladder up. I am self-taught. My rise in AI technology began through my work building OnTheRice. I use AI to help research, connect information and build systems. It has expanded what I […] The post It doesn’t matter how we use AI, we are all in trouble appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub App support for Enterprise Copilot seat management** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management)
   - Quelle: GitHub Changelog Atom / `rss`
