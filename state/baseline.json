@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T00:56:06+00:00",
+  "generated_at": "2026-11-11T01:04:29+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "updated_at": "2026-11-11T00:56:06+00:00",
+      "updated_at": "2026-11-11T01:04:29+00:00",
       "network_scores": [
-        22.3,
         22.3,
         22.3,
         27.4,
@@ -130,12 +129,13 @@
         24.4,
         24.4,
         15.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 23.57,
+      "rolling_average": 23.23,
       "rolling_peak": 27.4,
       "last_score": 12.1,
-      "z_hint": -11.47
+      "z_hint": -11.13
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -113420,7 +113420,34 @@
     },
     "url:https://wirelesswire.jp/2026/11/94886/": {
       "title": "おやすみ、インターネットの時代",
-      "updated_at": "2026-11-11T00:56:06+00:00",
+      "updated_at": "2026-11-11T01:04:29+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.85,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.75
+    },
+    "title:github-app-support-enterprise-copilot-seat-management": {
+      "title": "GitHub App support for Enterprise Copilot seat management",
+      "updated_at": "2026-11-11T01:04:29+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -1.0
+    },
+    "url:https://www.itmedia.co.jp/news/article/2611/11/2000002913/": {
+      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
+      "updated_at": "2026-11-11T01:04:29+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -113431,29 +113458,27 @@
       "last_score": 7.1,
       "z_hint": -1.0
     },
-    "title:github-app-support-enterprise-copilot-seat-management": {
-      "title": "GitHub App support for Enterprise Copilot seat management",
-      "updated_at": "2026-11-11T00:56:06+00:00",
+    "title:what-happens-subscription-economy-when-agents-review-every": {
+      "title": "What happens to the subscription economy when AI agents review every payment?",
+      "updated_at": "2026-11-11T01:04:29+00:00",
       "network_scores": [
-        11.1,
-        8.1
+        22.1
       ],
-      "rolling_average": 9.6,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -1.5
+      "rolling_average": 22.1,
+      "rolling_peak": 22.1,
+      "last_score": 22.1,
+      "z_hint": 0.0
     },
-    "url:https://www.itmedia.co.jp/news/article/2611/11/2000002913/": {
-      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
-      "updated_at": "2026-11-11T00:56:06+00:00",
+    "title:softbank-grab-put-85b-down-5gw-bet-malaysia": {
+      "title": "SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia",
+      "updated_at": "2026-11-11T01:04:29+00:00",
       "network_scores": [
-        10.1,
-        7.1
+        15.1
       ],
-      "rolling_average": 8.6,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.5
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
     }
   }
 }
