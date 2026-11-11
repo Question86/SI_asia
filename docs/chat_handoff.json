@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-11T04:28:34+00:00",
+  "generated_at": "2026-11-11T04:34:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 3,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 5,
-    "observe": 13
+    "medium": 7,
+    "observe": 14
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "summary": "OpenSSL ProjectからOpenSSL Security Advisory [10th November 2026]が公開されました。",
+      "section": "medium"
+    },
+    {
+      "title": "Singapore is paying startups to secure the AI agents it is racing to deploy",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-11T04:33:53+00:00",
+      "relevance_score": 23,
+      "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/",
+      "summary": "Singapore’s cyber agency has a new worry list, and it reads like the agenda of every AI conference this year: agents talking to other agents, quantum computers that don’t yet exist, and small firms with nobody watching the network. On Tuesday, at CyberSG Inno…",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgg",
       "summary": "Time 2026-11-11 03:56:52 UTC 2026-11-11 03:56:52 UTC at epicenter Location 36.149°N 142.185°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "AI is a tool. Stop treating it like a strategy",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-11T03:00:08+00:00",
-      "relevance_score": 15,
-      "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
-      "summary": "There is a version of a Swiss army knife that does everything. It has a blade, a saw, scissors, a bottle opener, a USB drive, a laser pointer. When you reach for it, you are always holding something that can do something. But when you need to tighten a specif…",
       "section": "medium"
     },
     {
