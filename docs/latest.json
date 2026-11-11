@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-11T06:07:41+00:00",
-  "run_id": "2026-11-11T06:07:41+00:00",
+  "generated_at": "2026-11-11T06:27:43+00:00",
+  "run_id": "2026-11-11T06:27:43+00:00",
   "date": "2026-11-11",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 8,
-    "observe": 21,
-    "source_errors": 0
+    "observe": 22,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -635,6 +635,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a22da6a3b979b2f5a15b"
+      },
+      {
+        "title": "Notion AIのチャット記録が委託先から流出した可能性についてまとめてみた - piyolog",
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/125745",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-11T04:18:22+00:00",
+        "fetched_at": "2026-11-11T06:27:04+00:00",
+        "summary": "2026年11月9日、Notionは、委託先のFireworks AIで発生したセキュリティインシデントにより、Notion AIの一部のチャット記録が流出した可能性があると公表しました。ここでは関連する情報をまとめます。 Fireworksで2経路の侵入 Notionが利用していた推論基盤のFireworksでは、2026年10月に内部認証情報の不正使用が見つ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "554e4b82cb64f93cf836"
       },
       {
         "title": "「またAIの見え方変わった」ダウン症で知的障害のある弟とのやりとりに、AIを活用したら解決できることが増えたという話に注目が集まる",
@@ -1349,6 +1370,27 @@
       "id": "a22da6a3b979b2f5a15b"
     },
     {
+      "title": "Notion AIのチャット記録が委託先から流出した可能性についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/125745",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-11T04:18:22+00:00",
+      "fetched_at": "2026-11-11T06:27:04+00:00",
+      "summary": "2026年11月9日、Notionは、委託先のFireworks AIで発生したセキュリティインシデントにより、Notion AIの一部のチャット記録が流出した可能性があると公表しました。ここでは関連する情報をまとめます。 Fireworksで2経路の侵入 Notionが利用していた推論基盤のFireworksでは、2026年10月に内部認証情報の不正使用が見つ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "554e4b82cb64f93cf836"
+    },
+    {
       "title": "「またAIの見え方変わった」ダウン症で知的障害のある弟とのやりとりに、AIを活用したら解決できることが増えたという話に注目が集まる",
       "url": "https://togetter.com/li/2769126",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1455,27 +1497,35 @@
   ],
   "new_findings": [
     {
-      "title": "デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました",
-      "url": "https://www.digital.go.jp/procurement/bid-surveillance-commission/a9362957-7d08-4278-b57d-8a0787c3e679",
-      "source": "Japan Digital Agency News RSS",
+      "title": "Notion AIのチャット記録が委託先から流出した可能性についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/125745",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-11T06:00:00+00:00",
-      "fetched_at": "2026-11-11T06:07:14+00:00",
-      "summary": "デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました",
+      "published_at": "2026-11-11T04:18:22+00:00",
+      "fetched_at": "2026-11-11T06:27:04+00:00",
+      "summary": "2026年11月9日、Notionは、委託先のFireworks AIで発生したセキュリティインシデントにより、Notion AIの一部のチャット記録が流出した可能性があると公表しました。ここでは関連する情報をまとめます。 Fireworksで2経路の侵入 Notionが利用していた推論基盤のFireworksでは、2026年10月に内部認証情報の不正使用が見つ...",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "699aeb19a090a638b05a"
+      "id": "554e4b82cb64f93cf836"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f80fedd89d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
