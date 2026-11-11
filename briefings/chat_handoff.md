@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-11T11:48:52+00:00_
+_Generated: 2026-11-11T11:54:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `49`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-11T11:48:52+00:00_
 - url: https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html
 - summary: Aus Microsofts Security Update Guide geht hervor, dass die Entwickler knapp 1100 Sicherheitslücken in Office, Windows & Co. geschlossen haben.
 
-### 8. M 4.7 - 130 km W of Tofino, Canada
+### 8. M 5.1 - 27 km WSW of Calama, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-11-11T02:34:44.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz
-- summary: Time 2026-11-11 01:45:27 UTC 2026-11-11 01:45:27 UTC at epicenter Location 49.088°N 127.691°W Depth 10.00 km (6.21 mi)
+- published: `2026-11-11T11:52:25.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis
+- summary: Time 2026-11-11 11:36:51 UTC 2026-11-11 11:36:51 UTC at epicenter Location 22.543°S 69.169°W Depth 91.31 km (56.74 mi)
 
 END OF DOCUMENT

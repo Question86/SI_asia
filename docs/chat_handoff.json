@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-11T11:48:52+00:00",
+  "generated_at": "2026-11-11T11:54:52+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 1,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
     "medium": 15,
-    "observe": 33
+    "observe": 34
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "M 4.7 - 130 km W of Tofino, Canada",
+      "title": "M 5.1 - 27 km WSW of Calama, Chile",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-11T02:34:44.040+00:00",
+      "published_at": "2026-11-11T11:52:25.040+00:00",
       "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
-      "summary": "Time 2026-11-11 01:45:27 UTC 2026-11-11 01:45:27 UTC at epicenter Location 49.088°N 127.691°W Depth 10.00 km (6.21 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis",
+      "summary": "Time 2026-11-11 11:36:51 UTC 2026-11-11 11:36:51 UTC at epicenter Location 22.543°S 69.169°W Depth 91.31 km (56.74 mi)",
       "section": "observe"
     }
   ],
