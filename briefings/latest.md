@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T06:27:43+00:00_
+_Generiert: 2026-11-11T06:41:03+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+33 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -84,6 +84,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Subscription businesses have spent the past two decades making revenue more predictable. Instead of selling a product once and persuading the customer to buy again, they persuade the customer to keep paying every month or every year. That creates an important advantage: once the subscription has started, continuing to pay usually requires no decision at […] The post What happens to the subscription economy when AI a…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [UNGEPATCHT] [hoch] Siemens SIMATIC: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4441)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-11T06:27:01+00:00`, fetched `2026-11-11T06:40:35+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Siemens SIMATIC ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Programmcode mit Benutzerrechten auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [UNGEPATCHT] [hoch] Siemens SIMATIC WinCC: Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4442)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-11T06:27:01+00:00`, fetched `2026-11-11T06:40:35+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Siemens SIMATIC WinCC ausnutzen, um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 130 km ENE of Hasaki, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-11T04:19:26.040+00:00`, fetched `2026-11-11T04:28:05+00:00`
@@ -186,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: As anticipated yesterday, Bitcoin fell below US$73,000 and touched a nearly three-month low after the October US CPI report came in hotter than forecast. Headline CPI rose 0.4 per cent month over month against a 0.3 per cent expectation, while core CPI rose 0.3 per cent against a 0.2 per cent expectation. Bitcoin was down […] The post CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-11T06:38:53.040+00:00`, fetched `2026-11-11T06:40:35+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-11 06:21:45 UTC 2026-11-11 06:21:45 UTC at epicenter Location 62.428°S 155.021°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 152 km SE of Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-11T05:42:52.040+00:00`, fetched `2026-11-11T05:48:49+00:00`
@@ -250,7 +277,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f80fedd89d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
