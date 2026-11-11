@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T07:34:04+00:00_
+_Generiert: 2026-11-11T07:42:38+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+36 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Copper is choking AI. Staera secures US$4.6M to swap it for light** — Score 13, observation — [Quelle](https://e27.co/copper-is-choking-ai-staera-secures-us4-6m-to-swap-it-for-light-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-11T07:40:52+00:00`, fetched `2026-11-11T07:42:09+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:chips_compute_datacenters
+  - Watchgraph: chips_compute_datacenters
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, XOM, CVX, SHEL
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules chips_compute_datacenters (+3.0)
+  - Kurz: Every new AI chip arrives with a bigger compute number. Fewer arrive with an honest admission that those chips increasingly sit idle, waiting for data to trickle in over copper wires that were never designed for this kind of workload. Singapore’s Staera Semiconductor is betting its future on that gap. The deeptech startup, formerly known […] The post Copper is choking AI. Staera secures US$4.6M to swap it for light…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How Hostinger is helping solo founders in Southeast Asia go from idea to paying customers** — Score 13, observation — [Quelle](https://e27.co/how-hostinger-is-helping-solo-founders-in-southeast-asia-go-from-idea-to-paying-customers-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-11T07:00:33+00:00`, fetched `2026-11-11T07:02:14+00:00`
@@ -150,15 +159,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Few organisations deliberately decide to run unsupported infrastructure. More often, a migration gets deferred, an upgrade slips behind other priorities, and a temporary decision becomes a permanent one. Over time, operational risk accumulates quietly until a vulnerability, outage or audit brings it into view. At that point, the issue is often described as a security […] The post Open code, unowned risk: The governa…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **1.89 million BPO workers, 53,500 training seats: The Philippines’s AI maths doesn’t add up** — Score 10, observation — [Quelle](https://e27.co/1-89-million-bpo-workers-53500-training-seats-the-philippiness-ai-maths-doesnt-add-up-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-11T04:08:03+00:00`, fetched `2026-11-11T04:18:13+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
-  - Kurz: Industry bodies rarely talk down their own industries. So when the IT and Business Process Association of the Philippines (IBPAP) rewrote its 2028 roadmap in July, the revision said more than any press release could. The workforce target fell from 2.5 million to a best-case 2.14 million, and the revenue goal dropped from US$59 billion […] The post 1.89 million BPO workers, 53,500 training seats: The Philippines’s AI…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-11T06:38:53.040+00:00`, fetched `2026-11-11T06:40:35+00:00`
