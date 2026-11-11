@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T23:01:16+00:00",
-  "run_id": "2026-11-11T23:01:16+00:00",
+  "generated_at": "2026-11-11T23:15:11+00:00",
+  "run_id": "2026-11-11T23:15:11+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 0,
     "medium": 24,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -1745,6 +1745,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "40b6d57363fb599227f4"
+      },
+      {
+        "title": "2026 年、すべての主要ブラウザで使えるようになった CSS 機能",
+        "url": "https://sterfield.co.jp/blog/blog-44/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-11T10:02:13+00:00",
+        "fetched_at": "2026-11-11T23:14:37+00:00",
+        "summary": "はじめに 2023 年に「2023 年の新しい CSS 機能」という記事を書きました。今回はその 2026 年版です。 2026 年は、Chrome・Firefox・Safari のすべてで使えるようになった CSS 機能がたくさんありました。その中には、これまで JavaScript を書かないとできなかったことが、CSS の数行でできるようになったものもありま...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aeeec5a4ad661b8acbca"
       },
       {
         "title": "最近、大学生と話して大変だなと思ったのが、AIに月に２万円くらい（Maxプラン相当）は課金していないと、周りに差がつけられる/おいていかれる+生活費も上がっている、のでさらに関係ないものも含めてバイトを増やさなければならないという事情。 圧倒的な格差の拡大が見えないところにある。→「これ、どこまで本当だろうか 情報系など一部の学部に限った話？ それとも水産学や経営学、日本文学、体育学など全般？」",
@@ -3632,6 +3653,27 @@
       "id": "40b6d57363fb599227f4"
     },
     {
+      "title": "2026 年、すべての主要ブラウザで使えるようになった CSS 機能",
+      "url": "https://sterfield.co.jp/blog/blog-44/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-11T10:02:13+00:00",
+      "fetched_at": "2026-11-11T23:14:37+00:00",
+      "summary": "はじめに 2023 年に「2023 年の新しい CSS 機能」という記事を書きました。今回はその 2026 年版です。 2026 年は、Chrome・Firefox・Safari のすべてで使えるようになった CSS 機能がたくさんありました。その中には、これまで JavaScript を書かないとできなかったことが、CSS の数行でできるようになったものもありま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aeeec5a4ad661b8acbca"
+    },
+    {
       "title": "最近、大学生と話して大変だなと思ったのが、AIに月に２万円くらい（Maxプラン相当）は課金していないと、周りに差がつけられる/おいていかれる+生活費も上がっている、のでさらに関係ないものも含めてバイトを増やさなければならないという事情。 圧倒的な格差の拡大が見えないところにある。→「これ、どこまで本当だろうか 情報系など一部の学部に限った話？ それとも水産学や経営学、日本文学、体育学など全般？」",
       "url": "https://posfie.com/@kalofollow/p/kDMLpbM",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3801,27 +3843,25 @@
   ],
   "new_findings": [
     {
-      "title": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ",
-      "url": "https://future-architect.github.io/articles/20261111a/",
+      "title": "2026 年、すべての主要ブラウザで使えるようになった CSS 機能",
+      "url": "https://sterfield.co.jp/blog/blog-44/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-11T01:20:40+00:00",
-      "fetched_at": "2026-11-11T23:00:42+00:00",
-      "summary": "秋のブログ週間2026 の記事です。 はじめにTIG（Technology Innovation Group）の真野です。 フューチャーでは、お客様との会議に出て、プロジェクトを提案・推進することを「フロントに立つ」と呼ぶことがあります1。お客様と直接やり取りすることはITコンサルタントの成長に不可欠ですし、マネジメント目線でも組織の...",
+      "published_at": "2026-11-11T10:02:13+00:00",
+      "fetched_at": "2026-11-11T23:14:37+00:00",
+      "summary": "はじめに 2023 年に「2023 年の新しい CSS 機能」という記事を書きました。今回はその 2026 年版です。 2026 年は、Chrome・Firefox・Safari のすべてで使えるようになった CSS 機能がたくさんありました。その中には、これまで JavaScript を書かないとできなかったことが、CSS の数行でできるようになったものもありま...",
       "matched_keywords": [
-        "GitHub",
         "Hatena",
-        "hotentry",
-        "technology"
+        "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); technology (+2.0); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "65f1a88bbbc7e4bd49f7"
+      "id": "aeeec5a4ad661b8acbca"
     }
   ],
   "source_errors": [],
