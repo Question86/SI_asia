@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T09:18:10+00:00",
-  "today_file_total": 42,
+  "generated_at": "2026-11-11T09:28:10+00:00",
+  "today_file_total": 43,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -14,15 +14,16 @@
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4441",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4442",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4440",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4421"
       ],
-      "finding_count": 3,
+      "finding_count": 4,
       "max_score": 16,
-      "credibility_total": 3.15,
+      "credibility_total": 4.2,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 25.3,
+      "network_score": 27.4,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -290,54 +291,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:gigazine.net",
-      "title": "ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 4.7 - 152 km wsw of merizo village, guam:4.7",
-      "title": "M 4.7 - 152 km WSW of Merizo Village, Guam",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi0"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "domain:openai.com",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "sources": [
@@ -466,6 +419,52 @@
       ],
       "urls": [
         "https://e27.co/1-89-million-bpo-workers-53500-training-seats-the-philippiness-ai-maths-doesnt-add-up-20261111/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:gigazine.net",
+      "title": "ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:cpi-broke-bitcoin-000-floor-what-happens-fed",
+      "title": "CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/"
       ],
       "finding_count": 1,
       "max_score": 10,

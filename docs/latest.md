@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T09:18:05+00:00_
+_Generiert: 2026-11-11T09:28:06+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+43 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -93,14 +93,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: フェンリル株式会社が提供するSleipnir Mobile for iPhone / iPadおよびSleipnir Mobile for iPhone / iPad Black Editionには、不適切な証明書検証の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] GStreamer: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4421)
+- **[UPDATE] [hoch] N-able N-Central: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4440)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-11T09:12:00+00:00`, fetched `2026-11-11T09:17:36+00:00`
+  - Zeit: published `2026-11-11T09:22:00+00:00`, fetched `2026-11-11T09:27:36+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in N-able N-Central ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Administratorrechte zu erlangen oder beliebigen Code und Betriebssystembefehle mit Root- oder Nable-Rechten auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -250,3 +250,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `restofworld_feed` (rss): 403 Client Error: Forbidden for url: https://restofworld.org/feed/latest/
