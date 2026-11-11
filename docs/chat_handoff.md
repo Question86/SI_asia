@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-11T02:48:56+00:00_
+_Generated: 2026-11-11T02:55:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `10`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-11-11T02:48:56+00:00_
 - url: https://openai.com/index/gilbert-tobin-sam-nickless
 - summary: A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.
 
-### 5. SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia
+### 5. Security Alert: Microsoft Releases November 2026 Security Updates
+- source: JPCERT/CC English Alerts
+- score: `10`
+- published: `2026-11-11T11:21+09:00`
+- url: https://www.jpcert.or.jp/english/at/2026/at260035.html
+- summary: Security Alert: Microsoft Releases November 2026 Security Updates
+
+### 6. SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-11-11T01:00:58+00:00`
 - url: https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/
 - summary: Grab started life in Malaysia as a taxi-booking app. Fourteen years on, it is heading back to its birthplace with a far heavier load: AI data centres. SoftBank Group and Grab Holdings have signed joint development agreements with Petroleum Sarawak (PETROS), t…
-
-### 6. It doesn’t matter how we use AI, we are all in trouble
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-11-11T02:00:11+00:00`
-- url: https://e27.co/it-doesnt-matter-how-we-use-ai-we-are-all-in-trouble-20261109/
-- summary: AI helped me enter a world I once watched from the outside. Now I worry about what happens if that world pulls the ladder up. I am self-taught. My rise in AI technology began through my work building OnTheRice. I use AI to help research, connect information a…
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T02:48:56+00:00_
+_Generiert: 2026-11-11T02:55:52+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+10 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -50,6 +50,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8)
   - Kurz: A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Security Alert: Microsoft Releases November 2026 Security Updates** — Score 10, observation — [Quelle](https://www.jpcert.or.jp/english/at/2026/at260035.html)
+  - Quelle: JPCERT/CC English Alerts / `rss`
+  - Zeit: published `2026-11-11T11:21+09:00`, fetched `2026-11-11T02:55:22+00:00`
+  - Treffer: JPCERT, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
+  - Kurz: Security Alert: Microsoft Releases November 2026 Security Updates
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia** — Score 10, observation — [Quelle](https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
