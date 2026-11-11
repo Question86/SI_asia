@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-11-11T02:29:45+00:00",
+  "generated_at": "2026-11-11T02:39:42+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "USGS earthquake M4.7 - 130 km W of Tofino, Canada",
+        "summary": "M4.7 - 130 km W of Tofino, Canada. PAGER alert: none. Tsunami flag: 1.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
+        "published_at": "2026-11-11T01:45:27+00:00",
+        "metrics": {
+          "mag": 4.7,
+          "alert": "",
+          "sig": 340.0,
+          "tsunami": 1
+        }
+      },
       {
         "domain": "security",
         "severity": "high",

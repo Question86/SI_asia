@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-11T02:29:43+00:00",
+  "generated_at": "2026-11-11T02:39:40+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 2,
-    "observe": 6
+    "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -33,6 +33,16 @@
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "summary": "Subscription businesses have spent the past two decades making revenue more predictable. Instead of selling a product once and persuading the customer to buy again, they persuade the customer to keep paying every month or every year. That creates an important…",
       "section": "medium"
+    },
+    {
+      "title": "M 4.7 - 130 km W of Tofino, Canada",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-11T02:34:44.040+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
+      "summary": "Time 2026-11-11 01:45:27 UTC 2026-11-11 01:45:27 UTC at epicenter Location 49.088°N 127.691°W Depth 10.00 km (6.21 mi)",
+      "section": "observe"
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -62,16 +72,6 @@
       "relevance_score": 8,
       "url": "https://e27.co/it-doesnt-matter-how-we-use-ai-we-are-all-in-trouble-20261109/",
       "summary": "AI helped me enter a world I once watched from the outside. Now I worry about what happens if that world pulls the ladder up. I am self-taught. My rise in AI technology began through my work building OnTheRice. I use AI to help research, connect information a…",
-      "section": "observe"
-    },
-    {
-      "title": "GitHub App support for Enterprise Copilot seat management",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-11T00:10:31+00:00",
-      "relevance_score": 6,
-      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "summary": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot s…",
       "section": "observe"
     }
   ],

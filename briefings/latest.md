@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T02:29:43+00:00_
+_Generiert: 2026-11-11T02:39:39+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+9 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **USGS earthquake M4.7 - 130 km W of Tofino, Canada** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz)
+  - Quelle: USGS
+  - Zeit: `2026-11-11T01:45:27+00:00`
+  - Kurz: M4.7 - 130 km W of Tofino, Canada. PAGER alert: none. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-124194 Microsoft Office** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
@@ -78,6 +82,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.7 - 130 km W of Tofino, Canada** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-11T02:34:44.040+00:00`, fetched `2026-11-11T02:39:10+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-11 01:45:27 UTC 2026-11-11 01:45:27 UTC at epicenter Location 49.088°N 127.691°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Gilbert + Tobin rethinks the business of law with AI** — Score 10, observation — [Quelle](https://openai.com/index/gilbert-tobin-sam-nickless)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-11T00:46:30+00:00`
