@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T17:35:03+00:00",
-  "run_id": "2026-11-11T17:35:03+00:00",
+  "generated_at": "2026-11-11T17:44:24+00:00",
+  "run_id": "2026-11-11T17:44:24+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 63,
     "displayed_findings": 63,
     "high": 0,
@@ -3207,29 +3207,7 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Issue types and fields are available for personal accounts",
-      "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-11T17:16:46+00:00",
-      "fetched_at": "2026-11-11T17:34:33+00:00",
-      "summary": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize… The post Issue types and fields are available for personal accounts appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Open Source"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Open Source (+3.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2888d1cff92e3d91ff06"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
