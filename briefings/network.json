@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:34:24+00:00",
+  "generated_at": "2026-11-11T10:43:08+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 45,
@@ -827,44 +827,6 @@
       "first_seen_at": "2026-11-11T02:39:42+00:00"
     },
     {
-      "key": "domain:www.techno-edge.net",
-      "title": "Google版AirTag『Pixel Tag』発売、10億台のAndroid端末で探す紛失防止トラッカー UWBと新技術『Bluetooth CS』採用 | テクノエッジ TechnoEdge",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.techno-edge.net/article/2026/11/11/5701.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.16,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 10.16,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.16,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-30T08:23:39+00:00"
-    },
-    {
       "key": "title:isucon2026",
       "title": "ISUCON2026 で優勝しました（準備編）",
       "sources": [
@@ -1330,6 +1292,44 @@
       "first_seen_at": "2026-11-11T06:27:45+00:00"
     },
     {
+      "key": "domain:www.techno-edge.net",
+      "title": "Google版AirTag『Pixel Tag』発売、10億台のAndroid端末で探す紛失防止トラッカー UWBと新技術『Bluetooth CS』採用 | テクノエッジ TechnoEdge",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.techno-edge.net/article/2026/11/11/5701.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-30T08:23:39+00:00"
+    },
+    {
       "key": "domain:note.kishidanami.com",
       "title": "「またAIの見え方変わった」ダウン症で知的障害のある弟とのやりとりに、AIを活用したら解決できることが増えたという話に注目が集まる",
       "sources": [
@@ -1522,7 +1522,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-11T10:34:25Z",
+    "generated_at": "2026-11-11T10:43:09Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T10:34:19+00:00",
-  "run_id": "2026-11-11T10:34:19+00:00",
+  "generated_at": "2026-11-11T10:43:03+00:00",
+  "run_id": "2026-11-11T10:43:03+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 45,
     "displayed_findings": 45,
     "high": 0,
@@ -2261,29 +2261,7 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Google版AirTag『Pixel Tag』発売、10億台のAndroid端末で探す紛失防止トラッカー UWBと新技術『Bluetooth CS』採用 | テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/11/11/5701.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-11T03:49:30+00:00",
-      "fetched_at": "2026-11-11T10:33:47+00:00",
-      "summary": "Googleが忘れ物防止・発見トラッカー Pixel Tagを国内で発売しました。11月11日から表参道のGoogle Store店頭で、翌12日からはオンラインでも購入できます。 価格はひとつ5010円、4つセットで1万6940円(4235円/個)。最近値上げしたAppleのAirTag (5480円 / 4個1840円)より定価ベースでやや安価です。 Pixel Tag はカギや...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9926eb610f33196ec816"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
