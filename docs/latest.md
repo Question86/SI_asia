@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T20:06:52+00:00_
+_Generiert: 2026-11-11T20:17:49+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+69 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -259,7 +259,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `ecb_press_policy` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

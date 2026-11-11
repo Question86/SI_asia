@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-11T20:06:52+00:00",
-  "status": "warning",
+  "generated_at": "2026-11-11T20:17:49+00:00",
+  "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "limited",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 1,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
     "medium": 24,
-    "observe": 44,
-    "source_errors": 1
+    "observe": 45,
+    "source_errors": 0
   },
-  "source_errors": [
-    {
-      "source_id": "ecb_press_policy",
-      "source_name": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    }
-  ],
+  "source_errors": [],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
