@@ -290,6 +290,52 @@
     "id": "3659a6275f741b44740a"
   },
   {
+    "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4370",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-11T10:42:01+00:00",
+    "fetched_at": "2026-11-11T10:49:14+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b39f70188cb287801957"
+  },
+  {
+    "title": "[UPDATE] [hoch] Octopus Deploy: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4434",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-11T10:42:01+00:00",
+    "fetched_at": "2026-11-11T10:49:14+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Octopus Deploy ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder Administratorrechte zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b65e941a30d30d805284"
+  },
+  {
     "title": "[UPDATE] [hoch] N-able N-Central: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4440",
     "source": "BSI CERT-Bund Security Advisories",
