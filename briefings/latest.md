@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T06:57:13+00:00_
+_Generiert: 2026-11-11T07:02:43+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+35 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **How Hostinger is helping solo founders in Southeast Asia go from idea to paying customers** — Score 13, observation — [Quelle](https://e27.co/how-hostinger-is-helping-solo-founders-in-southeast-asia-go-from-idea-to-paying-customers-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-11T07:00:33+00:00`, fetched `2026-11-11T07:02:14+00:00`
+  - Treffer: APAC Trend Radar, founder, Southeast Asia, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0)
+  - Kurz: You have an idea for a service or a small product. You have a free weekend and no developer. By Sunday night you also have a list: a domain, hosting, a site builder, a way to take payment, a mailing list, somewhere to keep customer data, and a plan for answering the same three questions […] The post How Hostinger is helping solo founders in Southeast Asia go from idea to paying customers appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 130 km W of Tofino, Canada** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-11T02:34:44.040+00:00`, fetched `2026-11-11T02:39:10+00:00`
@@ -194,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: Industry bodies rarely talk down their own industries. So when the IT and Business Process Association of the Philippines (IBPAP) rewrote its 2028 roadmap in July, the revision said more than any press release could. The workforce target fell from 2.5 million to a best-case 2.14 million, and the revenue goal dropped from US$59 billion […] The post 1.89 million BPO workers, 53,500 training seats: The Philippines’s AI…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?** — Score 10, observation — [Quelle](https://e27.co/cpi-at-0-4-broke-bitcoins-us73000-floor-what-happens-if-the-fed-goes-bigger-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-11T03:20:23+00:00`, fetched `2026-11-11T03:29:41+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: As anticipated yesterday, Bitcoin fell below US$73,000 and touched a nearly three-month low after the October US CPI report came in hotter than forecast. Headline CPI rose 0.4 per cent month over month against a 0.3 per cent expectation, while core CPI rose 0.3 per cent against a 0.2 per cent expectation. Bitcoin was down […] The post CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-11T06:57:13+00:00",
+  "generated_at": "2026-11-11T07:02:43+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 10,
-    "observe": 24
+    "observe": 25
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "How Hostinger is helping solo founders in Southeast Asia go from idea to paying customers",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-11T07:00:33+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/how-hostinger-is-helping-solo-founders-in-southeast-asia-go-from-idea-to-paying-customers-20261111/",
+      "summary": "You have an idea for a service or a small product. You have a free weekend and no developer. By Sunday night you also have a list: a domain, hosting, a site builder, a way to take payment, a mailing list, somewhere to keep customer data, and a plan for answer…",
+      "section": "observe"
+    },
+    {
       "title": "M 4.7 - 130 km W of Tofino, Canada",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 10,
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "section": "observe"
-    },
-    {
-      "title": "Security Alert: Microsoft Releases November 2026 Security Updates",
-      "source": "JPCERT/CC English Alerts",
-      "source_type": "rss",
-      "published_at": "2026-11-11T11:21+09:00",
-      "relevance_score": 10,
-      "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
-      "summary": "Security Alert: Microsoft Releases November 2026 Security Updates",
       "section": "observe"
     }
   ],
