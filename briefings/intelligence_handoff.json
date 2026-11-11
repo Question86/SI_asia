@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-11T03:12:17Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Security Alert: Microsoft Releases November 2026 Security Updates” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-11-11T03:24:27Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおけるコードインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,36 +11,11 @@
   ],
   "top_dynamics": [
     {
-      "title": "Security Alert: Microsoft Releases November 2026 Security Updates",
-      "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
-      "source": "JPCERT/CC English Alerts",
-      "published_at": "2026-11-11T02:55:56+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "security high-signal: security, microsoft"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Movable Typeにおけるコードインジェクションの脆弱性",
       "url": "https://jvn.jp/jp/JVN11786640/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T12:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -60,11 +35,37 @@
       "summary": "シックス・アパート株式会社が提供するMovable Typeには、ダイナミックパブリッシング機能にコードインジェクションの脆弱性が存在します。"
     },
     {
+      "title": "Security Alert: Microsoft Releases November 2026 Security Updates",
+      "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
+      "source": "JPCERT/CC English Alerts",
+      "published_at": "2026-11-11T02:55:56+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2",
+        "security high-signal: security, microsoft",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": ""
+    },
+    {
       "title": "What happens to the subscription economy when AI agents review every payment?",
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:04:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -91,7 +92,7 @@
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:00:45+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -118,7 +119,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 145.05,
+      "age_days": 145.06,
       "topics": [
         "general"
       ],
@@ -146,7 +147,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T10:15:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -190,60 +191,6 @@
         "security high-signal: security, microsoft"
       ],
       "summary": "Security Alert: Microsoft Releases November 2026 Security Updates"
-    },
-    {
-      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
-      "url": "https://jvn.jp/jp/JVN11786640/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-07T05:38:32+00:00",
-      "age_days": 34.9,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -4.9 for 34.9d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI is a tool. Stop treating it like a strategy",
-      "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-11T03:04:49+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     },
     {
       "title": "M 4.7 - 130 km W of Tofino, Canada",
@@ -299,7 +246,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-11T02:39:42+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -315,6 +262,58 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN11786640/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-07T05:38:32+00:00",
+      "age_days": 34.91,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.13,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -4.9 for 34.9d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AI is a tool. Stop treating it like a strategy",
+      "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T03:04:49+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     }

@@ -1,55 +1,30 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-11T03:12:17Z",
+  "generated_at": "2026-11-11T03:24:27Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 26,
     "bands": {
+      "krass": 2,
       "extreme": 1,
-      "krass": 1,
-      "strong": 5,
+      "strong": 4,
       "watch": 8,
-      "quiet": 9
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 7,
       "watch": 8,
-      "quiet": 9
+      "quiet": 11
     }
   },
   "top_dynamics": [
-    {
-      "title": "Security Alert: Microsoft Releases November 2026 Security Updates",
-      "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
-      "source": "JPCERT/CC English Alerts",
-      "published_at": "2026-11-11T02:55:56+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "security high-signal: security, microsoft"
-      ],
-      "summary": ""
-    },
     {
       "title": "Movable Typeにおけるコードインジェクションの脆弱性",
       "url": "https://jvn.jp/jp/JVN11786640/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T12:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -69,11 +44,37 @@
       "summary": "シックス・アパート株式会社が提供するMovable Typeには、ダイナミックパブリッシング機能にコードインジェクションの脆弱性が存在します。"
     },
     {
+      "title": "Security Alert: Microsoft Releases November 2026 Security Updates",
+      "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
+      "source": "JPCERT/CC English Alerts",
+      "published_at": "2026-11-11T02:55:56+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2",
+        "security high-signal: security, microsoft",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": ""
+    },
+    {
       "title": "What happens to the subscription economy when AI agents review every payment?",
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:04:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -100,7 +101,7 @@
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:00:45+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -127,7 +128,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 145.05,
+      "age_days": 145.06,
       "topics": [
         "general"
       ],
@@ -155,7 +156,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T10:15:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -199,60 +200,6 @@
         "security high-signal: security, microsoft"
       ],
       "summary": "Security Alert: Microsoft Releases November 2026 Security Updates"
-    },
-    {
-      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
-      "url": "https://jvn.jp/jp/JVN11786640/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-10-07T05:38:32+00:00",
-      "age_days": 34.9,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -4.9 for 34.9d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI is a tool. Stop treating it like a strategy",
-      "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-11T03:04:49+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     },
     {
       "title": "M 4.7 - 130 km W of Tofino, Canada",
@@ -308,7 +255,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-11T02:39:42+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -328,11 +275,63 @@
       "summary": ""
     },
     {
+      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN11786640/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-07T05:38:32+00:00",
+      "age_days": 34.91,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.13,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -4.9 for 34.9d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AI is a tool. Stop treating it like a strategy",
+      "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T03:04:49+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GitHub App support for Enterprise Copilot seat management",
       "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-11T00:47:01+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -356,7 +355,7 @@
       "url": "https://wirelesswire.jp/2026/11/94886/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T00:23:02+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -380,7 +379,7 @@
       "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T03:00:08+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro"
@@ -407,7 +406,7 @@
       "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:04:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -429,11 +428,35 @@
       "summary": ""
     },
     {
+      "title": "Stablecoins must act like bank money to win APAC businesses, survey suggests",
+      "url": "https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T03:20:07+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "It doesn’t matter how we use AI, we are all in trouble",
       "url": "https://e27.co/it-doesnt-matter-how-we-use-ai-we-are-all-in-trouble-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T02:12:03+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -459,7 +482,7 @@
       "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:00:58+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -485,7 +508,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T00:47:01+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -511,7 +534,7 @@
       "url": "https://e27.co/it-doesnt-matter-how-we-use-ai-we-are-all-in-trouble-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T02:00:11+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -537,7 +560,7 @@
       "url": "https://wirelesswire.jp/2026/11/94886/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T23:02:09+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -561,7 +584,7 @@
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 146.27,
+      "age_days": 146.28,
       "topics": [
         "ai"
       ],
@@ -632,7 +655,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "AI眼鏡で何ができるのか？ まず、AIグラスがどのように進化してきたのかを見てみよう。 AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google Glass」が草分けとされる。通常の眼鏡の外側にディスプレイが付いた構造で、一目で普通の眼鏡とは違うことが分かる。メモリは1GBでストレージは16GB。主..."
+    },
+    {
+      "title": "Stablecoins must act like bank money to win APAC businesses, survey suggests",
+      "url": "https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T03:09:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For a freelancer in Manila or a solo consultant in Ho Chi Minh City, the stressful part of cross-border invoicing is not the moment a client clicks “send”. It is the wait that follows, when the money is technically on its way but still missing from the bank account. A new survey from Morph, the […] The post Stablecoin…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Security Alert: Microsoft Releases November 2026 Security Updates” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Movable Typeにおけるコードインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
