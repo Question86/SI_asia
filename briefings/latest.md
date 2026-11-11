@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T03:04:45+00:00_
+_Generiert: 2026-11-11T03:20:04+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+13 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -167,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI眼鏡で何ができるのか？ まず、AIグラスがどのように進化してきたのかを見てみよう。 AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google Glass」が草分けとされる。通常の眼鏡の外側にディスプレイが付いた構造で、一目で普通の眼鏡とは違うことが分かる。メモリは1GBでストレージは16GB。主...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Stablecoins must act like bank money to win APAC businesses, survey suggests** — Score 4, observation — [Quelle](https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-11T03:09:46+00:00`, fetched `2026-11-11T03:19:37+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For a freelancer in Manila or a solo consultant in Ho Chi Minh City, the stressful part of cross-border invoicing is not the moment a client clicks “send”. It is the wait that follows, when the money is technically on its way but still missing from the bank account. A new survey from Morph, the […] The post Stablecoins must act like bank money to win APAC businesses, survey suggests appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

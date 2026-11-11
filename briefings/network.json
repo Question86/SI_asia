@@ -1,53 +1,15 @@
 {
-  "generated_at": "2026-11-11T03:04:49+00:00",
+  "generated_at": "2026-11-11T03:20:07+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 12,
-    "clusters": 12,
+    "findings": 13,
+    "clusters": 13,
     "cross_source_confrmed": 0,
-    "hot": 1,
+    "hot": 0,
     "early_signals": 1,
     "dominance_penalized": 1
   },
   "clusters": [
-    {
-      "key": "title:tool-stop-treating-like-strategy",
-      "title": "AI is a tool. Stop treating it like a strategy",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 24.5,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 20.1,
-      "ranking_score": 24.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-11T03:04:49+00:00"
-    },
     {
       "key": "title:openssl-2026",
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）",
@@ -87,42 +49,42 @@
       "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
-      "key": "title:movable-type",
-      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
+      "key": "title:tool-stop-treating-like-strategy",
+      "title": "AI is a tool. Stop treating it like a strategy",
       "sources": [
-        "JVN Japan Vulnerability Notes"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://jvn.jp/jp/JVN11786640/"
+        "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/"
       ],
       "finding_count": 1,
-      "max_score": 14,
+      "max_score": 15,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 19.16,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.0,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 19.1,
-      "ranking_score": 19.16,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 22.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.16,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-10-07T05:38:32+00:00"
+      "first_seen_at": "2026-11-11T03:04:49+00:00"
     },
     {
       "key": "title:what-happens-subscription-economy-when-agents-review-every",
@@ -163,6 +125,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-11T01:04:29+00:00"
+    },
+    {
+      "key": "title:movable-type",
+      "title": "Movable Typeにおけるコードインジェクションの脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN11786640/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-10-07T05:38:32+00:00"
     },
     {
       "key": "domain:openai.com",
@@ -358,6 +358,44 @@
       "first_seen_at": "2026-11-11T02:12:03+00:00"
     },
     {
+      "key": "title:stablecoins-must-act-like-bank-money-win-apac",
+      "title": "Stablecoins must act like bank money to win APAC businesses, survey suggests",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 8.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-11T03:20:07+00:00"
+    },
+    {
       "key": "title:github-app-support-enterprise-copilot-seat-management",
       "title": "GitHub App support for Enterprise Copilot seat management",
       "sources": [
@@ -474,7 +512,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-11T03:04:50Z",
+    "generated_at": "2026-11-11T03:20:08Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
