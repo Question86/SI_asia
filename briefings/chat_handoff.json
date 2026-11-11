@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-11T08:32:12+00:00",
+  "generated_at": "2026-11-11T08:47:09+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 1,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
     "medium": 10,
-    "observe": 27
+    "observe": 28
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Microsoft-Patchday: Attacken auf Outlook beobachtet",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-11T08:33:00.000+00:00",
+      "relevance_score": 12,
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html",
+      "summary": "Aus Microsofts Security Update Guide geht hervor, dass die Entwickler knapp 1100 Sicherheitslücken in Office, Windows & Co. geschlossen haben.",
+      "section": "observe"
+    },
+    {
       "title": "M 4.7 - 130 km W of Tofino, Canada",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
       "summary": "Time 2026-11-11 01:45:27 UTC 2026-11-11 01:45:27 UTC at epicenter Location 49.088°N 127.691°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
-    },
-    {
-      "title": "Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-10T12:56:40+00:00",
-      "relevance_score": 11,
-      "url": "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive",
-      "summary": "ハーネスは大事。坂東は...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,147 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Singapore is paying startups to secure the AI agents it is racing to deploy” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Singapore is paying startups to secure the AI agents it is racing to deploy",
-        "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-11T04:33:53+00:00",
-        "age_days": 0.17,
-        "topics": [
-          "axiom",
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Singapore’s cyber agency has a new worry list, and it reads like the agenda of every AI conference this year: agents talking to other agents, quantum computers that don’t yet exist, and small firms with nobody watching the network. On Tuesday, at CyberSG Innovation Day 2026, the Cyber Security Agency of Singapore (CSA…"
-      },
-      {
-        "title": "[UPDATE] [UNGEPATCHT] [hoch] Siemens SIMATIC: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4441",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T06:27:01+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Siemens SIMATIC ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Programmcode mit Benutzerrechten auszuführen."
-      },
-      {
-        "title": "[UPDATE] [UNGEPATCHT] [hoch] Siemens SIMATIC WinCC: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4442",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T06:27:01+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Siemens SIMATIC WinCC ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "Security Alert: Microsoft Releases November 2026 Security Updates",
-        "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
-        "source": "JPCERT/CC English Alerts",
-        "published_at": "2026-11-11T02:55:56+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "security high-signal: security, microsoft"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Open code, unowned risk: The governance gap in business-critical email",
-        "url": "https://e27.co/governance-gap-in-business-critical-email-20261017-2/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-11T04:30:44+00:00",
-        "age_days": 0.17,
-        "topics": [
-          "ai",
-          "security",
-          "infra",
-          "macro"
-        ],
-        "dynamics_score": 30.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: outage, outage",
-          "high terms: critical, code, 10",
-          "security high-signal: critical, code, 10"
-        ],
-        "summary": "Few organisations deliberately decide to run unsupported infrastructure. More often, a migration gets deferred, an upgrade slips behind other priorities, and a temporary decision becomes a permanent one. Over time, operational risk accumulates quietly until a vulnerability, outage or audit brings it into view. At that…"
-      }
-    ]
-  }
+  ]
 }
