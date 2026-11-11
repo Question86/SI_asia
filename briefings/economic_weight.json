@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T00:00:34+00:00",
+  "generated_at": "2026-11-11T00:23:22+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -39891,6 +39891,23 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9d67f274790c9a27c34d",
+      "title": "おやすみ、インターネットの時代",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-11T00:23:02+00:00",
+      "last_seen_at": "2026-11-11T00:23:02+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
