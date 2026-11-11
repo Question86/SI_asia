@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T15:55:35+00:00",
-  "run_id": "2026-11-11T15:55:35+00:00",
+  "generated_at": "2026-11-11T16:02:33+00:00",
+  "run_id": "2026-11-11T16:02:33+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 24,
-    "observe": 37,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -1014,6 +1014,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e925a02ede2eb581c819"
+      },
+      {
+        "title": "M 5.1 - South Sandwich Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txjg",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-11T15:57:41.040+00:00",
+        "fetched_at": "2026-11-11T16:02:04+00:00",
+        "summary": "Time 2026-11-11 15:39:25 UTC 2026-11-11 15:39:25 UTC at epicenter Location 56.025°S 27.737°W Depth 104.66 km (65.03 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "2d9f1246fd7a4e6fe07b"
       },
       {
         "title": "M 4.7 - 152 km WSW of Merizo Village, Guam",
@@ -2548,6 +2584,42 @@
       "id": "e925a02ede2eb581c819"
     },
     {
+      "title": "M 5.1 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txjg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-11T15:57:41.040+00:00",
+      "fetched_at": "2026-11-11T16:02:04+00:00",
+      "summary": "Time 2026-11-11 15:39:25 UTC 2026-11-11 15:39:25 UTC at epicenter Location 56.025°S 27.737°W Depth 104.66 km (65.03 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2d9f1246fd7a4e6fe07b"
+    },
+    {
       "title": "M 4.7 - 152 km WSW of Merizo Village, Guam",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3093,7 +3165,44 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.1 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txjg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-11T15:57:41.040+00:00",
+      "fetched_at": "2026-11-11T16:02:04+00:00",
+      "summary": "Time 2026-11-11 15:39:25 UTC 2026-11-11 15:39:25 UTC at epicenter Location 56.025°S 27.737°W Depth 104.66 km (65.03 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2d9f1246fd7a4e6fe07b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
