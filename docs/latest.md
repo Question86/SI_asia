@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T09:04:03+00:00_
+_Generiert: 2026-11-11T09:18:05+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+42 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: フェンリル株式会社が提供するSleipnir Mobile for iPhone / iPadおよびSleipnir Mobile for iPhone / iPad Black Editionには、不適切な証明書検証の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] GStreamer: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4421)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-11T09:12:00+00:00`, fetched `2026-11-11T09:17:36+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -168,6 +177,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Few organisations deliberately decide to run unsupported infrastructure. More often, a migration gets deferred, an upgrade slips behind other priorities, and a temporary decision becomes a permanent one. Over time, operational risk accumulates quietly until a vulnerability, outage or audit brings it into view. At that point, the issue is often described as a security […] The post Open code, unowned risk: The governa…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い** — Score 10, observation — [Quelle](https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-11T03:34:04+00:00`, fetched `2026-11-11T09:17:36+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: NVIDIAのジェンスン・フアンCEOがアメリカ当局に「中国のスパイ」と断定された女性と不倫していた問題で、女性はフアン氏との関係を利用して2023年以降、少なくとも75億ドル(約1兆1900億円)分のNVIDIA製半導体を中国に出荷していたことがわかりました。 How Jensen Huang’s Yearslong Ties to Alice Huang Enabled $7 Bi...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 152 km WSW of Merizo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txi0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-11T09:04:03.040+00:00`, fetched `2026-11-11T09:17:36+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-11 08:37:15 UTC 2026-11-11 08:37:15 UTC at epicenter Location 12.842°N 143.332°E Depth 137.37 km (85.36 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-11T06:38:53.040+00:00`, fetched `2026-11-11T06:40:35+00:00`
@@ -176,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-11 06:21:45 UTC 2026-11-11 06:21:45 UTC at epicenter Location 62.428°S 155.021°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 152 km SE of Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-11T05:42:52.040+00:00`, fetched `2026-11-11T05:48:49+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-11 05:26:28 UTC 2026-11-11 05:26:28 UTC at epicenter Location 44.392°N 149.406°E Depth 30.34 km (18.85 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ChatGPT Plus for veterans and servicemembers** — Score 8, observation — [Quelle](https://openai.com/index/chatgpt-plus-for-veterans)
   - Quelle: OpenAI News RSS / `rss`
@@ -221,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Angreifer können mehrere Softwareprodukte von Adobe attackieren und die volle Kontrolle über PCs erlangen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/bid-surveillance-commission/a9362957-7d08-4278-b57d-8a0787c3e679)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-11T06:00:00+00:00`, fetched `2026-11-11T06:07:14+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
