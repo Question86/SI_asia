@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T00:00:07+00:00_
+_Generiert: 2026-11-11T00:22:59+00:00_
 
 ## Kurzlage
 
-Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen.
+1 neue relevante Treffer. Stärkstes Signal: „おやすみ、インターネットの時代“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,6 @@ Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen.
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.
-- **GDACS: Green flood alert in Argentina** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104277)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Argentina
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:35km) in Guatemala 10/11/2026 14:54 UTC, 570 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576618)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,7 +61,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **おやすみ、インターネットの時代** — Score 5, observation — [Quelle](https://wirelesswire.jp/2026/11/94886/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-10T23:02:09+00:00`, fetched `2026-11-11T00:22:27+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: いや、待って。 まず2016年の話してもいい？ あのね、私にもあったはずなんです。2016年が。 去年、電撃結婚された方々や、惜しまれきって解散した方々や、不倫を超暴かれた方々と同様。多分、同じ日数くらいの2016年があったはずなんです。 （加藤はいね） その年は、年明け早々にデヴィッド・ボウイが死に、春には伯父...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
