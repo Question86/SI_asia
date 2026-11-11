@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T17:44:24+00:00_
+_Generiert: 2026-11-11T17:58:44+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+64 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -249,14 +249,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: NVIDIAのジェンスン・フアンCEOがアメリカ当局に「中国のスパイ」と断定された女性と不倫していた問題で、女性はフアン氏との関係を利用して2023年以降、少なくとも75億ドル(約1兆1900億円)分のNVIDIA製半導体を中国に出荷していたことがわかりました。 How Jensen Huang’s Yearslong Ties to Alice Huang Enabled $7 Bi...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txjg)
+- **M 5.1 - 82 km W of Panguna, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txm8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-11T15:57:41.040+00:00`, fetched `2026-11-11T16:02:04+00:00`
+  - Zeit: published `2026-11-11T17:58:04.040+00:00`, fetched `2026-11-11T17:58:16+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-11 15:39:25 UTC 2026-11-11 15:39:25 UTC at epicenter Location 56.025°S 27.737°W Depth 104.66 km (65.03 mi)
+  - Kurz: Time 2026-11-11 17:38:23 UTC 2026-11-11 17:38:23 UTC at epicenter Location 6.302°S 154.737°E Depth 71.55 km (44.46 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **【速報】政府、AI開発事業者に罰則検討** — Score 8, observation — [Quelle](https://www.47news.jp/15215659.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
