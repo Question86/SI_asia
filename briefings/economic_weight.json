@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T01:32:01+00:00",
+  "generated_at": "2026-11-12T01:52:18+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -466,7 +466,7 @@
       "p90_usd": 1112000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T01:01:02+00:00",
-      "last_seen_at": "2026-11-12T01:31:39+00:00",
+      "last_seen_at": "2026-11-12T01:51:56+00:00",
       "status": "active"
     },
     {
@@ -13114,6 +13114,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_36c614393822621fea90",
+      "title": "M 4.8 - 43 km SE of Severo-Kuril’sk, Russia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-12T01:51:56+00:00",
+      "last_seen_at": "2026-11-12T01:51:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -14368,7 +14385,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-11-12T01:31:39+00:00",
+      "last_seen_at": "2026-11-12T01:51:56+00:00",
       "status": "active"
     },
     {
@@ -23414,7 +23431,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T01:01:02+00:00",
-      "last_seen_at": "2026-11-12T01:31:39+00:00",
+      "last_seen_at": "2026-11-12T01:51:56+00:00",
       "status": "active"
     },
     {
@@ -29315,7 +29332,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T00:37:54+00:00",
-      "last_seen_at": "2026-11-12T01:31:39+00:00",
+      "last_seen_at": "2026-11-12T01:51:56+00:00",
       "status": "active"
     },
     {
@@ -37799,7 +37816,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T00:37:54+00:00",
-      "last_seen_at": "2026-11-12T01:31:39+00:00",
+      "last_seen_at": "2026-11-12T01:51:56+00:00",
       "status": "active"
     },
     {
