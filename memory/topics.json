@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T10:43:57+00:00",
+  "generated_at": "2026-11-12T10:51:41+00:00",
   "topics": {
     "security": [
       {
@@ -47,6 +47,13 @@
         "url": "https://jvn.jp/jp/JVN64740097/"
       },
       {
+        "title": "[NEU] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T10:47:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517"
+      },
+      {
         "title": "[UPDATE] [hoch] git: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-12T10:17:01+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-12T09:20:17+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4452"
-      },
-      {
-        "title": "[UPDATE] [hoch] Checkmk: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T09:20:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4453"
       }
     ],
     "ai": [
@@ -293,6 +293,13 @@
     ],
     "geopolitics": [
       {
+        "title": "[NEU] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T10:47:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517"
+      },
+      {
         "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-12T09:00:00+09:00",
@@ -354,13 +361,6 @@
         "published_at": "2026-11-12T00:00:00+00:00",
         "relevance_score": 9,
         "url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy"
-      },
-      {
-        "title": "One policy, many realities - why differences matter for monetary policy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20261112-one-policy-many-realities-why-differences-matter-monetary-policy"
       }
     ],
     "github": [
