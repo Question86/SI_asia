@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T07:18:54+00:00_
+_Generiert: 2026-11-12T07:28:17+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+33 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)
   - Kurz: The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually use it. Who comes to the booth Importers. Distributors. Consultants. […] The post Four hundred business cards. Zero customers appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Foundations for innovative and resilient capital markets** — Score 11, opportunity — [Quelle](https://www.bis.org/speeches/20261112-foundations-innovative-and-resilient-capital-markets)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-12T07:27:48+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Keynote address by Mr Vasileios Madouros, Deputy Governor of the Central Bank of Ireland, at the 2026 ECMI (European Capital Markets Institute) Annual Conference, Brussels, 11 November 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Cash and the digital euro - two sides of the same coin** — Score 11, observation — [Quelle](https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-12T07:18:24+00:00`
@@ -158,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: AWS Emulator and the engineer's job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard about a brilliant young man working t...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Opening remarks - Joint Central Bank of Kuwait and Global Finance Magazine Roundtable Discussion with Kuwait Banks** — Score 7, observation — [Quelle](https://www.bis.org/speeches/20261112-opening-remarks-joint-central-bank-kuwait-and-global-finance-magazine-roundtable-discussion-kuwait-banks)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-12T07:02:00+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0)
-  - Kurz: Opening remarks by His Excellency Mr Basel A Al-Haroon, Governor of the Central Bank of Kuwait, at the Joint Central Bank of Kuwait and Global Finance Magazine Roundtable Discussion with Kuwait Banks, Kuwait City, 23 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律施行規則の一部を改正する命令案に係る意見募集を行います** — Score 6, observation — [Quelle](https://www.digital.go.jp/get-involved/procedure/98e55a91-a46b-4f92-ac1f-7079d9d43c15)
   - Quelle: Japan Digital Agency News RSS / `rss`
