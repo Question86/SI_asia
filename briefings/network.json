@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T07:28:20+00:00",
+  "generated_at": "2026-11-12T07:36:03+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 33,
+    "findings": 35,
     "clusters": 26,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -22,15 +22,15 @@
       ],
       "urls": [
         "https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment",
+        "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience",
         "https://www.bis.org/speeches/20261112-foundations-innovative-and-resilient-capital-markets",
         "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin",
         "https://www.bis.org/speeches/20261112-low-gear-labour-market",
-        "https://www.bis.org/speeches/20261112-opening-remarks-joint-central-bank-kuwait-and-global-finance-magazine-roundtable-discussion-kuwait-banks",
-        "https://www.bis.org/speeches/20261112-one-policy-many-realities-why-differences-matter-monetary-policy"
+        "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy"
       ],
-      "finding_count": 8,
+      "finding_count": 10,
       "max_score": 16,
-      "credibility_total": 8.4,
+      "credibility_total": 10.5,
       "cross_source_confirmed": false,
       "momentum_delta": 2,
       "momentum_status": "increasing",
@@ -40,7 +40,7 @@
         "capitals_power_centers"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 38.8,
+      "raw_network_score": 43.0,
       "ranking_score": 24.0,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
@@ -266,18 +266,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.42,
+      "network_score": 15.33,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 15.42,
+      "ranking_score": 15.33,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.92,
+      "baseline_bonus": 1.83,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1022,7 +1022,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-12T07:28:21Z",
+    "generated_at": "2026-11-12T07:36:04Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

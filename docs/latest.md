@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T07:28:17+00:00_
+_Generiert: 2026-11-12T07:36:01+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+35 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)
   - Kurz: The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually use it. Who comes to the booth Importers. Distributors. Consultants. […] The post Four hundred business cards. Zero customers appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The science and practice of monetary policy communication - the European Central Bank experience** — Score 11, opportunity — [Quelle](https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-12T07:35:33+00:00`
+  - Treffer: macro, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)
+  - Kurz: Keynote speech by Philip R Lane, Member of the Executive Board of the European Central Bank, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Foundations for innovative and resilient capital markets** — Score 11, opportunity — [Quelle](https://www.bis.org/speeches/20261112-foundations-innovative-and-resilient-capital-markets)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-12T07:27:48+00:00`
@@ -141,15 +150,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Introductory statement by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 10 November 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The low-gear labour market** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20261112-low-gear-labour-market)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-12T07:18:24+00:00`
-  - Treffer: macro, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)
-  - Kurz: Speech by Ms Clare Lombardelli, Deputy Governor for Monetary Policy of the Bank of England, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.8 - 43 km SE of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-12T01:33:09.040+00:00`, fetched `2026-11-12T01:51:24+00:00`

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T07:28:17+00:00",
-  "run_id": "2026-11-12T07:28:17+00:00",
+  "generated_at": "2026-11-12T07:36:01+00:00",
+  "run_id": "2026-11-12T07:36:01+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 7,
-    "observe": 26,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -373,6 +373,27 @@
         "id": "18c02609678fd62f8952"
       },
       {
+        "title": "The science and practice of monetary policy communication - the European Central Bank experience",
+        "url": "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "fetched_at": "2026-11-12T07:35:33+00:00",
+        "summary": "Keynote speech by Philip R Lane, Member of the Executive Board of the European Central Bank, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.",
+        "matched_keywords": [
+          "macro",
+          "Macro/Policy"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Macro/Policy (+6.2); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9f9880dac55cbef60972"
+      },
+      {
         "title": "Foundations for innovative and resilient capital markets",
         "url": "https://www.bis.org/speeches/20261112-foundations-innovative-and-resilient-capital-markets",
         "source": "BIS Central Bankers Speeches",
@@ -576,6 +597,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2c3c95be0d6ae6531733"
+      },
+      {
+        "title": "The US economy and considerations for monetary policy",
+        "url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "fetched_at": "2026-11-12T07:35:33+00:00",
+        "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the C Peter McColough Series on International Economics Council on Foreign Relations, Washington DC, 10 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "96f9579e294f3d7d3564"
       },
       {
         "title": "SeaX Ventures bets US$1.65M on Skribe Medical’s AI heart patch for cancer patients",
@@ -1208,6 +1249,27 @@
       "id": "18c02609678fd62f8952"
     },
     {
+      "title": "The science and practice of monetary policy communication - the European Central Bank experience",
+      "url": "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "fetched_at": "2026-11-12T07:35:33+00:00",
+      "summary": "Keynote speech by Philip R Lane, Member of the Executive Board of the European Central Bank, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.",
+      "matched_keywords": [
+        "macro",
+        "Macro/Policy"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Macro/Policy (+6.2); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9f9880dac55cbef60972"
+    },
+    {
       "title": "Foundations for innovative and resilient capital markets",
       "url": "https://www.bis.org/speeches/20261112-foundations-innovative-and-resilient-capital-markets",
       "source": "BIS Central Bankers Speeches",
@@ -1411,6 +1473,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2c3c95be0d6ae6531733"
+    },
+    {
+      "title": "The US economy and considerations for monetary policy",
+      "url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "fetched_at": "2026-11-12T07:35:33+00:00",
+      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the C Peter McColough Series on International Economics Council on Foreign Relations, Washington DC, 10 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96f9579e294f3d7d3564"
     },
     {
       "title": "SeaX Ventures bets US$1.65M on Skribe Medical’s AI heart patch for cancer patients",
@@ -1701,66 +1783,45 @@
   ],
   "new_findings": [
     {
-      "title": "Foundations for innovative and resilient capital markets",
-      "url": "https://www.bis.org/speeches/20261112-foundations-innovative-and-resilient-capital-markets",
+      "title": "The science and practice of monetary policy communication - the European Central Bank experience",
+      "url": "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "fetched_at": "2026-11-12T07:27:48+00:00",
-      "summary": "Keynote address by Mr Vasileios Madouros, Deputy Governor of the Central Bank of Ireland, at the 2026 ECMI (European Capital Markets Institute) Annual Conference, Brussels, 11 November 2026.",
+      "fetched_at": "2026-11-12T07:35:33+00:00",
+      "summary": "Keynote speech by Philip R Lane, Member of the Executive Board of the European Central Bank, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.",
       "matched_keywords": [
-        "Macro/Policy",
-        "Watchgraph:capitals_power_centers"
+        "macro",
+        "Macro/Policy"
       ],
       "relevance_score": 11,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "relevance_reason": "Macro/Policy (+6.2); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "8112a1c62a8e06e7d1e3"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9f9880dac55cbef60972"
     },
     {
-      "title": "The Czech National Bank’s first DLT bond and the new physics of the digital koruna",
-      "url": "https://www.bis.org/speeches/20261112-czech-national-banks-first-dlt-bond-and-new-physics-digital-koruna",
+      "title": "The US economy and considerations for monetary policy",
+      "url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "fetched_at": "2026-11-12T07:27:48+00:00",
-      "summary": "Speech by Mr Aleš Michl, Governor of the Czech National Bank, at CzechCrunch Money Maker, Prague, 10 November 2026.",
+      "fetched_at": "2026-11-12T07:35:33+00:00",
+      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the C Peter McColough Series on International Economics Council on Foreign Relations, Washington DC, 10 November 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "809bf64365a42011f70a"
+      "id": "96f9579e294f3d7d3564"
     }
   ],
   "source_errors": [],
