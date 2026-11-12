@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T14:10:21+00:00",
-  "run_id": "2026-11-12T14:10:21+00:00",
+  "generated_at": "2026-11-12T14:22:05+00:00",
+  "run_id": "2026-11-12T14:22:05+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "new_relevant_findings": 2,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 37,
-    "observe": 43,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -1465,6 +1465,76 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "96f9579e294f3d7d3564"
+      },
+      {
+        "title": "Why Kerala’s grandparents may be its smartest startup bet",
+        "url": "https://e27.co/why-keralas-grandparents-may-be-its-smartest-startup-bet-20261112/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-12T14:15:08+00:00",
+        "fetched_at": "2026-11-12T14:21:27+00:00",
+        "summary": "The sea at Kovalam has not changed. The conversation on the stage beside it has. I was last here in September 2019, for what was then called Huddle Kerala, only its second edition. I filed a couple of stories from that beach. One was about a big-tech executive urging the industry to fix the gender […] The post Why Kerala’s grandparents may be its smartest startup bet appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:elections_unrest"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "elections_unrest"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: coup"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "25461ec0a7f547ed16be"
+      },
+      {
+        "title": "WebサイトをAgent Readyにしよう",
+        "url": "https://unvalley.me/ja/blog/1793627906",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-12T09:11:18+00:00",
+        "fetched_at": "2026-11-12T14:21:27+00:00",
+        "summary": "AIエージェントがWebサイトを読むことが当たり前になりました。 僕は過去にあるWebサイトを公開していたのですが、その時Vibe Codingによる実装ミスをしていて完全にやらかしたことがあります。そんなことに懲りずに、この記事ではWebサイトをAgent Readyにしていきます。ここでいうAgent Readyは、「エージェントがWeb...",
+        "matched_keywords": [
+          "agent",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "008f2c7f0ba66e73d9d8"
       },
       {
         "title": "MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org",
@@ -3423,6 +3493,76 @@
       "id": "96f9579e294f3d7d3564"
     },
     {
+      "title": "Why Kerala’s grandparents may be its smartest startup bet",
+      "url": "https://e27.co/why-keralas-grandparents-may-be-its-smartest-startup-bet-20261112/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-12T14:15:08+00:00",
+      "fetched_at": "2026-11-12T14:21:27+00:00",
+      "summary": "The sea at Kovalam has not changed. The conversation on the stage beside it has. I was last here in September 2019, for what was then called Huddle Kerala, only its second edition. I filed a couple of stories from that beach. One was about a big-tech executive urging the industry to fix the gender […] The post Why Kerala’s grandparents may be its smartest startup bet appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:elections_unrest"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "watchgraph_reasons": [
+        "elections_unrest: coup"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "25461ec0a7f547ed16be"
+    },
+    {
+      "title": "WebサイトをAgent Readyにしよう",
+      "url": "https://unvalley.me/ja/blog/1793627906",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T09:11:18+00:00",
+      "fetched_at": "2026-11-12T14:21:27+00:00",
+      "summary": "AIエージェントがWebサイトを読むことが当たり前になりました。 僕は過去にあるWebサイトを公開していたのですが、その時Vibe Codingによる実装ミスをしていて完全にやらかしたことがあります。そんなことに懲りずに、この記事ではWebサイトをAgent Readyにしていきます。ここでいうAgent Readyは、「エージェントがWeb...",
+      "matched_keywords": [
+        "agent",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "008f2c7f0ba66e73d9d8"
+    },
+    {
       "title": "MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org",
       "url": "https://www.hageatama.org/20261112/1794464751",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3941,7 +4081,78 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Why Kerala’s grandparents may be its smartest startup bet",
+      "url": "https://e27.co/why-keralas-grandparents-may-be-its-smartest-startup-bet-20261112/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-12T14:15:08+00:00",
+      "fetched_at": "2026-11-12T14:21:27+00:00",
+      "summary": "The sea at Kovalam has not changed. The conversation on the stage beside it has. I was last here in September 2019, for what was then called Huddle Kerala, only its second edition. I filed a couple of stories from that beach. One was about a big-tech executive urging the industry to fix the gender […] The post Why Kerala’s grandparents may be its smartest startup bet appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:elections_unrest"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "watchgraph_reasons": [
+        "elections_unrest: coup"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "25461ec0a7f547ed16be"
+    },
+    {
+      "title": "WebサイトをAgent Readyにしよう",
+      "url": "https://unvalley.me/ja/blog/1793627906",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T09:11:18+00:00",
+      "fetched_at": "2026-11-12T14:21:27+00:00",
+      "summary": "AIエージェントがWebサイトを読むことが当たり前になりました。 僕は過去にあるWebサイトを公開していたのですが、その時Vibe Codingによる実装ミスをしていて完全にやらかしたことがあります。そんなことに懲りずに、この記事ではWebサイトをAgent Readyにしていきます。ここでいうAgent Readyは、「エージェントがWeb...",
+      "matched_keywords": [
+        "agent",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "008f2c7f0ba66e73d9d8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
