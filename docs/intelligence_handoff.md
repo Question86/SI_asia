@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-12T03:51:38Z_
+_Generated: 2026-11-12T04:23:07Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-12T12:00:00+09:00` / age_days `0.04`
+- Published: `2026-11-12T12:00:00+09:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-12T09:00:00+09:00` / age_days `0.16`
+- Published: `2026-11-12T09:00:00+09:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-12T03:02:51+00:00` / age_days `0.03`
+- Published: `2026-11-12T03:02:51+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-12T03:00:55+00:00` / age_days `0.04`
+- Published: `2026-11-12T03:00:55+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, high terms: code, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-11-12T02:15:27+00:00` / age_days `0.07`
+- Published: `2026-11-12T02:15:27+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-11-12T01:01:02+00:00` / age_days `0.12`
+- Published: `2026-11-12T01:01:02+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,27 +72,47 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-11-12T02:15:27+00:00` / age_days `0.07`
+- Published: `2026-11-12T02:15:27+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/venture-debt-is-reaching-smaller-startups-what-founders-should-check-before-signing-20261106/
 
+### M 5.4 - South Sandwich Islands region
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.4`
+- Published: `2026-11-12T04:19:04+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr
+
 ### M 4.8 - 43 km SE of Severo-Kuril’sk, Russia
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-11-12T01:51:56+00:00` / age_days `0.08`
+- Published: `2026-11-12T01:51:56+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa
 
+### M 5.4 - South Sandwich Islands region
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.0`
+- Published: `2026-11-12T04:08:07.366+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr
+
 ### Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.96`
-- Published: `2026-10-02T01:21:11+00:00` / age_days `41.1`
+- Published: `2026-10-02T01:21:11+00:00` / age_days `41.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -7.0 for 41.1d old signal
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-11-12T03:02:51+00:00` / age_days `0.03`
+- Published: `2026-11-12T03:02:51+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0
 - Quelle: https://jvn.jp/jp/JVN64740097/
-
-### AWS Emulator and the engineer's job when agents write the code
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-11-12T00:37:54+00:00` / age_days `0.13`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html
-
-### Venture debt is reaching smaller startups. What founders should check before signing
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-11-12T02:00:09+00:00` / age_days `0.08`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: 10
-- Quelle: https://e27.co/venture-debt-is-reaching-smaller-startups-what-founders-should-check-before-signing-20261106/
 
 END OF DOCUMENT
