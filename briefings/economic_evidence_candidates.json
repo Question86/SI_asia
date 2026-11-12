@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T07:51:02+00:00",
+  "generated_at": "2026-11-12T07:57:28+00:00",
   "candidate_count": 2873,
   "candidates": [
     {
@@ -39547,22 +39547,25 @@
       "source_url": "https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change"
     },
     {
-      "candidate_id": "cand_4afb2e05ef1bbc83fbac",
-      "event_id": "evt_5a8609c38e0d544999d3",
-      "source_url": "https://www.bis.org/speeches/20261112-economic-outlook-and-some-thoughts-labor-market-dynamism",
-      "observed_at": "2026-11-12T07:50:45+00:00",
-      "currency": "USD",
       "amount_native": 30.0,
       "amount_usd": 30.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
       "attribution_probability": null,
-      "snippet": "e insurance now needed for ships making this passing, and the ship-to-ship transfer of oil necessary to guard against Iranian attacks, are reportedly boosting oil prices by $20 to $30 a barrel. A second problem is that diesel oil production is affected by limited refining capacity and other constraints. As a consequence, elevated prices for diesel in the United",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.55,
-      "review_status": "pending"
+      "candidate_id": "cand_4afb2e05ef1bbc83fbac",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-11-12T07:50:45+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:654d36103509",
+      "review_status": "pending",
+      "snippet": "e insurance now needed for ships making this passing, and the ship-to-ship transfer of oil necessary to guard against Iranian attacks, are reportedly boosting oil prices by $20 to $30 a barrel. A second problem is that diesel oil production is affected by limited refining capacity and other constraints. As a consequence, elevated prices for diesel in the United",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261112-economic-outlook-and-some-thoughts-labor-market-dynamism"
     },
     {
       "amount_native": 26.0,
@@ -39691,22 +39694,25 @@
       "source_url": "https://www.anthropic.com/claude-opus-5-5"
     },
     {
-      "candidate_id": "cand_89a423f60c10d7b0599e",
-      "event_id": "evt_5a8609c38e0d544999d3",
-      "source_url": "https://www.bis.org/speeches/20261112-economic-outlook-and-some-thoughts-labor-market-dynamism",
-      "observed_at": "2026-11-12T07:50:45+00:00",
-      "currency": "USD",
       "amount_native": 20.0,
       "amount_usd": 20.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
       "attribution_probability": null,
-      "snippet": "nse. The insurance now needed for ships making this passing, and the ship-to-ship transfer of oil necessary to guard against Iranian attacks, are reportedly boosting oil prices by $20 to $30 a barrel. A second problem is that diesel oil production is affected by limited refining capacity and other constraints. As a consequence, elevated prices for diesel in the",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.55,
-      "review_status": "pending"
+      "candidate_id": "cand_89a423f60c10d7b0599e",
+      "component_confidence": 0.0,
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-11-12T07:50:45+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:4cb78932d2e2",
+      "review_status": "pending",
+      "snippet": "nse. The insurance now needed for ships making this passing, and the ship-to-ship transfer of oil necessary to guard against Iranian attacks, are reportedly boosting oil prices by $20 to $30 a barrel. A second problem is that diesel oil production is affected by limited refining capacity and other constraints. As a consequence, elevated prices for diesel in the",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261112-economic-outlook-and-some-thoughts-labor-market-dynamism"
     },
     {
       "amount_native": 18.0,
