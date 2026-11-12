@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-12T03:20:29+00:00_
+_Generiert: 2026-11-12T03:28:21+00:00_
 
 ## AI agents can hand over working code and still lose the decision that made it right
 
