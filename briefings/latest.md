@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T03:59:54+00:00_
+_Generiert: 2026-11-12T04:19:00+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „AI agents can hand over working code and still lose the decision that made it right“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+14 neue relevante Treffer. Stärkstes Signal: „AI agents can hand over working code and still lose the decision that made it right“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.4 - South Sandwich Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-12T04:08:07.366+00:00`, fetched `2026-11-12T04:18:30+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-11-12 03:45:56 UTC 2026-11-12 03:45:56 UTC at epicenter Location 59.033°S 26.029°W Depth 121.56 km (75.53 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Beyond GCash and Maya: 30 emerging fintech startups rewiring money in the Philippines** — Score 12, observation — [Quelle](https://e27.co/beyond-gcash-and-maya-30-emerging-fintech-startups-rewiring-money-in-the-philippines-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-12T02:00:16+00:00`, fetched `2026-11-12T02:14:53+00:00`
@@ -105,14 +114,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)
   - Kurz: The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually use it. Who comes to the booth Importers. Distributors. Consultants. […] The post Four hundred business cards. Zero customers appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Venture debt is reaching smaller startups. What founders should check before signing** — Score 9, observation — [Quelle](https://e27.co/venture-debt-is-reaching-smaller-startups-what-founders-should-check-before-signing-20261106/)
+- **Europe’s tokenisation race will not wait for a 2028 blueprint** — Score 10, observation — [Quelle](https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-12T02:00:09+00:00`, fetched `2026-11-12T02:14:53+00:00`
-  - Treffer: APAC Trend Radar, founder, Southeast Asia
+  - Zeit: published `2026-11-12T04:00:37+00:00`, fetched `2026-11-12T04:18:30+00:00`
+  - Treffer: APAC Trend Radar, Markets/Capital Structure
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.5); recent (+1.0)
-  - Kurz: Venture debt used to be a tool for late-stage companies with big revenues and bigger investors. That is changing in Southeast Asia. In the first half of 2026, the region recorded 23 debt deals worth US$1.36 billion, up from 17 a year earlier. The average deal fell from about US$99 million to US$59 million, according […] The post Venture debt is reaching smaller startups. What founders should check before signing app…
+  - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
+  - Kurz: Europe risks underestimating a major cost of building tokenised financial markets: persuading businesses to adopt the infrastructure once it exists. A technically capable network has limited commercial value if connecting means rebuilding applications, changing custody arrangements and asking customers to move with you. That should shape how we judge the Eurosystem’s tokenisation strategy. Pontes, launched […] The p…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 43 km SE of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
