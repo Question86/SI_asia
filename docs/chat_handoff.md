@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-12T19:38:52+00:00_
+_Generated: 2026-11-12T19:44:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `94`
+- findings: `96`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-12T19:38:52+00:00_
 - url: https://openai.com/index/children-first-declaration
 - summary: OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
 
-### 8. Holiday Extras is rethinking what it can build with Codex
-- source: OpenAI News RSS
+### 8. Secret scanning detects Cloudflare service tokens
+- source: GitHub Changelog Atom
 - score: `12`
-- published: `2026-11-12T09:30:00+00:00`
-- url: https://openai.com/business/customer-stories/holidays-extras-codex
-- summary: With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
+- published: `2026-11-12T14:38:25+00:00`
+- url: https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare
+- summary: Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are… The post…
 
 END OF DOCUMENT

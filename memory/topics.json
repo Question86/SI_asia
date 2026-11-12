@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T19:38:52+00:00",
+  "generated_at": "2026-11-12T19:44:39+00:00",
   "topics": {
     "security": [
       {
@@ -365,6 +365,13 @@
     ],
     "github": [
       {
+        "title": "Secret scanning detects Cloudflare service tokens",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-12T14:38:25+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare"
+      },
+      {
         "title": "2026-020: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
         "source": "CERT-EU Security Advisories",
         "published_at": "2026-11-12T18:20:53+00:00",
@@ -384,6 +391,13 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/shadcn/improve"
+      },
+      {
+        "title": "Public monitoring alerts now have direct links",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-12T14:37:38+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links"
       }
     ]
   }

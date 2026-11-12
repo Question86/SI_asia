@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T19:38:52+00:00_
+_Generiert: 2026-11-12T19:44:39+00:00_
 
 ## Kurzlage
 
-94 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+96 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); safety (+2.5); recent (+1.0)
   - Kurz: OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Secret scanning detects Cloudflare service tokens** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-12T14:38:25+00:00`, fetched `2026-11-12T19:44:07+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are… The post Secret scanning detects Cloudflare service tokens appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Holiday Extras is rethinking what it can build with Codex** — Score 12, observation — [Quelle](https://openai.com/business/customer-stories/holidays-extras-codex)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-12T09:30:00+00:00`, fetched `2026-11-12T10:28:12+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: https://goo.gle/modern-web-guidance Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027** — Score 9, observation — [Quelle](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm)
-  - Quelle: Federal Reserve Monetary Policy Press Releases / `rss`
-  - Zeit: published `2026-11-12T17:45:00+00:00`, fetched `2026-11-12T17:47:28+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

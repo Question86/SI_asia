@@ -1049,6 +1049,27 @@
     "id": "f265751fb6c1d3557425"
   },
   {
+    "title": "Secret scanning detects Cloudflare service tokens",
+    "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-12T14:38:25+00:00",
+    "fetched_at": "2026-11-12T19:44:07+00:00",
+    "summary": "Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are… The post Secret scanning detects Cloudflare service tokens appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "aa03998f42ca9fd7b561"
+  },
+  {
     "title": "Holiday Extras is rethinking what it can build with Codex",
     "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
     "source": "OpenAI News RSS",
@@ -2269,6 +2290,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "439f06168d293d193f9b"
+  },
+  {
+    "title": "Public monitoring alerts now have direct links",
+    "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-12T14:37:38+00:00",
+    "fetched_at": "2026-11-12T19:44:07+00:00",
+    "summary": "You can now access individual public monitoring alerts with a direct link to each alert. In your enterprise’s Public monitoring view, click an alert number to open the alert. You… The post Public monitoring alerts now have direct links appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0174136f49be21eb144c"
   },
   {
     "title": "A demo, a UAE investor and a government lead: What three Hong Kong mobility firms won at SUMW",
