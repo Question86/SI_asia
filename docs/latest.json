@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T22:05:31+00:00",
-  "run_id": "2026-11-12T22:05:31+00:00",
+  "generated_at": "2026-11-12T22:23:50+00:00",
+  "run_id": "2026-11-12T22:23:50+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 100
+      "configured_public_sources_only": 104
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 100,
-    "displayed_findings": 100,
+    "new_relevant_findings": 4,
+    "today_file_total": 104,
+    "displayed_findings": 104,
     "high": 0,
-    "medium": 39,
-    "observe": 61,
+    "medium": 41,
+    "observe": 63,
     "source_errors": 0
   },
   "sections": {
@@ -433,6 +433,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b4ead34ac411a91dccaa"
+      },
+      {
+        "title": "Updates to the Data Download Program (DDP)",
+        "url": "http://www.federalreserve.gov/feeds/PRATES.html#3979",
+        "source": "Federal Reserve Policy Rates Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-12T17:07:00-05:00",
+        "fetched_at": "2026-11-12T22:23:22+00:00",
+        "summary": "As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…",
+        "matched_keywords": [
+          "Macro/Policy",
+          "policy rates",
+          "Public Health"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Macro/Policy (+5.0); Public Health (+5.0); policy rates (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "32c3aeab8bacc9e8474e"
+      },
+      {
+        "title": "Updates to the Data Download Program (DDP)",
+        "url": "http://www.federalreserve.gov/feeds/H15.html#3979",
+        "source": "Federal Reserve Selected Interest Rates H.15",
+        "source_type": "rss",
+        "published_at": "2026-11-12T17:07:00-05:00",
+        "fetched_at": "2026-11-12T22:23:22+00:00",
+        "summary": "As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…",
+        "matched_keywords": [
+          "H.15",
+          "Macro/Policy",
+          "Public Health"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Macro/Policy (+5.0); Public Health (+5.0); H.15 (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6d1b589ad471cde5eff0"
       },
       {
         "title": "M 4.8 - 155 km E of Noda, Japan",
@@ -1210,6 +1254,43 @@
         "id": "d73cf3510aa83ea82313"
       },
       {
+        "title": "M 5.8 - 148 km NW of Kavieng, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-12T22:22:44.777+00:00",
+        "fetched_at": "2026-11-12T22:23:22+00:00",
+        "summary": "ShakeMap - VII Time 2026-11-12 22:04:06 UTC 2026-11-12 22:04:06 UTC at epicenter Location 1.588°S 149.888°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7cb6153f7dcc992ec1dc"
+      },
+      {
         "title": "M 4.9 - 41 km N of Weining, China",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1970,6 +2051,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f0839e83d6138c89392f"
+      },
+      {
+        "title": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOGN12CY20S6A111C2000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-12T20:58:39+00:00",
+        "fetched_at": "2026-11-12T22:23:22+00:00",
+        "summary": "【シリコンバレー=山田遼太郎】米マイクロソフトの業務ソフト「マイクロソフト365」で日本時間13日未明から大規模な障害が起きた。世界各地で電子メールソフトに接続できない不具合が生じ、ビジネスに支障が出ている。日本も対象とみられる。マイクロソフトは日本時間13日午前3時（米西部時間12日午前10時ごろ）、X（旧...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2e20c83a963b14729673"
       },
       {
         "title": "Zoom für Windows: Angreifer können Rechte über das Netz ausweiten",
@@ -2871,6 +2973,50 @@
       "id": "b4ead34ac411a91dccaa"
     },
     {
+      "title": "Updates to the Data Download Program (DDP)",
+      "url": "http://www.federalreserve.gov/feeds/PRATES.html#3979",
+      "source": "Federal Reserve Policy Rates Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-12T17:07:00-05:00",
+      "fetched_at": "2026-11-12T22:23:22+00:00",
+      "summary": "As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…",
+      "matched_keywords": [
+        "Macro/Policy",
+        "policy rates",
+        "Public Health"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Macro/Policy (+5.0); Public Health (+5.0); policy rates (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "32c3aeab8bacc9e8474e"
+    },
+    {
+      "title": "Updates to the Data Download Program (DDP)",
+      "url": "http://www.federalreserve.gov/feeds/H15.html#3979",
+      "source": "Federal Reserve Selected Interest Rates H.15",
+      "source_type": "rss",
+      "published_at": "2026-11-12T17:07:00-05:00",
+      "fetched_at": "2026-11-12T22:23:22+00:00",
+      "summary": "As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…",
+      "matched_keywords": [
+        "H.15",
+        "Macro/Policy",
+        "Public Health"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Macro/Policy (+5.0); Public Health (+5.0); H.15 (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6d1b589ad471cde5eff0"
+    },
+    {
       "title": "M 4.8 - 155 km E of Noda, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3644,6 +3790,43 @@
       "id": "d73cf3510aa83ea82313"
     },
     {
+      "title": "M 5.8 - 148 km NW of Kavieng, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-12T22:22:44.777+00:00",
+      "fetched_at": "2026-11-12T22:23:22+00:00",
+      "summary": "ShakeMap - VII Time 2026-11-12 22:04:06 UTC 2026-11-12 22:04:06 UTC at epicenter Location 1.588°S 149.888°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7cb6153f7dcc992ec1dc"
+    },
+    {
       "title": "M 4.9 - 41 km N of Weining, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4406,6 +4589,27 @@
       "id": "f0839e83d6138c89392f"
     },
     {
+      "title": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN12CY20S6A111C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T20:58:39+00:00",
+      "fetched_at": "2026-11-12T22:23:22+00:00",
+      "summary": "【シリコンバレー=山田遼太郎】米マイクロソフトの業務ソフト「マイクロソフト365」で日本時間13日未明から大規模な障害が起きた。世界各地で電子メールソフトに接続できない不具合が生じ、ビジネスに支障が出ている。日本も対象とみられる。マイクロソフトは日本時間13日午前3時（米西部時間12日午前10時ごろ）、X（旧...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e20c83a963b14729673"
+    },
+    {
       "title": "Zoom für Windows: Angreifer können Rechte über das Netz ausweiten",
       "url": "https://www.heise.de/news/Zoom-fuer-Windows-Angreifer-koennen-Rechte-ueber-das-Netz-ausweiten-11522500.html",
       "source": "heise Security Alerts",
@@ -4899,25 +5103,106 @@
   ],
   "new_findings": [
     {
-      "title": "マイクロソフトのサービスで世界的な接続障害が発生 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Updates to the Data Download Program (DDP)",
+      "url": "http://www.federalreserve.gov/feeds/PRATES.html#3979",
+      "source": "Federal Reserve Policy Rates Feed",
       "source_type": "rss",
-      "published_at": "2026-11-12T20:59:02+00:00",
-      "fetched_at": "2026-11-12T22:05:00+00:00",
-      "summary": "アメリカのIT大手「マイクロソフト」は、「マイクロソフト365」と呼ばれるメールやAIチャット、それにファイル保管などのサービスで世界的な接続障害が発生していると発表しました。 マイクロソフトは、…",
+      "published_at": "2026-11-12T17:07:00-05:00",
+      "fetched_at": "2026-11-12T22:23:22+00:00",
+      "summary": "As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Macro/Policy",
+        "policy rates",
+        "Public Health"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Macro/Policy (+5.0); Public Health (+5.0); policy rates (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2a40ffef75a5a20ddcd0"
+      "id": "32c3aeab8bacc9e8474e"
+    },
+    {
+      "title": "Updates to the Data Download Program (DDP)",
+      "url": "http://www.federalreserve.gov/feeds/H15.html#3979",
+      "source": "Federal Reserve Selected Interest Rates H.15",
+      "source_type": "rss",
+      "published_at": "2026-11-12T17:07:00-05:00",
+      "fetched_at": "2026-11-12T22:23:22+00:00",
+      "summary": "As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…",
+      "matched_keywords": [
+        "H.15",
+        "Macro/Policy",
+        "Public Health"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Macro/Policy (+5.0); Public Health (+5.0); H.15 (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6d1b589ad471cde5eff0"
+    },
+    {
+      "title": "M 5.8 - 148 km NW of Kavieng, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-12T22:22:44.777+00:00",
+      "fetched_at": "2026-11-12T22:23:22+00:00",
+      "summary": "ShakeMap - VII Time 2026-11-12 22:04:06 UTC 2026-11-12 22:04:06 UTC at epicenter Location 1.588°S 149.888°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7cb6153f7dcc992ec1dc"
+    },
+    {
+      "title": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN12CY20S6A111C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T20:58:39+00:00",
+      "fetched_at": "2026-11-12T22:23:22+00:00",
+      "summary": "【シリコンバレー=山田遼太郎】米マイクロソフトの業務ソフト「マイクロソフト365」で日本時間13日未明から大規模な障害が起きた。世界各地で電子メールソフトに接続できない不具合が生じ、ビジネスに支障が出ている。日本も対象とみられる。マイクロソフトは日本時間13日午前3時（米西部時間12日午前10時ごろ）、X（旧...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e20c83a963b14729673"
     }
   ],
   "source_errors": [],

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T22:05:35+00:00",
+  "generated_at": "2026-11-12T22:23:53+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 100,
-    "clusters": 54,
+    "findings": 104,
+    "clusters": 56,
     "cross_source_confrmed": 1,
     "hot": 1,
     "early_signals": 0,
-    "dominance_penalized": 6
+    "dominance_penalized": 7
   },
   "clusters": [
     {
@@ -15,6 +15,8 @@
       "title": "Barr, American Inequality and the Future of AI",
       "sources": [
         "Federal Reserve Monetary Policy Press Releases",
+        "Federal Reserve Policy Rates Feed",
+        "Federal Reserve Selected Interest Rates H.15",
         "Federal Reserve Speeches and Testimony"
       ],
       "source_classes": [
@@ -23,26 +25,28 @@
       ],
       "urls": [
         "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+        "http://www.federalreserve.gov/feeds/PRATES.html#3979",
+        "http://www.federalreserve.gov/feeds/H15.html#3979",
         "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
       ],
-      "finding_count": 2,
+      "finding_count": 4,
       "max_score": 16,
-      "credibility_total": 2.1,
+      "credibility_total": 4.2,
       "cross_source_confirmed": true,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 24.68,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 39.5,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 26.2,
-      "ranking_score": 24.68,
+      "raw_network_score": 40.4,
+      "ranking_score": 39.5,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
-      "breadth_bonus": 5.5,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.18,
+      "breadth_bonus": 10.5,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 5.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -390,20 +394,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.99,
+      "network_score": 14.96,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 19.3,
-      "ranking_score": 14.99,
+      "ranking_score": 14.96,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.49,
+      "baseline_bonus": 0.46,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -606,6 +610,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-12T02:15:27+00:00"
+    },
+    {
+      "key": "earthquake:m 5.8 - 148 km nw of kavieng, papua new guinea:5.8",
+      "title": "M 5.8 - 148 km NW of Kavieng, Papua New Guinea",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.7,
+      "ranking_score": 12.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-11-12T22:23:53+00:00"
     },
     {
       "key": "cve:CVE-2026-120868",
@@ -915,8 +960,8 @@
       "first_seen_at": "2026-11-12T08:32:24+00:00"
     },
     {
-      "key": "title:nhk",
-      "title": "マイクロソフトのサービスで世界的な接続障害が発生 | NHKニュース",
+      "key": "domain:www.nikkei.com",
+      "title": "マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響 - 日本経済新聞",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -924,34 +969,33 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://news.web.nhk/newsweb/na/nd-20261113de75121",
-        "https://news.web.nhk/newsweb/na/nd-20261111de74472"
+        "https://www.nikkei.com/article/DGXZQOGN12CY20S6A111C2000000/"
       ],
-      "finding_count": 2,
-      "max_score": 5,
-      "credibility_total": 2.1,
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 10.97,
+      "network_score": 11.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.2,
-      "ranking_score": 10.97,
+      "raw_network_score": 12.1,
+      "ranking_score": 11.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
-      "baseline_bonus": 1.97,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
+      "first_seen_at": "2026-06-19T02:10:07+00:00"
     },
     {
       "key": "title:venture-debt-reaching-smaller-startups-what-founders-should",
@@ -1691,6 +1735,45 @@
       "first_seen_at": "2026-11-12T06:17:59+00:00"
     },
     {
+      "key": "title:nhk",
+      "title": "マイクロソフトのサービスで世界的な接続障害が発生 | NHKニュース",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+        "https://news.web.nhk/newsweb/na/nd-20261111de74472"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.24,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.2,
+      "ranking_score": 7.24,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.74,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "domain:nvidianews.nvidia.com",
       "title": "NVIDIA Announces CEO Transition",
       "sources": [
@@ -2111,7 +2194,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-12T22:05:36Z",
+    "generated_at": "2026-11-12T22:23:54Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

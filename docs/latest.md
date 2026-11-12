@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T22:05:31+00:00_
+_Generiert: 2026-11-12T22:23:50+00:00_
 
 ## Kurzlage
 
-100 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+104 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -84,6 +84,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-125350 est activement exploitée.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Updates to the Data Download Program (DDP)** — Score 15, observation — [Quelle](http://www.federalreserve.gov/feeds/PRATES.html#3979)
+  - Quelle: Federal Reserve Policy Rates Feed / `rss`
+  - Zeit: published `2026-11-12T17:07:00-05:00`, fetched `2026-11-12T22:23:22+00:00`
+  - Treffer: Macro/Policy, policy rates, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Public Health (+5.0); policy rates (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Updates to the Data Download Program (DDP)** — Score 15, observation — [Quelle](http://www.federalreserve.gov/feeds/H15.html#3979)
+  - Quelle: Federal Reserve Selected Interest Rates H.15 / `rss`
+  - Zeit: published `2026-11-12T17:07:00-05:00`, fetched `2026-11-12T22:23:22+00:00`
+  - Treffer: H.15, Macro/Policy, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Public Health (+5.0); H.15 (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 155 km E of Noda, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-12T04:28:21.040+00:00`, fetched `2026-11-12T04:34:04+00:00`
@@ -186,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.8 - 148 km NW of Kavieng, Papua New Guinea** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-12T22:22:44.777+00:00`, fetched `2026-11-12T22:23:22+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - VII Time 2026-11-12 22:04:06 UTC 2026-11-12 22:04:06 UTC at epicenter Location 1.588°S 149.888°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 41 km N of Weining, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-12T20:48:18.040+00:00`, fetched `2026-11-12T20:59:10+00:00`
@@ -239,15 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)
   - Kurz: GitHub Actions hosted runners will be ending support for ARM32 job execution on Windows and Linux by 8th Dec 2026. This follows our end of support for node20 where Node… The post Actions for ARM32 Linux & Windows retirement appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Mozilla Firefox (10 novembre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1490/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-11-10T00:00:00+00:00`, fetched `2026-11-12T15:32:56+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
