@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T14:55:22+00:00_
+_Generiert: 2026-11-12T15:04:00+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+85 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -101,6 +101,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Palo Alto Networks GlobalProtect ausnutzen, um seine Privilegien bis auf SYSTEM-Rechte zu erhöhen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Barr, American Inequality and the Future of AI** — Score 16, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-11-12T15:00:00+00:00`, fetched `2026-11-12T15:03:28+00:00`
+  - Treffer: AI/KI, Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At Yale University, New Haven, Connecticut
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Japan's current account surplus and corporate adjustment** — Score 16, observation — [Quelle](https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment)
   - Quelle: BIS Central Bankers Speeches / `rss`
