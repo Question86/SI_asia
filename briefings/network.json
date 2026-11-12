@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T21:56:51+00:00",
+  "generated_at": "2026-11-12T22:05:35+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 99,
+    "findings": 100,
     "clusters": 54,
     "cross_source_confrmed": 1,
     "hot": 1,
@@ -31,18 +31,18 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 24.78,
+      "network_score": 24.68,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 26.2,
-      "ranking_score": 24.78,
+      "ranking_score": 24.68,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.28,
+      "baseline_bonus": 0.18,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -390,20 +390,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.02,
+      "network_score": 14.99,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 19.3,
-      "ranking_score": 15.02,
+      "ranking_score": 14.99,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.52,
+      "baseline_bonus": 0.49,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -913,6 +913,45 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-12T08:32:24+00:00"
+    },
+    {
+      "key": "title:nhk",
+      "title": "マイクロソフトのサービスで世界的な接続障害が発生 | NHKニュース",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+        "https://news.web.nhk/newsweb/na/nd-20261111de74472"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.97,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.2,
+      "ranking_score": 10.97,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.97,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:venture-debt-reaching-smaller-startups-what-founders-should",
@@ -1842,44 +1881,6 @@
       "first_seen_at": "2026-11-12T03:47:11+00:00"
     },
     {
-      "key": "title:nhk",
-      "title": "人手不足解消へ ファミマがフィジカルAI導入 | NHKニュース",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://news.web.nhk/newsweb/na/nd-20261111de74472"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 6.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 7.1,
-      "ranking_score": 6.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "title:meta-muse",
       "title": "【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間",
       "sources": [
@@ -2110,7 +2111,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-12T21:56:52Z",
+    "generated_at": "2026-11-12T22:05:36Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

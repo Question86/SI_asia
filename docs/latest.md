@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T21:56:47+00:00_
+_Generiert: 2026-11-12T22:05:31+00:00_
 
 ## Kurzlage
 
-99 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+100 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 ## Priorität Hoch
 
