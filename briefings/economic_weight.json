@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T21:00:18+00:00",
+  "generated_at": "2026-11-12T21:10:10+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -259,7 +259,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -2230,7 +2230,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T23:45:53+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -3080,7 +3080,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-12T04:19:04+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -3796,6 +3796,23 @@
       "first_seen_at": "2026-10-22T15:47:56+00:00",
       "last_seen_at": "2026-10-22T19:43:22+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_001221c5cf1220bfe1d1",
+      "title": "M 4.9 - 41 km N of Weining, China",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_016849870c540dd48378",
@@ -5836,23 +5853,6 @@
       "first_seen_at": "2026-11-01T19:20:57+00:00",
       "last_seen_at": "2026-11-01T23:55:49+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_001221c5cf1220bfe1d1",
-      "title": "M 4.9 - 41 km N of Weining, China",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-11-12T20:59:53+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_00e85c3d2c185ba34101",
@@ -13212,7 +13212,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -13416,7 +13416,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T08:02:24+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -13501,7 +13501,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T15:33:26+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -14198,7 +14198,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T03:02:51+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -14487,7 +14487,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -15643,7 +15643,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T17:27:45+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -15916,7 +15916,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -17072,7 +17072,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T04:34:36+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -17395,7 +17395,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T03:02:51+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -18857,7 +18857,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -20982,7 +20982,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T05:10:58+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -21747,7 +21747,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T19:44:43+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -22427,7 +22427,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T02:15:27+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -22580,7 +22580,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -23652,7 +23652,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T01:01:02+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
@@ -35777,7 +35777,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-11-12T20:59:53+00:00",
+      "last_seen_at": "2026-11-12T21:09:44+00:00",
       "status": "active"
     },
     {
