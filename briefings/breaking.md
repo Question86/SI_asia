@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-11-12T23:13:29+00:00_
+_Generiert: 2026-11-12T23:30:38+00:00_
 
 ## Barr, American Inequality and the Future of AI
 
-- Ranking Score: `32.15`
+- Ranking Score: `32.04`
 - Raw Network Score: `34.4`
 - Max Monitor Score: `16`
 - Reichweite: `institutional` / `5.0`

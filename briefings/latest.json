@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T23:13:25+00:00",
-  "run_id": "2026-11-12T23:13:25+00:00",
+  "generated_at": "2026-11-12T23:30:36+00:00",
+  "run_id": "2026-11-12T23:30:36+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 106
+      "configured_public_sources_only": 107
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 106,
-    "displayed_findings": 106,
+    "today_file_total": 107,
+    "displayed_findings": 107,
     "high": 0,
-    "medium": 42,
+    "medium": 43,
     "observe": 64,
     "source_errors": 0
   },
@@ -721,6 +721,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ed1e20b5be21ed262267"
+      },
+      {
+        "title": "Gondola doubles revenue as its team builds more with Codex",
+        "url": "https://openai.com/business/customer-stories/gondola",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-12T12:00:00+00:00",
+        "fetched_at": "2026-11-12T23:30:06+00:00",
+        "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+        "matched_keywords": [
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "93ecdf9bda8cf25810a0"
       },
       {
         "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -3306,6 +3350,50 @@
       "id": "ed1e20b5be21ed262267"
     },
     {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-12T12:00:00+00:00",
+      "fetched_at": "2026-11-12T23:30:06+00:00",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "matched_keywords": [
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "93ecdf9bda8cf25810a0"
+    },
+    {
       "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4522",
       "source": "BSI CERT-Bund Security Advisories",
@@ -5193,25 +5281,48 @@
   ],
   "new_findings": [
     {
-      "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-12T22:12:28+00:00",
-      "fetched_at": "2026-11-12T23:12:50+00:00",
-      "summary": "米Microsoftのクラウドサービス「Microsoft 365」で11月12日（米国時間）、メールサービス「Exchange Online」のメールボックスに接続できない障害が発生した。「Outlook」のWeb版やデスクトップアプリ、モバイルアプリのほか、MAPI、ActiveSync、REST経由の接続にも影響が出ている。Microsoftは一部のサーバを復旧させ...",
+      "published_at": "2026-11-12T12:00:00+00:00",
+      "fetched_at": "2026-11-12T23:30:06+00:00",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3a68911b87e37b73d421"
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "93ecdf9bda8cf25810a0"
     }
   ],
   "source_errors": [],
