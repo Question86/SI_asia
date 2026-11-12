@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-12T04:44:24+00:00_
+_Generiert: 2026-11-12T04:51:24+00:00_
 
 ## Your finance team’s ChatGPT habit is a cross-border data transfer
 
