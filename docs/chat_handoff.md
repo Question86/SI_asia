@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-12T10:20:31+00:00_
+_Generated: 2026-11-12T10:28:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `53`
+- findings: `56`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-12T10:20:31+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr
 - summary: PAGER - GREEN ShakeMap - III Time 2026-11-12 03:45:56 UTC 2026-11-12 03:45:56 UTC at epicenter Location 59.033°S 26.029°W Depth 121.56 km (75.53 mi)
 
-### 7. 定年後に移住する地方都市を検討中、ChatGPTに仙台を激推しされ、富士山がないとゴネたら「岩手山は盛岡から見たらほぼ富士山だから」とジェネリック富士山を提示された
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-12T03:10:17+00:00`
-- url: https://togetter.com/li/2769545
-- summary: bao @baobabustroll 定年後に移住する地方都市を検討する過程で、ChatGPTに仙台を激推しされてて、「でも仙台には富士山ないじゃん…」ってゴネたら「岩手山は盛岡から見たらほぼ富士山だから」ってジェネリック富士補給案を提示されたんだけど、岩手山ってジェネリック富士山として使えますか？ 2026-11-11 13:01:32
+### 7. Supporting research on AI and children’s safety
+- source: OpenAI News RSS
+- score: `13`
+- published: `2026-11-12T00:00:00+00:00`
+- url: https://openai.com/index/children-first-declaration
+- summary: OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
 
-### 8. Beyond GCash and Maya: 30 emerging fintech startups rewiring money in the Philippines
-- source: e27 Asia Startup and Tech Feed
+### 8. Holiday Extras is rethinking what it can build with Codex
+- source: OpenAI News RSS
 - score: `12`
-- published: `2026-11-12T02:00:16+00:00`
-- url: https://e27.co/beyond-gcash-and-maya-30-emerging-fintech-startups-rewiring-money-in-the-philippines-20261111/
-- summary: Filipinos have never needed a bank to move money. They have the padala, the paluwagan savings circle, the five-six lender who knows your mother, and the sari-sari store owner whose notebook doubles as the country’s most informal credit bureau. For decades, th…
+- published: `2026-11-12T09:30:00+00:00`
+- url: https://openai.com/business/customer-stories/holidays-extras-codex
+- summary: With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
 
 END OF DOCUMENT

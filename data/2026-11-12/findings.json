@@ -271,6 +271,29 @@
     "id": "ed1e20b5be21ed262267"
   },
   {
+    "title": "[UPDATE] [hoch] git: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4455",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T10:17:01+00:00",
+    "fetched_at": "2026-11-12T10:28:12+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in git ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b94d8c708ce6905459d0"
+  },
+  {
     "title": "[UPDATE] [hoch] Synology DiskStation Manager: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4430",
     "source": "BSI CERT-Bund Security Advisories",
@@ -487,6 +510,72 @@
       "LOW"
     ],
     "id": "1d3763d29072cd8d6773"
+  },
+  {
+    "title": "Supporting research on AI and children’s safety",
+    "url": "https://openai.com/index/children-first-declaration",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-12T00:00:00+00:00",
+    "fetched_at": "2026-11-12T10:28:12+00:00",
+    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "safety"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); safety (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f265751fb6c1d3557425"
+  },
+  {
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-12T09:30:00+00:00",
+    "fetched_at": "2026-11-12T10:28:12+00:00",
+    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "matched_keywords": [
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "f216d4d8a0dff0a44dff"
   },
   {
     "title": "定年後に移住する地方都市を検討中、ChatGPTに仙台を激推しされ、富士山がないとゴネたら「岩手山は盛岡から見たらほぼ富士山だから」とジェネリック富士山を提示された",

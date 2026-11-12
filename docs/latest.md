@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T10:20:31+00:00_
+_Generiert: 2026-11-12T10:28:44+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+56 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III Time 2026-11-12 03:45:56 UTC 2026-11-12 03:45:56 UTC at epicenter Location 59.033°S 26.029°W Depth 121.56 km (75.53 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Supporting research on AI and children’s safety** — Score 13, observation — [Quelle](https://openai.com/index/children-first-declaration)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-12T10:28:12+00:00`
+  - Treffer: AI/KI, OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); safety (+2.5); recent (+1.0)
+  - Kurz: OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Holiday Extras is rethinking what it can build with Codex** — Score 12, observation — [Quelle](https://openai.com/business/customer-stories/holidays-extras-codex)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-12T09:30:00+00:00`, fetched `2026-11-12T10:28:12+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **定年後に移住する地方都市を検討中、ChatGPTに仙台を激推しされ、富士山がないとゴネたら「岩手山は盛岡から見たらほぼ富士山だから」とジェネリック富士山を提示された** — Score 12, observation — [Quelle](https://togetter.com/li/2769545)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-12T03:10:17+00:00`, fetched `2026-11-12T05:42:42+00:00`
@@ -212,24 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: AWS Emulator and the engineer's job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard about a brilliant young man working t...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律施行規則の一部を改正する命令案に係る意見募集を行います** — Score 6, observation — [Quelle](https://www.digital.go.jp/get-involved/procedure/98e55a91-a46b-4f92-ac1f-7079d9d43c15)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-12T06:00:00+00:00`, fetched `2026-11-12T06:17:24+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律施行規則の一部を改正する命令案に係る意見募集を行います
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **地方公共団体情報システム標準化の課題の把握及び今後の推進方策に関する検討会（第1回）の概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/local-governments-standardization-issues/2ca6b72e-057d-4a8d-95ef-a48dc7b80a94)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-12T06:00:00+00:00`, fetched `2026-11-12T06:17:24+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 地方公共団体情報システム標準化の課題の把握及び今後の推進方策に関する検討会（第1回）の概要を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

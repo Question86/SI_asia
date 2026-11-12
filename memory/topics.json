@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T10:20:31+00:00",
+  "generated_at": "2026-11-12T10:28:44+00:00",
   "topics": {
     "security": [
       {
@@ -47,6 +47,13 @@
         "url": "https://jvn.jp/jp/JVN64740097/"
       },
       {
+        "title": "[UPDATE] [hoch] git: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T10:17:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4455"
+      },
+      {
         "title": "[UPDATE] [hoch] Synology DiskStation Manager: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-12T10:02:14+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-12T09:20:17+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4453"
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-12T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90805396/"
       }
     ],
     "ai": [
@@ -105,6 +105,20 @@
         "url": "https://e27.co/how-i-use-ai-in-venture-capital-20261109/"
       },
       {
+        "title": "Supporting research on AI and children’s safety",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://openai.com/index/children-first-declaration"
+      },
+      {
+        "title": "Holiday Extras is rethinking what it can build with Codex",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-12T09:30:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+      },
+      {
         "title": "Four hundred business cards. Zero customers",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-12T01:00:04+00:00",
@@ -131,20 +145,6 @@
         "published_at": null,
         "relevance_score": 10,
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
-      },
-      {
-        "title": "Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-12T01:00:23+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/"
-      },
-      {
-        "title": "The US economy and considerations for monetary policy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy"
       }
     ],
     "economy": [
