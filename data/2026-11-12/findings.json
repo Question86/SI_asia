@@ -1,5 +1,73 @@
 [
   {
+    "title": "AI agents can hand over working code and still lose the decision that made it right",
+    "url": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-12T03:00:55+00:00",
+    "fetched_at": "2026-11-12T03:02:20+00:00",
+    "summary": "An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. One agent implements local storage. Another later adds synchronisation […] The post AI agents can hand over working code and still lose the decision that made it…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: AI agents"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "c1558072e400bb466b61"
+  },
+  {
+    "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
+    "url": "https://jvn.jp/jp/JVN64740097/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:00:00+09:00",
+    "fetched_at": "2026-11-12T03:02:20+00:00",
+    "summary": "ソフトバンク株式会社が提供するAirターミナル6には、OSコマンドインジェクションの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ed1e20b5be21ed262267"
+  },
+  {
     "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
     "url": "https://jvn.jp/vu/JVNVU90805396/",
     "source": "JVN Japan Vulnerability Notes",

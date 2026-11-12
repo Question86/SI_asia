@@ -1,19 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-12T02:55:38+00:00",
+  "generated_at": "2026-11-12T03:02:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 2,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
-    "medium": 1,
+    "medium": 3,
     "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "AI agents can hand over working code and still lose the decision that made it right",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-12T03:00:55+00:00",
+      "relevance_score": 19,
+      "url": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/",
+      "summary": "An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. O…",
+      "section": "medium"
+    },
+    {
+      "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-12T12:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN64740097/",
+      "summary": "ソフトバンク株式会社が提供するAirターミナル6には、OSコマンドインジェクションの脆弱性が存在します。",
+      "section": "medium"
+    },
     {
       "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
       "source": "JVN Japan Vulnerability Notes",
