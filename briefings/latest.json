@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T05:21:15+00:00",
-  "run_id": "2026-11-12T05:21:15+00:00",
+  "generated_at": "2026-11-12T05:28:22+00:00",
+  "run_id": "2026-11-12T05:28:22+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -1075,28 +1075,7 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [
-    {
-      "title": "A demo, a UAE investor and a government lead: What three Hong Kong mobility firms won at SUMW",
-      "url": "https://e27.co/a-demo-a-uae-investor-and-a-government-lead-what-three-hong-kong-mobility-firms-won-at-sumw-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T05:19:43+00:00",
-      "fetched_at": "2026-11-12T05:20:47+00:00",
-      "summary": "Exhibition halls are generous with handshakes and stingy with contracts. Business cards change hands by the hundred, lanyards get scanned, and by the time the booths are dismantled, most of the goodwill has quietly evaporated. The honest way to judge a trade show is not by the crowd at the stand but by what is […] The post A demo, a UAE investor and a government lead: What three Hong Kong mobility firms won at SUMW…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "316db8dc6e1fd8245045"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
