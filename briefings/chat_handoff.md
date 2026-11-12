@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-12T11:33:12+00:00_
+_Generated: 2026-11-12T11:50:07+00:00_
 
 ## Status
-- status: `normal`
-- findings: `60`
+- status: `warning`
+- findings: `63`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-12T11:33:12+00:00_
 - url: https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/
 - summary: An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. O…
 
-### 4. [UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen
+### 4. [NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-11-12T10:52:22+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4443
-- summary: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Informationen auszulesen, Dateien zu manipulieren oder einen Denial-of-Service-Angriff durchzuführen, sowie um nicht näher spezifizierte Auswirkungen zu erzielen.
+- published: `2026-11-12T11:42:01+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521
+- summary: Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.
 
 ### 5. How I use AI in venture capital
 - source: e27 Asia Startup and Tech Feed

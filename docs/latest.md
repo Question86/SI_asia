@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T11:33:12+00:00_
+_Generiert: 2026-11-12T11:50:07+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+63 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
   - Kurz: An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. One agent implements local storage. Another later adds synchronisation […] The post AI agents can hand over working code and still lose the decision that made it…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-12T11:42:01+00:00`, fetched `2026-11-12T11:49:33+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4443)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-12T10:52:22+00:00`, fetched `2026-11-12T10:58:58+00:00`
@@ -47,15 +56,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Informationen auszulesen, Dateien zu manipulieren oder einen Denial-of-Service-Angriff durchzuführen, sowie um nicht näher spezifizierte Auswirkungen zu erzielen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4472)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-12T09:20:17+00:00`, fetched `2026-11-12T09:29:37+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib) ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Berechtigungen zu erhöhen, Sicherheitsmaßnahmen zu umgehen oder Dateien zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Japan's current account surplus and corporate adjustment** — Score 16, observation — [Quelle](https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment)
   - Quelle: BIS Central Bankers Speeches / `rss`
@@ -222,14 +222,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: パーソナルAIエージェント「Muse」をチェックしてみよう。参加後48時間以内に[設定]で私のコードを利用すると、私たち両方が10億のMuseトークンを獲得できます。 コード: CQQRFV muse.ai はい、というわけで、Meta社製AIエージェントのMuseに課金も始めて、いろいろと設定を進めています。 先月まではGrok Botなどとの協...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AWS Emulator and the engineer's job when agents write the code** — Score 8, observation — [Quelle](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
+- **AIでテストを量産したら、レビューが重くなった——レガシーコードの安全網づくり - RAKUS Developers Blog | ラクス エンジニアブログ** — Score 8, observation — [Quelle](https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-11T21:01:40+00:00`, fetched `2026-11-12T00:37:21+00:00`
-  - Treffer: agent, Hatena, hotentry
+  - Zeit: published `2026-11-12T06:01:22+00:00`, fetched `2026-11-12T11:49:33+00:00`
+  - Treffer: developer, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
-  - Kurz: AWS Emulator and the engineer's job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard about a brilliant young man working t...
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)
+  - Kurz: はじめに 伝票画面の表示処理が抱える問題 人間とAIによる大量テストの作成 並行して作ったら、レビューが重くなった 分担して進めたら、設計に差が生まれた 統一のために整えた2つのこと 1. 設計・実装の方針を揃える 2. 基準をレビュースキルにして、セルフチェックを統一する まとめ：AIに書かせるなら、方針と基準を...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -241,3 +241,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)

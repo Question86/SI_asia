@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T11:33:12+00:00",
+  "generated_at": "2026-11-12T11:50:07+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-12T09:20:17+00:00",
         "relevance_score": 21,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:42:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521"
       },
       {
         "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
@@ -54,25 +61,18 @@
         "url": "https://jvn.jp/jp/JVN64740097/"
       },
       {
+        "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:42:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4520"
+      },
+      {
         "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-12T11:12:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4404"
-      },
-      {
-        "title": "[NEU] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T10:47:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517"
-      },
-      {
-        "title": "[UPDATE] [hoch] git: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T10:17:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4455"
       }
     ],
     "ai": [
@@ -219,6 +219,78 @@
         "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market"
       }
     ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:42:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521"
+      },
+      {
+        "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:42:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4520"
+      },
+      {
+        "title": "[NEU] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T10:47:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517"
+      },
+      {
+        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-12T09:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU90805396/"
+      },
+      {
+        "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T06:12:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516"
+      },
+      {
+        "title": "The science and practice of monetary policy communication - the European Central Bank experience",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience"
+      },
+      {
+        "title": "Foundations for innovative and resilient capital markets",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.bis.org/speeches/20261112-foundations-innovative-and-resilient-capital-markets"
+      },
+      {
+        "title": "Cash and the digital euro - two sides of the same coin",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin"
+      },
+      {
+        "title": "Europe’s tokenisation race will not wait for a 2028 blueprint",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-12T04:00:37+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/"
+      },
+      {
+        "title": "The low-gear labour market",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market"
+      }
+    ],
     "general": [
       {
         "title": "M 4.8 - 155 km E of Noda, Japan",
@@ -289,78 +361,6 @@
         "published_at": "2026-11-12T02:13:52+00:00",
         "relevance_score": 5,
         "url": "https://koyasi777.com/mozkey/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T10:47:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517"
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-12T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90805396/"
-      },
-      {
-        "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T06:12:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516"
-      },
-      {
-        "title": "The science and practice of monetary policy communication - the European Central Bank experience",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience"
-      },
-      {
-        "title": "Foundations for innovative and resilient capital markets",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.bis.org/speeches/20261112-foundations-innovative-and-resilient-capital-markets"
-      },
-      {
-        "title": "Cash and the digital euro - two sides of the same coin",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin"
-      },
-      {
-        "title": "Europe’s tokenisation race will not wait for a 2028 blueprint",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-12T04:00:37+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/"
-      },
-      {
-        "title": "The low-gear labour market",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market"
-      },
-      {
-        "title": "Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-12T01:00:23+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/"
-      },
-      {
-        "title": "The US economy and considerations for monetary policy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy"
       }
     ],
     "github": [
