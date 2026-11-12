@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T09:50:47+00:00_
+_Generiert: 2026-11-12T09:57:56+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+52 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -286,7 +286,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f844a138650>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
