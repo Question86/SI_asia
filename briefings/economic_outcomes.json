@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T21:28:30+00:00",
+  "generated_at": "2026-11-12T21:36:17+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -5362,13 +5362,13 @@
     {
       "event_id": "evt_329599b2495bcc17ec94",
       "title": "Actions for ARM32 Linux & Windows retirement",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_32ac4b6ee61deef85d98",
@@ -5907,7 +5907,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_3896649e3fead249e70b",
