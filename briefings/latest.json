@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T17:48:00+00:00",
-  "run_id": "2026-11-12T17:48:00+00:00",
+  "generated_at": "2026-11-12T17:56:43+00:00",
+  "run_id": "2026-11-12T17:56:43+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 93,
     "displayed_findings": 93,
     "high": 0,
@@ -4575,28 +4575,7 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "source": "Federal Reserve Monetary Policy Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-11-12T17:45:00+00:00",
-      "fetched_at": "2026-11-12T17:47:28+00:00",
-      "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b346dddcd56cc2e4ecee"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
