@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T20:36:12+00:00",
-  "run_id": "2026-11-12T20:36:12+00:00",
+  "generated_at": "2026-11-12T20:42:30+00:00",
+  "run_id": "2026-11-12T20:42:30+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 97,
     "displayed_findings": 97,
     "high": 0,
@@ -4739,28 +4739,7 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/index/amplitude",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-12T20:00:00+00:00",
-      "fetched_at": "2026-11-12T20:35:39+00:00",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "884b656bd186b680d248"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
