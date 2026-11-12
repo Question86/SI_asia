@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T07:29:09+00:00",
+  "generated_at": "2026-11-12T07:36:40+00:00",
   "fx_as_of": null,
-  "candidate_count": 2869,
+  "candidate_count": 2871,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2869
+    "pending": 2871
   },
   "coverage_warning": null,
   "candidates": [
@@ -41628,6 +41628,27 @@
       "source_url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
     },
     {
+      "amount_native": 800000000000.0,
+      "amount_usd": 800000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.43,
+      "candidate_id": "cand_a4b47f42089078d2286e",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-12T07:36:32+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:7efc60cf4340",
+      "review_status": "pending",
+      "snippet": "ch up to demand gradually over time. AI-related debt has been rising rapidly, with notable gains in corporate bonds, private credit, and project finance, and is on track to exceed $800 billion this year. Other obligations, in the form of long-term lease and contract commitments and residual value guarantees, have also surged and their potential payments are estimated at",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 236000000000.0,
       "amount_usd": 236000000000.0,
       "attribution_probability": null,
@@ -47903,6 +47924,27 @@
       "snippet": ".301.161a.39.39 0 0 0 .024-.781Z63:[\\\"$\\\",\\\"symbol\\\",null,{\\\"viewBox\\\":\\\"0 0 16 16\\\",\\\"fill\\\":\\\"var(--_icn-c)\\\",\\\"id\\\":\\\"icn-megaphone\\\",\\\"children\\\":[\\\"$\\\",\\\"path\\\",null,{\\\"d\\\":\\\"$113\\\"}]}]\\n64:[\\\"$\\\",\\\"symbol\\\",null,{\\\"fill\\\":\\\"var(--_icn-c)\\\",\\\"viewBox\\\":\\\"0 0 16 16\\\",\\\"id\\\":\\\"icn-menu\\\",\\\"children\\\":[\\\"$\\\",\\\"path\\\",null,{\\\"d\\\":\\\"M12 13H4a1 1 0 1 1 0-2h8a1 1",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000"
+    },
+    {
+      "amount_native": 110.0,
+      "amount_usd": 110.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_04e3d76c922aa5d07c7f",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-12T07:36:32+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:b3832cc79627",
+      "review_status": "pending",
+      "snippet": "accounted for about 20 percent of global oil supply before the conflict—roughly equivalent to total U.S. oil consumption. As tensions rose, Brent oil prices moved up to and above $110 per barrel in the second half of October before dropping sharply last week on optimism that an agreement between the U.S. and Iran could be reached following the midterm elections.",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 109.0,
