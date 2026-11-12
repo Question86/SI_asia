@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-12T01:40:26Z",
+  "generated_at": "2026-11-12T02:37:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 10,
+    "dynamics": 16,
     "bands": {
-      "strong": 2,
-      "watch": 2,
+      "strong": 3,
+      "watch": 7,
       "quiet": 6
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 2,
+      "strong": 3,
+      "watch": 7,
       "quiet": 6
     }
   },
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/vu/JVNVU90805396/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-12T09:00:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -42,11 +42,35 @@
       "summary": "The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.71が公開されました。"
     },
     {
+      "title": "Beyond GCash and Maya: 30 emerging fintech startups rewiring money in the Philippines",
+      "url": "https://e27.co/beyond-gcash-and-maya-30-emerging-fintech-startups-rewiring-money-in-the-philippines-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-12T02:15:27+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Four hundred business cards. Zero customers",
       "url": "https://e27.co/four-hundred-business-cards-zero-customers-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T01:01:02+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -66,15 +90,39 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - 43 km SE of Severo-Kuril’sk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-12T01:51:56+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
       "url": "https://jvn.jp/vu/JVNVU90805396/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-02T01:21:11+00:00",
-      "age_days": 41.01,
+      "age_days": 41.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.0,
+      "dynamics_score": 15.98,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -86,7 +134,31 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -7.0 for 41.0d old signal"
+        "aging penalty -7.0 for 41.1d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Venture debt is reaching smaller startups. What founders should check before signing",
+      "url": "https://e27.co/venture-debt-is-reaching-smaller-startups-what-founders-should-check-before-signing-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-12T02:15:27+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -95,7 +167,7 @@
       "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T00:37:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -118,11 +190,83 @@
       "summary": ""
     },
     {
+      "title": "Venture debt is reaching smaller startups. What founders should check before signing",
+      "url": "https://e27.co/venture-debt-is-reaching-smaller-startups-what-founders-should-check-before-signing-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-12T02:00:09+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Venture debt used to be a tool for late-stage companies with big revenues and bigger investors. That is changing in Southeast Asia. In the first half of 2026, the region recorded 23 debt deals worth US$1.36 billion, up from 17 a year earlier. The average deal fell from about US$99 million to US$59 million, according […"
+    },
+    {
+      "title": "Beyond GCash and Maya: 30 emerging fintech startups rewiring money in the Philippines",
+      "url": "https://e27.co/beyond-gcash-and-maya-30-emerging-fintech-startups-rewiring-money-in-the-philippines-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-12T02:00:16+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Filipinos have never needed a bank to move money. They have the padala, the paluwagan savings circle, the five-six lender who knows your mother, and the sari-sari store owner whose notebook doubles as the country’s most informal credit bureau. For decades, that ingenuity filled the gap left by banks that simply did no…"
+    },
+    {
+      "title": "M 4.8 - 43 km SE of Severo-Kuril’sk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-12T01:33:09.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-11-12 01:18:44 UTC 2026-11-12 01:18:44 UTC at epicenter Location 50.440°N 156.614°E Depth 74.47 km (46.27 mi)"
+    },
+    {
       "title": "Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul",
       "url": "https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T01:01:02+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -148,7 +292,7 @@
       "url": "https://e27.co/four-hundred-business-cards-zero-customers-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T01:00:04+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -174,7 +318,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T00:37:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -200,7 +344,7 @@
       "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T21:01:40+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -226,7 +370,7 @@
       "url": "https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T01:00:23+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -252,7 +396,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T21:15:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
