@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T00:37:51+00:00",
-  "run_id": "2026-11-12T00:37:51+00:00",
+  "generated_at": "2026-11-12T01:00:59+00:00",
+  "run_id": "2026-11-12T01:00:59+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 3
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 1,
-    "observe": 2,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
@@ -53,6 +53,49 @@
       }
     ],
     "observe": [
+      {
+        "title": "Four hundred business cards. Zero customers",
+        "url": "https://e27.co/four-hundred-business-cards-zero-customers-20261110/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-12T01:00:04+00:00",
+        "fetched_at": "2026-11-12T01:00:25+00:00",
+        "summary": "The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually use it. Who comes to the booth Importers. Distributors. Consultants. […] The post Four hundred business cards. Zero customers appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Public Health"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "18c02609678fd62f8952"
+      },
+      {
+        "title": "Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul",
+        "url": "https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-12T01:00:23+00:00",
+        "fetched_at": "2026-11-12T01:00:25+00:00",
+        "summary": "Airwallex wants Singapore to know it is staying put. The cross-border payments firm said on Wednesday it will invest more than SGD2 billion (about US$1.5 billion) in the city-state over the next five years and grow its local headcount from over 750 to more than 1,000. The move cements Singapore as one of its two […] The post Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul appeare…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2c3c95be0d6ae6531733"
+      },
       {
         "title": "AWS Emulator and the engineer's job when agents write the code",
         "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
@@ -122,6 +165,49 @@
       "id": "26f2fa9144522d71b695"
     },
     {
+      "title": "Four hundred business cards. Zero customers",
+      "url": "https://e27.co/four-hundred-business-cards-zero-customers-20261110/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-12T01:00:04+00:00",
+      "fetched_at": "2026-11-12T01:00:25+00:00",
+      "summary": "The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually use it. Who comes to the booth Importers. Distributors. Consultants. […] The post Four hundred business cards. Zero customers appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Public Health"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "18c02609678fd62f8952"
+    },
+    {
+      "title": "Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul",
+      "url": "https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-12T01:00:23+00:00",
+      "fetched_at": "2026-11-12T01:00:25+00:00",
+      "summary": "Airwallex wants Singapore to know it is staying put. The cross-border payments firm said on Wednesday it will invest more than SGD2 billion (about US$1.5 billion) in the city-state over the next five years and grow its local headcount from over 750 to more than 1,000. The move cements Singapore as one of its two […] The post Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul appeare…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2c3c95be0d6ae6531733"
+    },
+    {
       "title": "AWS Emulator and the engineer's job when agents write the code",
       "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -167,47 +253,47 @@
   ],
   "new_findings": [
     {
-      "title": "AWS Emulator and the engineer's job when agents write the code",
-      "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Four hundred business cards. Zero customers",
+      "url": "https://e27.co/four-hundred-business-cards-zero-customers-20261110/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-11T21:01:40+00:00",
-      "fetched_at": "2026-11-12T00:37:21+00:00",
-      "summary": "AWS Emulator and the engineer's job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard about a brilliant young man working t...",
+      "published_at": "2026-11-12T01:00:04+00:00",
+      "fetched_at": "2026-11-12T01:00:25+00:00",
+      "summary": "The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually use it. Who comes to the booth Importers. Distributors. Consultants. […] The post Four hundred business cards. Zero customers appeared first on e27 .",
       "matched_keywords": [
-        "agent",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "founder",
+        "Public Health"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4077d874e3c584c18173"
+      "id": "18c02609678fd62f8952"
     },
     {
-      "title": "【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul",
+      "url": "https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-11T21:15:31+00:00",
-      "fetched_at": "2026-11-12T00:37:21+00:00",
-      "summary": "【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間",
+      "published_at": "2026-11-12T01:00:23+00:00",
+      "fetched_at": "2026-11-12T01:00:25+00:00",
+      "summary": "Airwallex wants Singapore to know it is staying put. The cross-border payments firm said on Wednesday it will invest more than SGD2 billion (about US$1.5 billion) in the city-state over the next five years and grow its local headcount from over 750 to more than 1,000. The move cements Singapore as one of its two […] The post Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul appeare…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "funding"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dfff4a2e6fbd97aeb638"
+      "id": "2c3c95be0d6ae6531733"
     }
   ],
   "source_errors": [],

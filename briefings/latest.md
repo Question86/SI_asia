@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T00:37:51+00:00_
+_Generiert: 2026-11-12T01:00:59+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+5 neue relevante Treffer. Stärkstes Signal: „Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Four hundred business cards. Zero customers** — Score 11, observation — [Quelle](https://e27.co/four-hundred-business-cards-zero-customers-20261110/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-12T01:00:04+00:00`, fetched `2026-11-12T01:00:25+00:00`
+  - Treffer: APAC Trend Radar, founder, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)
+  - Kurz: The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually use it. Who comes to the booth Importers. Distributors. Consultants. […] The post Four hundred business cards. Zero customers appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul** — Score 9, observation — [Quelle](https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-12T01:00:23+00:00`, fetched `2026-11-12T01:00:25+00:00`
+  - Treffer: APAC Trend Radar, funding
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Airwallex wants Singapore to know it is staying put. The cross-border payments firm said on Wednesday it will invest more than SGD2 billion (about US$1.5 billion) in the city-state over the next five years and grow its local headcount from over 750 to more than 1,000. The move cements Singapore as one of its two […] The post Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul appeare…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AWS Emulator and the engineer's job when agents write the code** — Score 8, observation — [Quelle](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-11T21:01:40+00:00`, fetched `2026-11-12T00:37:21+00:00`

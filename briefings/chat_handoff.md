@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-12T00:37:51+00:00_
+_Generated: 2026-11-12T01:00:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `5`
 
 ## Top Signals
 
@@ -15,14 +15,28 @@ _Generated: 2026-11-12T00:37:51+00:00_
 - url: https://jvn.jp/vu/JVNVU90805396/
 - summary: The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.71が公開されました。
 
-### 2. AWS Emulator and the engineer's job when agents write the code
+### 2. Four hundred business cards. Zero customers
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-11-12T01:00:04+00:00`
+- url: https://e27.co/four-hundred-business-cards-zero-customers-20261110/
+- summary: The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually…
+
+### 3. Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul
+- source: e27 Asia Startup and Tech Feed
+- score: `9`
+- published: `2026-11-12T01:00:23+00:00`
+- url: https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/
+- summary: Airwallex wants Singapore to know it is staying put. The cross-border payments firm said on Wednesday it will invest more than SGD2 billion (about US$1.5 billion) in the city-state over the next five years and grow its local headcount from over 750 to more th…
+
+### 4. AWS Emulator and the engineer's job when agents write the code
 - source: Hatena Bookmark Hotentry IT
 - score: `8`
 - published: `2026-11-11T21:01:40+00:00`
 - url: https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html
 - summary: AWS Emulator and the engineer's job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard…
 
-### 3. 【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間
+### 5. 【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-11-11T21:15:31+00:00`
