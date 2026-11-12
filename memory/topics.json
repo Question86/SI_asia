@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T12:58:23+00:00",
+  "generated_at": "2026-11-12T13:10:31+00:00",
   "topics": {
     "security": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-11-12T12:17:01+00:00",
         "relevance_score": 18,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4530"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:57:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4542"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-12T08:47:20+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T08:47:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270"
       }
     ],
     "geopolitics": [
@@ -89,6 +89,13 @@
         "published_at": "2026-11-12T12:17:01+00:00",
         "relevance_score": 18,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4530"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:57:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4542"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
@@ -138,13 +145,6 @@
         "published_at": "2026-11-12T12:17:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4533"
-      },
-      {
-        "title": "[NEU] [hoch] rsyslog: Schwachstelle ermöglicht SQL-Injection",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:12:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4528"
       }
     ],
     "ai": [

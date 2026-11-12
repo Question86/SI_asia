@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T12:58:26+00:00",
+  "generated_at": "2026-11-12T13:10:34+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 78,
+    "findings": 79,
     "clusters": 38,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -23,13 +23,13 @@
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4530",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4542",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4524",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4443"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521"
       ],
-      "finding_count": 29,
+      "finding_count": 30,
       "max_score": 22,
-      "credibility_total": 30.45,
+      "credibility_total": 31.5,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
@@ -37,7 +37,7 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 85.9,
+      "raw_network_score": 88.0,
       "ranking_score": 31.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
@@ -1491,7 +1491,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-12T12:58:26Z",
+    "generated_at": "2026-11-12T13:10:35Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
