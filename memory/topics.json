@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T09:57:56+00:00",
+  "generated_at": "2026-11-12T10:08:58+00:00",
   "topics": {
     "security": [
       {
@@ -47,6 +47,13 @@
         "url": "https://jvn.jp/jp/JVN64740097/"
       },
       {
+        "title": "[UPDATE] [hoch] Synology DiskStation Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T10:02:14+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4430"
+      },
+      {
         "title": "[UPDATE] [mittel] AMD Prozessor Zen 5: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-12T09:20:17+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-12T09:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU90805396/"
-      },
-      {
-        "title": "[UPDATE] [mittel] AMD Prozessor: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T08:47:21+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1502"
       }
     ],
     "ai": [
