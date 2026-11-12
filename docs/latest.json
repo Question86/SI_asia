@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T21:27:46+00:00",
-  "run_id": "2026-11-12T21:27:46+00:00",
+  "generated_at": "2026-11-12T21:35:28+00:00",
+  "run_id": "2026-11-12T21:35:28+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 99,
     "displayed_findings": 99,
     "high": 0,
@@ -4855,30 +4855,7 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Actions for ARM32 Linux & Windows retirement",
-      "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-12T20:59:36+00:00",
-      "fetched_at": "2026-11-12T21:27:15+00:00",
-      "summary": "GitHub Actions hosted runners will be ending support for ARM32 job execution on Windows and Linux by 8th Dec 2026. This follows our end of support for node20 where Node… The post Actions for ARM32 Linux & Windows retirement appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "GitHub",
-        "GitHub Actions"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ad913d3fe9c6d08cff91"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
