@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T07:03:15+00:00",
-  "candidate_count": 2868,
+  "generated_at": "2026-11-12T07:19:43+00:00",
+  "candidate_count": 2869,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -44316,6 +44316,24 @@
       "snippet": "ier cyber capabilities to harden their systems. We’re using our most capable models to strengthen our own defenses and making them available to Daybreak customers. We’ve committed $1 billion in subsidized access over six months for frontline defenders protecting essential services and digital infrastructure. We’re also sharing our architecture and lessons ⁠ from the l",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+    },
+    {
+      "candidate_id": "cand_6e876aa54cf198f6f94b",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin",
+      "observed_at": "2026-11-12T07:19:32+00:00",
+      "currency": "EUR",
+      "amount_native": 1000000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "estone in the development of digital European capital markets. On 2 November it settled the issuance of the European Stability Mechanism’s first digitally native benchmark bond of €1 billion, facilitating the shift in European tokenised finance from experimentation to adoption. The views expressed in this speech are those of the speaker and do not necessarily reflect",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 980000000.0,

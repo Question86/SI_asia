@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T07:03:15+00:00",
+  "generated_at": "2026-11-12T07:19:44+00:00",
   "fx_as_of": null,
-  "candidate_count": 2868,
+  "candidate_count": 2869,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2868
+    "pending": 2869
   },
   "coverage_warning": null,
   "candidates": [
@@ -58514,6 +58514,25 @@
       "snippet": "ife expectancy. In fact, the occupational pension system will not be fully mature until 2080. Nevertheless, last year median pension wealth among people aged 60–64 stood at around €240,000. That is more than three times medium annual income. Even before the system has fully matured, this represents substantial savings. And these assets continue to earn returns during",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/speeches/20261110-danish-pension-system-long-term-perspective"
+    },
+    {
+      "amount_native": 1000000000.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_6e876aa54cf198f6f94b",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-12T07:19:32+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:0d3424b8af0e",
+      "review_status": "pending",
+      "snippet": "estone in the development of digital European capital markets. On 2 November it settled the issuance of the European Stability Mechanism’s first digitally native benchmark bond of €1 billion, facilitating the shift in European tokenised finance from experimentation to adoption. The views expressed in this speech are those of the speaker and do not necessarily reflect",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin",
+      "component_confidence": 0.0
     }
   ]
 }
