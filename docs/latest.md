@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T05:36:48+00:00_
+_Generiert: 2026-11-12T05:43:15+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+21 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III Time 2026-11-12 03:45:56 UTC 2026-11-12 03:45:56 UTC at epicenter Location 59.033°S 26.029°W Depth 121.56 km (75.53 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **定年後に移住する地方都市を検討中、ChatGPTに仙台を激推しされ、富士山がないとゴネたら「岩手山は盛岡から見たらほぼ富士山だから」とジェネリック富士山を提示された** — Score 12, observation — [Quelle](https://togetter.com/li/2769545)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-12T03:10:17+00:00`, fetched `2026-11-12T05:42:42+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: bao @baobabustroll 定年後に移住する地方都市を検討する過程で、ChatGPTに仙台を激推しされてて、「でも仙台には富士山ないじゃん…」ってゴネたら「岩手山は盛岡から見たらほぼ富士山だから」ってジェネリック富士補給案を提示されたんだけど、岩手山ってジェネリック富士山として使えますか？ 2026-11-11 13:01:32
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Beyond GCash and Maya: 30 emerging fintech startups rewiring money in the Philippines** — Score 12, observation — [Quelle](https://e27.co/beyond-gcash-and-maya-30-emerging-fintech-startups-rewiring-money-in-the-philippines-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-12T02:00:16+00:00`, fetched `2026-11-12T02:14:53+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 書くことに集中できる、 日本語入力。自然に変換し、使うほど馴染む。 あなたの入力スタイルに合わせられる、日本語IME。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **人手不足解消へ ファミマがフィジカルAI導入 | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261111de74472)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-11T22:52:41+00:00`, fetched `2026-11-12T03:46:36+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: コンビニ大手のファミリーマートは、店舗の人手不足の解消に向けて、飲料を自動で補充するフィジカルAIを活用したロボットを2027年1月から全国の店舗に本格導入する方針を固めました。 ファミリーマート…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
