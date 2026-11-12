@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T09:19:17+00:00",
+  "generated_at": "2026-11-12T09:30:10+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T09:20:17+00:00",
+        "relevance_score": 21,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T09:20:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4472"
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T09:20:16+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4481"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T08:47:20+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T08:47:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270"
+      },
+      {
+        "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-12T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN64740097/"
+      },
+      {
+        "title": "[UPDATE] [mittel] AMD Prozessor Zen 5: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T09:20:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4452"
+      },
+      {
+        "title": "[UPDATE] [hoch] Checkmk: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T09:20:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4453"
+      },
+      {
+        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-12T09:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU90805396/"
+      },
+      {
+        "title": "[UPDATE] [mittel] AMD Prozessor: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T08:47:21+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1502"
+      }
+    ],
     "ai": [
       {
         "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
@@ -145,57 +217,6 @@
         "published_at": "2026-11-12T00:00:00+00:00",
         "relevance_score": 10,
         "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T08:47:20+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T08:47:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270"
-      },
-      {
-        "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-12T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN64740097/"
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-12T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90805396/"
-      },
-      {
-        "title": "[UPDATE] [mittel] AMD Prozessor: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T08:47:21+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1502"
-      },
-      {
-        "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T06:12:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516"
-      },
-      {
-        "title": "SeaX Ventures bets US$1.65M on Skribe Medical’s AI heart patch for cancer patients",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-12T04:39:19+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/seax-ventures-bets-us1-65m-on-skribe-medicals-ai-heart-patch-for-cancer-patients-20261112/"
       }
     ],
     "general": [

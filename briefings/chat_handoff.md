@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-12T09:19:17+00:00_
+_Generated: 2026-11-12T09:30:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `46`
+- findings: `51`
 
 ## Top Signals
 
-### 1. Your finance team’s ChatGPT habit is a cross-border data transfer
+### 1. [UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `21`
+- published: `2026-11-12T09:20:17+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451
+- summary: Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Informationen offenzulegen, beliebigen Code mit erhöhten Berechtigungen bis hin zu Root-Rechten auszuführen oder einen Denial-of-Service-Zustand zu verursachen.
+
+### 2. Your finance team’s ChatGPT habit is a cross-border data transfer
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-11-12T04:30:26+00:00`
 - url: https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/
 - summary: Last week I sat with the CEO and CFO of a finance company that is genuinely top of its game in this region. Sophisticated operators. Strong compliance culture on paper. 10 minutes into the conversation, it emerged that their team pastes customer records, fina…
 
-### 2. AI agents can hand over working code and still lose the decision that made it right
+### 3. AI agents can hand over working code and still lose the decision that made it right
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-11-12T03:00:55+00:00`
 - url: https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/
 - summary: An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. O…
 
-### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-11-12T08:47:20+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand herbeizuführen, sich erhöhte Privilegien zu verschaffen oder andere nicht näher bezeichnete Auswirkungen zu verursachen.
-
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-11-12T08:47:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
+- published: `2026-11-12T09:20:17+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4472
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib) ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Berechtigungen zu…
 
 ### 5. How I use AI in venture capital
 - source: e27 Asia Startup and Tech Feed
