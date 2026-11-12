@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-12T08:48:58+00:00",
+  "generated_at": "2026-11-12T08:57:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 3,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
-    "medium": 7,
+    "medium": 10,
     "observe": 33
   },
   "source_errors_count": 0,
@@ -35,23 +35,23 @@
       "section": "medium"
     },
     {
-      "title": "Japan's current account surplus and corporate adjustment",
-      "source": "BIS Central Bankers Speeches",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-12T00:00:00+00:00",
+      "published_at": "2026-11-12T08:47:20+00:00",
       "relevance_score": 16,
-      "url": "https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment",
-      "summary": "Speech by Mr Kazuo Ueda, Governor of the Bank of Japan, at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund, Washington DC, 6 November 2026.",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand herbeizuführen, sich erhöhte Privilegien zu verschaffen oder andere nicht näher bezeichnete Auswirkungen zu verursachen.",
       "section": "medium"
     },
     {
-      "title": "M 4.8 - 155 km E of Noda, Japan",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-12T04:28:21.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx",
-      "summary": "Time 2026-11-12 04:07:32 UTC 2026-11-12 04:07:32 UTC at epicenter Location 40.359°N 143.612°E Depth 33.04 km (20.53 mi)",
+      "published_at": "2026-11-12T08:47:06+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {

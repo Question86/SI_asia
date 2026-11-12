@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T08:48:58+00:00",
-  "run_id": "2026-11-12T08:48:58+00:00",
+  "generated_at": "2026-11-12T08:57:41+00:00",
+  "run_id": "2026-11-12T08:57:41+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 40
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 3,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
-    "medium": 7,
+    "medium": 10,
     "observe": 33,
     "source_errors": 0
   },
@@ -97,6 +97,54 @@
           "PINS"
         ],
         "id": "c1558072e400bb466b61"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-12T08:47:20+00:00",
+        "fetched_at": "2026-11-12T08:57:15+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand herbeizuführen, sich erhöhte Privilegien zu verschaffen oder andere nicht näher bezeichnete Auswirkungen zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5d5ab3990588d02e2f6a"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-12T08:47:06+00:00",
+        "fetched_at": "2026-11-12T08:57:15+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "81b0ac908d01b97f1bdd"
       },
       {
         "title": "Japan's current account surplus and corporate adjustment",
@@ -200,6 +248,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "26f2fa9144522d71b695"
+      },
+      {
+        "title": "[UPDATE] [mittel] AMD Prozessor: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1502",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-12T08:47:21+00:00",
+        "fetched_at": "2026-11-12T08:57:15+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in AMD Prozessor ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b8f47471c3eafb6d6dee"
       },
       {
         "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
@@ -1097,6 +1168,54 @@
       "id": "c1558072e400bb466b61"
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-12T08:47:20+00:00",
+      "fetched_at": "2026-11-12T08:57:15+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand herbeizuführen, sich erhöhte Privilegien zu verschaffen oder andere nicht näher bezeichnete Auswirkungen zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5d5ab3990588d02e2f6a"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-12T08:47:06+00:00",
+      "fetched_at": "2026-11-12T08:57:15+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "81b0ac908d01b97f1bdd"
+    },
+    {
       "title": "Japan's current account surplus and corporate adjustment",
       "url": "https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment",
       "source": "BIS Central Bankers Speeches",
@@ -1198,6 +1317,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "26f2fa9144522d71b695"
+    },
+    {
+      "title": "[UPDATE] [mittel] AMD Prozessor: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1502",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-12T08:47:21+00:00",
+      "fetched_at": "2026-11-12T08:57:15+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in AMD Prozessor ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8f47471c3eafb6d6dee"
     },
     {
       "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
@@ -2021,7 +2163,79 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-12T08:47:20+00:00",
+      "fetched_at": "2026-11-12T08:57:15+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand herbeizuführen, sich erhöhte Privilegien zu verschaffen oder andere nicht näher bezeichnete Auswirkungen zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5d5ab3990588d02e2f6a"
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-12T08:47:06+00:00",
+      "fetched_at": "2026-11-12T08:57:15+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "81b0ac908d01b97f1bdd"
+    },
+    {
+      "title": "[UPDATE] [mittel] AMD Prozessor: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1502",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-12T08:47:21+00:00",
+      "fetched_at": "2026-11-12T08:57:15+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in AMD Prozessor ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8f47471c3eafb6d6dee"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

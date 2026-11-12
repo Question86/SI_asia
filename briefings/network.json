@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T08:49:01+00:00",
+  "generated_at": "2026-11-12T08:57:44+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 40,
+    "findings": 43,
     "clusters": 29,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -10,6 +10,47 @@
     "dominance_penalized": 5
   },
   "clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1502",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516"
+      ],
+      "finding_count": 4,
+      "max_score": 16,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "network_score": 26.18,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 33.4,
+      "ranking_score": 26.18,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 7.5,
+      "baseline_bonus": 1.18,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
     {
       "key": "title:your-finance-team-chatgpt-habit-cross-border-data",
       "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
@@ -211,82 +252,6 @@
       "first_seen_at": "2026-10-02T01:21:11+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 15.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "domain:togetter.com",
-      "title": "定年後に移住する地方都市を検討中、ChatGPTに仙台を激推しされ、富士山がないとゴネたら「岩手山は盛岡から見たらほぼ富士山だから」とジェネリック富士山を提示された",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2769545"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.58,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 14.58,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.08,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T12:31:48+00:00"
-    },
-    {
       "key": "title:use-venture-capital",
       "title": "How I use AI in venture capital",
       "sources": [
@@ -325,6 +290,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-12T05:10:58+00:00"
+    },
+    {
+      "key": "domain:togetter.com",
+      "title": "定年後に移住する地方都市を検討中、ChatGPTに仙台を激推しされ、富士山がないとゴネたら「岩手山は盛岡から見たらほぼ富士山だから」とジェネリック富士山を提示された",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2769545"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.49,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 14.49,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.99,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T12:31:48+00:00"
     },
     {
       "key": "earthquake:japan:4.8",
@@ -1139,7 +1142,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-12T08:49:02Z",
+    "generated_at": "2026-11-12T08:57:45Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
