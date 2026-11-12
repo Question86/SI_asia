@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-12T01:59:11+00:00",
+  "generated_at": "2026-11-12T02:15:23+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 2,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 1,
-    "observe": 5
+    "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,6 +25,16 @@
       "section": "medium"
     },
     {
+      "title": "Beyond GCash and Maya: 30 emerging fintech startups rewiring money in the Philippines",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-12T02:00:16+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/beyond-gcash-and-maya-30-emerging-fintech-startups-rewiring-money-in-the-philippines-20261111/",
+      "summary": "Filipinos have never needed a bank to move money. They have the padala, the paluwagan savings circle, the five-six lender who knows your mother, and the sari-sari store owner whose notebook doubles as the country’s most informal credit bureau. For decades, th…",
+      "section": "observe"
+    },
+    {
       "title": "Four hundred business cards. Zero customers",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -35,6 +45,16 @@
       "section": "observe"
     },
     {
+      "title": "Venture debt is reaching smaller startups. What founders should check before signing",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-12T02:00:09+00:00",
+      "relevance_score": 9,
+      "url": "https://e27.co/venture-debt-is-reaching-smaller-startups-what-founders-should-check-before-signing-20261106/",
+      "summary": "Venture debt used to be a tool for late-stage companies with big revenues and bigger investors. That is changing in Southeast Asia. In the first half of 2026, the region recorded 23 debt deals worth US$1.36 billion, up from 17 a year earlier. The average deal…",
+      "section": "observe"
+    },
+    {
       "title": "M 4.8 - 43 km SE of Severo-Kuril’sk, Russia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -42,26 +62,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa",
       "summary": "Time 2026-11-12 01:18:44 UTC 2026-11-12 01:18:44 UTC at epicenter Location 50.440°N 156.614°E Depth 74.47 km (46.27 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T01:00:23+00:00",
-      "relevance_score": 9,
-      "url": "https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/",
-      "summary": "Airwallex wants Singapore to know it is staying put. The cross-border payments firm said on Wednesday it will invest more than SGD2 billion (about US$1.5 billion) in the city-state over the next five years and grow its local headcount from over 750 to more th…",
-      "section": "observe"
-    },
-    {
-      "title": "AWS Emulator and the engineer's job when agents write the code",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-11T21:01:40+00:00",
-      "relevance_score": 8,
-      "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
-      "summary": "AWS Emulator and the engineer's job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard…",
       "section": "observe"
     }
   ],
