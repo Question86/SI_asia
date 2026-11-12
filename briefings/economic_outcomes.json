@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T17:20:49+00:00",
+  "generated_at": "2026-11-12T17:28:30+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -17468,7 +17468,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a19d1d2111ec4a2bf062",
@@ -23838,6 +23838,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e015b51eb599a598c2ff",
+      "title": "2026-020: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_e02859746a61908e4378",
