@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-12T22:46:36+00:00_
+_Generated: 2026-11-12T23:02:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `104`
+- findings: `105`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-12T22:46:36+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451
 - summary: Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Informationen offenzulegen, beliebigen Code mit erhöhten Berechtigungen bis hin zu Root-Rechten auszuführen oder einen Denial-of-Service-Zustand zu verursachen.
 
-### 3. Your finance team’s ChatGPT habit is a cross-border data transfer
+### 3. Build once, run on any agent: A practical guide to agent skills
+- source: GitHub Blog Atom
+- score: `20`
+- published: `2026-11-12T22:54:52+00:00`
+- url: https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/
+- summary: Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared f…
+
+### 4. Your finance team’s ChatGPT habit is a cross-border data transfer
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-11-12T04:30:26+00:00`
 - url: https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/
 - summary: Last week I sat with the CEO and CFO of a finance company that is genuinely top of its game in this region. Sophisticated operators. Strong compliance culture on paper. 10 minutes into the conversation, it emerged that their team pastes customer records, fina…
-
-### 4. AI agents can hand over working code and still lose the decision that made it right
-- source: e27 Asia Startup and Tech Feed
-- score: `19`
-- published: `2026-11-12T03:00:55+00:00`
-- url: https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/
-- summary: An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. O…
 
 ### 5. How I use AI in venture capital
 - source: e27 Asia Startup and Tech Feed

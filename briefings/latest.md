@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T22:46:36+00:00_
+_Generiert: 2026-11-12T23:02:13+00:00_
 
 ## Kurzlage
 
-104 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+105 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Informationen offenzulegen, beliebigen Code mit erhöhten Berechtigungen bis hin zu Root-Rechten auszuführen oder einen Denial-of-Service-Zustand zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Build once, run on any agent: A practical guide to agent skills** — Score 20, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-11-12T22:54:52+00:00`, fetched `2026-11-12T23:01:43+00:00`
+  - Treffer: AI Agents, AI/KI, Content-Chance, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Content-Chance (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
+  - Kurz: Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your finance team’s ChatGPT habit is a cross-border data transfer** — Score 20, observation — [Quelle](https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
