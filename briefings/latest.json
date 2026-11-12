@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T01:00:59+00:00",
-  "run_id": "2026-11-12T01:00:59+00:00",
+  "generated_at": "2026-11-12T01:18:19+00:00",
+  "run_id": "2026-11-12T01:18:19+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 5,
     "displayed_findings": 5,
     "high": 0,
@@ -251,51 +251,7 @@
       "id": "dfff4a2e6fbd97aeb638"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Four hundred business cards. Zero customers",
-      "url": "https://e27.co/four-hundred-business-cards-zero-customers-20261110/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T01:00:04+00:00",
-      "fetched_at": "2026-11-12T01:00:25+00:00",
-      "summary": "The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually use it. Who comes to the booth Importers. Distributors. Consultants. […] The post Four hundred business cards. Zero customers appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "Public Health"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "18c02609678fd62f8952"
-    },
-    {
-      "title": "Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul",
-      "url": "https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T01:00:23+00:00",
-      "fetched_at": "2026-11-12T01:00:25+00:00",
-      "summary": "Airwallex wants Singapore to know it is staying put. The cross-border payments firm said on Wednesday it will invest more than SGD2 billion (about US$1.5 billion) in the city-state over the next five years and grow its local headcount from over 750 to more than 1,000. The move cements Singapore as one of its two […] The post Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul appeare…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "funding"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2c3c95be0d6ae6531733"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
