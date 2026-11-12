@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T22:30:27+00:00_
+_Generiert: 2026-11-12T22:46:36+00:00_
 
 ## Kurzlage
 
@@ -33,14 +33,14 @@ _Generiert: 2026-11-12T22:30:27+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Myanmar
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577060)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI&gt;=VII).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576618)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576372)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.
 - **USGS earthquake M5.8 - 148 km NW of Kavieng, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp)
   - Quelle: USGS
   - Zeit: `2026-11-12T22:04:06+00:00`
