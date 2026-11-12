@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-12T07:02:34+00:00",
-  "run_id": "2026-11-12T07:02:34+00:00",
+  "generated_at": "2026-11-12T07:18:54+00:00",
+  "run_id": "2026-11-12T07:18:54+00:00",
   "date": "2026-11-12",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 31
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 4,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
-    "medium": 6,
-    "observe": 21,
-    "source_errors": 1
+    "medium": 7,
+    "observe": 24,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -97,6 +97,28 @@
           "PINS"
         ],
         "id": "c1558072e400bb466b61"
+      },
+      {
+        "title": "Japan's current account surplus and corporate adjustment",
+        "url": "https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "fetched_at": "2026-11-12T07:18:24+00:00",
+        "summary": "Speech by Mr Kazuo Ueda, Governor of the Bank of Japan, at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund, Washington DC, 6 November 2026.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "banking",
+          "Macro/Policy"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); banking (+2.0); recent (+1.0); watchgraph region usa: Washington DC (+2.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d58cac766d3f74ce06b7"
       },
       {
         "title": "M 4.8 - 155 km E of Noda, Japan",
@@ -351,6 +373,48 @@
         "id": "18c02609678fd62f8952"
       },
       {
+        "title": "Cash and the digital euro - two sides of the same coin",
+        "url": "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "fetched_at": "2026-11-12T07:18:24+00:00",
+        "summary": "Introductory statement by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 10 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: parliament"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "33c53d50391348ebb14f"
+      },
+      {
         "title": "Europe’s tokenisation race will not wait for a 2028 blueprint",
         "url": "https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -370,6 +434,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a72c2e3b72679933004e"
+      },
+      {
+        "title": "The low-gear labour market",
+        "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "fetched_at": "2026-11-12T07:18:24+00:00",
+        "summary": "Speech by Ms Clare Lombardelli, Deputy Governor for Monetary Policy of the Bank of England, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.",
+        "matched_keywords": [
+          "macro",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+5.0); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ffb6913b3f4cdd10bdd4"
       },
       {
         "title": "Venture debt is reaching smaller startups. What founders should check before signing",
@@ -512,6 +597,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f81f612c7520b3dd683f"
+      },
+      {
+        "title": "One policy, many realities - why differences matter for monetary policy",
+        "url": "https://www.bis.org/speeches/20261112-one-policy-many-realities-why-differences-matter-monetary-policy",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "fetched_at": "2026-11-12T07:18:24+00:00",
+        "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the opening of the 29th Annual Research Conference of De Nederlandsche Bank, Amsterdam, 10 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "88c48054e29643158be8"
       },
       {
         "title": "Central bank independence in today’s world",
@@ -769,6 +874,28 @@
       "id": "c1558072e400bb466b61"
     },
     {
+      "title": "Japan's current account surplus and corporate adjustment",
+      "url": "https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "fetched_at": "2026-11-12T07:18:24+00:00",
+      "summary": "Speech by Mr Kazuo Ueda, Governor of the Bank of Japan, at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund, Washington DC, 6 November 2026.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "banking",
+        "Macro/Policy"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); banking (+2.0); recent (+1.0); watchgraph region usa: Washington DC (+2.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d58cac766d3f74ce06b7"
+    },
+    {
       "title": "M 4.8 - 155 km E of Noda, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1019,6 +1146,48 @@
       "id": "18c02609678fd62f8952"
     },
     {
+      "title": "Cash and the digital euro - two sides of the same coin",
+      "url": "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "fetched_at": "2026-11-12T07:18:24+00:00",
+      "summary": "Introductory statement by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 10 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: parliament"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "33c53d50391348ebb14f"
+    },
+    {
       "title": "Europe’s tokenisation race will not wait for a 2028 blueprint",
       "url": "https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1038,6 +1207,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a72c2e3b72679933004e"
+    },
+    {
+      "title": "The low-gear labour market",
+      "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "fetched_at": "2026-11-12T07:18:24+00:00",
+      "summary": "Speech by Ms Clare Lombardelli, Deputy Governor for Monetary Policy of the Bank of England, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.",
+      "matched_keywords": [
+        "macro",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ffb6913b3f4cdd10bdd4"
     },
     {
       "title": "Venture debt is reaching smaller startups. What founders should check before signing",
@@ -1180,6 +1370,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f81f612c7520b3dd683f"
+    },
+    {
+      "title": "One policy, many realities - why differences matter for monetary policy",
+      "url": "https://www.bis.org/speeches/20261112-one-policy-many-realities-why-differences-matter-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "fetched_at": "2026-11-12T07:18:24+00:00",
+      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the opening of the 29th Annual Research Conference of De Nederlandsche Bank, Amsterdam, 10 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "88c48054e29643158be8"
     },
     {
       "title": "Central bank independence in today’s world",
@@ -1367,54 +1577,112 @@
   ],
   "new_findings": [
     {
-      "title": "Opening remarks - Joint Central Bank of Kuwait and Global Finance Magazine Roundtable Discussion with Kuwait Banks",
-      "url": "https://www.bis.org/speeches/20261112-opening-remarks-joint-central-bank-kuwait-and-global-finance-magazine-roundtable-discussion-kuwait-banks",
+      "title": "Japan's current account surplus and corporate adjustment",
+      "url": "https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "fetched_at": "2026-11-12T07:02:00+00:00",
-      "summary": "Opening remarks by His Excellency Mr Basel A Al-Haroon, Governor of the Central Bank of Kuwait, at the Joint Central Bank of Kuwait and Global Finance Magazine Roundtable Discussion with Kuwait Banks, Kuwait City, 23 September 2026.",
+      "fetched_at": "2026-11-12T07:18:24+00:00",
+      "summary": "Speech by Mr Kazuo Ueda, Governor of the Bank of Japan, at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund, Washington DC, 6 November 2026.",
       "matched_keywords": [
+        "APAC Trend Radar",
+        "banking",
         "Macro/Policy"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); banking (+2.0); recent (+1.0); watchgraph region usa: Washington DC (+2.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f81f612c7520b3dd683f"
+      "id": "d58cac766d3f74ce06b7"
     },
     {
-      "title": "Central bank independence in today’s world",
-      "url": "https://www.bis.org/speeches/20261112-central-bank-independence-todays-world",
+      "title": "Cash and the digital euro - two sides of the same coin",
+      "url": "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "fetched_at": "2026-11-12T07:02:00+00:00",
-      "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the Swiss Institute of International Studies (SIAF) Lecture Series, Zurich University, Zurich, 9 November 2026.",
+      "fetched_at": "2026-11-12T07:18:24+00:00",
+      "summary": "Introductory statement by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 10 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: parliament"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "33c53d50391348ebb14f"
+    },
+    {
+      "title": "The low-gear labour market",
+      "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "fetched_at": "2026-11-12T07:18:24+00:00",
+      "summary": "Speech by Ms Clare Lombardelli, Deputy Governor for Monetary Policy of the Bank of England, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.",
+      "matched_keywords": [
+        "macro",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ffb6913b3f4cdd10bdd4"
+    },
+    {
+      "title": "One policy, many realities - why differences matter for monetary policy",
+      "url": "https://www.bis.org/speeches/20261112-one-policy-many-realities-why-differences-matter-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "fetched_at": "2026-11-12T07:18:24+00:00",
+      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the opening of the 29th Annual Research Conference of De Nederlandsche Bank, Amsterdam, 10 November 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
       "relevance_score": 7,
       "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b39877fd5aade181295c"
+      "id": "88c48054e29643158be8"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

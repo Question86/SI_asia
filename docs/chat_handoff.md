@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-12T07:02:34+00:00_
+_Generated: 2026-11-12T07:18:54+00:00_
 
 ## Status
-- status: `warning`
-- findings: `27`
+- status: `normal`
+- findings: `31`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-12T07:02:34+00:00_
 - url: https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/
 - summary: An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. O…
 
-### 3. M 4.8 - 155 km E of Noda, Japan
+### 3. Japan's current account surplus and corporate adjustment
+- source: BIS Central Bankers Speeches
+- score: `16`
+- published: `2026-11-12T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment
+- summary: Speech by Mr Kazuo Ueda, Governor of the Bank of Japan, at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund, Washington DC, 6 November 2026.
+
+### 4. M 4.8 - 155 km E of Noda, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-12T04:28:21.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx
 - summary: Time 2026-11-12 04:07:32 UTC 2026-11-12 04:07:32 UTC at epicenter Location 40.359°N 143.612°E Depth 33.04 km (20.53 mi)
-
-### 4. SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-12T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN64740097/
-- summary: ソフトバンク株式会社が提供するAirターミナル6には、OSコマンドインジェクションの脆弱性が存在します。
 
 ### 5. How I use AI in venture capital
 - source: e27 Asia Startup and Tech Feed

@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-12T07:02:34+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-11-12T07:18:54+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 4,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
-    "medium": 6,
-    "observe": 21
+    "medium": 7,
+    "observe": 24
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Japan's current account surplus and corporate adjustment",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "relevance_score": 16,
+      "url": "https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment",
+      "summary": "Speech by Mr Kazuo Ueda, Governor of the Bank of Japan, at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund, Washington DC, 6 November 2026.",
+      "section": "medium"
+    },
+    {
       "title": "M 4.8 - 155 km E of Noda, Japan",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx",
       "summary": "Time 2026-11-12 04:07:32 UTC 2026-11-12 04:07:32 UTC at epicenter Location 40.359°N 143.612°E Depth 33.04 km (20.53 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-12T12:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN64740097/",
-      "summary": "ソフトバンク株式会社が提供するAirターミナル6には、OSコマンドインジェクションの脆弱性が存在します。",
       "section": "medium"
     },
     {
