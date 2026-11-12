@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T15:48:00+00:00",
+  "generated_at": "2026-11-12T15:56:26+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 91,
     "clusters": 48,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 6
   },
   "clusters": [
@@ -33,18 +33,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 25.74,
+      "network_score": 25.3,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 85.0,
-      "ranking_score": 25.74,
+      "ranking_score": 25.3,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.24,
+      "baseline_bonus": 1.8,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -52,44 +52,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "cve:CVE-2026-125350",
-      "title": "Multiples vulnérabilités dans Google Chrome (10 novembre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 23.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-12T15:33:26+00:00"
     },
     {
       "key": "title:your-finance-team-chatgpt-habit-cross-border-data",
@@ -206,6 +168,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-10-14T08:02:24+00:00"
+    },
+    {
+      "key": "cve:CVE-2026-125350",
+      "title": "Multiples vulnérabilités dans Google Chrome (10 novembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-12T15:33:26+00:00"
     },
     {
       "key": "domain:www.bis.org",
@@ -874,6 +874,46 @@
       "first_seen_at": "2026-11-12T01:01:02+00:00"
     },
     {
+      "key": "domain:www.heise.de",
+      "title": "Zoom für Windows: Angreifer können Rechte über das Netz ausweiten",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Zoom-fuer-Windows-Angreifer-koennen-Rechte-ueber-das-Netz-ausweiten-11522500.html",
+        "https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11522940.html",
+        "https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html"
+      ],
+      "finding_count": 3,
+      "max_score": 7,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.56,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.3,
+      "ranking_score": 9.56,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.06,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
+    },
+    {
       "key": "title:why-kerala-grandparents-may-its-smartest-startup-bet",
       "title": "Why Kerala’s grandparents may be its smartest startup bet",
       "sources": [
@@ -1254,46 +1294,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-12T15:33:26+00:00"
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "Zoom für Windows: Angreifer können Rechte über das Netz ausweiten",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Zoom-fuer-Windows-Angreifer-koennen-Rechte-ueber-das-Netz-ausweiten-11522500.html",
-        "https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11522940.html",
-        "https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html"
-      ],
-      "finding_count": 3,
-      "max_score": 7,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.49,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.3,
-      "ranking_score": 9.49,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.99,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:manila-has-series-boom-series-funeral-mynt-record",
@@ -1876,7 +1876,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-12T15:48:01Z",
+    "generated_at": "2026-11-12T15:56:26Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
