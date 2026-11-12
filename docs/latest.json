@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T05:10:55+00:00",
-  "run_id": "2026-11-12T05:10:55+00:00",
+  "generated_at": "2026-11-12T05:21:15+00:00",
+  "run_id": "2026-11-12T05:21:15+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 5,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -530,6 +530,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "439f06168d293d193f9b"
+      },
+      {
+        "title": "A demo, a UAE investor and a government lead: What three Hong Kong mobility firms won at SUMW",
+        "url": "https://e27.co/a-demo-a-uae-investor-and-a-government-lead-what-three-hong-kong-mobility-firms-won-at-sumw-20261112/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-12T05:19:43+00:00",
+        "fetched_at": "2026-11-12T05:20:47+00:00",
+        "summary": "Exhibition halls are generous with handshakes and stingy with contracts. Business cards change hands by the hundred, lanyards get scanned, and by the time the booths are dismantled, most of the goodwill has quietly evaporated. The honest way to judge a trade show is not by the crowd at the stand but by what is […] The post A demo, a UAE investor and a government lead: What three Hong Kong mobility firms won at SUMW…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0); watchgraph demote demo (x0.45)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "316db8dc6e1fd8245045"
       }
     ]
   },
@@ -1033,51 +1053,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "439f06168d293d193f9b"
+    },
+    {
+      "title": "A demo, a UAE investor and a government lead: What three Hong Kong mobility firms won at SUMW",
+      "url": "https://e27.co/a-demo-a-uae-investor-and-a-government-lead-what-three-hong-kong-mobility-firms-won-at-sumw-20261112/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-12T05:19:43+00:00",
+      "fetched_at": "2026-11-12T05:20:47+00:00",
+      "summary": "Exhibition halls are generous with handshakes and stingy with contracts. Business cards change hands by the hundred, lanyards get scanned, and by the time the booths are dismantled, most of the goodwill has quietly evaporated. The honest way to judge a trade show is not by the crowd at the stand but by what is […] The post A demo, a UAE investor and a government lead: What three Hong Kong mobility firms won at SUMW…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "316db8dc6e1fd8245045"
     }
   ],
   "new_findings": [
     {
-      "title": "How I use AI in venture capital",
-      "url": "https://e27.co/how-i-use-ai-in-venture-capital-20261109/",
+      "title": "A demo, a UAE investor and a government lead: What three Hong Kong mobility firms won at SUMW",
+      "url": "https://e27.co/a-demo-a-uae-investor-and-a-government-lead-what-three-hong-kong-mobility-firms-won-at-sumw-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-12T05:00:44+00:00",
-      "fetched_at": "2026-11-12T05:10:27+00:00",
-      "summary": "As a Venture Capital (“VC”) investor, making timely and data-driven investment decisions sits at the core of what we do. Yet, we often come across common problems within our investment process. These have traditionally created bottlenecks, inefficiencies and ultimately sometimes lead us to making untimely or wrong investment decisions. A typical VC investment process The […] The post How I use AI in venture capital…",
+      "published_at": "2026-11-12T05:19:43+00:00",
+      "fetched_at": "2026-11-12T05:20:47+00:00",
+      "summary": "Exhibition halls are generous with handshakes and stingy with contracts. Business cards change hands by the hundred, lanyards get scanned, and by the time the booths are dismantled, most of the goodwill has quietly evaporated. The honest way to judge a trade show is not by the crowd at the stand but by what is […] The post A demo, a UAE investor and a government lead: What three Hong Kong mobility firms won at SUMW…",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "relevance_score": 3,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0); watchgraph demote demo (x0.45)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "34d90c3837e5d66dd8aa"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "316db8dc6e1fd8245045"
     }
   ],
   "source_errors": [],
