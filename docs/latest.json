@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T19:52:31+00:00",
-  "run_id": "2026-11-12T19:52:31+00:00",
+  "generated_at": "2026-11-12T20:00:54+00:00",
+  "run_id": "2026-11-12T20:00:54+00:00",
   "date": "2026-11-12",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 96
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 39,
     "observe": 57,
-    "source_errors": 0
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -4700,7 +4700,20 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "cert_eu_security_advisories",
+      "source_name": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "hn_release_security_burst",
+      "source_name": "Hacker News Release/Security Burst",
+      "source_type": "hackernews",
+      "error": "HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
