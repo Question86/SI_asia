@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T23:47:21+00:00",
+  "generated_at": "2026-11-12T23:53:45+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 107,
-    "clusters": 58,
+    "findings": 109,
+    "clusters": 59,
     "cross_source_confrmed": 1,
     "hot": 1,
     "early_signals": 0,
-    "dominance_penalized": 7
+    "dominance_penalized": 8
   },
   "clusters": [
     {
@@ -35,18 +35,18 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 31.94,
+      "network_score": 31.82,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 34.4,
-      "ranking_score": 31.94,
+      "ranking_score": 31.82,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 10.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.44,
+      "baseline_bonus": 2.32,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -54,6 +54,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "earthquake:updates | reliefweb:unknown",
+      "title": "Updates | ReliefWeb",
+      "sources": [
+        "ReliefWeb Mindanao Recovery Watch"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      ],
+      "finding_count": 1,
+      "max_score": 23,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 26.02,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 28.7,
+      "ranking_score": 26.02,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.12,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-19T11:28:55+00:00"
     },
     {
       "key": "domain:wid.cert-bund.de",
@@ -175,6 +215,50 @@
       "first_seen_at": "2026-11-12T04:34:36+00:00"
     },
     {
+      "key": "domain:openai.com",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/business/customer-stories/gondola",
+        "https://openai.com/index/children-first-declaration",
+        "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "https://openai.com/index/amplitude",
+        "https://openai.com/business/customer-stories/amplitude"
+      ],
+      "finding_count": 5,
+      "max_score": 14,
+      "credibility_total": 5.25,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.32,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 27.5,
+      "ranking_score": 21.32,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 3.32,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
       "key": "title:agents-can-hand-over-working-code-still-lose",
       "title": "AI agents can hand over working code and still lose the decision that made it right",
       "sources": [
@@ -289,49 +373,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-12T15:33:26+00:00"
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/business/customer-stories/gondola",
-        "https://openai.com/index/children-first-declaration",
-        "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "https://openai.com/index/amplitude"
-      ],
-      "finding_count": 4,
-      "max_score": 14,
-      "credibility_total": 4.2,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.91,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 22.4,
-      "ranking_score": 16.91,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.41,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "domain:www.bis.org",
@@ -1792,18 +1833,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 7.08,
+      "network_score": 7.05,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 9.2,
-      "ranking_score": 7.08,
+      "ranking_score": 7.05,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.58,
+      "baseline_bonus": 0.55,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2271,7 +2312,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-12T23:47:22Z",
+    "generated_at": "2026-11-12T23:53:46Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

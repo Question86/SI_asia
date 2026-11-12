@@ -1,5 +1,47 @@
 [
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-11-12T23:53:33+00:00",
+    "fetched_at": "2026-11-12T23:53:19+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "1fbf2804343eaf85a640"
+  },
+  {
     "title": "[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1819,6 +1861,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "884b656bd186b680d248"
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-12T20:00:00+00:00",
+    "fetched_at": "2026-11-12T23:53:19+00:00",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "031f5ef49c97b4ff21c0"
   },
   {
     "title": "Why Kerala’s grandparents may be its smartest startup bet",

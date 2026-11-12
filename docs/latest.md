@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T23:47:18+00:00_
+_Generiert: 2026-11-12T23:53:42+00:00_
 
 ## Kurzlage
 
-107 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+109 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-11-12T23:53:33+00:00`, fetched `2026-11-12T23:53:19+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen** — Score 22, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-12T12:17:01+00:00`, fetched `2026-11-12T12:22:39+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
   - Kurz: Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90805396/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-11-12T09:00:00+09:00`, fetched `2026-11-12T00:01:45+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.71が公開されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -288,9 +288,9 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
