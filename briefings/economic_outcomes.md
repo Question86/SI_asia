@@ -1,12 +1,12 @@
 # Economic Outcomes
 
-Generated: `2026-11-11T23:48:05+00:00`
+Generated: `2026-11-12T00:02:53+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | M 5.2 - 201 km ENE of Nagqu, China | $0 | — | 0 | 0 | dormant |
 | ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ | $0 | — | 0 | 0 | dormant |
-| Singapore is paying startups to secure the AI agents it is racing to deploy | $0 | — | 0 | 0 | active |
+| Singapore is paying startups to secure the AI agents it is racing to deploy | $0 | — | 0 | 0 | dormant |
 | Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性 | $0 | — | 0 | 0 | dormant |
 | Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | dormant |
 | M 4.9 - 12 km SSW of Tebario, Panama | $0 | — | 0 | 0 | dormant |
