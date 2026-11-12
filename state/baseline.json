@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T15:33:26+00:00",
+  "generated_at": "2026-11-12T15:42:27+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,7 +99,7 @@
     },
     "domain:openai.com": {
       "title": "Supporting research on AI and children’s safety",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         17.2,
         17.2,
@@ -939,7 +939,7 @@
     },
     "domain:www.bis.org": {
       "title": "Japan's current account surplus and corporate adjustment",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         41.2,
         41.2,
@@ -979,9 +979,8 @@
     },
     "domain:www.federalreserve.gov": {
       "title": "Barr, American Inequality and the Future of AI",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
-        20.1,
         20.1,
         20.1,
         20.1,
@@ -1010,12 +1009,13 @@
         21.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 21.08,
+      "rolling_average": 21.02,
       "rolling_peak": 25.2,
       "last_score": 18.1,
-      "z_hint": -2.98
+      "z_hint": -2.92
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45",
@@ -4408,9 +4408,8 @@
     },
     "domain:www.heise.de": {
       "title": "Zoom für Windows: Angreifer können Rechte über das Netz ausweiten",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
-        18.3,
         18.3,
         18.3,
         12.1,
@@ -4439,12 +4438,13 @@
         13.3,
         13.3,
         13.3,
+        13.3,
         13.3
       ],
-      "rolling_average": 11.16,
+      "rolling_average": 10.99,
       "rolling_peak": 18.3,
       "last_score": 13.3,
-      "z_hint": 2.14
+      "z_hint": 2.31
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -5194,7 +5194,7 @@
     },
     "domain:togetter.com": {
       "title": "定年後に移住する地方都市を検討中、ChatGPTに仙台を激推しされ、富士山がないとゴネたら「岩手山は盛岡から見たらほぼ富士山だから」とジェネリック富士山を提示された",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -5952,9 +5952,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
-        49.2,
         46.2,
         51.3,
         48.3,
@@ -5983,12 +5982,13 @@
         85.0,
         85.0,
         85.0,
+        85.0,
         85.0
       ],
-      "rolling_average": 76.9,
+      "rolling_average": 78.1,
       "rolling_peak": 94.6,
       "last_score": 85.0,
-      "z_hint": 8.1
+      "z_hint": 6.9
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -6707,7 +6707,7 @@
     },
     "title:nhk": {
       "title": "人手不足解消へ ファミマがフィジカルAI導入 | NHKニュース",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -7117,7 +7117,7 @@
     },
     "earthquake:japan:4.8": {
       "title": "M 4.8 - 155 km E of Noda, Japan",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -30968,11 +30968,10 @@
     },
     "domain:scrapbox.io": {
       "title": "そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         7.1,
         7.1,
-        7.1,
         10.1,
         7.1,
         7.1,
@@ -30985,6 +30984,7 @@
         7.1,
         7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -33832,7 +33832,7 @@
     },
     "title:watch": {
       "title": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -57396,7 +57396,7 @@
     },
     "title:apache-http-server-2026": {
       "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -73533,7 +73533,7 @@
     },
     "domain:asp.net": {
       "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -114781,7 +114781,7 @@
     },
     "domain:www.allthingsdistributed.com": {
       "title": "AWS Emulator and the engineer's job when agents write the code",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -114821,7 +114821,7 @@
     },
     "title:meta-muse": {
       "title": "【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -114861,7 +114861,7 @@
     },
     "title:four-hundred-business-cards-zero-customers": {
       "title": "Four hundred business cards. Zero customers",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -114901,7 +114901,7 @@
     },
     "title:airwallex-singapore-pledge-dwarfs-island-entire-fintech-funding": {
       "title": "Airwallex’s US$1.5B Singapore pledge dwarfs the island’s entire fintech funding haul",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -114941,7 +114941,7 @@
     },
     "earthquake:m 4.8 - 43 km se of severo-kuril’sk, russia:4.8": {
       "title": "M 4.8 - 43 km SE of Severo-Kuril’sk, Russia",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -114981,7 +114981,7 @@
     },
     "title:beyond-gcash-maya-emerging-fintech-startups-rewiring-money": {
       "title": "Beyond GCash and Maya: 30 emerging fintech startups rewiring money in the Philippines",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -115021,7 +115021,7 @@
     },
     "title:venture-debt-reaching-smaller-startups-what-founders-should": {
       "title": "Venture debt is reaching smaller startups. What founders should check before signing",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -115061,7 +115061,7 @@
     },
     "title:agents-can-hand-over-working-code-still-lose": {
       "title": "AI agents can hand over working code and still lose the decision that made it right",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         21.1,
         21.1,
@@ -115101,7 +115101,7 @@
     },
     "title:softbank-air": {
       "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -115141,7 +115141,7 @@
     },
     "domain:koyasi777.com": {
       "title": "Mozkey（もずきー）| 書くことに集中できる、日本語入力。",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -115181,7 +115181,7 @@
     },
     "earthquake:m 5.4 - south sandwich islands region:5.4": {
       "title": "M 5.4 - South Sandwich Islands region",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         15.7,
         15.7,
@@ -115221,7 +115221,7 @@
     },
     "title:europe-tokenisation-race-will-not-wait-2028-blueprint": {
       "title": "Europe’s tokenisation race will not wait for a 2028 blueprint",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -115261,7 +115261,7 @@
     },
     "title:your-finance-team-chatgpt-habit-cross-border-data": {
       "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         22.1,
         22.1,
@@ -115301,7 +115301,7 @@
     },
     "title:seax-ventures-bets-65m-skribe-medical-heart-patch": {
       "title": "SeaX Ventures bets US$1.65M on Skribe Medical’s AI heart patch for cancer patients",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -115341,7 +115341,7 @@
     },
     "title:short-covering-only-reason-bitcoin-moved-higher": {
       "title": "Is short covering the only reason Bitcoin moved higher?",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -115381,7 +115381,7 @@
     },
     "title:use-venture-capital": {
       "title": "How I use AI in venture capital",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -115421,7 +115421,7 @@
     },
     "title:demo-uae-investor-government-lead-what-three-hong": {
       "title": "A demo, a UAE investor and a government lead: What three Hong Kong mobility firms won at SUMW",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         5.1,
         5.1,
@@ -115461,7 +115461,7 @@
     },
     "title:lunio-parent-bags-vertex-sell-asia-more-than": {
       "title": "Lunio’s parent bags US$12.5M from Vertex to sell Asia more than a good night’s sleep",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -115501,7 +115501,7 @@
     },
     "url:https://www.digital.go.jp/get-involved/procedure/98e55a91-a46b-4f92-ac1f-7079d9d43c15": {
       "title": "預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律施行規則の一部を改正する命令案に係る意見募集を行います",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -115541,7 +115541,7 @@
     },
     "url:https://www.digital.go.jp/councils/local-governments-standardization-issues/2ca6b72e-057d-4a8d-95ef-a48dc7b80a94": {
       "title": "地方公共団体情報システム標準化の課題の把握及び今後の推進方策に関する検討会（第1回）の概要を掲載しました",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -115581,7 +115581,7 @@
     },
     "github_repo:googlechrome/modern-web-guidance-src": {
       "title": "GoogleChrome/modern-web-guidance-src",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -115621,7 +115621,7 @@
     },
     "earthquake:m 4.5 - off the coast of oregon:4.5": {
       "title": "M 4.5 - off the coast of Oregon",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -115661,7 +115661,7 @@
     },
     "github_repo:shadcn/improve": {
       "title": "shadcn/improve",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -115701,7 +115701,7 @@
     },
     "domain:www.hageatama.org": {
       "title": "MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -115741,7 +115741,7 @@
     },
     "title:manila-has-series-boom-series-funeral-mynt-record": {
       "title": "Manila has a Series B boom and a Series A funeral. Mynt’s record IPO won’t fix that",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -115781,7 +115781,7 @@
     },
     "url:https://www.itmedia.co.jp/news/article/2611/12/2000003144/": {
       "title": "無印良品「21年までクレカ番号で顧客を識別していた」 “全ケタ保有＆漏えい“巡り謝罪 削除漏れなぜ発生",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -115821,9 +115821,10 @@
     },
     "title:rakus-developers-blog": {
       "title": "AIでテストを量産したら、レビューが重くなった——レガシーコードの安全網づくり - RAKUS Developers Blog | ラクス エンジニアブログ",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -115856,9 +115857,10 @@
     },
     "title:aws-emulator-developersio": {
       "title": "AWS Emulator がリリースされたので試してみた | DevelopersIO",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -115887,7 +115889,7 @@
     },
     "title:why-kerala-grandparents-may-its-smartest-startup-bet": {
       "title": "Why Kerala’s grandparents may be its smartest startup bet",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -115897,16 +115899,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.43,
+      "rolling_average": 10.4,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:web-agent-ready": {
       "title": "WebサイトをAgent Readyにしよう",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -115916,78 +115919,85 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.43,
+      "rolling_average": 10.4,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "cve:CVE-2026-125350": {
       "title": "Multiples vulnérabilités dans Google Chrome (10 novembre 2026)",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
-        21.1
+        21.1,
+        18.1
       ],
-      "rolling_average": 21.1,
+      "rolling_average": 19.6,
       "rolling_peak": 21.1,
-      "last_score": 21.1,
-      "z_hint": 0.0
+      "last_score": 18.1,
+      "z_hint": -1.5
     },
     "title:multiples-vuln-rabilit-dans-mozilla-firefox-novembre-2026": {
       "title": "Multiples vulnérabilités dans Mozilla Firefox (10 novembre 2026)",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
-        15.1
+        15.1,
+        12.1
       ],
-      "rolling_average": 15.1,
+      "rolling_average": 13.6,
       "rolling_peak": 15.1,
-      "last_score": 15.1,
-      "z_hint": 0.0
+      "last_score": 12.1,
+      "z_hint": -1.5
     },
     "title:multiples-vuln-rabilit-dans-les-produits-vmware-novembre": {
       "title": "Multiples vulnérabilités dans les produits VMware (09 novembre 2026)",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
-        15.1
+        15.1,
+        12.1
       ],
-      "rolling_average": 15.1,
+      "rolling_average": 13.6,
       "rolling_peak": 15.1,
-      "last_score": 15.1,
-      "z_hint": 0.0
+      "last_score": 12.1,
+      "z_hint": -1.5
     },
     "title:multiples-vuln-rabilit-dans-les-produits-apple-novembre": {
       "title": "Multiples vulnérabilités dans les produits Apple (10 novembre 2026)",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -1.5
     },
     "title:multiples-vuln-rabilit-dans-greffon-openid-connect-openid": {
       "title": "Multiples vulnérabilités dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth (10 novembre 2026)",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -1.5
     },
     "title:multiples-vuln-rabilit-dans-roundcube-novembre-2026": {
       "title": "Multiples vulnérabilités dans Roundcube (10 novembre 2026)",
-      "updated_at": "2026-11-12T15:33:26+00:00",
+      "updated_at": "2026-11-12T15:42:27+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -1.5
     }
   }
 }
