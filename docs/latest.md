@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T00:02:23+00:00_
+_Generiert: 2026-11-12T00:37:51+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+3 neue relevante Treffer. Stärkstes Signal: „Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -24,7 +24,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **AWS Emulator and the engineer's job when agents write the code** — Score 8, observation — [Quelle](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-11T21:01:40+00:00`, fetched `2026-11-12T00:37:21+00:00`
+  - Treffer: agent, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: AWS Emulator and the engineer's job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard about a brilliant young man working t...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-11T21:15:31+00:00`, fetched `2026-11-12T00:37:21+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -33,7 +50,3 @@ Keine neuen Beobachtungssignale.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
