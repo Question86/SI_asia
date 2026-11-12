@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T07:43:29+00:00_
+_Generiert: 2026-11-12T07:50:06+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+36 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: Filipinos have never needed a bank to move money. They have the padala, the paluwagan savings circle, the five-six lender who knows your mother, and the sari-sari store owner whose notebook doubles as the country’s most informal credit bureau. For decades, that ingenuity filled the gap left by banks that simply did not want small […] The post Beyond GCash and Maya: 30 emerging fintech startups rewiring money in the…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The economic outlook and some thoughts on labor market dynamism** — Score 12, opportunity — [Quelle](https://www.bis.org/speeches/20261112-economic-outlook-and-some-thoughts-labor-market-dynamism)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-12T07:49:37+00:00`
+  - Treffer: macro, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Four hundred business cards. Zero customers** — Score 11, observation — [Quelle](https://e27.co/four-hundred-business-cards-zero-customers-20261110/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-12T01:00:04+00:00`, fetched `2026-11-12T01:00:25+00:00`
@@ -141,15 +150,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Keynote address by Mr Vasileios Madouros, Deputy Governor of the Central Bank of Ireland, at the 2026 ECMI (European Capital Markets Institute) Annual Conference, Brussels, 11 November 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Cash and the digital euro - two sides of the same coin** — Score 11, observation — [Quelle](https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-12T07:18:24+00:00`
-  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Introductory statement by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 10 November 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 43 km SE of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-12T01:33:09.040+00:00`, fetched `2026-11-12T01:51:24+00:00`
