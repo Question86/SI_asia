@@ -1,15 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T12:04:02+00:00",
+  "generated_at": "2026-11-12T12:23:08+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:17:01+00:00",
+        "relevance_score": 22,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532"
+      },
       {
         "title": "[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-12T09:20:17+00:00",
         "relevance_score": 21,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451"
+      },
+      {
+        "title": "[NEU] [mittel] Palo Alto Networks GlobalProtect: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:17:01+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4530"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
@@ -59,13 +73,64 @@
         "published_at": "2026-11-12T08:47:06+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:17:01+00:00",
+        "relevance_score": 22,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532"
       },
       {
-        "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-12T12:00:00+09:00",
+        "title": "[NEU] [mittel] Palo Alto Networks GlobalProtect: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:17:01+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4530"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:57:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4524"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:42:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521"
+      },
+      {
+        "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:17:01+00:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN64740097/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4531"
+      },
+      {
+        "title": "[NEU] [hoch] Webmin: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:17:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4529"
+      },
+      {
+        "title": "[NEU] [hoch] Roundcube: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:17:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4533"
+      },
+      {
+        "title": "[NEU] [hoch] rsyslog: Schwachstelle ermöglicht SQL-Injection",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4528"
       },
       {
         "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -73,6 +138,13 @@
         "published_at": "2026-11-12T11:57:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4522"
+      },
+      {
+        "title": "[NEU] [mittel] Laravel: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:57:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4523"
       }
     ],
     "ai": [
@@ -217,78 +289,6 @@
         "published_at": "2026-11-12T00:00:00+00:00",
         "relevance_score": 10,
         "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:57:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4524"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:42:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521"
-      },
-      {
-        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:57:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4522"
-      },
-      {
-        "title": "[NEU] [mittel] Laravel: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:57:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4523"
-      },
-      {
-        "title": "[NEU] [hoch] Node.js: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:57:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4525"
-      },
-      {
-        "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:42:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4520"
-      },
-      {
-        "title": "[NEU] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T10:47:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517"
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-12T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90805396/"
-      },
-      {
-        "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T06:12:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516"
-      },
-      {
-        "title": "The science and practice of monetary policy communication - the European Central Bank experience",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience"
       }
     ],
     "general": [
