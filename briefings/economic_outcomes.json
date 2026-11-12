@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T20:43:21+00:00",
+  "generated_at": "2026-11-12T21:00:51+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -23,6 +23,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_001221c5cf1220bfe1d1",
+      "title": "M 4.9 - 41 km N of Weining, China",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_00880d390fc05bfa4ee6",
@@ -13233,7 +13244,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7a1785d51dc511810ea5",

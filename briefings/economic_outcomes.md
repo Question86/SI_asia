@@ -1,11 +1,12 @@
 # Economic Outcomes
 
-Generated: `2026-11-12T20:43:21+00:00`
+Generated: `2026-11-12T21:00:51+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | M 5.2 - 201 km ENE of Nagqu, China | $0 | — | 0 | 0 | dormant |
 | ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ | $0 | — | 0 | 0 | dormant |
+| M 4.9 - 41 km N of Weining, China | $0 | — | 0 | 0 | active |
 | Singapore is paying startups to secure the AI agents it is racing to deploy | $0 | — | 0 | 0 | dormant |
 | Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性 | $0 | — | 0 | 0 | dormant |
 | Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-11-12T20:43:21+00:00`
 | Go、OpenSSL、Apple、LibreSSL、pyca、wolfSSLのRFC 5280実装における名前制約が不整合である脆弱性 | $0 | — | 0 | 0 | dormant |
 | Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | pollen-robotics/microduck | $0 | — | 0 | 0 | dormant |
-| 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
