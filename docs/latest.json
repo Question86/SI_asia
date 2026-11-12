@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T05:52:15+00:00",
-  "run_id": "2026-11-12T05:52:15+00:00",
+  "generated_at": "2026-11-12T05:59:49+00:00",
+  "run_id": "2026-11-12T05:59:49+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 22,
     "displayed_findings": 22,
     "high": 0,
@@ -1159,28 +1159,7 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Lunio’s parent bags US$12.5M from Vertex to sell Asia more than a good night’s sleep",
-      "url": "https://e27.co/lunios-parent-bags-us12-5m-from-vertex-to-sell-asia-more-than-a-good-nights-sleep-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T05:45:35+00:00",
-      "fetched_at": "2026-11-12T05:51:44+00:00",
-      "summary": "Mattresses are an odd thing to sell online. People buy one perhaps once a decade, want to lie on it before paying, and rarely boast about it to friends. Lunio, a Bangkok-born mattress-in-a-box brand, spent nine years proving that Thai and Taiwanese shoppers would buy one through a screen anyway. Now its parent wants to […] The post Lunio’s parent bags US$12.5M from Vertex to sell Asia more than a good night’s sleep…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "361c354fa1445c122f8c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
