@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T03:47:08+00:00",
-  "run_id": "2026-11-12T03:47:08+00:00",
+  "generated_at": "2026-11-12T03:59:54+00:00",
+  "run_id": "2026-11-12T03:59:54+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 12,
     "displayed_findings": 12,
     "high": 0,
@@ -629,50 +629,7 @@
       "id": "dfff4a2e6fbd97aeb638"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Mozkey（もずきー）| 書くことに集中できる、日本語入力。",
-      "url": "https://koyasi777.com/mozkey/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-12T02:13:52+00:00",
-      "fetched_at": "2026-11-12T03:46:36+00:00",
-      "summary": "書くことに集中できる、 日本語入力。自然に変換し、使うほど馴染む。 あなたの入力スタイルに合わせられる、日本語IME。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1ed2a8f439193a6e1886"
-    },
-    {
-      "title": "人手不足解消へ ファミマがフィジカルAI導入 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261111de74472",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-11T22:52:41+00:00",
-      "fetched_at": "2026-11-12T03:46:36+00:00",
-      "summary": "コンビニ大手のファミリーマートは、店舗の人手不足の解消に向けて、飲料を自動で補充するフィジカルAIを活用したロボットを2027年1月から全国の店舗に本格導入する方針を固めました。 ファミリーマート…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "695831cf1f5fcd59ae48"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
