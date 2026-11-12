@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T10:51:44+00:00",
+  "generated_at": "2026-11-12T10:59:30+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 57,
+    "findings": 58,
     "clusters": 35,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -21,15 +21,15 @@
       ],
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4443",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4472",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4455"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517"
       ],
-      "finding_count": 11,
+      "finding_count": 12,
       "max_score": 21,
-      "credibility_total": 11.55,
+      "credibility_total": 12.6,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
@@ -37,7 +37,7 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 47.1,
+      "raw_network_score": 49.2,
       "ranking_score": 30.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
@@ -193,20 +193,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 16.05,
+      "network_score": 16.13,
       "hot": false,
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 41.2,
-      "ranking_score": 16.05,
+      "ranking_score": 16.13,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.05,
+      "baseline_bonus": 0.13,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1377,7 +1377,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-12T10:51:45Z",
+    "generated_at": "2026-11-12T10:59:31Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
