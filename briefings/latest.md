@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T03:28:18+00:00_
+_Generiert: 2026-11-12T03:47:08+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „AI agents can hand over working code and still lose the decision that made it right“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+12 neue relevante Treffer. Stärkstes Signal: „AI agents can hand over working code and still lose the decision that made it right“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -132,14 +132,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: AWS Emulator and the engineer's job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard about a brilliant young man working t...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html)
+- **Mozkey（もずきー）| 書くことに集中できる、日本語入力。** — Score 5, observation — [Quelle](https://koyasi777.com/mozkey/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-11T21:15:31+00:00`, fetched `2026-11-12T00:37:21+00:00`
+  - Zeit: published `2026-11-12T02:13:52+00:00`, fetched `2026-11-12T03:46:36+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間
+  - Kurz: 書くことに集中できる、 日本語入力。自然に変換し、使うほど馴染む。 あなたの入力スタイルに合わせられる、日本語IME。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **人手不足解消へ ファミマがフィジカルAI導入 | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261111de74472)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-11T22:52:41+00:00`, fetched `2026-11-12T03:46:36+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: コンビニ大手のファミリーマートは、店舗の人手不足の解消に向けて、飲料を自動で補充するフィジカルAIを活用したロボットを2027年1月から全国の店舗に本格導入する方針を固めました。 ファミリーマート…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
