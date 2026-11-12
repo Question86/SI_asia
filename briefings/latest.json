@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T07:56:45+00:00",
-  "run_id": "2026-11-12T07:56:45+00:00",
+  "generated_at": "2026-11-12T08:07:48+00:00",
+  "run_id": "2026-11-12T08:07:48+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 1,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 7,
-    "observe": 29,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -659,6 +659,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f732fe26f21b523175db"
+      },
+      {
+        "title": "Competitiveness and resilience in the financial sector - oxymoron or complementarity?",
+        "url": "https://www.bis.org/speeches/20261112-competitiveness-and-resilience-financial-sector-oxymoron-or-complementarity",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-12T00:00:00+00:00",
+        "fetched_at": "2026-11-12T08:07:18+00:00",
+        "summary": "Speech by Mr Emmanuel Moulin, Governor of the Bank of France and Chairman of the Autorité de contrôle prudentiel et de resolution (ACPR), at the ACPR conference, Paris, 5 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4091236dce41cd9af899"
       },
       {
         "title": "AWS Emulator and the engineer's job when agents write the code",
@@ -1558,6 +1578,26 @@
       "id": "f732fe26f21b523175db"
     },
     {
+      "title": "Competitiveness and resilience in the financial sector - oxymoron or complementarity?",
+      "url": "https://www.bis.org/speeches/20261112-competitiveness-and-resilience-financial-sector-oxymoron-or-complementarity",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "fetched_at": "2026-11-12T08:07:18+00:00",
+      "summary": "Speech by Mr Emmanuel Moulin, Governor of the Bank of France and Chairman of the Autorité de contrôle prudentiel et de resolution (ACPR), at the ACPR conference, Paris, 5 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4091236dce41cd9af899"
+    },
+    {
       "title": "AWS Emulator and the engineer's job when agents write the code",
       "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1823,7 +1863,28 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Competitiveness and resilience in the financial sector - oxymoron or complementarity?",
+      "url": "https://www.bis.org/speeches/20261112-competitiveness-and-resilience-financial-sector-oxymoron-or-complementarity",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "fetched_at": "2026-11-12T08:07:18+00:00",
+      "summary": "Speech by Mr Emmanuel Moulin, Governor of the Bank of France and Chairman of the Autorité de contrôle prudentiel et de resolution (ACPR), at the ACPR conference, Paris, 5 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4091236dce41cd9af899"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
