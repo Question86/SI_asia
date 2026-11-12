@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T15:24:29+00:00",
+  "generated_at": "2026-11-12T15:33:57+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -259,7 +259,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -433,6 +433,23 @@
       "first_seen_at": "2026-09-10T16:18:31+00:00",
       "last_seen_at": "2026-09-10T16:18:31+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a190d555ad755d8d1928",
+      "title": "Multiples vulnérabilités dans les produits VMware (09 novembre 2026)",
+      "event_classes": [
+        "conflict"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000000.0,
+      "p50_usd": 11200000000.0,
+      "p90_usd": 1120000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-12T15:33:26+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9cf21859266821001cbb",
@@ -2213,7 +2230,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T23:45:53+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -3063,7 +3080,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-12T04:19:04+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -7297,7 +7314,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-11-12T01:51:56+00:00",
       "last_seen_at": "2026-11-12T15:24:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_37f618c2bae8d306c7d0",
@@ -12465,7 +12482,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-11-12T08:32:24+00:00",
       "last_seen_at": "2026-11-12T15:24:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e6fef3113214c14755f3",
@@ -13178,7 +13195,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -13382,7 +13399,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-14T08:02:24+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -13452,6 +13469,23 @@
       "first_seen_at": "2026-11-09T21:48:52+00:00",
       "last_seen_at": "2026-11-09T23:56:01+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e3a7b33889a16a32c62e",
+      "title": "Multiples vulnérabilités dans Google Chrome (10 novembre 2026)",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 292000.0,
+      "p50_usd": 29200000.0,
+      "p90_usd": 2920000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-12T15:33:26+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_b62c535c76c48b8bb112",
@@ -14147,7 +14181,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T03:02:51+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -14436,7 +14470,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-02T01:21:11+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -15848,7 +15882,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -17004,7 +17038,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T04:34:36+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -17327,7 +17361,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T03:02:51+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -18789,7 +18823,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -20914,7 +20948,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T05:10:58+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -22342,7 +22376,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T02:15:27+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -22495,7 +22529,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -23567,7 +23601,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T01:01:02+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
@@ -25915,7 +25949,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T04:19:04+00:00",
       "last_seen_at": "2026-11-12T15:24:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7a1785d51dc511810ea5",
@@ -26782,7 +26816,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-12T08:32:24+00:00",
       "last_seen_at": "2026-11-12T15:24:04+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d139b6b05997791ef71b",
@@ -27174,6 +27208,23 @@
       "first_seen_at": "2026-09-28T06:50:23+00:00",
       "last_seen_at": "2026-09-28T18:49:20+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6e071683fb9903f2f79d",
+      "title": "Multiples vulnérabilités dans Mozilla Firefox (10 novembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-12T15:33:26+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_03377f8133c052e61312",
@@ -31564,6 +31615,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4e762de94ead45eb7cc4",
+      "title": "Multiples vulnérabilités dans les produits Apple (10 novembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-12T15:33:26+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_041397919a21c7984d11",
       "title": "The new engineering bottleneck isn’t writing code, it’s trusting it",
       "event_classes": [
@@ -35658,7 +35726,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-11-12T15:24:04+00:00",
+      "last_seen_at": "2026-11-12T15:33:26+00:00",
       "status": "active"
     },
     {
