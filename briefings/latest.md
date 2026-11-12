@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T23:02:13+00:00_
+_Generiert: 2026-11-12T23:13:25+00:00_
 
 ## Kurzlage
 
-105 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+106 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,6 @@ _Generiert: 2026-11-12T23:02:13+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.
-- **USGS earthquake M5.8 - 148 km NW of Kavieng, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp)
-  - Quelle: USGS
-  - Zeit: `2026-11-12T22:04:06+00:00`
-  - Kurz: M5.8 - 148 km NW of Kavieng, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
