@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T16:20:06+00:00",
-  "run_id": "2026-11-12T16:20:06+00:00",
+  "generated_at": "2026-11-12T16:30:11+00:00",
+  "run_id": "2026-11-12T16:30:11+00:00",
   "date": "2026-11-12",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -4494,16 +4494,16 @@
   "new_findings": [],
   "source_errors": [
     {
-      "source_id": "twcert_security_news",
-      "source_name": "TWCERT/CC Security News RSS",
+      "source_id": "google_trends_japan_hot",
+      "source_name": "Google Trends Japan Hot Feed",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+      "error": "429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.co.jp/trending/rss%3Fgeo%3DJP&q=EgSGiiqKGIDT19cGIjC8LIzY0OQBimJx2WHdLjlDJvVN1vYC6mLgY9DjL11TmMxHd9mHr20jSqe67YcTILcyAnJSWgFDYMiI36-x9Mb39QE"
     },
     {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_id": "google_trends_korea_hot",
+      "source_name": "Google Trends South Korea Hot Feed",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+      "error": "429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.co.kr/trending/rss%3Fgeo%3DKR&q=EgSGiiqKGIHT19cGIjDpOp2ChRjRvn_bJjYt2ATY5ybs9H22yIR35TgA2HdVaEVnctmulwyD5cPmGKncrDYyAnJSWgFDYN3QgJWZ7pWzxAE"
     }
   ],
   "quality_gate": {

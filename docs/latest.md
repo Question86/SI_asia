@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T16:20:06+00:00_
+_Generiert: 2026-11-12T16:30:11+00:00_
 
 ## Kurzlage
 
@@ -262,5 +262,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
+- `google_trends_japan_hot` (rss): 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.co.jp/trending/rss%3Fgeo%3DJP&q=EgSGiiqKGIDT19cGIjC8LIzY0OQBimJx2WHdLjlDJvVN1vYC6mLgY9DjL11TmMxHd9mHr20jSqe67YcTILcyAnJSWgFDYMiI36-x9Mb39QE
+- `google_trends_korea_hot` (rss): 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.co.kr/trending/rss%3Fgeo%3DKR&q=EgSGiiqKGIHT19cGIjDpOp2ChRjRvn_bJjYt2ATY5ybs9H22yIR35TgA2HdVaEVnctmulwyD5cPmGKncrDYyAnJSWgFDYN3QgJWZ7pWzxAE
