@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T12:23:08+00:00",
-  "run_id": "2026-11-12T12:23:08+00:00",
+  "generated_at": "2026-11-12T12:34:59+00:00",
+  "run_id": "2026-11-12T12:34:59+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 2,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
-    "medium": 33,
-    "observe": 41,
+    "medium": 34,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -398,6 +398,29 @@
           "LOW"
         ],
         "id": "e2cb3a3e6eebf0a5fd8c"
+      },
+      {
+        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4462",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-12T12:32:01+00:00",
+        "fetched_at": "2026-11-12T12:34:30+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bebf984c8c769bb892e5"
       },
       {
         "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1439,6 +1462,28 @@
         "id": "f732fe26f21b523175db"
       },
       {
+        "title": "AWS Emulator がリリースされたので試してみた | DevelopersIO",
+        "url": "https://dev.classmethod.jp/articles/aws-emulator-local-try/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-12T03:47:53+00:00",
+        "fetched_at": "2026-11-12T12:34:30+00:00",
+        "summary": "AWS が公開したローカル用エミュレータ AWS Emulator を Docker で起動し、S3・SQS・DynamoDB・Lambda の基本操作を試しました。起動にかかった時間は約0.26秒、アイドル時のメモリ使用量は約174MiB でした。 はじめに AWS は2026年11月11日に、ローカル用のエミュレータ AWS Emulator の提供開始を発表しました。 この...",
+        "matched_keywords": [
+          "developer",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fef01104a19a5d06dc06"
+      },
+      {
         "title": "Competitiveness and resilience in the financial sector - oxymoron or complementarity?",
         "url": "https://www.bis.org/speeches/20261112-competitiveness-and-resilience-financial-sector-oxymoron-or-complementarity",
         "source": "BIS Central Bankers Speeches",
@@ -2220,6 +2265,29 @@
         "LOW"
       ],
       "id": "e2cb3a3e6eebf0a5fd8c"
+    },
+    {
+      "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4462",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-12T12:32:01+00:00",
+      "fetched_at": "2026-11-12T12:34:30+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bebf984c8c769bb892e5"
     },
     {
       "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -3259,6 +3327,28 @@
       "id": "f732fe26f21b523175db"
     },
     {
+      "title": "AWS Emulator がリリースされたので試してみた | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/aws-emulator-local-try/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T03:47:53+00:00",
+      "fetched_at": "2026-11-12T12:34:30+00:00",
+      "summary": "AWS が公開したローカル用エミュレータ AWS Emulator を Docker で起動し、S3・SQS・DynamoDB・Lambda の基本操作を試しました。起動にかかった時間は約0.26秒、アイドル時のメモリ使用量は約174MiB でした。 はじめに AWS は2026年11月11日に、ローカル用のエミュレータ AWS Emulator の提供開始を発表しました。 この...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fef01104a19a5d06dc06"
+    },
+    {
       "title": "Competitiveness and resilience in the financial sector - oxymoron or complementarity?",
       "url": "https://www.bis.org/speeches/20261112-competitiveness-and-resilience-financial-sector-oxymoron-or-complementarity",
       "source": "BIS Central Bankers Speeches",
@@ -3671,62 +3761,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532",
+      "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4462",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-12T12:17:01+00:00",
-      "fetched_at": "2026-11-12T12:22:39+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Programmcode auszuführen, sensible Inhalte lokaler Dateien offenzulegen und einen Denial-of-Service-Zustand auszulösen.",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Automatisierung",
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 22,
-      "relevance_reason": "Security (+6.0); Automatisierung (+5.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0c06ccc27c41b33e0bcb"
-    },
-    {
-      "title": "[NEU] [mittel] Palo Alto Networks GlobalProtect: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4530",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-12T12:17:01+00:00",
-      "fetched_at": "2026-11-12T12:22:39+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Palo Alto Networks GlobalProtect ausnutzen, um seine Privilegien bis auf SYSTEM-Rechte zu erhöhen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Macro/Policy",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "87c4def20e05c5a9ee9e"
-    },
-    {
-      "title": "[NEU] [hoch] Roundcube: Schwachstelle ermöglicht Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4533",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-12T12:17:01+00:00",
-      "fetched_at": "2026-11-12T12:22:39+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Roundcube ausnutzen, um Dateien zu manipulieren oder Informationen offenzulegen.",
+      "published_at": "2026-11-12T12:32:01+00:00",
+      "fetched_at": "2026-11-12T12:34:30+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3740,76 +3781,29 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fc124fc9e48b2d698628"
+      "id": "bebf984c8c769bb892e5"
     },
     {
-      "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4531",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "AWS Emulator がリリースされたので試してみた | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/aws-emulator-local-try/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-12T12:17:01+00:00",
-      "fetched_at": "2026-11-12T12:22:39+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-11-12T03:47:53+00:00",
+      "fetched_at": "2026-11-12T12:34:30+00:00",
+      "summary": "AWS が公開したローカル用エミュレータ AWS Emulator を Docker で起動し、S3・SQS・DynamoDB・Lambda の基本操作を試しました。起動にかかった時間は約0.26秒、アイドル時のメモリ使用量は約174MiB でした。 はじめに AWS は2026年11月11日に、ローカル用のエミュレータ AWS Emulator の提供開始を発表しました。 この...",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "developer",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "228913db399c714ff604"
-    },
-    {
-      "title": "[NEU] [hoch] Webmin: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4529",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-12T12:17:01+00:00",
-      "fetched_at": "2026-11-12T12:22:39+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Webmin ausnutzen, um seine Privilegien zu erhöhen und um beliebigen Programmcode mit Administratorrechten auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aef37de27ee127541184"
-    },
-    {
-      "title": "[NEU] [hoch] rsyslog: Schwachstelle ermöglicht SQL-Injection",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4528",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-12T12:12:01+00:00",
-      "fetched_at": "2026-11-12T12:22:39+00:00",
-      "summary": "Ein Angreifer kann eine Schwachstelle in rsyslog ausnutzen, um SQL-Injection durchzuführen und Dateien zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "27b8c1e2471883930540"
+      "id": "fef01104a19a5d06dc06"
     }
   ],
   "source_errors": [],

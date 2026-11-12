@@ -370,6 +370,29 @@
     "id": "e2cb3a3e6eebf0a5fd8c"
   },
   {
+    "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4462",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:32:01+00:00",
+    "fetched_at": "2026-11-12T12:34:30+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bebf984c8c769bb892e5"
+  },
+  {
     "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4531",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1405,6 +1428,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f732fe26f21b523175db"
+  },
+  {
+    "title": "AWS Emulator がリリースされたので試してみた | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/aws-emulator-local-try/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-12T03:47:53+00:00",
+    "fetched_at": "2026-11-12T12:34:30+00:00",
+    "summary": "AWS が公開したローカル用エミュレータ AWS Emulator を Docker で起動し、S3・SQS・DynamoDB・Lambda の基本操作を試しました。起動にかかった時間は約0.26秒、アイドル時のメモリ使用量は約174MiB でした。 はじめに AWS は2026年11月11日に、ローカル用のエミュレータ AWS Emulator の提供開始を発表しました。 この...",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fef01104a19a5d06dc06"
   },
   {
     "title": "Competitiveness and resilience in the financial sector - oxymoron or complementarity?",
