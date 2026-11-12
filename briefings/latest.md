@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T22:23:50+00:00_
+_Generiert: 2026-11-12T22:30:27+00:00_
 
 ## Kurzlage
 
@@ -44,7 +44,7 @@ _Generiert: 2026-11-12T22:23:50+00:00_
 - **USGS earthquake M5.8 - 148 km NW of Kavieng, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp)
   - Quelle: USGS
   - Zeit: `2026-11-12T22:04:06+00:00`
-  - Kurz: M5.8 - 148 km NW of Kavieng, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.8 - 148 km NW of Kavieng, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
