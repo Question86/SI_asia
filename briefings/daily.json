@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T08:23:27+00:00",
-  "today_file_total": 37,
+  "generated_at": "2026-11-12T08:32:24+00:00",
+  "today_file_total": 40,
   "current_clusters": [
     {
       "key": "domain:www.bis.org",
@@ -225,6 +225,54 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "github_repo:googlechrome/modern-web-guidance-src",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/GoogleChrome/modern-web-guidance-src"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 4.5 - off the coast of oregon:4.5",
+      "title": "M 4.5 - off the coast of Oregon",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "domain:togetter.com",
       "title": "定年後に移住する地方都市を検討中、ChatGPTに仙台を激推しされ、富士山がないとゴネたら「岩手山は盛岡から見たらほぼ富士山だから」とジェネリック富士山を提示された",
       "sources": [
@@ -429,52 +477,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/get-involved/procedure/98e55a91-a46b-4f92-ac1f-7079d9d43c15",
-      "title": "預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律施行規則の一部を改正する命令案に係る意見募集を行います",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/get-involved/procedure/98e55a91-a46b-4f92-ac1f-7079d9d43c15"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/councils/local-governments-standardization-issues/2ca6b72e-057d-4a8d-95ef-a48dc7b80a94",
-      "title": "地方公共団体情報システム標準化の課題の把握及び今後の推進方策に関する検討会（第1回）の概要を掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/councils/local-governments-standardization-issues/2ca6b72e-057d-4a8d-95ef-a48dc7b80a94"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

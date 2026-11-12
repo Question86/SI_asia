@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T08:23:24+00:00",
-  "run_id": "2026-11-12T08:23:24+00:00",
+  "generated_at": "2026-11-12T08:32:21+00:00",
+  "run_id": "2026-11-12T08:32:21+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 3,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
     "medium": 7,
-    "observe": 30,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -541,6 +541,64 @@
         "id": "ffb6913b3f4cdd10bdd4"
       },
       {
+        "title": "GoogleChrome/modern-web-guidance-src",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-11-12T08:31:52+00:00",
+        "summary": "https://goo.gle/modern-web-guidance Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding…",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "34a1f333d1bfb80df640"
+      },
+      {
+        "title": "M 4.5 - off the coast of Oregon",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-12T08:29:03.040+00:00",
+        "fetched_at": "2026-11-12T08:31:52+00:00",
+        "summary": "Time 2026-11-12 08:17:28 UTC 2026-11-12 08:17:28 UTC at epicenter Location 44.454°N 129.621°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "469c13f3b484bb57723c"
+      },
+      {
         "title": "Venture debt is reaching smaller startups. What founders should check before signing",
         "url": "https://e27.co/venture-debt-is-reaching-smaller-startups-what-founders-should-check-before-signing-20261106/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -884,6 +942,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dfff4a2e6fbd97aeb638"
+      },
+      {
+        "title": "shadcn/improve",
+        "url": "https://github.com/shadcn/improve",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-11-12T08:31:52+00:00",
+        "summary": "Use your most capable model to audit your codebase and write plans for cheaper models to execute. improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging what's worth doing, writing the spec — and hand execution to cheaper models. The skill never i…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e5e05db02c4d72501562"
       },
       {
         "title": "Lunio’s parent bags US$12.5M from Vertex to sell Asia more than a good night’s sleep",
@@ -1458,6 +1537,64 @@
       "id": "ffb6913b3f4cdd10bdd4"
     },
     {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-12T08:31:52+00:00",
+      "summary": "https://goo.gle/modern-web-guidance Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34a1f333d1bfb80df640"
+    },
+    {
+      "title": "M 4.5 - off the coast of Oregon",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-12T08:29:03.040+00:00",
+      "fetched_at": "2026-11-12T08:31:52+00:00",
+      "summary": "Time 2026-11-12 08:17:28 UTC 2026-11-12 08:17:28 UTC at epicenter Location 44.454°N 129.621°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "469c13f3b484bb57723c"
+    },
+    {
       "title": "Venture debt is reaching smaller startups. What founders should check before signing",
       "url": "https://e27.co/venture-debt-is-reaching-smaller-startups-what-founders-should-check-before-signing-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1803,6 +1940,27 @@
       "id": "dfff4a2e6fbd97aeb638"
     },
     {
+      "title": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-12T08:31:52+00:00",
+      "summary": "Use your most capable model to audit your codebase and write plans for cheaper models to execute. improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging what's worth doing, writing the spec — and hand execution to cheaper models. The skill never i…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e5e05db02c4d72501562"
+    },
+    {
       "title": "Lunio’s parent bags US$12.5M from Vertex to sell Asia more than a good night’s sleep",
       "url": "https://e27.co/lunios-parent-bags-us12-5m-from-vertex-to-sell-asia-more-than-a-good-nights-sleep-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1863,7 +2021,87 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-12T08:31:52+00:00",
+      "summary": "https://goo.gle/modern-web-guidance Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34a1f333d1bfb80df640"
+    },
+    {
+      "title": "M 4.5 - off the coast of Oregon",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-12T08:29:03.040+00:00",
+      "fetched_at": "2026-11-12T08:31:52+00:00",
+      "summary": "Time 2026-11-12 08:17:28 UTC 2026-11-12 08:17:28 UTC at epicenter Location 44.454°N 129.621°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "469c13f3b484bb57723c"
+    },
+    {
+      "title": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-12T08:31:52+00:00",
+      "summary": "Use your most capable model to audit your codebase and write plans for cheaper models to execute. improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. The idea: use your most capable model for the part where intelligence compounds — understanding the codebase, judging what's worth doing, writing the spec — and hand execution to cheaper models. The skill never i…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e5e05db02c4d72501562"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

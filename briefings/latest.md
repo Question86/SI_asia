@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T08:23:24+00:00_
+_Generiert: 2026-11-12T08:32:21+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+40 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -195,6 +195,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Keynote address by Mr Vasileios Madouros, Deputy Governor of the Central Bank of Ireland, at the 2026 ECMI (European Capital Markets Institute) Annual Conference, Brussels, 11 November 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **GoogleChrome/modern-web-guidance-src** — Score 10, observation — [Quelle](https://github.com/GoogleChrome/modern-web-guidance-src)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-12T08:31:52+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: https://goo.gle/modern-web-guidance Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - off the coast of Oregon** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-12T08:29:03.040+00:00`, fetched `2026-11-12T08:31:52+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-12 08:17:28 UTC 2026-11-12 08:17:28 UTC at epicenter Location 44.454°N 129.621°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 43 km SE of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-12T01:33:09.040+00:00`, fetched `2026-11-12T01:51:24+00:00`
