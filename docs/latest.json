@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T16:30:11+00:00",
-  "run_id": "2026-11-12T16:30:11+00:00",
+  "generated_at": "2026-11-12T16:36:36+00:00",
+  "run_id": "2026-11-12T16:36:36+00:00",
   "date": "2026-11-12",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 91
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 39,
     "observe": 52,
-    "source_errors": 2
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -4492,20 +4492,7 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [
-    {
-      "source_id": "google_trends_japan_hot",
-      "source_name": "Google Trends Japan Hot Feed",
-      "source_type": "rss",
-      "error": "429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.co.jp/trending/rss%3Fgeo%3DJP&q=EgSGiiqKGIDT19cGIjC8LIzY0OQBimJx2WHdLjlDJvVN1vYC6mLgY9DjL11TmMxHd9mHr20jSqe67YcTILcyAnJSWgFDYMiI36-x9Mb39QE"
-    },
-    {
-      "source_id": "google_trends_korea_hot",
-      "source_name": "Google Trends South Korea Hot Feed",
-      "source_type": "rss",
-      "error": "429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.co.kr/trending/rss%3Fgeo%3DKR&q=EgSGiiqKGIHT19cGIjDpOp2ChRjRvn_bJjYt2ATY5ybs9H22yIR35TgA2HdVaEVnctmulwyD5cPmGKncrDYyAnJSWgFDYN3QgJWZ7pWzxAE"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T16:30:11+00:00_
+_Generiert: 2026-11-12T16:36:36+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+91 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -304,8 +304,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_japan_hot` (rss): 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.co.jp/trending/rss%3Fgeo%3DJP&q=EgSGiiqKGIDT19cGIjC8LIzY0OQBimJx2WHdLjlDJvVN1vYC6mLgY9DjL11TmMxHd9mHr20jSqe67YcTILcyAnJSWgFDYMiI36-x9Mb39QE
-- `google_trends_korea_hot` (rss): 429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://trends.google.co.kr/trending/rss%3Fgeo%3DKR&q=EgSGiiqKGIHT19cGIjDpOp2ChRjRvn_bJjYt2ATY5ybs9H22yIR35TgA2HdVaEVnctmulwyD5cPmGKncrDYyAnJSWgFDYN3QgJWZ7pWzxAE
