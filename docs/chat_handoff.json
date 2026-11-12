@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-12T05:00:29+00:00",
+  "generated_at": "2026-11-12T05:10:55+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 1,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 5,
-    "observe": 13
+    "observe": 14
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "How I use AI in venture capital",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-12T05:00:44+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/how-i-use-ai-in-venture-capital-20261109/",
+      "summary": "As a Venture Capital (“VC”) investor, making timely and data-driven investment decisions sits at the core of what we do. Yet, we often come across common problems within our investment process. These have traditionally created bottlenecks, inefficiencies and…",
+      "section": "observe"
+    },
+    {
       "title": "M 5.4 - South Sandwich Islands region",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 11,
       "url": "https://e27.co/four-hundred-business-cards-zero-customers-20261110/",
       "summary": "The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually…",
-      "section": "observe"
-    },
-    {
-      "title": "Europe’s tokenisation race will not wait for a 2028 blueprint",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T04:00:37+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/",
-      "summary": "Europe risks underestimating a major cost of building tokenised financial markets: persuading businesses to adopt the infrastructure once it exists. A technically capable network has limited commercial value if connecting means rebuilding applications, changi…",
       "section": "observe"
     }
   ],

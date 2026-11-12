@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T05:00:29+00:00_
+_Generiert: 2026-11-12T05:10:55+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+19 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **How I use AI in venture capital** — Score 13, observation — [Quelle](https://e27.co/how-i-use-ai-in-venture-capital-20261109/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-12T05:00:44+00:00`, fetched `2026-11-12T05:10:27+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: As a Venture Capital (“VC”) investor, making timely and data-driven investment decisions sits at the core of what we do. Yet, we often come across common problems within our investment process. These have traditionally created bottlenecks, inefficiencies and ultimately sometimes lead us to making untimely or wrong investment decisions. A typical VC investment process The […] The post How I use AI in venture capital…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.4 - South Sandwich Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-12T04:08:07.366+00:00`, fetched `2026-11-12T04:18:30+00:00`
@@ -131,15 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)
   - Kurz: The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually use it. Who comes to the booth Importers. Distributors. Consultants. […] The post Four hundred business cards. Zero customers appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Europe’s tokenisation race will not wait for a 2028 blueprint** — Score 10, observation — [Quelle](https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-12T04:00:37+00:00`, fetched `2026-11-12T04:18:30+00:00`
-  - Treffer: APAC Trend Radar, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
-  - Kurz: Europe risks underestimating a major cost of building tokenised financial markets: persuading businesses to adopt the infrastructure once it exists. A technically capable network has limited commercial value if connecting means rebuilding applications, changing custody arrangements and asking customers to move with you. That should shape how we judge the Eurosystem’s tokenisation strategy. Pontes, launched […] The p…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 43 km SE of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
