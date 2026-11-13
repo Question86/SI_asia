@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T07:57:26+00:00_
+_Generated: 2026-11-13T08:07:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `40`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-13T07:57:26+00:00_
 - url: https://jvn.jp/vu/JVNVU90821966/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. Your buyer is probably not Singaporean: What 2,488 acquirers tell founders planning an exit
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-11-13T08:02:03+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433
+- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.
+
+### 4. Your buyer is probably not Singaporean: What 2,488 acquirers tell founders planning an exit
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-11-13T05:00:48+00:00`
 - url: https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/
 - summary: Ask a Singapore founder who might buy their company and you usually get three names: the biggest local competitor, a supplier, maybe a customer. It is a sensible guess. On the data, it is also usually the wrong pond. At Ayebot we keep a register of potential…
-
-### 4. M 4.7 - 27 km NNE of Labuan Lombok, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-13T05:06:28.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5
-- summary: Time 2026-11-13 04:49:33 UTC 2026-11-13 04:49:33 UTC at epicenter Location 8.262°S 116.751°E Depth 9.63 km (5.98 mi)
 
 ### 5. Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor
 - source: e27 Asia Startup and Tech Feed
