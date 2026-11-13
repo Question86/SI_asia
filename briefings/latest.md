@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T18:02:29+00:00_
+_Generiert: 2026-11-13T18:17:51+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-11-13T18:02:29+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-114713 UnrealIRCd UnrealIRCd** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-13`
+  - Kurz: Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. UnrealIRCd Improper Neutralization of Delimiters Vulnerability
+- **CISA KEV: CVE-2026-123039 Check Point Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-13`
+  - Kurz: Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability
 - **CISA KEV: CVE-2026-124194 Microsoft Office** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
@@ -21,14 +29,6 @@ _Generiert: 2026-11-13T18:02:29+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability
-- **CISA KEV: CVE-2026-111560 Barracuda Networks Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-10`
-  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Multiple Products OS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-116606 Barracuda Networks Barracuda Email Security Gateway (ESG)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-10`
-  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability
 - **GDACS: Green flood alert in Myanmar** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104280)
   - Quelle: GDACS
   - Zeit: ``
