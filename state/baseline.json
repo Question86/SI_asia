@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T00:02:33+00:00",
+  "generated_at": "2026-11-13T00:37:35+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -116464,13 +116464,47 @@
     },
     "github_repo:tsukumijima/yacchogpt": {
       "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
-      "updated_at": "2026-11-13T00:02:33+00:00",
+      "updated_at": "2026-11-13T00:37:35+00:00",
       "network_scores": [
-        11.1
+        11.1,
+        8.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 9.6,
       "rolling_peak": 11.1,
-      "last_score": 11.1,
+      "last_score": 8.1,
+      "z_hint": -1.5
+    },
+    "earthquake:m 5.1 - 39 km s of moíres, greece:5.1": {
+      "title": "M 5.1 - 39 km S of Moíres, Greece",
+      "updated_at": "2026-11-13T00:37:35+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
+    },
+    "title:aws-aws-aws": {
+      "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
+      "updated_at": "2026-11-13T00:37:35+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
+    },
+    "title:github-availability-report-october-2026": {
+      "title": "GitHub availability report: October 2026",
+      "updated_at": "2026-11-13T00:37:35+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
       "z_hint": 0.0
     }
   }
