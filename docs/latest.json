@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T12:49:49+00:00",
-  "run_id": "2026-11-13T12:49:49+00:00",
+  "generated_at": "2026-11-13T12:58:40+00:00",
+  "run_id": "2026-11-13T12:58:40+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 63,
     "displayed_findings": 63,
     "high": 1,
@@ -3312,30 +3312,7 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Manage AI Scan for repositories using the REST API",
-      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-13T12:22:41+00:00",
-      "fetched_at": "2026-11-13T12:49:22+00:00",
-      "summary": "You can now turn GitHub code scanning’s AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan… The post Manage AI Scan for repositories using the REST API appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); AI/KI (+3.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "df7214db53fef3fe943a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
