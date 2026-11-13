@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T20:56:10+00:00_
+_Generiert: 2026-11-13T21:03:44+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
+89 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
 
 ## Priorität Hoch
 
