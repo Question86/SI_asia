@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T03:01:48+00:00_
+_Generiert: 2026-11-13T03:18:42+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+19 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According to a regulatory filing, Nvidia’s board accepted his resignation on […] The post Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - Pagan region, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-13T03:06:41.040+00:00`, fetched `2026-11-13T03:18:11+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-13 02:55:03 UTC 2026-11-13 02:55:03 UTC at epicenter Location 18.893°N 145.603°E Depth 219.57 km (136.44 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 39 km S of Moíres, Greece** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-13T00:29:46.589+00:00`, fetched `2026-11-13T00:37:05+00:00`
