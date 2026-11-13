@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T06:39:08+00:00",
+  "generated_at": "2026-11-13T06:48:56+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -1738,7 +1738,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_11d79daff6719b9b6283",
@@ -20241,6 +20241,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ba2fed1f9fdd19b4b76b",
+      "title": "マイクロソフト社の障害によりメール不着等となる事象について",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_ba4576ae6bd06eeefd2c",
