@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T08:07:24+00:00",
+  "generated_at": "2026-11-13T08:20:44+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "openai/codex-security",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/openai/codex-security"
+      },
       {
         "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
         "source": "Hatena Bookmark Hotentry IT",
@@ -66,16 +73,16 @@
         "published_at": "2026-11-13T05:00:36+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-didnt-eliminate-our-work-it-changed-what-our-team-could-do-20261109/"
-      },
-      {
-        "title": "AIが作成?画像は別人?選挙ポスター複数掲示 作成費に公費支出 尼崎市議補選、戸惑う有権者",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-13T01:21:49+00:00",
-        "relevance_score": 5,
-        "url": "https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml"
       }
     ],
     "security": [
+      {
+        "title": "openai/codex-security",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/openai/codex-security"
+      },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
         "source": "JVN Japan Vulnerability Notes",
@@ -138,13 +145,57 @@
         "published_at": "2026-11-13T08:02:03+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1405"
+      }
+    ],
+    "github": [
+      {
+        "title": "openai/codex-security",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/openai/codex-security"
       },
       {
-        "title": "[UPDATE] [mittel] ffmpeg: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-13T08:02:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3759"
+        "title": "QwenLM/qwen-code",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/QwenLM/qwen-code"
+      },
+      {
+        "title": "インシデント調査報告書チェックリスト",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-11T13:20:41+00:00",
+        "relevance_score": 7,
+        "url": "https://jpcertcc.github.io/ir_report_checklist/index.html"
+      },
+      {
+        "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-14T22:55:00+00:00",
+        "relevance_score": 6,
+        "url": "https://github.com/tsukumijima/YacchoGPT"
+      },
+      {
+        "title": "pookjw/HermesEnabler",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/pookjw/HermesEnabler"
+      },
+      {
+        "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-13T02:34:00+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/"
+      },
+      {
+        "title": "GitHub availability report: October 2026",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-11-13T00:20:16+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/"
       }
     ],
     "general": [
@@ -265,27 +316,18 @@
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html"
       },
       {
-        "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-13T02:34:00+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/"
-      }
-    ],
-    "github": [
-      {
-        "title": "インシデント調査報告書チェックリスト",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-11T13:20:41+00:00",
-        "relevance_score": 7,
-        "url": "https://jpcertcc.github.io/ir_report_checklist/index.html"
+        "title": "QwenLM/qwen-code",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/QwenLM/qwen-code"
       },
       {
-        "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-14T22:55:00+00:00",
-        "relevance_score": 6,
-        "url": "https://github.com/tsukumijima/YacchoGPT"
+        "title": "pookjw/HermesEnabler",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/pookjw/HermesEnabler"
       },
       {
         "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
@@ -293,13 +335,6 @@
         "published_at": "2026-11-13T02:34:00+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/"
-      },
-      {
-        "title": "GitHub availability report: October 2026",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-11-13T00:20:16+00:00",
-        "relevance_score": 4,
-        "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/"
       }
     ]
   }

@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T08:07:24+00:00_
+_Generated: 2026-11-13T08:20:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `43`
 
 ## Top Signals
 
-### 1. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫
+### 1. openai/codex-security
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/openai/codex-security
+- summary: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security https://developers.openai.com/codex/security Codex Security Codex Security helps you find, i…
+
+### 2. AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫
 - source: Hatena Bookmark Hotentry IT
 - score: `19`
 - published: `2026-11-12T03:01:52+00:00`
 - url: https://zenn.dev/dress_code/articles/568fd547315abe
 - summary: こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはず...
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-11-13T11:00:40+09:00`
 - url: https://jvn.jp/vu/JVNVU90821966/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-11-13T08:02:03+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.
-
-### 4. Your buyer is probably not Singaporean: What 2,488 acquirers tell founders planning an exit
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-11-13T05:00:48+00:00`
-- url: https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/
-- summary: Ask a Singapore founder who might buy their company and you usually get three names: the biggest local competitor, a supplier, maybe a customer. It is a sensible guess. On the data, it is also usually the wrong pond. At Ayebot we keep a register of potential…
 
 ### 5. Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor
 - source: e27 Asia Startup and Tech Feed

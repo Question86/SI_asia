@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T08:07:24+00:00_
+_Generiert: 2026-11-13T08:20:44+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+43 neue relevante Treffer. Stärkstes Signal: „openai/codex-security“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **openai/codex-security** — Score 23, observation — [Quelle](https://github.com/openai/codex-security)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-13T08:20:15+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, OpenAI, Security, Watchgraph:ai_agents_workflow, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain, ai_agents_workflow
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NVDA, AMD
+  - Warum relevant: OpenAI (+7.5); Security (+7.5); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain, ai_agents_workflow (+6.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security https://developers.openai.com/codex/security Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex-security CLI and TypeScript SDK.…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫** — Score 19, observation — [Quelle](https://zenn.dev/dress_code/articles/568fd547315abe)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-12T03:01:52+00:00`, fetched `2026-11-13T01:57:46+00:00`
@@ -159,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Isabel Schnabel: Made in Europe
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **QwenLM/qwen-code** — Score 8, observation — [Quelle](https://github.com/QwenLM/qwen-code)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-13T08:20:15+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: An open-source AI coding agent that lives in your terminal. https://qwenlm.github.io/qwen-code-docs/en/users/overview The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 | Deutsch | français | 日本語 | Русский | Português (Brasil) | 한국어 Qwen Code 1.0 Preview Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code in an open-source release. Try Qw…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **インシデント調査報告書チェックリスト** — Score 7, observation — [Quelle](https://jpcertcc.github.io/ir_report_checklist/index.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-11T13:20:41+00:00`, fetched `2026-11-13T01:01:12+00:00`
@@ -204,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)
   - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **pookjw/HermesEnabler** — Score 5, observation — [Quelle](https://github.com/pookjw/HermesEnabler)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-13T08:20:15+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Enable Hermès Watch Faces on any Apple Watch devices HermesEnabler 2 English · Tiếng Việt · 한국어 · 简体中文 · 繁體中文 · 日本語 · Español · Français · Deutsch · Português Supported only on watchOS 27.0 through 27.3 beta 1. Installation macOS On macOS you can install the prebuilt IPA with Sideloadly or build the app directly with Xcode. Either way, the iPhone must be paired with the target Apple Watch, and the Watch must run a s…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo** — Score 4, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-13T01:27:29.040+00:00`, fetched `2026-11-13T01:31:07+00:00`
@@ -213,15 +240,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph demote demo (x0.45)
   - Kurz: Time 2026-11-13 01:12:46 UTC 2026-11-13 01:12:46 UTC at epicenter Location 6.939°S 22.680°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GitHub availability report: October 2026** — Score 4, observation — [Quelle](https://github.blog/news-insights/company-news/github-availability-report-october-2026/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-11-13T00:20:16+00:00`, fetched `2026-11-13T00:37:05+00:00`
-  - Treffer: GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.5); recent (+1.0)
-  - Kurz: In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
