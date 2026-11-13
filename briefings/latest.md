@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T07:02:28+00:00_
+_Generiert: 2026-11-13T07:17:10+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+34 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
