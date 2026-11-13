@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T05:18:41+00:00",
-  "run_id": "2026-11-13T05:18:41+00:00",
+  "generated_at": "2026-11-13T05:25:30+00:00",
+  "run_id": "2026-11-13T05:25:30+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 1,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 9,
-    "observe": 19,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -292,6 +292,49 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "12757b22c922b1761f4c"
+      },
+      {
+        "title": "Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head",
+        "url": "https://e27.co/build-what-matters-or-what-gets-funded-indias-vcs-say-the-real-gap-sits-in-the-founders-head-20261113/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-13T05:24:18+00:00",
+        "fetched_at": "2026-11-13T05:24:57+00:00",
+        "summary": "There is no spreadsheet for this. You cannot plug in a dozen parameters, hit enter and receive a verdict on whether a startup matters. That was the opening salvo at a Huddle Global 2026 panel provocatively titled “The VC Truth: Build What Matters, Not What Gets Funded”, where three Indian venture capitalists spent the better […] The post Build what matters or what gets funded? India’s VCs say the real gap sits in th…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "68644a620b7052b98ece"
       },
       {
         "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
@@ -981,6 +1024,49 @@
       "id": "12757b22c922b1761f4c"
     },
     {
+      "title": "Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head",
+      "url": "https://e27.co/build-what-matters-or-what-gets-funded-indias-vcs-say-the-real-gap-sits-in-the-founders-head-20261113/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-13T05:24:18+00:00",
+      "fetched_at": "2026-11-13T05:24:57+00:00",
+      "summary": "There is no spreadsheet for this. You cannot plug in a dozen parameters, hit enter and receive a verdict on whether a startup matters. That was the opening salvo at a Huddle Global 2026 panel provocatively titled “The VC Truth: Build What Matters, Not What Gets Funded”, where three Indian venture capitalists spent the better […] The post Build what matters or what gets funded? India’s VCs say the real gap sits in th…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "68644a620b7052b98ece"
+    },
+    {
       "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
       "url": "https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1405,83 +1491,47 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - 27 km NNE of Labuan Lombok, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-13T05:06:28.040+00:00",
-      "fetched_at": "2026-11-13T05:18:08+00:00",
-      "summary": "Time 2026-11-13 04:49:33 UTC 2026-11-13 04:49:33 UTC at epicenter Location 8.262°S 116.751°E Depth 9.63 km (5.98 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "5f9c0833a23d5c66dad2"
-    },
-    {
-      "title": "The Swift premium: What Singapore’s exclusive Eras Tour deal taught ASEAN about cultural economics",
-      "url": "https://e27.co/the-swift-premium-what-singapores-exclusive-eras-tour-deal-taught-asean-about-cultural-economics-20261109/",
+      "title": "Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head",
+      "url": "https://e27.co/build-what-matters-or-what-gets-funded-indias-vcs-say-the-real-gap-sits-in-the-founders-head-20261113/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-13T05:13:03+00:00",
-      "fetched_at": "2026-11-13T05:18:08+00:00",
-      "summary": "When Singapore arranged exclusive Southeast Asian dates for Taylor Swift’s Eras Tour in March 2024, six shows, only stop in the region, the diplomatic and economic discussion that followed was one of the more publicly visible moments of ASEAN economic competition in recent memory. Thai officials publicly questioned the arrangement. The Philippines registered concern. Indonesian […] The post The Swift premium: What S…",
+      "published_at": "2026-11-13T05:24:18+00:00",
+      "fetched_at": "2026-11-13T05:24:57+00:00",
+      "summary": "There is no spreadsheet for this. You cannot plug in a dozen parameters, hit enter and receive a verdict on whether a startup matters. That was the opening salvo at a Huddle Global 2026 panel provocatively titled “The VC Truth: Build What Matters, Not What Gets Funded”, where three Indian venture capitalists spent the better […] The post Build what matters or what gets funded? India’s VCs say the real gap sits in th…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Southeast Asia"
+        "founder",
+        "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Philippines (+2.0)",
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5618fa91d85e43813733"
-    },
-    {
-      "title": "2026年11月に発生したMicrosoft 365の接続障害についてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/13/114230",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-13T03:20:28+00:00",
-      "fetched_at": "2026-11-13T05:18:08+00:00",
-      "summary": "2026年11月13日、Microsoftは、Exchange Onlineを中心に複数のMicrosoft 365サービスで接続障害が起きていると公表しました。ここでは関連する情報をまとめます。 Exchange Onlineの接続障害が複数サービスへ拡大 障害はExchange Onlineのメールボックスに接続できない問題として始まり、複数のMicrosoft 365サービスへ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
+      "watchgraph_modules": [
+        "capitals_power_centers"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d5e06368a4f9e731d66f"
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "68644a620b7052b98ece"
     }
   ],
   "source_errors": [],

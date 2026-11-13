@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T05:18:41+00:00_
+_Generated: 2026-11-13T05:25:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `29`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-13T05:18:41+00:00_
 - url: https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/
 - summary: South Korea and Southeast Asia are becoming more relevant to discussion around the next phase of AI and blockchain adoption. South Korea offers established technology companies, advanced hardware capabilities, an active venture ecosystem and a market with str…
 
-### 6. Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout
+### 6. Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-11-13T05:24:18+00:00`
+- url: https://e27.co/build-what-matters-or-what-gets-funded-indias-vcs-say-the-real-gap-sits-in-the-founders-head-20261113/
+- summary: There is no spreadsheet for this. You cannot plug in a dozen parameters, hit enter and receive a verdict on whether a startup matters. That was the opening salvo at a Huddle Global 2026 panel provocatively titled “The VC Truth: Build What Matters, Not What Ge…
+
+### 7. Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-13T01:22:19+00:00`
 - url: https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/
 - summary: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According…
 
-### 7. The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up
+### 8. The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-11-13T04:09:27+00:00`
 - url: https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/
 - summary: Picture a claims officer in Makati pasting a customer’s medical file into a free chatbot to draft a rejection letter before lunch. Upstairs, her CEO signs off on a market-entry plan stitched together by the same kind of tool. Nobody has told either of them wh…
-
-### 8. The Swift premium: What Singapore’s exclusive Eras Tour deal taught ASEAN about cultural economics
-- source: e27 Asia Startup and Tech Feed
-- score: `9`
-- published: `2026-11-13T05:13:03+00:00`
-- url: https://e27.co/the-swift-premium-what-singapores-exclusive-eras-tour-deal-taught-asean-about-cultural-economics-20261109/
-- summary: When Singapore arranged exclusive Southeast Asian dates for Taylor Swift’s Eras Tour in March 2024, six shows, only stop in the region, the diplomatic and economic discussion that followed was one of the more publicly visible moments of ASEAN economic competi…
 
 END OF DOCUMENT

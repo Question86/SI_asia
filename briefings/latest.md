@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T05:18:41+00:00_
+_Generiert: 2026-11-13T05:25:30+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+29 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region south_korea: South Korea (+2.0)
   - Kurz: South Korea and Southeast Asia are becoming more relevant to discussion around the next phase of AI and blockchain adoption. South Korea offers established technology companies, advanced hardware capabilities, an active venture ecosystem and a market with strong consumer adoption of digital services. Southeast Asia has a large and diverse digital economy, mobile-first users and […] The post Why South Korea and South…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head** — Score 12, observation — [Quelle](https://e27.co/build-what-matters-or-what-gets-funded-indias-vcs-say-the-real-gap-sits-in-the-founders-head-20261113/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-13T05:24:18+00:00`, fetched `2026-11-13T05:24:57+00:00`
+  - Treffer: APAC Trend Radar, founder, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: There is no spreadsheet for this. You cannot plug in a dozen parameters, hit enter and receive a verdict on whether a startup matters. That was the opening salvo at a Huddle Global 2026 panel provocatively titled “The VC Truth: Build What Matters, Not What Gets Funded”, where three Indian venture capitalists spent the better […] The post Build what matters or what gets funded? India’s VCs say the real gap sits in th…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout** — Score 12, observation — [Quelle](https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-13T01:22:19+00:00`, fetched `2026-11-13T01:31:07+00:00`
@@ -131,15 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According to a regulatory filing, Nvidia’s board accepted his resignation on […] The post Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout ap…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up** — Score 10, observation — [Quelle](https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-13T04:09:27+00:00`, fetched `2026-11-13T04:25:17+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines, ASEAN (+2.0)
-  - Kurz: Picture a claims officer in Makati pasting a customer’s medical file into a free chatbot to draft a rejection letter before lunch. Upstairs, her CEO signs off on a market-entry plan stitched together by the same kind of tool. Nobody has told either of them what is allowed, because in most Philippine companies, nobody has […] The post The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - Pagan region, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

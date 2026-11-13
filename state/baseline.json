@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T05:18:44+00:00",
+  "generated_at": "2026-11-13T05:25:33+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2955,7 +2955,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2968,8 +2968,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -29722,7 +29722,7 @@
     },
     "earthquake:indonesia:4.7": {
       "title": "M 4.7 - 27 km NNE of Labuan Lombok, Indonesia",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -29752,13 +29752,13 @@
         17.7,
         17.7,
         17.7,
-        17.7,
-        20.7
+        20.7,
+        17.7
       ],
       "rolling_average": 17.8,
       "rolling_peak": 20.7,
-      "last_score": 20.7,
-      "z_hint": 2.9
+      "last_score": 17.7,
+      "z_hint": -0.1
     },
     "github_repo:melgarafael/deskcommcrm": {
       "title": "melgarafael/DeskcommCRM",
@@ -82179,7 +82179,7 @@
     },
     "earthquake:m 4.9 - pagan region, northern mariana islands:4.9": {
       "title": "M 4.9 - Pagan region, Northern Mariana Islands",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -82198,8 +82198,8 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -114660,7 +114660,7 @@
     },
     "domain:jpcertcc.github.io": {
       "title": "インシデント調査報告書チェックリスト",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -114669,8 +114669,8 @@
         9.1,
         9.1,
         9.1,
-        9.1,
         12.1,
+        9.1,
         9.1,
         9.1,
         9.1,
@@ -116478,9 +116478,10 @@
     },
     "github_repo:tsukumijima/yacchogpt": {
       "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         11.1,
+        8.1,
         8.1,
         8.1,
         8.1,
@@ -116512,7 +116513,7 @@
     },
     "earthquake:m 5.1 - 39 km s of moíres, greece:5.1": {
       "title": "M 5.1 - 39 km S of Moíres, Greece",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -116536,16 +116537,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.83,
+      "rolling_average": 11.82,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:aws-aws-aws": {
       "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -116569,16 +116571,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.23,
+      "rolling_average": 7.22,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:github-availability-report-october-2026": {
       "title": "GitHub availability report: October 2026",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -116602,16 +116605,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.23,
+      "rolling_average": 6.22,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:jensen-huang-quits-nvidia-southeast-asia-chip-hubs": {
       "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -116632,16 +116636,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.25,
+      "rolling_average": 14.24,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "earthquake:m 5.0 - 85 km w of mwene-ditu, democratic republic of the co:5.0": {
       "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         9.7,
         6.7,
@@ -116662,16 +116667,17 @@
         6.7,
         6.7,
         6.7,
+        6.7,
         6.7
       ],
-      "rolling_average": 6.85,
+      "rolling_average": 6.84,
       "rolling_peak": 9.7,
       "last_score": 6.7,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "url:https://zenn.dev/dress_code/articles/568fd547315abe": {
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         24.1,
         21.1,
@@ -116691,16 +116697,17 @@
         21.1,
         21.1,
         21.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 21.26,
+      "rolling_average": 21.25,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "url:https://www.digital.go.jp/speech/minister-261113-01": {
       "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -116720,16 +116727,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.26,
+      "rolling_average": 8.25,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:tightvnc-ultravnc-windows-viewer": {
       "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -116748,16 +116756,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.27,
+      "rolling_average": 16.26,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:imagemagick": {
       "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -116776,16 +116785,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.27,
+      "rolling_average": 16.26,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:promzard": {
       "title": "PromZardにおけるリモートコード実行の脆弱性",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -116804,16 +116814,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.27,
+      "rolling_average": 16.26,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:comfyui-comfyui-easy-use": {
       "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -116832,16 +116843,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.27,
+      "rolling_average": 16.26,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:ghost-middle-one-manager-upskilled-himself-out-room": {
       "title": "The ghost in the middle: How one manager upskilled himself out of the room",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -116860,16 +116872,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.27,
+      "rolling_average": 6.26,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:fear-high-longs-got-flushed-000-next-line": {
       "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -116885,16 +116898,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.3,
+      "rolling_average": 6.29,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:jetbrains-youtrack": {
       "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -116908,16 +116922,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.33,
+      "rolling_average": 16.31,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:why-south-korea-southeast-asia-could-next-cross": {
       "title": "Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         18.1,
         15.1,
@@ -116931,16 +116946,17 @@
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.33,
+      "rolling_average": 15.31,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "url:https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml": {
       "title": "AIが作成?画像は別人?選挙ポスター複数掲示 作成費に公費支出 尼崎市議補選、戸惑う有権者",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -116951,16 +116967,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.4,
+      "rolling_average": 7.37,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:yubikey": {
       "title": "フィッシング攻撃を“遮断” 物理パスキー「YubiKey」日本で本格展開",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -116971,16 +116988,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.4,
+      "rolling_average": 7.37,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:why-femtech-adoption-southeast-asia-stops-clinic-door": {
       "title": "Why femtech adoption in Southeast Asia stops at the clinic door",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -116989,16 +117007,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.47,
+      "rolling_average": 8.43,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "title:philippines-trusts-more-than-anyone-asean-its-rulebook": {
       "title": "The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -117006,57 +117025,73 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.53,
+      "rolling_average": 12.47,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "title:your-buyer-probably-not-singaporean-what-488-acquirers": {
       "title": "Your buyer is probably not Singaporean: What 2,488 acquirers tell founders planning an exit",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         21.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 19.6,
+      "rolling_average": 19.1,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:didn-eliminate-our-work-changed-what-our-team": {
       "title": "AI didn’t eliminate our work. It changed what our team could do",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 11.6,
+      "rolling_average": 11.1,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:swift-premium-what-singapore-exclusive-eras-tour-deal": {
       "title": "The Swift premium: What Singapore’s exclusive Eras Tour deal taught ASEAN about cultural economics",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
-        14.1
+        14.1,
+        11.1
       ],
-      "rolling_average": 14.1,
+      "rolling_average": 12.6,
       "rolling_peak": 14.1,
-      "last_score": 14.1,
-      "z_hint": 0.0
+      "last_score": 11.1,
+      "z_hint": -1.5
     },
     "title:2026-microsoft-365-piyolog": {
       "title": "2026年11月に発生したMicrosoft 365の接続障害についてまとめてみた - piyolog",
-      "updated_at": "2026-11-13T05:18:44+00:00",
+      "updated_at": "2026-11-13T05:25:33+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
+      "last_score": 7.1,
+      "z_hint": -1.5
+    },
+    "title:build-what-matters-what-gets-funded-india-vcs": {
+      "title": "Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head",
+      "updated_at": "2026-11-13T05:25:33+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
       "z_hint": 0.0
     }
   }

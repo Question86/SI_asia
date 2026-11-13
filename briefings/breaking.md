@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-13T05:18:44+00:00_
+_Generiert: 2026-11-13T05:25:33+00:00_
 
 ## Your buyer is probably not Singaporean: What 2,488 acquirers tell founders planning an exit
 
