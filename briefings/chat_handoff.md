@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T02:45:00+00:00_
+_Generated: 2026-11-13T03:01:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `18`
 
 ## Top Signals
 
@@ -22,46 +22,46 @@ _Generated: 2026-11-13T02:45:00+00:00_
 - url: https://jvn.jp/vu/JVNVU90821966/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性
+### 3. JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `14`
+- published: `2026-11-13T12:00:00+09:00`
+- url: https://jvn.jp/jp/JVN76799957/
+- summary: JetBrains s.r.o.が提供するYouTrackには、クロスサイトスクリプティングの脆弱性が存在します。
+
+### 4. TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-13T11:00:30+09:00`
 - url: https://jvn.jp/vu/JVNVU92656681/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 4. ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-13T11:00:20+09:00`
-- url: https://jvn.jp/vu/JVNVU95718857/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+### 5. Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor
+- source: e27 Asia Startup and Tech Feed
+- score: `13`
+- published: `2026-11-13T03:00:20+00:00`
+- url: https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/
+- summary: South Korea and Southeast Asia are becoming more relevant to discussion around the next phase of AI and blockchain adoption. South Korea offers established technology companies, advanced hardware capabilities, an active venture ecosystem and a market with str…
 
-### 5. Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout
+### 6. Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-13T01:22:19+00:00`
 - url: https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/
 - summary: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According…
 
-### 6. M 5.1 - 39 km S of Moíres, Greece
+### 7. M 5.1 - 39 km S of Moíres, Greece
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-13T00:29:46.589+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9
 - summary: DYFI? - III Time 2026-11-13 00:05:04 UTC 2026-11-13 00:05:04 UTC at epicenter Location 34.697°N 24.880°E Depth 43.36 km (26.94 mi)
 
-### 7. インシデント調査報告書チェックリスト
+### 8. インシデント調査報告書チェックリスト
 - source: Hatena Bookmark Hotentry IT
 - score: `7`
 - published: `2026-11-11T13:20:41+00:00`
 - url: https://jpcertcc.github.io/ir_report_checklist/index.html
 - summary: レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く チェッ...
-
-### 8. 古川大臣記者会見（令和8年11月13日）動画を掲載しました
-- source: Japan Digital Agency News RSS
-- score: `6`
-- published: `2026-11-13T01:41:56+00:00`
-- url: https://www.digital.go.jp/speech/minister-261113-01
-- summary: 古川大臣記者会見（令和8年11月13日）動画を掲載しました
 
 END OF DOCUMENT

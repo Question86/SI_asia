@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-13T02:45:00+00:00",
+  "generated_at": "2026-11-13T03:01:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 2,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 6,
-    "observe": 10
+    "medium": 7,
+    "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T12:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN76799957/",
+      "summary": "JetBrains s.r.o.が提供するYouTrackには、クロスサイトスクリプティングの脆弱性が存在します。",
+      "section": "medium"
+    },
+    {
       "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
@@ -45,14 +55,14 @@
       "section": "medium"
     },
     {
-      "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-13T11:00:20+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU95718857/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "section": "medium"
+      "published_at": "2026-11-13T03:00:20+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
+      "summary": "South Korea and Southeast Asia are becoming more relevant to discussion around the next phase of AI and blockchain adoption. South Korea offers established technology companies, advanced hardware capabilities, an active venture ecosystem and a market with str…",
+      "section": "observe"
     },
     {
       "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
@@ -83,16 +93,6 @@
       "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
       "summary": "レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く チェッ...",
       "section": "observe"
-    },
-    {
-      "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-13T01:41:56+00:00",
-      "relevance_score": 6,
-      "url": "https://www.digital.go.jp/speech/minister-261113-01",
-      "summary": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,134 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
-        "url": "https://jvn.jp/vu/JVNVU90821966/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T11:00:40+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU92656681/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T11:00:30+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU95718857/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T11:00:20+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "PromZardにおけるリモートコード実行の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU98641453/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T11:00:10+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99429639/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T11:00:00+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      }
-    ]
-  }
+  ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T02:45:00+00:00",
-  "run_id": "2026-11-13T02:45:00+00:00",
+  "generated_at": "2026-11-13T03:01:48+00:00",
+  "run_id": "2026-11-13T03:01:48+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 2,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 6,
-    "observe": 10,
+    "medium": 7,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -98,6 +98,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "afefb11e9a4db6e03e14"
+      },
+      {
+        "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
+        "url": "https://jvn.jp/jp/JVN76799957/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-13T12:00:00+09:00",
+        "fetched_at": "2026-11-13T03:01:17+00:00",
+        "summary": "JetBrains s.r.o.が提供するYouTrackには、クロスサイトスクリプティングの脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b88ce4b25bc1f03f4b1b"
       },
       {
         "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
@@ -189,6 +211,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor",
+        "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-13T03:00:20+00:00",
+        "fetched_at": "2026-11-13T03:01:17+00:00",
+        "summary": "South Korea and Southeast Asia are becoming more relevant to discussion around the next phase of AI and blockchain adoption. South Korea offers established technology companies, advanced hardware capabilities, an active venture ecosystem and a market with strong consumer adoption of digital services. Southeast Asia has a large and diverse digital economy, mobile-first users and […] The post Why South Korea and South…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region south_korea: South Korea (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "12757b22c922b1761f4c"
+      },
       {
         "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
         "url": "https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/",
@@ -502,6 +546,28 @@
       "id": "afefb11e9a4db6e03e14"
     },
     {
+      "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN76799957/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T12:00:00+09:00",
+      "fetched_at": "2026-11-13T03:01:17+00:00",
+      "summary": "JetBrains s.r.o.が提供するYouTrackには、クロスサイトスクリプティングの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b88ce4b25bc1f03f4b1b"
+    },
+    {
       "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU92656681/",
       "source": "JVN Japan Vulnerability Notes",
@@ -588,6 +654,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ca947cf07032996f0b20"
+    },
+    {
+      "title": "Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor",
+      "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-13T03:00:20+00:00",
+      "fetched_at": "2026-11-13T03:01:17+00:00",
+      "summary": "South Korea and Southeast Asia are becoming more relevant to discussion around the next phase of AI and blockchain adoption. South Korea offers established technology companies, advanced hardware capabilities, an active venture ecosystem and a market with strong consumer adoption of digital services. Southeast Asia has a large and diverse digital economy, mobile-first users and […] The post Why South Korea and South…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region south_korea: South Korea (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12757b22c922b1761f4c"
     },
     {
       "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
@@ -829,7 +917,52 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN76799957/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T12:00:00+09:00",
+      "fetched_at": "2026-11-13T03:01:17+00:00",
+      "summary": "JetBrains s.r.o.が提供するYouTrackには、クロスサイトスクリプティングの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b88ce4b25bc1f03f4b1b"
+    },
+    {
+      "title": "Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor",
+      "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-13T03:00:20+00:00",
+      "fetched_at": "2026-11-13T03:01:17+00:00",
+      "summary": "South Korea and Southeast Asia are becoming more relevant to discussion around the next phase of AI and blockchain adoption. South Korea offers established technology companies, advanced hardware capabilities, an active venture ecosystem and a market with strong consumer adoption of digital services. Southeast Asia has a large and diverse digital economy, mobile-first users and […] The post Why South Korea and South…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region south_korea: South Korea (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12757b22c922b1761f4c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

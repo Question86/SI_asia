@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T02:45:00+00:00_
+_Generiert: 2026-11-13T03:01:48+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+18 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN76799957/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-13T12:00:00+09:00`, fetched `2026-11-13T03:01:17+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: JetBrains s.r.o.が提供するYouTrackには、クロスサイトスクリプティングの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU92656681/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-13T11:00:30+09:00`, fetched `2026-11-13T02:08:57+00:00`
@@ -84,18 +93,18 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95718857/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-11-13T11:00:20+09:00`, fetched `2026-11-13T02:08:57+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
+- **Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor** — Score 13, observation — [Quelle](https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-13T03:00:20+00:00`, fetched `2026-11-13T03:01:17+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region south_korea: South Korea (+2.0)
+  - Kurz: South Korea and Southeast Asia are becoming more relevant to discussion around the next phase of AI and blockchain adoption. South Korea offers established technology companies, advanced hardware capabilities, an active venture ecosystem and a market with strong consumer adoption of digital services. Southeast Asia has a large and diverse digital economy, mobile-first users and […] The post Why South Korea and South…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout** — Score 12, observation — [Quelle](https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-13T01:22:19+00:00`, fetched `2026-11-13T01:31:07+00:00`
@@ -158,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: My point of view is straightforward. The recent Bitcoin drop looks like a macro-led repricing with a leverage amplifier, not a Bitcoin-only failure. Bitcoin fell 3.45 per cent to US$71,425.63 in 24 hours and traded near a reported 12-week low. The broader crypto market fell 2.66 per cent to US$2.39 trillion. Bitcoin underperformed the wider […] The post Fear is high and longs got flushed. Is US$70,000 the next line…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The ghost in the middle: How one manager upskilled himself out of the room** — Score 4, observation — [Quelle](https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-13T02:00:40+00:00`, fetched `2026-11-13T02:08:57+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The grey ring of condensation on the laminate table had almost dried by the time he finished explaining his pipeline. Outside the glass wall of the coffee shop at the edge of the financial district, the midday rush was beginning to churn: young associates balancing takeaway salads, delivery riders cutting across intersections, the persistent equatorial […] The post The ghost in the middle: How one manager upskilled…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo** — Score 4, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
