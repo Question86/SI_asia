@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T10:08:54+00:00",
+  "generated_at": "2026-11-13T10:19:50+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-11-12T03:01:52+00:00",
         "relevance_score": 19,
         "url": "https://zenn.dev/dress_code/articles/568fd547315abe"
+      },
+      {
+        "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-13T05:21:58+00:00",
+        "relevance_score": 17,
+        "url": "https://ktlog.net/posts/claude-code-ai-ecosystem"
       },
       {
         "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-13T06:00:42+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/jensen-huang-resigns-from-nvidia-as-alleged-spy-affair-wipes-us300b-20261113/"
-      },
-      {
-        "title": "AI didn’t eliminate our work. It changed what our team could do",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-13T05:00:36+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ai-didnt-eliminate-our-work-it-changed-what-our-team-could-do-20261109/"
       }
     ],
     "security": [
@@ -133,18 +133,18 @@
         "url": "https://jvn.jp/vu/JVNVU99429639/"
       },
       {
-        "title": "[UPDATE] [mittel] RPM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+        "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-13T09:22:02+00:00",
+        "published_at": "2026-11-13T10:13:27+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2980"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4460"
       },
       {
-        "title": "[UPDATE] [hoch] ffmpeg: Mehrere Schwachstellen",
+        "title": "[UPDATE] [mittel] GitLab: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-13T09:22:02+00:00",
+        "published_at": "2026-11-13T10:13:26+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2939"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4476"
       }
     ],
     "github": [

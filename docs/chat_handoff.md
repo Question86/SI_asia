@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T10:08:54+00:00_
+_Generated: 2026-11-13T10:19:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `50`
+- findings: `54`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-13T10:08:54+00:00_
 - url: https://zenn.dev/dress_code/articles/568fd547315abe
 - summary: こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはず...
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）
+### 3. Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例
+- source: Hatena Bookmark Hotentry IT
+- score: `17`
+- published: `2026-11-13T05:21:58+00:00`
+- url: https://ktlog.net/posts/claude-code-ai-ecosystem
+- summary: 公開 2026.11.08 Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例 Claude Codeのおすすめ環境は、入口をClaude Code 1つにまとめ、判断AIや権限ルールなどのハーネスを通してから、ほかのAI・スキル・MCP・外部APIへ仕事を振り分ける形です。全体図と3つの実例でまとめました。 Claude C...
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-11-13T11:00:40+09:00`
 - url: https://jvn.jp/vu/JVNVU90821966/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-11-13T08:02:03+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433
-- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.
 
 ### 5. Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor
 - source: e27 Asia Startup and Tech Feed

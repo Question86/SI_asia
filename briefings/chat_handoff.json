@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-13T10:08:54+00:00",
+  "generated_at": "2026-11-13T10:19:50+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "new_relevant_findings": 4,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 0,
-    "medium": 18,
+    "medium": 22,
     "observe": 32
   },
   "source_errors_count": 0,
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T05:21:58+00:00",
+      "relevance_score": 17,
+      "url": "https://ktlog.net/posts/claude-code-ai-ecosystem",
+      "summary": "公開 2026.11.08 Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例 Claude Codeのおすすめ環境は、入口をClaude Code 1つにまとめ、判断AIや権限ルールなどのハーネスを通してから、ほかのAI・スキル・MCP・外部APIへ仕事を振り分ける形です。全体図と3つの実例でまとめました。 Claude C...",
+      "section": "medium"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://jvn.jp/vu/JVNVU90821966/",
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-13T08:02:03+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.",
       "section": "medium"
     },
     {
