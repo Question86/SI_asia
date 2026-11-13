@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T04:01:34+00:00_
+_Generated: 2026-11-13T04:25:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `23`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-13T04:01:34+00:00_
 - url: https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/
 - summary: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According…
 
-### 7. M 4.9 - Pagan region, Northern Mariana Islands
+### 7. The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-11-13T04:09:27+00:00`
+- url: https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/
+- summary: Picture a claims officer in Makati pasting a customer’s medical file into a free chatbot to draft a rejection letter before lunch. Upstairs, her CEO signs off on a market-entry plan stitched together by the same kind of tool. Nobody has told either of them wh…
+
+### 8. M 4.9 - Pagan region, Northern Mariana Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-13T03:06:41.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy
 - summary: Time 2026-11-13 02:55:03 UTC 2026-11-13 02:55:03 UTC at epicenter Location 18.893°N 145.603°E Depth 219.57 km (136.44 mi)
-
-### 8. M 5.1 - 39 km S of Moíres, Greece
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-13T00:29:46.589+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9
-- summary: DYFI? - III Time 2026-11-13 00:05:04 UTC 2026-11-13 00:05:04 UTC at epicenter Location 34.697°N 24.880°E Depth 43.36 km (26.94 mi)
 
 END OF DOCUMENT
