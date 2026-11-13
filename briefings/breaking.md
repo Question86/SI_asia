@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-13T10:27:28+00:00_
+_Generiert: 2026-11-13T10:36:13+00:00_
 
 ## Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例
 
