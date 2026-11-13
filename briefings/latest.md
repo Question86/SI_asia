@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T00:37:32+00:00_
+_Generiert: 2026-11-13T01:01:44+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 39 km S of Moíres, Greece“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+5 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 39 km S of Moíres, Greece“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -70,6 +70,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-11-13 00:05:04 UTC 2026-11-13 00:05:04 UTC at epicenter Location 34.697°N 24.880°E Depth 43.36 km (26.94 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **インシデント調査報告書チェックリスト** — Score 7, observation — [Quelle](https://jpcertcc.github.io/ir_report_checklist/index.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-11T13:20:41+00:00`, fetched `2026-11-13T01:01:12+00:00`
+  - Treffer: GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く チェッ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨** — Score 6, observation — [Quelle](https://github.com/tsukumijima/YacchoGPT)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-06-14T22:55:00+00:00`, fetched `2026-11-13T00:01:51+00:00`
