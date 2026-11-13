@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-11-13T08:07:54+00:00`
+Generated: `2026-11-13T08:21:12+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -8,6 +8,7 @@ Generated: `2026-11-13T08:07:54+00:00`
 |---|---|---:|---:|---:|---:|
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | natural_disaster, conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | mvschwarz/openrig | conflict | $122.40M | $12.24B | $1.22T | 0.31 |
+| openai/codex-security | conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software | conflict | $121.60M | $12.16B | $1.22T | 0.31 |
 | GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. | regulation, conflict | $120.00M | $12.00B | $1.20T | 0.31 |
 | QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students | conflict | $118.40M | $11.84B | $1.18T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-11-13T08:07:54+00:00`
 | Stage-only npm tokens for safer automation | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Multiples vulnérabilités dans les produits VMware (26 octobre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 | Malaysia’s US$110M startup bet has a matching problem, investors warn | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
-| Multiples vulnérabilités dans les produits VMware (09 novembre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 
 ## Interpretation
 

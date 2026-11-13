@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T08:08:09+00:00",
+  "generated_at": "2026-11-13T08:21:24+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -7260,7 +7260,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_43a66ad3fda61d859fca",
@@ -9339,7 +9339,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_55bd9b2d9c70fd4db796",
@@ -20375,6 +20375,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_bb990884fcc8757043bd",
+      "title": "QwenLM/qwen-code",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_bbfbde427a388f63bf4f",
       "title": "Deno is joining Cloudflare | Deno",
       "deduplicated_buckets": 0,
@@ -27039,6 +27050,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_fa5fed2c4c47053860db",
+      "title": "openai/codex-security",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_fa893fc3913f1547c0ca",

@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T08:08:08+00:00",
+  "generated_at": "2026-11-13T08:21:23+00:00",
   "fx_as_of": null,
-  "candidate_count": 2970,
+  "candidate_count": 2971,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2970
+    "pending": 2971
   },
   "coverage_warning": null,
   "candidates": [
@@ -2201,6 +2201,27 @@
       "snippet": "ch up to demand gradually over time. AI-related debt has been rising rapidly, with notable gains in corporate bonds, private credit, and project finance, and is on track to exceed $800 billion this year. Other obligations, in the form of long-term lease and contract commitments and residual value guarantees, have also surged and their potential payments are estimated at",
       "source_priority": "primary_hint",
       "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm"
+    },
+    {
+      "amount_native": 5.0,
+      "amount_usd": 5.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.68,
+      "candidate_id": "cand_bb60efd48e9484dda3a3",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_fa5fed2c4c47053860db",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-13T08:21:13+00:00",
+      "overlap_group_suggestion": "evt_fa5fed2c4c47053860db:unknown:523bd0c96b6a",
+      "review_status": "pending",
+      "snippet": "ution commit SHA from an Action release. To try the workflow before the next scheduled run, open Actions → Codex Security repository → Run workflow . The example uses an estimated $5 limit per scan and reports findings without failing the job. Requests in progress can exceed the limit. For a severity threshold, pull request checks, or runner requirements, see t",
+      "source_priority": "primary_hint",
+      "source_url": "https://github.com/openai/codex-security",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 3000.0,
@@ -39338,20 +39359,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_490ad96d6813c705e94e",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_a9168860075ad99c5a0d",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-11-13T08:08:05+00:00",
       "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:77e498208169",
       "review_status": "pending",
       "snippet": "lyzed 250 Million AI Search Results: Here's What I Found joshbly 2 2.1k Paper Plane katiecoart PRO 6 55k Writing Fast Ruby sferik 630 63k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.4k A better future with KSS kneath 240 18k Joys of Absence: A Defence of Solitary Play codingconduct 1 570 The B2B funnel & how to c",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata",
-      "component_confidence": 0.55,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata"
     },
     {
       "amount_native": 230000.0,
