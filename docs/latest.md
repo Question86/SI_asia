@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T03:28:38+00:00_
+_Generiert: 2026-11-13T03:38:11+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+21 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -114,14 +114,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)
   - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/awsawsaws_1.html)
+- **AIが作成?画像は別人?選挙ポスター複数掲示 作成費に公費支出 尼崎市議補選、戸惑う有権者** — Score 5, observation — [Quelle](https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-12T14:37:20+00:00`, fetched `2026-11-13T00:37:05+00:00`
+  - Zeit: published `2026-11-13T01:21:49+00:00`, fetched `2026-11-13T03:37:43+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing...
+  - Kurz: １５日投開票の兵庫県尼崎市議補選（欠員１）で、生成人工知能（ＡＩ）で作成したとみられる人物の選挙ポスターが複数掲示されている。市選挙管理委員会によると、少なくとも１人の顔は「候補者と全く違う」。選挙ポスターを巡っては昨年５月、品位保持などを目的に改正公選法が施行されたが具体的な基準はない。顔を知...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Fear is high and longs got flushed. Is US$70,000 the next line in the sand?** — Score 4, observation — [Quelle](https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
