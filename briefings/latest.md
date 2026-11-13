@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T17:41:23+00:00_
+_Generiert: 2026-11-13T17:47:37+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,6 @@ _Generiert: 2026-11-13T17:41:23+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.
-- **USGS earthquake M5.8 - 79 km WSW of Changuillo, Peru** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a)
-  - Quelle: USGS
-  - Zeit: `2026-11-13T16:43:02+00:00`
-  - Kurz: M5.8 - 79 km WSW of Changuillo, Peru. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -75,7 +71,7 @@ _Generiert: 2026-11-13T17:41:23+00:00_
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-13T13:17:16+00:00`, fetched `2026-11-13T13:16:59+00:00`
+  - Zeit: published `2026-11-13T17:47:26+00:00`, fetched `2026-11-13T17:47:10+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
