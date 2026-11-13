@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T14:27:30+00:00_
+_Generated: 2026-11-13T14:34:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `69`
+- findings: `70`
 
 ## Top Signals
 
@@ -64,11 +64,11 @@ _Generated: 2026-11-13T14:27:30+00:00_
 - url: https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/
 - summary: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According…
 
-### 9. ぼくのClaude Codeの使い方
-- source: Hatena Bookmark Hotentry IT
+### 9. M 5.2 - West Chile Rise
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-11-12T15:11:52+00:00`
-- url: https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata
-- summary: Sapporo Claude Code Meetup LT, 2026/11/12
+- published: `2026-11-13T14:32:35.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s
+- summary: Time 2026-11-13 14:12:47 UTC 2026-11-13 14:12:47 UTC at epicenter Location 36.443°S 97.979°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
