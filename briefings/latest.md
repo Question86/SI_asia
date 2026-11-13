@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T09:59:53+00:00_
+_Generiert: 2026-11-13T10:08:54+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „openai/codex-security“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+50 neue relevante Treffer. Stärkstes Signal: „openai/codex-security“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
