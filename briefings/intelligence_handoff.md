@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-13T00:50:45Z_
+_Generated: 2026-11-13T01:20:42Z_
 
 ## Lageurteil
 
@@ -12,67 +12,87 @@ Stärkste Dynamik nach Gate-Recheck: “AWSをローカルマシン上でエミ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.5`
-- Published: `2026-11-13T00:37:35+00:00` / age_days `0.01`
+- Published: `2026-11-13T00:37:35+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: momentum delta +2
 - Quelle: https://www.publickey1.jp/blog/26/awsawsaws_1.html
+
+### インシデント調査報告書チェックリスト
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.0`
+- Published: `2026-11-11T21:23:05+00:00` / age_days `1.17`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://jpcertcc.github.io/ir_report_checklist/index.html
+
+### GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `15.0`
+- Published: `2026-11-13T00:02:33+00:00` / age_days `0.05`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://github.com/tsukumijima/YacchoGPT
 
 ### M 5.1 - 39 km S of Moíres, Greece
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `13.4`
-- Published: `2026-11-13T00:37:35+00:00` / age_days `0.01`
+- Dynamics score: `14.0`
+- Published: `2026-11-13T00:37:35+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: momentum delta +2
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9
 
 ### M 5.1 - 39 km S of Moíres, Greece
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-11-13T00:29:46.589+00:00` / age_days `0.01`
+- Published: `2026-11-13T00:29:46.589+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9
 
-### GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.0`
-- Published: `2026-11-13T00:02:33+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://github.com/tsukumijima/YacchoGPT
-
 ### AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-11-12T14:37:20+00:00` / age_days `0.43`
+- Published: `2026-11-12T14:37:20+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: local
 - Quelle: https://www.publickey1.jp/blog/26/awsawsaws_1.html
 
+### インシデント調査報告書チェックリスト
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `7.0`
+- Published: `2026-11-11T13:20:41+00:00` / age_days `1.5`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://jpcertcc.github.io/ir_report_checklist/index.html
+
 ### GitHub availability report: October 2026
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `2.5`
-- Published: `2026-11-13T00:37:35+00:00` / age_days `0.01`
+- Published: `2026-11-13T00:37:35+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +2, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://github.blog/news-insights/company-news/github-availability-report-october-2026/
 
 ### GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-14T22:55:00+00:00` / age_days `151.08`
+- Published: `2026-06-14T22:55:00+00:00` / age_days `151.1`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: aging penalty -16.0 for 151.1d old signal
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “AWSをローカルマシン上でエミ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-11-13T00:20:16+00:00` / age_days `0.02`
+- Published: `2026-11-13T00:20:16+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-13T00:50:45Z",
+  "generated_at": "2026-11-13T01:20:42Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=17.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T00:37:35+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -25,12 +25,60 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "インシデント調査報告書チェックリスト",
+      "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-11T21:23:05+00:00",
+      "age_days": 1.17,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
+      "url": "https://github.com/tsukumijima/YacchoGPT",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-13T00:02:33+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -39,22 +87,22 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T00:37:35+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.4,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -63,7 +111,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T00:29:46.589+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -83,35 +131,11 @@
       "summary": "DYFI? - III Time 2026-11-13 00:05:04 UTC 2026-11-13 00:05:04 UTC at epicenter Location 34.697°N 24.880°E Depth 43.36 km (26.94 mi)"
     },
     {
-      "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
-      "url": "https://github.com/tsukumijima/YacchoGPT",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-13T00:02:33+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
       "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T14:37:20+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -131,11 +155,35 @@
       "summary": "Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing..."
     },
     {
+      "title": "インシデント調査報告書チェックリスト",
+      "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-11T13:20:41+00:00",
+      "age_days": 1.5,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く チェッ..."
+    },
+    {
       "title": "GitHub availability report: October 2026",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-11-13T00:37:35+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -145,12 +193,12 @@
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -161,7 +209,7 @@
       "url": "https://github.com/tsukumijima/YacchoGPT",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-14T22:55:00+00:00",
-      "age_days": 151.08,
+      "age_days": 151.1,
       "topics": [
         "general"
       ],
@@ -185,7 +233,7 @@
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-11-13T00:20:16+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -215,7 +263,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "watch": 3,
+      "watch": 5,
       "quiet": 5
     }
   }
