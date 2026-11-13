@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T10:20:28+00:00",
+  "generated_at": "2026-11-13T10:28:10+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -892,6 +892,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_07c92fc2facb067d2089",
+      "title": "M 4.9 - southeast of the Loyalty Islands",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_080660f415c541893b90",
@@ -3069,7 +3080,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1d6fd2d34ac981e75c5e",
@@ -17671,12 +17682,12 @@
     {
       "event_id": "evt_a10707ae68ce416a1703",
       "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {

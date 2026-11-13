@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T10:20:15+00:00",
+  "generated_at": "2026-11-13T10:27:58+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -36,7 +36,7 @@
       "p90_usd": 1224000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T08:20:47+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -1958,7 +1958,7 @@
       "p90_usd": 29200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T05:06:33+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -2349,7 +2349,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -6651,7 +6651,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-11-13T00:37:35+00:00",
       "last_seen_at": "2026-11-13T10:19:55+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1de3c051720e5b86c5f5",
@@ -9778,7 +9778,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-10-20T07:49:42+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -11308,7 +11308,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-13T08:40:59+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -13318,6 +13318,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_07c92fc2facb067d2089",
+      "title": "M 4.9 - southeast of the Loyalty Islands",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-13T10:27:28+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2bb9a382978abc72cb41",
       "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
       "event_classes": [
@@ -13348,7 +13365,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -13569,7 +13586,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -14164,7 +14181,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T02:09:38+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -14334,7 +14351,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T02:09:38+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -14606,7 +14623,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T02:09:38+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -15065,7 +15082,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T03:01:51+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -15524,7 +15541,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T02:09:38+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -17718,7 +17735,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T01:58:18+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -18521,6 +18538,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a10707ae68ce416a1703",
+      "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_affca830111f7de7df59",
       "title": "AI chats are becoming the new starting point for online shopping",
       "event_classes": [
@@ -18621,23 +18655,6 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_a10707ae68ce416a1703",
-      "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 117600.0,
-      "p50_usd": 11760000.0,
-      "p90_usd": 1176000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-13T10:19:55+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_04dd5841535ba2efa091",
@@ -21254,7 +21271,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T03:01:51+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -22835,7 +22852,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T05:25:33+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -23414,7 +23431,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T01:31:38+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -24791,7 +24808,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
@@ -27546,7 +27563,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T04:25:50+00:00",
-      "last_seen_at": "2026-11-13T10:19:55+00:00",
+      "last_seen_at": "2026-11-13T10:27:28+00:00",
       "status": "active"
     },
     {
