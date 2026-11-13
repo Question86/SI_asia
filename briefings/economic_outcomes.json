@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T20:33:27+00:00",
+  "generated_at": "2026-11-13T20:49:24+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -1435,13 +1435,13 @@
     {
       "event_id": "evt_0db3a80d4b59973c745b",
       "title": "M 4.5 - 9 km WSW of Chaparral, Colombia",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0dbc2a8e23686f5fe6f7",
@@ -20241,6 +20241,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b992ea54bcc9c6e539ad",
+      "title": "M 4.8 - 153 km NW of Kavieng, Papua New Guinea",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_b99cdf76246a6ab13326",
