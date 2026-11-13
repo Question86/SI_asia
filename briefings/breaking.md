@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-13T15:54:42+00:00_
+_Generiert: 2026-11-13T16:04:06+00:00_
 
 ## Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht
 
