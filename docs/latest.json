@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T09:28:20+00:00",
-  "run_id": "2026-11-13T09:28:20+00:00",
+  "generated_at": "2026-11-13T09:37:44+00:00",
+  "run_id": "2026-11-13T09:37:44+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 48,
     "displayed_findings": 48,
     "high": 0,
@@ -2469,54 +2469,7 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [mittel] RPM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2980",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-13T09:22:02+00:00",
-      "fetched_at": "2026-11-13T09:27:50+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in RPM ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "07a34ffa1d659b0528a5"
-    },
-    {
-      "title": "[UPDATE] [hoch] ffmpeg: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2939",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-13T09:22:02+00:00",
-      "fetched_at": "2026-11-13T09:27:50+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "febdbd43a6b645b12d75"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
