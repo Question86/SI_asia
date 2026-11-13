@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T16:42:36+00:00_
+_Generiert: 2026-11-13T16:50:12+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
+80 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -284,14 +284,14 @@ _Generiert: 2026-11-13T16:42:36+00:00_
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); recent (+1.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 59 km WSW of Houma, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txzd)
+- **M 4.8 - 10 km SW of Guaymate, Dominican Republic** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty16)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-13T11:51:31.040+00:00`, fetched `2026-11-13T11:56:35+00:00`
+  - Zeit: published `2026-11-13T16:49:27.040+00:00`, fetched `2026-11-13T16:49:40+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-13 11:18:12 UTC 2026-11-13 11:18:12 UTC at epicenter Location 21.304°S 175.854°W Depth 162.78 km (101.15 mi)
+  - Kurz: Time 2026-11-13 16:35:58 UTC 2026-11-13 16:35:58 UTC at epicenter Location 18.529°N 69.053°W Depth 136.74 km (84.97 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Isabel Schnabel: Made in Europe** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
