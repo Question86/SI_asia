@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T23:48:27+00:00",
+  "generated_at": "2026-11-13T23:54:53+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -3411,6 +3411,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_20243d71b838d1031b3b",
+      "title": "M 5.1 - 153 km NW of Kavieng, Papua New Guinea",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_2035801ceb9d38c97234",
@@ -18106,7 +18117,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a5233992e48b04fd4e57",
