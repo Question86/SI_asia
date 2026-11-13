@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-13T18:25:43+00:00",
+  "generated_at": "2026-11-13T18:33:58+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 81,
-    "clusters": 63,
+    "findings": 82,
+    "clusters": 64,
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 0,
@@ -1299,6 +1299,44 @@
       "first_seen_at": "2026-09-18T17:12:50+00:00"
     },
     {
+      "key": "domain:x.com",
+      "title": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2770106"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.35,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 10.35,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.35,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-04T10:58:35+00:00"
+    },
+    {
       "key": "title:jensen-huang-resigns-nvidia-alleged-spy-affair-wipes",
       "title": "Jensen Huang resigns from Nvidia as alleged spy affair wipes US$300B",
       "sources": [
@@ -2463,7 +2501,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T18:25:43Z",
+    "generated_at": "2026-11-13T18:33:59Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

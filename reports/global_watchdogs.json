@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-11-13T18:25:43+00:00",
+  "generated_at": "2026-11-13T18:33:58+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-114713 UnrealIRCd UnrealIRCd",
-        "summary": "Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-13",
-        "metrics": {
-          "cve": "CVE-2026-114713"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-123039 Check Point Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-13",
-        "metrics": {
-          "cve": "CVE-2026-123039"
-        }
-      },
       {
         "domain": "security",
         "severity": "high",
@@ -60,6 +36,30 @@
         "published_at": "2026-11-10",
         "metrics": {
           "cve": "CVE-2026-20320"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-111560 Barracuda Networks Multiple Products",
+        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-10",
+        "metrics": {
+          "cve": "CVE-2026-111560"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-116606 Barracuda Networks Barracuda Email Security Gateway (ESG)",
+        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-10",
+        "metrics": {
+          "cve": "CVE-2026-116606"
         }
       },
       {
