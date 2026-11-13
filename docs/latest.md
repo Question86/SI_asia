@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T08:31:35+00:00_
+_Generiert: 2026-11-13T08:40:55+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „openai/codex-security“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+46 neue relevante Treffer. Stärkstes Signal: „openai/codex-security“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Sapporo Claude Code Meetup LT, 2026/11/12
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 18 km WNW of Río Grande, Panama** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txyr)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-13T08:37:22.040+00:00`, fetched `2026-11-13T08:40:26+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-13 08:01:57 UTC 2026-11-13 08:01:57 UTC at epicenter Location 7.782°N 81.494°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - Pagan region, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-13T03:06:41.040+00:00`, fetched `2026-11-13T03:18:11+00:00`
@@ -231,15 +240,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Enable Hermès Watch Faces on any Apple Watch devices HermesEnabler 2 English · Tiếng Việt · 한국어 · 简体中文 · 繁體中文 · 日本語 · Español · Français · Deutsch · Português Supported only on watchOS 27.0 through 27.3 beta 1. Installation macOS On macOS you can install the prebuilt IPA with Sideloadly or build the app directly with Xcode. Either way, the iPhone must be paired with the target Apple Watch, and the Watch must run a s…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo** — Score 4, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-13T01:27:29.040+00:00`, fetched `2026-11-13T01:31:07+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph demote demo (x0.45)
-  - Kurz: Time 2026-11-13 01:12:46 UTC 2026-11-13 01:12:46 UTC at epicenter Location 6.939°S 22.680°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
