@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T18:57:32+00:00_
+_Generiert: 2026-11-13T19:05:35+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
+83 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -324,14 +324,14 @@ _Generiert: 2026-11-13T18:57:32+00:00_
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く チェッ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **マイクロソフト社の障害によりメール不着等となる事象について** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-13T06:46:36+00:00`, fetched `2026-11-13T06:47:55+00:00`
-  - Treffer: APAC Trend Radar
+- **GitHub Enterprise Server support in the GitHub Copilot app** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-13T18:27:13+00:00`, fetched `2026-11-13T19:05:06+00:00`
+  - Treffer: Copilot, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: マイクロソフト社の障害によりメール不着等となる事象について
+  - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This… The post GitHub Enterprise Server support in the GitHub Copilot app appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
