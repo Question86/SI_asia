@@ -1,30 +1,7 @@
 {
-  "generated_at": "2026-11-13T01:01:46+00:00",
+  "generated_at": "2026-11-13T01:15:36+00:00",
   "today_file_total": 5,
   "current_clusters": [
-    {
-      "key": "domain:jpcertcc.github.io",
-      "title": "インシデント調査報告書チェックリスト",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jpcertcc.github.io/ir_report_checklist/index.html"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
     {
       "key": "earthquake:m 5.1 - 39 km s of moíres, greece:5.1",
       "title": "M 5.1 - 39 km S of Moíres, Greece",
@@ -49,6 +26,29 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:jpcertcc.github.io",
+      "title": "インシデント調査報告書チェックリスト",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jpcertcc.github.io/ir_report_checklist/index.html"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "github_repo:tsukumijima/yacchogpt",
