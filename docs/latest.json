@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T21:03:44+00:00",
-  "run_id": "2026-11-13T21:03:44+00:00",
+  "generated_at": "2026-11-13T21:15:29+00:00",
+  "run_id": "2026-11-13T21:15:29+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 1,
@@ -4742,29 +4742,7 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Upcoming deprecation of selected GitHub Copilot models in December",
-      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-13T20:40:05+00:00",
-      "fetched_at": "2026-11-13T21:03:14+00:00",
-      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d43e0e1dad6b789fe52a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

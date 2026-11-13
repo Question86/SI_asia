@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:03:47+00:00",
+  "generated_at": "2026-11-13T21:15:32+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 89,
@@ -1378,44 +1378,6 @@
       "first_seen_at": "2026-09-18T17:12:50+00:00"
     },
     {
-      "key": "title:upcoming-deprecation-selected-github-copilot-models-december",
-      "title": "Upcoming deprecation of selected GitHub Copilot models in December",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 10.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-13T21:03:47+00:00"
-    },
-    {
       "key": "title:jensen-huang-resigns-nvidia-alleged-spy-affair-wipes",
       "title": "Jensen Huang resigns from Nvidia as alleged spy affair wipes US$300B",
       "sources": [
@@ -1976,6 +1938,44 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
+      "key": "title:upcoming-deprecation-selected-github-copilot-models-december",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-13T21:03:47+00:00"
+    },
+    {
       "key": "title:github-enterprise-server-support-github-copilot-app",
       "title": "GitHub Enterprise Server support in the GitHub Copilot app",
       "sources": [
@@ -2259,18 +2259,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 6.58,
+      "network_score": 6.57,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 7.1,
-      "ranking_score": 6.58,
+      "ranking_score": 6.57,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.08,
+      "baseline_bonus": 0.07,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2779,7 +2779,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T21:03:48Z",
+    "generated_at": "2026-11-13T21:15:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
