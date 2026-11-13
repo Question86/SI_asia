@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-11-13T13:41:41+00:00_
+_Generiert: 2026-11-13T13:49:45+00:00_
 
 ## Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht
 
-- Ranking Score: `42.62`
+- Ranking Score: `42.27`
 - Raw Network Score: `35.1`
 - Max Monitor Score: `33`
 - Reichweite: `specialist` / `2.5`
