@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T02:30:34+00:00_
+_Generiert: 2026-11-13T02:37:27+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+16 neue relevante Treffer. Stärkstes Signal: „AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Fear is high and longs got flushed. Is US$70,000 the next line in the sand?** — Score 4, observation — [Quelle](https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-13T02:34:00+00:00`, fetched `2026-11-13T02:36:58+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: My point of view is straightforward. The recent Bitcoin drop looks like a macro-led repricing with a leverage amplifier, not a Bitcoin-only failure. Bitcoin fell 3.45 per cent to US$71,425.63 in 24 hours and traded near a reported 12-week low. The broader crypto market fell 2.66 per cent to US$2.39 trillion. Bitcoin underperformed the wider […] The post Fear is high and longs got flushed. Is US$70,000 the next line…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The ghost in the middle: How one manager upskilled himself out of the room** — Score 4, observation — [Quelle](https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
