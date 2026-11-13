@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:49:45+00:00",
+  "generated_at": "2026-11-13T13:57:13+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 68,
@@ -28,20 +28,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 42.27,
+      "network_score": 41.93,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 35.1,
-      "ranking_score": 42.27,
+      "ranking_score": 41.93,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 3.77,
+      "baseline_bonus": 3.43,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": true,
@@ -92,49 +92,6 @@
       "first_seen_at": "2026-11-13T08:20:47+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [hoch] Microsoft OneNote: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4569",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4570",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4571",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4568",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4567"
-      ],
-      "finding_count": 19,
-      "max_score": 16,
-      "credibility_total": 19.95,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.47,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 55.9,
-      "ranking_score": 22.47,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 4.97,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "earthquake:updates | reliefweb:unknown",
       "title": "Updates | ReliefWeb",
       "sources": [
@@ -173,6 +130,49 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-19T11:28:55+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [hoch] Microsoft OneNote: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4569",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4570",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4571",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4568",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4567"
+      ],
+      "finding_count": 19,
+      "max_score": 16,
+      "credibility_total": 19.95,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 22.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 55.9,
+      "ranking_score": 22.1,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 4.6,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "url:https://zenn.dev/dress_code/articles/568fd547315abe",
@@ -1955,7 +1955,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T13:49:47Z",
+    "generated_at": "2026-11-13T13:57:14Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
