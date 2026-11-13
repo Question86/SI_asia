@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T03:44:16+00:00",
-  "run_id": "2026-11-13T03:44:16+00:00",
+  "generated_at": "2026-11-13T04:01:34+00:00",
+  "run_id": "2026-11-13T04:01:34+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 1,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 7,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -348,6 +348,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "00a41ff418a8f780df7e"
+      },
+      {
+        "title": "Why femtech adoption in Southeast Asia stops at the clinic door",
+        "url": "https://e27.co/why-femtech-adoption-in-southeast-asia-stops-at-the-clinic-door-20261106/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-13T04:00:02+00:00",
+        "fetched_at": "2026-11-13T04:01:02+00:00",
+        "summary": "Southeast Asia has roughly 350 million women, and they make most of the household’s health decisions. That alone makes women’s health a large consumer market rather than a vertical. But market size tells you little about behaviour, and behaviour is where the interesting signal is. FemTech Association Asia’s 2026 research across six markets, run with […] The post Why femtech adoption in Southeast Asia stops at the cl…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4acc30f1f5357f5e073e"
       },
       {
         "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
@@ -872,6 +893,27 @@
       "id": "00a41ff418a8f780df7e"
     },
     {
+      "title": "Why femtech adoption in Southeast Asia stops at the clinic door",
+      "url": "https://e27.co/why-femtech-adoption-in-southeast-asia-stops-at-the-clinic-door-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-13T04:00:02+00:00",
+      "fetched_at": "2026-11-13T04:01:02+00:00",
+      "summary": "Southeast Asia has roughly 350 million women, and they make most of the household’s health decisions. That alone makes women’s health a large consumer market rather than a vertical. But market size tells you little about behaviour, and behaviour is where the interesting signal is. FemTech Association Asia’s 2026 research across six markets, run with […] The post Why femtech adoption in Southeast Asia stops at the cl…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4acc30f1f5357f5e073e"
+    },
+    {
       "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261113-01",
       "source": "Japan Digital Agency News RSS",
@@ -1073,7 +1115,29 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Why femtech adoption in Southeast Asia stops at the clinic door",
+      "url": "https://e27.co/why-femtech-adoption-in-southeast-asia-stops-at-the-clinic-door-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-13T04:00:02+00:00",
+      "fetched_at": "2026-11-13T04:01:02+00:00",
+      "summary": "Southeast Asia has roughly 350 million women, and they make most of the household’s health decisions. That alone makes women’s health a large consumer market rather than a vertical. But market size tells you little about behaviour, and behaviour is where the interesting signal is. FemTech Association Asia’s 2026 research across six markets, run with […] The post Why femtech adoption in Southeast Asia stops at the cl…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4acc30f1f5357f5e073e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
