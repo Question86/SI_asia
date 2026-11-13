@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T17:06:10+00:00_
+_Generiert: 2026-11-13T17:17:43+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-11-13T17:06:10+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Myanmar
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577195)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577060)
   - Quelle: GDACS
   - Zeit: ``
