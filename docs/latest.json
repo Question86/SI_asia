@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T04:25:47+00:00",
-  "run_id": "2026-11-13T04:25:47+00:00",
+  "generated_at": "2026-11-13T04:33:07+00:00",
+  "run_id": "2026-11-13T04:33:07+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1157,29 +1157,7 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up",
-      "url": "https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-13T04:09:27+00:00",
-      "fetched_at": "2026-11-13T04:25:17+00:00",
-      "summary": "Picture a claims officer in Makati pasting a customer’s medical file into a free chatbot to draft a rejection letter before lunch. Upstairs, her CEO signs off on a market-entry plan stitched together by the same kind of tool. Nobody has told either of them what is allowed, because in most Philippine companies, nobody has […] The post The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines, ASEAN (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "85734274104703d8c6b3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
