@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T01:15:34+00:00_
+_Generiert: 2026-11-13T01:31:35+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 39 km S of Moíres, Greece“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+7 neue relevante Treffer. Stärkstes Signal: „Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout** — Score 12, observation — [Quelle](https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-13T01:22:19+00:00`, fetched `2026-11-13T01:31:07+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According to a regulatory filing, Nvidia’s board accepted his resignation on […] The post Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout ap…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 39 km S of Moíres, Greece** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-13T00:29:46.589+00:00`, fetched `2026-11-13T00:37:05+00:00`
@@ -97,6 +106,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo** — Score 4, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-13T01:27:29.040+00:00`, fetched `2026-11-13T01:31:07+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph demote demo (x0.45)
+  - Kurz: Time 2026-11-13 01:12:46 UTC 2026-11-13 01:12:46 UTC at epicenter Location 6.939°S 22.680°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **GitHub availability report: October 2026** — Score 4, observation — [Quelle](https://github.blog/news-insights/company-news/github-availability-report-october-2026/)
   - Quelle: GitHub Blog Atom / `rss`
   - Zeit: published `2026-11-13T00:20:16+00:00`, fetched `2026-11-13T00:37:05+00:00`
