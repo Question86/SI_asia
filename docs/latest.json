@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T14:16:58+00:00",
-  "run_id": "2026-11-13T14:16:58+00:00",
+  "generated_at": "2026-11-13T14:27:30+00:00",
+  "run_id": "2026-11-13T14:27:30+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 1,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 1,
     "medium": 32,
-    "observe": 35,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -1521,6 +1521,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f713c648c3018f87064e"
+      },
+      {
+        "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-13T12:34:09+00:00",
+        "fetched_at": "2026-11-13T14:27:00+00:00",
+        "summary": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3fad29568a3a68063f8b"
       },
       {
         "title": "Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事前に対処しておくのがシステム部だろうが！」と言われ、反抗して早退…連絡の受け手は必然的に私に",
@@ -3280,6 +3301,27 @@
       "id": "f713c648c3018f87064e"
     },
     {
+      "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T12:34:09+00:00",
+      "fetched_at": "2026-11-13T14:27:00+00:00",
+      "summary": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3fad29568a3a68063f8b"
+    },
+    {
       "title": "Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事前に対処しておくのがシステム部だろうが！」と言われ、反抗して早退…連絡の受け手は必然的に私に",
       "url": "https://togetter.com/li/2770045",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3544,7 +3586,29 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T12:34:09+00:00",
+      "fetched_at": "2026-11-13T14:27:00+00:00",
+      "summary": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3fad29568a3a68063f8b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
