@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T02:10:02+00:00",
+  "generated_at": "2026-11-13T02:23:15+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -6616,7 +6616,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-13T00:37:35+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
       "status": "active"
     },
     {
@@ -13280,7 +13280,7 @@
       "p90_usd": 10720000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-13T01:31:38+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
       "status": "active"
     },
     {
@@ -13518,7 +13518,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
       "status": "active"
     },
     {
@@ -14100,6 +14100,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4750d1a52cbc7744e88e",
+      "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_482daa134d6b819b25ab",
       "title": "Intel製品に対するアップデート（2026年11月）",
       "event_classes": [
@@ -14251,6 +14268,23 @@
       "first_seen_at": "2026-09-10T06:31:46+00:00",
       "last_seen_at": "2026-09-10T23:56:51+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_61d5ddaae51e5d957147",
+      "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_631002a93d0146e1476d",
@@ -14506,6 +14540,23 @@
       "first_seen_at": "2026-11-04T03:03:08+00:00",
       "last_seen_at": "2026-11-04T23:46:50+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_84421a36e1e8dd2c5b51",
+      "title": "PromZardにおけるリモートコード実行の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_87eb189be1ea1ba9dd09",
@@ -15392,6 +15443,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_fb3c5ba176e7d04ecda3",
+      "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_fd59174a18544633e53c",
       "title": "富士電機製V-SFTにおける複数の脆弱性（2026年10月）",
       "event_classes": [
@@ -15441,74 +15509,6 @@
       "first_seen_at": "2026-10-07T13:58:07+00:00",
       "last_seen_at": "2026-10-07T23:54:54+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_4750d1a52cbc7744e88e",
-      "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-13T02:09:38+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_fb3c5ba176e7d04ecda3",
-      "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-13T02:09:38+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_84421a36e1e8dd2c5b51",
-      "title": "PromZardにおけるリモートコード実行の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-13T02:09:38+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_61d5ddaae51e5d957147",
-      "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-13T02:09:38+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -17650,7 +17650,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T01:58:18+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
       "status": "active"
     },
     {
@@ -23295,7 +23295,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T01:31:38+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
       "status": "active"
     },
     {
@@ -32921,7 +32921,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T01:01:46+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
       "status": "active"
     },
     {
@@ -33210,7 +33210,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T00:02:33+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
       "status": "active"
     },
     {
@@ -33992,7 +33992,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T01:58:18+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
       "status": "active"
     },
     {
@@ -37613,7 +37613,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T00:37:35+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
       "status": "active"
     },
     {
@@ -41336,7 +41336,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-13T00:37:35+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
       "status": "active"
     },
     {
@@ -41712,6 +41712,23 @@
       "first_seen_at": "2026-08-31T03:18:32+00:00",
       "last_seen_at": "2026-08-31T05:56:06+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_690bb2647e38bf9c970a",
+      "title": "The ghost in the middle: How one manager upskilled himself out of the room",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-13T02:09:38+00:00",
+      "last_seen_at": "2026-11-13T02:22:55+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6b95e9d3b4764733ba96",
@@ -42257,23 +42274,6 @@
       "first_seen_at": "2026-09-23T04:56:56+00:00",
       "last_seen_at": "2026-09-23T05:42:29+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_690bb2647e38bf9c970a",
-      "title": "The ghost in the middle: How one manager upskilled himself out of the room",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 107200.0,
-      "p50_usd": 10720000.0,
-      "p90_usd": 1072000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-13T02:09:38+00:00",
-      "last_seen_at": "2026-11-13T02:09:38+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
