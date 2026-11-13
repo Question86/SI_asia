@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:57:53+00:00",
+  "generated_at": "2026-11-13T17:06:12+00:00",
   "sections": {
     "global_security": [
       {
@@ -91,6 +91,21 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576618",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.8 - 79 km WSW of Changuillo, Peru",
+        "summary": "M5.8 - 79 km WSW of Changuillo, Peru. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a",
+        "published_at": "2026-11-13T16:43:02+00:00",
+        "metrics": {
+          "mag": 5.8,
+          "alert": "",
+          "sig": 518.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
