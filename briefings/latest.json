@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T11:57:05+00:00",
-  "run_id": "2026-11-13T11:57:05+00:00",
+  "generated_at": "2026-11-13T12:03:34+00:00",
+  "run_id": "2026-11-13T12:03:34+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 62,
     "displayed_findings": 62,
     "high": 1,
@@ -3268,44 +3268,7 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.8 - 59 km WSW of Houma, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txzd",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-13T11:51:31.040+00:00",
-      "fetched_at": "2026-11-13T11:56:35+00:00",
-      "summary": "Time 2026-11-13 11:18:12 UTC 2026-11-13 11:18:12 UTC at epicenter Location 21.304°S 175.854°W Depth 162.78 km (101.15 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "72ccba938406958e21b7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
