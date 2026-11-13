@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T09:37:44+00:00",
-  "run_id": "2026-11-13T09:37:44+00:00",
+  "generated_at": "2026-11-13T09:44:24+00:00",
+  "run_id": "2026-11-13T09:44:24+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 1,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
     "medium": 18,
-    "observe": 30,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -1067,6 +1067,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d5e06368a4f9e731d66f"
+      },
+      {
+        "title": "【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件",
+        "url": "https://pc.watch.impress.co.jp/docs/column/ubiq/2156149.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-13T02:15:10+00:00",
+        "fetched_at": "2026-11-13T09:43:55+00:00",
+        "summary": "【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a1dfab4d461d584622ef"
       },
       {
         "title": "AIが作成?画像は別人?選挙ポスター複数掲示 作成費に公費支出 尼崎市議補選、戸惑う有権者",
@@ -2289,6 +2310,27 @@
       "id": "d5e06368a4f9e731d66f"
     },
     {
+      "title": "【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件",
+      "url": "https://pc.watch.impress.co.jp/docs/column/ubiq/2156149.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T02:15:10+00:00",
+      "fetched_at": "2026-11-13T09:43:55+00:00",
+      "summary": "【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a1dfab4d461d584622ef"
+    },
+    {
       "title": "AIが作成?画像は別人?選挙ポスター複数掲示 作成費に公費支出 尼崎市議補選、戸惑う有権者",
       "url": "https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2469,7 +2511,29 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件",
+      "url": "https://pc.watch.impress.co.jp/docs/column/ubiq/2156149.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T02:15:10+00:00",
+      "fetched_at": "2026-11-13T09:43:55+00:00",
+      "summary": "【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a1dfab4d461d584622ef"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
