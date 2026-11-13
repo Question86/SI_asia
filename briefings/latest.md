@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T16:27:43+00:00_
+_Generiert: 2026-11-13T16:35:49+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
+78 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -92,6 +92,15 @@ _Generiert: 2026-11-13T16:27:43+00:00_
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはず...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain** — Score 17, mixed — [Quelle](https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-11-13T16:24:10+00:00`, fetched `2026-11-13T16:35:21+00:00`
+  - Treffer: AI/KI, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Supply Chain Security (+10.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Nvidia CEO Jensen Huang attends a summit at the Institute of Peace on October 8, 2026 in Washington, DC.
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 - **Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例** — Score 17, observation — [Quelle](https://ktlog.net/posts/claude-code-ai-ecosystem)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-13T05:21:58+00:00`, fetched `2026-11-13T10:19:23+00:00`
@@ -326,6 +335,7 @@ _Generiert: 2026-11-13T16:27:43+00:00_
 - Frühwarnsignal prüfen: Quelle, Region, betroffene Märkte/Stacks, AXI0M-Relevanz, Gegencheck, dann erst Handlung. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 
 ## Erinnerungskandidaten
 

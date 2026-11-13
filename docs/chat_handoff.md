@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T16:27:43+00:00_
+_Generated: 2026-11-13T16:35:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `77`
+- findings: `78`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-11-13T16:27:43+00:00_
 - url: https://zenn.dev/dress_code/articles/568fd547315abe
 - summary: こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはず...
 
-### 5. Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例
-- source: Hatena Bookmark Hotentry IT
+### 5. How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain
+- source: Rest of World Global Tech Feed
 - score: `17`
-- published: `2026-11-13T05:21:58+00:00`
-- url: https://ktlog.net/posts/claude-code-ai-ecosystem
-- summary: 公開 2026.11.08 Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例 Claude Codeのおすすめ環境は、入口をClaude Code 1つにまとめ、判断AIや権限ルールなどのハーネスを通してから、ほかのAI・スキル・MCP・外部APIへ仕事を振り分ける形です。全体図と3つの実例でまとめました。 Claude C...
+- published: `2026-11-13T16:24:10+00:00`
+- url: https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: Nvidia CEO Jensen Huang attends a summit at the Institute of Peace on October 8, 2026 in Washington, DC.
 
 ### 6. Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor
 - source: e27 Asia Startup and Tech Feed
