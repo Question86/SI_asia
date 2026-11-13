@@ -1,14 +1,14 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-11-13T08:21:12+00:00`
+Generated: `2026-11-13T08:32:08+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
 | Event | Class | P10 | P50 | P90 | Confidence |
 |---|---|---:|---:|---:|---:|
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | natural_disaster, conflict | $122.40M | $12.24B | $1.22T | 0.31 |
-| mvschwarz/openrig | conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | openai/codex-security | conflict | $122.40M | $12.24B | $1.22T | 0.31 |
+| mvschwarz/openrig | conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software | conflict | $121.60M | $12.16B | $1.22T | 0.31 |
 | GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. | regulation, conflict | $120.00M | $12.00B | $1.20T | 0.31 |
 | QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students | conflict | $118.40M | $11.84B | $1.18T | 0.31 |
