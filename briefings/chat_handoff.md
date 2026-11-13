@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T07:17:10+00:00_
+_Generated: 2026-11-13T07:26:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `36`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-13T07:17:10+00:00_
 - url: https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/
 - summary: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According…
 
-### 8. The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-11-13T04:09:27+00:00`
-- url: https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/
-- summary: Picture a claims officer in Makati pasting a customer’s medical file into a free chatbot to draft a rejection letter before lunch. Upstairs, her CEO signs off on a market-entry plan stitched together by the same kind of tool. Nobody has told either of them wh…
+### 8. ぼくのClaude Codeの使い方
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-11-12T15:11:52+00:00`
+- url: https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata
+- summary: Sapporo Claude Code Meetup LT, 2026/11/12
 
 END OF DOCUMENT
