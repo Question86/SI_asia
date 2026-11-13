@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-13T13:22:26Z",
+  "generated_at": "2026-11-13T14:12:24Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 11,
-      "strong": 28
+      "krass": 13,
+      "strong": 26
     },
     "bands_after_gate_recheck": {
-      "krass": 6,
-      "strong": 34
+      "krass": 7,
+      "strong": 33
     }
   },
   "top_dynamics": [
@@ -21,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:02:03+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -42,11 +42,36 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
+      "title": "[NEU] [hoch] PostgreSQL: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4571",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T13:22:51+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in PostgreSQL ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, SQL-Injection durchzuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand zu verursachen."
+    },
+    {
       "title": "[UPDATE] [mittel] Nvidia GPU Display Treiber: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3680",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:38:25+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -72,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3643",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:38:23+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -97,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4460",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:13:27+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -122,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4476",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:13:26+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -147,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4473",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:13:25+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -168,40 +193,83 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in AMD Prozessor und AMD Radeon ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
     },
     {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
+      "title": "[NEU] [mittel] FreeRADIUS: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4570",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 76.97,
+      "published_at": "2026-11-13T13:22:51+00:00",
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 5.15,
-      "security_high_signal": true,
-      "single_source_ai_capped": true,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 5.15",
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "aging penalty -8.0 for 77.0d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": ""
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FreeRADIUS ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] Grafana: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4568",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T13:22:30+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[NEU] [mittel] Budibase: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4567",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T13:22:30+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, Informationen offenzulegen, Sicherheitsvorkehrungen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen."
     },
     {
       "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
       "url": "https://jvn.jp/jp/JVN76799957/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T12:00:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "security"
@@ -226,7 +294,7 @@
       "url": "https://jvn.jp/vu/JVNVU92656681/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:30+09:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -250,7 +318,7 @@
       "url": "https://jvn.jp/vu/JVNVU95718857/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:20+09:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -274,7 +342,7 @@
       "url": "https://jvn.jp/vu/JVNVU98641453/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:10+09:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -298,7 +366,7 @@
       "url": "https://jvn.jp/vu/JVNVU99429639/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:00+09:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -322,7 +390,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3637",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:38:23+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -346,7 +414,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1343",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:27:49+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -370,7 +438,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1228",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:27:27+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -394,7 +462,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4536",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:02:04+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -418,7 +486,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1405",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:02:03+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -442,7 +510,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3759",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:02:02+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -466,7 +534,7 @@
       "url": "https://e27.co/ai-didnt-eliminate-our-work-it-changed-what-our-team-could-do-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:00:36+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -491,7 +559,7 @@
       "url": "https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:06:33+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -515,7 +583,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306525-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-11-13T10:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -539,11 +607,37 @@
       "summary": "Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht"
     },
     {
+      "title": "[NEU] [hoch] Microsoft OneNote: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4569",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T13:22:50+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft OneNote ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen."
+    },
+    {
       "title": "QwenLM/qwen-code",
       "url": "https://github.com/QwenLM/qwen-code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-13T08:20:15+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -571,7 +665,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2980",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T09:22:02+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -597,7 +691,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2939",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T09:22:02+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -623,7 +717,7 @@
       "url": "https://jvn.jp/vu/JVNVU90821966/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:40+09:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -648,7 +742,7 @@
       "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T03:00:20+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -677,7 +771,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306525-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-02T15:24:15+00:00",
-      "age_days": 71.92,
+      "age_days": 71.95,
       "topics": [
         "security"
       ],
@@ -688,15 +782,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 12.03,
+      "baseline_z_hint": 7.7,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 12.03",
+        "baseline z_hint 7.70",
         "high terms: zero-day, rce, controller",
         "security high-signal: zero-day, rce, controller",
-        "aging penalty -8.0 for 71.9d old signal",
+        "aging penalty -8.0 for 72.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -706,7 +800,7 @@
       "url": "https://github.com/openai/codex-security",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-13T08:20:47+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -734,7 +828,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 147.08,
+      "age_days": 147.11,
       "topics": [
         "general"
       ],
@@ -758,11 +852,40 @@
       "summary": ""
     },
     {
+      "title": "[NEU] [hoch] Microsoft OneNote: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4569",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 77.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 10.6,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 10.60",
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "aging penalty -8.0 for 77.0d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-13T13:17:16+00:00",
-      "age_days": 0.0,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro",
@@ -791,7 +914,7 @@
       "url": "https://github.com/openai/codex-security",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-13T08:20:15+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security",
@@ -820,7 +943,7 @@
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T03:01:52+00:00",
-      "age_days": 1.43,
+      "age_days": 1.47,
       "topics": [
         "ai"
       ],
@@ -846,7 +969,7 @@
       "url": "https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:00:48+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -871,7 +994,7 @@
       "url": "https://ktlog.net/posts/claude-code-ai-ecosystem",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T10:19:55+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -898,132 +1021,11 @@
       "url": "https://jvn.jp/vu/JVNVU92656681/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
       "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU95718857/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "PromZardにおけるリモートコード実行の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU98641453/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU99429639/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-13T08:20:47+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: code"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head",
-      "url": "https://e27.co/build-what-matters-or-what-gets-funded-indias-vcs-say-the-real-gap-sits-in-the-founders-head-20261113/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T05:25:33+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
