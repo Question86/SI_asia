@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T08:55:33+00:00",
+  "generated_at": "2026-11-13T09:04:49+00:00",
   "fx_as_of": null,
-  "candidate_count": 2971,
+  "candidate_count": 2972,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2971
+    "pending": 2972
   },
   "coverage_warning": null,
   "candidates": [
@@ -39373,6 +39373,27 @@
       "snippet": "lyzed 250 Million AI Search Results: Here's What I Found joshbly 2 2.1k Paper Plane katiecoart PRO 6 55k Writing Fast Ruby sferik 630 63k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.4k A better future with KSS kneath 240 18k Joys of Absence: A Defence of Solitary Play codingconduct 1 570 The B2B funnel & how to c",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_82ad8449fcd374633c9e",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-13T09:04:47+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:5926e77aa262",
+      "review_status": "pending",
+      "snippet": "\" - Building Great Search Experiences for Today's Users (#IAC19) danielanewman 230 23k Automating Front-end Workflow addyosmani 1370 210k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.4k How to Align SEO within the Product Triangle To Get Buy-In & Support - #RIMC aleyda 2 1.9k The AI Revolution Will Not Be Monopoli",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 230000.0,
