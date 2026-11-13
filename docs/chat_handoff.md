@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T04:58:10+00:00_
+_Generated: 2026-11-13T05:06:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `25`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-13T04:58:10+00:00_
 - url: https://jvn.jp/vu/JVNVU90821966/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性
+### 3. Your buyer is probably not Singaporean: What 2,488 acquirers tell founders planning an exit
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-11-13T05:00:48+00:00`
+- url: https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/
+- summary: Ask a Singapore founder who might buy their company and you usually get three names: the biggest local competitor, a supplier, maybe a customer. It is a sensible guess. On the data, it is also usually the wrong pond. At Ayebot we keep a register of potential…
+
+### 4. JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-13T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN76799957/
 - summary: JetBrains s.r.o.が提供するYouTrackには、クロスサイトスクリプティングの脆弱性が存在します。
-
-### 4. TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-13T11:00:30+09:00`
-- url: https://jvn.jp/vu/JVNVU92656681/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor
 - source: e27 Asia Startup and Tech Feed
