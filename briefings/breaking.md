@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-11-13T10:43:54+00:00_
+_Generiert: 2026-11-13T10:57:34+00:00_
 
 ## Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht
 
-- Ranking Score: `46.0`
-- Raw Network Score: `38.1`
+- Ranking Score: `43.5`
+- Raw Network Score: `35.1`
 - Max Monitor Score: `33`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `nein`
@@ -13,7 +13,7 @@ _Generiert: 2026-11-13T10:43:54+00:00_
 - Quellen: BSI CERT-Bund Cyber-Sicherheitswarnungen
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306525-1032_bits.html
 - Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
 
