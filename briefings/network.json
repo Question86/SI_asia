@@ -1,98 +1,15 @@
 {
-  "generated_at": "2026-11-13T10:19:55+00:00",
+  "generated_at": "2026-11-13T10:27:28+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 54,
-    "clusters": 44,
+    "findings": 55,
+    "clusters": 45,
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 1,
-    "dominance_penalized": 6
+    "dominance_penalized": 7
   },
   "clusters": [
-    {
-      "key": "domain:ktlog.net",
-      "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://ktlog.net/posts/claude-code-ai-ecosystem"
-      ],
-      "finding_count": 1,
-      "max_score": 17,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 26.5,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 22.1,
-      "ranking_score": 26.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-13T10:19:55+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4460",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4476",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4473",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2980",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2939"
-      ],
-      "finding_count": 11,
-      "max_score": 16,
-      "credibility_total": 11.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 3,
-      "momentum_status": "increasing",
-      "network_score": 25.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 48.1,
-      "ranking_score": 25.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 7.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
     {
       "key": "github_repo:openai/codex-security",
       "title": "openai/codex-security",
@@ -135,6 +52,46 @@
       "first_seen_at": "2026-11-13T08:20:47+00:00"
     },
     {
+      "key": "domain:ktlog.net",
+      "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://ktlog.net/posts/claude-code-ai-ecosystem"
+      ],
+      "finding_count": 1,
+      "max_score": 17,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 24.0,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 19.1,
+      "ranking_score": 24.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-13T10:19:55+00:00"
+    },
+    {
       "key": "url:https://zenn.dev/dress_code/articles/568fd547315abe",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "sources": [
@@ -173,6 +130,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-13T01:58:18+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4460",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4476",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4473",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2980",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2939"
+      ],
+      "finding_count": 11,
+      "max_score": 16,
+      "credibility_total": 11.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 39.1,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -672,6 +672,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-13T04:25:50+00:00"
+    },
+    {
+      "key": "earthquake:m 4.9 - southeast of the loyalty islands:4.9",
+      "title": "M 4.9 - southeast of the Loyalty Islands",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txz3"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.7,
+      "ranking_score": 10.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-11-13T10:27:28+00:00"
     },
     {
       "key": "title:kerala-moment-five-lessons-ivycap-vikram-gupta-turning",
@@ -1717,7 +1758,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T10:19:56Z",
+    "generated_at": "2026-11-13T10:27:29Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
