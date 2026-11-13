@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-13T15:49:07+00:00",
+  "generated_at": "2026-11-13T15:54:39+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 1,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 1,
     "medium": 32,
-    "observe": 43
+    "observe": 44
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Introducing ChatGPT Wallet",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-13T15:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "section": "observe"
+    },
+    {
       "title": "Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -92,16 +102,6 @@
       "relevance_score": 12,
       "url": "https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/",
       "summary": "For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According…",
-      "section": "observe"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Apache HTTP Server (12 novembre 2026)",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "relevance_score": 12,
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1500/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
       "section": "observe"
     }
   ],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T15:49:07+00:00_
+_Generiert: 2026-11-13T15:54:39+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
+77 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
 
 ## Priorität Hoch
 
@@ -149,6 +149,15 @@ _Generiert: 2026-11-13T15:49:07+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region south_korea: South Korea (+2.0)
   - Kurz: South Korea and Southeast Asia are becoming more relevant to discussion around the next phase of AI and blockchain adoption. South Korea offers established technology companies, advanced hardware capabilities, an active venture ecosystem and a market with strong consumer adoption of digital services. Southeast Asia has a large and diverse digital economy, mobile-first users and […] The post Why South Korea and South…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Introducing ChatGPT Wallet** — Score 12, observation — [Quelle](https://openai.com/index/introducing-chatgpt-wallet)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-13T15:00:00+00:00`, fetched `2026-11-13T15:54:09+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head** — Score 12, observation — [Quelle](https://e27.co/build-what-matters-or-what-gets-funded-indias-vcs-say-the-real-gap-sits-in-the-founders-head-20261113/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-13T05:24:18+00:00`, fetched `2026-11-13T05:24:57+00:00`
@@ -265,15 +274,6 @@ _Generiert: 2026-11-13T15:49:07+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: マイクロソフト社の障害によりメール不着等となる事象について
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デジタル改革共創プラットフォームに係る資料や利用規約・プライバシーポリシーを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/get-involved/co-creation-platform)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-13T06:00:00+00:00`, fetched `2026-11-13T06:04:11+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル改革共創プラットフォームに係る資料や利用規約・プライバシーポリシーを更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
