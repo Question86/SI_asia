@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T22:27:43+00:00_
+_Generiert: 2026-11-13T22:35:31+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
+91 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
 
 ## Priorität Hoch
 
@@ -22,7 +22,7 @@ _Generiert: 2026-11-13T22:27:43+00:00_
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-13T22:21:46+00:00`, fetched `2026-11-13T22:27:18+00:00`
+  - Zeit: published `2026-11-13T22:27:34+00:00`, fetched `2026-11-13T22:35:05+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -257,6 +257,15 @@ _Generiert: 2026-11-13T22:27:43+00:00_
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); recent (+1.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ** — Score 8, observation — [Quelle](https://joisino.hatenablog.com/entry/searchrecbook)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-13T10:50:54+00:00`, fetched `2026-11-13T22:35:05+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 拙著『検索システム』『推薦システム』が発売されました。 ▲カバーイラストがおしゃれで嬉しい これらはその名の通り検索システムと推薦システムの教科書です。LLM 時代の新基準になることを目指して執筆しました。すべてのログデータをプロンプトに入れて「これを前提に何を推薦すればいいか」と LLM に訊くという投げ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Isabel Schnabel: Made in Europe** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-11-13T07:20:00+00:00`, fetched `2026-11-13T07:26:07+00:00`
@@ -274,15 +283,6 @@ _Generiert: 2026-11-13T22:27:43+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: An open-source AI coding agent that lives in your terminal. https://qwenlm.github.io/qwen-code-docs/en/users/overview The open-source AI coding agent for your terminal, editor, desktop, browser, and chat. 中文 | Deutsch | français | 日本語 | Русский | Português (Brasil) | 한국어 Qwen Code 1.0 Preview Qwen Code 1.0 Preview brings together the agent harness capabilities of Qoder and Qwen Code in an open-source release. Try Qw…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **インシデント調査報告書チェックリスト** — Score 7, observation — [Quelle](https://jpcertcc.github.io/ir_report_checklist/index.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-11T13:20:41+00:00`, fetched `2026-11-13T01:01:12+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く チェッ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
