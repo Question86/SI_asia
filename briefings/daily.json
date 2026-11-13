@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-11-13T08:20:47+00:00",
-  "today_file_total": 43,
+  "generated_at": "2026-11-13T08:31:39+00:00",
+  "today_file_total": 45,
   "current_clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1343",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1228",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4536",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1405",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3759"
+      ],
+      "finding_count": 6,
+      "max_score": 16,
+      "credibility_total": 6.3,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 34.6,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "github_repo:openai/codex-security",
       "title": "openai/codex-security",
@@ -18,40 +46,14 @@
       "max_score": 23,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 28.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 25.1,
       "hot": true,
       "watchgraph_modules": [
         "software_supply_chain",
         "ai_agents_workflow"
       ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4536",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1405",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3759"
-      ],
-      "finding_count": 4,
-      "max_score": 16,
-      "credibility_total": 4.2,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 24.4,
-      "hot": true,
-      "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -360,29 +362,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "github_repo:qwenlm/qwen-code",
-      "title": "QwenLM/qwen-code",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/QwenLM/qwen-code"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:philippines-trusts-more-than-anyone-asean-its-rulebook",
       "title": "The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up",
       "sources": [
@@ -478,6 +457,29 @@
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:swift-premium-what-singapore-exclusive-eras-tour-deal",
+      "title": "The Swift premium: What Singapore’s exclusive Eras Tour deal taught ASEAN about cultural economics",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-swift-premium-what-singapores-exclusive-eras-tour-deal-taught-asean-about-cultural-economics-20261109/"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.1,
+      "hot": false,
+      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
