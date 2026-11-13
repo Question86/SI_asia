@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T01:58:15+00:00",
+  "generated_at": "2026-11-13T02:09:34+00:00",
   "topics": {
     "ai": [
       {
@@ -12,11 +12,55 @@
         "url": "https://zenn.dev/dress_code/articles/568fd547315abe"
       },
       {
+        "title": "The ghost in the middle: How one manager upskilled himself out of the room",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-13T02:00:40+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/"
+      },
+      {
         "title": "GitHub availability report: October 2026",
         "source": "GitHub Blog Atom",
         "published_at": "2026-11-13T00:20:16+00:00",
         "relevance_score": 4,
         "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/"
+      }
+    ],
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T11:00:40+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU90821966/"
+      },
+      {
+        "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T11:00:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92656681/"
+      },
+      {
+        "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T11:00:20+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95718857/"
+      },
+      {
+        "title": "PromZardにおけるリモートコード実行の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T11:00:10+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU98641453/"
+      },
+      {
+        "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T11:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU99429639/"
       }
     ],
     "general": [

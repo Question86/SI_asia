@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T01:58:15+00:00",
-  "run_id": "2026-11-13T01:58:15+00:00",
+  "generated_at": "2026-11-13T02:09:34+00:00",
+  "run_id": "2026-11-13T02:09:34+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 9
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 6,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
-    "medium": 1,
-    "observe": 8,
+    "medium": 6,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -75,6 +75,117 @@
           "PINS"
         ],
         "id": "3f305521381289c93937"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
+        "url": "https://jvn.jp/vu/JVNVU90821966/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-13T11:00:40+09:00",
+        "fetched_at": "2026-11-13T02:08:57+00:00",
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+        "matched_keywords": [
+          "advisory",
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "afefb11e9a4db6e03e14"
+      },
+      {
+        "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU92656681/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-13T11:00:30+09:00",
+        "fetched_at": "2026-11-13T02:08:57+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0d66841b049b510b782a"
+      },
+      {
+        "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU95718857/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-13T11:00:20+09:00",
+        "fetched_at": "2026-11-13T02:08:57+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4e28549458055d23ecef"
+      },
+      {
+        "title": "PromZardにおけるリモートコード実行の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU98641453/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-13T11:00:10+09:00",
+        "fetched_at": "2026-11-13T02:08:57+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cb3020b97f0ccbdc111f"
+      },
+      {
+        "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU99429639/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-13T11:00:00+09:00",
+        "fetched_at": "2026-11-13T02:08:57+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ca947cf07032996f0b20"
       }
     ],
     "observe": [
@@ -222,6 +333,26 @@
         "id": "a5f1ce9f6ed8d4cd799e"
       },
       {
+        "title": "The ghost in the middle: How one manager upskilled himself out of the room",
+        "url": "https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-13T02:00:40+00:00",
+        "fetched_at": "2026-11-13T02:08:57+00:00",
+        "summary": "The grey ring of condensation on the laminate table had almost dried by the time he finished explaining his pipeline. Outside the glass wall of the coffee shop at the edge of the financial district, the midday rush was beginning to churn: young associates balancing takeaway salads, delivery riders cutting across intersections, the persistent equatorial […] The post The ghost in the middle: How one manager upskilled…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "19f6afb870ebc4be278c"
+      },
+      {
         "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -326,6 +457,117 @@
         "PINS"
       ],
       "id": "3f305521381289c93937"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
+      "url": "https://jvn.jp/vu/JVNVU90821966/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:40+09:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "afefb11e9a4db6e03e14"
+    },
+    {
+      "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92656681/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:30+09:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0d66841b049b510b782a"
+    },
+    {
+      "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95718857/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:20+09:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4e28549458055d23ecef"
+    },
+    {
+      "title": "PromZardにおけるリモートコード実行の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98641453/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:10+09:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb3020b97f0ccbdc111f"
+    },
+    {
+      "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99429639/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:00+09:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca947cf07032996f0b20"
     },
     {
       "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
@@ -471,6 +713,26 @@
       "id": "a5f1ce9f6ed8d4cd799e"
     },
     {
+      "title": "The ghost in the middle: How one manager upskilled himself out of the room",
+      "url": "https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-13T02:00:40+00:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "The grey ring of condensation on the laminate table had almost dried by the time he finished explaining his pipeline. Outside the glass wall of the coffee shop at the edge of the financial district, the midday rush was beginning to churn: young associates balancing takeaway salads, delivery riders cutting across intersections, the persistent equatorial […] The post The ghost in the middle: How one manager upskilled…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "19f6afb870ebc4be278c"
+    },
+    {
       "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -529,71 +791,135 @@
   ],
   "new_findings": [
     {
-      "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
-      "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
+      "url": "https://jvn.jp/vu/JVNVU90821966/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-11-12T03:01:52+00:00",
-      "fetched_at": "2026-11-13T01:57:46+00:00",
-      "summary": "こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはず...",
+      "published_at": "2026-11-13T11:00:40+09:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
       "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "advisory",
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "3f305521381289c93937"
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "afefb11e9a4db6e03e14"
     },
     {
-      "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261113-01",
-      "source": "Japan Digital Agency News RSS",
+      "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92656681/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-11-13T01:41:56+00:00",
-      "fetched_at": "2026-11-13T01:57:46+00:00",
-      "summary": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
+      "published_at": "2026-11-13T11:00:30+09:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0d66841b049b510b782a"
+    },
+    {
+      "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95718857/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:20+09:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4e28549458055d23ecef"
+    },
+    {
+      "title": "PromZardにおけるリモートコード実行の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98641453/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:10+09:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb3020b97f0ccbdc111f"
+    },
+    {
+      "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99429639/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:00+09:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca947cf07032996f0b20"
+    },
+    {
+      "title": "The ghost in the middle: How one manager upskilled himself out of the room",
+      "url": "https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-13T02:00:40+00:00",
+      "fetched_at": "2026-11-13T02:08:57+00:00",
+      "summary": "The grey ring of condensation on the laminate table had almost dried by the time he finished explaining his pipeline. Outside the glass wall of the coffee shop at the edge of the financial district, the midday rush was beginning to churn: young associates balancing takeaway salads, delivery riders cutting across intersections, the persistent equatorial […] The post The ghost in the middle: How one manager upskilled…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4e9798ca9d9a1527d2ce"
+      "id": "19f6afb870ebc4be278c"
     }
   ],
   "source_errors": [],

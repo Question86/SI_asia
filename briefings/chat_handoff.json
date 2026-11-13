@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-13T01:58:15+00:00",
+  "generated_at": "2026-11-13T02:09:34+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 6,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
-    "medium": 1,
-    "observe": 8
+    "medium": 6,
+    "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,36 @@
       "relevance_score": 19,
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
       "summary": "こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはず...",
+      "section": "medium"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:40+09:00",
+      "relevance_score": 16,
+      "url": "https://jvn.jp/vu/JVNVU90821966/",
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "section": "medium"
+    },
+    {
+      "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:30+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU92656681/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:00:20+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU95718857/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
     {
