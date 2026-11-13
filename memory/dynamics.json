@@ -1,29 +1,81 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-13T04:37:22Z",
+  "generated_at": "2026-11-13T08:14:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 2,
-      "strong": 11,
-      "watch": 16,
-      "quiet": 11
+      "krass": 3,
+      "strong": 19,
+      "watch": 18
     },
     "bands_after_gate_recheck": {
-      "strong": 13,
-      "watch": 16,
-      "quiet": 11
+      "krass": 1,
+      "strong": 21,
+      "watch": 18
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T08:02:03+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, auth",
+        "security high-signal: code, auth"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 76.75,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 4,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +4",
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "aging penalty -8.0 for 76.8d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
     {
       "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
       "url": "https://jvn.jp/jp/JVN76799957/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T12:00:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security"
@@ -48,7 +100,7 @@
       "url": "https://jvn.jp/vu/JVNVU92656681/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:30+09:00",
-      "age_days": 0.11,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -72,7 +124,7 @@
       "url": "https://jvn.jp/vu/JVNVU95718857/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:20+09:00",
-      "age_days": 0.11,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -96,7 +148,7 @@
       "url": "https://jvn.jp/vu/JVNVU98641453/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:10+09:00",
-      "age_days": 0.11,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -120,7 +172,7 @@
       "url": "https://jvn.jp/vu/JVNVU99429639/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -140,11 +192,132 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[UPDATE] [mittel] Apache Axis2: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4536",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T08:02:04+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Axis2 ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1405",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T08:02:03+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] ffmpeg: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3759",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T08:02:02+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren."
+    },
+    {
+      "title": "AI didn’t eliminate our work. It changed what our team could do",
+      "url": "https://e27.co/ai-didnt-eliminate-our-work-it-changed-what-our-team-could-do-20261109/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T05:00:36+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10",
+        "security high-signal: rce, 10"
+      ],
+      "summary": "What happens when your team needs a designer, a salesperson and a researcher, but you don’t have the resources to hire all three? For many small businesses, this is a familiar challenge. I lead Stories of Asia (SOA), where our work spans several areas, including leadership development through SEED Academy, personal an…"
+    },
+    {
+      "title": "Your buyer is probably not Singaporean: What 2,488 acquirers tell founders planning an exit",
+      "url": "https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T05:06:33+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
       "url": "https://jvn.jp/vu/JVNVU90821966/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:40+09:00",
-      "age_days": 0.11,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -169,7 +342,7 @@
       "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T03:00:20+00:00",
-      "age_days": 0.07,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -198,7 +371,7 @@
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T03:01:52+00:00",
-      "age_days": 1.07,
+      "age_days": 1.22,
       "topics": [
         "ai"
       ],
@@ -220,11 +393,36 @@
       "summary": "こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはず..."
     },
     {
+      "title": "Your buyer is probably not Singaporean: What 2,488 acquirers tell founders planning an exit",
+      "url": "https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T05:00:48+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local",
+        "high terms: 10"
+      ],
+      "summary": "Ask a Singapore founder who might buy their company and you usually get three names: the biggest local competitor, a supplier, maybe a customer. It is a sensible guess. On the data, it is also usually the wrong pond. At Ayebot we keep a register of potential acquirers for Southeast Asian companies. As at 19 […] The po…"
+    },
+    {
       "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU92656681/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.1,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -248,7 +446,7 @@
       "url": "https://jvn.jp/vu/JVNVU95718857/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.1,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -272,7 +470,7 @@
       "url": "https://jvn.jp/vu/JVNVU98641453/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.1,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -296,7 +494,7 @@
       "url": "https://jvn.jp/vu/JVNVU99429639/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.1,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -316,11 +514,35 @@
       "summary": ""
     },
     {
+      "title": "Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head",
+      "url": "https://e27.co/build-what-matters-or-what-gets-funded-indias-vcs-say-the-real-gap-sits-in-the-founders-head-20261113/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T05:25:33+00:00",
+      "age_days": 0.12,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T01:58:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -342,11 +564,83 @@
       "summary": ""
     },
     {
+      "title": "Kerala’s moment: Five lessons from IvyCap’s Vikram Gupta on turning talent into scale",
+      "url": "https://e27.co/keralas-moment-five-lessons-from-ivycaps-vikram-gupta-on-turning-talent-into-scale-20261113/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T07:17:13+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The Swift premium: What Singapore’s exclusive Eras Tour deal taught ASEAN about cultural economics",
+      "url": "https://e27.co/the-swift-premium-what-singapores-exclusive-eras-tour-deal-taught-asean-about-cultural-economics-20261109/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T05:18:44+00:00",
+      "age_days": 0.12,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.7 - 27 km NNE of Labuan Lombok, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-13T05:06:28.040+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-11-13 04:49:33 UTC 2026-11-13 04:49:33 UTC at epicenter Location 8.262°S 116.751°E Depth 9.63 km (5.98 mi)"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
       "url": "https://jvn.jp/vu/JVNVU90821966/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 147.11,
+      "age_days": 147.26,
       "topics": [
         "general"
       ],
@@ -362,7 +656,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 147.1d old signal"
+        "aging penalty -8.0 for 147.3d old signal"
       ],
       "summary": ""
     },
@@ -371,7 +665,7 @@
       "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T03:01:51+00:00",
-      "age_days": 0.07,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -398,7 +692,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T00:37:35+00:00",
-      "age_days": 0.17,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -422,7 +716,7 @@
       "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T21:23:05+00:00",
-      "age_days": 1.3,
+      "age_days": 1.45,
       "topics": [
         "general"
       ],
@@ -446,11 +740,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T07:49:42+00:00",
-      "age_days": 23.87,
+      "age_days": 24.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.5,
+      "dynamics_score": 15.44,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -462,7 +756,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -1.0 for 23.9d old signal"
+        "aging penalty -1.1 for 24.0d old signal"
       ],
       "summary": ""
     },
@@ -471,7 +765,7 @@
       "url": "https://jvn.jp/jp/JVN76799957/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T03:01:51+00:00",
-      "age_days": 0.07,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -492,11 +786,107 @@
       "summary": ""
     },
     {
+      "title": "マイクロソフト社の障害によりメール不着等となる事象について",
+      "url": "https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-13T06:48:27+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "デジタル改革共創プラットフォームに係る資料や利用規約・プライバシーポリシーを更新しました",
+      "url": "https://www.digital.go.jp/get-involved/co-creation-platform",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-13T06:04:46+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "【事前案内】アドレス・ベース・レジストリシステム更改における 町字データのCSVフォーマット変更について掲載しました",
+      "url": "https://www.digital.go.jp/policies/base_registry_address/d3f24b8d-bff8-48fd-a38c-5fa4b891f8e5",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-13T06:04:46+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Why femtech adoption in Southeast Asia stops at the clinic door",
+      "url": "https://e27.co/why-femtech-adoption-in-southeast-asia-stops-at-the-clinic-door-20261106/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T04:01:37+00:00",
+      "age_days": 0.18,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261113-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-13T01:58:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -520,7 +910,7 @@
       "url": "https://github.com/tsukumijima/YacchoGPT",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T00:02:33+00:00",
-      "age_days": 0.19,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -540,15 +930,15 @@
       "summary": ""
     },
     {
-      "title": "フィッシング攻撃を“遮断” 物理パスキー「YubiKey」日本で本格展開",
-      "url": "https://www.watch.impress.co.jp/docs/news/2156008.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-13T03:38:13+00:00",
-      "age_days": 0.04,
+      "title": "M 4.7 - 27 km NNE of Labuan Lombok, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T05:30:29+00:00",
+      "age_days": 62.11,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
+      "dynamics_score": 14.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -558,403 +948,33 @@
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
-      "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-13T00:37:35+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
-      "url": "https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T01:31:38+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "aging penalty -8.0 for 62.1d old signal"
       ],
       "summary": ""
     },
     {
-      "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
-      "url": "https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T02:37:30+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Why femtech adoption in Southeast Asia stops at the clinic door",
-      "url": "https://e27.co/why-femtech-adoption-in-southeast-asia-stops-at-the-clinic-door-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T04:01:37+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.9 - Pagan region, Northern Mariana Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-13T03:06:41.040+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-11-13 02:55:03 UTC 2026-11-13 02:55:03 UTC at epicenter Location 18.893°N 145.603°E Depth 219.57 km (136.44 mi)"
-    },
-    {
-      "title": "M 5.1 - 39 km S of Moíres, Greece",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-13T00:29:46.589+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "DYFI? - III Time 2026-11-13 00:05:04 UTC 2026-11-13 00:05:04 UTC at epicenter Location 34.697°N 24.880°E Depth 43.36 km (26.94 mi)"
-    },
-    {
-      "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-13T01:27:29.040+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-13 01:12:46 UTC 2026-11-13 01:12:46 UTC at epicenter Location 6.939°S 22.680°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-13T01:31:38+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Why femtech adoption in Southeast Asia stops at the clinic door",
-      "url": "https://e27.co/why-femtech-adoption-in-southeast-asia-stops-at-the-clinic-door-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T04:00:02+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Southeast Asia has roughly 350 million women, and they make most of the household’s health decisions. That alone makes women’s health a large consumer market rather than a vertical. But market size tells you little about behaviour, and behaviour is where the interesting signal is. FemTech Association Asia’s 2026 resea…"
-    },
-    {
-      "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
-      "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+      "title": "2026年11月に発生したMicrosoft 365の接続障害についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/13/114230",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-12T14:37:20+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: local"
-      ],
-      "summary": "Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing..."
-    },
-    {
-      "title": "インシデント調査報告書チェックリスト",
-      "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-11T13:20:41+00:00",
-      "age_days": 1.64,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く チェッ..."
-    },
-    {
-      "title": "The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up",
-      "url": "https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T04:25:50+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AIが作成?画像は別人?選挙ポスター複数掲示 作成費に公費支出 尼崎市議補選、戸惑う有権者",
-      "url": "https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-13T03:38:13+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261113-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-11-13T01:41:56+00:00",
+      "published_at": "2026-11-13T05:18:44+00:00",
       "age_days": 0.12,
       "topics": [
         "general"
       ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "古川大臣記者会見（令和8年11月13日）動画を掲載しました"
-    },
-    {
-      "title": "The ghost in the middle: How one manager upskilled himself out of the room",
-      "url": "https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "GitHub availability report: October 2026",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
-      "source": "GitHub Blog Atom",
-      "published_at": "2026-11-13T00:37:35+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -962,51 +982,26 @@
       "title": "フィッシング攻撃を“遮断” 物理パスキー「YubiKey」日本で本格展開",
       "url": "https://www.watch.impress.co.jp/docs/news/2156008.html",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-13T00:44:06+00:00",
-      "age_days": 0.16,
+      "published_at": "2026-11-13T03:38:13+00:00",
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "no strong comparative reason"
+        "momentum delta +3"
       ],
-      "summary": "フィッシング攻撃を“遮断” 物理パスキー「YubiKey」日本で本格展開"
-    },
-    {
-      "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
-      "url": "https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T01:22:19+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According to a regulatory filing, Nvidia’s board accepted his resignat…"
+      "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
