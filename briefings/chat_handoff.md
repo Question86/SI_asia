@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T14:41:14+00:00_
+_Generated: 2026-11-13T14:50:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `70`
+- findings: `76`
 
 ## Top Signals
 
@@ -64,11 +64,11 @@ _Generated: 2026-11-13T14:41:14+00:00_
 - url: https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/
 - summary: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According…
 
-### 9. M 5.2 - West Chile Rise
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-11-13T14:32:35.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s
-- summary: Time 2026-11-13 14:12:47 UTC 2026-11-13 14:12:47 UTC at epicenter Location 36.443°S 97.979°W Depth 10.00 km (6.21 mi)
+### 9. Multiples vulnérabilités dans Apache HTTP Server (12 novembre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `12`
+- published: `2026-11-12T00:00:00+00:00`
+- url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1500/
+- summary: De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un problème de sécurité non spécifié par l'éditeur.
 
 END OF DOCUMENT

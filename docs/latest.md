@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T14:41:14+00:00_
+_Generiert: 2026-11-13T14:50:35+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
+76 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 33, risk).
 
 ## Priorität Hoch
 
@@ -167,6 +167,15 @@ _Generiert: 2026-11-13T14:41:14+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According to a regulatory filing, Nvidia’s board accepted his resignation on […] The post Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Apache HTTP Server (12 novembre 2026)** — Score 12, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1500/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-13T14:50:05+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); recent (+1.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - West Chile Rise** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-13T14:32:35.040+00:00`, fetched `2026-11-13T14:34:27+00:00`
@@ -184,6 +193,24 @@ _Generiert: 2026-11-13T14:41:14+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Sapporo Claude Code Meetup LT, 2026/11/12
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans les produits Mozilla (12 novembre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1505/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-13T14:50:05+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); recent (+1.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans les produits Check Point (12 novembre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1501/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-13T14:50:05+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); recent (+1.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 59 km WSW of Houma, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txzd)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -247,33 +274,6 @@ _Generiert: 2026-11-13T14:41:14+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: デジタル改革共創プラットフォームに係る資料や利用規約・プライバシーポリシーを更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【事前案内】アドレス・ベース・レジストリシステム更改における 町字データのCSVフォーマット変更について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/base_registry_address/d3f24b8d-bff8-48fd-a38c-5fa4b891f8e5)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-13T06:00:00+00:00`, fetched `2026-11-13T06:04:11+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 【事前案内】アドレス・ベース・レジストリシステム更改における 町字データのCSVフォーマット変更について掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨** — Score 6, observation — [Quelle](https://github.com/tsukumijima/YacchoGPT)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-06-14T22:55:00+00:00`, fetched `2026-11-13T00:01:51+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)
-  - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **pookjw/HermesEnabler** — Score 5, observation — [Quelle](https://github.com/pookjw/HermesEnabler)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-11-13T08:20:15+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Enable Hermès Watch Faces on any Apple Watch devices HermesEnabler 2 English · Tiếng Việt · 한국어 · 简体中文 · 繁體中文 · 日本語 · Español · Français · Deutsch · Português Supported only on watchOS 27.0 through 27.3 beta 1. Installation macOS On macOS you can install the prebuilt IPA with Sideloadly or build the app directly with Xcode. Either way, the iPhone must be paired with the target Apple Watch, and the Watch must run a s…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-13T14:41:14+00:00",
+  "generated_at": "2026-11-13T14:50:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "new_relevant_findings": 6,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 1,
     "medium": 32,
-    "observe": 37
+    "observe": 43
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -95,13 +95,13 @@
       "section": "observe"
     },
     {
-      "title": "M 5.2 - West Chile Rise",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Multiples vulnérabilités dans Apache HTTP Server (12 novembre 2026)",
+      "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
-      "published_at": "2026-11-13T14:32:35.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0s",
-      "summary": "Time 2026-11-13 14:12:47 UTC 2026-11-13 14:12:47 UTC at epicenter Location 36.443°S 97.979°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1500/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
       "section": "observe"
     }
   ],
