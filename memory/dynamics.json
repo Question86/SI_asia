@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-13T02:14:00Z",
+  "generated_at": "2026-11-13T02:51:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 30,
+    "dynamics": 32,
     "bands": {
       "krass": 1,
       "strong": 10,
-      "watch": 8,
-      "quiet": 11
+      "watch": 9,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 11,
-      "watch": 8,
-      "quiet": 11
+      "watch": 9,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU92656681/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:30+09:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU95718857/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:20+09:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU98641453/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:10+09:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU99429639/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -115,107 +115,11 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU92656681/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU95718857/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "PromZardにおけるリモートコード実行の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU98641453/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU99429639/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
       "url": "https://jvn.jp/vu/JVNVU90821966/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:40+09:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -240,7 +144,7 @@
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T03:01:52+00:00",
-      "age_days": 0.97,
+      "age_days": 0.99,
       "topics": [
         "ai"
       ],
@@ -262,26 +166,122 @@
       "summary": "こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはず..."
     },
     {
+      "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92656681/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-13T02:09:38+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95718857/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-13T02:09:38+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "PromZardにおけるリモートコード実行の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98641453/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-13T02:09:38+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99429639/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-13T02:09:38+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T01:58:18+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 20.5,
+      "dynamics_score": 20.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -292,25 +292,23 @@
       "url": "https://jvn.jp/vu/JVNVU90821966/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 147.01,
+      "age_days": 147.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 147.0d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
+        "aging penalty -8.0 for 147.0d old signal"
       ],
       "summary": ""
     },
@@ -319,7 +317,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T00:37:35+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -339,37 +337,11 @@
       "summary": ""
     },
     {
-      "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
-      "url": "https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T01:31:38+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "インシデント調査報告書チェックリスト",
       "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T21:23:05+00:00",
-      "age_days": 1.2,
+      "age_days": 1.23,
       "topics": [
         "general"
       ],
@@ -389,11 +361,35 @@
       "summary": ""
     },
     {
+      "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261113-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-13T01:58:18+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
       "url": "https://github.com/tsukumijima/YacchoGPT",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T00:02:33+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -417,7 +413,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T00:37:35+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -437,11 +433,37 @@
       "summary": ""
     },
     {
+      "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
+      "url": "https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T01:31:38+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.1 - 39 km S of Moíres, Greece",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T00:29:46.589+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -465,7 +487,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T01:27:29.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -486,15 +508,39 @@
       "summary": "Time 2026-11-13 01:12:46 UTC 2026-11-13 01:12:46 UTC at epicenter Location 6.939°S 22.680°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261113-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-11-13T01:58:18+00:00",
+      "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-13T01:31:38+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
+      "url": "https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T02:37:30+00:00",
       "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.0,
+      "dynamics_score": 8.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -510,35 +556,11 @@
       "summary": ""
     },
     {
-      "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-13T01:31:38+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
       "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T14:37:20+00:00",
-      "age_days": 0.48,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -562,7 +584,7 @@
       "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T13:20:41+00:00",
-      "age_days": 1.54,
+      "age_days": 1.56,
       "topics": [
         "general"
       ],
@@ -586,7 +608,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261113-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-13T01:41:56+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -606,11 +628,37 @@
       "summary": "古川大臣記者会見（令和8年11月13日）動画を掲載しました"
     },
     {
+      "title": "The ghost in the middle: How one manager upskilled himself out of the room",
+      "url": "https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T02:09:38+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GitHub availability report: October 2026",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-11-13T00:37:35+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -636,7 +684,7 @@
       "url": "https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T01:22:19+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -661,7 +709,7 @@
       "url": "https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T02:00:40+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "infra"
@@ -685,37 +733,11 @@
       "summary": "The grey ring of condensation on the laminate table had almost dried by the time he finished explaining his pipeline. Outside the glass wall of the coffee shop at the edge of the financial district, the midday rush was beginning to churn: young associates balancing takeaway salads, delivery riders cutting across inter…"
     },
     {
-      "title": "The ghost in the middle: How one manager upskilled himself out of the room",
-      "url": "https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T02:09:38+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
       "url": "https://github.com/tsukumijima/YacchoGPT",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-14T22:55:00+00:00",
-      "age_days": 151.14,
+      "age_days": 151.16,
       "topics": [
         "general"
       ],
@@ -730,16 +752,42 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 151.1d old signal"
+        "aging penalty -16.0 for 151.2d old signal"
       ],
       "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert"
+    },
+    {
+      "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
+      "url": "https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T02:34:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "My point of view is straightforward. The recent Bitcoin drop looks like a macro-led repricing with a leverage amplifier, not a Bitcoin-only failure. Bitcoin fell 3.45 per cent to US$71,425.63 in 24 hours and traded near a reported 12-week low. The broader crypto market fell 2.66 per cent to US$2.39 trillion. Bitcoin u…"
     },
     {
       "title": "GitHub availability report: October 2026",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-11-13T00:20:16+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
