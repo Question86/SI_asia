@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T05:06:30+00:00_
+_Generated: 2026-11-13T05:18:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `28`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-13T05:06:30+00:00_
 - url: https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/
 - summary: Ask a Singapore founder who might buy their company and you usually get three names: the biggest local competitor, a supplier, maybe a customer. It is a sensible guess. On the data, it is also usually the wrong pond. At Ayebot we keep a register of potential…
 
-### 4. JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-13T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN76799957/
-- summary: JetBrains s.r.o.が提供するYouTrackには、クロスサイトスクリプティングの脆弱性が存在します。
+### 4. M 4.7 - 27 km NNE of Labuan Lombok, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-13T05:06:28.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5
+- summary: Time 2026-11-13 04:49:33 UTC 2026-11-13 04:49:33 UTC at epicenter Location 8.262°S 116.751°E Depth 9.63 km (5.98 mi)
 
 ### 5. Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor
 - source: e27 Asia Startup and Tech Feed
@@ -57,11 +57,11 @@ _Generated: 2026-11-13T05:06:30+00:00_
 - url: https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/
 - summary: Picture a claims officer in Makati pasting a customer’s medical file into a free chatbot to draft a rejection letter before lunch. Upstairs, her CEO signs off on a market-entry plan stitched together by the same kind of tool. Nobody has told either of them wh…
 
-### 8. M 4.9 - Pagan region, Northern Mariana Islands
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. The Swift premium: What Singapore’s exclusive Eras Tour deal taught ASEAN about cultural economics
+- source: e27 Asia Startup and Tech Feed
 - score: `9`
-- published: `2026-11-13T03:06:41.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy
-- summary: Time 2026-11-13 02:55:03 UTC 2026-11-13 02:55:03 UTC at epicenter Location 18.893°N 145.603°E Depth 219.57 km (136.44 mi)
+- published: `2026-11-13T05:13:03+00:00`
+- url: https://e27.co/the-swift-premium-what-singapores-exclusive-eras-tour-deal-taught-asean-about-cultural-economics-20261109/
+- summary: When Singapore arranged exclusive Southeast Asian dates for Taylor Swift’s Eras Tour in March 2024, six shows, only stop in the region, the diplomatic and economic discussion that followed was one of the more publicly visible moments of ASEAN economic competi…
 
 END OF DOCUMENT
