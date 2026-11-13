@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-13T10:36:10+00:00",
+  "generated_at": "2026-11-13T10:43:52+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 55,
-    "displayed_findings": 55,
-    "high": 0,
-    "medium": 22,
+    "new_relevant_findings": 4,
+    "today_file_total": 59,
+    "displayed_findings": 59,
+    "high": 1,
+    "medium": 25,
     "observe": 33
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-11-13T10:00:00+00:00",
+      "relevance_score": 33,
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306525-1032_bits.html",
+      "summary": "Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht",
+      "section": "high"
+    },
     {
       "title": "openai/codex-security",
       "source": "GitHub Trending RSS All Languages Daily",

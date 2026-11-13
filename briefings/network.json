@@ -1,15 +1,98 @@
 {
-  "generated_at": "2026-11-13T10:36:13+00:00",
+  "generated_at": "2026-11-13T10:43:54+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 55,
-    "clusters": 45,
+    "findings": 59,
+    "clusters": 46,
     "cross_source_confrmed": 0,
     "hot": 1,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 7
   },
   "clusters": [
+    {
+      "key": "domain:www.bsi.bund.de",
+      "title": "Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht",
+      "sources": [
+        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306525-1032_bits.html"
+      ],
+      "finding_count": 1,
+      "max_score": 33,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 46.0,
+      "hot": true,
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 38.1,
+      "ranking_score": 46.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 5.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": true,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-02T15:24:15+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3680",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3637",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3643",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4460",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4476"
+      ],
+      "finding_count": 14,
+      "max_score": 16,
+      "credibility_total": 14.7,
+      "cross_source_confirmed": false,
+      "momentum_delta": 3,
+      "momentum_status": "increasing",
+      "network_score": 25.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 54.4,
+      "ranking_score": 25.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 7.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
     {
       "key": "github_repo:openai/codex-security",
       "title": "openai/codex-security",
@@ -52,46 +135,6 @@
       "first_seen_at": "2026-11-13T08:20:47+00:00"
     },
     {
-      "key": "domain:ktlog.net",
-      "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://ktlog.net/posts/claude-code-ai-ecosystem"
-      ],
-      "finding_count": 1,
-      "max_score": 17,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 24.0,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 19.1,
-      "ranking_score": 24.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-13T10:19:55+00:00"
-    },
-    {
       "key": "url:https://zenn.dev/dress_code/articles/568fd547315abe",
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "sources": [
@@ -132,34 +175,31 @@
       "first_seen_at": "2026-11-13T01:58:18+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
+      "key": "domain:ktlog.net",
+      "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
       "sources": [
-        "BSI CERT-Bund Security Advisories"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4460",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4476",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4473",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2980",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2939"
+        "https://ktlog.net/posts/claude-code-ai-ecosystem"
       ],
-      "finding_count": 11,
-      "max_score": 16,
-      "credibility_total": 11.55,
+      "finding_count": 1,
+      "max_score": 17,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.5,
+      "network_score": 18.5,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 39.1,
-      "ranking_score": 17.5,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 19.1,
+      "ranking_score": 18.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
@@ -172,7 +212,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
+      "first_seen_at": "2026-11-13T10:19:55+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -1758,7 +1798,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-13T10:36:14Z",
+    "generated_at": "2026-11-13T10:43:55Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

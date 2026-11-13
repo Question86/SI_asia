@@ -1,19 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-11-13T10:36:13+00:00_
+_Generiert: 2026-11-13T10:43:54+00:00_
 
-## Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例
+## Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht
 
-- Ranking Score: `24.0`
-- Raw Network Score: `19.1`
-- Max Monitor Score: `17`
+- Ranking Score: `46.0`
+- Raw Network Score: `38.1`
+- Max Monitor Score: `33`
 - Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
+- Early Signal: `nein`
 - Dominanter Emitter: `nein`
-- Quellen: Hatena Bookmark Hotentry IT
+- Quellen: BSI CERT-Bund Cyber-Sicherheitswarnungen
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://ktlog.net/posts/claude-code-ai-ecosystem
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
+- Momentum: increasing (+1)
+- Erste Quelle: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306525-1032_bits.html
+- Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
 

@@ -1,8 +1,124 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T10:36:10+00:00",
+  "generated_at": "2026-11-13T10:43:52+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-11-13T10:00:00+00:00",
+        "relevance_score": 33,
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306525-1032_bits.html"
+      },
+      {
+        "title": "openai/codex-security",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/openai/codex-security"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T11:00:40+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU90821966/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-13T08:02:03+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433"
+      },
+      {
+        "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN76799957/"
+      },
+      {
+        "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T11:00:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92656681/"
+      },
+      {
+        "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T11:00:20+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95718857/"
+      },
+      {
+        "title": "PromZardにおけるリモートコード実行の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T11:00:10+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU98641453/"
+      },
+      {
+        "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-13T11:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU99429639/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Nvidia GPU Display Treiber: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-13T10:38:25+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3680"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-11-13T10:00:00+00:00",
+        "relevance_score": 33,
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306525-1032_bits.html"
+      },
+      {
+        "title": "Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-13T03:00:20+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/"
+      },
+      {
+        "title": "Isabel Schnabel: Made in Europe",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-11-13T07:20:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html"
+      },
+      {
+        "title": "QwenLM/qwen-code",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/QwenLM/qwen-code"
+      },
+      {
+        "title": "pookjw/HermesEnabler",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/pookjw/HermesEnabler"
+      },
+      {
+        "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-13T02:34:00+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/"
+      }
+    ],
     "ai": [
       {
         "title": "openai/codex-security",
@@ -73,78 +189,6 @@
         "published_at": "2026-11-13T06:00:42+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/jensen-huang-resigns-from-nvidia-as-alleged-spy-affair-wipes-us300b-20261113/"
-      }
-    ],
-    "security": [
-      {
-        "title": "openai/codex-security",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 23,
-        "url": "https://github.com/openai/codex-security"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T11:00:40+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU90821966/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (python-setuptools): Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-13T08:02:03+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1433"
-      },
-      {
-        "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN76799957/"
-      },
-      {
-        "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T11:00:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU92656681/"
-      },
-      {
-        "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T11:00:20+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU95718857/"
-      },
-      {
-        "title": "PromZardにおけるリモートコード実行の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T11:00:10+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU98641453/"
-      },
-      {
-        "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-13T11:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU99429639/"
-      },
-      {
-        "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-13T10:13:27+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4460"
-      },
-      {
-        "title": "[UPDATE] [mittel] GitLab: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-13T10:13:26+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4476"
       }
     ],
     "github": [
@@ -291,43 +335,6 @@
         "published_at": "2026-11-13T04:00:02+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/why-femtech-adoption-in-southeast-asia-stops-at-the-clinic-door-20261106/"
-      },
-      {
-        "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-13T02:34:00+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-13T03:00:20+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/"
-      },
-      {
-        "title": "Isabel Schnabel: Made in Europe",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-11-13T07:20:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html"
-      },
-      {
-        "title": "QwenLM/qwen-code",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/QwenLM/qwen-code"
-      },
-      {
-        "title": "pookjw/HermesEnabler",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/pookjw/HermesEnabler"
       },
       {
         "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
