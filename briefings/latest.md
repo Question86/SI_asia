@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-14T06:04:15+00:00_
+_Generiert: 2026-11-14T06:22:48+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+13 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -155,3 +155,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_yield_curve` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
