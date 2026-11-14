@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T00:05:13+00:00",
+  "generated_at": "2026-11-14T00:36:10+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -276,7 +276,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-14T00:04:49+00:00",
+      "last_seen_at": "2026-11-14T00:35:38+00:00",
       "status": "active"
     },
     {
@@ -19265,8 +19265,8 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-13T23:54:15+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-14T00:35:38+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_a2888de3c57b771f0196",
@@ -23688,6 +23688,23 @@
       "first_seen_at": "2026-10-31T06:33:29+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e9013f8e31bd2f3761e5",
+      "title": "The Home Repo Pattern",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-14T00:35:38+00:00",
+      "last_seen_at": "2026-11-14T00:35:38+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
