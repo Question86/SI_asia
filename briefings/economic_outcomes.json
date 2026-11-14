@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T21:22:25+00:00",
+  "generated_at": "2026-11-14T21:31:28+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -18403,7 +18403,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a798c850a0a075564062",
@@ -22573,6 +22573,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_cec4437f4dc8bc504d9c",
+      "title": "AI悪用の攻撃拠点、千台発見 サイトの弱点探索、不正侵入疑い",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_cedec99da961b892c599",
