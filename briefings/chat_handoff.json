@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-14T00:35:33+00:00",
+  "generated_at": "2026-11-14T01:05:53+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 1,
-    "observe": 2
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "observe"
     },
     {
+      "title": "人間＋AIを「チーム」としてプロセスを再設計する",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T14:24:54+00:00",
+      "relevance_score": 8,
+      "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
+      "summary": "「AI駆動経営」勉強会 #4（2026/11/12）での登壇資料です。 https://aid.connpass.com/event/409635/ AIで何もかもが変わっていくように見えますが、仕事は「一人とAI」では閉じません。 組織開発のフレームワーク GRPI（Goals / Role…",
+      "section": "observe"
+    },
+    {
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
       "source": "OpenAI News RSS",
       "source_type": "rss",
@@ -43,6 +53,16 @@
       "url": "https://openai.com/business/customer-stories/shield",
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "section": "observe"
+    },
+    {
+      "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T11:33:08+00:00",
+      "relevance_score": 5,
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
+      "summary": "NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...",
+      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -50,137 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “The Home Repo Pattern” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "The Home Repo Pattern",
-        "url": "https://www.aihero.dev/the-home-repo-pattern",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-14T00:35:38+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-        "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-        "source": "Federal Reserve Speeches and Testimony",
-        "published_at": "2026-11-14T00:00:00+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California"
-      },
-      {
-        "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-        "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-        "source": "Federal Reserve Speeches and Testimony",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 148.43,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 13.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 148.4d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "The Home Repo Pattern",
-        "url": "https://www.aihero.dev/the-home-repo-pattern",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-12T12:22:50+00:00",
-        "age_days": 1.52,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 4.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your agent in the Home Repo. Its AGENTS.md..."
-      },
-      {
-        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-        "url": "https://openai.com/business/customer-stories/shield",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-06-17T20:44:40+00:00",
-        "age_days": 149.17,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 3.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "single-source AI hype brake -8.0",
-          "aging penalty -8.0 for 149.2d old signal"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
