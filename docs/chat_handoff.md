@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-14T21:45:32+00:00_
+_Generated: 2026-11-14T22:00:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `35`
+- findings: `36`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-14T19:49:29+00:00`
+- published: `2026-11-14T22:00:41+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-14T21:45:32+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d
 - summary: Time 2026-11-14 06:52:26 UTC 2026-11-14 06:52:26 UTC at epicenter Location 9.703°N 147.363°E Depth 10.00 km (6.21 mi)
 
-### 5. Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
+### 5. Building always-on agents
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-11-14T00:52:42+00:00`
+- url: https://claude.com/resources/articles/building-always-on-agents
+- summary: Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are statefu…
+
+### 6. Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-13T02:57:17+00:00`
 - url: https://forest.watch.impress.co.jp/docs/news/2156117.html
 - summary: Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
 
-### 6. The Home Repo Pattern
+### 7. The Home Repo Pattern
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-12T12:22:50+00:00`
 - url: https://www.aihero.dev/the-home-repo-pattern
 - summary: The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your…
 
-### 7. M 4.8 - West Chile Rise
+### 8. M 4.8 - West Chile Rise
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-11-14T06:57:03.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b
 - summary: Time 2026-11-14 06:33:19 UTC 2026-11-14 06:33:19 UTC at epicenter Location 36.461°S 97.958°W Depth 10.00 km (6.21 mi)
-
-### 8. M 4.5 - western Indian-Antarctic Ridge
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-11-14T05:15:11.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty73
-- summary: Time 2026-11-14 04:59:00 UTC 2026-11-14 04:59:00 UTC at epicenter Location 50.374°S 139.666°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

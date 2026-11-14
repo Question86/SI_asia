@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T21:45:32+00:00",
-  "run_id": "2026-11-14T21:45:32+00:00",
+  "generated_at": "2026-11-14T22:00:51+00:00",
+  "run_id": "2026-11-14T22:00:51+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 2,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
     "medium": 6,
-    "observe": 29,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-14T19:49:29+00:00",
-        "fetched_at": "2026-11-14T19:59:03+00:00",
+        "published_at": "2026-11-14T22:00:41+00:00",
+        "fetched_at": "2026-11-14T22:00:25+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "648af47fa9eb3d88ad27"
+        "id": "9b89eec76289af08ff3b"
       },
       {
         "title": "Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO",
@@ -219,6 +219,29 @@
       }
     ],
     "observe": [
+      {
+        "title": "Building always-on agents",
+        "url": "https://claude.com/resources/articles/building-always-on-agents",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-14T00:52:42+00:00",
+        "fetched_at": "2026-11-14T22:00:25+00:00",
+        "summary": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are stateful and proactive, meaning they manage c...",
+        "matched_keywords": [
+          "agent",
+          "Content-Chance",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "88c8ec06b0591e4a9850"
+      },
       {
         "title": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
         "url": "https://forest.watch.impress.co.jp/docs/news/2156117.html",
@@ -980,8 +1003,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-14T19:49:29+00:00",
-      "fetched_at": "2026-11-14T19:59:03+00:00",
+      "published_at": "2026-11-14T22:00:41+00:00",
+      "fetched_at": "2026-11-14T22:00:25+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1015,7 +1038,7 @@
         "HD",
         "LOW"
       ],
-      "id": "648af47fa9eb3d88ad27"
+      "id": "9b89eec76289af08ff3b"
     },
     {
       "title": "Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO",
@@ -1162,6 +1185,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1eeb6ae33f56a4351d1e"
+    },
+    {
+      "title": "Building always-on agents",
+      "url": "https://claude.com/resources/articles/building-always-on-agents",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T00:52:42+00:00",
+      "fetched_at": "2026-11-14T22:00:25+00:00",
+      "summary": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are stateful and proactive, meaning they manage c...",
+      "matched_keywords": [
+        "agent",
+        "Content-Chance",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "88c8ec06b0591e4a9850"
     },
     {
       "title": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
@@ -1917,7 +1963,73 @@
       "id": "c32f528c9ed379063a18"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-14T22:00:41+00:00",
+      "fetched_at": "2026-11-14T22:00:25+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9b89eec76289af08ff3b"
+    },
+    {
+      "title": "Building always-on agents",
+      "url": "https://claude.com/resources/articles/building-always-on-agents",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T00:52:42+00:00",
+      "fetched_at": "2026-11-14T22:00:25+00:00",
+      "summary": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are stateful and proactive, meaning they manage c...",
+      "matched_keywords": [
+        "agent",
+        "Content-Chance",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "88c8ec06b0591e4a9850"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
