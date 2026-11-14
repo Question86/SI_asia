@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T07:48:34+00:00",
-  "run_id": "2026-11-14T07:48:34+00:00",
+  "generated_at": "2026-11-14T07:58:10+00:00",
+  "run_id": "2026-11-14T07:58:10+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
@@ -1011,30 +1011,7 @@
       "id": "c32f528c9ed379063a18"
     }
   ],
-  "new_findings": [
-    {
-      "title": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-11-14T07:48:05+00:00",
-      "summary": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. https://plannotator.ai Everything you need to annotate and stay in the loop with your agents Inbox Surface • Artifacts • Code Review Annotate plans, specs, markdown, HTML, and other interactive artifacts. Review diffs and PRs. Send feedback to your agen…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fd672c4c262f4fbc6877"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
