@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:33:14+00:00",
+  "generated_at": "2026-11-14T09:46:48+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, No people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, No people affected in 100km.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577321",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.",
         "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.",
         "source": "GDACS",
@@ -81,6 +91,21 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577060",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - northern Mid-Atlantic Ridge",
+        "summary": "M5.5 - northern Mid-Atlantic Ridge. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84",
+        "published_at": "2026-11-14T09:26:13+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
