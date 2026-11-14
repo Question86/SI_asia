@@ -1,28 +1,85 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-14T01:51:43Z",
+  "generated_at": "2026-11-14T02:37:46Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 10,
+    "dynamics": 16,
     "bands": {
-      "strong": 1,
-      "watch": 3,
-      "quiet": 6
+      "strong": 3,
+      "watch": 5,
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 3,
-      "quiet": 6
+      "strong": 3,
+      "watch": 5,
+      "quiet": 8
     }
   },
   "top_dynamics": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "published_at": "2026-06-19T11:28:55+00:00",
+      "age_days": 147.63,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 147.6d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "published_at": "2026-11-14T02:23:37+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
+    },
     {
       "title": "The Home Repo Pattern",
       "url": "https://www.aihero.dev/the-home-repo-pattern",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T00:35:38+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -42,11 +99,35 @@
       "summary": ""
     },
     {
+      "title": "【速報】マネックス証券、マイナカード画像漏えいか",
+      "url": "https://www.47news.jp/15227159.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-14T02:00:34+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T15:42:28+00:00",
-      "age_days": 8.42,
+      "age_days": 8.46,
       "topics": [
         "general"
       ],
@@ -70,7 +151,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-14T00:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -94,7 +175,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 148.47,
+      "age_days": 148.5,
       "topics": [
         "general"
       ],
@@ -115,11 +196,59 @@
       "summary": ""
     },
     {
+      "title": "Two Venices, one problem: What Kerala can learn from Macao’s tech makeover",
+      "url": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-14T02:00:34+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "【速報】マネックス証券、マイナカード画像漏えいか",
+      "url": "https://www.47news.jp/15227159.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-13T15:36:10+00:00",
+      "age_days": 0.46,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。"
+    },
+    {
       "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T11:33:08+00:00",
-      "age_days": 0.6,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -143,7 +272,7 @@
       "url": "https://www.aihero.dev/the-home-repo-pattern",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T12:22:50+00:00",
-      "age_days": 1.56,
+      "age_days": 1.59,
       "topics": [
         "ai"
       ],
@@ -168,7 +297,7 @@
       "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T11:40:09+00:00",
-      "age_days": 76.59,
+      "age_days": 76.62,
       "topics": [
         "ai"
       ],
@@ -195,7 +324,7 @@
       "url": "https://openai.com/business/customer-stories/shield",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 149.21,
+      "age_days": 149.25,
       "topics": [
         "ai"
       ],
@@ -222,7 +351,7 @@
       "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T14:24:54+00:00",
-      "age_days": 0.48,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -247,7 +376,7 @@
       "url": "https://openai.com/business/customer-stories/shield",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-13T08:00:00+00:00",
-      "age_days": 0.74,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -266,7 +395,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+    },
+    {
+      "title": "Two Venices, one problem: What Kerala can learn from Macao’s tech makeover",
+      "url": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-14T01:50:27+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Macao has a replica of Venice built inside a casino resort, complete with gondolas and a painted sky. Kerala has Alappuzha, which tourism brochures have called the Venice of the East for longer than anyone can remember. Two small places, two Venices, and one shared headache: both are tired of being known for one thing…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Updates | ReliefWeb” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
