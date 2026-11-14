@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-14T15:37:41+00:00_
+_Generiert: 2026-11-14T15:45:49+00:00_
 
 ## Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO
 
