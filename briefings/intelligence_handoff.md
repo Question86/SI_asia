@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-14T01:40:15Z_
+_Generated: 2026-11-14T01:51:43Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-11-14T00:35:38+00:00` / age_days `0.04`
+- Published: `2026-11-14T00:35:38+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-11-14T00:00:00+00:00` / age_days `0.07`
+- Published: `2026-11-14T00:00:00+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.5`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `148.46`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `148.47`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 148.5d old signal
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-11-13T11:33:08+00:00` / age_days `0.59`
+- Published: `2026-11-13T11:33:08+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `4.0`
-- Published: `2026-11-12T12:22:50+00:00` / age_days `1.55`
+- Published: `2026-11-12T12:22:50+00:00` / age_days `1.56`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `1.0`
-- Published: `2026-08-29T11:40:09+00:00` / age_days `76.58`
+- Published: `2026-08-29T11:40:09+00:00` / age_days `76.59`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 76.6d old signal, single-source AI cap enforced after phrase recheck
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-11-13T14:24:54+00:00` / age_days `0.47`
+- Published: `2026-11-13T14:24:54+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
