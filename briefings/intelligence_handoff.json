@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-14T00:24:57Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.0.",
+  "generated_at": "2026-11-14T00:46:31Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,27 +11,26 @@
   ],
   "top_dynamics": [
     {
-      "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 148.41,
+      "title": "The Home Repo Pattern",
+      "url": "https://www.aihero.dev/the-home-repo-pattern",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-14T00:35:38+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 148.4d old signal"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -40,7 +39,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-14T00:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "macro"
       ],
@@ -58,6 +57,108 @@
         "no strong comparative reason"
       ],
       "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California"
+    },
+    {
+      "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
+      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 148.43,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 148.4d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The Home Repo Pattern",
+      "url": "https://www.aihero.dev/the-home-repo-pattern",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-12T12:22:50+00:00",
+      "age_days": 1.52,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your agent in the Home Repo. Its AGENTS.md..."
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-06-17T20:44:40+00:00",
+      "age_days": 149.17,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 149.2d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "age_days": 0.7,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
     }
   ],
   "read_order": [
@@ -69,7 +170,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "watch": 2
+      "strong": 1,
+      "watch": 2,
+      "quiet": 3
     }
   }
 }
