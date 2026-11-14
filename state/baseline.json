@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T01:05:57+00:00",
+  "generated_at": "2026-11-14T01:18:09+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,7 +99,7 @@
     },
     "domain:openai.com": {
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "updated_at": "2026-11-14T01:05:57+00:00",
+      "updated_at": "2026-11-14T01:18:09+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -128,14 +128,14 @@
         14.1,
         14.1,
         14.1,
-        14.1,
         13.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 13.93,
+      "rolling_average": 13.8,
       "rolling_peak": 14.1,
       "last_score": 10.1,
-      "z_hint": -3.83
+      "z_hint": -3.7
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -979,9 +979,8 @@
     },
     "domain:www.federalreserve.gov": {
       "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-      "updated_at": "2026-11-14T01:05:57+00:00",
+      "updated_at": "2026-11-14T01:18:09+00:00",
       "network_scores": [
-        26.2,
         26.2,
         26.2,
         26.2,
@@ -1010,12 +1009,13 @@
         34.4,
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 27.68,
+      "rolling_average": 27.34,
       "rolling_peak": 40.4,
       "last_score": 16.1,
-      "z_hint": -11.58
+      "z_hint": -11.24
     },
     "domain:www.ecb.europa.eu": {
       "title": "Isabel Schnabel: Made in Europe",
@@ -7677,7 +7677,7 @@
     },
     "domain:aid.connpass.com": {
       "title": "人間＋AIを「チーム」としてプロセスを再設計する",
-      "updated_at": "2026-11-14T01:05:57+00:00",
+      "updated_at": "2026-11-14T01:18:09+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -7707,13 +7707,13 @@
         18.1,
         18.1,
         18.1,
-        18.1,
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 17.93,
+      "rolling_average": 17.67,
       "rolling_peak": 18.1,
-      "last_score": 13.1,
-      "z_hint": -4.83
+      "last_score": 10.1,
+      "z_hint": -7.57
     },
     "earthquake:m 4.5 - 24 km wsw of sipí, colombia:4.5": {
       "title": "M 4.5 - 24 km WSW of Sipí, Colombia",
@@ -106817,7 +106817,7 @@
     },
     "title:ntt": {
       "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
-      "updated_at": "2026-11-14T01:05:57+00:00",
+      "updated_at": "2026-11-14T01:18:09+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -106847,13 +106847,13 @@
         7.1,
         7.1,
         7.1,
-        7.1,
-        10.1
+        10.1,
+        7.1
       ],
       "rolling_average": 7.2,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 2.9
+      "last_score": 7.1,
+      "z_hint": -0.1
     },
     "title:gpui": {
       "title": "GPUI",
@@ -118713,15 +118713,16 @@
     },
     "title:home-repo-pattern": {
       "title": "The Home Repo Pattern",
-      "updated_at": "2026-11-14T01:05:57+00:00",
+      "updated_at": "2026-11-14T01:18:09+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 15.6,
+      "rolling_average": 15.1,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }
