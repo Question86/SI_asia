@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T00:04:49+00:00",
+  "generated_at": "2026-11-14T00:35:38+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -98,8 +98,8 @@
       "z_hint": 0.0
     },
     "domain:openai.com": {
-      "title": "Introducing ChatGPT Wallet",
-      "updated_at": "2026-11-13T23:54:15+00:00",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "updated_at": "2026-11-14T00:35:38+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -130,12 +130,12 @@
         14.1,
         14.1,
         14.1,
-        14.1
+        13.1
       ],
-      "rolling_average": 14.1,
+      "rolling_average": 14.07,
       "rolling_peak": 14.1,
-      "last_score": 14.1,
-      "z_hint": -0.0
+      "last_score": 13.1,
+      "z_hint": -0.97
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -979,9 +979,8 @@
     },
     "domain:www.federalreserve.gov": {
       "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-      "updated_at": "2026-11-14T00:04:49+00:00",
+      "updated_at": "2026-11-14T00:35:38+00:00",
       "network_scores": [
-        26.2,
         26.2,
         26.2,
         26.2,
@@ -1010,12 +1009,13 @@
         34.4,
         34.4,
         34.4,
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 28.35,
+      "rolling_average": 28.01,
       "rolling_peak": 40.4,
-      "last_score": 19.1,
-      "z_hint": -9.25
+      "last_score": 16.1,
+      "z_hint": -11.91
     },
     "domain:www.ecb.europa.eu": {
       "title": "Isabel Schnabel: Made in Europe",
@@ -118709,6 +118709,17 @@
       "rolling_average": 14.7,
       "rolling_peak": 14.7,
       "last_score": 14.7,
+      "z_hint": 0.0
+    },
+    "title:home-repo-pattern": {
+      "title": "The Home Repo Pattern",
+      "updated_at": "2026-11-14T00:35:38+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
       "z_hint": 0.0
     }
   }

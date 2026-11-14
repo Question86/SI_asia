@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-14T00:04:46+00:00",
+  "generated_at": "2026-11-14T00:35:33+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 2,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 1,
-    "observe": 0
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -23,6 +23,26 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California",
       "section": "medium"
+    },
+    {
+      "title": "The Home Repo Pattern",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T12:22:50+00:00",
+      "relevance_score": 12,
+      "url": "https://www.aihero.dev/the-home-repo-pattern",
+      "summary": "The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your…",
+      "section": "observe"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "relevance_score": 8,
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -30,63 +50,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-        "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-        "source": "Federal Reserve Speeches and Testimony",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 148.41,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 16.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 148.4d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-        "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-        "source": "Federal Reserve Speeches and Testimony",
-        "published_at": "2026-11-14T00:00:00+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California"
-      }
-    ]
-  }
+  ]
 }
