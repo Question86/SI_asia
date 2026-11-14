@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-14T10:03:14+00:00_
+_Generiert: 2026-11-14T10:16:15+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-11-14T10:03:14+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, No people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577321)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577321)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577195)
   - Quelle: GDACS
   - Zeit: ``
@@ -154,14 +154,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. https://plannotator.ai Everything you need to annotate and stay in the loop with your agents Inbox Surface • Artifacts • Code Review Annotate plans, specs, markdown, HTML, and other interactive artifacts. Review diffs and PRs. Send feedback to your agen…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **かつて、noteのようなブログもTwitterのような短文投稿もDiscordのようなコミュニティ運営もすべてまとめてできる、夢のようなサービスがあったのじゃ** — Score 5, observation — [Quelle](https://togetter.com/li/2770247)
+- **「なんでお前は重要なデータを任されるほど信用されてんの？」と上司に聞かれたセキュリティ担当者の回答、信頼に値する妙な説得力がある「情報って武器だなぁ」** — Score 5, observation — [Quelle](https://togetter.com/li/2770282)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-14T01:06:19+00:00`, fetched `2026-11-14T03:33:08+00:00`
+  - Zeit: published `2026-11-14T03:49:42+00:00`, fetched `2026-11-14T10:15:45+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: HPPS＠平和荘 @HPPS_HEIWASOU 若い人には想像できんかもしれんが、その昔、 noteのようなブログも、 Twitterのような短文投稿も、 Discordのようなコミュニティ運営も、 ジョルテのようなカレンダー共有も、 TwiPlaのようなイベント参加者管理も、 すべてまとめてできる、夢のようなサービスがあったのじゃ。 そして当時...
+  - Kurz: 沖田 丈11 @vjoe 俺、会社のかなり重要なデータを扱ってんのね そんで、他社から入社してきた上司から 「なんで沖田は重要なデータ任されてる程に信用されてんの？」 って聞かれて 「セキュリティ兼内部監査として、取締役の誰が休日に会社PCで熟女AV観てたか把握しているけどバラしてないから」 で納得してもらえた 202...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Two Venices, one problem: What Kerala can learn from Macao’s tech makeover** — Score 4, observation — [Quelle](https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
