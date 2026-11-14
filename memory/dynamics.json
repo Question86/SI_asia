@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-14T01:12:16Z",
+  "generated_at": "2026-11-14T01:40:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 10,
@@ -22,22 +22,22 @@
       "url": "https://www.aihero.dev/the-home-repo-pattern",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T00:35:38+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 21.5,
+      "dynamics_score": 21.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -46,23 +46,22 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T15:42:28+00:00",
-      "age_days": 8.4,
+      "age_days": 8.42,
       "topics": [
         "general"
       ],
-      "dynamics_score": 19.69,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -71,7 +70,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-14T00:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -95,7 +94,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 148.44,
+      "age_days": 148.46,
       "topics": [
         "general"
       ],
@@ -111,7 +110,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 148.4d old signal"
+        "aging penalty -8.0 for 148.5d old signal"
       ],
       "summary": ""
     },
@@ -120,7 +119,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T11:33:08+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -144,7 +143,7 @@
       "url": "https://www.aihero.dev/the-home-repo-pattern",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T12:22:50+00:00",
-      "age_days": 1.53,
+      "age_days": 1.55,
       "topics": [
         "ai"
       ],
@@ -169,11 +168,11 @@
       "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T11:40:09+00:00",
-      "age_days": 76.56,
+      "age_days": 76.58,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.5,
+      "dynamics_score": 1.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -196,7 +195,7 @@
       "url": "https://openai.com/business/customer-stories/shield",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 149.19,
+      "age_days": 149.21,
       "topics": [
         "ai"
       ],
@@ -223,7 +222,7 @@
       "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T14:24:54+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -248,7 +247,7 @@
       "url": "https://openai.com/business/customer-stories/shield",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-13T08:00:00+00:00",
-      "age_days": 0.72,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -269,5 +268,5 @@
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.5."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The Home Repo Pattern” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.0."
 }
