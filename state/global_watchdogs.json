@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:46:48+00:00",
+  "generated_at": "2026-11-14T10:03:17+00:00",
   "sections": {
     "global_security": [
       {
@@ -96,13 +96,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - northern Mid-Atlantic Ridge",
-        "summary": "M5.5 - northern Mid-Atlantic Ridge. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.5 - northern Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84",
         "published_at": "2026-11-14T09:26:13+00:00",
         "metrics": {
           "mag": 5.5,
-          "alert": "",
+          "alert": "green",
           "sig": 465.0,
           "tsunami": 0
         }

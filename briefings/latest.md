@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-14T09:46:44+00:00_
+_Generiert: 2026-11-14T10:03:14+00:00_
 
 ## Kurzlage
 
@@ -44,7 +44,7 @@ _Generiert: 2026-11-14T09:46:44+00:00_
 - **USGS earthquake M5.5 - northern Mid-Atlantic Ridge** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84)
   - Quelle: USGS
   - Zeit: `2026-11-14T09:26:13+00:00`
-  - Kurz: M5.5 - northern Mid-Atlantic Ridge. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - northern Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
