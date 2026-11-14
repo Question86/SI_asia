@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-14T10:16:15+00:00_
+_Generiert: 2026-11-14T10:21:46+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); macro (+2.5); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech At the University of California, San Diego Economic Roundtable, San Diego, California
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明** — Score 14, observation — [Quelle](https://gigazine.net/news/20261114-llm-fluency-credible/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-13T23:05:57+00:00`, fetched `2026-11-14T10:21:16+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ChatGPTなどに代表される大規模言語モデルは、その根本的な仕組みとして、モデル自身は自分の回答が合っているか間違っているかを判断できません。そのためこの手のAIには事実ではないことをまるで事実かのように話してしまう「幻覚(ハルシネーション)」の問題が常につきまといます。新たな研究では、AIの回答に幻覚があ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
