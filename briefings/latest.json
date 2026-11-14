@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T01:32:18+00:00",
-  "run_id": "2026-11-14T01:32:18+00:00",
+  "generated_at": "2026-11-14T02:00:27+00:00",
+  "run_id": "2026-11-14T02:00:27+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 2,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 1,
-    "observe": 4,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -120,6 +120,27 @@
         "id": "1852f825332105c8497a"
       },
       {
+        "title": "【速報】マネックス証券、マイナカード画像漏えいか",
+        "url": "https://www.47news.jp/15227159.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-13T15:36:10+00:00",
+        "fetched_at": "2026-11-14T01:59:33+00:00",
+        "summary": "マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b99394600f4ef4c95c73"
+      },
+      {
         "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
         "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -139,6 +160,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e77c02a4bf024046d753"
+      },
+      {
+        "title": "Two Venices, one problem: What Kerala can learn from Macao’s tech makeover",
+        "url": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-14T01:50:27+00:00",
+        "fetched_at": "2026-11-14T01:59:33+00:00",
+        "summary": "Macao has a replica of Venice built inside a casino resort, complete with gondolas and a painted sky. Kerala has Alappuzha, which tourism brochures have called the Venice of the East for longer than anyone can remember. Two small places, two Venices, and one shared headache: both are tired of being known for one thing. […] The post Two Venices, one problem: What Kerala can learn from Macao’s tech makeover appeared f…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c32f528c9ed379063a18"
       }
     ]
   },
@@ -232,6 +273,27 @@
       "id": "1852f825332105c8497a"
     },
     {
+      "title": "【速報】マネックス証券、マイナカード画像漏えいか",
+      "url": "https://www.47news.jp/15227159.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T15:36:10+00:00",
+      "fetched_at": "2026-11-14T01:59:33+00:00",
+      "summary": "マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b99394600f4ef4c95c73"
+    },
+    {
       "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -251,9 +313,71 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e77c02a4bf024046d753"
+    },
+    {
+      "title": "Two Venices, one problem: What Kerala can learn from Macao’s tech makeover",
+      "url": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-14T01:50:27+00:00",
+      "fetched_at": "2026-11-14T01:59:33+00:00",
+      "summary": "Macao has a replica of Venice built inside a casino resort, complete with gondolas and a painted sky. Kerala has Alappuzha, which tourism brochures have called the Venice of the East for longer than anyone can remember. Two small places, two Venices, and one shared headache: both are tired of being known for one thing. […] The post Two Venices, one problem: What Kerala can learn from Macao’s tech makeover appeared f…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c32f528c9ed379063a18"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "【速報】マネックス証券、マイナカード画像漏えいか",
+      "url": "https://www.47news.jp/15227159.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T15:36:10+00:00",
+      "fetched_at": "2026-11-14T01:59:33+00:00",
+      "summary": "マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b99394600f4ef4c95c73"
+    },
+    {
+      "title": "Two Venices, one problem: What Kerala can learn from Macao’s tech makeover",
+      "url": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-14T01:50:27+00:00",
+      "fetched_at": "2026-11-14T01:59:33+00:00",
+      "summary": "Macao has a replica of Venice built inside a casino resort, complete with gondolas and a painted sky. Kerala has Alappuzha, which tourism brochures have called the Venice of the East for longer than anyone can remember. Two small places, two Venices, and one shared headache: both are tired of being known for one thing. […] The post Two Venices, one problem: What Kerala can learn from Macao’s tech makeover appeared f…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c32f528c9ed379063a18"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

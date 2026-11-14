@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-14T01:32:18+00:00",
+  "generated_at": "2026-11-14T02:00:27+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 2,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 1,
-    "observe": 4
+    "observe": 6
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,13 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
+      "title": "【速報】マネックス証券、マイナカード画像漏えいか",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-13T11:33:08+00:00",
+      "published_at": "2026-11-13T15:36:10+00:00",
       "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
-      "summary": "NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...",
+      "url": "https://www.47news.jp/15227159.html",
+      "summary": "マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。",
       "section": "observe"
     }
   ],
@@ -70,135 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “The Home Repo Pattern” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "The Home Repo Pattern",
-        "url": "https://www.aihero.dev/the-home-repo-pattern",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-14T00:35:38+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
-        "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-05T15:42:28+00:00",
-        "age_days": 8.42,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-        "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-        "source": "Federal Reserve Speeches and Testimony",
-        "published_at": "2026-11-14T00:00:00+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California"
-      },
-      {
-        "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-        "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-        "source": "Federal Reserve Speeches and Testimony",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 148.47,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 13.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 148.5d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
-        "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-13T11:33:08+00:00",
-        "age_days": 0.6,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 5.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞..."
-      }
-    ]
-  }
+  ]
 }

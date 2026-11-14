@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-14T01:32:18+00:00_
+_Generated: 2026-11-14T02:00:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `7`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-11-14T01:32:18+00:00_
 - url: https://openai.com/business/customer-stories/shield
 - summary: Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.
 
-### 5. データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた
+### 5. 【速報】マネックス証券、マイナカード画像漏えいか
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-11-13T11:33:08+00:00`
-- url: https://www.itmedia.co.jp/news/article/2611/13/2000003200/
-- summary: NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...
+- published: `2026-11-13T15:36:10+00:00`
+- url: https://www.47news.jp/15227159.html
+- summary: マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。
 
 END OF DOCUMENT
