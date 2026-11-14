@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T13:45:57+00:00",
+  "generated_at": "2026-11-14T13:52:21+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -6770,13 +6770,13 @@
     {
       "event_id": "evt_3e3814d32533ac5c13ae",
       "title": "マネジメントされる側の仕事は「文句」を言うこと",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3ecfc2107d15f2c68e59",
@@ -25520,7 +25520,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_e876df12f1e62737e6af",
