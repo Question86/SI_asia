@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-14T16:20:20+00:00_
+_Generated: 2026-11-14T16:27:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-14T16:20:20+00:00_
 - url: https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/
 - summary: どうも！オペ部の西村祐二です！ S3 にフロントエンドを置き、Amazon Cognito のユーザープールでログインさせ、ID プールで AWS の一時認証情報を渡す。AWS で SPA を作るときによく見る構成です。この構成が攻撃用の AI エージェントにどう使われたかを、Datadog Security Labs が2026年11月9日の記事「On the hunt fo...
 
-### 3. M 5.2 - State of Yap, Federated States of Micronesia
+### 3. M 4.9 - 7 km SE of Tagbina, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-14T16:24:10.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l
+- summary: Time 2026-11-14 16:04:21 UTC 2026-11-14 16:04:21 UTC at epicenter Location 8.406°N 126.217°E Depth 147.19 km (91.46 mi)
+
+### 4. M 5.2 - State of Yap, Federated States of Micronesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-14T07:08:03.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d
 - summary: Time 2026-11-14 06:52:26 UTC 2026-11-14 06:52:26 UTC at epicenter Location 9.703°N 147.363°E Depth 10.00 km (6.21 mi)
-
-### 4. Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy
-- source: Federal Reserve Speeches and Testimony
-- score: `14`
-- published: `2026-11-14T00:00:00+00:00`
-- url: https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm
-- summary: Speech At the University of California, San Diego Economic Roundtable, San Diego, California
 
 ### 5. Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
 - source: Hatena Bookmark Hotentry IT
