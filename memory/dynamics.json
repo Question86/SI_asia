@@ -1,28 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-14T21:52:02Z",
+  "generated_at": "2026-11-14T22:10:42Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
+      "krass": 1,
       "strong": 8,
       "watch": 27,
-      "quiet": 5
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
+      "strong": 9,
       "watch": 27,
-      "quiet": 5
+      "quiet": 4
     }
   },
   "top_dynamics": [
+    {
+      "title": "Building always-on agents",
+      "url": "https://claude.com/resources/articles/building-always-on-agents",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-14T00:52:42+00:00",
+      "age_days": 0.89,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, rce",
+        "security high-signal: active, rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are stateful and proactive, meaning they manage c..."
+    },
     {
       "title": "Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO",
       "url": "https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:30:36+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -49,7 +76,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 148.43,
+      "age_days": 148.45,
       "topics": [
         "general"
       ],
@@ -76,8 +103,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-14T19:49:29+00:00",
-      "age_days": 0.09,
+      "published_at": "2026-11-14T22:00:41+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -106,7 +133,7 @@
       "url": "https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T12:48:25+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "security",
@@ -134,7 +161,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:08:03.040+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "macro",
         "disaster"
@@ -160,7 +187,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:09:23+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "macro"
       ],
@@ -184,7 +211,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:35:25+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -209,7 +236,7 @@
       "url": "https://www.aihero.dev/the-home-repo-pattern",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T00:35:38+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "general"
       ],
@@ -233,7 +260,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T06:57:03.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -258,7 +285,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty73",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T05:15:11.040+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "disaster"
       ],
@@ -283,7 +310,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty73",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T05:17:42+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -307,7 +334,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T03:33:45+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -331,7 +358,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T16:24:10.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -355,7 +382,7 @@
       "url": "https://github.com/backnotprop/plannotator",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-14T07:48:37+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -379,7 +406,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T13:07:55.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -404,7 +431,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T09:41:58.040+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -429,7 +456,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:29:49.040+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -454,7 +481,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T03:16:42.040+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "disaster"
       ],
@@ -479,7 +506,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T18:24:10+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -503,7 +530,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T13:21:55+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -527,7 +554,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T09:46:48+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -551,7 +578,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T03:33:45+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -575,7 +602,7 @@
       "url": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T13:45:23+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -599,7 +626,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 75.72,
+      "age_days": 75.73,
       "topics": [
         "general"
       ],
@@ -624,7 +651,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T23:27:57+00:00",
-      "age_days": 26.93,
+      "age_days": 26.95,
       "topics": [
         "general"
       ],
@@ -649,7 +676,7 @@
       "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T17:16:12+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -673,7 +700,7 @@
       "url": "https://www.47news.jp/15227159.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T02:00:34+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "general"
       ],
@@ -697,7 +724,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T15:42:28+00:00",
-      "age_days": 9.26,
+      "age_days": 9.27,
       "topics": [
         "general"
       ],
@@ -721,7 +748,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-14T00:00:00+00:00",
-      "age_days": 0.91,
+      "age_days": 0.92,
       "topics": [
         "macro"
       ],
@@ -745,7 +772,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T03:32:26.040+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "disaster"
       ],
@@ -769,7 +796,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 149.3,
+      "age_days": 149.32,
       "topics": [
         "general"
       ],
@@ -794,7 +821,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2156117.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T12:46:34+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -820,7 +847,7 @@
       "url": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-14T02:00:34+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "general"
       ],
@@ -844,7 +871,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T18:18:57.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -868,7 +895,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T02:38:35.040+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "disaster"
       ],
@@ -892,7 +919,7 @@
       "url": "https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T16:01:11+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -918,7 +945,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:39:57+00:00",
-      "age_days": 72.01,
+      "age_days": 72.02,
       "topics": [
         "general"
       ],
@@ -943,7 +970,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T23:23:29+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "general"
       ],
@@ -963,15 +990,15 @@
       "summary": "不正アクセスによる情報漏えいが相次ぐなか、パスワードを紙に書いて管理するアナログな方法を見直す動きがある。100円ショップ「ダイソー」では、紙の「パスワード管理ノート」が品薄になっている。運営する大創産業（広島県東広島市、以下ダイソー）はITmedia NEWSの取材に対し、ネットワークにつながっていない紙で管..."
     },
     {
-      "title": "幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明",
-      "url": "https://gigazine.net/news/20261114-llm-fluency-credible/",
+      "title": "AI悪用の攻撃拠点、千台発見 サイトの弱点探索、不正侵入疑い",
+      "url": "https://www.47news.jp/15231027.html",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 148.83,
+      "published_at": "2026-11-14T21:30:52+00:00",
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 7.0,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -984,37 +1011,10 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 148.8d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "動いた農林中金、AI株を「底値買い」 長期で安定成長を期待 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB109MD0Q6A111C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-13T23:26:15+00:00",
-      "age_days": 0.93,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "約45兆円を運用する農林中央金庫が、半導体株の上場投資信託（ETF）の投資に踏み切った。市場全体への幅広い投資に徹してきた同金庫にとって異例の判断だ。海外の年金基金も人工知能（AI）関連株に押し目買いを入れているという。AI銘柄はさえない値動きだが、成長ストーリーは健在だとみる長期資金は動き始めている。13..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Building always-on agents” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
