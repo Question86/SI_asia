@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T12:46:31+00:00",
-  "run_id": "2026-11-14T12:46:31+00:00",
+  "generated_at": "2026-11-14T12:55:12+00:00",
+  "run_id": "2026-11-14T12:55:12+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 25,
     "displayed_findings": 25,
     "high": 0,
@@ -1389,73 +1389,7 @@
       "id": "c32f528c9ed379063a18"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2156117.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-13T02:57:17+00:00",
-      "fetched_at": "2026-11-14T12:46:00+00:00",
-      "summary": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0c0146c54a00ae1617cb"
-    },
-    {
-      "title": "動いた農林中金、AI株を「底値買い」 長期で安定成長を期待 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUB109MD0Q6A111C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-13T23:26:15+00:00",
-      "fetched_at": "2026-11-14T12:46:00+00:00",
-      "summary": "約45兆円を運用する農林中央金庫が、半導体株の上場投資信託（ETF）の投資に踏み切った。市場全体への幅広い投資に徹してきた同金庫にとって異例の判断だ。海外の年金基金も人工知能（AI）関連株に押し目買いを入れているという。AI銘柄はさえない値動きだが、成長ストーリーは健在だとみる長期資金は動き始めている。13...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ddde94cd9485e534e866"
-    },
-    {
-      "title": "AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update",
-      "url": "https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-14T07:45:30+00:00",
-      "fetched_at": "2026-11-14T12:46:00+00:00",
-      "summary": "2026年11月14日|21分 AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 ゲスト: 天野仁史（多摩川機構エンジニアリング株式会社 代表） 一人の会社に、開発チームがいくつもある。 コードを書くAI、デザインするAI、それらを束ねるAI。スマートニュースでiOS・Android・Webの3チームを率...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f4125d5717d21168b433"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
