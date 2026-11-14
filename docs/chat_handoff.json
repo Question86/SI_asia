@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-14T11:56:01+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-11-14T12:03:47+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 1,
     "today_file_total": 22,
@@ -12,13 +12,13 @@
     "medium": 4,
     "observe": 18
   },
-  "source_errors_count": 0,
+  "source_errors_count": 2,
   "top_signals": [
     {
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-14T11:55:21+00:00",
+      "published_at": "2026-11-14T12:03:27+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
