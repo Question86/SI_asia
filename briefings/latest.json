@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T17:16:09+00:00",
-  "run_id": "2026-11-14T17:16:09+00:00",
+  "generated_at": "2026-11-14T17:29:59+00:00",
+  "run_id": "2026-11-14T17:29:59+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-14T16:55:14+00:00",
-        "fetched_at": "2026-11-14T16:57:03+00:00",
+        "published_at": "2026-11-14T17:29:49+00:00",
+        "fetched_at": "2026-11-14T17:29:35+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "361211196fcc25e54d38"
+        "id": "d0717d6e46e3b31782e5"
       },
       {
         "title": "Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO",
@@ -901,8 +901,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-14T16:55:14+00:00",
-      "fetched_at": "2026-11-14T16:57:03+00:00",
+      "published_at": "2026-11-14T17:29:49+00:00",
+      "fetched_at": "2026-11-14T17:29:35+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -936,7 +936,7 @@
         "HD",
         "LOW"
       ],
-      "id": "361211196fcc25e54d38"
+      "id": "d0717d6e46e3b31782e5"
     },
     {
       "title": "Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO",
@@ -1761,25 +1761,46 @@
   ],
   "new_findings": [
     {
-      "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
-      "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-14T10:07:16+00:00",
-      "fetched_at": "2026-11-14T17:15:39+00:00",
-      "summary": "同じ問いに対する書き換えたモデルの答えでは、「誤って攻撃してしまう病気」「ビール: 最も注意」と書かれていました（サンプリングなので、文全体は元と同じではありません）。 測った条件 モデル: Qwen3.8-Flash-Next。mlx-serveの変換で作った4ビットのMLX版で、出力層だけ8ビットです。 問い: 医療の問い60問。JMML...",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-14T17:29:49+00:00",
+      "fetched_at": "2026-11-14T17:29:35+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6810b3933773607bc368"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d0717d6e46e3b31782e5"
     }
   ],
   "source_errors": [],
