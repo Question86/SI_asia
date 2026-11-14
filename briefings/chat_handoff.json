@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-14T02:12:21+00:00",
+  "generated_at": "2026-11-14T02:23:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 6
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Updates | ReliefWeb",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-14T02:23:37+00:00",
+      "relevance_score": 23,
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "section": "medium"
+    },
     {
       "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
       "source": "Federal Reserve Speeches and Testimony",
