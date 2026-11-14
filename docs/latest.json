@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T13:29:59+00:00",
-  "run_id": "2026-11-14T13:29:59+00:00",
+  "generated_at": "2026-11-14T13:45:20+00:00",
+  "run_id": "2026-11-14T13:45:20+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 1,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 4,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -597,6 +597,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fd672c4c262f4fbc6877"
+      },
+      {
+        "title": "マネジメントされる側の仕事は「文句」を言うこと",
+        "url": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-13T13:23:56+00:00",
+        "fetched_at": "2026-11-14T13:44:49+00:00",
+        "summary": "このスライドはSlidevで作られており、以下のレポジトリで公開しています https://github.com/riya-amemiya/amemiya_riya_slide_data/tree/main/complaining_is_your_job Webバージョンはこちらから http…",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1058e58b427dac59003d"
       },
       {
         "title": "AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update",
@@ -1315,6 +1337,28 @@
       "id": "fd672c4c262f4fbc6877"
     },
     {
+      "title": "マネジメントされる側の仕事は「文句」を言うこと",
+      "url": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T13:23:56+00:00",
+      "fetched_at": "2026-11-14T13:44:49+00:00",
+      "summary": "このスライドはSlidevで作られており、以下のレポジトリで公開しています https://github.com/riya-amemiya/amemiya_riya_slide_data/tree/main/complaining_is_your_job Webバージョンはこちらから http…",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1058e58b427dac59003d"
+    },
+    {
       "title": "AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update",
       "url": "https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1461,7 +1505,30 @@
       "id": "c32f528c9ed379063a18"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "マネジメントされる側の仕事は「文句」を言うこと",
+      "url": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T13:23:56+00:00",
+      "fetched_at": "2026-11-14T13:44:49+00:00",
+      "summary": "このスライドはSlidevで作られており、以下のレポジトリで公開しています https://github.com/riya-amemiya/amemiya_riya_slide_data/tree/main/complaining_is_your_job Webバージョンはこちらから http…",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1058e58b427dac59003d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
