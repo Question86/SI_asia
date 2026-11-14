@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-14T15:03:07+00:00_
+_Generated: 2026-11-14T15:30:32+00:00_
 
 ## Status
-- status: `warning`
-- findings: `28`
+- status: `normal`
+- findings: `29`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-14T15:03:07+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. M 5.2 - State of Yap, Federated States of Micronesia
+### 2. Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-11-14T12:48:25+00:00`
+- url: https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/
+- summary: どうも！オペ部の西村祐二です！ S3 にフロントエンドを置き、Amazon Cognito のユーザープールでログインさせ、ID プールで AWS の一時認証情報を渡す。AWS で SPA を作るときによく見る構成です。この構成が攻撃用の AI エージェントにどう使われたかを、Datadog Security Labs が2026年11月9日の記事「On the hunt fo...
+
+### 3. M 5.2 - State of Yap, Federated States of Micronesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-14T07:08:03.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d
 - summary: Time 2026-11-14 06:52:26 UTC 2026-11-14 06:52:26 UTC at epicenter Location 9.703°N 147.363°E Depth 10.00 km (6.21 mi)
 
-### 3. Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy
+### 4. Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy
 - source: Federal Reserve Speeches and Testimony
 - score: `14`
 - published: `2026-11-14T00:00:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm
 - summary: Speech At the University of California, San Diego Economic Roundtable, San Diego, California
-
-### 4. 幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明
-- source: Hatena Bookmark Hotentry IT
-- score: `14`
-- published: `2026-11-13T23:05:57+00:00`
-- url: https://gigazine.net/news/20261114-llm-fluency-credible/
-- summary: ChatGPTなどに代表される大規模言語モデルは、その根本的な仕組みとして、モデル自身は自分の回答が合っているか間違っているかを判断できません。そのためこの手のAIには事実ではないことをまるで事実かのように話してしまう「幻覚(ハルシネーション)」の問題が常につきまといます。新たな研究では、AIの回答に幻覚があ...
 
 ### 5. Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
 - source: Hatena Bookmark Hotentry IT
