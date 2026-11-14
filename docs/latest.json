@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T13:45:20+00:00",
-  "run_id": "2026-11-14T13:45:20+00:00",
+  "generated_at": "2026-11-14T13:51:41+00:00",
+  "run_id": "2026-11-14T13:51:41+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 2,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
     "medium": 4,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-14T12:55:45+00:00",
-        "fetched_at": "2026-11-14T13:00:15+00:00",
+        "published_at": "2026-11-14T13:51:32+00:00",
+        "fetched_at": "2026-11-14T13:51:17+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "2dc2d5be1d0226afbbf6"
+        "id": "5e798fdde39bff9c924d"
       },
       {
         "title": "M 5.2 - State of Yap, Federated States of Micronesia",
@@ -684,6 +684,27 @@
         "id": "433cc6d4ec2174f76f0e"
       },
       {
+        "title": "相次ぐ情報漏えいでアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも──IPAに聞いた",
+        "url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-13T23:23:29+00:00",
+        "fetched_at": "2026-11-14T13:51:17+00:00",
+        "summary": "不正アクセスによる情報漏えいが相次ぐなか、パスワードを紙に書いて管理するアナログな方法を見直す動きがある。100円ショップ「ダイソー」では、紙の「パスワード管理ノート」が品薄になっている。運営する大創産業（広島県東広島市、以下ダイソー）はITmedia NEWSの取材に対し、ネットワークにつながっていない紙で管...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c0500f46d3b71a9b2db2"
+      },
+      {
         "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた - Qiita",
         "url": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742",
         "source": "Hatena Bookmark Hotentry IT",
@@ -774,8 +795,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-14T12:55:45+00:00",
-      "fetched_at": "2026-11-14T13:00:15+00:00",
+      "published_at": "2026-11-14T13:51:32+00:00",
+      "fetched_at": "2026-11-14T13:51:17+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -809,7 +830,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2dc2d5be1d0226afbbf6"
+      "id": "5e798fdde39bff9c924d"
     },
     {
       "title": "M 5.2 - State of Yap, Federated States of Micronesia",
@@ -1422,6 +1443,27 @@
       "id": "433cc6d4ec2174f76f0e"
     },
     {
+      "title": "相次ぐ情報漏えいでアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも──IPAに聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T23:23:29+00:00",
+      "fetched_at": "2026-11-14T13:51:17+00:00",
+      "summary": "不正アクセスによる情報漏えいが相次ぐなか、パスワードを紙に書いて管理するアナログな方法を見直す動きがある。100円ショップ「ダイソー」では、紙の「パスワード管理ノート」が品薄になっている。運営する大創産業（広島県東広島市、以下ダイソー）はITmedia NEWSの取材に対し、ネットワークにつながっていない紙で管...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c0500f46d3b71a9b2db2"
+    },
+    {
       "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた - Qiita",
       "url": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1507,26 +1549,67 @@
   ],
   "new_findings": [
     {
-      "title": "マネジメントされる側の仕事は「文句」を言うこと",
-      "url": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-14T13:51:32+00:00",
+      "fetched_at": "2026-11-14T13:51:17+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5e798fdde39bff9c924d"
+    },
+    {
+      "title": "相次ぐ情報漏えいでアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも──IPAに聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-13T13:23:56+00:00",
-      "fetched_at": "2026-11-14T13:44:49+00:00",
-      "summary": "このスライドはSlidevで作られており、以下のレポジトリで公開しています https://github.com/riya-amemiya/amemiya_riya_slide_data/tree/main/complaining_is_your_job Webバージョンはこちらから http…",
+      "published_at": "2026-11-13T23:23:29+00:00",
+      "fetched_at": "2026-11-14T13:51:17+00:00",
+      "summary": "不正アクセスによる情報漏えいが相次ぐなか、パスワードを紙に書いて管理するアナログな方法を見直す動きがある。100円ショップ「ダイソー」では、紙の「パスワード管理ノート」が品薄になっている。運営する大創産業（広島県東広島市、以下ダイソー）はITmedia NEWSの取材に対し、ネットワークにつながっていない紙で管...",
       "matched_keywords": [
-        "GitHub",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1058e58b427dac59003d"
+      "id": "c0500f46d3b71a9b2db2"
     }
   ],
   "source_errors": [],
