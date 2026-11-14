@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-14T03:17:40+00:00_
+_Generiert: 2026-11-14T03:33:42+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+12 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -42,6 +42,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your agent in the Home Repo. Its AGENTS.md...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 54 km NW of San Antonio de los Cobres, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-14T03:32:26.040+00:00`, fetched `2026-11-14T03:33:08+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-14 03:18:26 UTC 2026-11-14 03:18:26 UTC at epicenter Location 23.944°S 66.764°W Depth 216.09 km (134.27 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.2 - off the west coast of northern Sumatra** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-14T03:16:42.040+00:00`, fetched `2026-11-14T03:33:08+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-14 02:59:29 UTC 2026-11-14 02:59:29 UTC at epicenter Location 3.304°N 92.826°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-14T02:38:35.040+00:00`, fetched `2026-11-14T02:47:55+00:00`
@@ -69,14 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【速報】マネックス証券、マイナカード画像漏えいか** — Score 5, observation — [Quelle](https://www.47news.jp/15227159.html)
+- **かつて、noteのようなブログもTwitterのような短文投稿もDiscordのようなコミュニティ運営もすべてまとめてできる、夢のようなサービスがあったのじゃ** — Score 5, observation — [Quelle](https://togetter.com/li/2770247)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-13T15:36:10+00:00`, fetched `2026-11-14T01:59:33+00:00`
+  - Zeit: published `2026-11-14T01:06:19+00:00`, fetched `2026-11-14T03:33:08+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。
+  - Kurz: HPPS＠平和荘 @HPPS_HEIWASOU 若い人には想像できんかもしれんが、その昔、 noteのようなブログも、 Twitterのような短文投稿も、 Discordのようなコミュニティ運営も、 ジョルテのようなカレンダー共有も、 TwiPlaのようなイベント参加者管理も、 すべてまとめてできる、夢のようなサービスがあったのじゃ。 そして当時...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Two Venices, one problem: What Kerala can learn from Macao’s tech makeover** — Score 4, observation — [Quelle](https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
