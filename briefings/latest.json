@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T22:22:31+00:00",
-  "run_id": "2026-11-14T22:22:31+00:00",
+  "generated_at": "2026-11-14T22:28:52+00:00",
+  "run_id": "2026-11-14T22:28:52+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 1,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 6,
-    "observe": 30,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -219,6 +219,29 @@
       }
     ],
     "observe": [
+      {
+        "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+        "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-14T16:06:17+00:00",
+        "fetched_at": "2026-11-14T22:28:24+00:00",
+        "summary": "以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0f852fa73297bca2e480"
+      },
       {
         "title": "Building always-on agents",
         "url": "https://claude.com/resources/articles/building-always-on-agents",
@@ -1187,6 +1210,29 @@
       "id": "1eeb6ae33f56a4351d1e"
     },
     {
+      "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+      "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T16:06:17+00:00",
+      "fetched_at": "2026-11-14T22:28:24+00:00",
+      "summary": "以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0f852fa73297bca2e480"
+    },
+    {
       "title": "Building always-on agents",
       "url": "https://claude.com/resources/articles/building-always-on-agents",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1963,7 +2009,31 @@
       "id": "c32f528c9ed379063a18"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+      "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T16:06:17+00:00",
+      "fetched_at": "2026-11-14T22:28:24+00:00",
+      "summary": "以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0f852fa73297bca2e480"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

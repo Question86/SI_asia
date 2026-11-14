@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-14T22:22:31+00:00_
+_Generiert: 2026-11-14T22:28:52+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+37 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **常時稼働エージェントの作り方（Claude公式ブログを資料化）** — Score 12, observation — [Quelle](https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-14T16:06:17+00:00`, fetched `2026-11-14T22:28:24+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: 以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Building always-on agents** — Score 12, observation — [Quelle](https://claude.com/resources/articles/building-always-on-agents)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-14T00:52:42+00:00`, fetched `2026-11-14T22:00:25+00:00`
@@ -131,15 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Home Repo Pattern** — Score 12, observation — [Quelle](https://www.aihero.dev/the-home-repo-pattern)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-12T12:22:50+00:00`, fetched `2026-11-14T00:35:05+00:00`
-  - Treffer: agent, AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
-  - Kurz: The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your agent in the Home Repo. Its AGENTS.md...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - West Chile Rise** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
