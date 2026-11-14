@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:51:40+00:00",
+  "generated_at": "2026-11-14T23:01:23+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 38,
@@ -563,44 +563,6 @@
       "first_seen_at": "2026-11-14T03:33:45+00:00"
     },
     {
-      "key": "github_repo:libracoder/kiri",
-      "title": "GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/libracoder/kiri"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 10.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-14T22:51:40+00:00"
-    },
-    {
       "key": "url:https://www.47news.jp/15231027.html",
       "title": "AI悪用の攻撃拠点、千台発見 サイトの弱点探索、不正侵入疑い",
       "sources": [
@@ -1037,6 +999,44 @@
       "first_seen_at": "2026-10-18T23:27:57+00:00"
     },
     {
+      "key": "github_repo:libracoder/kiri",
+      "title": "GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/libracoder/kiri"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-14T22:51:40+00:00"
+    },
+    {
       "key": "domain:togetter.com",
       "title": "「なんでお前は重要なデータを任されるほど信用されてんの？」と上司に聞かれたセキュリティ担当者の回答、信頼に値する妙な説得力がある「情報って武器だなぁ」",
       "sources": [
@@ -1382,7 +1382,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-14T22:51:41Z",
+    "generated_at": "2026-11-14T23:01:25Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
