@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-11-14T22:10:42Z",
+  "generated_at": "2026-11-14T23:22:03Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -22,6 +22,11 @@
     }
   ],
   "current_dynamic_memory_candidates": [
+    {
+      "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
     {
       "title": "Building always-on agents",
       "band": "krass",
@@ -48,17 +53,12 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "M 5.2 - State of Yap, Federated States of Micronesia",
+      "title": "GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
       "title": "M 5.2 - State of Yap, Federated States of Micronesia",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 4.6 - 102 km NNE of Hihifo, Tonga",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
