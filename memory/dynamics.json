@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-15T11:37:40Z",
+  "generated_at": "2026-11-15T11:51:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 31,
+    "dynamics": 32,
     "bands": {
       "krass": 2,
       "strong": 7,
-      "watch": 13,
-      "quiet": 9
+      "watch": 15,
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 15,
-      "quiet": 9
+      "watch": 17,
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T03:47:30+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -50,7 +50,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 149.01,
+      "age_days": 149.02,
       "topics": [
         "general"
       ],
@@ -107,7 +107,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:49:57+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -130,11 +130,36 @@
       "summary": "Claude CodeやCodexのようなAIコーディングツールが広がり、個人が手がけられるソフトウェアの規模が変わりつつある。米国の開発者Brennen Herbruck氏が2026年10月に書き始めたオープンソースの3D CAD「SolidCraft」は、その一例だ。公開から約5週間で正式版を58回リリースし、GitHubからのダウンロードは約150万回、ス..."
     },
     {
+      "title": "Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways",
+      "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-11-15T11:25:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: root",
+        "security high-signal: root"
+      ],
+      "summary": "Angreifer nutzten verkettete Lücken für Hintertüren auf Check-Point-Gateways. In einem Fall löschten sie Daten auf einem ESXi-Host. Patches sind verfügbar."
+    },
+    {
       "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:38:44+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "security"
       ],
@@ -158,7 +183,7 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-15T08:10:46+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -180,36 +205,11 @@
       "summary": ""
     },
     {
-      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
-      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-15T11:30:03+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
       "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T08:36:48+00:00",
-      "age_days": 27.13,
+      "age_days": 27.14,
       "topics": [
         "ai"
       ],
@@ -237,7 +237,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 149.09,
+      "age_days": 149.1,
       "topics": [],
       "dynamics_score": 19.9,
       "raw_band": "krass",
@@ -263,7 +263,7 @@
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-15T10:14:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security",
@@ -289,7 +289,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T04:16:58.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -314,7 +314,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T04:29:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -334,11 +334,63 @@
       "summary": ""
     },
     {
+      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-15T11:30:03+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways",
+      "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 149.18,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.12,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.47,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.47",
+        "high terms: root",
+        "aging penalty -8.0 for 149.2d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-15T08:10:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -365,7 +417,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T07:58:09.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -390,7 +442,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T05:31:02.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -415,7 +467,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T08:10:46+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -439,7 +491,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T05:34:32+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -463,7 +515,7 @@
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T00:38:44+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -487,7 +539,7 @@
       "url": "https://www.yomiuri.co.jp/science/20261112-GYT1T00160/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T07:28:59+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -511,7 +563,7 @@
       "url": "https://clivelab.jp/blogs/news/motherboard-rarely-fails",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T09:40:32+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -535,7 +587,7 @@
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T04:23:12+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -559,7 +611,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 63.29,
+      "age_days": 63.3,
       "topics": [
         "general"
       ],
@@ -580,36 +632,11 @@
       "summary": ""
     },
     {
-      "title": "Warten auf Sicherheitspatch: Krypto-Miner-Attacken auf N-central beobachtet",
-      "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 149.17,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 149.2d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp",
       "url": "https://news.jp/i/1494496378441958289",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:01:19+00:00",
-      "age_days": 57.4,
+      "age_days": 57.41,
       "topics": [
         "general"
       ],
@@ -634,7 +661,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T01:33:21+00:00",
-      "age_days": 6.42,
+      "age_days": 6.43,
       "topics": [
         "ai"
       ],
@@ -660,7 +687,7 @@
       "url": "https://news.jp/i/1494496378441958289",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T02:57:16+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -684,7 +711,7 @@
       "url": "https://www.yomiuri.co.jp/science/20261112-GYT1T00160/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T02:53:25+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -708,7 +735,7 @@
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T18:54:45+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -732,7 +759,7 @@
       "url": "https://p2ptk.org/notes/5679",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T13:32:42+00:00",
-      "age_days": 1.92,
+      "age_days": 1.93,
       "topics": [
         "general"
       ],
@@ -756,7 +783,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:39:10+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -781,7 +808,7 @@
       "url": "https://clivelab.jp/blogs/news/motherboard-rarely-fails",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T07:57:47+00:00",
-      "age_days": 1.15,
+      "age_days": 1.16,
       "topics": [
         "ai"
       ],
