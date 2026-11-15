@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T07:58:43+00:00_
+_Generiert: 2026-11-15T08:10:42+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+13 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -88,6 +88,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0)
   - Kurz: Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost 📱🐭 No we are ...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **tradermonty/claude-trading-skills** — Score 20, observation — [Quelle](https://github.com/tradermonty/claude-trading-skills)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-15T08:10:06+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); GitHub Trending (+2.0)
+  - Kurz: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. https://tradermonty.github.io/claude-trading-skills/ Claude Trading Skills Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constraine…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -109,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 92 km NW of Houma, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-15T07:58:09.040+00:00`, fetched `2026-11-15T08:10:06+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-15 07:36:37 UTC 2026-11-15 07:36:37 UTC at epicenter Location 20.589°S 175.935°W Depth 177.52 km (110.31 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.5 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-15T05:31:02.040+00:00`, fetched `2026-11-15T05:34:05+00:00`

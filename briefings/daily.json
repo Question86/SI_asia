@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T07:58:46+00:00",
-  "today_file_total": 11,
+  "generated_at": "2026-11-15T08:10:46+00:00",
+  "today_file_total": 13,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -53,6 +53,29 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
+      "key": "github_repo:tradermonty/claude-trading-skills",
+      "title": "tradermonty/claude-trading-skills",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/tradermonty/claude-trading-skills"
+      ],
+      "finding_count": 1,
+      "max_score": 20,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.1,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
       "key": "domain:kawarimidoll.com",
       "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
       "sources": [
@@ -74,6 +97,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "earthquake:m 4.7 - 92 km nw of houma, tonga:4.7",
+      "title": "M 4.7 - 92 km NW of Houma, Tonga",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 4.8 - 19 km nw of albardón, argentina:4.8",
