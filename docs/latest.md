@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T13:55:47+00:00_
+_Generiert: 2026-11-15T14:01:53+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); GitHub Trending (+2.0)
   - Kurz: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. https://tradermonty.github.io/claude-trading-skills/ Claude Trading Skills Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constraine…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.5 - 9 km E of Union, Philippines** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-15T13:58:58.042+00:00`, fetched `2026-11-15T14:01:24+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - VI DYFI? - IV Time 2026-11-15 13:41:35 UTC 2026-11-15 13:41:35 UTC at epicenter Location 9.760°N 126.200°E Depth 9.97 km (6.20 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
