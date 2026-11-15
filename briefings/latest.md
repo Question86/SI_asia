@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T04:17:53+00:00_
+_Generiert: 2026-11-15T04:28:57+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+8 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.8 - 19 km NW of Albardón, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-15T04:16:58.040+00:00`, fetched `2026-11-15T04:28:24+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-15 03:59:59 UTC 2026-11-15 03:59:59 UTC at epicenter Location 31.322°S 68.682°W Depth 108.94 km (67.69 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services** — Score 11, observation — [Quelle](https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-14T15:38:44+00:00`, fetched `2026-11-15T02:09:12+00:00`
