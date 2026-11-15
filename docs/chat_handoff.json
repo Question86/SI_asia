@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-15T03:30:33+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-11-15T03:47:27+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 2,
+    "medium": 3,
     "observe": 4
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "Updates | ReliefWeb",
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "section": "medium"
+    },
+    {
+      "title": "個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T23:49:57+00:00",
+      "relevance_score": 23,
+      "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
+      "summary": "Claude CodeやCodexのようなAIコーディングツールが広がり、個人が手がけられるソフトウェアの規模が変わりつつある。米国の開発者Brennen Herbruck氏が2026年10月に書き始めたオープンソースの3D CAD「SolidCraft」は、その一例だ。公開から約5週間で正式版を58回リリースし、GitHubからのダウンロードは約150万回、ス...",
       "section": "medium"
     },
     {
@@ -80,149 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=36.51.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
-        "url": "https://kawarimidoll.com/posts/202610182/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T09:22:22+00:00",
-        "age_days": 148.76,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 36.51,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 6.83,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 6.83",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 148.8d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
-        "url": "https://kawarimidoll.com/posts/202610182/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-19T08:36:48+00:00",
-        "age_days": 26.79,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 30.97,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -2.0 for 26.8d old signal"
-        ],
-        "summary": "Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost 📱🐭 No we are ..."
-      },
-      {
-        "title": "Updates | ReliefWeb",
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-06-19T11:28:55+00:00",
-        "age_days": 148.67,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 148.7d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Updates | ReliefWeb",
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-15T02:24:34+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "ai",
-          "macro",
-          "disaster"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: earthquake",
-          "high terms: rce",
-          "security high-signal: rce",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
-      },
-      {
-        "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
-        "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-14T15:38:44+00:00",
-        "age_days": 0.5,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます"
-      }
-    ]
-  }
+  ]
 }
