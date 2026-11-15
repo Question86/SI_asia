@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-15T08:23:16+00:00_
+_Generiert: 2026-11-15T08:30:33+00:00_
 
 ## tradermonty/claude-trading-skills
 
