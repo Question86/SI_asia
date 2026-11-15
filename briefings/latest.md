@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T13:46:53+00:00_
+_Generiert: 2026-11-15T13:55:47+00:00_
 
 ## Kurzlage
 
@@ -49,6 +49,10 @@ _Generiert: 2026-11-15T13:46:53+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI&gt;=VII).
+- **USGS earthquake M5.5 - 9 km E of Union, Philippines** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek)
+  - Quelle: USGS
+  - Zeit: `2026-11-15T13:41:35+00:00`
+  - Kurz: M5.5 - 9 km E of Union, Philippines. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
