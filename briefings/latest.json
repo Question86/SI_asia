@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-15T03:20:00+00:00",
-  "run_id": "2026-11-15T03:20:00+00:00",
+  "generated_at": "2026-11-15T03:30:33+00:00",
+  "run_id": "2026-11-15T03:30:33+00:00",
   "date": "2026-11-15",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 6
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 6,
     "displayed_findings": 6,
     "high": 0,
     "medium": 2,
     "observe": 4,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -341,30 +341,15 @@
       "id": "97b6e7e3f6cf96bd4761"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "米国はトランピズムを「なかったこと」にはできない » p2ptk[.]org",
-      "url": "https://p2ptk.org/notes/5679",
-      "source": "Hatena Bookmark Hotentry IT",
+      "source_id": "cert_eu_security_advisories",
+      "source_name": "CERT-EU Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-13T13:32:42+00:00",
-      "fetched_at": "2026-11-15T03:19:30+00:00",
-      "summary": "以下の文章は、コリイ・ドクトロウの「America cannot undo Trumpism」という記事を翻訳したものである。 Pluralistic 真のカーニー主義は、いまだかつて一度も試されたことがない。カナダのマーク・カーニー首相はダボスに乗り込み、旧来の秩序に「断絶」が生じたと宣言した（そして、その旧秩序がそもそも大したもので...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "97b6e7e3f6cf96bd4761"
+      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
