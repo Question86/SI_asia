@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T21:01:36+00:00",
-  "today_file_total": 26,
+  "generated_at": "2026-11-15T21:15:55+00:00",
+  "today_file_total": 28,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -97,6 +97,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:indonesia:5.0",
+      "title": "M 5.0 - 256 km SSE of Ambon, Indonesia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:philippines:5.5",
@@ -217,6 +242,30 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:speakerdeck.com",
+      "title": "こんなに変わった！ AWSネットワークの常識",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
+        "https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.2,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -367,29 +416,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:speakerdeck.com",
-      "title": "こんなに変わった！ AWSネットワークの常識",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:muse-taxin-dev",
       "title": "Museに雑に投げて頭を空けておく - taxin.dev",
       "sources": [
@@ -446,29 +472,6 @@
       ],
       "urls": [
         "https://news.jp/i/1494496378441958289"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.yomiuri.co.jp/science/20261112-gyt1t00160/",
-      "title": "「人工知能学会」で「おじさん構文」の研究発表、問われる「若者に絵文字を使っていいのか」問題…ＡＩとの関係は",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.yomiuri.co.jp/science/20261112-GYT1T00160/"
       ],
       "finding_count": 1,
       "max_score": 5,

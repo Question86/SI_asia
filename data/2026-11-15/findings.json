@@ -179,6 +179,43 @@
     "id": "dd81e870313ceb5b663b"
   },
   {
+    "title": "M 5.0 - 256 km SSE of Ambon, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-15T21:09:03.040+00:00",
+    "fetched_at": "2026-11-15T21:15:11+00:00",
+    "summary": "Time 2026-11-15 20:51:56 UTC 2026-11-15 20:51:56 UTC at epicenter Location 5.945°S 128.752°E Depth 305.99 km (190.13 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5d48f908db42cea7462d"
+  },
+  {
     "title": "M 5.1 - 169 km NW of Gorontalo, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -526,6 +563,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a9731f0a7b2822716759"
+  },
+  {
+    "title": "さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH",
+    "url": "https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-15T11:08:12+00:00",
+    "fetched_at": "2026-11-15T21:15:11+00:00",
+    "summary": "自宅鯖でありがちな、「SSH鍵をサーバごとに分けると管理が面倒。でも、同じ鍵をあちこちで使い回すのも怖いよね」という悩み。コーディングエージェントの登場によって、この問題はさらに大きくなりました。人間が使っているSSH鍵をそのままエージェントに渡すわけにもいかないし、かといって専用の鍵を増やして管理する…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0c6e170c59a5daed3e6e"
   },
   {
     "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
