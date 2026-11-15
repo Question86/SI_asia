@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T12:25:01+00:00",
-  "run_id": "2026-11-15T12:25:01+00:00",
+  "generated_at": "2026-11-15T12:35:40+00:00",
+  "run_id": "2026-11-15T12:35:40+00:00",
   "date": "2026-11-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 4,
-    "observe": 15,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -385,6 +385,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "209638498df70a3a646e"
+      },
+      {
+        "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
+        "url": "https://note.com/at_sushi_at/n/n2e6ea3453e37",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-15T09:51:50+00:00",
+        "fetched_at": "2026-11-15T12:35:09+00:00",
+        "summary": "1年前、私はAIをまだ舐めていたもちろんAIは当時からある程度のコード、というかほとんどのコードを書いてくれた。 それでも、ソフトウェアエンジニアとしての根本的な能力が足りてなかった。 保守性を考えない安直で重複したコード、勘違いによるミス、一部しか考慮していないことによる不完全な対応。 一部に限れば、...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bcd5ed35903e20dafdde"
       },
       {
         "title": "独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp",
@@ -892,6 +913,27 @@
       "id": "209638498df70a3a646e"
     },
     {
+      "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
+      "url": "https://note.com/at_sushi_at/n/n2e6ea3453e37",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-15T09:51:50+00:00",
+      "fetched_at": "2026-11-15T12:35:09+00:00",
+      "summary": "1年前、私はAIをまだ舐めていたもちろんAIは当時からある程度のコード、というかほとんどのコードを書いてくれた。 それでも、ソフトウェアエンジニアとしての根本的な能力が足りてなかった。 保守性を考えない安直で重複したコード、勘違いによるミス、一部しか考慮していないことによる不完全な対応。 一部に限れば、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bcd5ed35903e20dafdde"
+    },
+    {
       "title": "独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp",
       "url": "https://news.jp/i/1494496378441958289",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1039,7 +1081,29 @@
       "id": "97b6e7e3f6cf96bd4761"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
+      "url": "https://note.com/at_sushi_at/n/n2e6ea3453e37",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-15T09:51:50+00:00",
+      "fetched_at": "2026-11-15T12:35:09+00:00",
+      "summary": "1年前、私はAIをまだ舐めていたもちろんAIは当時からある程度のコード、というかほとんどのコードを書いてくれた。 それでも、ソフトウェアエンジニアとしての根本的な能力が足りてなかった。 保守性を考えない安直で重複したコード、勘違いによるミス、一部しか考慮していないことによる不完全な対応。 一部に限れば、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bcd5ed35903e20dafdde"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
