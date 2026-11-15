@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T19:50:26+00:00_
+_Generiert: 2026-11-15T19:56:34+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+26 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -164,4 +164,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Quellenfehler
 
 - `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f3434f1ff10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
