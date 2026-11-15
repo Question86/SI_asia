@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-15T21:22:22Z",
+  "generated_at": "2026-11-15T21:37:47Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 2,
       "strong": 10,
-      "watch": 24,
-      "quiet": 4
+      "watch": 23,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
       "strong": 10,
-      "watch": 26,
-      "quiet": 4
+      "watch": 25,
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T13:58:58.042+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -48,7 +48,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T03:47:30+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -75,7 +75,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 149.41,
+      "age_days": 149.42,
       "topics": [
         "general"
       ],
@@ -102,8 +102,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-15T19:25:55+00:00",
-      "age_days": 0.08,
+      "published_at": "2026-11-15T21:29:30+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -132,7 +132,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:49:57+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "ai",
         "macro"
@@ -159,7 +159,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-15T15:25:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -184,7 +184,7 @@
       "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-15T11:25:00.000+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -209,7 +209,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:38:44+00:00",
-      "age_days": 1.24,
+      "age_days": 1.25,
       "topics": [
         "security"
       ],
@@ -233,7 +233,7 @@
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T11:30:03+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -258,7 +258,7 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-15T08:10:46+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -284,7 +284,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T08:36:48+00:00",
-      "age_days": 27.53,
+      "age_days": 27.54,
       "topics": [
         "ai"
       ],
@@ -312,7 +312,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 149.5,
+      "age_days": 149.51,
       "topics": [],
       "dynamics_score": 19.9,
       "raw_band": "krass",
@@ -334,37 +334,11 @@
       "summary": ""
     },
     {
-      "title": "M 5.0 - 256 km SSE of Ambon, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 78.53,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.59,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 78.5d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Warten auf Sicherheitspatch: Krypto-Miner-Attacken auf N-central beobachtet",
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-15T10:14:00.000+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "security",
@@ -390,7 +364,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T04:16:58.040+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "disaster"
       ],
@@ -415,7 +389,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T04:29:00+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -439,7 +413,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:38:35+00:00",
-      "age_days": 38.53,
+      "age_days": 38.54,
       "topics": [
         "general"
       ],
@@ -464,7 +438,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T21:09:03.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -488,7 +462,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T15:59:12.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -512,7 +486,7 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-15T08:10:06+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai",
         "macro"
@@ -539,7 +513,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T18:08:18.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -564,7 +538,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T07:58:09.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -589,7 +563,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T05:31:02.040+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -614,7 +588,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T18:12:45+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -638,7 +612,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T08:10:46+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -662,7 +636,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T05:34:32+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -682,11 +656,36 @@
       "summary": ""
     },
     {
+      "title": "M 5.0 - 256 km SSE of Ambon, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyg6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-29T08:36:29+00:00",
+      "age_days": 78.54,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 78.5d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.1 - 169 km NW of Gorontalo, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T16:56:25+00:00",
-      "age_days": 72.18,
+      "age_days": 72.2,
       "topics": [
         "general"
       ],
@@ -711,7 +710,7 @@
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T00:38:44+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "general"
       ],
@@ -735,7 +734,7 @@
       "url": "https://taxin.dev/articles/2026-11-15",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T17:37:29+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -759,7 +758,7 @@
       "url": "https://www.yomiuri.co.jp/science/20261112-GYT1T00160/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T07:28:59+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -783,7 +782,7 @@
       "url": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T11:59:14+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -807,7 +806,7 @@
       "url": "https://clivelab.jp/blogs/news/motherboard-rarely-fails",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T09:40:32+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -831,7 +830,7 @@
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T04:23:12+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "general"
       ],
@@ -855,7 +854,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 149.57,
+      "age_days": 149.58,
       "topics": [
         "general"
       ],
@@ -877,37 +876,11 @@
       "summary": ""
     },
     {
-      "title": "こんなに変わった！ AWSネットワークの常識",
-      "url": "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 149.81,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.71,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 3.83,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 3.83",
-        "aging penalty -8.0 for 149.8d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 63.69,
+      "age_days": 63.7,
       "topics": [
         "general"
       ],
@@ -932,7 +905,7 @@
       "url": "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T12:30:54+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -956,7 +929,7 @@
       "url": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:23:09+00:00",
-      "age_days": 1.25,
+      "age_days": 1.26,
       "topics": [
         "general"
       ],
@@ -976,11 +949,37 @@
       "summary": "みんな自作 FeedReader 作っているなぁ、でも今使っている Inoreader (今は亡き、安価な年額19.99USDの starter planを使い続けている) でいいや、と思っていたのだが、結局細かいあれこれをブラウザ拡張の Tampermonkey などでちまちま修正していて、ちょっと魔がさしたので作ってみた。 30行ぐらい雑な仕様を書いて Op..."
     },
     {
+      "title": "こんなに変わった！ AWSネットワークの常識",
+      "url": "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 149.82,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 7.05,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.96,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 0.96",
+        "aging penalty -8.0 for 149.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
       "url": "https://note.com/at_sushi_at/n/n2e6ea3453e37",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 76.11,
+      "age_days": 76.12,
       "topics": [
         "general"
       ],
@@ -1005,7 +1004,7 @@
       "url": "https://news.jp/i/1494496378441958289",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:01:19+00:00",
-      "age_days": 57.81,
+      "age_days": 57.82,
       "topics": [
         "general"
       ],
