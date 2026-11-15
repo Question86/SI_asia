@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-15T05:28:20+00:00_
+_Generated: 2026-11-15T05:34:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `10`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-15T04:50:17+00:00`
+- published: `2026-11-15T05:34:20+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -43,18 +43,18 @@ _Generated: 2026-11-15T05:28:20+00:00_
 - url: https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/
 - summary: AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます
 
-### 6. 独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp
+### 6. M 5.5 - Fiji region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-15T05:31:02.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca
+- summary: Time 2026-11-15 05:15:02 UTC 2026-11-15 05:15:02 UTC at epicenter Location 19.555°S 177.822°W Depth 469.88 km (291.97 mi)
+
+### 7. 独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-11-15T02:57:16+00:00`
 - url: https://news.jp/i/1494496378441958289
 - summary: 【ベルリン共同】ドイツ公共放送WDRは14日、米IT大手マイクロソフトの主力業務ソフトの大規模障害による影響で、西部ブリュールのテーマパーク内にあるプールの利用者15人が体調不良を訴えたと報じた。障害により安全管理システムの警報メールが担当者に届かず、塩素を注入する装置の不具合に気付かず水中塩素濃度が著し...
-
-### 7. NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-11-14T23:39:10+00:00`
-- url: https://www.itmedia.co.jp/news/article/2611/15/2000003207/
-- summary: フアン氏は、中国の情報機関との関係が疑われる女性との交際が報じられたことを受け、11月12日にCEO、社長、取締役を退任した。NVIDIAは最高財務責任者（CFO）のコレット・クレス氏を暫定CEOに任命し、社内外から後任を探している。 署名運動の主催者は、フアン氏が十分な弁明の機会を与えられずに退任に追い込まれた可...
 
 END OF DOCUMENT

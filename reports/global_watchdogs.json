@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T05:28:23+00:00",
+  "generated_at": "2026-11-15T05:34:32+00:00",
   "sections": {
     "global_security": [
       {
@@ -91,6 +91,21 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577060",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - Fiji region",
+        "summary": "M5.5 - Fiji region. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
+        "published_at": "2026-11-15T05:15:02+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
