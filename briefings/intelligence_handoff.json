@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-15T03:52:31Z",
+  "generated_at": "2026-11-15T04:23:21Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Updates | ReliefWeb” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 148.68,
+      "age_days": 148.7,
       "topics": [
         "general"
       ],
@@ -42,8 +42,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-15T02:24:34+00:00",
-      "age_days": 0.06,
+      "published_at": "2026-11-15T04:17:42+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -72,7 +72,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:49:57+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -99,7 +99,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T03:47:30+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -109,12 +109,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "single-source AI hype brake -8.0",
         "krass gate: single-source non-official/non-identity signal capped",
         "single-source AI cap enforced after phrase recheck"
@@ -126,7 +126,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:38:44+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -150,7 +150,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 148.77,
+      "age_days": 148.79,
       "topics": [],
       "dynamics_score": 19.9,
       "raw_band": "extreme",
@@ -159,12 +159,12 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.4,
+      "baseline_z_hint": 5.53,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 6.40",
+        "baseline z_hint 5.53",
         "AXI0M/User-Yps identity hit",
         "aging penalty -8.0 for 148.8d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
@@ -177,7 +177,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T08:36:48+00:00",
-      "age_days": 26.8,
+      "age_days": 26.82,
       "topics": [
         "ai"
       ],
@@ -205,23 +205,23 @@
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 62.96,
+      "age_days": 62.98,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.29,
+      "dynamics_score": 15.85,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.9,
+      "baseline_z_hint": 3.5,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.90",
+        "baseline z_hint 3.50",
         "aging penalty -8.0 for 63.0d old signal"
       ],
       "summary": ""
@@ -231,23 +231,23 @@
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T00:38:44+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.56,
+      "dynamics_score": 15.41,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.42,
+      "baseline_z_hint": 1.28,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.42"
+        "baseline z_hint 1.28"
       ],
       "summary": ""
     },
@@ -256,7 +256,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T01:33:21+00:00",
-      "age_days": 6.1,
+      "age_days": 6.12,
       "topics": [
         "ai"
       ],
@@ -282,7 +282,7 @@
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T18:54:45+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -306,7 +306,7 @@
       "url": "https://p2ptk.org/notes/5679",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T13:32:42+00:00",
-      "age_days": 1.6,
+      "age_days": 1.62,
       "topics": [
         "general"
       ],
