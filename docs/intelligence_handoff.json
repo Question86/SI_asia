@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-15T14:36:50Z",
+  "generated_at": "2026-11-15T15:10:49Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T13:58:58.042+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -40,7 +40,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T03:47:30+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -67,7 +67,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 149.13,
+      "age_days": 149.15,
       "topics": [
         "general"
       ],
@@ -85,7 +85,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 149.1d old signal",
+        "aging penalty -8.0 for 149.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -95,7 +95,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-15T14:29:56+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro",
@@ -124,7 +124,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:49:57+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "macro"
@@ -151,7 +151,7 @@
       "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-15T11:25:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -176,7 +176,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:38:44+00:00",
-      "age_days": 0.96,
+      "age_days": 0.98,
       "topics": [
         "security"
       ],
@@ -200,7 +200,7 @@
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T11:30:03+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -225,7 +225,7 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-15T08:10:46+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -251,7 +251,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T08:36:48+00:00",
-      "age_days": 27.25,
+      "age_days": 27.27,
       "topics": [
         "ai"
       ],
@@ -279,7 +279,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 149.22,
+      "age_days": 149.24,
       "topics": [],
       "dynamics_score": 19.9,
       "raw_band": "krass",
@@ -305,7 +305,7 @@
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-15T10:14:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security",
