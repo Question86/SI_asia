@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T14:01:53+00:00_
+_Generiert: 2026-11-15T14:30:06+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-11-15T14:01:53+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:9.971km) in Philippines 15/11/2026 13:41 UTC, 30 thousand in MMI VI.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577487)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:9.971km) in Philippines 15/11/2026 13:41 UTC, 30 thousand in MMI VI.
 - **GDACS: Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001350)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,14 +49,10 @@ _Generiert: 2026-11-15T14:01:53+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577060)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI&gt;=VII).
 - **USGS earthquake M5.5 - 9 km E of Union, Philippines** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek)
   - Quelle: USGS
   - Zeit: `2026-11-15T13:41:35+00:00`
-  - Kurz: M5.5 - 9 km E of Union, Philippines. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 9 km E of Union, Philippines. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-15T13:46:42+00:00`, fetched `2026-11-15T13:46:27+00:00`
+  - Zeit: published `2026-11-15T14:29:56+00:00`, fetched `2026-11-15T14:29:40+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
