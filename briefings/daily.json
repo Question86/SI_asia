@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:20:14+00:00",
+  "generated_at": "2026-11-15T23:31:27+00:00",
   "today_file_total": 34,
   "current_clusters": [
     {
@@ -442,29 +442,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "url:https://www.yomiuri.co.jp/world/20261115-gyt1t00190/",
-      "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.yomiuri.co.jp/world/20261115-GYT1T00190/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:speakerdeck.com",
       "title": "こんなに変わった！ AWSネットワークの常識",
       "sources": [
@@ -476,6 +453,30 @@
       "urls": [
         "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
         "https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:p2ptk.org",
+      "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://p2ptk.org/monopoly/5681",
+        "https://p2ptk.org/notes/5679"
       ],
       "finding_count": 2,
       "max_score": 5,
