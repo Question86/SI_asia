@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-15T05:12:05Z",
+  "generated_at": "2026-11-15T06:17:08Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T03:47:30+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -42,7 +42,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 148.74,
+      "age_days": 148.78,
       "topics": [
         "general"
       ],
@@ -60,7 +60,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 148.7d old signal",
+        "aging penalty -8.0 for 148.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -69,7 +69,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-15T04:50:17+00:00",
+      "published_at": "2026-11-15T05:49:53+00:00",
       "age_days": 0.02,
       "topics": [
         "ai",
@@ -99,7 +99,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:49:57+00:00",
-      "age_days": 0.22,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -126,7 +126,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:38:44+00:00",
-      "age_days": 0.56,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -149,35 +149,8 @@
       "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 148.83,
-      "topics": [],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.93,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.93",
-        "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 148.8d old signal",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "stale single-source cap after 30d: no current exploitation phrase"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
-      "url": "https://kawarimidoll.com/posts/202610182/",
-      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T08:36:48+00:00",
-      "age_days": 26.86,
+      "age_days": 26.9,
       "topics": [
         "ai"
       ],
@@ -201,11 +174,37 @@
       "summary": "Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost 📱🐭 No we are ..."
     },
     {
+      "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202610182/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T09:22:22+00:00",
+      "age_days": 148.87,
+      "topics": [],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "aging penalty -8.0 for 148.9d old signal",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "stale single-source cap after 30d: no current exploitation phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.8 - 19 km NW of Albardón, Argentina",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T04:16:58.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -230,7 +229,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T04:29:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -250,69 +249,43 @@
       "summary": ""
     },
     {
-      "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
-      "url": "https://p2ptk.org/monopoly/5681",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-15T00:38:44+00:00",
-      "age_days": 0.19,
+      "title": "M 5.5 - Fiji region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-15T05:31:02.040+00:00",
+      "age_days": 0.03,
       "topics": [
-        "general"
+        "disaster"
       ],
-      "dynamics_score": 15.08,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.98,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.98"
+        "early terms: earthquake",
+        "high terms: 9.8"
       ],
-      "summary": ""
+      "summary": "Time 2026-11-15 05:15:02 UTC 2026-11-15 05:15:02 UTC at epicenter Location 19.555°S 177.822°W Depth 469.88 km (291.97 mi)"
     },
     {
-      "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
-      "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 63.02,
+      "title": "M 5.5 - Fiji region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-15T05:34:32+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.53,
+      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.3,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.30",
-        "aging penalty -8.0 for 63.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp",
-      "url": "https://news.jp/i/1494496378441958289",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-19T02:01:19+00:00",
-      "age_days": 57.13,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
@@ -320,8 +293,32 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
+      "url": "https://p2ptk.org/monopoly/5681",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-15T00:38:44+00:00",
+      "age_days": 0.24,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.82,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.74,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 57.1d old signal"
+        "baseline z_hint 0.74"
       ],
       "summary": ""
     }
@@ -336,8 +333,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 6,
-      "quiet": 1
+      "watch": 7
     }
   }
 }
