@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T04:50:27+00:00",
-  "run_id": "2026-11-15T04:50:27+00:00",
+  "generated_at": "2026-11-15T04:59:34+00:00",
+  "run_id": "2026-11-15T04:59:34+00:00",
   "date": "2026-11-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 3,
-    "observe": 5,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -205,6 +205,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "30be414e2b6345de4564"
+      },
+      {
+        "title": "独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp",
+        "url": "https://news.jp/i/1494496378441958289",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-15T02:57:16+00:00",
+        "fetched_at": "2026-11-15T04:59:03+00:00",
+        "summary": "【ベルリン共同】ドイツ公共放送WDRは14日、米IT大手マイクロソフトの主力業務ソフトの大規模障害による影響で、西部ブリュールのテーマパーク内にあるプールの利用者15人が体調不良を訴えたと報じた。障害により安全管理システムの警報メールが担当者に届かず、塩素を注入する装置の不具合に気付かず水中塩素濃度が著し...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "627f1b54b130734ac3f3"
       },
       {
         "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
@@ -448,6 +469,27 @@
       "id": "30be414e2b6345de4564"
     },
     {
+      "title": "独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp",
+      "url": "https://news.jp/i/1494496378441958289",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-15T02:57:16+00:00",
+      "fetched_at": "2026-11-15T04:59:03+00:00",
+      "summary": "【ベルリン共同】ドイツ公共放送WDRは14日、米IT大手マイクロソフトの主力業務ソフトの大規模障害による影響で、西部ブリュールのテーマパーク内にあるプールの利用者15人が体調不良を訴えたと報じた。障害により安全管理システムの警報メールが担当者に届かず、塩素を注入する装置の不具合に気付かず水中塩素濃度が著し...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "627f1b54b130734ac3f3"
+    },
+    {
       "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
       "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -513,46 +555,25 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-15T04:50:17+00:00",
-      "fetched_at": "2026-11-15T04:50:01+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp",
+      "url": "https://news.jp/i/1494496378441958289",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-15T02:57:16+00:00",
+      "fetched_at": "2026-11-15T04:59:03+00:00",
+      "summary": "【ベルリン共同】ドイツ公共放送WDRは14日、米IT大手マイクロソフトの主力業務ソフトの大規模障害による影響で、西部ブリュールのテーマパーク内にあるプールの利用者15人が体調不良を訴えたと報じた。障害により安全管理システムの警報メールが担当者に届かず、塩素を注入する装置の不具合に気付かず水中塩素濃度が著し...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "36cc8c78588442156ba9"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "627f1b54b130734ac3f3"
     }
   ],
   "source_errors": [],
