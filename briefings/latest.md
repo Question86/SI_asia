@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T06:06:38+00:00_
+_Generiert: 2026-11-15T06:24:34+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,6 @@ _Generiert: 2026-11-15T06:06:38+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI&gt;=VII).
-- **USGS earthquake M5.5 - Fiji region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca)
-  - Quelle: USGS
-  - Zeit: `2026-11-15T05:15:02+00:00`
-  - Kurz: M5.5 - Fiji region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
