@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T23:13:06+00:00",
-  "run_id": "2026-11-15T23:13:06+00:00",
+  "generated_at": "2026-11-15T23:20:10+00:00",
+  "run_id": "2026-11-15T23:20:10+00:00",
   "date": "2026-11-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
     "medium": 7,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -666,6 +666,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "209638498df70a3a646e"
+      },
+      {
+        "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」",
+        "url": "https://www.yomiuri.co.jp/world/20261115-GYT1T00190/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-15T14:50:18+00:00",
+        "fetched_at": "2026-11-15T23:19:42+00:00",
+        "summary": "【読売新聞】 【ニューデリー＝青木佐知子】世界各地で発生した米マイクロソフトのサービスの大規模障害を巡り、サイバー安全保障の観点から独自の業務システムを導入していたインドの政府機関では、目立った影響や混乱はなかった。印メディアは「世",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2164e1fcdf1d438b8ff1"
       },
       {
         "title": "こんなに変わった！ AWSネットワークの常識",
@@ -1559,6 +1580,27 @@
       "id": "209638498df70a3a646e"
     },
     {
+      "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」",
+      "url": "https://www.yomiuri.co.jp/world/20261115-GYT1T00190/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-15T14:50:18+00:00",
+      "fetched_at": "2026-11-15T23:19:42+00:00",
+      "summary": "【読売新聞】 【ニューデリー＝青木佐知子】世界各地で発生した米マイクロソフトのサービスの大規模障害を巡り、サイバー安全保障の観点から独自の業務システムを導入していたインドの政府機関では、目立った影響や混乱はなかった。印メディアは「世",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2164e1fcdf1d438b8ff1"
+    },
+    {
       "title": "こんなに変わった！ AWSネットワークの常識",
       "url": "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1813,13 +1855,13 @@
   ],
   "new_findings": [
     {
-      "title": "俺、8210円で買える「透明レトロカメラ」に夢中なんだ。これ面白いんだぜ！ (1/5)",
-      "url": "https://ascii.jp/elem/000/004/451/4451322/",
+      "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」",
+      "url": "https://www.yomiuri.co.jp/world/20261115-GYT1T00190/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-15T12:22:19+00:00",
-      "fetched_at": "2026-11-15T23:12:37+00:00",
-      "summary": "スマホがあれば、誰でも簡単に綺麗な写真が撮れて、すぐに画像を確認できます。ですが、この作業が当たり前すぎて、ちょっと退屈さを感じていませんか？ そんな現代の写真撮影に、強い未体験感と新鮮な驚きを与えてくれるユニークなデバイスが登場しました。ライティング機材で知られるGodoxの「Godox C100」です。 実売...",
+      "published_at": "2026-11-15T14:50:18+00:00",
+      "fetched_at": "2026-11-15T23:19:42+00:00",
+      "summary": "【読売新聞】 【ニューデリー＝青木佐知子】世界各地で発生した米マイクロソフトのサービスの大規模障害を巡り、サイバー安全保障の観点から独自の業務システムを導入していたインドの政府機関では、目立った影響や混乱はなかった。印メディアは「世",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1831,7 +1873,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2ca1d172b3a57bc268af"
+      "id": "2164e1fcdf1d438b8ff1"
     }
   ],
   "source_errors": [],
