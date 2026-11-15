@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-15T17:58:36+00:00_
+_Generated: 2026-11-15T18:12:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-15T17:43:13+00:00`
+- published: `2026-11-15T18:12:32+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-15T17:58:36+00:00_
 - url: https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/
 - summary: AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます
 
-### 7. M 4.7 - 92 km NW of Houma, Tonga
+### 7. M 5.0 - 74 km N of Pārūn, Afghanistan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-15T18:08:18.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh
+- summary: Time 2026-11-15 17:48:36 UTC 2026-11-15 17:48:36 UTC at epicenter Location 36.095°N 70.950°E Depth 100.73 km (62.59 mi)
+
+### 8. M 4.7 - 92 km NW of Houma, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-15T07:58:09.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3
 - summary: Time 2026-11-15 07:36:37 UTC 2026-11-15 07:36:37 UTC at epicenter Location 20.589°S 175.935°W Depth 177.52 km (110.31 mi)
-
-### 8. M 5.5 - Fiji region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-15T05:31:02.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca
-- summary: Time 2026-11-15 05:15:02 UTC 2026-11-15 05:15:02 UTC at epicenter Location 19.555°S 177.822°W Depth 469.88 km (291.97 mi)
 
 END OF DOCUMENT

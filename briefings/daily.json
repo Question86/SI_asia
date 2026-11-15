@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T17:58:38+00:00",
-  "today_file_total": 25,
+  "generated_at": "2026-11-15T18:12:45+00:00",
+  "today_file_total": 26,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -142,6 +142,31 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 17.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:m 5.0 - 74 km n of pārūn, afghanistan:5.0",
+      "title": "M 5.0 - 74 km N of Pārūn, Afghanistan",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -444,29 +469,6 @@
       ],
       "urls": [
         "https://www.yomiuri.co.jp/science/20261112-GYT1T00160/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:nvidia-ceo",
-      "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/news/article/2611/15/2000003207/"
       ],
       "finding_count": 1,
       "max_score": 5,
