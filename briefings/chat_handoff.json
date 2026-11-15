@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-15T01:59:50+00:00",
+  "generated_at": "2026-11-15T02:09:38+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 2,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 2,
-    "observe": 1
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-15T01:16:49+00:00",
+      "published_at": "2026-11-15T02:09:28+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -33,6 +33,16 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "summary": "Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS auto…",
       "section": "medium"
+    },
+    {
+      "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T15:38:44+00:00",
+      "relevance_score": 11,
+      "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
+      "summary": "AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます",
+      "section": "observe"
     },
     {
       "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",

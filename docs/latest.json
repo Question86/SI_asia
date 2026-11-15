@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T01:59:50+00:00",
-  "run_id": "2026-11-15T01:59:50+00:00",
+  "generated_at": "2026-11-15T02:09:38+00:00",
+  "run_id": "2026-11-15T02:09:38+00:00",
   "date": "2026-11-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 3
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 2,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 2,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-15T01:16:49+00:00",
-        "fetched_at": "2026-11-15T01:16:34+00:00",
+        "published_at": "2026-11-15T02:09:28+00:00",
+        "fetched_at": "2026-11-15T02:09:12+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e7b9d4719fab33c76e7c"
+        "id": "290fda2a1fdc906c508e"
       },
       {
         "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
@@ -100,6 +100,28 @@
     ],
     "observe": [
       {
+        "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
+        "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-14T15:38:44+00:00",
+        "fetched_at": "2026-11-15T02:09:12+00:00",
+        "summary": "AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "30be414e2b6345de4564"
+      },
+      {
         "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
         "url": "https://p2ptk.org/monopoly/5681",
         "source": "Hatena Bookmark Hotentry IT",
@@ -128,8 +150,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-15T01:16:49+00:00",
-      "fetched_at": "2026-11-15T01:16:34+00:00",
+      "published_at": "2026-11-15T02:09:28+00:00",
+      "fetched_at": "2026-11-15T02:09:12+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -163,7 +185,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e7b9d4719fab33c76e7c"
+      "id": "290fda2a1fdc906c508e"
     },
     {
       "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
@@ -192,6 +214,28 @@
       "id": "d4982840257cbde8bb6c"
     },
     {
+      "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
+      "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T15:38:44+00:00",
+      "fetched_at": "2026-11-15T02:09:12+00:00",
+      "summary": "AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "30be414e2b6345de4564"
+    },
+    {
       "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
@@ -213,7 +257,72 @@
       "id": "4d623407bce06714c253"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-15T02:09:28+00:00",
+      "fetched_at": "2026-11-15T02:09:12+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "290fda2a1fdc906c508e"
+    },
+    {
+      "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
+      "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T15:38:44+00:00",
+      "fetched_at": "2026-11-15T02:09:12+00:00",
+      "summary": "AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "30be414e2b6345de4564"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
