@@ -1,67 +1,11 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-14T23:56:06+00:00_
+_Generated: 2026-11-15T00:02:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `0`
 
 ## Top Signals
-
-### 1. Updates | ReliefWeb
-- source: ReliefWeb Mindanao Recovery Watch
-- score: `23`
-- published: `2026-11-14T23:16:57+00:00`
-- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
-- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
-
-### 2. Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO
-- source: Hatena Bookmark Hotentry IT
-- score: `23`
-- published: `2026-11-14T12:48:25+00:00`
-- url: https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/
-- summary: どうも！オペ部の西村祐二です！ S3 にフロントエンドを置き、Amazon Cognito のユーザープールでログインさせ、ID プールで AWS の一時認証情報を渡す。AWS で SPA を作るときによく見る構成です。この構成が攻撃用の AI エージェントにどう使われたかを、Datadog Security Labs が2026年11月9日の記事「On the hunt fo...
-
-### 3. M 4.9 - 7 km SE of Tagbina, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-14T16:24:10.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l
-- summary: Time 2026-11-14 16:04:21 UTC 2026-11-14 16:04:21 UTC at epicenter Location 8.406°N 126.217°E Depth 147.19 km (91.46 mi)
-
-### 4. M 5.2 - State of Yap, Federated States of Micronesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-14T07:08:03.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d
-- summary: Time 2026-11-14 06:52:26 UTC 2026-11-14 06:52:26 UTC at epicenter Location 9.703°N 147.363°E Depth 10.00 km (6.21 mi)
-
-### 5. 常時稼働エージェントの作り方（Claude公式ブログを資料化）
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-14T16:06:17+00:00`
-- url: https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata
-- summary: 以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents
-
-### 6. Building always-on agents
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-14T00:52:42+00:00`
-- url: https://claude.com/resources/articles/building-always-on-agents
-- summary: Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are statefu…
-
-### 7. Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-13T02:57:17+00:00`
-- url: https://forest.watch.impress.co.jp/docs/news/2156117.html
-- summary: Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
-
-### 8. The Home Repo Pattern
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-12T12:22:50+00:00`
-- url: https://www.aihero.dev/the-home-repo-pattern
-- summary: The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your…
 
 END OF DOCUMENT
