@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:30:08+00:00",
+  "generated_at": "2026-11-15T14:46:24+00:00",
   "sections": {
     "global_security": [
       {
@@ -111,21 +111,6 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577195",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - 9 km E of Union, Philippines",
-        "summary": "M5.5 - 9 km E of Union, Philippines. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek",
-        "published_at": "2026-11-15T13:41:35+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 470.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

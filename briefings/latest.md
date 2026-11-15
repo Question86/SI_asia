@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T14:30:06+00:00_
+_Generiert: 2026-11-15T14:46:21+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,6 @@ _Generiert: 2026-11-15T14:30:06+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.
-- **USGS earthquake M5.5 - 9 km E of Union, Philippines** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek)
-  - Quelle: USGS
-  - Zeit: `2026-11-15T13:41:35+00:00`
-  - Kurz: M5.5 - 9 km E of Union, Philippines. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
