@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T04:59:34+00:00",
-  "run_id": "2026-11-15T04:59:34+00:00",
+  "generated_at": "2026-11-15T05:06:48+00:00",
+  "run_id": "2026-11-15T05:06:48+00:00",
   "date": "2026-11-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 9,
     "displayed_findings": 9,
     "high": 0,
@@ -553,29 +553,7 @@
       "id": "97b6e7e3f6cf96bd4761"
     }
   ],
-  "new_findings": [
-    {
-      "title": "独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp",
-      "url": "https://news.jp/i/1494496378441958289",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-15T02:57:16+00:00",
-      "fetched_at": "2026-11-15T04:59:03+00:00",
-      "summary": "【ベルリン共同】ドイツ公共放送WDRは14日、米IT大手マイクロソフトの主力業務ソフトの大規模障害による影響で、西部ブリュールのテーマパーク内にあるプールの利用者15人が体調不良を訴えたと報じた。障害により安全管理システムの警報メールが担当者に届かず、塩素を注入する装置の不具合に気付かず水中塩素濃度が著し...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "627f1b54b130734ac3f3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
