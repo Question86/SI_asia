@@ -1,17 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-15T01:12:11Z",
+  "generated_at": "2026-11-15T01:52:09Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 4,
+    "dynamics": 6,
     "bands": {
+      "extreme": 1,
+      "krass": 1,
       "strong": 2,
-      "quiet": 2
+      "watch": 1,
+      "quiet": 1
     },
     "bands_after_gate_recheck": {
       "strong": 2,
-      "quiet": 2
+      "watch": 3,
+      "quiet": 1
     }
   },
   "top_dynamics": [
@@ -20,7 +24,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 148.57,
+      "age_days": 148.6,
       "topics": [
         "general"
       ],
@@ -31,12 +35,11 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 148.6d old signal",
@@ -48,8 +51,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-15T01:02:36+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-11-15T01:16:49+00:00",
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro",
@@ -74,26 +77,81 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
+      "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202610182/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T09:22:22+00:00",
+      "age_days": 148.69,
+      "topics": [],
+      "dynamics_score": 19.9,
+      "raw_band": "extreme",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 11.17,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 11.17",
+        "AXI0M/User-Yps identity hit",
+        "aging penalty -8.0 for 148.7d old signal",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "stale single-source cap after 30d: no current exploitation phrase"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202610182/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-19T08:36:48+00:00",
+      "age_days": 26.72,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "aging penalty -2.0 for 26.7d old signal",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost 📱🐭 No we are ..."
+    },
+    {
       "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T00:38:44+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -102,7 +160,7 @@
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T18:54:45+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
