@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-15T22:52:32+00:00_
+_Generated: 2026-11-15T22:59:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `32`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-15T22:52:32+00:00_
 - url: https://openai.com/index/our-new-blog-for-science
 - summary: The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.
 
-### 8. M 4.9 - 38 km S of Jurm, Afghanistan
+### 8. M 4.8 - 143 km ESE of Petropavlovsk-Kamchatsky, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-11-15T21:48:40.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga
-- summary: Time 2026-11-15 21:37:22 UTC 2026-11-15 21:37:22 UTC at epicenter Location 36.516°N 70.792°E Depth 197.00 km (122.41 mi)
+- published: `2026-11-15T22:58:07.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tygk
+- summary: Time 2026-11-15 22:38:22 UTC 2026-11-15 22:38:22 UTC at epicenter Location 52.440°N 160.486°E Depth 35.00 km (21.75 mi)
 
 END OF DOCUMENT

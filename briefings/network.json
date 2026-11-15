@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-15T22:52:35+00:00",
+  "generated_at": "2026-11-15T22:59:56+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 31,
-    "clusters": 26,
+    "findings": 32,
+    "clusters": 27,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 9
+    "dominance_penalized": 10
   },
   "clusters": [
     {
@@ -308,18 +308,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.9,
+      "network_score": 12.84,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.2,
-      "ranking_score": 12.9,
+      "ranking_score": 12.84,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.4,
+      "baseline_bonus": 1.34,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -365,6 +365,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-13T04:45:41+00:00"
+    },
+    {
+      "key": "earthquake:m 4.8 - 143 km ese of petropavlovsk-kamchatsky, russia:4.8",
+      "title": "M 4.8 - 143 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tygk"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.7,
+      "ranking_score": 10.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-11-15T22:59:56+00:00"
     },
     {
       "key": "title:wordpress-astro-cloudflare-workers-pagespeed-100",
@@ -706,18 +747,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 7.08,
+      "network_score": 7.05,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 9.2,
-      "ranking_score": 7.08,
+      "ranking_score": 7.05,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.58,
+      "baseline_bonus": 0.55,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1034,7 +1075,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-15T22:52:36Z",
+    "generated_at": "2026-11-15T22:59:57Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
