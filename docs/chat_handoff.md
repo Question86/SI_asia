@@ -1,21 +1,28 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-15T01:02:46+00:00_
+_Generated: 2026-11-15T01:16:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-15T01:02:36+00:00`
+- published: `2026-11-15T01:16:49+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. 貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org
+### 2. デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com
+- source: Hatena Bookmark Hotentry IT
+- score: `20`
+- published: `2026-10-19T08:36:48+00:00`
+- url: https://kawarimidoll.com/posts/202610182/
+- summary: Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS auto…
+
+### 3. 貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-11-14T18:54:45+00:00`
