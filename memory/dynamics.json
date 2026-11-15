@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-15T15:37:00Z",
+  "generated_at": "2026-11-15T17:09:12Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 2,
-      "strong": 9,
-      "watch": 16,
-      "quiet": 13
+      "strong": 10,
+      "watch": 18,
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 18,
-      "quiet": 13
+      "strong": 10,
+      "watch": 20,
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T13:58:58.042+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -48,7 +48,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T03:47:30+00:00",
-      "age_days": 0.49,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -75,7 +75,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 149.17,
+      "age_days": 149.24,
       "topics": [
         "general"
       ],
@@ -103,7 +103,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-15T15:28:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro",
@@ -132,7 +132,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:49:57+00:00",
-      "age_days": 0.66,
+      "age_days": 0.72,
       "topics": [
         "ai",
         "macro"
@@ -155,11 +155,36 @@
       "summary": "Claude CodeやCodexのようなAIコーディングツールが広がり、個人が手がけられるソフトウェアの規模が変わりつつある。米国の開発者Brennen Herbruck氏が2026年10月に書き始めたオープンソースの3D CAD「SolidCraft」は、その一例だ。公開から約5週間で正式版を58回リリースし、GitHubからのダウンロードは約150万回、ス..."
     },
     {
+      "title": "Angriffe auf UnrealIRCd: Sicherheitslücke ermöglicht Befehle mit Serverrechten",
+      "url": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-11-15T15:25:00.000+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe"
+      ],
+      "summary": "Der IRC-Server UnrealIRCd ist verwundbar und Angreifer nutzen derzeit eine Lücke aus. Ein Sicherheitspatch steht zum Download bereit."
+    },
+    {
       "title": "Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways",
       "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-15T11:25:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -184,7 +209,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:38:44+00:00",
-      "age_days": 1.0,
+      "age_days": 1.06,
       "topics": [
         "security"
       ],
@@ -208,7 +233,7 @@
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T11:30:03+00:00",
-      "age_days": 0.17,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -233,7 +258,7 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-15T08:10:46+00:00",
-      "age_days": 0.31,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -259,7 +284,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T08:36:48+00:00",
-      "age_days": 27.29,
+      "age_days": 27.36,
       "topics": [
         "ai"
       ],
@@ -276,7 +301,7 @@
       "why": [
         "high terms: 10",
         "AXI0M/User-Yps identity hit",
-        "aging penalty -2.2 for 27.3d old signal",
+        "aging penalty -2.2 for 27.4d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -287,7 +312,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 149.26,
+      "age_days": 149.32,
       "topics": [],
       "dynamics_score": 19.9,
       "raw_band": "krass",
@@ -313,7 +338,7 @@
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-15T10:14:00.000+00:00",
-      "age_days": 0.22,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security",
@@ -339,7 +364,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T04:16:58.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -364,7 +389,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T04:29:00+00:00",
-      "age_days": 0.46,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -388,11 +413,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-08T08:38:35+00:00",
-      "age_days": 38.29,
+      "age_days": 38.35,
       "topics": [
         "general"
       ],
-      "dynamics_score": 18.45,
+      "dynamics_score": 18.43,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -404,16 +429,40 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -6.1 for 38.3d old signal"
+        "aging penalty -6.1 for 38.4d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 5.1 - 169 km NW of Gorontalo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-15T15:59:12.040+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-11-15 15:41:14 UTC 2026-11-15 15:41:14 UTC at epicenter Location 1.753°N 122.135°E Depth 487.38 km (302.85 mi)"
     },
     {
       "title": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-15T08:10:06+00:00",
-      "age_days": 0.31,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -440,7 +489,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T07:58:09.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -465,7 +514,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T05:31:02.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -490,7 +539,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T08:10:46+00:00",
-      "age_days": 0.31,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -514,7 +563,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T05:34:32+00:00",
-      "age_days": 0.42,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -534,11 +583,63 @@
       "summary": ""
     },
     {
+      "title": "M 5.1 - 169 km NW of Gorontalo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T16:56:25+00:00",
+      "age_days": 72.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 72.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Angriffe auf UnrealIRCd: Sicherheitslücke ermöglicht Befehle mit Serverrechten",
+      "url": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 149.4,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.35,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.23,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.23",
+        "high terms: angriffe",
+        "aging penalty -8.0 for 149.4d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T00:38:44+00:00",
-      "age_days": 0.62,
+      "age_days": 0.69,
       "topics": [
         "general"
       ],
@@ -562,7 +663,7 @@
       "url": "https://www.yomiuri.co.jp/science/20261112-GYT1T00160/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T07:28:59+00:00",
-      "age_days": 0.34,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -586,7 +687,7 @@
       "url": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T11:59:14+00:00",
-      "age_days": 0.15,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -610,7 +711,7 @@
       "url": "https://clivelab.jp/blogs/news/motherboard-rarely-fails",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T09:40:32+00:00",
-      "age_days": 0.25,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -634,7 +735,7 @@
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T04:23:12+00:00",
-      "age_days": 0.47,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -654,37 +755,11 @@
       "summary": "はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、公開後の調整までを扱います。作業の大半を Cl..."
     },
     {
-      "title": "Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways",
-      "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 149.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: root",
-        "aging penalty -8.0 for 149.3d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 63.45,
+      "age_days": 63.52,
       "topics": [
         "general"
       ],
@@ -705,11 +780,35 @@
       "summary": ""
     },
     {
+      "title": "こんなに変わった！ AWSネットワークの常識",
+      "url": "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-15T12:30:54+00:00",
+      "age_days": 0.19,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "NW-JAWS 10周年イベントのKeynote資料です"
+    },
+    {
       "title": "自作フィードリーダーを作った - A Day in the Life",
       "url": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:23:09+00:00",
-      "age_days": 1.01,
+      "age_days": 1.07,
       "topics": [
         "general"
       ],
@@ -729,11 +828,36 @@
       "summary": "みんな自作 FeedReader 作っているなぁ、でも今使っている Inoreader (今は亡き、安価な年額19.99USDの starter planを使い続けている) でいいや、と思っていたのだが、結局細かいあれこれをブラウザ拡張の Tampermonkey などでちまちま修正していて、ちょっと魔がさしたので作ってみた。 30行ぐらい雑な仕様を書いて Op..."
     },
     {
+      "title": "こんなに変わった！ AWSネットワークの常識",
+      "url": "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 149.63,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 149.6d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
       "url": "https://note.com/at_sushi_at/n/n2e6ea3453e37",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 75.87,
+      "age_days": 75.93,
       "topics": [
         "general"
       ],
@@ -758,7 +882,7 @@
       "url": "https://news.jp/i/1494496378441958289",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:01:19+00:00",
-      "age_days": 57.57,
+      "age_days": 57.63,
       "topics": [
         "general"
       ],
@@ -783,7 +907,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T01:33:21+00:00",
-      "age_days": 6.59,
+      "age_days": 6.65,
       "topics": [
         "ai"
       ],
@@ -809,7 +933,7 @@
       "url": "https://news.jp/i/1494496378441958289",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T02:57:16+00:00",
-      "age_days": 0.53,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -833,7 +957,7 @@
       "url": "https://www.yomiuri.co.jp/science/20261112-GYT1T00160/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T02:53:25+00:00",
-      "age_days": 0.53,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -857,7 +981,7 @@
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T18:54:45+00:00",
-      "age_days": 0.86,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -881,7 +1005,7 @@
       "url": "https://p2ptk.org/notes/5679",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T13:32:42+00:00",
-      "age_days": 2.09,
+      "age_days": 2.15,
       "topics": [
         "general"
       ],
@@ -899,133 +1023,6 @@
         "no strong comparative reason"
       ],
       "summary": "以下の文章は、コリイ・ドクトロウの「America cannot undo Trumpism」という記事を翻訳したものである。 Pluralistic 真のカーニー主義は、いまだかつて一度も試されたことがない。カナダのマーク・カーニー首相はダボスに乗り込み、旧来の秩序に「断絶」が生じたと宣言した（そして、その旧秩序がそもそも大したもので..."
-    },
-    {
-      "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
-      "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 149.57,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 149.6d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
-      "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-15T00:01:08+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス..."
-    },
-    {
-      "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
-      "url": "https://note.com/at_sushi_at/n/n2e6ea3453e37",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-15T09:51:50+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "1年前、私はAIをまだ舐めていたもちろんAIは当時からある程度のコード、というかほとんどのコードを書いてくれた。 それでも、ソフトウェアエンジニアとしての根本的な能力が足りてなかった。 保守性を考えない安直で重複したコード、勘違いによるミス、一部しか考慮していないことによる不完全な対応。 一部に限れば、..."
-    },
-    {
-      "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
-      "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-14T23:39:10+00:00",
-      "age_days": 0.67,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "フアン氏は、中国の情報機関との関係が疑われる女性との交際が報じられたことを受け、11月12日にCEO、社長、取締役を退任した。NVIDIAは最高財務責任者（CFO）のコレット・クレス氏を暫定CEOに任命し、社内外から後任を探している。 署名運動の主催者は、フアン氏が十分な弁明の機会を与えられずに退任に追い込まれた可..."
-    },
-    {
-      "title": "マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序",
-      "url": "https://clivelab.jp/blogs/news/motherboard-rarely-fails",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-14T07:57:47+00:00",
-      "age_days": 1.32,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序 はじめに：結論から PCのパーツが壊れる順序は、ほぼ決まっています。 稼働部品（ファン・ポンプ） → SSD → 電源 → グラフィックボード → その他。 そして意外に思われるかもしれませんが、マザーボードが単独で壊れるケースは稀です。長年サポートの現場に..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."

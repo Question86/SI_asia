@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-15T15:37:00Z",
+  "generated_at": "2026-11-15T17:09:12Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T13:58:58.042+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -40,7 +40,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T03:47:30+00:00",
-      "age_days": 0.49,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -67,7 +67,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 149.17,
+      "age_days": 149.24,
       "topics": [
         "general"
       ],
@@ -95,7 +95,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-15T15:28:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro",
@@ -124,7 +124,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:49:57+00:00",
-      "age_days": 0.66,
+      "age_days": 0.72,
       "topics": [
         "ai",
         "macro"
@@ -147,11 +147,36 @@
       "summary": "Claude CodeやCodexのようなAIコーディングツールが広がり、個人が手がけられるソフトウェアの規模が変わりつつある。米国の開発者Brennen Herbruck氏が2026年10月に書き始めたオープンソースの3D CAD「SolidCraft」は、その一例だ。公開から約5週間で正式版を58回リリースし、GitHubからのダウンロードは約150万回、ス..."
     },
     {
+      "title": "Angriffe auf UnrealIRCd: Sicherheitslücke ermöglicht Befehle mit Serverrechten",
+      "url": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-11-15T15:25:00.000+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe"
+      ],
+      "summary": "Der IRC-Server UnrealIRCd ist verwundbar und Angreifer nutzen derzeit eine Lücke aus. Ein Sicherheitspatch steht zum Download bereit."
+    },
+    {
       "title": "Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways",
       "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-15T11:25:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -176,7 +201,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:38:44+00:00",
-      "age_days": 1.0,
+      "age_days": 1.06,
       "topics": [
         "security"
       ],
@@ -200,7 +225,7 @@
       "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T11:30:03+00:00",
-      "age_days": 0.17,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -221,37 +246,11 @@
       "summary": ""
     },
     {
-      "title": "tradermonty/claude-trading-skills",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-15T08:10:46+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T08:36:48+00:00",
-      "age_days": 27.29,
+      "age_days": 27.36,
       "topics": [
         "ai"
       ],
@@ -268,7 +267,7 @@
       "why": [
         "high terms: 10",
         "AXI0M/User-Yps identity hit",
-        "aging penalty -2.2 for 27.3d old signal",
+        "aging penalty -2.2 for 27.4d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -279,7 +278,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 149.26,
+      "age_days": 149.32,
       "topics": [],
       "dynamics_score": 19.9,
       "raw_band": "krass",
@@ -305,7 +304,7 @@
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-15T10:14:00.000+00:00",
-      "age_days": 0.22,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security",

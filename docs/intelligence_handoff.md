@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-15T15:37:00Z_
+_Generated: 2026-11-15T17:09:12Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-11-15T13:58:58.042+00:00` / age_days `0.07`
+- Published: `2026-11-15T13:58:58.042+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.9
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-15T03:47:30+00:00` / age_days `0.49`
+- Published: `2026-11-15T03:47:30+00:00` / age_days `0.56`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T11:28:55+00:00` / age_days `149.17`
+- Published: `2026-06-19T11:28:55+00:00` / age_days `149.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 149.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-15T15:28:37+00:00` / age_days `0.01`
+- Published: `2026-11-15T15:28:37+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,17 +52,27 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-14T23:49:57+00:00` / age_days `0.66`
+- Published: `2026-11-14T23:49:57+00:00` / age_days `0.72`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, 10, security high-signal: rce, code, 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/
 
+### Angriffe auf UnrealIRCd: Sicherheitslücke ermöglicht Befehle mit Serverrechten
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `24.0`
+- Published: `2026-11-15T15:25:00.000+00:00` / age_days `0.07`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: angriffe, security high-signal: angriffe
+- Quelle: https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html
+
 ### Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-15T11:25:00.000+00:00` / age_days `0.18`
+- Published: `2026-11-15T11:25:00.000+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: root, security high-signal: root
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-14T15:38:44+00:00` / age_days `1.0`
+- Published: `2026-11-14T15:38:44+00:00` / age_days `1.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -82,37 +92,27 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-15T11:30:03+00:00` / age_days `0.17`
+- Published: `2026-11-15T11:30:03+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
 - Quelle: https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb
 
-### tradermonty/claude-trading-skills
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `21.0`
-- Published: `2026-11-15T08:10:46+00:00` / age_days `0.31`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/tradermonty/claude-trading-skills
-
 ### デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-10-19T08:36:48+00:00` / age_days `27.29`
+- Published: `2026-10-19T08:36:48+00:00` / age_days `27.36`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, AXI0M/User-Yps identity hit, aging penalty -2.2 for 27.3d old signal, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Warum: high terms: 10, AXI0M/User-Yps identity hit, aging penalty -2.2 for 27.4d old signal, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://kawarimidoll.com/posts/202610182/
 
 ### デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-06-19T09:22:22+00:00` / age_days `149.26`
+- Published: `2026-06-19T09:22:22+00:00` / age_days `149.32`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, aging penalty -8.0 for 149.3d old signal, identity recheck: no AXI0M/User-Yps phrase hit, stale single-source cap after 30d: no current exploitation phrase
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 9 km E of Union, Philippines” 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-11-15T10:14:00.000+00:00` / age_days `0.22`
+- Published: `2026-11-15T10:14:00.000+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: security high-signal: security
