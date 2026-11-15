@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T10:23:56+00:00",
-  "run_id": "2026-11-15T10:23:56+00:00",
+  "generated_at": "2026-11-15T10:31:06+00:00",
+  "run_id": "2026-11-15T10:31:06+00:00",
   "date": "2026-11-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -869,28 +869,7 @@
       "id": "97b6e7e3f6cf96bd4761"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Warten auf Sicherheitspatch: Krypto-Miner-Attacken auf N-central beobachtet",
-      "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-11-15T10:14:00.000+00:00",
-      "fetched_at": "2026-11-15T10:23:18+00:00",
-      "summary": "Angreifer attackieren derzeit die Fernwartungslösung N-central von N-able. Gegen einen neuen Angriffsweg gibt es bislang nur eine Übergangslösung.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "209638498df70a3a646e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
