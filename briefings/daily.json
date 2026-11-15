@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T11:01:54+00:00",
-  "today_file_total": 15,
+  "generated_at": "2026-11-15T11:30:03+00:00",
+  "today_file_total": 16,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -94,6 +94,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 22.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:wordpress-astro-cloudflare-workers-pagespeed-100",
+      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T11:01:51+00:00",
-  "run_id": "2026-11-15T11:01:51+00:00",
+  "generated_at": "2026-11-15T11:30:00+00:00",
+  "run_id": "2026-11-15T11:30:00+00:00",
   "date": "2026-11-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 4,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -301,6 +301,28 @@
           "LOW"
         ],
         "id": "46fe4d45a47454feba51"
+      },
+      {
+        "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+        "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-15T04:23:12+00:00",
+        "fetched_at": "2026-11-15T11:29:32+00:00",
+        "summary": "はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、公開後の調整までを扱います。作業の大半を Cl...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Webentwicklung"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a5cf8428741f2cf62888"
       },
       {
         "title": "Warten auf Sicherheitspatch: Krypto-Miner-Attacken auf N-central beobachtet",
@@ -723,6 +745,28 @@
       "id": "46fe4d45a47454feba51"
     },
     {
+      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-15T04:23:12+00:00",
+      "fetched_at": "2026-11-15T11:29:32+00:00",
+      "summary": "はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、公開後の調整までを扱います。作業の大半を Cl...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Webentwicklung"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a5cf8428741f2cf62888"
+    },
+    {
       "title": "Warten auf Sicherheitspatch: Krypto-Miner-Attacken auf N-central beobachtet",
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html",
       "source": "heise Security Alerts",
@@ -871,46 +915,26 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-15T11:01:40+00:00",
-      "fetched_at": "2026-11-15T11:01:24+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+      "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-15T04:23:12+00:00",
+      "fetched_at": "2026-11-15T11:29:32+00:00",
+      "summary": "はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、公開後の調整までを扱います。作業の大半を Cl...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry",
+        "Webentwicklung"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "6b9c8f8ba26873e19ffd"
+      "relevance_score": 9,
+      "relevance_reason": "Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a5cf8428741f2cf62888"
     }
   ],
   "source_errors": [],
