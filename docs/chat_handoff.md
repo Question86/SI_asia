@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-15T03:03:41+00:00_
+_Generated: 2026-11-15T03:20:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
@@ -42,5 +42,12 @@ _Generated: 2026-11-15T03:03:41+00:00_
 - published: `2026-11-14T18:54:45+00:00`
 - url: https://p2ptk.org/monopoly/5681
 - summary: 以下の文章は、コリイ・ドクトロウの「Apple’s robo-repo」という記事（2026年7月25日公開）を翻訳したものである。 Pluralistic 奇妙に思えるかもしれないが、金貸しは返済に苦労しそうな貧乏人に金を貸すのを大いに好む。当然ながら貸し手は耳を揃えて返済してほしいと考えているし、当然ながら金を持っているヤツほど...
+
+### 6. 米国はトランピズムを「なかったこと」にはできない » p2ptk[.]org
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-11-13T13:32:42+00:00`
+- url: https://p2ptk.org/notes/5679
+- summary: 以下の文章は、コリイ・ドクトロウの「America cannot undo Trumpism」という記事を翻訳したものである。 Pluralistic 真のカーニー主義は、いまだかつて一度も試されたことがない。カナダのマーク・カーニー首相はダボスに乗り込み、旧来の秩序に「断絶」が生じたと宣言した（そして、その旧秩序がそもそも大したもので...
 
 END OF DOCUMENT
