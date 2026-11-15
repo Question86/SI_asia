@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T16:56:48+00:00",
-  "run_id": "2026-11-15T16:56:48+00:00",
+  "generated_at": "2026-11-15T17:05:27+00:00",
+  "run_id": "2026-11-15T17:05:27+00:00",
   "date": "2026-11-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 1,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 6,
-    "observe": 17,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -480,6 +480,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "209638498df70a3a646e"
+      },
+      {
+        "title": "こんなに変わった！ AWSネットワークの常識",
+        "url": "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-15T12:30:54+00:00",
+        "fetched_at": "2026-11-15T17:04:54+00:00",
+        "summary": "NW-JAWS 10周年イベントのKeynote資料です",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a208fd5e33172df0b038"
       },
       {
         "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
@@ -1103,6 +1124,27 @@
       "id": "209638498df70a3a646e"
     },
     {
+      "title": "こんなに変わった！ AWSネットワークの常識",
+      "url": "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-15T12:30:54+00:00",
+      "fetched_at": "2026-11-15T17:04:54+00:00",
+      "summary": "NW-JAWS 10周年イベントのKeynote資料です",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a208fd5e33172df0b038"
+    },
+    {
       "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
       "url": "https://note.com/at_sushi_at/n/n2e6ea3453e37",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1271,7 +1313,29 @@
       "id": "97b6e7e3f6cf96bd4761"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "こんなに変わった！ AWSネットワークの常識",
+      "url": "https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-15T12:30:54+00:00",
+      "fetched_at": "2026-11-15T17:04:54+00:00",
+      "summary": "NW-JAWS 10周年イベントのKeynote資料です",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a208fd5e33172df0b038"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
