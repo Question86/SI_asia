@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T07:59:15+00:00",
+  "generated_at": "2026-11-15T08:11:22+00:00",
   "fx_as_of": null,
-  "candidate_count": 2979,
+  "candidate_count": 2981,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 2979
+    "pending": 2981
   },
   "coverage_warning": null,
   "candidates": [
@@ -3037,6 +3037,27 @@
       "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm"
     },
     {
+      "amount_native": 299.5,
+      "amount_usd": 299.5,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_1e1951fdc69dc6e175d0",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_4e693fc424ac56ff7eba",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-15T08:11:19+00:00",
+      "overlap_group_suggestion": "evt_4e693fc424ac56ff7eba:unknown:6d0d4df949d6",
+      "review_status": "pending",
+      "snippet": "om/developer/docs Set environment variable: export FMP_API_KEY=your_key_here Or provide key via command-line argument when prompted FINVIZ Elite API: Subscription: $39.50/month or $299.50/year Sign up: https://elite.finviz.com/ Set environment variable: export FINVIZ_API_KEY=your_key_here Provides fast pre-screening for dividend screeners Alpaca Trading API: Free p",
+      "source_priority": "primary_hint",
+      "source_url": "https://github.com/tradermonty/claude-trading-skills",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 110.0,
       "amount_usd": 110.0,
       "attribution_probability": null,
@@ -3077,6 +3098,27 @@
       "snippet": "ve, and free for the community — while giving you direct access to premium benefits. 🤝 Sponsorship Tiers 🌱 Believer ($5/mo) — Join the movement for data democratization 🚀 Builder ($50/mo) — Priority support & early access to features 💼 Growing Team ($500/mo) — Bi-weekly syncs & optimization help 🏢 Data Infrastructure Partner ($2000/mo) — Full partnership with d",
       "source_priority": "primary_hint",
       "source_url": "https://github.com/unclecode/crawl4ai"
+    },
+    {
+      "amount_native": 39.5,
+      "amount_usd": 39.5,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_6aa40eb6d708fe6ebb73",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_4e693fc424ac56ff7eba",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-15T08:11:19+00:00",
+      "overlap_group_suggestion": "evt_4e693fc424ac56ff7eba:unknown:9bee07d888a8",
+      "review_status": "pending",
+      "snippet": "almodelingprep.com/developer/docs Set environment variable: export FMP_API_KEY=your_key_here Or provide key via command-line argument when prompted FINVIZ Elite API: Subscription: $39.50/month or $299.50/year Sign up: https://elite.finviz.com/ Set environment variable: export FINVIZ_API_KEY=your_key_here Provides fast pre-screening for dividend screeners Alpaca Tr",
+      "source_priority": "primary_hint",
+      "source_url": "https://github.com/tradermonty/claude-trading-skills",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 30.0,
