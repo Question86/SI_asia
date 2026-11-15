@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T10:16:37+00:00_
+_Generiert: 2026-11-15T10:23:56+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+15 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -140,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-15 05:15:02 UTC 2026-11-15 05:15:02 UTC at epicenter Location 19.555°S 177.822°W Depth 469.88 km (291.97 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Warten auf Sicherheitspatch: Krypto-Miner-Attacken auf N-central beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-15T10:14:00.000+00:00`, fetched `2026-11-15T10:23:18+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer attackieren derzeit die Fernwartungslösung N-central von N-able. Gegen einen neuen Angriffsweg gibt es bislang nur eine Übergangslösung.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp** — Score 5, observation — [Quelle](https://news.jp/i/1494496378441958289)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-15T02:57:16+00:00`, fetched `2026-11-15T04:59:03+00:00`
