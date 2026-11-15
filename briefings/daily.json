@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T22:14:06+00:00",
-  "today_file_total": 29,
+  "generated_at": "2026-11-15T22:29:01+00:00",
+  "today_file_total": 31,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -97,6 +97,30 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Our new blog for science",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/our-new-blog-for-science",
+        "https://openai.com/index/step-toward-defining-the-standard-model"
+      ],
+      "finding_count": 2,
+      "max_score": 10,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 20.2,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
       "key": "earthquake:philippines:5.5",
@@ -451,29 +475,6 @@
       ],
       "urls": [
         "https://taxin.dev/articles/2026-11-15"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:note.com",
-      "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://note.com/at_sushi_at/n/n2e6ea3453e37"
       ],
       "finding_count": 1,
       "max_score": 5,

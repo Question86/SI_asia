@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T22:14:03+00:00_
+_Generiert: 2026-11-15T22:28:58+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -67,7 +67,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-15T21:29:30+00:00`, fetched `2026-11-15T21:29:15+00:00`
+  - Zeit: published `2026-11-15T22:28:42+00:00`, fetched `2026-11-15T22:28:34+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -149,6 +149,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Our new blog for science** — Score 10, observation — [Quelle](https://openai.com/index/our-new-blog-for-science)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-15T22:00:00+00:00`, fetched `2026-11-15T22:28:34+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 38 km S of Jurm, Afghanistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-15T21:48:40.040+00:00`, fetched `2026-11-15T21:59:30+00:00`
@@ -184,6 +193,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **A step toward defining the Standard Model on a lattice** — Score 7, observation — [Quelle](https://openai.com/index/step-toward-defining-the-standard-model)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-15T22:00:01+00:00`, fetched `2026-11-15T22:28:34+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); recent (+1.0)
+  - Kurz: Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angriffe auf UnrealIRCd: Sicherheitslücke ermöglicht Befehle mit Serverrechten** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html)
   - Quelle: heise Security Alerts / `rss`

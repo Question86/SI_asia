@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-15T22:14:03+00:00_
+_Generated: 2026-11-15T22:28:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `31`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-15T21:29:30+00:00`
+- published: `2026-11-15T22:28:42+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-15T22:14:03+00:00_
 - url: https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/
 - summary: AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます
 
-### 7. M 4.9 - 38 km S of Jurm, Afghanistan
+### 7. Our new blog for science
+- source: OpenAI News RSS
+- score: `10`
+- published: `2026-11-15T22:00:00+00:00`
+- url: https://openai.com/index/our-new-blog-for-science
+- summary: The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.
+
+### 8. M 4.9 - 38 km S of Jurm, Afghanistan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-15T21:48:40.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga
 - summary: Time 2026-11-15 21:37:22 UTC 2026-11-15 21:37:22 UTC at epicenter Location 36.516°N 70.792°E Depth 197.00 km (122.41 mi)
-
-### 8. M 5.0 - 74 km N of Pārūn, Afghanistan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-15T18:08:18.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh
-- summary: Time 2026-11-15 17:48:36 UTC 2026-11-15 17:48:36 UTC at epicenter Location 36.095°N 70.950°E Depth 100.73 km (62.59 mi)
 
 END OF DOCUMENT
