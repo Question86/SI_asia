@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-15T21:45:38+00:00_
+_Generated: 2026-11-15T22:00:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `29`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-15T21:45:38+00:00_
 - url: https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/
 - summary: AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます
 
-### 7. M 5.0 - 74 km N of Pārūn, Afghanistan
+### 7. M 4.9 - 38 km S of Jurm, Afghanistan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-15T21:48:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga
+- summary: Time 2026-11-15 21:37:22 UTC 2026-11-15 21:37:22 UTC at epicenter Location 36.516°N 70.792°E Depth 197.00 km (122.41 mi)
+
+### 8. M 5.0 - 74 km N of Pārūn, Afghanistan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-15T18:08:18.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh
 - summary: Time 2026-11-15 17:48:36 UTC 2026-11-15 17:48:36 UTC at epicenter Location 36.095°N 70.950°E Depth 100.73 km (62.59 mi)
-
-### 8. M 4.7 - 92 km NW of Houma, Tonga
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-15T07:58:09.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3
-- summary: Time 2026-11-15 07:36:37 UTC 2026-11-15 07:36:37 UTC at epicenter Location 20.589°S 175.935°W Depth 177.52 km (110.31 mi)
 
 END OF DOCUMENT
