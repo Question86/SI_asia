@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T06:53:33+00:00_
+_Generated: 2026-11-16T07:10:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -22,35 +22,42 @@ _Generated: 2026-11-16T06:53:33+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr
 - summary: PAGER - GREEN ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)
 
-### 3. The hidden economics of returns in Southeast Asian e-commerce
+### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-11-16T07:02:01+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder nicht näher spezifizierte Auswirkungen auszulösen.
+
+### 4. The hidden economics of returns in Southeast Asian e-commerce
 - source: e27 Asia Startup and Tech Feed
 - score: `14`
 - published: `2026-11-16T06:00:40+00:00`
 - url: https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/
 - summary: A customer orders a product online, receives it and requests a refund. From the buyer’s perspective, the process may involve a few taps and a parcel handed to a courier. For the merchant, it can initiate a second supply chain involving transportation, inspect…
 
-### 4. Is prompt engineering real AI development, or just good documentation?
+### 5. Is prompt engineering real AI development, or just good documentation?
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-11-16T06:00:03+00:00`
 - url: https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/
 - summary: I’ve heard both answers from people I respect. One senior engineer told me prompt engineering is “writing a very long comment and hoping.” A teammate who ships LLM features for a living told me it’s the highest-leverage skill in AI development right now. Afte…
 
-### 5. Headlines that broke the script: The warning signs were inside the building — Part 1
+### 6. Headlines that broke the script: The warning signs were inside the building — Part 1
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-11-16T04:00:24+00:00`
 - url: https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/
 - summary: The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging…
 
-### 6. The Philippines can’t win the AI arms race, so it is betting on Taglish
+### 7. The Philippines can’t win the AI arms race, so it is betting on Taglish
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-16T04:52:11+00:00`
 - url: https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/
 - summary: Ask a Manila contact-centre agent what a caller means by “Pakicheck naman po ang bill ko, may extra charge yata” and she will answer before the sentence ends. Ask a model trained mostly on Silicon Valley’s internet and you may get a polite reply to the wrong…
 
-### 7. OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB
+### 8. OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-16T01:34:47+00:00`
