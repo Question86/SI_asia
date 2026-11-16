@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T03:24:23+00:00",
-  "run_id": "2026-11-16T03:24:23+00:00",
+  "generated_at": "2026-11-16T03:40:07+00:00",
+  "run_id": "2026-11-16T03:40:07+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -545,31 +545,7 @@
       "id": "095f8fc68251cea4b687"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-15T22:34:36+00:00",
-      "fetched_at": "2026-11-16T03:23:53+00:00",
-      "summary": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 lice...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry",
-        "Open Source"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ae2bbf1652ebb5befe46"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
