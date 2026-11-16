@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T09:52:27+00:00_
+_Generated: 2026-11-16T10:02:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `31`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-16T09:52:27+00:00_
 - url: https://github.com/ag-ui-protocol/ag-ui
 - summary: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com AG-UI: The Agent-User Interaction Protocol AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applic…
 
-### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-11-16T09:12:00+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Dateien zu manipulieren, Berechtigungen zu erweitern oder beliebigen Code auszuführen.
+### 4. Barr, Some Potential Financial Stability Implications of Artificial Intelligence
+- source: Federal Reserve Speeches and Testimony
+- score: `17`
+- published: `2026-11-16T10:00:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm
+- summary: Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy
 
 ### 5. Is prompt engineering real AI development, or just good documentation?
 - source: e27 Asia Startup and Tech Feed
@@ -50,18 +50,18 @@ _Generated: 2026-11-16T09:52:27+00:00_
 - url: https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/
 - summary: The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging…
 
-### 7. The Philippines can’t win the AI arms race, so it is betting on Taglish
+### 7. LVMH’s Media Division announces strategic partnership with OpenAI
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-11-16T09:00:00+00:00`
+- url: https://openai.com/index/lvmh-media-division-partnership
+- summary: LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
+
+### 8. The Philippines can’t win the AI arms race, so it is betting on Taglish
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-16T04:52:11+00:00`
 - url: https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/
 - summary: Ask a Manila contact-centre agent what a caller means by “Pakicheck naman po ang bill ko, may extra charge yata” and she will answer before the sentence ends. Ask a model trained mostly on Silicon Valley’s internet and you may get a polite reply to the wrong…
-
-### 8. OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-16T01:34:47+00:00`
-- url: https://levtech.jp/media/detail_972/
-- summary: 北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に...
 
 END OF DOCUMENT
