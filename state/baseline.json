@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T05:17:36+00:00",
+  "generated_at": "2026-11-16T05:35:25+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -4799,7 +4799,7 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         25.7,
         25.7,
@@ -4819,8 +4819,8 @@
         25.7,
         25.7,
         25.7,
-        25.7,
         28.7,
+        25.7,
         25.7,
         25.7,
         25.7,
@@ -5194,9 +5194,8 @@
     },
     "domain:togetter.com": {
       "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
-        9.2,
         9.2,
         9.2,
         9.2,
@@ -5225,12 +5224,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.25,
+      "rolling_average": 8.18,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.15
+      "z_hint": -1.08
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -119503,9 +119503,8 @@
     },
     "domain:p2ptk.org": {
       "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
-        9.2,
         9.2,
         9.2,
         9.2,
@@ -119534,12 +119533,13 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 11.42,
+      "rolling_average": 11.59,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": 2.68
+      "z_hint": 2.51
     },
     "domain:fabscene.com": {
       "title": "個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）",
@@ -120045,7 +120045,7 @@
     },
     "title:draft-easy-part-source-check-job": {
       "title": "The AI draft is the easy part. The source check is the job",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -120059,16 +120059,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.33,
+      "rolling_average": 10.31,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:microsoft-365-sla": {
       "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -120082,16 +120083,60 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.33,
+      "rolling_average": 7.31,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:drug-does-not-treat-virtual-model-treats-real": {
       "title": "A drug does not treat a virtual model. It treats a real patient",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
+      "network_scores": [
+        12.1,
+        9.1,
+        9.1,
+        9.1,
+        9.1,
+        9.1,
+        9.1,
+        9.1,
+        9.1,
+        9.1,
+        9.1,
+        9.1
+      ],
+      "rolling_average": 9.35,
+      "rolling_peak": 12.1,
+      "last_score": 9.1,
+      "z_hint": -0.25
+    },
+    "title:openai-anthropic-pdm-lab": {
+      "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
+      "updated_at": "2026-11-16T05:35:25+00:00",
+      "network_scores": [
+        17.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1,
+        14.1
+      ],
+      "rolling_average": 14.37,
+      "rolling_peak": 17.1,
+      "last_score": 14.1,
+      "z_hint": -0.27
+    },
+    "title:65k-illusion-declining-volume-extreme-fear-signal-fragile": {
+      "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -120110,51 +120155,12 @@
       "last_score": 9.1,
       "z_hint": -0.27
     },
-    "title:openai-anthropic-pdm-lab": {
-      "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
-      "updated_at": "2026-11-16T05:17:36+00:00",
-      "network_scores": [
-        17.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1,
-        14.1
-      ],
-      "rolling_average": 14.4,
-      "rolling_peak": 17.1,
-      "last_score": 14.1,
-      "z_hint": -0.3
-    },
-    "title:65k-illusion-declining-volume-extreme-fear-signal-fragile": {
-      "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
-      "updated_at": "2026-11-16T05:17:36+00:00",
-      "network_scores": [
-        12.1,
-        9.1,
-        9.1,
-        9.1,
-        9.1,
-        9.1,
-        9.1,
-        9.1,
-        9.1,
-        9.1
-      ],
-      "rolling_average": 9.4,
-      "rolling_peak": 12.1,
-      "last_score": 9.1,
-      "z_hint": -0.3
-    },
     "title:set-access-before-you-connect-tool-not-after": {
       "title": "Set access before you connect the tool, not after",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         9.1,
+        6.1,
         6.1,
         6.1,
         6.1,
@@ -120163,16 +120169,17 @@
         6.1,
         6.1
       ],
-      "rolling_average": 6.48,
+      "rolling_average": 6.43,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "title:cloudflare-kitesurf": {
       "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -120180,99 +120187,106 @@
         12.1,
         12.1
       ],
-      "rolling_average": 12.53,
+      "rolling_average": 12.47,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "title:headlines-that-broke-script-warning-signs-were-inside": {
       "title": "Headlines that broke the script: The warning signs were inside the building — Part 1",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         18.1,
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.7,
+      "rolling_average": 15.6,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "url:https://k-tai.watch.impress.co.jp/docs/news/2156616.html": {
       "title": "ドコモでまたも通信障害、11月3度目",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.6,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "earthquake:japan:5.4": {
       "title": "M 5.4 - 8 km SE of Anamizu, Japan",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         24.7,
         21.7,
+        21.7,
         21.7
       ],
-      "rolling_average": 22.7,
+      "rolling_average": 22.45,
       "rolling_peak": 24.7,
       "last_score": 21.7,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:philippines-can-win-arms-race-betting-taglish": {
       "title": "The Philippines can’t win the AI arms race, so it is betting on Taglish",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 15.6,
+      "rolling_average": 15.1,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:103": {
       "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:vucar-raises-pre-series-bring-priced-auctions-vietnam": {
       "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
-        15.1
+        15.1,
+        12.1
       ],
-      "rolling_average": 15.1,
+      "rolling_average": 13.6,
       "rolling_peak": 15.1,
-      "last_score": 15.1,
-      "z_hint": 0.0
+      "last_score": 12.1,
+      "z_hint": -1.5
     },
     "title:what-actually-changing-asia-pacific-businesses-age": {
       "title": "What’s actually changing for Asia Pacific businesses in the age of AI",
-      "updated_at": "2026-11-16T05:17:36+00:00",
+      "updated_at": "2026-11-16T05:35:25+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -1.5
     }
   }
 }
