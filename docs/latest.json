@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T11:33:18+00:00",
-  "run_id": "2026-11-16T11:33:18+00:00",
+  "generated_at": "2026-11-16T11:45:18+00:00",
+  "run_id": "2026-11-16T11:45:18+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -1795,30 +1795,7 @@
       "id": "095f8fc68251cea4b687"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ZedのコントリビューションポリシーがAI激おこな件 - keroxpのScrapbox",
-      "url": "https://scrapbox.io/keroxp/Zed%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%8CAI%E6%BF%80%E3%81%8A%E3%81%93%E3%81%AA%E4%BB%B6",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-16T08:16:47+00:00",
-      "fetched_at": "2026-11-16T11:32:50+00:00",
-      "summary": "Zedという新進のコードエディタがあるkeroxp.icon そのOSSコントリビューションガイドラインが色々と今風に面白かったので紹介していく Zedとは Zed（ゼド）は高速動作とAI連携を売りにしたエディタである。その源流はあのAtomだ Atomは2014年にGithubの社内プロジェクトから始まり、2022年にVSCodeに押される形で開発が...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "60a4b6a4c97fc0b894e6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
