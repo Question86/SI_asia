@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-16T08:56:02+00:00_
+_Generiert: 2026-11-16T09:03:25+00:00_
 
 ## ag-ui-protocol/ag-ui
 
