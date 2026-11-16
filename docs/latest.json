@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T09:42:27+00:00",
-  "run_id": "2026-11-16T09:42:27+00:00",
+  "generated_at": "2026-11-16T09:52:27+00:00",
+  "run_id": "2026-11-16T09:52:27+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-16T05:51:03+00:00",
-        "fetched_at": "2026-11-16T05:50:48+00:00",
+        "published_at": "2026-11-16T09:52:17+00:00",
+        "fetched_at": "2026-11-16T09:52:03+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "791b19e12c3f40179d90"
+        "id": "9ef7c051c6d067ea5c05"
       },
       {
         "title": "M 5.4 - 8 km SE of Anamizu, Japan",
@@ -745,8 +745,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-16T05:51:03+00:00",
-      "fetched_at": "2026-11-16T05:50:48+00:00",
+      "published_at": "2026-11-16T09:52:17+00:00",
+      "fetched_at": "2026-11-16T09:52:03+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -780,7 +780,7 @@
         "HD",
         "LOW"
       ],
-      "id": "791b19e12c3f40179d90"
+      "id": "9ef7c051c6d067ea5c05"
     },
     {
       "title": "M 5.4 - 8 km SE of Anamizu, Japan",
@@ -1449,26 +1449,46 @@
   ],
   "new_findings": [
     {
-      "title": "「年齢で断らない」賃貸アパート 全戸に見守りWi-Fi 電波の変化で安否を検知",
-      "url": "https://japan.cnet.com/article/35254951/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-16T07:53:04+00:00",
-      "fetched_at": "2026-11-16T09:41:59+00:00",
-      "summary": "同社は、年齢や一人暮らしを理由に賃貸住宅への入居を断られる人に、住まいの選択肢を増やすことを目指すという。建物は木造2階建てで、専有面積は20.58～22.63平方メートル。東武スカイツリーラインの大袋駅から徒歩10分に位置する。 家族は専用アプリで日々の活動状況を確認できる。管理会社のスタッフが月1回、1時間...",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-16T09:52:17+00:00",
+      "fetched_at": "2026-11-16T09:52:03+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e70f2cabe07b7d4fc46e"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9ef7c051c6d067ea5c05"
     }
   ],
   "source_errors": [],

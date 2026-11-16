@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T09:42:30+00:00",
+  "generated_at": "2026-11-16T09:52:29+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -239,7 +239,7 @@
     },
     "earthquake:philippines:5.0": {
       "title": "M 5.0 - 68 km S of Sarangani, Philippines",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -264,8 +264,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -1019,9 +1019,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
-        10.1,
         10.1,
         10.1,
         10.1,
@@ -1050,12 +1049,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 10.53,
+      "rolling_average": 10.6,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": 1.57
+      "z_hint": 1.5
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -4536,9 +4536,8 @@
     },
     "domain:japan.cnet.com": {
       "title": "「年齢で断らない」賃貸アパート 全戸に見守りWi-Fi 電波の変化で安否を検知",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -4567,12 +4566,13 @@
         14.2,
         14.2,
         14.2,
-        15.1
+        15.1,
+        12.1
       ],
       "rolling_average": 12.79,
       "rolling_peak": 17.2,
-      "last_score": 15.1,
-      "z_hint": 2.31
+      "last_score": 12.1,
+      "z_hint": -0.69
     },
     "domain:kawarimidoll.com": {
       "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
@@ -4799,14 +4799,14 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         25.7,
         25.7,
         25.7,
         25.7,
-        25.7,
         28.7,
+        25.7,
         25.7,
         25.7,
         25.7,
@@ -5194,10 +5194,10 @@
     },
     "domain:togetter.com": {
       "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
-        9.2,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -5227,10 +5227,10 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.27,
+      "rolling_average": 7.2,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.17
+      "z_hint": -0.1
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -5952,9 +5952,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
-        55.9,
         55.9,
         55.9,
         55.9,
@@ -5983,12 +5982,13 @@
         23.2,
         20.2,
         25.3,
+        22.3,
         22.3
       ],
-      "rolling_average": 46.54,
+      "rolling_average": 45.42,
       "rolling_peak": 55.9,
       "last_score": 22.3,
-      "z_hint": -24.24
+      "z_hint": -23.12
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -119503,9 +119503,8 @@
     },
     "domain:p2ptk.org": {
       "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
-        9.2,
         9.2,
         9.2,
         17.1,
@@ -119534,12 +119533,13 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 13.71,
+      "rolling_average": 13.87,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": 0.39
+      "z_hint": 0.23
     },
     "domain:fabscene.com": {
       "title": "個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）",
@@ -120045,9 +120045,10 @@
     },
     "title:draft-easy-part-source-check-job": {
       "title": "The AI draft is the easy part. The source check is the job",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -120082,9 +120083,10 @@
     },
     "title:microsoft-365-sla": {
       "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -120119,9 +120121,10 @@
     },
     "title:drug-does-not-treat-virtual-model-treats-real": {
       "title": "A drug does not treat a virtual model. It treats a real patient",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         12.1,
+        9.1,
         9.1,
         9.1,
         9.1,
@@ -120154,7 +120157,7 @@
     },
     "title:openai-anthropic-pdm-lab": {
       "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -120179,18 +120182,20 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.23,
+      "rolling_average": 14.22,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:65k-illusion-declining-volume-extreme-fear-signal-fragile": {
       "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         12.1,
+        9.1,
         9.1,
         9.1,
         9.1,
@@ -120222,7 +120227,7 @@
     },
     "title:set-access-before-you-connect-tool-not-after": {
       "title": "Set access before you connect the tool, not after",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -120245,18 +120250,20 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.24,
+      "rolling_average": 6.23,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.14
+      "z_hint": -0.13
     },
     "title:cloudflare-kitesurf": {
       "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -120285,7 +120292,7 @@
     },
     "title:headlines-that-broke-script-warning-signs-were-inside": {
       "title": "Headlines that broke the script: The warning signs were inside the building — Part 1",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         18.1,
         15.1,
@@ -120305,16 +120312,17 @@
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.26,
+      "rolling_average": 15.25,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "url:https://k-tai.watch.impress.co.jp/docs/news/2156616.html": {
       "title": "ドコモでまたも通信障害、11月3度目",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -120334,16 +120342,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.26,
+      "rolling_average": 7.25,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "earthquake:japan:5.4": {
       "title": "M 5.4 - 8 km SE of Anamizu, Japan",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         24.7,
         21.7,
@@ -120361,16 +120370,17 @@
         21.7,
         21.7,
         21.7,
+        21.7,
         21.7
       ],
-      "rolling_average": 21.88,
+      "rolling_average": 21.87,
       "rolling_peak": 24.7,
       "last_score": 21.7,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "title:philippines-can-win-arms-race-betting-taglish": {
       "title": "The Philippines can’t win the AI arms race, so it is betting on Taglish",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -120387,16 +120397,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.29,
+      "rolling_average": 14.28,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:103": {
       "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -120413,18 +120424,20 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.29,
+      "rolling_average": 7.28,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:vucar-raises-pre-series-bring-priced-auctions-vietnam": {
       "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -120440,14 +120453,14 @@
         12.1,
         12.1
       ],
-      "rolling_average": 12.3,
+      "rolling_average": 12.29,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:what-actually-changing-asia-pacific-businesses-age": {
       "title": "What’s actually changing for Asia Pacific businesses in the age of AI",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -120463,16 +120476,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.3,
+      "rolling_average": 10.29,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:hidden-economics-returns-southeast-asian-commerce": {
       "title": "The hidden economics of returns in Southeast Asian e-commerce",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -120483,16 +120497,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.4,
+      "rolling_average": 16.37,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:prompt-engineering-real-development-just-good-documentation": {
       "title": "Is prompt engineering real AI development, or just good documentation?",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         18.1,
         15.1,
@@ -120503,58 +120518,62 @@
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.4,
+      "rolling_average": 15.37,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "url:https://www.digital.go.jp/personal-information-protection": {
       "title": "デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         11.1,
         8.1,
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.53,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "github_repo:ag-ui-protocol/ag-ui": {
       "title": "ag-ui-protocol/ag-ui",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         24.1,
         21.1,
         21.1,
         21.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 21.7,
+      "rolling_average": 21.6,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "url:https://www.itmedia.co.jp/news/article/2611/16/2000003224/": {
       "title": "スパコン「富岳」に不正アクセス 理研が明らかに",
-      "updated_at": "2026-11-16T09:42:30+00:00",
+      "updated_at": "2026-11-16T09:52:29+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.6,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     }
   }
 }
