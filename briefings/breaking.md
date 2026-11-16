@@ -1,10 +1,25 @@
 # Senna Breaking
 
-_Generiert: 2026-11-16T15:48:38+00:00_
+_Generiert: 2026-11-16T16:09:45+00:00_
+
+## Bulk start AI Scan for repositories
+
+- Ranking Score: `29.5`
+- Raw Network Score: `25.1`
+- Max Monitor Score: `20`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `ja`
+- Dominanter Emitter: `nein`
+- Quellen: GitHub Changelog Atom
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
 ## Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30
 
-- Ranking Score: `24.63`
+- Ranking Score: `24.44`
 - Raw Network Score: `24.3`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`

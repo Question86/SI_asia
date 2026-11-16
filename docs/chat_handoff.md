@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T15:48:36+00:00_
+_Generated: 2026-11-16T16:09:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `49`
+- findings: `50`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-16T15:48:36+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. M 5.4 - 8 km SE of Anamizu, Japan
+### 2. Bulk start AI Scan for repositories
+- source: GitHub Changelog Atom
+- score: `20`
+- published: `2026-11-16T15:50:22+00:00`
+- url: https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories
+- summary: AI Scan for repositories finds security vulnerabilities on your repository’s default branch. It covers languages CodeQL doesn’t support and finds additional issues in languages CodeQL already analyzes. Findings appear in… The post Bulk start AI Scan for repos…
+
+### 3. M 5.4 - 8 km SE of Anamizu, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-11-16T04:38:33.833+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr
 - summary: PAGER - GREEN ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)
 
-### 3. ag-ui-protocol/ag-ui
+### 4. ag-ui-protocol/ag-ui
 - source: GitHub Trending RSS All Languages Daily
 - score: `19`
 - published: `None`
 - url: https://github.com/ag-ui-protocol/ag-ui
 - summary: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com AG-UI: The Agent-User Interaction Protocol AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applic…
-
-### 4. Meta wants to teach Singapore’s small businesses AI. It also wants them on WhatsApp
-- source: e27 Asia Startup and Tech Feed
-- score: `18`
-- published: `2026-11-16T11:01:26+00:00`
-- url: https://e27.co/meta-wants-to-teach-singapores-small-businesses-ai-it-also-wants-them-on-whatsapp-20261116/
-- summary: SpeakEasy Lab is a two-person communication training business in Singapore, which means that when both founders are teaching, nobody is answering customers. Nobody human, at least. Routine enquiries that once waited an hour or more now get near-instant replie…
 
 ### 5. Is prompt engineering real AI development, or just good documentation?
 - source: e27 Asia Startup and Tech Feed

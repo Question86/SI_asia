@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T15:48:36+00:00",
+  "generated_at": "2026-11-16T16:09:42+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-16T14:00:52+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "Bulk start AI Scan for repositories",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-16T15:50:22+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories"
       },
       {
         "title": "ag-ui-protocol/ag-ui",
@@ -66,13 +73,80 @@
         "published_at": "2026-11-16T09:00:00+00:00",
         "relevance_score": 12,
         "url": "https://openai.com/index/lvmh-media-division-partnership"
+      }
+    ],
+    "security": [
+      {
+        "title": "Bulk start AI Scan for repositories",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-16T15:50:22+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories"
       },
       {
-        "title": "The Philippines can’t win the AI arms race, so it is betting on Taglish",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-16T04:52:11+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/"
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-16T09:12:00+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-16T08:47:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-16T07:02:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461"
+      },
+      {
+        "title": "ConnectWise ScreenConnect: Angreifer installieren Malware über RMM+-Erweiterung",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-16T10:15:00.000+00:00",
+        "relevance_score": 8,
+        "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html"
+      }
+    ],
+    "github": [
+      {
+        "title": "Bulk start AI Scan for repositories",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-16T15:50:22+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories"
+      },
+      {
+        "title": "ag-ui-protocol/ag-ui",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 19,
+        "url": "https://github.com/ag-ui-protocol/ag-ui"
+      },
+      {
+        "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-15T22:34:36+00:00",
+        "relevance_score": 10,
+        "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html"
+      },
+      {
+        "title": "ZedのコントリビューションポリシーがAI激おこな件 - keroxpのScrapbox",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-16T08:16:47+00:00",
+        "relevance_score": 7,
+        "url": "https://scrapbox.io/keroxp/Zed%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%8CAI%E6%BF%80%E3%81%8A%E3%81%93%E3%81%AA%E4%BB%B6"
+      },
+      {
+        "title": "Take GitHub Mobile with you on iPhone Duo",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-16T14:30:07+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo"
       }
     ],
     "general": [
@@ -145,66 +219,6 @@
         "published_at": "2026-11-16T03:00:38+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/"
-      }
-    ],
-    "github": [
-      {
-        "title": "ag-ui-protocol/ag-ui",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 19,
-        "url": "https://github.com/ag-ui-protocol/ag-ui"
-      },
-      {
-        "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-15T22:34:36+00:00",
-        "relevance_score": 10,
-        "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html"
-      },
-      {
-        "title": "ZedのコントリビューションポリシーがAI激おこな件 - keroxpのScrapbox",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-16T08:16:47+00:00",
-        "relevance_score": 7,
-        "url": "https://scrapbox.io/keroxp/Zed%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%8CAI%E6%BF%80%E3%81%8A%E3%81%93%E3%81%AA%E4%BB%B6"
-      },
-      {
-        "title": "Take GitHub Mobile with you on iPhone Duo",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-16T14:30:07+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-16T09:12:00+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549"
-      },
-      {
-        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-16T08:47:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-16T07:02:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461"
-      },
-      {
-        "title": "ConnectWise ScreenConnect: Angreifer installieren Malware über RMM+-Erweiterung",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-16T10:15:00.000+00:00",
-        "relevance_score": 8,
-        "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html"
       }
     ],
     "geopolitics": [
