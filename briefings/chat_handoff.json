@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-16T09:03:22+00:00",
+  "generated_at": "2026-11-16T09:22:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 1,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
-    "medium": 7,
+    "medium": 8,
     "observe": 19
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-16T08:47:01+00:00",
+      "published_at": "2026-11-16T09:12:00+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Servic…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Dateien zu manipulieren, Berechtigungen zu erweitern oder beliebigen Code auszuführen.",
       "section": "medium"
     },
     {

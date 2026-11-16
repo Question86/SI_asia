@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T09:03:22+00:00_
+_Generiert: 2026-11-16T09:22:35+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com AG-UI: The Agent-User Interaction Protocol AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables seamless integration between AI agents, real time user context, and user interfaces. Join our Discord →…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-16T09:12:00+00:00`, fetched `2026-11-16T09:22:07+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Dateien zu manipulieren, Berechtigungen zu erweitern oder beliebigen Code auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-16T08:47:01+00:00`, fetched `2026-11-16T08:55:28+00:00`
