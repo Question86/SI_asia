@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-16T16:21:17+00:00_
+_Generiert: 2026-11-16T16:33:28+00:00_
 
 ## Bulk start AI Scan for repositories
 
@@ -19,7 +19,7 @@ _Generiert: 2026-11-16T16:21:17+00:00_
 
 ## Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30
 
-- Ranking Score: `24.25`
+- Ranking Score: `24.06`
 - Raw Network Score: `24.3`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
