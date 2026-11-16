@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T07:30:47+00:00",
+  "generated_at": "2026-11-16T08:09:11+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -2871,7 +2871,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1b57877cbfc50cbf189c",
@@ -3608,7 +3608,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2170780765320e429d3b",
@@ -13244,7 +13244,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_7503db7b4feb7f7ab549",
@@ -22650,6 +22650,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_cd3a31b0614ccbd22707",
+      "title": "デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_cd573a2c80288d8466e9",
