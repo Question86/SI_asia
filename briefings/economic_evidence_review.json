@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T09:53:07+00:00",
+  "generated_at": "2026-11-16T10:02:45+00:00",
   "fx_as_of": null,
-  "candidate_count": 3008,
+  "candidate_count": 3011,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 3008
+    "pending": 3011
   },
   "coverage_warning": null,
   "candidates": [
@@ -48,6 +48,27 @@
       "snippet": "liquidity and funding metrics. Indeed, digitalisation itself supports bank deposits, as payments migrate from cash to deposit-based instruments. Our analysis estimates a potential €127 billion deposit inflow by 2034, equivalent to 0.4% of banking sector assets or 1.5% of retail sight deposits. At aggregate level, this exceeds the estimated digital euro-related outflows",
       "source_priority": "primary_hint",
       "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html"
+    },
+    {
+      "amount_native": 800000000000.0,
+      "amount_usd": 800000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.8,
+      "candidate_id": "cand_733ca53e0b2155c8e7da",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-16T10:02:34+00:00",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:capital_allocation:167b6a1ff81c",
+      "review_status": "pending",
+      "snippet": "of AI financing could amplify the repricing of AI investments. On-balance-sheet debt of the seven largest AI firms has been growing significantly in 2026 and is expected to exceed $800 billion before year's end. The growth of debt at these firms brings to mind the growth of debt in the telecom investment cycle of the late 1990s and early 2000s. The FSR compares hypersca",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+      "component_confidence": 0.67,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 571000000000.0,
@@ -132,6 +153,27 @@
       "snippet": "create the large language models at the heart of AI. Users buy tokens to gain access to the models. Reports put annualized token sales for the two leading labs alone at more than $100 billion—an increase of 500-plus percent from a year ago. The Fed watches all of this attentively. We recognize that AI is a new variable—potentially a new factor of production—that will h",
       "source_priority": "primary_hint",
       "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm"
+    },
+    {
+      "amount_native": 100000000000.0,
+      "amount_usd": 100000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.8,
+      "candidate_id": "cand_17f27d422f10e010f2f7",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-16T10:02:34+00:00",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:capital_allocation:1e10ecf59108",
+      "review_status": "pending",
+      "snippet": "months and, as a result, are turning to more complex asset-backed financings. In addition, the hyperscaler firms and large graphics processing unit (GPU) producers also have over $100 billion in cumulative equity investments in large language model (LLM) labs and cloud-computing start-ups. These equity investments represent a form of \"circular financing\" in which hyper",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+      "component_confidence": 0.67,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 10000000000.0,
@@ -2783,6 +2825,27 @@
       "snippet": "o cover an emergency expense of $500 or more. 5 Wealth is even more highly concentrated among the very wealthiest. One-third of wealth is held by the upper 1 percent—that's nearly $60 trillion. There is even more concentration at the very top. The households in the upper 0.1 percent, which is only 135,000 individuals and families, own one-sixth of our nation's wealth. A",
       "source_priority": "primary_hint",
       "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm"
+    },
+    {
+      "amount_native": 3000000000000.0,
+      "amount_usd": 3000000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_69cf90eec1b9ed8eaa24",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-16T10:02:34+00:00",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:unknown:23cd757f6993",
+      "review_status": "pending",
+      "snippet": "e guarantees, have grown even more rapidly. The FSR estimates that the potential maximum nominal value of these types of obligations, or off-balance-sheet liabilities, now exceeds $3 trillion. 5 A significant share of these obligations results from complex arrangements in which hyperscalers and other large firms with strong credit ratings indirectly support the financi",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 900000000000.0,

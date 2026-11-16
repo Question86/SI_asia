@@ -1,19 +1,21 @@
 # Economic Evidence Review
 
-Generated: `2026-11-16T09:53:07+00:00`
+Generated: `2026-11-16T10:02:45+00:00`
 FX as of: `None`
 
-- Candidates: **3008**
+- Candidates: **3011**
 - Promoted: **0**
 
 | Candidate | Event | USD | Component | Status |
 |---|---|---:|---|---|
 | `cand_8e563f6c12f448661c61` | `evt_624a2e3ce3ccd3efe095` | $2,000,000,000,000 | capital_allocation | pending |
 | `cand_bd11c966d9dc4d797046` | `evt_43856848b80264610146` | — | capital_allocation | pending |
+| `cand_733ca53e0b2155c8e7da` | `evt_624a2e3ce3ccd3efe095` | $800,000,000,000 | capital_allocation | pending |
 | `cand_5afc78dc3fa418850f1f` | `evt_43856848b80264610146` | $571,000,000,000 | capital_allocation | pending |
 | `cand_c20760eb51bd97c8caad` | `evt_624a2e3ce3ccd3efe095` | $430,000,000,000 | capital_allocation | pending |
 | `cand_deebe6abb1ace41eb420` | `evt_43856848b80264610146` | $220,000,000,000 | capital_allocation | pending |
 | `cand_9fe76ea95cae96fd5d41` | `evt_624a2e3ce3ccd3efe095` | $100,000,000,000 | unknown | pending |
+| `cand_17f27d422f10e010f2f7` | `evt_624a2e3ce3ccd3efe095` | $100,000,000,000 | capital_allocation | pending |
 | `cand_0f6171be7e159a8f3965` | `evt_624a2e3ce3ccd3efe095` | $10,000,000,000 | transfers | pending |
 | `cand_d9f78969526855a19e91` | `evt_624a2e3ce3ccd3efe095` | $1,000,000 | unknown | pending |
 | `cand_65b78140488dade4687c` | `evt_624a2e3ce3ccd3efe095` | $3,500 | real_resource | pending |
@@ -46,5 +48,3 @@ FX as of: `None`
 | `cand_fa6b5653d37b926c109e` | `evt_43856848b80264610146` | — | capital_allocation | pending |
 | `cand_e1c22d7061107b693b15` | `evt_43856848b80264610146` | — | capital_allocation | pending |
 | `cand_db3b72d176d64f00f67c` | `evt_43856848b80264610146` | — | capital_allocation | pending |
-| `cand_faf3b83ed61c6b3769f5` | `evt_43856848b80264610146` | — | capital_allocation | pending |
-| `cand_b85370709fce6ca171f9` | `evt_43856848b80264610146` | — | capital_allocation | pending |
