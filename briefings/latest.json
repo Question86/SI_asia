@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T23:29:08+00:00",
-  "run_id": "2026-11-16T23:29:08+00:00",
+  "generated_at": "2026-11-16T23:47:42+00:00",
+  "run_id": "2026-11-16T23:47:42+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 1,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
     "medium": 15,
-    "observe": 53,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -1421,6 +1421,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f12af426b20514c1b0a6"
+      },
+      {
+        "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及",
+        "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-16T22:24:29+00:00",
+        "fetched_at": "2026-11-16T23:47:10+00:00",
+        "summary": "米Microsoftは11月15日（現地時間）、12日に発生したMicrosoft 365の大規模障害について、暫定的なインシデントレポートを公表した。7月に適用した修正に潜んでいた不具合が、サーバの負荷増加と処理能力の低下によって表面化し、障害が世界規模に連鎖したという。 Copilot、AIエージェント、プラットフォーム担当エグゼ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f9d309be600a135ecf48"
       },
       {
         "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
@@ -3067,6 +3088,27 @@
       "id": "f12af426b20514c1b0a6"
     },
     {
+      "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-16T22:24:29+00:00",
+      "fetched_at": "2026-11-16T23:47:10+00:00",
+      "summary": "米Microsoftは11月15日（現地時間）、12日に発生したMicrosoft 365の大規模障害について、暫定的なインシデントレポートを公表した。7月に適用した修正に潜んでいた不具合が、サーバの負荷増加と処理能力の低下によって表面化し、障害が世界規模に連鎖したという。 Copilot、AIエージェント、プラットフォーム担当エグゼ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f9d309be600a135ecf48"
+    },
+    {
       "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
       "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3317,7 +3359,29 @@
       "id": "c1e48ef922d7ef5a0e2f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-16T22:24:29+00:00",
+      "fetched_at": "2026-11-16T23:47:10+00:00",
+      "summary": "米Microsoftは11月15日（現地時間）、12日に発生したMicrosoft 365の大規模障害について、暫定的なインシデントレポートを公表した。7月に適用した修正に潜んでいた不具合が、サーバの負荷増加と処理能力の低下によって表面化し、障害が世界規模に連鎖したという。 Copilot、AIエージェント、プラットフォーム担当エグゼ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f9d309be600a135ecf48"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
