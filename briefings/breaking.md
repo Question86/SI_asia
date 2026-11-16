@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-16T11:18:28+00:00_
+_Generiert: 2026-11-16T11:33:21+00:00_
 
 ## Meta wants to teach Singapore’s small businesses AI. It also wants them on WhatsApp
 
