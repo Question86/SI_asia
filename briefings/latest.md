@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T11:04:15+00:00_
+_Generiert: 2026-11-16T11:18:25+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+35 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -235,6 +235,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: IT-Forscher haben Angriffe auf eine Schwachstelle in ConnectWise ScreenConnect beobachtet. Bösartige Akteure installieren dadurch Malware.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The small African lab sounding the alarm on AI bioweapons** — Score 7, observation — [Quelle](https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-11-16T11:00:23+00:00`, fetched `2026-11-16T11:17:53+00:00`
+  - Treffer: Africa, AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Africa (+2.5); recent (+1.0)
+  - Kurz: Photograph showing Georgina an AI Engineer building and working on the user interface of the new model Moremi.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/personal-information-protection)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-16T08:07:42+00:00`, fetched `2026-11-16T08:07:42+00:00`
