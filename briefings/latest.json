@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-16T02:01:11+00:00",
-  "run_id": "2026-11-16T02:01:11+00:00",
+  "generated_at": "2026-11-16T02:22:11+00:00",
+  "run_id": "2026-11-16T02:22:11+00:00",
   "date": "2026-11-16",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,60 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
-    "medium": 0,
-    "observe": 4,
-    "source_errors": 1
+    "medium": 1,
+    "observe": 5,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "Updates | ReliefWeb",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "source_type": "webpage_check",
+        "published_at": "2026-11-16T02:22:01+00:00",
+        "fetched_at": "2026-11-16T02:21:45+00:00",
+        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "General Santos",
+          "Glan",
+          "recovery",
+          "relief",
+          "Sarangani",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f7c3585c762295be421b"
+      }
+    ],
     "observe": [
       {
         "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
@@ -72,6 +115,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "71ad196bee4a1ce141ef"
+      },
+      {
+        "title": "A drug does not treat a virtual model. It treats a real patient",
+        "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-16T02:00:15+00:00",
+        "fetched_at": "2026-11-16T02:21:45+00:00",
+        "summary": "Artificial intelligence is changing how we evaluate medicines, predict outcomes and assess risks in clinical development. Virtual simulations can help researchers explore possibilities before a treatment reaches a patient. Predictive models can help identify patterns that might otherwise be difficult to see. But there is a question that deserves more attention: how closely do our […] The post A drug does not treat a…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f26cdff67020346d5000"
       },
       {
         "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
@@ -119,6 +183,48 @@
   },
   "findings": [
     {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-16T02:22:01+00:00",
+      "fetched_at": "2026-11-16T02:21:45+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f7c3585c762295be421b"
+    },
+    {
       "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
@@ -160,6 +266,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "71ad196bee4a1ce141ef"
+    },
+    {
+      "title": "A drug does not treat a virtual model. It treats a real patient",
+      "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-16T02:00:15+00:00",
+      "fetched_at": "2026-11-16T02:21:45+00:00",
+      "summary": "Artificial intelligence is changing how we evaluate medicines, predict outcomes and assess risks in clinical development. Virtual simulations can help researchers explore possibilities before a treatment reaches a patient. Predictive models can help identify patterns that might otherwise be difficult to see. But there is a question that deserves more attention: how closely do our […] The post A drug does not treat a…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f26cdff67020346d5000"
     },
     {
       "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
@@ -204,15 +331,72 @@
       "id": "a235c05ceb33c0c98478"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-16T02:22:01+00:00",
+      "fetched_at": "2026-11-16T02:21:45+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f7c3585c762295be421b"
+    },
+    {
+      "title": "A drug does not treat a virtual model. It treats a real patient",
+      "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-11-16T02:00:15+00:00",
+      "fetched_at": "2026-11-16T02:21:45+00:00",
+      "summary": "Artificial intelligence is changing how we evaluate medicines, predict outcomes and assess risks in clinical development. Virtual simulations can help researchers explore possibilities before a treatment reaches a patient. Predictive models can help identify patterns that might otherwise be difficult to see. But there is a question that deserves more attention: how closely do our […] The post A drug does not treat a…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f26cdff67020346d5000"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
