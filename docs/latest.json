@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T12:47:44+00:00",
-  "run_id": "2026-11-16T12:47:44+00:00",
+  "generated_at": "2026-11-16T13:08:00+00:00",
+  "run_id": "2026-11-16T13:08:00+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 38
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 1,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
     "medium": 11,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -619,6 +619,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d834bfee01935c3ea65d"
+      },
+      {
+        "title": "Frank Elderson: Smart supervision for small banks",
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-11-16T13:00:00+00:00",
+        "fetched_at": "2026-11-16T13:07:32+00:00",
+        "summary": "Frank Elderson: Smart supervision for small banks",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8ebd74a1292b8a0c08f2"
       },
       {
         "title": "ConnectWise ScreenConnect: Angreifer installieren Malware über RMM+-Erweiterung",
@@ -1526,6 +1546,26 @@
       "id": "d834bfee01935c3ea65d"
     },
     {
+      "title": "Frank Elderson: Smart supervision for small banks",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-11-16T13:00:00+00:00",
+      "fetched_at": "2026-11-16T13:07:32+00:00",
+      "summary": "Frank Elderson: Smart supervision for small banks",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8ebd74a1292b8a0c08f2"
+    },
+    {
       "title": "ConnectWise ScreenConnect: Angreifer installieren Malware über RMM+-Erweiterung",
       "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html",
       "source": "heise Security Alerts",
@@ -1839,7 +1879,28 @@
       "id": "095f8fc68251cea4b687"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Frank Elderson: Smart supervision for small banks",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-11-16T13:00:00+00:00",
+      "fetched_at": "2026-11-16T13:07:32+00:00",
+      "summary": "Frank Elderson: Smart supervision for small banks",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8ebd74a1292b8a0c08f2"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
