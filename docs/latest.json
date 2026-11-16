@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-16T23:15:14+00:00",
-  "run_id": "2026-11-16T23:15:14+00:00",
+  "generated_at": "2026-11-16T23:22:04+00:00",
+  "run_id": "2026-11-16T23:22:04+00:00",
   "date": "2026-11-16",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 67
+      "configured_public_sources_only": 68
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 0,
     "medium": 15,
-    "observe": 52,
-    "source_errors": 0
+    "observe": 53,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1421,6 +1421,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f12af426b20514c1b0a6"
+      },
+      {
+        "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
+        "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-16T19:25:09+00:00",
+        "fetched_at": "2026-11-16T23:21:31+00:00",
+        "summary": "神戸ソフトは、Webブラウザ上でNode.jsとパッケージマネージャのnpm、AstroなどのNode.jsに対応したフレームワークなどが実行できる「OpenVessel」をオープンソースで公開しました。 OpenVesselは、Webブラウザ上にインメモリのファイルシステム、プロセス、シグナル、パイプ、シェルなどのNode.jsを動かすための最小限...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "feb2a4b29bb72e716140"
       },
       {
         "title": "もういい加減\"技術勉強会\"やめませんか？ - Qiita",
@@ -3046,6 +3067,27 @@
       "id": "f12af426b20514c1b0a6"
     },
     {
+      "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
+      "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-16T19:25:09+00:00",
+      "fetched_at": "2026-11-16T23:21:31+00:00",
+      "summary": "神戸ソフトは、Webブラウザ上でNode.jsとパッケージマネージャのnpm、AstroなどのNode.jsに対応したフレームワークなどが実行できる「OpenVessel」をオープンソースで公開しました。 OpenVesselは、Webブラウザ上にインメモリのファイルシステム、プロセス、シグナル、パイプ、シェルなどのNode.jsを動かすための最小限...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "feb2a4b29bb72e716140"
+    },
+    {
       "title": "もういい加減\"技術勉強会\"やめませんか？ - Qiita",
       "url": "https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3277,29 +3319,35 @@
   ],
   "new_findings": [
     {
-      "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+      "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
+      "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-16T14:22:24+00:00",
-      "fetched_at": "2026-11-16T23:14:41+00:00",
-      "summary": "米GoogleのGoogle Threat Intelligence Group（GTIG）は11月16日（現地時間）、攻撃者によるAIの悪用状況をまとめた四半期レポート「GTIG AI Threat Tracker」の2026年第4四半期版を公開した。攻撃者がAIに手作業で指示を出す段階を越えて、複数のAIエージェントを組み合わせて攻撃を自律的に進める段階に移りつつあると...",
+      "published_at": "2026-11-16T19:25:09+00:00",
+      "fetched_at": "2026-11-16T23:21:31+00:00",
+      "summary": "神戸ソフトは、Webブラウザ上でNode.jsとパッケージマネージャのnpm、AstroなどのNode.jsに対応したフレームワークなどが実行できる「OpenVessel」をオープンソースで公開しました。 OpenVesselは、Webブラウザ上にインメモリのファイルシステム、プロセス、シグナル、パイプ、シェルなどのNode.jsを動かすための最小限...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "869636e23b8048ab1a87"
+      "id": "feb2a4b29bb72e716140"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "('Connection broken: IncompleteRead(4223 bytes read, 6017 more expected)', IncompleteRead(4223 bytes read, 6017 more expected))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
