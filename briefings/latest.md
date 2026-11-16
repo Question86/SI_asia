@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T22:40:42+00:00_
+_Generiert: 2026-11-16T22:49:26+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,10 @@ _Generiert: 2026-11-16T22:40:42+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.6M, Depth:35km) in Indonesia 16/11/2026 21:11 UTC, 9 thousand in MMI&gt;=IV.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577696)
+- **GDACS: Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577696)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.6M, Depth:35km) in Indonesia 16/11/2026 21:11 UTC, 9 thousand in MMI&gt;=IV.
+  - Kurz: Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.
 - **USGS earthquake M6.6 - 148 km WSW of Tual, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu)
   - Quelle: USGS
   - Zeit: `2026-11-16T21:11:20+00:00`

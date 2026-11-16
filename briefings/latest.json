@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T22:40:42+00:00",
-  "run_id": "2026-11-16T22:40:42+00:00",
+  "generated_at": "2026-11-16T22:49:26+00:00",
+  "run_id": "2026-11-16T22:49:26+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 66,
     "displayed_findings": 66,
     "high": 0,
@@ -3231,29 +3231,7 @@
       "id": "c1e48ef922d7ef5a0e2f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "不名誉なはずのフアン氏の辞任、それでもシリコンバレーからは支持する声やまず",
-      "url": "https://www.cnn.co.jp/business/35254956.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-16T11:28:12+00:00",
-      "fetched_at": "2026-11-16T22:40:15+00:00",
-      "summary": "不倫報道を受けてエヌビディアCEOを辞任したジェンスン・フアン氏だが、ハイテク業界はそのリーダーシップを称賛する声であふれている/Evelyn Hockstein/Reuters （CNN） 米半導体大手エヌビディアの創業者、ジェンスン・フアン氏が同社の最高経営責任者（CEO）の座を退いたことは、企業スキャンダルと受け止められた。...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "863d8ed3398d8407007d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
