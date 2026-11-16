@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T14:01:04+00:00_
+_Generiert: 2026-11-16T14:31:20+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -181,6 +181,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging Face. That’s bizarre. Claude filed a fake murder tip with the Philadelphia police. WTF! […] The post Headlines that broke the script: The warning signs were ins…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)** — Score 13, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-16T14:30:52+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **LVMH’s Media Division announces strategic partnership with OpenAI** — Score 12, opportunity — [Quelle](https://openai.com/index/lvmh-media-division-partnership)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-16T09:00:00+00:00`, fetched `2026-11-16T10:01:34+00:00`
@@ -217,6 +226,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiples vulnérabilités dans Microsoft Office (12 novembre 2026)** — Score 11, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-16T14:30:52+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que la vulnérabilité...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)** — Score 11, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-16T14:30:52+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Boris Vujčić: Risks and resilience in the euro area financial system** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-11-16T08:30:00+00:00`, fetched `2026-11-16T08:38:18+00:00`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T14:01:04+00:00_
+_Generated: 2026-11-16T14:31:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `45`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-16T14:01:04+00:00_
 - url: https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/
 - summary: The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging…
 
-### 7. LVMH’s Media Division announces strategic partnership with OpenAI
+### 7. Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `13`
+- published: `2026-11-12T00:00:00+00:00`
+- url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+
+### 8. LVMH’s Media Division announces strategic partnership with OpenAI
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-11-16T09:00:00+00:00`
 - url: https://openai.com/index/lvmh-media-division-partnership
 - summary: LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
-
-### 8. The Philippines can’t win the AI arms race, so it is betting on Taglish
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-11-16T04:52:11+00:00`
-- url: https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/
-- summary: Ask a Manila contact-centre agent what a caller means by “Pakicheck naman po ang bill ko, may extra charge yata” and she will answer before the sentence ends. Ask a model trained mostly on Silicon Valley’s internet and you may get a polite reply to the wrong…
 
 END OF DOCUMENT

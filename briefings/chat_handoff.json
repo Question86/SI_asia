@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-16T14:01:04+00:00",
+  "generated_at": "2026-11-16T14:31:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 6,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
     "medium": 11,
-    "observe": 28
+    "observe": 34
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "section": "observe"
+    },
+    {
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "source": "OpenAI News RSS",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "section": "observe"
-    },
-    {
-      "title": "The Philippines can’t win the AI arms race, so it is betting on Taglish",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-16T04:52:11+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/",
-      "summary": "Ask a Manila contact-centre agent what a caller means by “Pakicheck naman po ang bill ko, may extra charge yata” and she will answer before the sentence ends. Ask a model trained mostly on Silicon Valley’s internet and you may get a polite reply to the wrong…",
       "section": "observe"
     }
   ],

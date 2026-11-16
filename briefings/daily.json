@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T14:01:06+00:00",
-  "today_file_total": 39,
+  "generated_at": "2026-11-16T14:31:23+00:00",
+  "today_file_total": 45,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -173,6 +173,29 @@
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
+      "key": "title:multiples-vuln-rabilit-dans-microsoft-edge-novembre-2026",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:philippines:5.0",
       "title": "M 5.0 - 68 km S of Sarangani, Philippines",
       "sources": [
@@ -219,6 +242,52 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-microsoft-office-novembre-2026",
+      "title": "Multiples vulnérabilités dans Microsoft Office (12 novembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-microsoft-net-novembre-2026",
+      "title": "Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:prompt-engineering-real-development-just-good-documentation",
@@ -360,116 +429,47 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:japan.cnet.com",
-      "title": "「年齢で断らない」賃貸アパート 全戸に見守りWi-Fi 電波の変化で安否を検知",
+      "key": "title:vuln-rabilit-dans-sonicwall-sonicos-novembre-2026",
+      "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "CERT-FR Avis de sécurité"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://japan.cnet.com/article/35254951/"
+        "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/"
       ],
       "finding_count": 1,
-      "max_score": 10,
+      "max_score": 8,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:vucar-raises-pre-series-bring-priced-auctions-vietnam",
-      "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
+      "key": "title:multiples-vuln-rabilit-dans-les-processeurs-intel-novembre",
+      "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "CERT-FR Avis de sécurité"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/"
+        "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/"
       ],
       "finding_count": 1,
-      "max_score": 10,
+      "max_score": 8,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:cloudflare-kitesurf",
-      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "title:google-pro",
-      "title": "グーグルのAI認定講座、1万人に無料提供 「Google AI Pro」3カ月利用権も",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.watch.impress.co.jp/docs/news/2156720.html"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:note.com",
-      "title": "「最後かもしれないだろ？」 AI 以前の個人ゲーム開発者の、AI との折り合いのつけ方｜Tatsuya Koyama | ゲーム開発と絵と音楽",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://note.com/tatsuya_koyama/n/nb7aa1ba71aba"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
