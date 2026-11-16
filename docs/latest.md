@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T03:40:07+00:00_
+_Generiert: 2026-11-16T04:02:53+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+12 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Headlines that broke the script: The warning signs were inside the building — Part 1** — Score 13, observation — [Quelle](https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-16T04:00:24+00:00`, fetched `2026-11-16T04:02:25+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging Face. That’s bizarre. Claude filed a fake murder tip with the Philadelphia police. WTF! […] The post Headlines that broke the script: The warning signs were ins…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB** — Score 12, observation — [Quelle](https://levtech.jp/media/detail_972/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-16T01:34:47+00:00`, fetched `2026-11-16T02:50:32+00:00`
@@ -68,15 +77,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Bitcoin currently sits at US$65250.47, reflecting a 1.78 per cent increase over the last 24 hours. The broader crypto sector capitalisation climbed 2.46 per cent to reach US$2.20T, while underlying market breadth registered a 2.23 per cent gain during the exact same period. Mainstream financial analysts might hastily label this price movement a genuine recovery. […] The post The US$65K illusion: Declining volume and…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **A drug does not treat a virtual model. It treats a real patient** — Score 7, observation — [Quelle](https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-16T02:00:15+00:00`, fetched `2026-11-16T02:21:45+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Artificial intelligence is changing how we evaluate medicines, predict outcomes and assess risks in clinical development. Virtual simulations can help researchers explore possibilities before a treatment reaches a patient. Predictive models can help identify patterns that might otherwise be difficult to see. But there is a question that deserves more attention: how closely do our […] The post A drug does not treat a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
