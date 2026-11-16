@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:32:20+00:00",
+  "generated_at": "2026-11-16T18:48:50+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 56,
@@ -72,18 +72,18 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.94,
+      "network_score": 21.77,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.3,
-      "ranking_score": 21.94,
+      "ranking_score": 21.77,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.44,
+      "baseline_bonus": 1.27,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -131,49 +131,6 @@
       "first_seen_at": "2026-11-16T16:09:45+00:00"
     },
     {
-      "key": "domain:openai.com",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/the-kings-trust-and-openai",
-        "https://openai.com/index/strengthening-online-child-safety",
-        "https://openai.com/index/lvmh-media-division-partnership",
-        "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-        "https://openai.com/index/science-at-the-frontier",
-        "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
-      ],
-      "finding_count": 8,
-      "max_score": 16,
-      "credibility_total": 8.4,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 20.52,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 32.8,
-      "ranking_score": 20.52,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 3.02,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
-    },
-    {
       "key": "github_repo:ag-ui-protocol/ag-ui",
       "title": "ag-ui-protocol/ag-ui",
       "sources": [
@@ -212,6 +169,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-16T08:38:50+00:00"
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/the-kings-trust-and-openai",
+        "https://openai.com/index/strengthening-online-child-safety",
+        "https://openai.com/index/lvmh-media-division-partnership",
+        "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "https://openai.com/index/science-at-the-frontier",
+        "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+      ],
+      "finding_count": 8,
+      "max_score": 16,
+      "credibility_total": 8.4,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 20.27,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 32.8,
+      "ranking_score": 20.27,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 2.77,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:meta-wants-teach-singapore-small-businesses-also-wants",
@@ -293,46 +293,6 @@
       "first_seen_at": "2026-11-16T04:39:04+00:00"
     },
     {
-      "key": "domain:www.federalreserve.gov",
-      "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
-      "sources": [
-        "Federal Reserve Speeches and Testimony"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-        "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm"
-      ],
-      "finding_count": 2,
-      "max_score": 17,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.52,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 21.2,
-      "ranking_score": 17.52,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.52,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "domain:wid.cert-bund.de",
       "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen",
       "sources": [
@@ -371,6 +331,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "domain:www.federalreserve.gov",
+      "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+      "sources": [
+        "Federal Reserve Speeches and Testimony"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+        "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm"
+      ],
+      "finding_count": 2,
+      "max_score": 17,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.49,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 21.2,
+      "ranking_score": 17.49,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.49,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:hidden-economics-returns-southeast-asian-commerce",
@@ -1713,7 +1713,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-16T18:32:20Z",
+    "generated_at": "2026-11-16T18:48:51Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
