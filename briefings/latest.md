@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T04:59:45+00:00_
+_Generiert: 2026-11-16T05:17:31+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade** — Score 10, observation — [Quelle](https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-16T05:13:30+00:00`, fetched `2026-11-16T05:17:01+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
+  - Kurz: Vucar, a Ho Chi Minh City-based used-car auction platform, has raised an undisclosed pre-Series A round led by OSK-SBI Venture Partners, with existing backers Monk’s Hill Ventures and Antler also joining. The deal, announced by OSK-SBI last Friday, comes a little over two years after Vucar’s US$1 million seed round, led by Monk’s Hill and […] The post Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開** — Score 10, opportunity — [Quelle](https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-15T22:34:36+00:00`, fetched `2026-11-16T03:23:53+00:00`
@@ -127,15 +136,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 lice...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **The AI draft is the easy part. The source check is the job** — Score 8, observation — [Quelle](https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-16T01:00:01+00:00`, fetched `2026-11-16T01:44:52+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: In corporate communications, the first useful thing an AI assistant does is not write a finished announcement. It gives you a place to begin. It can turn a long technical brief into an organised list of claims, flag missing stakeholders, or reconstruct a scattered email chain into a timeline that people can check. That speed […] The post The AI draft is the easy part. The source check is the job appeared first on e2…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
