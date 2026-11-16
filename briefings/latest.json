@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T02:22:11+00:00",
-  "run_id": "2026-11-16T02:22:11+00:00",
+  "generated_at": "2026-11-16T02:50:59+00:00",
+  "run_id": "2026-11-16T02:50:59+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 1,
-    "observe": 5,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -74,6 +74,28 @@
     ],
     "observe": [
       {
+        "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
+        "url": "https://levtech.jp/media/detail_972/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-16T01:34:47+00:00",
+        "fetched_at": "2026-11-16T02:50:32+00:00",
+        "summary": "北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "081bb20107b3b7b312cf"
+      },
+      {
         "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
         "url": "https://p2ptk.org/monopoly/5688",
         "source": "Hatena Bookmark Hotentry IT",
@@ -115,6 +137,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "71ad196bee4a1ce141ef"
+      },
+      {
+        "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
+        "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-16T02:46:47+00:00",
+        "fetched_at": "2026-11-16T02:50:32+00:00",
+        "summary": "Bitcoin currently sits at US$65250.47, reflecting a 1.78 per cent increase over the last 24 hours. The broader crypto sector capitalisation climbed 2.46 per cent to reach US$2.20T, while underlying market breadth registered a 2.23 per cent gain during the exact same period. Mainstream financial analysts might hastily label this price movement a genuine recovery. […] The post The US$65K illusion: Declining volume and…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "dd6e7537dc1bfe71d6e3"
       },
       {
         "title": "A drug does not treat a virtual model. It treats a real patient",
@@ -225,6 +289,28 @@
       "id": "f7c3585c762295be421b"
     },
     {
+      "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
+      "url": "https://levtech.jp/media/detail_972/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-16T01:34:47+00:00",
+      "fetched_at": "2026-11-16T02:50:32+00:00",
+      "summary": "北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "081bb20107b3b7b312cf"
+    },
+    {
       "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
@@ -266,6 +352,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "71ad196bee4a1ce141ef"
+    },
+    {
+      "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
+      "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-16T02:46:47+00:00",
+      "fetched_at": "2026-11-16T02:50:32+00:00",
+      "summary": "Bitcoin currently sits at US$65250.47, reflecting a 1.78 per cent increase over the last 24 hours. The broader crypto sector capitalisation climbed 2.46 per cent to reach US$2.20T, while underlying market breadth registered a 2.23 per cent gain during the exact same period. Mainstream financial analysts might hastily label this price movement a genuine recovery. […] The post The US$65K illusion: Declining volume and…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "dd6e7537dc1bfe71d6e3"
     },
     {
       "title": "A drug does not treat a virtual model. It treats a real patient",
@@ -333,67 +461,68 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-16T02:22:01+00:00",
-      "fetched_at": "2026-11-16T02:21:45+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "f7c3585c762295be421b"
-    },
-    {
-      "title": "A drug does not treat a virtual model. It treats a real patient",
-      "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
+      "url": "https://levtech.jp/media/detail_972/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-16T02:00:15+00:00",
-      "fetched_at": "2026-11-16T02:21:45+00:00",
-      "summary": "Artificial intelligence is changing how we evaluate medicines, predict outcomes and assess risks in clinical development. Virtual simulations can help researchers explore possibilities before a treatment reaches a patient. Predictive models can help identify patterns that might otherwise be difficult to see. But there is a question that deserves more attention: how closely do our […] The post A drug does not treat a…",
+      "published_at": "2026-11-16T01:34:47+00:00",
+      "fetched_at": "2026-11-16T02:50:32+00:00",
+      "summary": "北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に...",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f26cdff67020346d5000"
+      "id": "081bb20107b3b7b312cf"
+    },
+    {
+      "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
+      "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-16T02:46:47+00:00",
+      "fetched_at": "2026-11-16T02:50:32+00:00",
+      "summary": "Bitcoin currently sits at US$65250.47, reflecting a 1.78 per cent increase over the last 24 hours. The broader crypto sector capitalisation climbed 2.46 per cent to reach US$2.20T, while underlying market breadth registered a 2.23 per cent gain during the exact same period. Mainstream financial analysts might hastily label this price movement a genuine recovery. […] The post The US$65K illusion: Declining volume and…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "dd6e7537dc1bfe71d6e3"
     }
   ],
   "source_errors": [],

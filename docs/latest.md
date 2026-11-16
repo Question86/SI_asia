@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T02:22:11+00:00_
+_Generiert: 2026-11-16T02:50:59+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+8 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB** — Score 12, observation — [Quelle](https://levtech.jp/media/detail_972/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-16T01:34:47+00:00`, fetched `2026-11-16T02:50:32+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org** — Score 12, risk — [Quelle](https://p2ptk.org/monopoly/5688)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-15T21:09:29+00:00`, fetched `2026-11-16T01:44:52+00:00`
@@ -42,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In corporate communications, the first useful thing an AI assistant does is not write a finished announcement. It gives you a place to begin. It can turn a long technical brief into an organised list of claims, flag missing stakeholders, or reconstruct a scattered email chain into a timeline that people can check. That speed […] The post The AI draft is the easy part. The source check is the job appeared first on e2…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market** — Score 7, observation — [Quelle](https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-16T02:46:47+00:00`, fetched `2026-11-16T02:50:32+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Bitcoin currently sits at US$65250.47, reflecting a 1.78 per cent increase over the last 24 hours. The broader crypto sector capitalisation climbed 2.46 per cent to reach US$2.20T, while underlying market breadth registered a 2.23 per cent gain during the exact same period. Mainstream financial analysts might hastily label this price movement a genuine recovery. […] The post The US$65K illusion: Declining volume and…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **A drug does not treat a virtual model. It treats a real patient** — Score 7, observation — [Quelle](https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-16T02:00:15+00:00`, fetched `2026-11-16T02:21:45+00:00`
@@ -59,15 +77,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ：Windowsフロントライン（1/3 ページ） メールの到着遅延といった細かい事象は丸1日以上続いたものの、大枠でのダウンタイムは平均して半日程度とみられる。 特に日本では始業時から終業時まで、メールやMicrosoft 365の各...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる** — Score 5, observation — [Quelle](https://togetter.com/li/2770776)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-15T14:21:22+00:00`, fetched `2026-11-16T00:03:56+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
