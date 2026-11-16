@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T16:57:25+00:00_
+_Generated: 2026-11-16T17:03:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `51`
+- findings: `52`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-16T16:57:25+00:00_
 - url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/
 - summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
 
-### 8. Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30
-- source: ECB Open Market Operations and Communication
+### 8. Warsh, Opening Remarks
+- source: Federal Reserve Speeches and Testimony
 - score: `12`
-- published: `2026-11-16T14:40:27+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260101.en.html
-- summary: Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30
+- published: `2026-11-16T17:00:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm
+- summary: Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California
 
 END OF DOCUMENT

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T16:57:25+00:00",
-  "run_id": "2026-11-16T16:57:25+00:00",
+  "generated_at": "2026-11-16T17:03:47+00:00",
+  "run_id": "2026-11-16T17:03:47+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 51
+      "configured_public_sources_only": 52
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "new_relevant_findings": 1,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
     "medium": 13,
-    "observe": 38,
+    "observe": 39,
     "source_errors": 0
   },
   "sections": {
@@ -488,6 +488,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8e30dba2b2e2f957d0d9"
+      },
+      {
+        "title": "Warsh, Opening Remarks",
+        "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+        "source": "Federal Reserve Speeches and Testimony",
+        "source_type": "rss",
+        "published_at": "2026-11-16T17:00:00+00:00",
+        "fetched_at": "2026-11-16T17:03:19+00:00",
+        "summary": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California",
+        "matched_keywords": [
+          "Macro/Policy",
+          "speech",
+          "testimony"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: San Francisco, Federal Reserve (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0a223bb3291f8e963b47"
       },
       {
         "title": "Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30",
@@ -1722,6 +1744,28 @@
       "id": "8e30dba2b2e2f957d0d9"
     },
     {
+      "title": "Warsh, Opening Remarks",
+      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "fetched_at": "2026-11-16T17:03:19+00:00",
+      "summary": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California",
+      "matched_keywords": [
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: San Francisco, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0a223bb3291f8e963b47"
+    },
+    {
       "title": "Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260101.en.html",
       "source": "ECB Open Market Operations and Communication",
@@ -2493,7 +2537,30 @@
       "id": "095f8fc68251cea4b687"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Warsh, Opening Remarks",
+      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "fetched_at": "2026-11-16T17:03:19+00:00",
+      "summary": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California",
+      "matched_keywords": [
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: San Francisco, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0a223bb3291f8e963b47"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-16T16:57:25+00:00",
+  "generated_at": "2026-11-16T17:03:47+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "new_relevant_findings": 1,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
     "medium": 13,
-    "observe": 38
+    "observe": 39
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "source": "ECB Open Market Operations and Communication",
+      "title": "Warsh, Opening Remarks",
+      "source": "Federal Reserve Speeches and Testimony",
       "source_type": "rss",
-      "published_at": "2026-11-16T14:40:27+00:00",
+      "published_at": "2026-11-16T17:00:00+00:00",
       "relevance_score": 12,
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260101.en.html",
-      "summary": "Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "summary": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California",
       "section": "observe"
     }
   ],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T16:57:25+00:00_
+_Generiert: 2026-11-16T17:03:47+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+52 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Warsh, Opening Remarks** — Score 12, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-11-16T17:00:00+00:00`, fetched `2026-11-16T17:03:19+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: San Francisco, Federal Reserve (+2.0)
+  - Kurz: Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260101.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-11-16T14:40:27+00:00`, fetched `2026-11-16T14:52:50+00:00`
@@ -258,15 +267,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: IT-Forscher haben Angriffe auf eine Schwachstelle in ConnectWise ScreenConnect beobachtet. Bösartige Akteure installieren dadurch Malware.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **More ways to move care forward with ChatGPT for Healthcare** — Score 8, observation — [Quelle](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-11-16T06:00:00+00:00`, fetched `2026-11-16T14:59:37+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
