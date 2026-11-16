@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-16T11:12:12Z",
+  "generated_at": "2026-11-16T11:25:51Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T09:12:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -41,7 +41,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T08:47:01+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -66,7 +66,7 @@
       "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-16T10:15:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T22:34:36+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -115,11 +115,39 @@
       "summary": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 lice..."
     },
     {
+      "title": "The small African lab sounding the alarm on AI bioweapons",
+      "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-11-16T11:00:23+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Photograph showing Georgina an AI Engineer building and working on the user interface of the new model Moremi."
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T07:02:01+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -172,7 +200,7 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-16T08:38:50+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -197,7 +225,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T03:24:30+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -224,7 +252,7 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-16T08:38:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -250,7 +278,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 149.99,
+      "age_days": 150.0,
       "topics": [
         "general"
       ],
@@ -274,38 +302,11 @@
       "summary": ""
     },
     {
-      "title": "The hidden economics of returns in Southeast Asian e-commerce",
-      "url": "https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T06:18:08+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 150.86,
+      "age_days": 150.87,
       "topics": [],
       "dynamics_score": 19.9,
       "raw_band": "krass",
@@ -314,12 +315,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.5,
+      "baseline_z_hint": 2.4,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.50",
+        "baseline z_hint 2.40",
         "AXI0M/User-Yps identity hit",
         "aging penalty -8.0 for 150.9d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
