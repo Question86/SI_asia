@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T20:01:58+00:00_
+_Generiert: 2026-11-16T20:17:51+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+57 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-11-16T20:01:58+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability
+- **GDACS: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (20.826 million in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001351)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (20.826 million in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:9.971km) in Philippines 15/11/2026 13:41 UTC, 30 thousand in MMI VI.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577487)
   - Quelle: GDACS
   - Zeit: ``
@@ -336,3 +340,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)

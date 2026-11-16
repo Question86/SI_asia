@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:02:02+00:00",
+  "generated_at": "2026-11-16T20:17:56+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2026-20320"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (20.826 million in Tropical Storm).",
+        "summary": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (20.826 million in Tropical Storm).",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001351",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
