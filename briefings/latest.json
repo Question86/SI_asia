@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T21:57:31+00:00",
-  "run_id": "2026-11-16T21:57:31+00:00",
+  "generated_at": "2026-11-16T22:03:00+00:00",
+  "run_id": "2026-11-16T22:03:00+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 63,
     "displayed_findings": 63,
     "high": 0,
@@ -3075,30 +3075,7 @@
       "id": "c1e48ef922d7ef5a0e2f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIが文学界を揺るがしている",
-      "url": "https://gigazine.net/news/20261116-ai-literary-world/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-16T10:02:10+00:00",
-      "fetched_at": "2026-11-16T21:57:01+00:00",
-      "summary": "生成AIの発達により自然な言葉づかいで物語性のある文章もAIが生成できるようになったことで、AIで年間200冊のロマンス小説を執筆する作家の例や、執筆に生成AIを使った疑いで出版を停止した騒動、「AIで書いたのではないか」と疑惑を受けた短編小説が国際文学賞の最優秀賞を受賞した一件など、さまざまな議論が文学界で...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f70c52c015e97f102689"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
