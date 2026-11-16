@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T14:31:20+00:00_
+_Generated: 2026-11-16T14:53:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `45`
+- findings: `46`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-16T14:31:20+00:00_
 - url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/
 - summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
 
-### 8. LVMH’s Media Division announces strategic partnership with OpenAI
-- source: OpenAI News RSS
+### 8. Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
 - score: `12`
-- published: `2026-11-16T09:00:00+00:00`
-- url: https://openai.com/index/lvmh-media-division-partnership
-- summary: LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
+- published: `2026-11-16T14:40:27+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260101.en.html
+- summary: Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30
 
 END OF DOCUMENT
