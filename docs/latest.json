@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T04:02:53+00:00",
-  "run_id": "2026-11-16T04:02:53+00:00",
+  "generated_at": "2026-11-16T04:21:49+00:00",
+  "run_id": "2026-11-16T04:21:49+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 12,
     "displayed_findings": 12,
     "high": 0,
@@ -631,51 +631,7 @@
       "id": "095f8fc68251cea4b687"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Headlines that broke the script: The warning signs were inside the building — Part 1",
-      "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-16T04:00:24+00:00",
-      "fetched_at": "2026-11-16T04:02:25+00:00",
-      "summary": "The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging Face. That’s bizarre. Claude filed a fake murder tip with the Philadelphia police. WTF! […] The post Headlines that broke the script: The warning signs were ins…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "OpenAI"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c6457b3c73768c6a3a3d"
-    },
-    {
-      "title": "ドコモでまたも通信障害、11月3度目",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-16T02:12:18+00:00",
-      "fetched_at": "2026-11-16T04:02:25+00:00",
-      "summary": "ドコモでまたも通信障害、11月3度目",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "02f02827de44572d78d0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
