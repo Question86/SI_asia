@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T04:21:49+00:00_
+_Generated: 2026-11-16T04:38:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
@@ -15,28 +15,35 @@ _Generated: 2026-11-16T04:21:49+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. Headlines that broke the script: The warning signs were inside the building — Part 1
+### 2. M 5.4 - 8 km SE of Anamizu, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-11-16T04:38:33.833+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr
+- summary: PAGER - GREEN ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)
+
+### 3. Headlines that broke the script: The warning signs were inside the building — Part 1
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-11-16T04:00:24+00:00`
 - url: https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/
 - summary: The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging…
 
-### 3. OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB
+### 4. OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-16T01:34:47+00:00`
 - url: https://levtech.jp/media/detail_972/
 - summary: 北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に...
 
-### 4. かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org
+### 5. かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-15T21:09:29+00:00`
 - url: https://p2ptk.org/monopoly/5688
 - summary: 以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...
 
-### 5. Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開
+### 6. Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-11-15T22:34:36+00:00`
