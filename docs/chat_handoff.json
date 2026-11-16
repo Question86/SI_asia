@@ -1,97 +1,27 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-15T23:47:50+00:00",
+  "generated_at": "2026-11-16T00:04:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 7,
-    "observe": 27
+    "medium": 0,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "Updates | ReliefWeb",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-15T23:47:40+00:00",
-      "relevance_score": 23,
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "section": "medium"
-    },
-    {
-      "title": "個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）",
+      "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-14T23:49:57+00:00",
-      "relevance_score": 23,
-      "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
-      "summary": "Claude CodeやCodexのようなAIコーディングツールが広がり、個人が手がけられるソフトウェアの規模が変わりつつある。米国の開発者Brennen Herbruck氏が2026年10月に書き始めたオープンソースの3D CAD「SolidCraft」は、その一例だ。公開から約5週間で正式版を58回リリースし、GitHubからのダウンロードは約150万回、ス...",
-      "section": "medium"
-    },
-    {
-      "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-19T08:36:48+00:00",
-      "relevance_score": 20,
-      "url": "https://kawarimidoll.com/posts/202610182/",
-      "summary": "Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS auto…",
-      "section": "medium"
-    },
-    {
-      "title": "tradermonty/claude-trading-skills",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 20,
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. https://tradermonty.github.io/claude-trading-skills/ Claude Trading Skills Claude Trading Skills starte…",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.8 - 19 km NW of Albardón, Argentina",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-15T04:16:58.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
-      "summary": "Time 2026-11-15 03:59:59 UTC 2026-11-15 03:59:59 UTC at epicenter Location 31.322°S 68.682°W Depth 108.94 km (67.69 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-14T15:38:44+00:00",
-      "relevance_score": 11,
-      "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
-      "summary": "AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます",
-      "section": "observe"
-    },
-    {
-      "title": "Our new blog for science",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-15T22:00:00+00:00",
-      "relevance_score": 10,
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.8 - 143 km ESE of Petropavlovsk-Kamchatsky, Russia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-15T22:58:07.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tygk",
-      "summary": "Time 2026-11-15 22:38:22 UTC 2026-11-15 22:38:22 UTC at epicenter Location 52.440°N 160.486°E Depth 35.00 km (21.75 mi)",
+      "published_at": "2026-11-15T14:21:22+00:00",
+      "relevance_score": 5,
+      "url": "https://togetter.com/li/2770776",
+      "summary": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
       "section": "observe"
     }
   ],
@@ -100,151 +30,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=30.68.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
-        "url": "https://kawarimidoll.com/posts/202610182/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-19T08:36:48+00:00",
-        "age_days": 27.64,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 30.68,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -2.3 for 27.6d old signal"
-        ],
-        "summary": "Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost 📱🐭 No we are ..."
-      },
-      {
-        "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
-        "url": "https://kawarimidoll.com/posts/202610182/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T09:22:22+00:00",
-        "age_days": 149.6,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 149.6d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）",
-        "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-15T03:47:30+00:00",
-        "age_days": 0.84,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Updates | ReliefWeb",
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-06-19T11:28:55+00:00",
-        "age_days": 149.52,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 149.5d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Updates | ReliefWeb",
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-15T23:47:40+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "ai",
-          "macro",
-          "disaster"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: earthquake",
-          "high terms: rce",
-          "security high-signal: rce",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
-      }
-    ]
-  }
+  ]
 }
