@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-16T07:23:45Z",
+  "generated_at": "2026-11-16T07:52:42Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -24,7 +24,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-16T04:39:04+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -48,7 +48,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T22:34:36+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -76,7 +76,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T07:02:01+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -101,7 +101,7 @@
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T01:00:01+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -129,7 +129,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T03:24:30+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -152,38 +152,11 @@
       "summary": ""
     },
     {
-      "title": "The hidden economics of returns in Southeast Asian e-commerce",
-      "url": "https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T06:18:08+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "high terms: rce",
-        "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 149.83,
+      "age_days": 149.85,
       "topics": [
         "general"
       ],
@@ -207,11 +180,38 @@
       "summary": ""
     },
     {
+      "title": "The hidden economics of returns in Southeast Asian e-commerce",
+      "url": "https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-16T06:18:08+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The AI draft is the easy part. The source check is the job",
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T01:45:23+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -238,7 +238,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-16T05:51:03+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro",
@@ -267,7 +267,7 @@
       "url": "https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:00:40+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security",
@@ -296,7 +296,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-16T04:38:33.833+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -322,23 +322,23 @@
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T00:38:44+00:00",
-      "age_days": 1.28,
+      "age_days": 1.3,
       "topics": [
         "general"
       ],
-      "dynamics_score": 22.68,
+      "dynamics_score": 22.51,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.53,
+      "baseline_z_hint": 1.37,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.53"
+        "baseline z_hint 1.37"
       ],
       "summary": ""
     },
@@ -347,7 +347,7 @@
       "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:02:57+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -367,36 +367,11 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 79.72,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 79.7d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T04:59:48+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -417,28 +392,27 @@
       "summary": ""
     },
     {
-      "title": "Is prompt engineering real AI development, or just good documentation?",
-      "url": "https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T06:18:08+00:00",
-      "age_days": 0.05,
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 79.74,
       "topics": [
-        "ai"
+        "security"
       ],
       "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3",
+        "aging penalty -8.0 for 79.7d old signal"
       ],
       "summary": ""
     },
@@ -447,7 +421,7 @@
       "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T02:51:02+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "macro"
       ],
@@ -471,7 +445,7 @@
       "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T02:22:13+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -491,11 +465,37 @@
       "summary": ""
     },
     {
+      "title": "Is prompt engineering real AI development, or just good documentation?",
+      "url": "https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-16T06:18:08+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ドコモでまたも通信障害、11月3度目",
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T04:02:57+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -519,7 +519,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:45:23+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -543,7 +543,7 @@
       "url": "https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:59:48+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -569,7 +569,7 @@
       "url": "https://levtech.jp/media/detail_972/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T02:51:02+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -595,7 +595,7 @@
       "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T03:10:27+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -619,7 +619,7 @@
       "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:00:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -644,7 +644,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:12:32+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -667,7 +667,7 @@
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:09:29+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -691,7 +691,7 @@
       "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T05:17:36+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -717,7 +717,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T03:03:29+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -741,7 +741,7 @@
       "url": "https://e27.co/whats-actually-changing-for-asia-pacific-businesses-in-the-age-of-ai-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T05:17:36+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -767,7 +767,7 @@
       "url": "https://levtech.jp/media/detail_972/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:34:47+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -793,7 +793,7 @@
       "url": "https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:00:03+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -818,7 +818,7 @@
       "url": "https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:52:11+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -843,7 +843,7 @@
       "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T03:00:38+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -867,7 +867,7 @@
       "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T05:13:30+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -892,7 +892,7 @@
       "url": "https://togetter.com/li/2770776",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 149.79,
+      "age_days": 149.81,
       "topics": [
         "ai"
       ],
@@ -919,7 +919,7 @@
       "url": "https://e27.co/whats-actually-changing-for-asia-pacific-businesses-in-the-age-of-ai-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T05:00:40+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -944,7 +944,7 @@
       "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T02:46:47+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -970,7 +970,7 @@
       "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T02:00:15+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -995,7 +995,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T02:12:18+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -1020,7 +1020,7 @@
       "url": "https://togetter.com/li/2770776",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T14:21:22+00:00",
-      "age_days": 0.71,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
