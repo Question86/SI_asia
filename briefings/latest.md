@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T14:53:22+00:00_
+_Generiert: 2026-11-16T15:00:09+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+49 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -289,14 +289,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: IT-Forscher haben Angriffe auf eine Schwachstelle in ConnectWise ScreenConnect beobachtet. Bösartige Akteure installieren dadurch Malware.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The small African lab sounding the alarm on AI bioweapons** — Score 7, observation — [Quelle](https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-11-16T11:00:23+00:00`, fetched `2026-11-16T11:17:53+00:00`
-  - Treffer: Africa, AI/KI
+- **More ways to move care forward with ChatGPT for Healthcare** — Score 8, observation — [Quelle](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-16T06:00:00+00:00`, fetched `2026-11-16T14:59:37+00:00`
+  - Treffer: OpenAI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Africa (+2.5); recent (+1.0)
-  - Kurz: Photograph showing Georgina an AI Engineer building and working on the user interface of the new model Moremi.
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
