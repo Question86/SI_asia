@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-16T05:58:51+00:00",
+  "generated_at": "2026-11-16T06:18:04+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 2,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 2,
-    "observe": 15
+    "medium": 3,
+    "observe": 16
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -33,6 +33,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr",
       "summary": "PAGER - GREEN ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)",
       "section": "medium"
+    },
+    {
+      "title": "The hidden economics of returns in Southeast Asian e-commerce",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-16T06:00:40+00:00",
+      "relevance_score": 14,
+      "url": "https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/",
+      "summary": "A customer orders a product online, receives it and requests a refund. From the buyer’s perspective, the process may involve a few taps and a parcel handed to a courier. For the merchant, it can initiate a second supply chain involving transportation, inspect…",
+      "section": "medium"
+    },
+    {
+      "title": "Is prompt engineering real AI development, or just good documentation?",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-16T06:00:03+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/",
+      "summary": "I’ve heard both answers from people I respect. One senior engineer told me prompt engineering is “writing a very long comment and hoping.” A teammate who ships LLM features for a living told me it’s the highest-leverage skill in AI development right now. Afte…",
+      "section": "observe"
     },
     {
       "title": "Headlines that broke the script: The warning signs were inside the building — Part 1",
@@ -62,16 +82,6 @@
       "relevance_score": 12,
       "url": "https://levtech.jp/media/detail_972/",
       "summary": "北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に...",
-      "section": "observe"
-    },
-    {
-      "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-15T21:09:29+00:00",
-      "relevance_score": 12,
-      "url": "https://p2ptk.org/monopoly/5688",
-      "summary": "以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...",
       "section": "observe"
     }
   ],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T05:58:51+00:00_
+_Generiert: 2026-11-16T06:18:04+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -79,9 +79,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The hidden economics of returns in Southeast Asian e-commerce** — Score 14, risk — [Quelle](https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-16T06:00:40+00:00`, fetched `2026-11-16T06:17:29+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: A customer orders a product online, receives it and requests a refund. From the buyer’s perspective, the process may involve a few taps and a parcel handed to a courier. For the merchant, it can initiate a second supply chain involving transportation, inspection, reimbursement, inventory recovery and additional administrative work. This matters in Southeast Asia, […] The post The hidden economics of returns in South…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
+- **Is prompt engineering real AI development, or just good documentation?** — Score 13, observation — [Quelle](https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-16T06:00:03+00:00`, fetched `2026-11-16T06:17:29+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
+  - Kurz: I’ve heard both answers from people I respect. One senior engineer told me prompt engineering is “writing a very long comment and hoping.” A teammate who ships LLM features for a living told me it’s the highest-leverage skill in AI development right now. After building a fair number of LLM-powered features, I think they’re both […] The post Is prompt engineering real AI development, or just good documentation? appea…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Headlines that broke the script: The warning signs were inside the building — Part 1** — Score 13, observation — [Quelle](https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-16T04:00:24+00:00`, fetched `2026-11-16T04:02:25+00:00`
@@ -118,15 +136,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade** — Score 10, observation — [Quelle](https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-16T05:13:30+00:00`, fetched `2026-11-16T05:17:01+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
-  - Kurz: Vucar, a Ho Chi Minh City-based used-car auction platform, has raised an undisclosed pre-Series A round led by OSK-SBI Venture Partners, with existing backers Monk’s Hill Ventures and Antler also joining. The deal, announced by OSK-SBI last Friday, comes a little over two years after Vucar’s US$1 million seed round, led by Monk’s Hill and […] The post Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開** — Score 10, opportunity — [Quelle](https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-15T22:34:36+00:00`, fetched `2026-11-16T03:23:53+00:00`
