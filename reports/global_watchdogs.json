@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:34:36+00:00",
+  "generated_at": "2026-11-16T21:42:05+00:00",
   "sections": {
     "global_security": [
       {
@@ -64,15 +64,25 @@
       },
       {
         "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.6M, Depth:35km) in Indonesia 16/11/2026 21:11 UTC, 9 thousand in MMI&gt;=IV.",
+        "summary": "Green earthquake (Magnitude 6.6M, Depth:35km) in Indonesia 16/11/2026 21:11 UTC, 9 thousand in MMI&gt;=IV.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577696",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.6 - 151 km WSW of Tual, Indonesia",
-        "summary": "M6.6 - 151 km WSW of Tual, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M6.6 - 151 km WSW of Tual, Indonesia. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu",
         "published_at": "2026-11-16T21:11:17+00:00",
         "metrics": {
           "mag": 6.6,
-          "alert": "",
+          "alert": "green",
           "sig": 671.0,
           "tsunami": 0
         }
