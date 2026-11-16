@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-16T03:10:18+00:00",
+  "generated_at": "2026-11-16T03:24:23+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 1,
-    "observe": 8
+    "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,16 @@
       "section": "observe"
     },
     {
+      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-15T22:34:36+00:00",
+      "relevance_score": 10,
+      "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+      "summary": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 lice...",
+      "section": "observe"
+    },
+    {
       "title": "The AI draft is the easy part. The source check is the job",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -52,16 +62,6 @@
       "relevance_score": 8,
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "summary": "In corporate communications, the first useful thing an AI assistant does is not write a finished announcement. It gives you a place to begin. It can turn a long technical brief into an organised list of claims, flag missing stakeholders, or reconstruct a scat…",
-      "section": "observe"
-    },
-    {
-      "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-16T02:46:47+00:00",
-      "relevance_score": 7,
-      "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/",
-      "summary": "Bitcoin currently sits at US$65250.47, reflecting a 1.78 per cent increase over the last 24 hours. The broader crypto sector capitalisation climbed 2.46 per cent to reach US$2.20T, while underlying market breadth registered a 2.23 per cent gain during the exa…",
       "section": "observe"
     }
   ],
