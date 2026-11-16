@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T03:00:44+00:00_
+_Generiert: 2026-11-16T03:10:18+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+9 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,22 +29,8 @@ _Generiert: 2026-11-16T03:00:44+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:9.971km) in Philippines 15/11/2026 13:41 UTC, 30 thousand in MMI VI.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577487)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:9.971km) in Philippines 15/11/2026 13:41 UTC, 30 thousand in MMI VI.
-- **GDACS: Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001350)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577445)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577321)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Read timed out. (read timeout=8)
 
 ## Wirtschaft global
 

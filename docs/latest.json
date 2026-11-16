@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T03:00:44+00:00",
-  "run_id": "2026-11-16T03:00:44+00:00",
+  "generated_at": "2026-11-16T03:10:18+00:00",
+  "run_id": "2026-11-16T03:10:18+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 1,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -242,6 +242,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a235c05ceb33c0c98478"
+      },
+      {
+        "title": "Set access before you connect the tool, not after",
+        "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-16T03:00:38+00:00",
+        "fetched_at": "2026-11-16T03:09:49+00:00",
+        "summary": "One of the easiest mistakes small teams make with new tools is giving them too much access too early. It usually happens for a practical reason. Someone wants the workflow to work properly on the first try. They do not want permissions issues, broken connections, or missing context. So the fast option is to connect […] The post Set access before you connect the tool, not after appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "095f8fc68251cea4b687"
       }
     ]
   },
@@ -457,9 +477,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a235c05ceb33c0c98478"
+    },
+    {
+      "title": "Set access before you connect the tool, not after",
+      "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-16T03:00:38+00:00",
+      "fetched_at": "2026-11-16T03:09:49+00:00",
+      "summary": "One of the easiest mistakes small teams make with new tools is giving them too much access too early. It usually happens for a practical reason. Someone wants the workflow to work properly on the first try. They do not want permissions issues, broken connections, or missing context. So the fast option is to connect […] The post Set access before you connect the tool, not after appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "095f8fc68251cea4b687"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Set access before you connect the tool, not after",
+      "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-16T03:00:38+00:00",
+      "fetched_at": "2026-11-16T03:09:49+00:00",
+      "summary": "One of the easiest mistakes small teams make with new tools is giving them too much access too early. It usually happens for a practical reason. Someone wants the workflow to work properly on the first try. They do not want permissions issues, broken connections, or missing context. So the fast option is to connect […] The post Set access before you connect the tool, not after appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "095f8fc68251cea4b687"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
