@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T20:17:56+00:00",
+  "generated_at": "2026-11-16T20:32:38+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
-        20.2,
         20.2,
         30.4,
         24.4,
@@ -130,12 +129,13 @@
         32.8,
         32.8,
         32.8,
+        32.8,
         32.8
       ],
-      "rolling_average": 29.34,
+      "rolling_average": 29.76,
       "rolling_peak": 39.7,
       "last_score": 32.8,
-      "z_hint": 3.46
+      "z_hint": 3.04
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -239,7 +239,7 @@
     },
     "earthquake:philippines:5.0": {
       "title": "M 5.0 - 68 km S of Sarangani, Philippines",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -979,9 +979,8 @@
     },
     "domain:www.federalreserve.gov": {
       "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
-        19.1,
         19.1,
         19.1,
         19.1,
@@ -1010,19 +1009,20 @@
         21.2,
         21.2,
         21.2,
+        21.2,
         21.2
       ],
-      "rolling_average": 20.53,
+      "rolling_average": 20.6,
       "rolling_peak": 24.2,
       "last_score": 21.2,
-      "z_hint": 0.67
+      "z_hint": 0.6
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
-        14.2,
         27.3,
+        24.3,
         24.3,
         24.3,
         24.3,
@@ -1052,10 +1052,10 @@
         24.3,
         24.3
       ],
-      "rolling_average": 24.06,
+      "rolling_average": 24.4,
       "rolling_peak": 27.3,
       "last_score": 24.3,
-      "z_hint": 0.24
+      "z_hint": -0.1
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -2802,7 +2802,7 @@
     },
     "domain:restofworld.org": {
       "title": "The small African lab sounding the alarm on AI bioweapons",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -3749,7 +3749,7 @@
     },
     "domain:qiita.com": {
       "title": "もういい加減\"技術勉強会\"やめませんか？ - Qiita",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -4408,7 +4408,7 @@
     },
     "domain:www.heise.de": {
       "title": "ConnectWise ScreenConnect: Angreifer installieren Malware über RMM+-Erweiterung",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -4536,7 +4536,7 @@
     },
     "domain:japan.cnet.com": {
       "title": "「年齢で断らない」賃貸アパート 全戸に見守りWi-Fi 電波の変化で安否を検知",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -4799,7 +4799,7 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         25.7,
         25.7,
@@ -5194,7 +5194,7 @@
     },
     "domain:togetter.com": {
       "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -5952,7 +5952,7 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         22.3,
         22.3,
@@ -10376,7 +10376,7 @@
     },
     "domain:note.com": {
       "title": "「最後かもしれないだろ？」 AI 以前の個人ゲーム開発者の、AI との折り合いのつけ方｜Tatsuya Koyama | ゲーム開発と絵と音楽",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -30968,7 +30968,7 @@
     },
     "domain:scrapbox.io": {
       "title": "ZedのコントリビューションポリシーがAI激おこな件 - keroxpのScrapbox",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -119503,7 +119503,7 @@
     },
     "domain:p2ptk.org": {
       "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -120045,7 +120045,7 @@
     },
     "title:draft-easy-part-source-check-job": {
       "title": "The AI draft is the easy part. The source check is the job",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -120085,7 +120085,7 @@
     },
     "title:microsoft-365-sla": {
       "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -120125,7 +120125,7 @@
     },
     "title:drug-does-not-treat-virtual-model-treats-real": {
       "title": "A drug does not treat a virtual model. It treats a real patient",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -120165,7 +120165,7 @@
     },
     "title:openai-anthropic-pdm-lab": {
       "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -120205,7 +120205,7 @@
     },
     "title:65k-illusion-declining-volume-extreme-fear-signal-fragile": {
       "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -120245,7 +120245,7 @@
     },
     "title:set-access-before-you-connect-tool-not-after": {
       "title": "Set access before you connect the tool, not after",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -120285,7 +120285,7 @@
     },
     "title:cloudflare-kitesurf": {
       "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -120325,7 +120325,7 @@
     },
     "title:headlines-that-broke-script-warning-signs-were-inside": {
       "title": "Headlines that broke the script: The warning signs were inside the building — Part 1",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -120365,7 +120365,7 @@
     },
     "url:https://k-tai.watch.impress.co.jp/docs/news/2156616.html": {
       "title": "ドコモでまたも通信障害、11月3度目",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -120405,7 +120405,7 @@
     },
     "earthquake:japan:5.4": {
       "title": "M 5.4 - 8 km SE of Anamizu, Japan",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         21.7,
         21.7,
@@ -120445,7 +120445,7 @@
     },
     "title:philippines-can-win-arms-race-betting-taglish": {
       "title": "The Philippines can’t win the AI arms race, so it is betting on Taglish",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -120485,7 +120485,7 @@
     },
     "title:103": {
       "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -120525,7 +120525,7 @@
     },
     "title:vucar-raises-pre-series-bring-priced-auctions-vietnam": {
       "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -120565,7 +120565,7 @@
     },
     "title:what-actually-changing-asia-pacific-businesses-age": {
       "title": "What’s actually changing for Asia Pacific businesses in the age of AI",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -120605,7 +120605,7 @@
     },
     "title:hidden-economics-returns-southeast-asian-commerce": {
       "title": "The hidden economics of returns in Southeast Asian e-commerce",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -120645,7 +120645,7 @@
     },
     "title:prompt-engineering-real-development-just-good-documentation": {
       "title": "Is prompt engineering real AI development, or just good documentation?",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -120685,7 +120685,7 @@
     },
     "url:https://www.digital.go.jp/personal-information-protection": {
       "title": "デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -120725,7 +120725,7 @@
     },
     "github_repo:ag-ui-protocol/ag-ui": {
       "title": "ag-ui-protocol/ag-ui",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         21.1,
         21.1,
@@ -120765,7 +120765,7 @@
     },
     "url:https://www.itmedia.co.jp/news/article/2611/16/2000003224/": {
       "title": "スパコン「富岳」に不正アクセス 理研が明らかに",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -120805,7 +120805,7 @@
     },
     "title:meta-wants-teach-singapore-small-businesses-also-wants": {
       "title": "Meta wants to teach Singapore’s small businesses AI. It also wants them on WhatsApp",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         20.1,
         20.1,
@@ -120845,7 +120845,7 @@
     },
     "title:google-pro": {
       "title": "グーグルのAI認定講座、1万人に無料提供 「Google AI Pro」3カ月利用権も",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         11.1,
         11.1,
@@ -120885,9 +120885,9 @@
     },
     "title:multiples-vuln-rabilit-dans-microsoft-edge-novembre-2026": {
       "title": "Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
-        18.1,
+        15.1,
         15.1,
         15.1,
         15.1,
@@ -120918,16 +120918,16 @@
         15.1,
         15.1
       ],
-      "rolling_average": 15.2,
-      "rolling_peak": 18.1,
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
       "last_score": 15.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:multiples-vuln-rabilit-dans-microsoft-office-novembre-2026": {
       "title": "Multiples vulnérabilités dans Microsoft Office (12 novembre 2026)",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
-        16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -120958,16 +120958,16 @@
         13.1,
         13.1
       ],
-      "rolling_average": 13.2,
-      "rolling_peak": 16.1,
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
       "last_score": 13.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:multiples-vuln-rabilit-dans-microsoft-net-novembre-2026": {
       "title": "Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
-        16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -120998,16 +120998,16 @@
         13.1,
         13.1
       ],
-      "rolling_average": 13.2,
-      "rolling_peak": 16.1,
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
       "last_score": 13.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:vuln-rabilit-dans-sonicwall-sonicos-novembre-2026": {
       "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
-        13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -121038,16 +121038,16 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.2,
-      "rolling_peak": 13.1,
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
       "last_score": 10.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "title:multiples-vuln-rabilit-dans-les-processeurs-intel-novembre": {
       "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
-        13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -121078,16 +121078,16 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.2,
-      "rolling_peak": 13.1,
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
       "last_score": 10.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "title:multiples-vuln-rabilit-dans-xen-novembre-2026": {
       "title": "Multiples vulnérabilités dans Xen (12 novembre 2026)",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
-        13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -121118,14 +121118,14 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.2,
-      "rolling_peak": 13.1,
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
       "last_score": 10.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "title:take-github-mobile-you-iphone-duo": {
       "title": "Take GitHub Mobile with you on iPhone Duo",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -121154,18 +121154,20 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.21,
+      "rolling_average": 8.2,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:bulk-start-scan-repositories": {
       "title": "Bulk start AI Scan for repositories",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         25.1,
+        22.1,
         22.1,
         22.1,
         22.1,
@@ -121198,7 +121200,7 @@
     },
     "earthquake:m 5.4 - 95 km wsw of changuillo, peru:5.4": {
       "title": "M 5.4 - 95 km WSW of Changuillo, Peru",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         20.7,
         17.7,
@@ -121221,25 +121223,27 @@
         17.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 17.84,
+      "rolling_average": 17.83,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -0.14
+      "z_hint": -0.13
     },
     "title:gpu-game-spark": {
       "title": "マイクロソフト、ゲーミングPCなどの“空きGPU”をAI学習に活用する特許出願―提供した計算量に応じたクレジット付与の例も | Game*Spark - 国内・海外ゲーム情報サイト",
-      "updated_at": "2026-11-16T20:17:56+00:00",
+      "updated_at": "2026-11-16T20:32:38+00:00",
       "network_scores": [
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.1,
+      "rolling_average": 7.85,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     }
   }
 }
