@@ -1,20 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-16T02:41:08Z",
+  "generated_at": "2026-11-16T03:32:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 12,
+    "dynamics": 20,
     "bands": {
-      "krass": 2,
-      "strong": 3,
-      "watch": 3,
-      "quiet": 4
+      "extreme": 1,
+      "krass": 1,
+      "strong": 5,
+      "watch": 6,
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 3,
-      "quiet": 4
+      "strong": 7,
+      "watch": 6,
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -23,59 +24,60 @@
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T00:38:44+00:00",
-      "age_days": 1.09,
+      "age_days": 1.12,
       "topics": [
         "general"
       ],
-      "dynamics_score": 25.74,
+      "dynamics_score": 25.02,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.31,
+      "baseline_z_hint": 3.66,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.31"
+        "baseline z_hint 3.66"
       ],
       "summary": ""
     },
     {
-      "title": "The AI draft is the easy part. The source check is the job",
-      "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T01:45:23+00:00",
-      "age_days": 0.04,
+      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+      "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-15T22:34:36+00:00",
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2",
         "high terms: rce",
         "security high-signal: rce",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
       ],
-      "summary": ""
+      "summary": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 lice..."
     },
     {
       "title": "The AI draft is the easy part. The source check is the job",
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T01:00:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -103,7 +105,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 149.63,
+      "age_days": 149.67,
       "topics": [
         "general"
       ],
@@ -114,15 +116,41 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 149.6d old signal",
+        "aging penalty -8.0 for 149.7d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The AI draft is the easy part. The source check is the job",
+      "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-16T01:45:23+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -132,7 +160,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-16T02:22:01+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro",
@@ -157,26 +185,127 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
-      "title": "A drug does not treat a virtual model. It treats a real patient",
-      "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T02:22:13+00:00",
+      "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+      "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-16T03:24:30+00:00",
       "age_days": 0.01,
       "topics": [
-        "general"
+        "ai"
       ],
-      "dynamics_score": 13.5,
+      "dynamics_score": 24.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
+      "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-16T02:51:02+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 16.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "A drug does not treat a virtual model. It treats a real patient",
+      "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-16T02:22:13+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-16T01:45:23+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
+      "url": "https://levtech.jp/media/detail_972/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-16T02:51:02+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -185,7 +314,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:12:32+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -208,7 +337,7 @@
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:09:29+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -228,35 +357,85 @@
       "summary": "以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―..."
     },
     {
-      "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
+      "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
+      "url": "https://levtech.jp/media/detail_972/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-16T01:45:23+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-11-16T01:34:47+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に..."
+    },
+    {
+      "title": "Set access before you connect the tool, not after",
+      "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-16T03:10:27+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
+      "dynamics_score": 8.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +1"
       ],
       "summary": ""
+    },
+    {
+      "title": "Set access before you connect the tool, not after",
+      "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-16T03:00:38+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "One of the easiest mistakes small teams make with new tools is giving them too much access too early. It usually happens for a practical reason. Someone wants the workflow to work properly on the first try. They do not want permissions issues, broken connections, or missing context. So the fast option is to connect [……"
     },
     {
       "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
       "url": "https://togetter.com/li/2770776",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 149.59,
+      "age_days": 149.63,
       "topics": [
         "ai"
       ],
@@ -279,11 +458,37 @@
       "summary": ""
     },
     {
+      "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
+      "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-16T02:46:47+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Bitcoin currently sits at US$65250.47, reflecting a 1.78 per cent increase over the last 24 hours. The broader crypto sector capitalisation climbed 2.46 per cent to reach US$2.20T, while underlying market breadth registered a 2.23 per cent gain during the exact same period. Mainstream financial analysts might hastily…"
+    },
+    {
       "title": "A drug does not treat a virtual model. It treats a real patient",
       "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T02:00:15+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -308,7 +513,7 @@
       "url": "https://togetter.com/li/2770776",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T14:21:22+00:00",
-      "age_days": 0.51,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -329,5 +534,5 @@
       "summary": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.74."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.02."
 }
