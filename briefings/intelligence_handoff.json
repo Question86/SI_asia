@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-16T12:20:21Z",
+  "generated_at": "2026-11-16T13:52:51Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T09:12:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -41,7 +41,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T08:47:01+00:00",
-      "age_days": 0.15,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -66,7 +66,7 @@
       "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-16T10:15:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T22:34:36+00:00",
-      "age_days": 0.57,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -119,7 +119,7 @@
       "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-16T11:00:23+00:00",
-      "age_days": 0.06,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -147,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T07:02:01+00:00",
-      "age_days": 0.22,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T01:00:01+00:00",
-      "age_days": 0.47,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "macro"
@@ -200,7 +200,7 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-16T08:38:50+00:00",
-      "age_days": 0.15,
+      "age_days": 0.22,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -225,7 +225,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T03:24:30+00:00",
-      "age_days": 0.37,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -252,7 +252,7 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-16T08:38:18+00:00",
-      "age_days": 0.15,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -278,7 +278,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 150.04,
+      "age_days": 150.1,
       "topics": [
         "general"
       ],
@@ -296,7 +296,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 150.0d old signal",
+        "aging penalty -8.0 for 150.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -306,7 +306,7 @@
       "url": "https://openai.com/index/the-kings-trust-and-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 151.65,
+      "age_days": 151.71,
       "topics": [
         "ai"
       ],
@@ -317,14 +317,14 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.0,
+      "baseline_z_hint": 5.65,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.00",
+        "baseline z_hint 5.65",
         "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 151.6d old signal",
+        "aging penalty -8.0 for 151.7d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
       ],
