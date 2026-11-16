@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T07:30:04+00:00_
+_Generated: 2026-11-16T08:08:21+00:00_
 
 ## Status
-- status: `normal`
-- findings: `20`
+- status: `warning`
+- findings: `22`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-16T07:30:04+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder nicht näher spezifizierte Auswirkungen auszulösen.
 
-### 4. The hidden economics of returns in Southeast Asian e-commerce
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-11-16T06:00:40+00:00`
-- url: https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/
-- summary: A customer orders a product online, receives it and requests a refund. From the buyer’s perspective, the process may involve a few taps and a parcel handed to a courier. For the merchant, it can initiate a second supply chain involving transportation, inspect…
+### 4. M 5.0 - 68 km S of Sarangani, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-16T07:55:37.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil
+- summary: Time 2026-11-16 07:14:14 UTC 2026-11-16 07:14:14 UTC at epicenter Location 4.784°N 125.427°E Depth 10.00 km (6.21 mi)
 
 ### 5. Is prompt engineering real AI development, or just good documentation?
 - source: e27 Asia Startup and Tech Feed
