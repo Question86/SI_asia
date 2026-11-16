@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T10:55:46+00:00_
+_Generated: 2026-11-16T11:04:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `33`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-16T10:55:46+00:00_
 - url: https://github.com/ag-ui-protocol/ag-ui
 - summary: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com AG-UI: The Agent-User Interaction Protocol AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applic…
 
-### 4. Barr, Some Potential Financial Stability Implications of Artificial Intelligence
-- source: Federal Reserve Speeches and Testimony
-- score: `17`
-- published: `2026-11-16T10:00:00+00:00`
-- url: https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm
-- summary: Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy
+### 4. Meta wants to teach Singapore’s small businesses AI. It also wants them on WhatsApp
+- source: e27 Asia Startup and Tech Feed
+- score: `18`
+- published: `2026-11-16T11:01:26+00:00`
+- url: https://e27.co/meta-wants-to-teach-singapores-small-businesses-ai-it-also-wants-them-on-whatsapp-20261116/
+- summary: SpeakEasy Lab is a two-person communication training business in Singapore, which means that when both founders are teaching, nobody is answering customers. Nobody human, at least. Routine enquiries that once waited an hour or more now get near-instant replie…
 
 ### 5. Is prompt engineering real AI development, or just good documentation?
 - source: e27 Asia Startup and Tech Feed
