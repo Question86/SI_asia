@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T00:04:28+00:00",
-  "run_id": "2026-11-16T00:04:28+00:00",
+  "generated_at": "2026-11-16T00:45:01+00:00",
+  "run_id": "2026-11-16T00:45:01+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 1,
     "displayed_findings": 1,
     "high": 0,
@@ -76,29 +76,7 @@
       "id": "a235c05ceb33c0c98478"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
-      "url": "https://togetter.com/li/2770776",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-15T14:21:22+00:00",
-      "fetched_at": "2026-11-16T00:03:56+00:00",
-      "summary": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a235c05ceb33c0c98478"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
