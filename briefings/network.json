@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-16T09:22:38+00:00",
+  "generated_at": "2026-11-16T09:42:30+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 27,
-    "clusters": 25,
+    "findings": 28,
+    "clusters": 26,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -91,46 +91,6 @@
       "first_seen_at": "2026-11-16T08:38:50+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461"
-      ],
-      "finding_count": 3,
-      "max_score": 16,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 25.3,
-      "ranking_score": 20.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "earthquake:japan:5.4",
       "title": "M 5.4 - 8 km SE of Anamizu, Japan",
       "sources": [
@@ -172,6 +132,46 @@
       "first_seen_at": "2026-11-16T04:39:04+00:00"
     },
     {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461"
+      ],
+      "finding_count": 3,
+      "max_score": 16,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 22.3,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "title:hidden-economics-returns-southeast-asian-commerce",
       "title": "The hidden economics of returns in Southeast Asian e-commerce",
       "sources": [
@@ -208,6 +208,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-16T06:18:08+00:00"
+    },
+    {
+      "key": "domain:japan.cnet.com",
+      "title": "「年齢で断らない」賃貸アパート 全戸に見守りWi-Fi 電波の変化で安否を検知",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://japan.cnet.com/article/35254951/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.92,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.1,
+      "ranking_score": 14.92,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.92,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T09:22:22+00:00"
     },
     {
       "key": "title:prompt-engineering-real-development-just-good-documentation",
@@ -344,18 +382,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.72,
+      "network_score": 13.66,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 14.1,
-      "ranking_score": 13.72,
+      "ranking_score": 13.66,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.22,
+      "baseline_bonus": 0.16,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -535,18 +573,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.65,
+      "network_score": 10.63,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.1,
-      "ranking_score": 10.65,
+      "ranking_score": 10.63,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.65,
+      "baseline_bonus": 0.63,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -978,7 +1016,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-16T09:22:39Z",
+    "generated_at": "2026-11-16T09:42:30Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

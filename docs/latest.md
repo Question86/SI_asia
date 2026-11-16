@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T09:22:35+00:00_
+_Generiert: 2026-11-16T09:42:27+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -141,15 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Boris Vujčić: Risks and resilience in the euro area financial system
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開** — Score 10, opportunity — [Quelle](https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html)
+- **「年齢で断らない」賃貸アパート 全戸に見守りWi-Fi 電波の変化で安否を検知** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254951/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-15T22:34:36+00:00`, fetched `2026-11-16T03:23:53+00:00`
-  - Treffer: GitHub, Hatena, hotentry, Open Source
+  - Zeit: published `2026-11-16T07:53:04+00:00`, fetched `2026-11-16T09:41:59+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 lice...
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 同社は、年齢や一人暮らしを理由に賃貸住宅への入居を断られる人に、住まいの選択肢を増やすことを目指すという。建物は木造2階建てで、専有面積は20.58～22.63平方メートル。東武スカイツリーラインの大袋駅から徒歩10分に位置する。 家族は専用アプリで日々の活動状況を確認できる。管理会社のスタッフが月1回、1時間...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/personal-information-protection)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-16T08:07:42+00:00`, fetched `2026-11-16T08:07:42+00:00`
