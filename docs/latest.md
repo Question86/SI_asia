@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T22:16:58+00:00_
+_Generiert: 2026-11-16T22:32:29+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+65 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -267,15 +267,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 同社は、年齢や一人暮らしを理由に賃貸住宅への入居を断られる人に、住まいの選択肢を増やすことを目指すという。建物は木造2階建てで、専有面積は20.58～22.63平方メートル。東武スカイツリーラインの大袋駅から徒歩10分に位置する。 家族は専用アプリで日々の活動状況を確認できる。管理会社のスタッフが月1回、1時間...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Frank Elderson: Smart supervision for small banks** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-11-16T13:00:00+00:00`, fetched `2026-11-16T13:07:32+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Frank Elderson: Smart supervision for small banks
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 146 km SSE of Isangel, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyns)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-16T22:15:53.040+00:00`, fetched `2026-11-16T22:32:02+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-16 21:55:58 UTC 2026-11-16 21:55:58 UTC at epicenter Location 20.767°S 169.818°E Depth 119.85 km (74.47 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
