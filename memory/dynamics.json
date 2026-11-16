@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-16T07:52:42Z",
+  "generated_at": "2026-11-16T08:49:45Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 3,
-      "strong": 9,
-      "watch": 13,
-      "quiet": 14
+      "krass": 4,
+      "strong": 11,
+      "watch": 15,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 13,
-      "watch": 13,
-      "quiet": 14
+      "strong": 16,
+      "watch": 15,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-16T04:39:04+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -48,7 +48,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T22:34:36+00:00",
-      "age_days": 0.39,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -76,7 +76,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T07:02:01+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -101,7 +101,7 @@
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T01:00:01+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -129,7 +129,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T03:24:30+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -152,11 +152,37 @@
       "summary": ""
     },
     {
+      "title": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-16T08:38:18+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com AG-UI: The Agent-User Interaction Protocol AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables sea…"
+    },
+    {
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 149.85,
+      "age_days": 149.89,
       "topics": [
         "general"
       ],
@@ -174,7 +200,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 149.8d old signal",
+        "aging penalty -8.0 for 149.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -184,7 +210,7 @@
       "url": "https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:18:08+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -211,7 +237,7 @@
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T01:45:23+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -238,7 +264,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-16T05:51:03+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro",
@@ -267,7 +293,7 @@
       "url": "https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:00:40+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security",
@@ -292,11 +318,36 @@
       "summary": "A customer orders a product online, receives it and requests a refund. From the buyer’s perspective, the process may involve a few taps and a parcel handed to a courier. For the merchant, it can initiate a second supply chain involving transportation, inspection, reimbursement, inventory recovery and additional admini…"
     },
     {
+      "title": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-16T08:38:50+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.4 - 8 km SE of Anamizu, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-16T04:38:33.833+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -318,27 +369,52 @@
       "summary": "PAGER - GREEN ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)"
     },
     {
+      "title": "M 5.0 - 68 km S of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-16T07:55:37.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-16 07:14:14 UTC 2026-11-16 07:14:14 UTC at epicenter Location 4.784°N 125.427°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T00:38:44+00:00",
-      "age_days": 1.3,
+      "age_days": 1.34,
       "topics": [
         "general"
       ],
-      "dynamics_score": 22.51,
+      "dynamics_score": 22.15,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.37,
+      "baseline_z_hint": 1.04,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.37"
+        "baseline z_hint 1.04"
       ],
       "summary": ""
     },
@@ -347,7 +423,7 @@
       "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:02:57+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -371,7 +447,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T04:59:48+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -392,11 +468,37 @@
       "summary": ""
     },
     {
+      "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 150.76,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.31,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.83,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.83",
+        "aging penalty -8.0 for 150.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 79.74,
+      "age_days": 79.78,
       "topics": [
         "security"
       ],
@@ -412,7 +514,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 79.7d old signal"
+        "aging penalty -8.0 for 79.8d old signal"
       ],
       "summary": ""
     },
@@ -421,7 +523,7 @@
       "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T02:51:02+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "macro"
       ],
@@ -445,7 +547,7 @@
       "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T02:22:13+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -465,11 +567,36 @@
       "summary": ""
     },
     {
+      "title": "M 5.0 - 68 km S of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-06-17T22:13:10+00:00",
+      "age_days": 151.44,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 151.4d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Is prompt engineering real AI development, or just good documentation?",
       "url": "https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:18:08+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -495,7 +622,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T04:02:57+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -519,7 +646,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:45:23+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -543,7 +670,7 @@
       "url": "https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:59:48+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -569,7 +696,7 @@
       "url": "https://levtech.jp/media/detail_972/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T02:51:02+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -595,7 +722,7 @@
       "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T03:10:27+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -619,7 +746,7 @@
       "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:00:24+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -644,7 +771,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:12:32+00:00",
-      "age_days": 0.44,
+      "age_days": 0.48,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -667,7 +794,7 @@
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:09:29+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -687,11 +814,35 @@
       "summary": "以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―..."
     },
     {
+      "title": "スパコン「富岳」に不正アクセス 理研が明らかに",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-16T08:38:50+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
       "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T05:17:36+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -713,11 +864,59 @@
       "summary": ""
     },
     {
+      "title": "デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました",
+      "url": "https://www.digital.go.jp/personal-information-protection",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-16T08:08:25+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-11-16T08:30:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Boris Vujčić: Risks and resilience in the euro area financial system"
+    },
+    {
       "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T03:03:29+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -741,7 +940,7 @@
       "url": "https://e27.co/whats-actually-changing-for-asia-pacific-businesses-in-the-age-of-ai-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T05:17:36+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -767,7 +966,7 @@
       "url": "https://levtech.jp/media/detail_972/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:34:47+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -789,11 +988,35 @@
       "summary": "北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に..."
     },
     {
+      "title": "デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました",
+      "url": "https://www.digital.go.jp/personal-information-protection",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-16T08:07:42+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました"
+    },
+    {
       "title": "Is prompt engineering real AI development, or just good documentation?",
       "url": "https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:00:03+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -812,233 +1035,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "I’ve heard both answers from people I respect. One senior engineer told me prompt engineering is “writing a very long comment and hoping.” A teammate who ships LLM features for a living told me it’s the highest-leverage skill in AI development right now. After building a fair number of LLM-powered features, I think th…"
-    },
-    {
-      "title": "The Philippines can’t win the AI arms race, so it is betting on Taglish",
-      "url": "https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T04:52:11+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Ask a Manila contact-centre agent what a caller means by “Pakicheck naman po ang bill ko, may extra charge yata” and she will answer before the sentence ends. Ask a model trained mostly on Silicon Valley’s internet and you may get a polite reply to the wrong question. That gap, between the language Filipinos actually…"
-    },
-    {
-      "title": "Set access before you connect the tool, not after",
-      "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T03:00:38+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "One of the easiest mistakes small teams make with new tools is giving them too much access too early. It usually happens for a practical reason. Someone wants the workflow to work properly on the first try. They do not want permissions issues, broken connections, or missing context. So the fast option is to connect [……"
-    },
-    {
-      "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
-      "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T05:13:30+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Vucar, a Ho Chi Minh City-based used-car auction platform, has raised an undisclosed pre-Series A round led by OSK-SBI Venture Partners, with existing backers Monk’s Hill Ventures and Antler also joining. The deal, announced by OSK-SBI last Friday, comes a little over two years after Vucar’s US$1 million seed round, l…"
-    },
-    {
-      "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
-      "url": "https://togetter.com/li/2770776",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 149.81,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 149.8d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "What’s actually changing for Asia Pacific businesses in the age of AI",
-      "url": "https://e27.co/whats-actually-changing-for-asia-pacific-businesses-in-the-age-of-ai-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T05:00:40+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Across Asia Pacific, the conversation around AI is shifting from possibility to reality. Headlines often focus on what technology can do, but the more useful question for businesses now is what AI is actually doing inside their operations, and what still needs fixing before it delivers at scale. Adoption has moved pas…"
-    },
-    {
-      "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
-      "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T02:46:47+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Bitcoin currently sits at US$65250.47, reflecting a 1.78 per cent increase over the last 24 hours. The broader crypto sector capitalisation climbed 2.46 per cent to reach US$2.20T, while underlying market breadth registered a 2.23 per cent gain during the exact same period. Mainstream financial analysts might hastily…"
-    },
-    {
-      "title": "A drug does not treat a virtual model. It treats a real patient",
-      "url": "https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T02:00:15+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Artificial intelligence is changing how we evaluate medicines, predict outcomes and assess risks in clinical development. Virtual simulations can help researchers explore possibilities before a treatment reaches a patient. Predictive models can help identify patterns that might otherwise be difficult to see. But there…"
-    },
-    {
-      "title": "ドコモでまたも通信障害、11月3度目",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-16T02:12:18+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ドコモでまたも通信障害、11月3度目"
-    },
-    {
-      "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
-      "url": "https://togetter.com/li/2770776",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-15T14:21:22+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5."
