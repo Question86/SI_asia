@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T01:45:23+00:00",
+  "generated_at": "2026-11-16T02:01:14+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -5194,9 +5194,8 @@
     },
     "domain:togetter.com": {
       "title": "AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる",
-      "updated_at": "2026-11-16T01:45:23+00:00",
+      "updated_at": "2026-11-16T02:01:14+00:00",
       "network_scores": [
-        9.2,
         9.2,
         9.2,
         9.2,
@@ -5225,12 +5224,13 @@
         9.2,
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 9.09,
+      "rolling_average": 9.02,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.99
+      "z_hint": -1.92
     },
     "earthquake:https://reliefweb.int/updates?search=mindanao%20earthquake%2:unknown": {
       "title": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
@@ -119503,7 +119503,7 @@
     },
     "domain:p2ptk.org": {
       "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
-      "updated_at": "2026-11-16T01:45:23+00:00",
+      "updated_at": "2026-11-16T02:01:14+00:00",
       "network_scores": [
         9.2,
         9.2,
@@ -119533,13 +119533,13 @@
         9.2,
         9.2,
         9.2,
-        9.2,
-        17.1
+        17.1,
+        14.1
       ],
-      "rolling_average": 9.46,
+      "rolling_average": 9.63,
       "rolling_peak": 17.1,
-      "last_score": 17.1,
-      "z_hint": 7.64
+      "last_score": 14.1,
+      "z_hint": 4.47
     },
     "domain:fabscene.com": {
       "title": "個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）",
@@ -120045,25 +120045,27 @@
     },
     "title:draft-easy-part-source-check-job": {
       "title": "The AI draft is the easy part. The source check is the job",
-      "updated_at": "2026-11-16T01:45:23+00:00",
+      "updated_at": "2026-11-16T02:01:14+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -1.5
     },
     "title:microsoft-365-sla": {
       "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
-      "updated_at": "2026-11-16T01:45:23+00:00",
+      "updated_at": "2026-11-16T02:01:14+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }

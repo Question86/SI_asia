@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T01:45:21+00:00_
+_Generiert: 2026-11-16T02:01:11+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org“ aus Hatena Bookmark Hotentry IT (Score 12, risk).
+4 neue relevante Treffer. Stärkstes Signal: „かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org“ aus Hatena Bookmark Hotentry IT (Score 12, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -60,3 +60,7 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)

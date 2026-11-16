@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-16T01:45:21+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-11-16T02:01:11+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 4,
     "displayed_findings": 4,
     "high": 0,
     "medium": 0,
     "observe": 4
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
@@ -60,141 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “The AI draft is the easy part. The source check is the job” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.5.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "The AI draft is the easy part. The source check is the job",
-        "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-16T01:45:23+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 31.5,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "The AI draft is the easy part. The source check is the job",
-        "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-16T01:00:01+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: chain",
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "In corporate communications, the first useful thing an AI assistant does is not write a finished announcement. It gives you a place to begin. It can turn a long technical brief into an organised list of claims, flag missing stakeholders, or reconstruct a scattered email chain into a timeline that people can check. Tha…"
-      },
-      {
-        "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
-        "url": "https://p2ptk.org/monopoly/5688",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-15T00:38:44+00:00",
-        "age_days": 1.05,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 7.64,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 7.64",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
-        "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-15T21:12:32+00:00",
-        "age_days": 0.19,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 13.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ：Windowsフロントライン（1/3 ページ） メールの到着遅延といった細かい事象は丸1日以上続いたものの、大枠でのダウンタイムは平均して半日程度とみられる。 特に日本では始業時から終業時まで、メールやMicrosoft 365の各..."
-      },
-      {
-        "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
-        "url": "https://p2ptk.org/monopoly/5688",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-15T21:09:29+00:00",
-        "age_days": 0.2,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 12.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―..."
-      }
-    ]
-  }
+  ]
 }
