@@ -175,6 +175,44 @@
     "id": "c9e42ca4b020fcb4e4d0"
   },
   {
+    "title": "M 6.6 - 151 km WSW of Tual, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-16T21:33:49.713+00:00",
+    "fetched_at": "2026-11-16T21:33:59+00:00",
+    "summary": "ShakeMap - V Time 2026-11-16 21:11:17 UTC 2026-11-16 21:11:17 UTC at epicenter Location 6.029°S 131.446°E Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "96f9f2e41fcaacd797a4"
+  },
+  {
     "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
     "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
     "source": "Federal Reserve Speeches and Testimony",
@@ -741,6 +779,49 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "eaac39a95b62ff536e7f"
+  },
+  {
+    "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
+    "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-16T03:56:27+00:00",
+    "fetched_at": "2026-11-16T21:33:59+00:00",
+    "summary": "今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry",
+      "Watchgraph:sports_sf_tech_events"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "sports_sf_tech_events"
+    ],
+    "watchgraph_reasons": [
+      "sports_sf_tech_events: GitHub Universe"
+    ],
+    "market_context": [
+      "DIS",
+      "CMCSA",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "TKO",
+      "FWONK",
+      "AAL",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "8be51d26ba4d96977388"
   },
   {
     "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
