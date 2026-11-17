@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-11-17T22:17:03+00:00`
+Generated: `2026-11-17T22:23:45+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -30,7 +30,7 @@ Generated: `2026-11-17T22:17:03+00:00`
 | M 5.1 - 34 km NNW of Bāgeshwar, India | natural_disaster, conflict | $112.80M | $11.28B | $1.13T | 0.33 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Stage-only npm tokens for safer automation | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
-| Multiples vulnérabilités dans les produits VMware (26 octobre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
+| Faster type-aware linting with tsrs | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 
 ## Interpretation
 
