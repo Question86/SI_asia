@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T20:25:23+00:00_
+_Generiert: 2026-11-17T20:34:59+00:00_
 
 ## Kurzlage
 
-102 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+103 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -47,6 +47,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Singapore, Indonesia, Thailand (+2.0)
   - Kurz: Washington has ended Southeast Asia’s easy access to top-end AI silicon. On Monday, the US Commerce Department’s Bureau of Industry and Security issued an interim final rule that requires licences for advanced chips bound for Indonesia, Malaysia, Singapore, Thailand and Brazil, citing a higher-than-normal risk of diversion. Data-centre operators, foreign foundries and chip exporters must […] The post Ecosystem Round…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-17T20:20:29+00:00`, fetched `2026-11-17T20:34:31+00:00`
+  - Treffer: AI Agents, Copilot, GitHub, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
+  - Kurz: OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6… The post OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race** — Score 18, observation — [Quelle](https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: エレコム株式会社が提供する無線LANルータには、OSコマンドインジェクションの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Waller, Considerations at the Intersection of Payments and Tokenized Markets** — Score 14, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm)
-  - Quelle: Federal Reserve Speeches and Testimony / `rss`
-  - Zeit: published `2026-11-17T14:10:00+00:00`, fetched `2026-11-17T14:25:29+00:00`
-  - Treffer: banking, Macro/Policy, speech, testimony
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); banking (+2.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
-  - Kurz: Speech At “Navigating the Future of Banking and Payments,” The Clearing House Annual Conference 2026, New York, New York
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Nur beobachten
 
