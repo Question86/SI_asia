@@ -1,20 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-17T08:52:21Z",
+  "generated_at": "2026-11-17T10:51:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 5,
-      "strong": 17,
-      "watch": 17,
-      "quiet": 1
+      "krass": 7,
+      "strong": 23,
+      "watch": 10
     },
     "bands_after_gate_recheck": {
-      "strong": 22,
-      "watch": 17,
-      "quiet": 1
+      "strong": 30,
+      "watch": 10
     }
   },
   "top_dynamics": [
@@ -23,7 +21,7 @@
       "url": "https://jvn.jp/jp/JVN02242982/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T15:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -47,7 +45,7 @@
       "url": "https://jvn.jp/vu/JVNVU92504317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T14:30:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -71,7 +69,7 @@
       "url": "https://jvn.jp/vu/JVNVU97628215/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T09:50:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -91,11 +89,59 @@
       "summary": "富士電機株式会社が提供するTELLUSには、複数の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2538",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-17T09:42:01+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[UPDATE] [mittel] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2515",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-17T09:42:00+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen."
+    },
+    {
       "title": "[UPDATE] [mittel] PostgreSQL ODBC Treiber: Mehrere Schwachstellen ermöglichen Manipulation von Daten",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4307",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T07:28:46+00:00",
-      "age_days": 0.06,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -115,11 +161,35 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen im PostgreSQL ODBC Treiber ausnutzen, um Daten zu manipulieren."
     },
     {
+      "title": "99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech",
+      "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-17T09:03:19+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T08:12:01+00:00",
-      "age_days": 0.03,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -145,7 +215,7 @@
       "url": "https://openai.com/business/customer-stories/revolut",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-16T09:30:00+00:00",
-      "age_days": 0.97,
+      "age_days": 1.06,
       "topics": [
         "ai",
         "security"
@@ -168,11 +238,39 @@
       "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
     },
     {
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-17T09:18:14+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. https://elementalsouls.github.io/Claude-BugHunter claude-bughunter A self-containe…"
+    },
+    {
       "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T10:15:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -198,7 +296,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4572",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T07:12:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -224,7 +322,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T07:12:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -245,11 +343,36 @@
       "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-17T09:18:45+00:00",
+      "age_days": 0.06,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 150.89,
+      "age_days": 150.97,
       "topics": [
         "general"
       ],
@@ -267,7 +390,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 150.9d old signal",
+        "aging penalty -8.0 for 151.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -277,7 +400,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 80.78,
+      "age_days": 80.86,
       "topics": [
         "security"
       ],
@@ -288,15 +411,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.63,
+      "baseline_z_hint": 3.81,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.63",
+        "baseline z_hint 3.81",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 80.8d old signal",
+        "aging penalty -8.0 for 80.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -305,8 +428,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-17T05:29:02+00:00",
-      "age_days": 0.14,
+      "published_at": "2026-11-17T09:51:37+00:00",
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro",
@@ -335,7 +458,7 @@
       "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T04:00:12+00:00",
-      "age_days": 0.2,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security",
@@ -359,11 +482,38 @@
       "summary": "I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading the emails I never asked for. For years I did those badly, […"
     },
     {
+      "title": "Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal",
+      "url": "https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-17T10:01:47+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Washington has ended Southeast Asia’s easy access to top-end AI silicon. On Monday, the US Commerce Department’s Bureau of Industry and Security issued an interim final rule that requires licences for advanced chips bound for Indonesia, Malaysia, Singapore, Thailand and Brazil, citing a higher-than-normal risk of dive…"
+    },
+    {
       "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T01:19:36+00:00",
-      "age_days": 0.31,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -389,7 +539,7 @@
       "url": "https://e27.co/singapores-2026-funding-boom-is-real-as-a-southeast-asian-story-its-a-mirage-20261117/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T06:26:35+00:00",
-      "age_days": 0.1,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -413,7 +563,7 @@
       "url": "https://jvn.jp/vu/JVNVU92504317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T05:39:27+00:00",
-      "age_days": 0.13,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -437,7 +587,7 @@
       "url": "https://jvn.jp/jp/JVN02242982/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T06:02:41+00:00",
-      "age_days": 0.12,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -461,7 +611,7 @@
       "url": "https://jvn.jp/vu/JVNVU97628215/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.33,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -485,7 +635,7 @@
       "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T01:34:54+00:00",
-      "age_days": 0.3,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -511,7 +661,7 @@
       "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T04:05:31+00:00",
-      "age_days": 0.2,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -537,7 +687,7 @@
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.33,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -557,11 +707,37 @@
       "summary": ""
     },
     {
-      "title": "Ex-Freepik Magnific opens Asian hubs as it chases studios, agencies and brands",
-      "url": "https://e27.co/ex-freepik-magnific-opens-asian-hubs-as-it-chases-studios-agencies-and-brands-20261117/",
+      "title": "Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal",
+      "url": "https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-17T03:49:28+00:00",
-      "age_days": 0.21,
+      "published_at": "2026-11-17T10:11:49+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-17T10:11:49+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -581,11 +757,61 @@
       "summary": ""
     },
     {
+      "title": "Ex-Freepik Magnific opens Asian hubs as it chases studios, agencies and brands",
+      "url": "https://e27.co/ex-freepik-magnific-opens-asian-hubs-as-it-chases-studios-agencies-and-brands-20261117/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-17T03:49:28+00:00",
+      "age_days": 0.29,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-17T09:18:14+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Modern Docker Management, Designed for Everyone https://getarcane.app Note The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. Important Feature requests have moved to Discussions . Open new requests and upvote existing ones there; issues are only used for Bug reports now…"
+    },
+    {
       "title": "エレコム製無線LANルータにおける複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU91615135/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-07-22T12:15:00+09:00",
-      "age_days": 483.23,
+      "age_days": 483.32,
       "topics": [
         "security"
       ],
@@ -601,7 +827,7 @@
       "single_source_ai_capped": false,
       "why": [
         "security high-signal: jvn, security",
-        "aging penalty -8.0 for 483.2d old signal"
+        "aging penalty -8.0 for 483.3d old signal"
       ],
       "summary": "エレコム株式会社が提供する無線LANルータには、複数の脆弱性が存在します。"
     },
@@ -610,7 +836,33 @@
       "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T03:25:05+00:00",
-      "age_days": 0.23,
+      "age_days": 0.31,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-17T09:18:45+00:00",
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -636,7 +888,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-17T00:38:51+00:00",
-      "age_days": 0.34,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -660,7 +912,7 @@
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T00:09:27+00:00",
-      "age_days": 0.36,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -684,7 +936,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-17T04:18:58+00:00",
-      "age_days": 0.19,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -708,7 +960,7 @@
       "url": "https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T03:33:16+00:00",
-      "age_days": 0.22,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -734,7 +986,7 @@
       "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T07:47:22+00:00",
-      "age_days": 0.05,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -754,163 +1006,15 @@
       "summary": ""
     },
     {
-      "title": "Evaluating investment risks in southeast Asia data centres",
-      "url": "https://e27.co/evaluating-investment-risks-in-southeast-asia-data-centres-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-17T03:25:05+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "古川大臣記者会見（令和8年11月17日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261117-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-11-17T01:34:54+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Control where GitHub Copilot customizations come from",
-      "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-11-17T01:54:02+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Beyond the chatbot: How AI is reshaping customer service in Southeast Asia",
-      "url": "https://e27.co/beyond-the-chatbot-how-ai-is-reshaping-customer-service-in-southeast-asia-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI is changing how we learn, work and invest. Venture capital must change too",
-      "url": "https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
-      "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+      "title": "楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-17T02:17:27+00:00",
-      "age_days": 0.27,
+      "published_at": "2026-11-17T09:33:35+00:00",
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Control where GitHub Copilot customizations come from",
-      "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-11-16T19:48:33+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 14.0,
+      "dynamics_score": 16.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -921,112 +1025,9 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
+        "high terms: 10"
       ],
-      "summary": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,… The post Control where GitHub Copilot customizations come from appeared first on The GitHub…"
-    },
-    {
-      "title": "AI marketing research is moving from making content to choosing it, and Asian labs are leading",
-      "url": "https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-17T04:05:31+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-11-17T00:00:00+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
-    },
-    {
-      "title": "M 4.9 - 26 km E of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyqi",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-17T04:08:55.040+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-11-17 03:52:32 UTC 2026-11-17 03:52:32 UTC at epicenter Location 15.005°S 167.314°E Depth 126.96 km (78.89 mi)"
-    },
-    {
-      "title": "Our event video edits went from 60 minutes to 15. The AI was the easy part",
-      "url": "https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-17T02:45:04+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
+      "summary": "楽天証券のスマートフォンアプリ「iSPEED」（CNET Japan） 楽天証券は11月17日、第三者による不正アクセスを受け、最大約447万口座分の氏名や住所、出金先口座情報などと、最大約1125万口座分のログインIDなどが外部に漏えいした可能性があると発表した。退会した顧客の情報も含まれる。 同社は11月16日、一部システム..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “プリザンターにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
