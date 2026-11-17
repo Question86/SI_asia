@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T01:02:25+00:00",
+  "generated_at": "2026-11-17T01:20:03+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1720,7 +1720,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T00:38:51+00:00",
-      "last_seen_at": "2026-11-17T01:02:02+00:00",
+      "last_seen_at": "2026-11-17T01:19:36+00:00",
       "status": "active"
     },
     {
@@ -14695,6 +14695,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4a569563f733b9ecae12",
+      "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-17T01:02:02+00:00",
+      "last_seen_at": "2026-11-17T01:19:36+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_4fd96c5c8422212624b7",
       "title": "LIFF SDKにおけるクロスサイトスクリプティングの脆弱性",
       "event_classes": [
@@ -16089,8 +16106,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_4a569563f733b9ecae12",
-      "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
+      "event_id": "evt_164793113fc338e1e566",
+      "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
       "event_classes": [
         "vulnerability"
       ],
@@ -16101,8 +16118,8 @@
       "p50_usd": 28800000.0,
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-11-17T01:02:02+00:00",
-      "last_seen_at": "2026-11-17T01:02:02+00:00",
+      "first_seen_at": "2026-11-17T01:19:36+00:00",
+      "last_seen_at": "2026-11-17T01:19:36+00:00",
       "status": "active"
     },
     {
@@ -21785,6 +21802,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_1f93950b145effd2529d",
+      "title": "Beyond the chatbot: How AI is reshaping customer service in Southeast Asia",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-17T01:02:02+00:00",
+      "last_seen_at": "2026-11-17T01:19:36+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_1fe8483cf1203d4ca829",
       "title": "The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2",
       "event_classes": [
@@ -22123,6 +22157,23 @@
       "first_seen_at": "2026-10-02T15:22:26+00:00",
       "last_seen_at": "2026-10-02T23:57:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_726f20fe42006d97322e",
+      "title": "AI is changing how we learn, work and invest. Venture capital must change too",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "investment"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-17T01:02:02+00:00",
+      "last_seen_at": "2026-11-17T01:19:36+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_76fc43821745ec274e68",
@@ -22565,40 +22616,6 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_1f93950b145effd2529d",
-      "title": "Beyond the chatbot: How AI is reshaping customer service in Southeast Asia",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 114400.0,
-      "p50_usd": 11440000.0,
-      "p90_usd": 1144000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-17T01:02:02+00:00",
-      "last_seen_at": "2026-11-17T01:02:02+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_726f20fe42006d97322e",
-      "title": "AI is changing how we learn, work and invest. Venture capital must change too",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "investment"
-      ],
-      "p10_usd": 114400.0,
-      "p50_usd": 11440000.0,
-      "p90_usd": 1144000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-17T01:02:02+00:00",
-      "last_seen_at": "2026-11-17T01:02:02+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0179c38e8dc959d9f1aa",
@@ -23741,6 +23758,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b28a97c071a0dcabb7a6",
+      "title": "Dependabot alert dismissal requests now last one year",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-17T01:02:02+00:00",
+      "last_seen_at": "2026-11-17T01:19:36+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_b2c79d2a73cfcbd5727c",
       "title": "SEA’s insurers face a new question: what happens when customers have agents?",
       "event_classes": [
@@ -24334,23 +24368,6 @@
       "first_seen_at": "2026-10-31T06:33:29+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_b28a97c071a0dcabb7a6",
-      "title": "Dependabot alert dismissal requests now last one year",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-17T01:02:02+00:00",
-      "last_seen_at": "2026-11-17T01:02:02+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
@@ -38617,7 +38634,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T00:03:41+00:00",
-      "last_seen_at": "2026-11-17T01:02:02+00:00",
+      "last_seen_at": "2026-11-17T01:19:36+00:00",
       "status": "active"
     },
     {
