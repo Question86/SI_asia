@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T07:47:19+00:00_
+_Generiert: 2026-11-17T08:00:58+00:00_
 
 ## Kurzlage
 
@@ -261,4 +261,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bis_press_releases` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
+- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)

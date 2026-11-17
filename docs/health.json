@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-17T07:47:19+00:00",
+  "generated_at": "2026-11-17T08:00:58+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -15,10 +15,10 @@
   },
   "source_errors": [
     {
-      "source_id": "bis_press_releases",
-      "source_name": "BIS Press Releases",
+      "source_id": "cert_eu_security_advisories",
+      "source_name": "CERT-EU Security Advisories",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
     }
   ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"

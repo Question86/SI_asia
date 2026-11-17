@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T07:47:19+00:00",
-  "run_id": "2026-11-17T07:47:19+00:00",
+  "generated_at": "2026-11-17T08:00:58+00:00",
+  "run_id": "2026-11-17T08:00:58+00:00",
   "date": "2026-11-17",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -1781,56 +1781,13 @@
       "id": "8d52a512e94f942d6646"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Lauda, a Maruti relic and 13,500 lost kids: Kerala’s audacious bid to rewire motorsport’s money ladder",
-      "url": "https://e27.co/lauda-a-maruti-relic-and-13500-lost-kids-keralas-audacious-bid-to-rewire-motorsports-money-ladder-20261117/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-17T07:46:27+00:00",
-      "fetched_at": "2026-11-17T07:46:41+00:00",
-      "summary": "Mathias Lauda had been in Kerala for only a few hours when he told a packed room at Huddle Global 2026 that his own racing career began a decade too late. The son of three-time Formula One world champion Niki Lauda grew up with a hero who was rarely home, busy, as he put it, […] The post Lauda, a Maruti relic and 13,500 lost kids: Kerala’s audacious bid to rewire motorsport’s money ladder appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Public Health"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4fb597ae91ad6d0665ab"
-    },
-    {
-      "title": "位置情報「流出」のルート 売買されるあなたの居場所",
-      "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-16T18:59:13+00:00",
-      "fetched_at": "2026-11-17T07:46:41+00:00",
-      "summary": "個人のプライバシーに深く関わるスマートフォンの位置情報。日本国内のデータが「商品」として海外市場に流れている。アプリの裏側で起きる不透明な流出ルートに迫った。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f2671d632ceaedf65ddd"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
-      "source_id": "bis_press_releases",
-      "source_name": "BIS Press Releases",
+      "source_id": "cert_eu_security_advisories",
+      "source_name": "CERT-EU Security Advisories",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
     }
   ],
   "quality_gate": {
