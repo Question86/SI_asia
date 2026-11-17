@@ -493,6 +493,98 @@
     "id": "75a5e7b19447525c801e"
   },
   {
+    "title": "[NEU] [mittel] CODESYS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4604",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-17T11:52:01+00:00",
+    "fetched_at": "2026-11-17T11:55:45+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in CODESYS ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "da234d669fdc9d31e1ca"
+  },
+  {
+    "title": "[NEU] [hoch] Joplin Server: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4605",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-17T11:52:01+00:00",
+    "fetched_at": "2026-11-17T11:55:45+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Joplin Server ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5a98adf7ef5c4a1c7a56"
+  },
+  {
+    "title": "[NEU] [mittel] Gogs: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4603",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-17T11:47:01+00:00",
+    "fetched_at": "2026-11-17T11:55:45+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Gogs ausnutzen, um seine Berechtigungen zu erweitern und möglicherweise Administratorrechte zu erlangen, Daten zu manipulieren und offenzulegen, Benutzerkonten zu kapern oder einen Denial-of-Service-Angriff auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ba4778338e0cc9d4d0c9"
+  },
+  {
+    "title": "[NEU] [hoch] xwiki: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4602",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-17T11:47:00+00:00",
+    "fetched_at": "2026-11-17T11:55:45+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in xwiki ausnutzen, um Informationen offenzulegen oder beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0d1a87890ccaaa4aa1fe"
+  },
+  {
     "title": "[NEU] [hoch] Spotfire Server: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4601",
     "source": "BSI CERT-Bund Security Advisories",
