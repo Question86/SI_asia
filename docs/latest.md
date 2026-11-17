@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T02:17:23+00:00_
+_Generiert: 2026-11-17T02:30:45+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+12 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
   - Kurz: If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 137 km SSE of Kirakira, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-17T02:22:42.040+00:00`, fetched `2026-11-17T02:30:08+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-17 02:00:17 UTC 2026-11-17 02:00:17 UTC at epicenter Location 11.529°S 162.550°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-17T00:30:00+00:00`, fetched `2026-11-17T00:38:18+00:00`
@@ -122,3 +131,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_press_releases` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)

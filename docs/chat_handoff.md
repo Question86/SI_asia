@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T02:17:23+00:00_
+_Generated: 2026-11-17T02:30:45+00:00_
 
 ## Status
-- status: `normal`
-- findings: `11`
+- status: `warning`
+- findings: `12`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-11-17T02:17:23+00:00_
 - url: https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year
 - summary: If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first…
 
-### 6. 今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました
-- source: Japan Digital Agency News RSS
-- score: `8`
-- published: `2026-11-17T00:30:00+00:00`
-- url: https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967
-- summary: 今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました
+### 6. M 5.0 - 137 km SSE of Kirakira, Solomon Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-17T02:22:42.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5
+- summary: Time 2026-11-17 02:00:17 UTC 2026-11-17 02:00:17 UTC at epicenter Location 11.529°S 162.550°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
