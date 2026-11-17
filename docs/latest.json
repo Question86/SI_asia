@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T08:46:01+00:00",
-  "run_id": "2026-11-17T08:46:01+00:00",
+  "generated_at": "2026-11-17T09:03:16+00:00",
+  "run_id": "2026-11-17T09:03:16+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 1,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 14,
+    "medium": 15,
     "observe": 24,
     "source_errors": 0
   },
@@ -93,6 +93,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b847773abe856b834e72"
+      },
+      {
+        "title": "99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech",
+        "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-17T08:56:21+00:00",
+        "fetched_at": "2026-11-17T09:02:47+00:00",
+        "summary": "For 12 years, Darius Cheung has been the face, voice and chief dealmaker of 99 Group. On January 1, 2027, he becomes its Chairman. The Group CEO job goes to Jason Barakat-Brown, the investment banker-turned-operator who currently doubles as the company’s CFO and head of its Singapore business. The Singapore-headquartered firm runs 99.co, SRX and […] The post 99 Group’s founder steps back as a former banker takes the…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Public Health",
+          "Southeast Asia"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7da01d73960c96669aae"
       },
       {
         "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
@@ -1018,6 +1041,29 @@
       "id": "b847773abe856b834e72"
     },
     {
+      "title": "99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech",
+      "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-17T08:56:21+00:00",
+      "fetched_at": "2026-11-17T09:02:47+00:00",
+      "summary": "For 12 years, Darius Cheung has been the face, voice and chief dealmaker of 99 Group. On January 1, 2027, he becomes its Chairman. The Group CEO job goes to Jason Barakat-Brown, the investment banker-turned-operator who currently doubles as the company’s CFO and head of its Singapore business. The Singapore-headquartered firm runs 99.co, SRX and […] The post 99 Group’s founder steps back as a former banker takes the…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Public Health",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7da01d73960c96669aae"
+    },
+    {
       "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1871,7 +1917,31 @@
       "id": "8d52a512e94f942d6646"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech",
+      "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-17T08:56:21+00:00",
+      "fetched_at": "2026-11-17T09:02:47+00:00",
+      "summary": "For 12 years, Darius Cheung has been the face, voice and chief dealmaker of 99 Group. On January 1, 2027, he becomes its Chairman. The Group CEO job goes to Jason Barakat-Brown, the investment banker-turned-operator who currently doubles as the company’s CFO and head of its Singapore business. The Singapore-headquartered firm runs 99.co, SRX and […] The post 99 Group’s founder steps back as a former banker takes the…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Public Health",
+        "Southeast Asia"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7da01d73960c96669aae"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T08:46:01+00:00_
+_Generiert: 2026-11-17T09:03:16+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+39 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading the emails I never asked for. For years I did those badly, […] The post My spam folder found me a business lead. Here’s what else AI took off my plate appeared…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech** — Score 16, observation — [Quelle](https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-17T08:56:21+00:00`, fetched `2026-11-17T09:02:47+00:00`
+  - Treffer: APAC Trend Radar, founder, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: For 12 years, Darius Cheung has been the face, voice and chief dealmaker of 99 Group. On January 1, 2027, he becomes its Chairman. The Group CEO job goes to Jason Barakat-Brown, the investment banker-turned-operator who currently doubles as the company’s CFO and head of its Singapore business. The Singapore-headquartered firm runs 99.co, SRX and […] The post 99 Group’s founder steps back as a former banker takes the…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-17T08:12:01+00:00`, fetched `2026-11-17T08:31:05+00:00`
@@ -130,15 +139,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Singapore’s 2026 funding boom is real. As a Southeast Asian story, it’s a mirage** — Score 15, observation — [Quelle](https://e27.co/singapores-2026-funding-boom-is-real-as-a-southeast-asian-story-its-a-mirage-20261117/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-17T06:06:13+00:00`, fetched `2026-11-17T06:26:02+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, funding, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: There was one sentence Southeast Asia’s startup press could have saved as a keyboard shortcut in 2026: Singapore took almost everything. In October, Singapore-based startups collected US$3.66 billion of the US$3.68 billion raised across the region, according to TNGlobal’s monthly tally. In AI, Tracxn credited the city-state with every last dollar of Southeast Asia’s funding […] The post Singapore’s 2026 funding boom…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **プリザンターにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN02242982/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
