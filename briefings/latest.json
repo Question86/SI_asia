@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-17T02:00:41+00:00",
-  "run_id": "2026-11-17T02:00:41+00:00",
+  "generated_at": "2026-11-17T02:17:23+00:00",
+  "run_id": "2026-11-17T02:17:23+00:00",
   "date": "2026-11-17",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 1,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 2,
-    "observe": 8,
-    "source_errors": 1
+    "observe": 9,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -265,6 +265,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e0a59bf60d4ec94bbaa3"
+      },
+      {
+        "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+        "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-16T19:05:37+00:00",
+        "fetched_at": "2026-11-17T02:16:50+00:00",
+        "summary": "Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるMicroVMを実現する「Hyperlight-Unikraft」を発表しました。 Hyperlight-Unikraftはその名称が示す通り、軽量な仮...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9c88f4781c29282c0135"
       }
     ]
   },
@@ -503,17 +524,53 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e0a59bf60d4ec94bbaa3"
-    }
-  ],
-  "new_findings": [],
-  "source_errors": [
+    },
     {
-      "source_id": "cert_eu_security_advisories",
-      "source_name": "CERT-EU Security Advisories",
+      "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+      "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-11-16T19:05:37+00:00",
+      "fetched_at": "2026-11-17T02:16:50+00:00",
+      "summary": "Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるMicroVMを実現する「Hyperlight-Unikraft」を発表しました。 Hyperlight-Unikraftはその名称が示す通り、軽量な仮...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c88f4781c29282c0135"
     }
   ],
+  "new_findings": [
+    {
+      "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+      "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-16T19:05:37+00:00",
+      "fetched_at": "2026-11-17T02:16:50+00:00",
+      "summary": "Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるMicroVMを実現する「Hyperlight-Unikraft」を発表しました。 Hyperlight-Unikraftはその名称が示す通り、軽量な仮...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c88f4781c29282c0135"
+    }
+  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

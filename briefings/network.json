@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-17T02:00:45+00:00",
+  "generated_at": "2026-11-17T02:17:27+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 10,
-    "clusters": 10,
+    "findings": 11,
+    "clusters": 11,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -241,6 +241,44 @@
       "first_seen_at": "2026-11-17T00:38:51+00:00"
     },
     {
+      "key": "title:hyperlight-unikraft",
+      "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-17T02:17:27+00:00"
+    },
+    {
       "key": "url:https://www.digital.go.jp/speech/minister-261117-01",
       "title": "古川大臣記者会見（令和8年11月17日）動画を掲載しました",
       "sources": [
@@ -395,7 +433,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-17T02:00:46Z",
+    "generated_at": "2026-11-17T02:17:28Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
