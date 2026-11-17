@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T02:45:00+00:00",
-  "run_id": "2026-11-17T02:45:00+00:00",
+  "generated_at": "2026-11-17T03:02:11+00:00",
+  "run_id": "2026-11-17T03:02:11+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -747,72 +747,7 @@
       "id": "8d52a512e94f942d6646"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Our event video edits went from 60 minutes to 15. The AI was the easy part",
-      "url": "https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-17T02:30:59+00:00",
-      "fetched_at": "2026-11-17T02:44:30+00:00",
-      "summary": "On the first morning of AICON 2026 in Singapore, a speaker came off stage, a videographer pulled the card, and someone on our team pushed the footage into a Slack channel named for that session. Roughly 15 minutes later there was a cut highlight sitting there waiting for a human to approve it. At every […] The post Our event video edits went from 60 minutes to 15. The AI was the easy part appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "14c04c8bc68fab7a5d03"
-    },
-    {
-      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-16T15:11:21+00:00",
-      "fetched_at": "2026-11-17T02:44:30+00:00",
-      "summary": "図にはありませんが、Issue単位の小さな改修のテスト設計を行うenhance-qaと、Skillを使うための環境を整えるenv-setupを合わせて、合計12個のSkillを実装しています。 個々のSkillの詳しい説明は割愛します。 2. 成果物をMarkdownにしてGitHubに集めた 当初は、計画書はConfluence、テストケースや実行結果はスプレッド...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry",
-        "Webentwicklung"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f137fde87eb42aa158e4"
-    },
-    {
-      "title": "Why does thin volume matter more than the daily price headline?",
-      "url": "https://e27.co/why-does-thin-volume-matter-more-than-the-daily-price-headline-20261117/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-17T02:38:41+00:00",
-      "fetched_at": "2026-11-17T02:44:30+00:00",
-      "summary": "The crypto sector showed quiet erosion rather than a dramatic break. Bitcoin fell 0.766 per cent to US$64,750.84 over 24 hours. Ethereum dropped 0.943 per cent to US$1,816.33. The total crypto market cap stood at US$2.19T. The market summary put the 24-hour decline at 0.63 per cent, while the Bitcoin and Ethereum summaries used 0.70 […] The post Why does thin volume matter more than the daily price headline? appeare…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d52a512e94f942d6646"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
