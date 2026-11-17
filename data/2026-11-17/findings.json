@@ -1,5 +1,27 @@
 [
   {
+    "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU93605944/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-17T10:15:00+09:00",
+    "fetched_at": "2026-11-17T01:19:03+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "74f5818a9d1f9658074d"
+  },
+  {
     "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
     "url": "https://jvn.jp/vu/JVNVU97628215/",
     "source": "JVN Japan Vulnerability Notes",
