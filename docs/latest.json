@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T11:40:32+00:00",
-  "run_id": "2026-11-17T11:40:32+00:00",
+  "generated_at": "2026-11-17T11:48:58+00:00",
+  "run_id": "2026-11-17T11:48:58+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 65
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 65,
-    "displayed_findings": 65,
+    "new_relevant_findings": 4,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
-    "medium": 32,
+    "medium": 36,
     "observe": 33,
     "source_errors": 0
   },
@@ -163,6 +163,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3599af7c56ae87afa736"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft SharePoint: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4598",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-17T11:37:01+00:00",
+        "fetched_at": "2026-11-17T11:48:28+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft SharePoint ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren, oder beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d838a1753a101a7ff791"
       },
       {
         "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
@@ -497,6 +521,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "75a5e7b19447525c801e"
+      },
+      {
+        "title": "[NEU] [hoch] Spotfire Server: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4601",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-17T11:42:01+00:00",
+        "fetched_at": "2026-11-17T11:48:28+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Spotfire Server ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f179fd1ddf11ccfc1017"
+      },
+      {
+        "title": "[NEU] [hoch] Zyxel Router: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4600",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-17T11:42:00+00:00",
+        "fetched_at": "2026-11-17T11:48:28+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Zyxel Router ausnutzen, um einen Denial of Service Angriff durchzuführen, Berechtigungen zu erweitern oder beliebigen Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "276b7b0855e86401e990"
+      },
+      {
+        "title": "[NEU] [hoch] IGEL UMS: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4599",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-17T11:42:00+00:00",
+        "fetched_at": "2026-11-17T11:48:28+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IGEL UMS ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Administratorrechte zu erlangen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ffb177bf8c0db1c3c9e2"
       },
       {
         "title": "[NEU] [mittel] ImageMagick: Mehrere Schwachstellen",
@@ -1727,6 +1820,30 @@
       "id": "3599af7c56ae87afa736"
     },
     {
+      "title": "[NEU] [hoch] Microsoft SharePoint: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4598",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T11:37:01+00:00",
+      "fetched_at": "2026-11-17T11:48:28+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft SharePoint ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren, oder beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d838a1753a101a7ff791"
+    },
+    {
       "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2059,6 +2176,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "75a5e7b19447525c801e"
+    },
+    {
+      "title": "[NEU] [hoch] Spotfire Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4601",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T11:42:01+00:00",
+      "fetched_at": "2026-11-17T11:48:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Spotfire Server ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f179fd1ddf11ccfc1017"
+    },
+    {
+      "title": "[NEU] [hoch] Zyxel Router: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4600",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T11:42:00+00:00",
+      "fetched_at": "2026-11-17T11:48:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Zyxel Router ausnutzen, um einen Denial of Service Angriff durchzuführen, Berechtigungen zu erweitern oder beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "276b7b0855e86401e990"
+    },
+    {
+      "title": "[NEU] [hoch] IGEL UMS: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4599",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T11:42:00+00:00",
+      "fetched_at": "2026-11-17T11:48:28+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IGEL UMS ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Administratorrechte zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ffb177bf8c0db1c3c9e2"
     },
     {
       "title": "[NEU] [mittel] ImageMagick: Mehrere Schwachstellen",
@@ -3151,36 +3337,37 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4597",
+      "title": "[NEU] [hoch] Microsoft SharePoint: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4598",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-17T11:32:01+00:00",
-      "fetched_at": "2026-11-17T11:40:02+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in GitLab ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, beliebigen Code auszuführen, Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-11-17T11:37:01+00:00",
+      "fetched_at": "2026-11-17T11:48:28+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft SharePoint ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren, oder beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Microsoft",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "50a061c888dacf7f9177"
+      "id": "d838a1753a101a7ff791"
     },
     {
-      "title": "[NEU] [mittel] ImageMagick: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4596",
+      "title": "[NEU] [hoch] Spotfire Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4601",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-17T11:32:01+00:00",
-      "fetched_at": "2026-11-17T11:40:02+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-11-17T11:42:01+00:00",
+      "fetched_at": "2026-11-17T11:48:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Spotfire Server ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3194,16 +3381,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "372f2ffc0a2fe1b58445"
+      "id": "f179fd1ddf11ccfc1017"
     },
     {
-      "title": "[NEU] [mittel] 7-Zip: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4595",
+      "title": "[NEU] [hoch] Zyxel Router: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4600",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-17T11:32:01+00:00",
-      "fetched_at": "2026-11-17T11:40:02+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in 7-Zip ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Programmcode auszuführen.",
+      "published_at": "2026-11-17T11:42:00+00:00",
+      "fetched_at": "2026-11-17T11:48:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Zyxel Router ausnutzen, um einen Denial of Service Angriff durchzuführen, Berechtigungen zu erweitern oder beliebigen Code auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3217,7 +3404,30 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2800dcecbeecbe0e1b75"
+      "id": "276b7b0855e86401e990"
+    },
+    {
+      "title": "[NEU] [hoch] IGEL UMS: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4599",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T11:42:00+00:00",
+      "fetched_at": "2026-11-17T11:48:28+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IGEL UMS ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Administratorrechte zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ffb177bf8c0db1c3c9e2"
     }
   ],
   "source_errors": [],
