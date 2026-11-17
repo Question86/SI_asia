@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:03:30+00:00",
+  "generated_at": "2026-11-17T21:17:33+00:00",
   "sections": {
     "global_security": [
       {
@@ -91,21 +91,6 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104287",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.6 - 148 km WSW of Tual, Indonesia",
-        "summary": "M6.6 - 148 km WSW of Tual, Indonesia. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu",
-        "published_at": "2026-11-16T21:11:20+00:00",
-        "metrics": {
-          "mag": 6.6,
-          "alert": "green",
-          "sig": 674.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",

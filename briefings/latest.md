@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T21:03:27+00:00_
+_Generiert: 2026-11-17T21:17:30+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,6 @@ _Generiert: 2026-11-17T21:03:27+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Spain
-- **USGS earthquake M6.6 - 148 km WSW of Tual, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu)
-  - Quelle: USGS
-  - Zeit: `2026-11-16T21:11:20+00:00`
-  - Kurz: M6.6 - 148 km WSW of Tual, Indonesia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (11.577 million in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001351)
   - Quelle: GDACS
   - Zeit: ``
