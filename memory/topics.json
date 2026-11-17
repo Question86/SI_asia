@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T10:58:41+00:00",
+  "generated_at": "2026-11-17T11:09:51+00:00",
   "topics": {
     "ai": [
       {
@@ -133,18 +133,18 @@
         "url": "https://jvn.jp/vu/JVNVU92504317/"
       },
       {
-        "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T10:15:00+09:00",
+        "title": "[UPDATE] [hoch] expat: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:07:34+00:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93605944/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3796"
       },
       {
-        "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T09:50:00+09:00",
+        "title": "[UPDATE] [mittel] OpenSSH: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:07:33+00:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU97628215/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3785"
       }
     ],
     "geopolitics": [
@@ -309,6 +309,13 @@
     ],
     "general": [
       {
+        "title": "M 4.9 - 173 km ENE of Noda, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-17T11:02:25.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrw"
+      },
+      {
         "title": "M 4.9 - 43 km NW of Oxford, New Zealand",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-17T10:57:00.158+00:00",
@@ -370,13 +377,6 @@
         "published_at": "2026-11-17T08:41:53+00:00",
         "relevance_score": 5,
         "url": "https://www.rakuten-sec.co.jp/web/info/info20261117-02.html"
-      },
-      {
-        "title": "NVIDIA、CEO 交代に関するお知らせ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-17T06:39:50+00:00",
-        "relevance_score": 5,
-        "url": "https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/"
       }
     ]
   }
