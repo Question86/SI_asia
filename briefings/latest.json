@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T10:11:46+00:00",
-  "run_id": "2026-11-17T10:11:46+00:00",
+  "generated_at": "2026-11-17T10:20:47+00:00",
+  "run_id": "2026-11-17T10:20:47+00:00",
   "date": "2026-11-17",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 48
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 48,
     "displayed_findings": 48,
     "high": 0,
     "medium": 19,
     "observe": 29,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -2317,54 +2317,15 @@
       "id": "8d52a512e94f942d6646"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal",
-      "url": "https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-17T10:01:47+00:00",
-      "fetched_at": "2026-11-17T10:11:19+00:00",
-      "summary": "Washington has ended Southeast Asia’s easy access to top-end AI silicon. On Monday, the US Commerce Department’s Bureau of Industry and Security issued an interim final rule that requires licences for advanced chips bound for Indonesia, Malaysia, Singapore, Thailand and Brazil, citing a higher-than-normal risk of diversion. Data-centre operators, foreign foundries and chip exporters must […] The post Ecosystem Round…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Security",
-        "Southeast Asia"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "AI/KI (+3.0); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Singapore, Indonesia, Thailand (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d872d9b675b985395ece"
-    },
-    {
-      "title": "楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-17T09:33:35+00:00",
-      "fetched_at": "2026-11-17T10:11:19+00:00",
-      "summary": "楽天証券のスマートフォンアプリ「iSPEED」（CNET Japan） 楽天証券は11月17日、第三者による不正アクセスを受け、最大約447万口座分の氏名や住所、出金先口座情報などと、最大約1125万口座分のログインIDなどが外部に漏えいした可能性があると発表した。退会した顧客の情報も含まれる。 同社は11月16日、一部システム...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4f1a41a43a19ec185e4d"
+      "error": "500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
