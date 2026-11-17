@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T07:38:04+00:00_
+_Generiert: 2026-11-17T07:47:19+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,6 +37,10 @@ _Generiert: 2026-11-17T07:38:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in South Africa
+- **GDACS: Green flood alert in Spain** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104287)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Spain
 - **USGS earthquake M6.6 - 148 km WSW of Tual, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu)
   - Quelle: USGS
   - Zeit: `2026-11-16T21:11:20+00:00`
@@ -57,10 +61,6 @@ _Generiert: 2026-11-17T07:38:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577321)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].
 
 ## Wirtschaft global
 
@@ -269,6 +269,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **位置情報「流出」のルート 売買されるあなたの居場所** — Score 7, risk — [Quelle](https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-16T18:59:13+00:00`, fetched `2026-11-17T07:46:41+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 個人のプライバシーに深く関わるスマートフォンの位置情報。日本国内のデータが「商品」として海外市場に流れている。アプリの裏側で起きる不透明な流出ルートに迫った。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **古川大臣記者会見（令和8年11月17日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261117-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-17T01:28:57+00:00`, fetched `2026-11-17T01:34:23+00:00`
@@ -296,15 +305,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/11/17/030254)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-16T21:42:53+00:00`, fetched `2026-11-17T00:03:03+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年11月16日、スーパーコンピューター「富岳」が外部から不正アクセスを受けたことが明らかになりました。理化学研究所は取材に対して認め、利用者にメールで通知しています。ここでは関連する情報をまとめます。 運用系システムへの不正アクセス 理研が神戸市の施設で運用する富岳の運用系システムが、外部の第三者...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **VS Code retires the Local harness in February 2027** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-16T19:22:56+00:00`, fetched `2026-11-17T01:34:23+00:00`
@@ -323,3 +323,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_press_releases` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
