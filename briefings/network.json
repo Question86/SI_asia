@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:22:07+00:00",
+  "generated_at": "2026-11-17T16:29:58+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 90,
@@ -30,20 +30,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 25.08,
+      "network_score": 24.97,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 28.3,
-      "ranking_score": 25.08,
+      "ranking_score": 24.97,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.58,
+      "baseline_bonus": 1.47,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -131,49 +131,6 @@
       "first_seen_at": "2026-11-17T04:05:31+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [mittel] Hitachi Virtual Storage Platform: Mehrere Schwachstellen ermöglichen Codeausführung",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4610",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4427",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4607",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4598",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592"
-      ],
-      "finding_count": 31,
-      "max_score": 17,
-      "credibility_total": 32.55,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 20.68,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 82.1,
-      "ranking_score": 20.68,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.18,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "title:ecosystem-roundup-puts-sea-chip-hubs-licence-after",
       "title": "Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal",
       "sources": [
@@ -210,6 +167,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-17T10:11:49+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [mittel] Hitachi Virtual Storage Platform: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4610",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4427",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4607",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4598",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592"
+      ],
+      "finding_count": 31,
+      "max_score": 17,
+      "credibility_total": 32.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 20.14,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 82.1,
+      "ranking_score": 20.14,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.64,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:iterative-pivot-uncomfortable-verdict-southeast-asia-place-race",
@@ -2212,7 +2212,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-17T16:22:09Z",
+    "generated_at": "2026-11-17T16:29:59Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
