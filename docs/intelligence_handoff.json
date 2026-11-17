@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-17T18:14:19Z",
+  "generated_at": "2026-11-17T18:38:13Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Microsoft SharePoint: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4598",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T11:37:01+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -36,11 +36,39 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft SharePoint ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren, oder beliebigen Programmcode auszuführen."
     },
     {
+      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "source": "GitHub Blog Atom",
+      "published_at": "2026-11-17T18:29:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don’t need more AI bug reports. They need fixes. appeared first on Th…"
+    },
+    {
       "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T11:22:01+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -66,7 +94,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T11:12:01+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -92,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T08:12:01+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -118,7 +146,7 @@
       "url": "https://openai.com/business/customer-stories/revolut",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-16T09:30:00+00:00",
-      "age_days": 1.36,
+      "age_days": 1.38,
       "topics": [
         "ai",
         "security"
@@ -145,7 +173,7 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-17T09:18:14+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "security",
@@ -173,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4611",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T12:42:01+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -199,7 +227,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4609",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T12:02:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -225,7 +253,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4608",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T11:57:01+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -251,7 +279,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4606",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T11:57:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -277,7 +305,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4604",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T11:52:01+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -297,33 +325,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein Angreifer kann mehrere Schwachstellen in CODESYS ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Dateien zu manipulieren."
-    },
-    {
-      "title": "[NEU] [hoch] xwiki: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4602",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-17T11:47:00+00:00",
-      "age_days": 0.27,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in xwiki ausnutzen, um Informationen offenzulegen oder beliebigen Programmcode auszuführen."
     }
   ],
   "read_order": [
