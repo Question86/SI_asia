@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T11:26:24+00:00",
-  "run_id": "2026-11-17T11:26:24+00:00",
+  "generated_at": "2026-11-17T11:35:11+00:00",
+  "run_id": "2026-11-17T11:35:11+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
-    "medium": 28,
+    "medium": 29,
     "observe": 33,
     "source_errors": 0
   },
@@ -497,6 +497,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "75a5e7b19447525c801e"
+      },
+      {
+        "title": "[UPDATE] [mittel] ONLYOFFICE Docs: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3961",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-17T11:27:01+00:00",
+        "fetched_at": "2026-11-17T11:34:40+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ONLYOFFICE Docs ausnutzen, um Sicherheitsmaßnahmen zu umgehen und Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9119ef5d8fbe8c3871eb"
       },
       {
         "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -1969,6 +1992,29 @@
       "id": "75a5e7b19447525c801e"
     },
     {
+      "title": "[UPDATE] [mittel] ONLYOFFICE Docs: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3961",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T11:27:01+00:00",
+      "fetched_at": "2026-11-17T11:34:40+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ONLYOFFICE Docs ausnutzen, um Sicherheitsmaßnahmen zu umgehen und Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9119ef5d8fbe8c3871eb"
+    },
+    {
       "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4593",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2967,36 +3013,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
+      "title": "[UPDATE] [mittel] ONLYOFFICE Docs: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3961",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-17T11:22:01+00:00",
-      "fetched_at": "2026-11-17T11:25:56+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Android ausnutzen, um Daten zu manipulieren, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph region south_korea: Samsung (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "069da5a0d312bf0f94b4"
-    },
-    {
-      "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4593",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-17T11:17:01+00:00",
-      "fetched_at": "2026-11-17T11:25:56+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-11-17T11:27:01+00:00",
+      "fetched_at": "2026-11-17T11:34:40+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ONLYOFFICE Docs ausnutzen, um Sicherheitsmaßnahmen zu umgehen und Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3010,7 +3033,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7343baa6da355c39d759"
+      "id": "9119ef5d8fbe8c3871eb"
     }
   ],
   "source_errors": [],
