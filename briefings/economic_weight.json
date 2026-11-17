@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T09:19:09+00:00",
+  "generated_at": "2026-11-17T09:31:22+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2094,7 +2094,7 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -13892,7 +13892,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -14215,7 +14215,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T06:26:35+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -14385,7 +14385,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T01:19:36+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -14776,7 +14776,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T01:02:02+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -15677,7 +15677,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T06:02:41+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -16153,7 +16153,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T05:39:27+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -18109,7 +18109,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T04:05:31+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -19609,6 +19609,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4012960bdfc6e7a9dbba",
+      "title": "elementalsouls/Claude-BugHunter",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_473f386a84fd72f4dca1",
       "title": "Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン",
       "event_classes": [
@@ -19656,7 +19673,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T09:03:19+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -19809,7 +19826,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T03:25:05+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -19911,7 +19928,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -20323,23 +20340,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_4012960bdfc6e7a9dbba",
-      "title": "elementalsouls/Claude-BugHunter",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116800.0,
-      "p50_usd": 11680000.0,
-      "p90_usd": 1168000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-17T09:18:45+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_064006df2c404d32a98b",
       "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
       "event_classes": [
@@ -20387,7 +20387,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T03:33:16+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -21985,7 +21985,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T01:02:02+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -22342,7 +22342,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T01:02:02+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -23005,7 +23005,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T04:05:31+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -23958,7 +23958,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T01:02:02+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -24691,6 +24691,23 @@
       "first_seen_at": "2026-11-03T16:04:30+00:00",
       "last_seen_at": "2026-11-03T16:04:30+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_143f06175fc2d22cb902",
+      "title": "getarcaneapp/arcane",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1781e86c8940b2fadf75",
@@ -26321,7 +26338,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T03:49:28+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
@@ -26357,23 +26374,6 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_143f06175fc2d22cb902",
-      "title": "getarcaneapp/arcane",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-17T09:18:45+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_000820d66bd74c57c867",
@@ -26678,7 +26678,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-17T02:45:04+00:00",
-      "last_seen_at": "2026-11-17T09:18:45+00:00",
+      "last_seen_at": "2026-11-17T09:31:00+00:00",
       "status": "active"
     },
     {
