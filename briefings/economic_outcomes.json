@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T05:46:46+00:00",
+  "generated_at": "2026-11-17T06:03:13+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -18744,7 +18744,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a577ee3151f4ee0cbd89",
@@ -21495,6 +21495,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_be5d645387ccb3e9a37b",
+      "title": "プリザンターにおける複数の脆弱性",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_be6f9a5fe86fe17df92f",
