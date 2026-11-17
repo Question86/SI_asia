@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T10:00:50+00:00",
+  "generated_at": "2026-11-17T10:11:46+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-11-17T04:00:12+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/"
+      },
+      {
+        "title": "Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-17T10:01:47+00:00",
+        "relevance_score": 19,
+        "url": "https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/"
       },
       {
         "title": "99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech",
@@ -66,13 +73,78 @@
         "published_at": "2026-11-17T01:00:34+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/beyond-the-chatbot-how-ai-is-reshaping-customer-service-in-southeast-asia-20261116/"
+      }
+    ],
+    "security": [
+      {
+        "title": "Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-17T10:01:47+00:00",
+        "relevance_score": 19,
+        "url": "https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/"
       },
       {
-        "title": "AI is changing how we learn, work and invest. Venture capital must change too",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-17T01:00:17+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/"
+        "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T08:12:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T07:12:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573"
+      },
+      {
+        "title": "How Revolut raises ambition without lowering the bar",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-16T09:30:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/business/customer-stories/revolut"
+      },
+      {
+        "title": "elementalsouls/Claude-BugHunter",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/elementalsouls/Claude-BugHunter"
+      },
+      {
+        "title": "プリザンターにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-17T15:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN02242982/"
+      },
+      {
+        "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-17T14:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92504317/"
+      },
+      {
+        "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-17T10:15:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU93605944/"
+      },
+      {
+        "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-17T09:50:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU97628215/"
+      },
+      {
+        "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T09:42:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2538"
       }
     ],
     "economy": [
@@ -170,78 +242,6 @@
         "url": "https://e27.co/why-does-thin-volume-matter-more-than-the-daily-price-headline-20261117/"
       }
     ],
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T08:12:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T07:12:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573"
-      },
-      {
-        "title": "How Revolut raises ambition without lowering the bar",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-11-16T09:30:00+00:00",
-        "relevance_score": 16,
-        "url": "https://openai.com/business/customer-stories/revolut"
-      },
-      {
-        "title": "elementalsouls/Claude-BugHunter",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/elementalsouls/Claude-BugHunter"
-      },
-      {
-        "title": "プリザンターにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T15:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN02242982/"
-      },
-      {
-        "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T14:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU92504317/"
-      },
-      {
-        "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T10:15:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93605944/"
-      },
-      {
-        "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T09:50:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU97628215/"
-      },
-      {
-        "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T09:42:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2538"
-      },
-      {
-        "title": "[UPDATE] [mittel] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T09:42:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2515"
-      }
-    ],
     "github": [
       {
         "title": "elementalsouls/Claude-BugHunter",
@@ -294,6 +294,13 @@
       }
     ],
     "general": [
+      {
+        "title": "楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-17T09:33:35+00:00",
+        "relevance_score": 11,
+        "url": "https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a"
+      },
       {
         "title": "Lauda, a Maruti relic and 13,500 lost kids: Kerala’s audacious bid to rewire motorsport’s money ladder",
         "source": "e27 Asia Startup and Tech Feed",

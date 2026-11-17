@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T10:00:50+00:00_
+_Generiert: 2026-11-17T10:11:46+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+48 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading the emails I never asked for. For years I did those badly, […] The post My spam folder found me a business lead. Here’s what else AI took off my plate appeared…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal** — Score 19, observation — [Quelle](https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-17T10:01:47+00:00`, fetched `2026-11-17T10:11:19+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Security, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Singapore, Indonesia, Thailand (+2.0)
+  - Kurz: Washington has ended Southeast Asia’s easy access to top-end AI silicon. On Monday, the US Commerce Department’s Bureau of Industry and Security issued an interim final rule that requires licences for advanced chips bound for Indonesia, Malaysia, Singapore, Thailand and Brazil, citing a higher-than-normal risk of diversion. Data-centre operators, foreign foundries and chip exporters must […] The post Ecosystem Round…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech** — Score 16, observation — [Quelle](https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-17T08:56:21+00:00`, fetched `2026-11-17T09:02:47+00:00`
@@ -56,15 +65,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem** — Score 16, observation — [Quelle](https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-17T03:17:24+00:00`, fetched `2026-11-17T03:24:33+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
-  - Kurz: Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 per cent, after three […] The post Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How Revolut raises ambition without lowering the bar** — Score 16, observation — [Quelle](https://openai.com/business/customer-stories/revolut)
   - Quelle: OpenAI News RSS / `rss`
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
   - Kurz: If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース** — Score 11, observation — [Quelle](https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-17T09:33:35+00:00`, fetched `2026-11-17T10:11:19+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 楽天証券のスマートフォンアプリ「iSPEED」（CNET Japan） 楽天証券は11月17日、第三者による不正アクセスを受け、最大約447万口座分の氏名や住所、出金先口座情報などと、最大約1125万口座分のログインIDなどが外部に漏えいした可能性があると発表した。退会した顧客の情報も含まれる。 同社は11月16日、一部システム...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Breaking change: Japanese Calendar minimum supported date corrected - .NET** — Score 11, observation — [Quelle](https://learn.microsoft.com/en-us/dotnet/core/compatibility/globalization/11/japanese-calendar-min-date)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-17T00:59:20+00:00`, fetched `2026-11-17T09:51:22+00:00`
@@ -231,15 +240,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **位置情報「流出」のルート 売買されるあなたの居場所** — Score 7, risk — [Quelle](https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-16T18:59:13+00:00`, fetched `2026-11-17T07:46:41+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 個人のプライバシーに深く関わるスマートフォンの位置情報。日本国内のデータが「商品」として海外市場に流れている。アプリの裏側で起きる不透明な流出ルートに迫った。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **古川大臣記者会見（令和8年11月17日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261117-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-17T01:28:57+00:00`, fetched `2026-11-17T01:34:23+00:00`

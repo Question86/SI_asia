@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-17T10:00:50+00:00",
+  "generated_at": "2026-11-17T10:11:46+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "new_relevant_findings": 2,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
-    "medium": 18,
-    "observe": 28
+    "medium": 19,
+    "observe": 29
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-17T10:01:47+00:00",
+      "relevance_score": 19,
+      "url": "https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/",
+      "summary": "Washington has ended Southeast Asia’s easy access to top-end AI silicon. On Monday, the US Commerce Department’s Bureau of Industry and Security issued an interim final rule that requires licences for advanced chips bound for Indonesia, Malaysia, Singapore, T…",
+      "section": "medium"
+    },
+    {
       "title": "99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/",
       "summary": "For 12 years, Darius Cheung has been the face, voice and chief dealmaker of 99 Group. On January 1, 2027, he becomes its Chairman. The Group CEO job goes to Jason Barakat-Brown, the investment banker-turned-operator who currently doubles as the company’s CFO…",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-17T08:12:01+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478",
-      "summary": "Ein Angreifer kann diese Schwachstellen in Microsoft Windows Server in den Versionen 2012, 2012 R2, 2016, 2019 und 2022, sowie in Microsoft Windows in den Versionen 10 und 11, im Microsoft Windows Admin Center und im Microsoft Configuration Manager ausnutzen,…",
       "section": "medium"
     },
     {
