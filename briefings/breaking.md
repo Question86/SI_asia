@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-17T10:20:49+00:00_
+_Generiert: 2026-11-17T10:29:57+00:00_
 
 ## Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal
 
