@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T12:52:22+00:00",
-  "run_id": "2026-11-17T12:52:22+00:00",
+  "generated_at": "2026-11-17T13:00:14+00:00",
+  "run_id": "2026-11-17T13:00:14+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 0,
@@ -3799,31 +3799,7 @@
       "id": "8d52a512e94f942d6646"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[NEU] [kritisch] TYPO3 CMS Extension: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4611",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-17T12:42:01+00:00",
-      "fetched_at": "2026-11-17T12:51:50+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in TYPO3 CMS Extension ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um falsche Informationen darzustellen und um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fd569b5a8fc5d75181f1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
