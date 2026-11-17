@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T22:50:02+00:00",
-  "run_id": "2026-11-17T22:50:02+00:00",
+  "generated_at": "2026-11-17T22:56:12+00:00",
+  "run_id": "2026-11-17T22:56:12+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 105,
     "displayed_findings": 105,
     "high": 0,
@@ -5031,28 +5031,7 @@
       "id": "9243c5489a04ab9be121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-17T08:00:00+00:00",
-      "fetched_at": "2026-11-17T22:49:33+00:00",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ee37417b2c689271ab6b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
