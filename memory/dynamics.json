@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-17T02:39:04Z",
+  "generated_at": "2026-11-17T02:51:25Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 30,
     "bands": {
       "krass": 1,
       "strong": 5,
       "watch": 7,
-      "quiet": 11
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
       "strong": 6,
       "watch": 7,
-      "quiet": 11
+      "quiet": 17
     }
   },
   "top_dynamics": [
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T10:15:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://jvn.jp/vu/JVNVU97628215/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -123,7 +123,7 @@
       "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T01:34:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -149,7 +149,7 @@
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -173,7 +173,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-17T00:38:51+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -197,7 +197,7 @@
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T00:09:27+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -221,7 +221,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261117-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-17T01:34:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -245,7 +245,7 @@
       "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T01:54:02+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -269,7 +269,7 @@
       "url": "https://e27.co/beyond-the-chatbot-how-ai-is-reshaping-customer-service-in-southeast-asia-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -295,7 +295,7 @@
       "url": "https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -350,18 +350,18 @@
       "topics": [
         "general"
       ],
-      "dynamics_score": 9.0,
+      "dynamics_score": 11.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -370,7 +370,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-17T02:22:42.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "disaster"
@@ -394,15 +394,67 @@
       "summary": "Time 2026-11-17 02:00:17 UTC 2026-11-17 02:00:17 UTC at epicenter Location 11.529°S 162.550°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Our event video edits went from 60 minutes to 15. The AI was the easy part",
+      "url": "https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-17T02:45:04+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-17T02:45:04+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/11/17/030254",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-10T16:50:02+00:00",
-      "age_days": 37.41,
+      "age_days": 37.42,
       "topics": [
         "general"
       ],
-      "dynamics_score": 8.26,
+      "dynamics_score": 8.25,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -423,7 +475,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-17T00:30:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -443,11 +495,37 @@
       "summary": "今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました"
     },
     {
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-16T15:11:21+00:00",
+      "age_days": 0.49,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "図にはありませんが、Issue単位の小さな改修のテスト設計を行うenhance-qaと、Skillを使うための環境を整えるenv-setupを合わせて、合計12個のSkillを実装しています。 個々のSkillの詳しい説明は割愛します。 2. 成果物をMarkdownにしてGitHubに集めた 当初は、計画書はConfluence、テストケースや実行結果はスプレッド..."
+    },
+    {
       "title": "古川大臣記者会見（令和8年11月17日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261117-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-17T01:28:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -467,37 +545,11 @@
       "summary": "古川大臣記者会見（令和8年11月17日）動画を掲載しました"
     },
     {
-      "title": "M 5.0 - 137 km SSE of Kirakira, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-17T02:30:49+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.4,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Beyond the chatbot: How AI is reshaping customer service in Southeast Asia",
       "url": "https://e27.co/beyond-the-chatbot-how-ai-is-reshaping-customer-service-in-southeast-asia-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T01:00:34+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -522,7 +574,7 @@
       "url": "https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T01:00:17+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -571,7 +623,7 @@
       "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-16T19:22:56+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -598,7 +650,7 @@
       "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T19:05:37+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -616,6 +668,109 @@
         "no strong comparative reason"
       ],
       "summary": "Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるMicroVMを実現する「Hyperlight-Unikraft」を発表しました。 Hyperlight-Unikraftはその名称が示す通り、軽量な仮..."
+    },
+    {
+      "title": "M 5.0 - 137 km SSE of Kirakira, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-17T02:30:49+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Why does thin volume matter more than the daily price headline?",
+      "url": "https://e27.co/why-does-thin-volume-matter-more-than-the-daily-price-headline-20261117/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-17T02:45:04+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Our event video edits went from 60 minutes to 15. The AI was the easy part",
+      "url": "https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-17T02:30:59+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "On the first morning of AICON 2026 in Singapore, a speaker came off stage, a videographer pulled the card, and someone on our team pushed the footage into a Slack channel named for that session. Roughly 15 minutes later there was a cut highlight sitting there waiting for a human to approve it. At every […] The post Ou…"
+    },
+    {
+      "title": "Why does thin volume matter more than the daily price headline?",
+      "url": "https://e27.co/why-does-thin-volume-matter-more-than-the-daily-price-headline-20261117/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-17T02:38:41+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The crypto sector showed quiet erosion rather than a dramatic break. Bitcoin fell 0.766 per cent to US$64,750.84 over 24 hours. Ethereum dropped 0.943 per cent to US$1,816.33. The total crypto market cap stood at US$2.19T. The market summary put the 24-hour decline at 0.63 per cent, while the Bitcoin and Ethereum summ…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “富士電機製TELLUSにおける複数の脆弱性（2026年11月）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
