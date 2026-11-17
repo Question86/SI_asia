@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T18:47:34+00:00",
-  "run_id": "2026-11-17T18:47:34+00:00",
+  "generated_at": "2026-11-17T19:02:57+00:00",
+  "run_id": "2026-11-17T19:02:57+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 100
+      "configured_public_sources_only": 101
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 100,
-    "displayed_findings": 100,
+    "new_relevant_findings": 1,
+    "today_file_total": 101,
+    "displayed_findings": 101,
     "high": 0,
     "medium": 49,
-    "observe": 51,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -2151,6 +2151,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f24b7947f94827206798"
+      },
+      {
+        "title": "楽天証券から漏洩した情報とは？ テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-17T15:13:38+00:00",
+        "fetched_at": "2026-11-17T19:02:27+00:00",
+        "summary": "11月17日、楽天証券が不正アクセスによる情報漏洩の可能性について発表しました。 不正アクセスを受けたのはテスト環境とのことですが、具体的にどのような情報が流出したのか、またなぜテスト環境に顧客データを置いていたのか、広報部に聞いてみました。 テスト環境に置かれた合計約1572万口座のデータが漏洩か楽天証...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c09cbd4242df84646bf0"
       },
       {
         "title": "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
@@ -4548,6 +4569,27 @@
       "id": "f24b7947f94827206798"
     },
     {
+      "title": "楽天証券から漏洩した情報とは？ テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-17T15:13:38+00:00",
+      "fetched_at": "2026-11-17T19:02:27+00:00",
+      "summary": "11月17日、楽天証券が不正アクセスによる情報漏洩の可能性について発表しました。 不正アクセスを受けたのはテスト環境とのことですが、具体的にどのような情報が流出したのか、またなぜテスト環境に顧客データを置いていたのか、広報部に聞いてみました。 テスト環境に置かれた合計約1572万口座のデータが漏洩か楽天証...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c09cbd4242df84646bf0"
+    },
+    {
       "title": "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4821,110 +4863,25 @@
   ],
   "new_findings": [
     {
-      "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "source": "GitHub Changelog Atom",
+      "title": "楽天証券から漏洩した情報とは？ テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-17T18:01:45+00:00",
-      "fetched_at": "2026-11-17T18:47:04+00:00",
-      "summary": "The next generation of Microsoft AI (MAI) coding models has arrived in GitHub Copilot. Introducing MAI Code 2 and MAI Code 2 Flash, two new models that represent a major… The post MAI Code 2 and MAI Code 2 Flash in GitHub Copilot appeared first on The GitHub Blog .",
+      "published_at": "2026-11-17T15:13:38+00:00",
+      "fetched_at": "2026-11-17T19:02:27+00:00",
+      "summary": "11月17日、楽天証券が不正アクセスによる情報漏洩の可能性について発表しました。 不正アクセスを受けたのはテスト環境とのことですが、具体的にどのような情報が流出したのか、またなぜテスト環境に顧客データを置いていたのか、広報部に聞いてみました。 テスト環境に置かれた合計約1572万口座のデータが漏洩か楽天証...",
       "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3e54ee3fb8bb77f8796e"
-    },
-    {
-      "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-17T18:04:48+00:00",
-      "fetched_at": "2026-11-17T18:47:04+00:00",
-      "summary": "Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare… The post GitHub Copilot Fusion updates: more availability, benchmarks, and models appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "42fdc707708ad52753a8"
-    },
-    {
-      "title": "GitHub Copilot app, Microsoft Ignite releases",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-17T18:03:42+00:00",
-      "fetched_at": "2026-11-17T18:47:04+00:00",
-      "summary": "Copilot is most useful when it can work where you do. The GitHub Copilot app now supports your Azure DevOps repositories, your GitHub Enterprise Server instance, and the browser you’re… The post GitHub Copilot app, Microsoft Ignite releases appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eb91a2cd50ac5fd9b47e"
-    },
-    {
-      "title": "Copilot code review: Adaptive effort, secret detection, and more",
-      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-17T18:02:05+00:00",
-      "fetched_at": "2026-11-17T18:47:04+00:00",
-      "summary": "GitHub Copilot code review now helps you catch more issues earlier, with less effort. Adaptive matches review depth to each pull request, so routine changes get a quick pass and… The post Copilot code review: Adaptive effort, secret detection, and more appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3edb2faca4a9347d767b"
-    },
-    {
-      "title": "GitHub Copilot in JetBrains, Ignite releases",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-17T18:00:59+00:00",
-      "fetched_at": "2026-11-17T18:47:04+00:00",
-      "summary": "This update brings remote access, on-device voice dictation, and browser use controls to GitHub Copilot for JetBrains. Copilot users in JetBrains IDEs also get context usage shortcuts, historical diffs, simpler… The post GitHub Copilot in JetBrains, Ignite releases appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cc93b009df8fb99e01ad"
+      "id": "c09cbd4242df84646bf0"
     }
   ],
   "source_errors": [],
