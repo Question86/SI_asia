@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-11-17T05:02:31+00:00",
-  "status": "normal",
+  "generated_at": "2026-11-17T05:29:22+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 1,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
-    "medium": 5,
+    "medium": 6,
     "observe": 18,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "fed_speeches_testimony",
+      "source_name": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
