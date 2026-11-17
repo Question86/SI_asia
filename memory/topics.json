@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T05:46:02+00:00",
+  "generated_at": "2026-11-17T06:02:38+00:00",
   "topics": {
     "ai": [
       {
@@ -113,6 +113,13 @@
       }
     ],
     "security": [
+      {
+        "title": "プリザンターにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-17T15:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN02242982/"
+      },
       {
         "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
