@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T02:30:45+00:00_
+_Generated: 2026-11-17T02:45:00+00:00_
 
 ## Status
-- status: `warning`
-- findings: `12`
+- status: `normal`
+- findings: `15`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-11-17T02:30:45+00:00_
 - url: https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year
 - summary: If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first…
 
-### 6. M 5.0 - 137 km SSE of Kirakira, Solomon Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-17T02:22:42.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5
-- summary: Time 2026-11-17 02:00:17 UTC 2026-11-17 02:00:17 UTC at epicenter Location 11.529°S 162.550°E Depth 10.00 km (6.21 mi)
+### 6. Our event video edits went from 60 minutes to 15. The AI was the easy part
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-11-17T02:30:59+00:00`
+- url: https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/
+- summary: On the first morning of AICON 2026 in Singapore, a speaker came off stage, a videographer pulled the card, and someone on our team pushed the footage into a Slack channel named for that session. Roughly 15 minutes later there was a cut highlight sitting there…
 
 END OF DOCUMENT
