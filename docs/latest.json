@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T03:02:11+00:00",
-  "run_id": "2026-11-17T03:02:11+00:00",
+  "generated_at": "2026-11-17T03:25:01+00:00",
+  "run_id": "2026-11-17T03:25:01+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,39 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 2,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
-    "medium": 2,
-    "observe": 13,
+    "medium": 3,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
+        "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-17T03:17:24+00:00",
+        "fetched_at": "2026-11-17T03:24:33+00:00",
+        "summary": "Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 per cent, after three […] The post Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Macro/Policy"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2e1fac273563467258f3"
+      },
       {
         "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
         "url": "https://jvn.jp/vu/JVNVU93605944/",
@@ -264,6 +286,27 @@
         "id": "956d357dfb3e45418ef8"
       },
       {
+        "title": "Evaluating investment risks in southeast Asia data centres",
+        "url": "https://e27.co/evaluating-investment-risks-in-southeast-asia-data-centres-20261111/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-17T03:00:50+00:00",
+        "fetched_at": "2026-11-17T03:24:33+00:00",
+        "summary": "Global cloud providers and investors continue to pour into Southeast Asia (SEA), and the region’s data centre market has drawn mounting attention worldwide. For entrepreneurs weighing a direct equity stake, that momentum can signal a real opening. Capturing it requires looking past the headline growth story. Four distinct risk categories give investors a structured way […] The post Evaluating investment risks in sou…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "32798243bd8dfa64821b"
+      },
+      {
         "title": "古川大臣記者会見（令和8年11月17日）動画を掲載しました",
         "url": "https://www.digital.go.jp/speech/minister-261117-01",
         "source": "Japan Digital Agency News RSS",
@@ -390,6 +433,28 @@
     ]
   },
   "findings": [
+    {
+      "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
+      "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-17T03:17:24+00:00",
+      "fetched_at": "2026-11-17T03:24:33+00:00",
+      "summary": "Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 per cent, after three […] The post Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e1fac273563467258f3"
+    },
     {
       "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93605944/",
@@ -623,6 +688,27 @@
       "id": "956d357dfb3e45418ef8"
     },
     {
+      "title": "Evaluating investment risks in southeast Asia data centres",
+      "url": "https://e27.co/evaluating-investment-risks-in-southeast-asia-data-centres-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-17T03:00:50+00:00",
+      "fetched_at": "2026-11-17T03:24:33+00:00",
+      "summary": "Global cloud providers and investors continue to pour into Southeast Asia (SEA), and the region’s data centre market has drawn mounting attention worldwide. For entrepreneurs weighing a direct equity stake, that momentum can signal a real opening. Capturing it requires looking past the headline growth story. Four distinct risk categories give investors a structured way […] The post Evaluating investment risks in sou…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "32798243bd8dfa64821b"
+    },
+    {
       "title": "古川大臣記者会見（令和8年11月17日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261117-01",
       "source": "Japan Digital Agency News RSS",
@@ -747,7 +833,51 @@
       "id": "8d52a512e94f942d6646"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
+      "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-17T03:17:24+00:00",
+      "fetched_at": "2026-11-17T03:24:33+00:00",
+      "summary": "Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 per cent, after three […] The post Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e1fac273563467258f3"
+    },
+    {
+      "title": "Evaluating investment risks in southeast Asia data centres",
+      "url": "https://e27.co/evaluating-investment-risks-in-southeast-asia-data-centres-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-17T03:00:50+00:00",
+      "fetched_at": "2026-11-17T03:24:33+00:00",
+      "summary": "Global cloud providers and investors continue to pour into Southeast Asia (SEA), and the region’s data centre market has drawn mounting attention worldwide. For entrepreneurs weighing a direct equity stake, that momentum can signal a real opening. Capturing it requires looking past the headline growth story. Four distinct risk categories give investors a structured way […] The post Evaluating investment risks in sou…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "32798243bd8dfa64821b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
