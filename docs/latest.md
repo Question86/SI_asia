@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T01:45:01+00:00_
+_Generiert: 2026-11-17T01:54:00+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+10 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年11月17日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Control where GitHub Copilot customizations come from** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-16T19:48:33+00:00`, fetched `2026-11-17T01:53:31+00:00`
+  - Treffer: Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,… The post Control where GitHub Copilot customizations come from appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/11/17/030254)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
