@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T17:57:05+00:00_
+_Generiert: 2026-11-17T18:02:50+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,10 @@ _Generiert: 2026-11-17T17:57:05+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-115731 Perforce Puppet Enterprise** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-17`
+  - Kurz: Known exploited vulnerability. Added 2026-11-17. Due 2026-12-01. Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability
 - **CISA KEV: CVE-2026-114713 UnrealIRCd UnrealIRCd** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-13`
@@ -25,10 +29,6 @@ _Generiert: 2026-11-17T17:57:05+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability
-- **CISA KEV: CVE-2026-20320 Cisco BroadWorks** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-10`
-  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577696)
   - Quelle: GDACS
   - Zeit: ``
