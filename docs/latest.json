@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T20:34:59+00:00",
-  "run_id": "2026-11-17T20:34:59+00:00",
+  "generated_at": "2026-11-17T20:49:24+00:00",
+  "run_id": "2026-11-17T20:49:24+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 103,
     "displayed_findings": 103,
     "high": 0,
@@ -4947,31 +4947,7 @@
       "id": "9243c5489a04ab9be121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-      "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-17T20:20:29+00:00",
-      "fetched_at": "2026-11-17T20:34:31+00:00",
-      "summary": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6… The post OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "Copilot",
-        "GitHub",
-        "OpenAI"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ce731a301f486556c028"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
