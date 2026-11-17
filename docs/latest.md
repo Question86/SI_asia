@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T01:54:00+00:00_
+_Generiert: 2026-11-17T02:00:41+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+10 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -113,3 +113,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)
