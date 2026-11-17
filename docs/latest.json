@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T20:19:47+00:00",
-  "run_id": "2026-11-17T20:19:47+00:00",
+  "generated_at": "2026-11-17T20:25:23+00:00",
+  "run_id": "2026-11-17T20:25:23+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 102,
     "displayed_findings": 102,
     "high": 0,
@@ -4901,28 +4901,7 @@
       "id": "9243c5489a04ab9be121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Java4Shell: Gefährlicher Bug in Java",
-      "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-11-17T20:11:00.000+00:00",
-      "fetched_at": "2026-11-17T20:19:16+00:00",
-      "summary": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Aber ist das neue Java4Shell auch dabei?",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cf5d3edca13b3edf0304"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
