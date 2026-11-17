@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T06:03:13+00:00",
+  "generated_at": "2026-11-17T06:27:14+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -16753,7 +16753,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_939bd06a9c24c6be6df5",
@@ -18128,7 +18128,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9ed2410de632b1cd74e7",
@@ -18447,7 +18447,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a1e7b1fbc7f4c540e577",
@@ -21499,12 +21499,12 @@
     {
       "event_id": "evt_be5d645387ccb3e9a37b",
       "title": "プリザンターにおける複数の脆弱性",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -21990,6 +21990,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c27e556421f353cac586",
+      "title": "Singapore’s 2026 funding boom is real. As a Southeast Asian story, it’s a mirage",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_c284337dd7c0f371c792",
