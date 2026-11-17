@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T23:15:27+00:00",
-  "run_id": "2026-11-17T23:15:27+00:00",
+  "generated_at": "2026-11-17T23:30:46+00:00",
+  "run_id": "2026-11-17T23:30:46+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 106
+      "configured_public_sources_only": 107
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 106,
-    "displayed_findings": 106,
+    "today_file_total": 107,
+    "displayed_findings": 107,
     "high": 0,
     "medium": 50,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-17T23:15:13+00:00",
-        "fetched_at": "2026-11-17T23:14:58+00:00",
+        "published_at": "2026-11-17T23:30:35+00:00",
+        "fetched_at": "2026-11-17T23:30:20+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b477beac21fb66a22833"
+        "id": "75dcc849a3ffd12bb989"
       },
       {
         "title": "Introducing OpenAI for Chile",
@@ -2364,6 +2364,27 @@
         "id": "cc0e54bad58c30a4ba9c"
       },
       {
+        "title": "蒸気タービンとは？｜ターボ機械協会",
+        "url": "https://www.turbo-so.jp/turbo-kids5.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-17T07:23:00+00:00",
+        "fetched_at": "2026-11-17T23:30:20+00:00",
+        "summary": "蒸気の持つ熱エネルギーから、羽根車の回転を介して動力を取り出す原動機を蒸気タービンといいます。原子力発電所や火力発電所では、蒸気をつくるために原子炉あるいはボイラを用い、蒸気タービンに発電機を連結させて、電気を作っています。 図１のように、水をやかんで沸騰させて蒸気をつくり、それを「かざぐるま」に...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "be13fd9be05491240fe9"
+      },
+      {
         "title": "NVIDIA、CEO 交代に関するお知らせ",
         "url": "https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2558,8 +2579,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-17T23:15:13+00:00",
-      "fetched_at": "2026-11-17T23:14:58+00:00",
+      "published_at": "2026-11-17T23:30:35+00:00",
+      "fetched_at": "2026-11-17T23:30:20+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2593,7 +2614,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b477beac21fb66a22833"
+      "id": "75dcc849a3ffd12bb989"
     },
     {
       "title": "Introducing OpenAI for Chile",
@@ -4886,6 +4907,27 @@
       "id": "cc0e54bad58c30a4ba9c"
     },
     {
+      "title": "蒸気タービンとは？｜ターボ機械協会",
+      "url": "https://www.turbo-so.jp/turbo-kids5.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-17T07:23:00+00:00",
+      "fetched_at": "2026-11-17T23:30:20+00:00",
+      "summary": "蒸気の持つ熱エネルギーから、羽根車の回転を介して動力を取り出す原動機を蒸気タービンといいます。原子力発電所や火力発電所では、蒸気をつくるために原子炉あるいはボイラを用い、蒸気タービンに発電機を連結させて、電気を作っています。 図１のように、水をやかんで沸騰させて蒸気をつくり、それを「かざぐるま」に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be13fd9be05491240fe9"
+    },
+    {
       "title": "NVIDIA、CEO 交代に関するお知らせ",
       "url": "https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5079,8 +5121,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-17T23:15:13+00:00",
-      "fetched_at": "2026-11-17T23:14:58+00:00",
+      "published_at": "2026-11-17T23:30:35+00:00",
+      "fetched_at": "2026-11-17T23:30:20+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5114,16 +5156,16 @@
         "HD",
         "LOW"
       ],
-      "id": "b477beac21fb66a22833"
+      "id": "75dcc849a3ffd12bb989"
     },
     {
-      "title": "[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita",
-      "url": "https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share",
+      "title": "蒸気タービンとは？｜ターボ機械協会",
+      "url": "https://www.turbo-so.jp/turbo-kids5.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-17T14:00:55+00:00",
-      "fetched_at": "2026-11-17T23:14:58+00:00",
-      "summary": "📝 はじめに S3Vectorsが全文検索に対応しました。 この記事では全文検索の定番であるOpenSearchとS3Vectorsを比べてみました。 👀 対象読者 OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方 小さめの全文検索機能を安く作りたい方 アップデートの中身 2026年11月17日にS3Vectorsがハイブリッド検索に対応しま...",
+      "published_at": "2026-11-17T07:23:00+00:00",
+      "fetched_at": "2026-11-17T23:30:20+00:00",
+      "summary": "蒸気の持つ熱エネルギーから、羽根車の回転を介して動力を取り出す原動機を蒸気タービンといいます。原子力発電所や火力発電所では、蒸気をつくるために原子炉あるいはボイラを用い、蒸気タービンに発電機を連結させて、電気を作っています。 図１のように、水をやかんで沸騰させて蒸気をつくり、それを「かざぐるま」に...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -5135,7 +5177,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "18c9f3d1581699bb4371"
+      "id": "be13fd9be05491240fe9"
     }
   ],
   "source_errors": [],
