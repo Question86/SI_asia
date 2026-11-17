@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-17T07:51:30Z",
+  "generated_at": "2026-11-17T08:15:38Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 4,
       "strong": 16,
-      "watch": 18,
-      "quiet": 2
+      "watch": 17,
+      "quiet": 3
     },
     "bands_after_gate_recheck": {
       "strong": 20,
-      "watch": 18,
-      "quiet": 2
+      "watch": 17,
+      "quiet": 3
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN02242982/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T15:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU92504317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T14:30:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU97628215/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T09:50:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4307",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T07:28:46+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://openai.com/business/customer-stories/revolut",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-16T09:30:00+00:00",
-      "age_days": 0.93,
+      "age_days": 0.95,
       "topics": [
         "ai",
         "security"
@@ -146,7 +146,7 @@
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T10:15:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4572",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T07:12:01+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T07:12:01+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -223,7 +223,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 150.85,
+      "age_days": 150.87,
       "topics": [
         "general"
       ],
@@ -241,7 +241,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 150.8d old signal",
+        "aging penalty -8.0 for 150.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -251,7 +251,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-17T05:29:02+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro",
@@ -280,7 +280,7 @@
       "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T04:00:12+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security",
@@ -308,7 +308,7 @@
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T01:19:36+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -334,7 +334,7 @@
       "url": "https://e27.co/singapores-2026-funding-boom-is-real-as-a-southeast-asian-story-its-a-mirage-20261117/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T06:26:35+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -358,7 +358,7 @@
       "url": "https://jvn.jp/vu/JVNVU92504317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T05:39:27+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -382,7 +382,7 @@
       "url": "https://jvn.jp/jp/JVN02242982/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T06:02:41+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -406,7 +406,7 @@
       "url": "https://jvn.jp/vu/JVNVU97628215/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -430,7 +430,7 @@
       "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T01:34:54+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -456,7 +456,7 @@
       "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T04:05:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -482,7 +482,7 @@
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -506,7 +506,7 @@
       "url": "https://e27.co/ex-freepik-magnific-opens-asian-hubs-as-it-chases-studios-agencies-and-brands-20261117/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T03:49:28+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -530,7 +530,7 @@
       "url": "https://jvn.jp/vu/JVNVU91615135/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-07-22T12:15:00+09:00",
-      "age_days": 483.19,
+      "age_days": 483.21,
       "topics": [
         "security"
       ],
@@ -555,7 +555,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 80.74,
+      "age_days": 80.75,
       "topics": [
         "security"
       ],
@@ -571,7 +571,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 80.7d old signal"
+        "aging penalty -8.0 for 80.8d old signal"
       ],
       "summary": ""
     },
@@ -580,7 +580,7 @@
       "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T03:25:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -606,7 +606,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-17T00:38:51+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -630,7 +630,7 @@
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T00:09:27+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -654,7 +654,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-17T04:18:58+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -678,7 +678,7 @@
       "url": "https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T03:33:16+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -704,7 +704,7 @@
       "url": "https://e27.co/evaluating-investment-risks-in-southeast-asia-data-centres-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T03:25:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -728,7 +728,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261117-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-17T01:34:54+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -752,7 +752,7 @@
       "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T01:54:02+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -776,7 +776,7 @@
       "url": "https://e27.co/beyond-the-chatbot-how-ai-is-reshaping-customer-service-in-southeast-asia-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -802,7 +802,7 @@
       "url": "https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -828,7 +828,7 @@
       "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T02:17:27+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -852,7 +852,7 @@
       "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-16T19:48:33+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "macro"
       ],
@@ -873,35 +873,11 @@
       "summary": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,… The post Control where GitHub Copilot customizations come from appeared first on The GitHub…"
     },
     {
-      "title": "位置情報「流出」のルート 売買されるあなたの居場所",
-      "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-17T07:47:22+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AI marketing research is moving from making content to choosing it, and Asian labs are leading",
       "url": "https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T04:05:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -928,7 +904,7 @@
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-17T00:00:00+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "security"
@@ -953,7 +929,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-17T04:08:55.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -977,7 +953,7 @@
       "url": "https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T02:45:04+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -1003,7 +979,7 @@
       "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T02:45:04+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -1021,6 +997,30 @@
         "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "位置情報「流出」のルート 売買されるあなたの居場所",
+      "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-17T07:47:22+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
       ],
       "summary": ""
     }
