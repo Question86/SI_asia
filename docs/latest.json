@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T22:23:19+00:00",
-  "run_id": "2026-11-17T22:23:19+00:00",
+  "generated_at": "2026-11-17T22:32:37+00:00",
+  "run_id": "2026-11-17T22:32:37+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 104,
     "displayed_findings": 104,
     "high": 0,
@@ -4991,30 +4991,7 @@
       "id": "9243c5489a04ab9be121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Faster type-aware linting with tsrs",
-      "url": "https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-17T16:08:06+00:00",
-      "fetched_at": "2026-11-17T22:22:46+00:00",
-      "summary": "We’re adding tsrs as an alternative to tsgolint for type-aware linting in Oxlint. It’s the Rust port of TypeScript announced by Cloudflare and VoidZero in October. Teams at Cloudflare, Owner.com and OpenAI are already using it for type-aware linting. Our goal is to make Oxlint the best possible l...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "72ccd654b8f353de059d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
