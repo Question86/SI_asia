@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-17T11:09:54+00:00_
+_Generiert: 2026-11-17T11:18:13+00:00_
 
 ## Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race
 

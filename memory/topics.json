@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T11:09:51+00:00",
+  "generated_at": "2026-11-17T11:18:11+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4427"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] VLC: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:12:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592"
+      },
+      {
         "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-17T08:12:01+00:00",
@@ -133,18 +140,11 @@
         "url": "https://jvn.jp/vu/JVNVU92504317/"
       },
       {
-        "title": "[UPDATE] [hoch] expat: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[NEU] [mittel] LibreOffice: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T11:07:34+00:00",
+        "published_at": "2026-11-17T11:12:00+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3796"
-      },
-      {
-        "title": "[UPDATE] [mittel] OpenSSH: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T11:07:33+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3785"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4591"
       }
     ],
     "geopolitics": [
@@ -156,11 +156,25 @@
         "url": "https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] VLC: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:12:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592"
+      },
+      {
         "title": "99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-17T08:56:21+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/"
+      },
+      {
+        "title": "[NEU] [mittel] LibreOffice: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:12:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4591"
       },
       {
         "title": "Strengthening NATO and allied cyber defenses with AI",
