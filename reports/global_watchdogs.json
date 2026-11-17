@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-17T18:30:54+00:00",
+  "generated_at": "2026-11-17T18:47:37+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-115731 Perforce Puppet Enterprise",
+        "summary": "Known exploited vulnerability. Added 2026-11-17. Due 2026-12-01. Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-17",
+        "metrics": {
+          "cve": "CVE-2026-115731"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-11-10",
         "metrics": {
           "cve": "CVE-2026-111793"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-20320 Cisco BroadWorks",
-        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-10",
-        "metrics": {
-          "cve": "CVE-2026-20320"
         }
       },
       {
