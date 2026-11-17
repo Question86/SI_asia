@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T08:00:58+00:00_
+_Generated: 2026-11-17T08:31:32+00:00_
 
 ## Status
-- status: `warning`
-- findings: `36`
+- status: `normal`
+- findings: `38`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-17T08:00:58+00:00_
 - url: https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/
 - summary: I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading…
 
-### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+### 3. [UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-11-17T08:12:01+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478
+- summary: Ein Angreifer kann diese Schwachstellen in Microsoft Windows Server in den Versionen 2012, 2012 R2, 2016, 2019 und 2022, sowie in Microsoft Windows in den Versionen 10 und 11, im Microsoft Windows Admin Center und im Microsoft Configuration Manager ausnutzen,…
+
+### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-11-17T07:12:01+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573
 - summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-11-17T03:17:24+00:00`
-- url: https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/
-- summary: Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2…
 
 ### 5. Beyond the chatbot: How AI is reshaping customer service in Southeast Asia
 - source: e27 Asia Startup and Tech Feed

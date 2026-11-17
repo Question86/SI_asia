@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-17T08:00:58+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-11-17T08:31:32+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 2,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
-    "medium": 13,
-    "observe": 23
+    "medium": 14,
+    "observe": 24
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "Updates | ReliefWeb",
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T08:12:01+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478",
+      "summary": "Ein Angreifer kann diese Schwachstellen in Microsoft Windows Server in den Versionen 2012, 2012 R2, 2016, 2019 und 2022, sowie in Microsoft Windows in den Versionen 10 und 11, im Microsoft Windows Admin Center und im Microsoft Configuration Manager ausnutzen,…",
+      "section": "medium"
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573",
       "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "section": "medium"
-    },
-    {
-      "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-17T03:17:24+00:00",
-      "relevance_score": 16,
-      "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
-      "summary": "Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2…",
       "section": "medium"
     },
     {
@@ -100,138 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “How Revolut raises ambition without lowering the bar” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "How Revolut raises ambition without lowering the bar",
-        "url": "https://openai.com/business/customer-stories/revolut",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-11-16T09:30:00+00:00",
-        "age_days": 0.95,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
-      },
-      {
-        "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU93605944/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T10:15:00+09:00",
-        "age_days": 0.29,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "[UPDATE] [mittel] Octopus Deploy: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4572",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T07:12:01+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Octopus Deploy ausnutzen, um seine Privilegien zu erhöhen und Sicherheitsmaßnahmen zu umgehen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T07:12:01+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "プリザンターにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN02242982/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T15:00:00+09:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "株式会社インプリムが提供するプリザンターには、複数の脆弱性が存在します。"
-      }
-    ]
-  }
+  ]
 }

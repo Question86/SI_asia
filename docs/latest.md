@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T08:00:58+00:00_
+_Generiert: 2026-11-17T08:31:32+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+38 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading the emails I never asked for. For years I did those badly, […] The post My spam folder found me a business lead. Here’s what else AI took off my plate appeared…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-17T08:12:01+00:00`, fetched `2026-11-17T08:31:05+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann diese Schwachstellen in Microsoft Windows Server in den Versionen 2012, 2012 R2, 2016, 2019 und 2022, sowie in Microsoft Windows in den Versionen 10 und 11, im Microsoft Windows Admin Center und im Microsoft Configuration Manager ausnutzen, um erweiterte Berechtigungen – einschließlich Administratorrechte – zu erlangen, beliebigen Code auszuführen – sogar mit SYSTEM-Rechten –, Sicherheitsmaßnahmen…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-17T07:12:01+00:00`, fetched `2026-11-17T07:20:01+00:00`
@@ -101,15 +110,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen im PostgreSQL ODBC Treiber ausnutzen, um Daten zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Octopus Deploy: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4572)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-17T07:12:01+00:00`, fetched `2026-11-17T07:20:01+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Octopus Deploy ausnutzen, um seine Privilegien zu erhöhen und Sicherheitsmaßnahmen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -231,14 +231,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,… The post Control where GitHub Copilot customizations come from appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2156904.html)
+- **NVIDIA、CEO 交代に関するお知らせ** — Score 5, observation — [Quelle](https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-17T01:04:18+00:00`, fetched `2026-11-17T07:20:01+00:00`
+  - Zeit: published `2026-11-17T06:39:50+00:00`, fetched `2026-11-17T08:31:05+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも
+  - Kurz: ※本発表資料は米国時間 2026 年 11 月 12 日に発表されたプレスリリースの抄訳です。 ジェンスン フアン (Jensen Huang) が辞任 エグゼクティブ バイス プレジデント 兼 最高財務責任者のコレット クレス (Colette Kress) が暫定 最高経営責任者に就任 ハーベイ ジョーンズ (Harvey C. Jones) が同社初の取締役会議長に...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **VS Code retires the Local harness in February 2027** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -258,7 +258,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)

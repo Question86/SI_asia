@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T08:00:58+00:00",
+  "generated_at": "2026-11-17T08:31:32+00:00",
   "topics": {
     "ai": [
       {
@@ -76,6 +76,13 @@
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T08:12:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478"
+      },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
@@ -279,6 +286,13 @@
         "published_at": "2026-11-17T01:28:57+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-261117-01"
+      },
+      {
+        "title": "NVIDIA、CEO 交代に関するお知らせ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-17T06:39:50+00:00",
+        "relevance_score": 5,
+        "url": "https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/"
       },
       {
         "title": "スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog",
