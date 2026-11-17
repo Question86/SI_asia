@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T09:03:16+00:00_
+_Generiert: 2026-11-17T09:18:42+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+42 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **elementalsouls/Claude-BugHunter** — Score 16, risk — [Quelle](https://github.com/elementalsouls/Claude-BugHunter)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-17T09:18:14+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. https://elementalsouls.github.io/Claude-BugHunter claude-bughunter A self-contained Claude skill bundle for bug hunting and external red-team work · 83 skills · 15 slash commands · 6…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **プリザンターにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN02242982/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-17T15:00:00+09:00`, fetched `2026-11-17T06:02:05+00:00`
@@ -168,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
   - Kurz: If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **getarcaneapp/arcane** — Score 11, opportunity — [Quelle](https://github.com/getarcaneapp/arcane)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-17T09:18:14+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Produktidee
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0)
+  - Kurz: Modern Docker Management, Designed for Everyone https://getarcane.app Note The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. Important Feature requests have moved to Discussions . Open new requests and upvote existing ones there; issues are only used for Bug reports now to help maintain priority on those issues. Modern Docker Management, Designed for Everyone. Documen…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **QA生産性を爆上げさせるためのQA AIプラットフォーム構築** — Score 10, observation — [Quelle](https://zenn.dev/gatechnologies/articles/8bdea59269eb10)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-16T15:11:21+00:00`, fetched `2026-11-17T02:44:30+00:00`
@@ -239,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ※本発表資料は米国時間 2026 年 11 月 12 日に発表されたプレスリリースの抄訳です。 ジェンスン フアン (Jensen Huang) が辞任 エグゼクティブ バイス プレジデント 兼 最高財務責任者のコレット クレス (Colette Kress) が暫定 最高経営責任者に就任 ハーベイ ジョーンズ (Harvey C. Jones) が同社初の取締役会議長に...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **VS Code retires the Local harness in February 2027** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-16T19:22:56+00:00`, fetched `2026-11-17T01:34:23+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.0); recent (+1.0)
-  - Kurz: Visual Studio Code 1.146 deprecates the Local harness, the older software that coordinates the model, context, and tools for GitHub Copilot agent sessions in the editor. The Local harness will… The post VS Code retires the Local harness in February 2027 appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
