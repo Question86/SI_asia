@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T03:33:14+00:00_
+_Generated: 2026-11-17T03:49:25+00:00_
 
 ## Status
-- status: `warning`
-- findings: `18`
+- status: `normal`
+- findings: `19`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-17T03:33:14+00:00_
 - url: https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year
 - summary: If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first…
 
-### 8. Our event video edits went from 60 minutes to 15. The AI was the easy part
+### 8. Ex-Freepik Magnific opens Asian hubs as it chases studios, agencies and brands
 - source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-11-17T02:30:59+00:00`
-- url: https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/
-- summary: On the first morning of AICON 2026 in Singapore, a speaker came off stage, a videographer pulled the card, and someone on our team pushed the footage into a Slack channel named for that session. Roughly 15 minutes later there was a cut highlight sitting there…
+- score: `11`
+- published: `2026-11-17T03:48:37+00:00`
+- url: https://e27.co/ex-freepik-magnific-opens-asian-hubs-as-it-chases-studios-agencies-and-brands-20261117/
+- summary: Magnific wants a desk inside Asia’s creative industry, not just a login. The Málaga (Spain)-headquartered AI creative platform, which traded as Freepik until April, has opened offices in Shanghai and Singapore and plans to invest US$10 million in its Asia-Pac…
 
 END OF DOCUMENT

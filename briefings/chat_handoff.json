@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-17T03:33:14+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-11-17T03:49:25+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 4,
-    "observe": 14
+    "observe": 15
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "Our event video edits went from 60 minutes to 15. The AI was the easy part",
+      "title": "Ex-Freepik Magnific opens Asian hubs as it chases studios, agencies and brands",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-17T02:30:59+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/",
-      "summary": "On the first morning of AICON 2026 in Singapore, a speaker came off stage, a videographer pulled the card, and someone on our team pushed the footage into a Slack channel named for that session. Roughly 15 minutes later there was a cut highlight sitting there…",
+      "published_at": "2026-11-17T03:48:37+00:00",
+      "relevance_score": 11,
+      "url": "https://e27.co/ex-freepik-magnific-opens-asian-hubs-as-it-chases-studios-agencies-and-brands-20261117/",
+      "summary": "Magnific wants a desk inside Asia’s creative industry, not just a login. The Málaga (Spain)-headquartered AI creative platform, which traded as Freepik until April, has opened offices in Shanghai and Singapore and plans to invest US$10 million in its Asia-Pac…",
       "section": "observe"
     }
   ],
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU93605944/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T10:15:00+09:00",
-        "age_days": 0.1,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
-        "url": "https://jvn.jp/vu/JVNVU97628215/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T09:50:00+09:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "富士電機株式会社が提供するTELLUSには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU93605944/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T01:19:36+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: code",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
-        "url": "https://jvn.jp/vu/JVNVU97628215/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T01:02:02+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "VS Code retires the Local harness in February 2027",
-        "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-17T01:34:54+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 22.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "early terms: local",
-          "high terms: code"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
