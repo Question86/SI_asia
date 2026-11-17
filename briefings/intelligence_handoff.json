@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-17T01:39:59Z",
+  "generated_at": "2026-11-17T02:39:04Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “富士電機製TELLUSにおける複数の脆弱性（2026年11月）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU97628215/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T09:50:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -35,37 +35,11 @@
       "summary": "富士電機株式会社が提供するTELLUSには、複数の脆弱性が存在します。"
     },
     {
-      "title": "VS Code retires the Local harness in February 2027",
-      "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-11-17T01:34:54+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 25.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "early terms: local",
-        "high terms: code"
-      ],
-      "summary": ""
-    },
-    {
       "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T10:15:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -91,7 +65,7 @@
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T01:19:36+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -101,12 +75,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "high terms: code",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
@@ -117,7 +91,7 @@
       "url": "https://jvn.jp/vu/JVNVU97628215/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -137,11 +111,37 @@
       "summary": ""
     },
     {
+      "title": "VS Code retires the Local harness in February 2027",
+      "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-11-17T01:34:54+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "early terms: local",
+        "high terms: code"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Dependabot alert dismissal requests now last one year",
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -165,7 +165,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-17T00:38:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -189,7 +189,7 @@
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T00:09:27+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -209,11 +209,59 @@
       "summary": "If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first on The GitHub Blog ."
     },
     {
+      "title": "古川大臣記者会見（令和8年11月17日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261117-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-17T01:34:54+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Control where GitHub Copilot customizations come from",
+      "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-11-17T01:54:02+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Beyond the chatbot: How AI is reshaping customer service in Southeast Asia",
       "url": "https://e27.co/beyond-the-chatbot-how-ai-is-reshaping-customer-service-in-southeast-asia-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -239,7 +287,7 @@
       "url": "https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T01:02:02+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -259,55 +307,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "古川大臣記者会見（令和8年11月17日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261117-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-11-17T01:34:54+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/17/030254",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-10T16:50:02+00:00",
-      "age_days": 37.37,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.27,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -5.7 for 37.4d old signal"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -320,8 +319,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 6,
-      "watch": 5,
-      "quiet": 1
+      "watch": 6
     }
   }
 }
