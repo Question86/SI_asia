@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T06:26:35+00:00",
+  "generated_at": "2026-11-17T06:41:03+00:00",
   "today_file_total": 29,
   "current_clusters": [
     {
@@ -51,54 +51,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:openai.com",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/business/customer-stories/revolut"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 21.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:singapore-2026-funding-boom-real-southeast-asian-story",
-      "title": "Singapore’s 2026 funding boom is real. As a Southeast Asian story, it’s a mirage",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/singapores-2026-funding-boom-is-real-as-a-southeast-asian-story-its-a-mirage-20261117/"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:lan",
       "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
       "sources": [
@@ -141,6 +93,54 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/business/customer-stories/revolut"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:singapore-2026-funding-boom-real-southeast-asian-story",
+      "title": "Singapore’s 2026 funding boom is real. As a Southeast Asian story, it’s a mirage",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/singapores-2026-funding-boom-is-real-as-a-southeast-asian-story-its-a-mirage-20261117/"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
