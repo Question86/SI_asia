@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T00:38:47+00:00_
+_Generiert: 2026-11-17T01:01:59+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました“ aus Japan Digital Agency News RSS (Score 8, observation).
+6 neue relevante Treffer. Stärkstes Signal: „富士電機製TELLUSにおける複数の脆弱性（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,10 +73,45 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **富士電機製TELLUSにおける複数の脆弱性（2026年11月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU97628215/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-17T09:50:00+09:00`, fetched `2026-11-17T01:01:21+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 富士電機株式会社が提供するTELLUSには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
+- **Beyond the chatbot: How AI is reshaping customer service in Southeast Asia** — Score 13, observation — [Quelle](https://e27.co/beyond-the-chatbot-how-ai-is-reshaping-customer-service-in-southeast-asia-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-17T01:00:34+00:00`, fetched `2026-11-17T01:01:21+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: A football fan in Bangkok wants to know which streaming package carries tonight’s match. Kick-off is approaching, and the answer is buried somewhere on the provider’s website. For the customer, a delayed response is frustrating. For the streaming company, it could mean a missed subscription. Multiply that interaction by thousands of customers, several languages and […] The post Beyond the chatbot: How AI is reshapin…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI is changing how we learn, work and invest. Venture capital must change too** — Score 13, observation — [Quelle](https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-17T01:00:17+00:00`, fetched `2026-11-17T01:01:21+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: I recently started one of my lectures at Nanyang Technological University (NTU) in Singapore by asking students to think about how education has changed over the past 30 years. When I was studying engineering at university, there was no internet. Information was difficult to access. We spent hours in libraries, reading textbooks, taking notes and […] The post AI is changing how we learn, work and invest. Venture cap…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Dependabot alert dismissal requests now last one year** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-17T00:09:27+00:00`, fetched `2026-11-17T01:01:21+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-17T00:30:00+00:00`, fetched `2026-11-17T00:38:18+00:00`
@@ -98,8 +133,12 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
