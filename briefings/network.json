@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-17T23:04:21+00:00",
+  "generated_at": "2026-11-17T23:15:29+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 105,
-    "clusters": 69,
+    "findings": 106,
+    "clusters": 70,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -33,20 +33,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 24.14,
+      "network_score": 24.19,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 34.6,
-      "ranking_score": 24.14,
+      "ranking_score": 24.19,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.64,
+      "baseline_bonus": 0.69,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1325,6 +1325,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-17T07:47:22+00:00"
+    },
+    {
+      "key": "domain:qiita.com",
+      "title": "[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier4_platform_social"
+      ],
+      "urls": [
+        "https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 0.75,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.63,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.5,
+      "ranking_score": 9.63,
+      "initial_reach_tier": "social",
+      "source_reach_score": 2.0,
+      "authority_bonus_capped": 1.2,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.93,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "url:https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
@@ -2672,7 +2710,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-17T23:04:22Z",
+    "generated_at": "2026-11-17T23:15:30Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

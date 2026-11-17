@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T23:04:19+00:00",
-  "run_id": "2026-11-17T23:04:19+00:00",
+  "generated_at": "2026-11-17T23:15:27+00:00",
+  "run_id": "2026-11-17T23:15:27+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 105
+      "configured_public_sources_only": 106
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 105,
-    "displayed_findings": 105,
+    "new_relevant_findings": 2,
+    "today_file_total": 106,
+    "displayed_findings": 106,
     "high": 0,
     "medium": 50,
-    "observe": 55,
+    "observe": 56,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-17T19:14:55+00:00",
-        "fetched_at": "2026-11-17T19:14:40+00:00",
+        "published_at": "2026-11-17T23:15:13+00:00",
+        "fetched_at": "2026-11-17T23:14:58+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "da9bd9d4de226a2909e2"
+        "id": "b477beac21fb66a22833"
       },
       {
         "title": "Introducing OpenAI for Chile",
@@ -2259,6 +2259,27 @@
         "id": "c09cbd4242df84646bf0"
       },
       {
+        "title": "[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita",
+        "url": "https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-17T14:00:55+00:00",
+        "fetched_at": "2026-11-17T23:14:58+00:00",
+        "summary": "📝 はじめに S3Vectorsが全文検索に対応しました。 この記事では全文検索の定番であるOpenSearchとS3Vectorsを比べてみました。 👀 対象読者 OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方 小さめの全文検索機能を安く作りたい方 アップデートの中身 2026年11月17日にS3Vectorsがハイブリッド検索に対応しま...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "18c9f3d1581699bb4371"
+      },
+      {
         "title": "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
         "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2537,8 +2558,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-17T19:14:55+00:00",
-      "fetched_at": "2026-11-17T19:14:40+00:00",
+      "published_at": "2026-11-17T23:15:13+00:00",
+      "fetched_at": "2026-11-17T23:14:58+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2572,7 +2593,7 @@
         "HD",
         "LOW"
       ],
-      "id": "da9bd9d4de226a2909e2"
+      "id": "b477beac21fb66a22833"
     },
     {
       "title": "Introducing OpenAI for Chile",
@@ -4760,6 +4781,27 @@
       "id": "c09cbd4242df84646bf0"
     },
     {
+      "title": "[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita",
+      "url": "https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-17T14:00:55+00:00",
+      "fetched_at": "2026-11-17T23:14:58+00:00",
+      "summary": "📝 はじめに S3Vectorsが全文検索に対応しました。 この記事では全文検索の定番であるOpenSearchとS3Vectorsを比べてみました。 👀 対象読者 OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方 小さめの全文検索機能を安く作りたい方 アップデートの中身 2026年11月17日にS3Vectorsがハイブリッド検索に対応しま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "18c9f3d1581699bb4371"
+    },
+    {
       "title": "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5031,7 +5073,71 @@
       "id": "9243c5489a04ab9be121"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-17T23:15:13+00:00",
+      "fetched_at": "2026-11-17T23:14:58+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b477beac21fb66a22833"
+    },
+    {
+      "title": "[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita",
+      "url": "https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-17T14:00:55+00:00",
+      "fetched_at": "2026-11-17T23:14:58+00:00",
+      "summary": "📝 はじめに S3Vectorsが全文検索に対応しました。 この記事では全文検索の定番であるOpenSearchとS3Vectorsを比べてみました。 👀 対象読者 OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方 小さめの全文検索機能を安く作りたい方 アップデートの中身 2026年11月17日にS3Vectorsがハイブリッド検索に対応しま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "18c9f3d1581699bb4371"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
