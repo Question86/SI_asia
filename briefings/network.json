@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T12:04:41+00:00",
+  "generated_at": "2026-11-17T12:24:05+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 76,
+    "findings": 78,
     "clusters": 47,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -12,7 +12,7 @@
   "clusters": [
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [kritisch] Atlassian Confluence: Schwachstelle ermöglicht Codeausführung",
+      "title": "[NEU] [mittel] Hitachi Virtual Storage Platform: Mehrere Schwachstellen ermöglichen Codeausführung",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -20,30 +20,30 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4610",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4427",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4607",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4598",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592"
       ],
-      "finding_count": 28,
+      "finding_count": 30,
       "max_score": 17,
-      "credibility_total": 29.4,
+      "credibility_total": 31.5,
       "cross_source_confirmed": false,
-      "momentum_delta": 3,
+      "momentum_delta": 2,
       "momentum_status": "increasing",
-      "network_score": 31.0,
+      "network_score": 28.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 84.8,
-      "ranking_score": 31.0,
+      "raw_network_score": 86.0,
+      "ranking_score": 28.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 7.5,
+      "momentum_bonus": 5.0,
       "baseline_bonus": 5.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -226,20 +226,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.52,
+      "network_score": 17.5,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 20.2,
-      "ranking_score": 17.52,
+      "ranking_score": 17.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.02,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1824,7 +1824,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-17T12:04:42Z",
+    "generated_at": "2026-11-17T12:24:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
