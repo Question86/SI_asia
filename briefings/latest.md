@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T05:29:22+00:00_
+_Generiert: 2026-11-17T05:39:24+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -109,6 +109,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Southeast Asia is one of the most multilingual regions in the world, and one of the most motivated to learn more languages. In Vietnam alone, students prepare for English exams, factory engineers study Japanese for jobs in Japan, and office workers take Chinese or Korean classes after hours because a new client or employer speaks […] The post Lessons from building a multilingual AI learning platform in Southeast Asi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU92504317/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-17T14:30:00+09:00`, fetched `2026-11-17T05:38:53+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: エレコム株式会社が提供する無線LANルータには、OSコマンドインジェクションの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93605944/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-17T10:15:00+09:00`, fetched `2026-11-17T01:19:03+00:00`
@@ -256,7 +265,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `fed_speeches_testimony` (rss): HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Read timed out. (read timeout=8)

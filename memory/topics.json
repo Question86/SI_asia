@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T05:29:22+00:00",
+  "generated_at": "2026-11-17T05:39:24+00:00",
   "topics": {
     "ai": [
       {
@@ -113,6 +113,13 @@
       }
     ],
     "security": [
+      {
+        "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-17T14:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92504317/"
+      },
       {
         "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
         "source": "JVN Japan Vulnerability Notes",

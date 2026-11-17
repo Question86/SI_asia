@@ -109,6 +109,28 @@
     "id": "abe7df74209f6f4facff"
   },
   {
+    "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU92504317/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-17T14:30:00+09:00",
+    "fetched_at": "2026-11-17T05:38:53+00:00",
+    "summary": "エレコム株式会社が提供する無線LANルータには、OSコマンドインジェクションの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "75a5e7b19447525c801e"
+  },
+  {
     "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU93605944/",
     "source": "JVN Japan Vulnerability Notes",
