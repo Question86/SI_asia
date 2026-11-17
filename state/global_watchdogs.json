@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:20:35+00:00",
+  "generated_at": "2026-11-17T07:30:46+00:00",
   "sections": {
     "global_security": [
       {
@@ -69,6 +69,16 @@
         "summary": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577696",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in South Africa",
+        "summary": "Green flood alert in South Africa",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104286",
         "published_at": "",
         "metrics": {}
       },

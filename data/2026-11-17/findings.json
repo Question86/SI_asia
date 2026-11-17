@@ -289,6 +289,29 @@
     "id": "678355937edcb3d85b8a"
   },
   {
+    "title": "[UPDATE] [mittel] PostgreSQL ODBC Treiber: Mehrere Schwachstellen ermöglichen Manipulation von Daten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4307",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-17T07:28:46+00:00",
+    "fetched_at": "2026-11-17T07:30:09+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen im PostgreSQL ODBC Treiber ausnutzen, um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ec7e073eac8ee5ee4f8c"
+  },
+  {
     "title": "[UPDATE] [mittel] Octopus Deploy: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4572",
     "source": "BSI CERT-Bund Security Advisories",
