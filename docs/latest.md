@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T03:56:51+00:00_
+_Generiert: 2026-11-17T04:05:29+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+21 neue relevante Treffer. Stärkstes Signal: „My spam folder found me a business lead. Here’s what else AI took off my plate“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **My spam folder found me a business lead. Here’s what else AI took off my plate** — Score 20, risk — [Quelle](https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-17T04:00:12+00:00`, fetched `2026-11-17T04:05:01+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading the emails I never asked for. For years I did those badly, […] The post My spam folder found me a business lead. Here’s what else AI took off my plate appeared…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem** — Score 16, observation — [Quelle](https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-17T03:17:24+00:00`, fetched `2026-11-17T03:24:33+00:00`
@@ -69,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: I recently started one of my lectures at Nanyang Technological University (NTU) in Singapore by asking students to think about how education has changed over the past 30 years. When I was studying engineering at university, there was no internet. Information was difficult to access. We spent hours in libraries, reading textbooks, taking notes and […] The post AI is changing how we learn, work and invest. Venture cap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI marketing research is moving from making content to choosing it, and Asian labs are leading** — Score 12, observation — [Quelle](https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-17T04:00:00+00:00`, fetched `2026-11-17T04:05:01+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: My ACM Multimedia calendar in Rio came colour-coded: must-see, recommended, if time. When I counted the must-sees, the pattern was hard to miss. Most came from Asian labs, from Singapore, Shenzhen, Hefei, Hong Kong and Taipei, plus the research arms of JD, Alibaba, Kuaishou, ByteDance, OPPO and Ant. A TechNode profile of HiDream.ai shows the […] The post AI marketing research is moving from making content to choosin…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Dependabot alert dismissal requests now last one year** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-17T00:09:27+00:00`, fetched `2026-11-17T01:01:21+00:00`
@@ -77,15 +95,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
   - Kurz: If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ex-Freepik Magnific opens Asian hubs as it chases studios, agencies and brands** — Score 11, observation — [Quelle](https://e27.co/ex-freepik-magnific-opens-asian-hubs-as-it-chases-studios-agencies-and-brands-20261117/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-17T03:48:37+00:00`, fetched `2026-11-17T03:48:53+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Shanghai (+2.0)
-  - Kurz: Magnific wants a desk inside Asia’s creative industry, not just a login. The Málaga (Spain)-headquartered AI creative platform, which traded as Freepik until April, has opened offices in Shanghai and Singapore and plans to invest US$10 million in its Asia-Pacific expansion through the rest of 2026 and into early 2027. The new hubs join existing […] The post Ex-Freepik Magnific opens Asian hubs as it chases studios,…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **QA生産性を爆上げさせるためのQA AIプラットフォーム構築** — Score 10, observation — [Quelle](https://zenn.dev/gatechnologies/articles/8bdea59269eb10)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -162,8 +171,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

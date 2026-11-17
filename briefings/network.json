@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-17T03:56:56+00:00",
+  "generated_at": "2026-11-17T04:05:31+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 19,
-    "clusters": 19,
+    "findings": 21,
+    "clusters": 21,
     "cross_source_confrmed": 0,
-    "hot": 0,
-    "early_signals": 1,
+    "hot": 1,
+    "early_signals": 2,
     "dominance_penalized": 1
   },
   "clusters": [
     {
-      "key": "title:lessons-building-multilingual-learning-platform-southeast-asia",
-      "title": "Lessons from building a multilingual AI learning platform in Southeast Asia",
+      "key": "title:spam-folder-found-business-lead-here-what-else",
+      "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
       "sources": [
         "e27 Asia Startup and Tech Feed"
       ],
@@ -20,25 +20,63 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/"
+        "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/"
       ],
       "finding_count": 1,
-      "max_score": 15,
+      "max_score": 20,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.0,
-      "hot": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 31.5,
+      "hot": true,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.1,
-      "ranking_score": 22.0,
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 25.1,
+      "ranking_score": 31.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-17T04:05:31+00:00"
+    },
+    {
+      "key": "title:marketing-research-moving-making-content-choosing-asian-labs",
+      "title": "AI marketing research is moving from making content to choosing it, and Asian labs are leading",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 21.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
       "early_signal": true,
       "early_signal_bonus": 5.5,
@@ -46,7 +84,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-11-17T03:33:16+00:00"
+      "first_seen_at": "2026-11-17T04:05:31+00:00"
     },
     {
       "key": "title:thailand-fuelled-upgrade-comes-brutal-2027-maths-problem",
@@ -85,6 +123,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-17T03:25:05+00:00"
+    },
+    {
+      "key": "title:lessons-building-multilingual-learning-platform-southeast-asia",
+      "title": "Lessons from building a multilingual AI learning platform in Southeast Asia",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 16.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-17T03:33:16+00:00"
     },
     {
       "key": "title:macos-apfs-unicode",
@@ -740,7 +816,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-17T03:56:57Z",
+    "generated_at": "2026-11-17T04:05:32Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

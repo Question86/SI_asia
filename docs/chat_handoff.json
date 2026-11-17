@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-17T03:56:51+00:00",
+  "generated_at": "2026-11-17T04:05:29+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 2,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 4,
-    "observe": 15
+    "medium": 5,
+    "observe": 16
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-17T04:00:12+00:00",
+      "relevance_score": 20,
+      "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/",
+      "summary": "I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading…",
+      "section": "medium"
+    },
     {
       "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
       "source": "e27 Asia Startup and Tech Feed",
@@ -45,16 +55,6 @@
       "section": "medium"
     },
     {
-      "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-17T09:50:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU97628215/",
-      "summary": "富士電機株式会社が提供するTELLUSには、複数の脆弱性が存在します。",
-      "section": "medium"
-    },
-    {
       "title": "Beyond the chatbot: How AI is reshaping customer service in Southeast Asia",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "AI marketing research is moving from making content to choosing it, and Asian labs are leading",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-17T04:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/",
+      "summary": "My ACM Multimedia calendar in Rio came colour-coded: must-see, recommended, if time. When I counted the must-sees, the pattern was hard to miss. Most came from Asian labs, from Singapore, Shenzhen, Hefei, Hong Kong and Taipei, plus the research arms of JD, Al…",
+      "section": "observe"
+    },
+    {
       "title": "Dependabot alert dismissal requests now last one year",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "summary": "If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first…",
-      "section": "observe"
-    },
-    {
-      "title": "Ex-Freepik Magnific opens Asian hubs as it chases studios, agencies and brands",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-17T03:48:37+00:00",
-      "relevance_score": 11,
-      "url": "https://e27.co/ex-freepik-magnific-opens-asian-hubs-as-it-chases-studios-agencies-and-brands-20261117/",
-      "summary": "Magnific wants a desk inside Asia’s creative industry, not just a login. The Málaga (Spain)-headquartered AI creative platform, which traded as Freepik until April, has opened offices in Shanghai and Singapore and plans to invest US$10 million in its Asia-Pac…",
       "section": "observe"
     }
   ],
