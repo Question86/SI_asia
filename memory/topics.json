@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T09:45:23+00:00",
+  "generated_at": "2026-11-17T09:51:49+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-17T05:29:02+00:00",
+        "published_at": "2026-11-17T09:51:37+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -228,18 +228,18 @@
         "url": "https://jvn.jp/vu/JVNVU97628215/"
       },
       {
-        "title": "[UPDATE] [mittel] PostgreSQL ODBC Treiber: Mehrere Schwachstellen ermöglichen Manipulation von Daten",
+        "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T07:28:46+00:00",
+        "published_at": "2026-11-17T09:42:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4307"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2538"
       },
       {
-        "title": "[UPDATE] [mittel] Octopus Deploy: Mehrere Schwachstellen",
+        "title": "[UPDATE] [mittel] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T07:12:01+00:00",
+        "published_at": "2026-11-17T09:42:00+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4572"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2515"
       }
     ],
     "github": [
@@ -256,6 +256,13 @@
         "published_at": "2026-11-17T00:09:27+00:00",
         "relevance_score": 12,
         "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year"
+      },
+      {
+        "title": "Breaking change: Japanese Calendar minimum supported date corrected - .NET",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-17T00:59:20+00:00",
+        "relevance_score": 11,
+        "url": "https://learn.microsoft.com/en-us/dotnet/core/compatibility/globalization/11/japanese-calendar-min-date"
       },
       {
         "title": "getarcaneapp/arcane",
