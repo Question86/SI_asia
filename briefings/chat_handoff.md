@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T06:02:38+00:00_
+_Generated: 2026-11-17T06:26:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `29`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-17T06:02:38+00:00_
 - url: https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/
 - summary: Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2…
 
-### 4. Lessons from building a multilingual AI learning platform in Southeast Asia
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-11-17T03:30:31+00:00`
-- url: https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/
-- summary: Southeast Asia is one of the most multilingual regions in the world, and one of the most motivated to learn more languages. In Vietnam alone, students prepare for English exams, factory engineers study Japanese for jobs in Japan, and office workers take Chine…
+### 4. How Revolut raises ambition without lowering the bar
+- source: OpenAI News RSS
+- score: `16`
+- published: `2026-11-16T09:30:00+00:00`
+- url: https://openai.com/business/customer-stories/revolut
+- summary: Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.
 
 ### 5. Beyond the chatbot: How AI is reshaping customer service in Southeast Asia
 - source: e27 Asia Startup and Tech Feed

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T06:02:38+00:00_
+_Generiert: 2026-11-17T06:26:32+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -39,14 +39,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 per cent, after three […] The post Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Lessons from building a multilingual AI learning platform in Southeast Asia** — Score 15, observation — [Quelle](https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/)
+- **How Revolut raises ambition without lowering the bar** — Score 16, observation — [Quelle](https://openai.com/business/customer-stories/revolut)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-16T09:30:00+00:00`, fetched `2026-11-17T06:26:02+00:00`
+  - Treffer: OpenAI, Security, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore’s 2026 funding boom is real. As a Southeast Asian story, it’s a mirage** — Score 15, observation — [Quelle](https://e27.co/singapores-2026-funding-boom-is-real-as-a-southeast-asian-story-its-a-mirage-20261117/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-17T03:30:31+00:00`, fetched `2026-11-17T03:32:34+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Zeit: published `2026-11-17T06:06:13+00:00`, fetched `2026-11-17T06:26:02+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, funding, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
-  - Kurz: Southeast Asia is one of the most multilingual regions in the world, and one of the most motivated to learn more languages. In Vietnam alone, students prepare for English exams, factory engineers study Japanese for jobs in Japan, and office workers take Chinese or Korean classes after hours because a new client or employer speaks […] The post Lessons from building a multilingual AI learning platform in Southeast Asi…
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: There was one sentence Southeast Asia’s startup press could have saved as a keyboard shortcut in 2026: Singapore took almost everything. In October, Singapore-based startups collected US$3.66 billion of the US$3.68 billion raised across the region, according to TNGlobal’s monthly tally. In AI, Tracxn credited the city-state with every last dollar of Southeast Asia’s funding […] The post Singapore’s 2026 funding boom…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **プリザンターにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN02242982/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
