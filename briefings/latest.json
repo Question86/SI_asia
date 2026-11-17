@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T18:02:50+00:00",
-  "run_id": "2026-11-17T18:02:50+00:00",
+  "generated_at": "2026-11-17T18:21:50+00:00",
+  "run_id": "2026-11-17T18:21:50+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 90
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 90,
-    "displayed_findings": 90,
+    "new_relevant_findings": 3,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 0,
-    "medium": 48,
-    "observe": 42,
+    "medium": 49,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -210,6 +210,51 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3599af7c56ae87afa736"
+      },
+      {
+        "title": "Introducing GPT-6.2 Astra and Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-17T17:45:00+00:00",
+        "fetched_at": "2026-11-17T18:21:20+00:00",
+        "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+        "matched_keywords": [
+          "AI Agents",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "e53bac2c447b553aa269"
       },
       {
         "title": "[NEU] [hoch] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1857,6 +1902,26 @@
         "id": "ee5fc448ce75674d24fc"
       },
       {
+        "title": "Astra for Law leads in legal intelligence",
+        "url": "https://openai.com/index/astra-law-6-2",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-17T00:00:00+00:00",
+        "fetched_at": "2026-11-17T18:21:20+00:00",
+        "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b26169a254c4170a7fbb"
+      },
+      {
         "title": "位置情報「流出」のルート 売買されるあなたの居場所",
         "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2189,6 +2254,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8d52a512e94f942d6646"
+      },
+      {
+        "title": "Building the Agent Host Protocol for sessions that continue across devices",
+        "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-17T18:20:40+00:00",
+        "fetched_at": "2026-11-17T18:21:20+00:00",
+        "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9243c5489a04ab9be121"
       }
     ]
   },
@@ -2374,6 +2459,51 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3599af7c56ae87afa736"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-17T17:45:00+00:00",
+      "fetched_at": "2026-11-17T18:21:20+00:00",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "matched_keywords": [
+        "AI Agents",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "e53bac2c447b553aa269"
     },
     {
       "title": "[NEU] [hoch] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -4019,6 +4149,26 @@
       "id": "ee5fc448ce75674d24fc"
     },
     {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "fetched_at": "2026-11-17T18:21:20+00:00",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b26169a254c4170a7fbb"
+    },
+    {
       "title": "位置情報「流出」のルート 売買されるあなたの居場所",
       "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4351,9 +4501,115 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8d52a512e94f942d6646"
+    },
+    {
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-17T18:20:40+00:00",
+      "fetched_at": "2026-11-17T18:21:20+00:00",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9243c5489a04ab9be121"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-17T17:45:00+00:00",
+      "fetched_at": "2026-11-17T18:21:20+00:00",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "matched_keywords": [
+        "AI Agents",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "e53bac2c447b553aa269"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "fetched_at": "2026-11-17T18:21:20+00:00",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b26169a254c4170a7fbb"
+    },
+    {
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-17T18:20:40+00:00",
+      "fetched_at": "2026-11-17T18:21:20+00:00",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9243c5489a04ab9be121"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
