@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T03:25:01+00:00_
+_Generiert: 2026-11-17T03:33:14+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+18 neue relevante Treffer. Stärkstes Signal: „Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem“ aus e27 Asia Startup and Tech Feed (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
   - Kurz: Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 per cent, after three […] The post Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Lessons from building a multilingual AI learning platform in Southeast Asia** — Score 15, observation — [Quelle](https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-17T03:30:31+00:00`, fetched `2026-11-17T03:32:34+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
+  - Kurz: Southeast Asia is one of the most multilingual regions in the world, and one of the most motivated to learn more languages. In Vietnam alone, students prepare for English exams, factory engineers study Japanese for jobs in Japan, and office workers take Chinese or Korean classes after hours because a new client or employer speaks […] The post Lessons from building a multilingual AI learning platform in Southeast Asi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93605944/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -220,3 +229,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `jvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='jvn.jp', port=443): Read timed out. (read timeout=8)

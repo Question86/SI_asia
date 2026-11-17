@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-17T03:25:01+00:00",
-  "run_id": "2026-11-17T03:25:01+00:00",
+  "generated_at": "2026-11-17T03:33:14+00:00",
+  "run_id": "2026-11-17T03:33:14+00:00",
   "date": "2026-11-17",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 1,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 14,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -50,6 +50,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2e1fac273563467258f3"
+      },
+      {
+        "title": "Lessons from building a multilingual AI learning platform in Southeast Asia",
+        "url": "https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-17T03:30:31+00:00",
+        "fetched_at": "2026-11-17T03:32:34+00:00",
+        "summary": "Southeast Asia is one of the most multilingual regions in the world, and one of the most motivated to learn more languages. In Vietnam alone, students prepare for English exams, factory engineers study Japanese for jobs in Japan, and office workers take Chinese or Korean classes after hours because a new client or employer speaks […] The post Lessons from building a multilingual AI learning platform in Southeast Asi…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "abe7df74209f6f4facff"
       },
       {
         "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
@@ -456,6 +478,28 @@
       "id": "2e1fac273563467258f3"
     },
     {
+      "title": "Lessons from building a multilingual AI learning platform in Southeast Asia",
+      "url": "https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-17T03:30:31+00:00",
+      "fetched_at": "2026-11-17T03:32:34+00:00",
+      "summary": "Southeast Asia is one of the most multilingual regions in the world, and one of the most motivated to learn more languages. In Vietnam alone, students prepare for English exams, factory engineers study Japanese for jobs in Japan, and office workers take Chinese or Korean classes after hours because a new client or employer speaks […] The post Lessons from building a multilingual AI learning platform in Southeast Asi…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "abe7df74209f6f4facff"
+    },
+    {
       "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
@@ -835,50 +879,36 @@
   ],
   "new_findings": [
     {
-      "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
-      "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
+      "title": "Lessons from building a multilingual AI learning platform in Southeast Asia",
+      "url": "https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-17T03:17:24+00:00",
-      "fetched_at": "2026-11-17T03:24:33+00:00",
-      "summary": "Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 per cent, after three […] The post Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem appeared first on e27 .",
+      "published_at": "2026-11-17T03:30:31+00:00",
+      "fetched_at": "2026-11-17T03:32:34+00:00",
+      "summary": "Southeast Asia is one of the most multilingual regions in the world, and one of the most motivated to learn more languages. In Vietnam alone, students prepare for English exams, factory engineers study Japanese for jobs in Japan, and office workers take Chinese or Korean classes after hours because a new client or employer speaks […] The post Lessons from building a multilingual AI learning platform in Southeast Asi…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
-        "Macro/Policy"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2e1fac273563467258f3"
-    },
-    {
-      "title": "Evaluating investment risks in southeast Asia data centres",
-      "url": "https://e27.co/evaluating-investment-risks-in-southeast-asia-data-centres-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-17T03:00:50+00:00",
-      "fetched_at": "2026-11-17T03:24:33+00:00",
-      "summary": "Global cloud providers and investors continue to pour into Southeast Asia (SEA), and the region’s data centre market has drawn mounting attention worldwide. For entrepreneurs weighing a direct equity stake, that momentum can signal a real opening. Capturing it requires looking past the headline growth story. Four distinct risk categories give investors a structured way […] The post Evaluating investment risks in sou…",
-      "matched_keywords": [
-        "APAC Trend Radar",
         "Southeast Asia"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "32798243bd8dfa64821b"
+      "id": "abe7df74209f6f4facff"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "jvn_vulnerability_notes",
+      "source_name": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='jvn.jp', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-11-17T03:25:01+00:00",
-  "status": "normal",
+  "generated_at": "2026-11-17T03:33:14+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 1,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 14,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "jvn_vulnerability_notes",
+      "source_name": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='jvn.jp', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
