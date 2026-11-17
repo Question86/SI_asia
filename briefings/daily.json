@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T13:46:22+00:00",
-  "today_file_total": 86,
+  "generated_at": "2026-11-17T14:00:47+00:00",
+  "today_file_total": 87,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -28,6 +28,33 @@
       "network_score": 82.1,
       "hot": true,
       "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Introducing OpenAI for Chile",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/introducing-openai-for-chile",
+        "https://openai.com/business/customer-stories/revolut",
+        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+      ],
+      "finding_count": 3,
+      "max_score": 22,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 31.3,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -99,32 +126,6 @@
       "network_score": 21.1,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/business/customer-stories/revolut",
-        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
-      ],
-      "finding_count": 2,
-      "max_score": 16,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 20.2,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {

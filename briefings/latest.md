@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T13:46:20+00:00_
+_Generiert: 2026-11-17T14:00:44+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+87 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Introducing OpenAI for Chile** — Score 22, observation — [Quelle](https://openai.com/index/introducing-openai-for-chile)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-17T00:00:00+00:00`, fetched `2026-11-17T14:00:07+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Chile (+2.0)
+  - Kurz: OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **My spam folder found me a business lead. Here’s what else AI took off my plate** — Score 20, risk — [Quelle](https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-17T04:00:12+00:00`, fetched `2026-11-17T04:05:01+00:00`

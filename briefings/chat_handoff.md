@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T13:46:20+00:00_
+_Generated: 2026-11-17T14:00:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `86`
+- findings: `87`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-17T13:46:20+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. My spam folder found me a business lead. Here’s what else AI took off my plate
+### 2. Introducing OpenAI for Chile
+- source: OpenAI News RSS
+- score: `22`
+- published: `2026-11-17T00:00:00+00:00`
+- url: https://openai.com/index/introducing-openai-for-chile
+- summary: OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
+
+### 3. My spam folder found me a business lead. Here’s what else AI took off my plate
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-11-17T04:00:12+00:00`
 - url: https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/
 - summary: I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading…
 
-### 3. Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal
+### 4. Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-11-17T10:01:47+00:00`
 - url: https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/
 - summary: Washington has ended Southeast Asia’s easy access to top-end AI silicon. On Monday, the US Commerce Department’s Bureau of Industry and Security issued an interim final rule that requires licences for advanced chips bound for Indonesia, Malaysia, Singapore, T…
-
-### 4. Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race
-- source: e27 Asia Startup and Tech Feed
-- score: `18`
-- published: `2026-11-17T10:46:47+00:00`
-- url: https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/
-- summary: For six years, Iterative sold itself on one promise: a Y Combinator-style accelerator built exclusively for Southeast Asia. That promise has now expired. The Singapore-based early-stage investor will not run a Winter 2027 batch of its core programme. In its p…
 
 ### 5. M 4.9 - 43 km NW of Oxford, New Zealand
 - source: USGS M4.5+ Earthquakes Past Hour
