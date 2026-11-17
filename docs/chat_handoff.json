@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-17T07:07:07+00:00",
+  "generated_at": "2026-11-17T07:20:32+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 4,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
-    "medium": 10,
-    "observe": 19
+    "medium": 12,
+    "observe": 21
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T07:12:01+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "section": "medium"
+    },
+    {
       "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
       "summary": "Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2…",
-      "section": "medium"
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-16T09:30:00+00:00",
-      "relevance_score": 16,
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
       "section": "medium"
     },
     {
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "section": "observe"
+    },
+    {
       "title": "エレコム製無線LANルータにおける複数の脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 13,
       "url": "https://jvn.jp/vu/JVNVU91615135/",
       "summary": "エレコム株式会社が提供する無線LANルータには、複数の脆弱性が存在します。",
-      "section": "observe"
-    },
-    {
-      "title": "AI marketing research is moving from making content to choosing it, and Asian labs are leading",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-17T04:00:00+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/",
-      "summary": "My ACM Multimedia calendar in Rio came colour-coded: must-see, recommended, if time. When I counted the must-sees, the pattern was hard to miss. Most came from Asian labs, from Singapore, Shenzhen, Hefei, Hong Kong and Taipei, plus the research arms of JD, Al…",
       "section": "observe"
     }
   ],

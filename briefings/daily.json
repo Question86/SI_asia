@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-17T07:07:09+00:00",
-  "today_file_total": 29,
+  "generated_at": "2026-11-17T07:20:35+00:00",
+  "today_file_total": 33,
   "current_clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4572"
+      ],
+      "finding_count": 2,
+      "max_score": 16,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 26.2,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "earthquake:updates | reliefweb:unknown",
       "title": "Updates | ReliefWeb",
@@ -26,6 +50,32 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/business/customer-stories/revolut",
+        "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+      ],
+      "finding_count": 2,
+      "max_score": 16,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.2,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:spam-folder-found-business-lead-here-what-else",
@@ -95,31 +145,6 @@
       "network_score": 18.1,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/business/customer-stories/revolut"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 18.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
@@ -449,29 +474,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
-      "title": "今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }
