@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T11:18:13+00:00",
+  "generated_at": "2026-11-17T11:26:27+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 59,
+    "findings": 61,
     "clusters": 47,
     "cross_source_confrmed": 0,
-    "hot": 1,
-    "early_signals": 1,
+    "hot": 0,
+    "early_signals": 0,
     "dominance_penalized": 5
   },
   "clusters": [
@@ -21,15 +21,15 @@
       ],
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4427",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4591",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3796"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4593"
       ],
-      "finding_count": 11,
+      "finding_count": 13,
       "max_score": 17,
-      "credibility_total": 11.55,
+      "credibility_total": 13.65,
       "cross_source_confirmed": false,
       "momentum_delta": 2,
       "momentum_status": "increasing",
@@ -37,7 +37,7 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 46.1,
+      "raw_network_score": 50.3,
       "ranking_score": 28.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
@@ -52,44 +52,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "title:iterative-pivot-uncomfortable-verdict-southeast-asia-place-race",
-      "title": "Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/"
-      ],
-      "finding_count": 1,
-      "max_score": 18,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 27.0,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 20.1,
-      "ranking_score": 27.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 7.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-17T10:58:43+00:00"
     },
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -206,6 +168,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-17T10:11:49+00:00"
+    },
+    {
+      "key": "title:iterative-pivot-uncomfortable-verdict-southeast-asia-place-race",
+      "title": "Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/"
+      ],
+      "finding_count": 1,
+      "max_score": 18,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 20.1,
+      "ranking_score": 19.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-17T10:58:43+00:00"
     },
     {
       "key": "domain:openai.com",
@@ -1170,44 +1170,6 @@
       "first_seen_at": "2026-11-17T00:38:51+00:00"
     },
     {
-      "key": "title:mutation-test",
-      "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://zenn.dev/mizchi/articles/mutation-test-quality"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-17T11:18:13+00:00"
-    },
-    {
       "key": "domain:vdata.nikkei.com",
       "title": "位置情報「流出」のルート 売買されるあなたの居場所",
       "sources": [
@@ -1440,6 +1402,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-17T01:54:02+00:00"
+    },
+    {
+      "key": "title:mutation-test",
+      "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/mizchi/articles/mutation-test-quality"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-17T11:18:13+00:00"
     },
     {
       "key": "title:1125",
@@ -1824,7 +1824,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-17T11:18:14Z",
+    "generated_at": "2026-11-17T11:26:28Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

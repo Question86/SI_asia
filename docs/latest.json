@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T11:18:11+00:00",
-  "run_id": "2026-11-17T11:18:11+00:00",
+  "generated_at": "2026-11-17T11:26:24+00:00",
+  "run_id": "2026-11-17T11:26:24+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 2,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
-    "medium": 26,
+    "medium": 28,
     "observe": 33,
     "source_errors": 0
   },
@@ -163,6 +163,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3599af7c56ae87afa736"
+      },
+      {
+        "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-17T11:22:01+00:00",
+        "fetched_at": "2026-11-17T11:25:56+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Android ausnutzen, um Daten zu manipulieren, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph region south_korea: Samsung (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "069da5a0d312bf0f94b4"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] VLC: Mehrere Schwachstellen",
@@ -474,6 +497,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "75a5e7b19447525c801e"
+      },
+      {
+        "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4593",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-17T11:17:01+00:00",
+        "fetched_at": "2026-11-17T11:25:56+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7343baa6da355c39d759"
       },
       {
         "title": "[NEU] [mittel] LibreOffice: Mehrere Schwachstellen",
@@ -1589,6 +1635,29 @@
       "id": "3599af7c56ae87afa736"
     },
     {
+      "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T11:22:01+00:00",
+      "fetched_at": "2026-11-17T11:25:56+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Android ausnutzen, um Daten zu manipulieren, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph region south_korea: Samsung (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "069da5a0d312bf0f94b4"
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] VLC: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1898,6 +1967,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "75a5e7b19447525c801e"
+    },
+    {
+      "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4593",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T11:17:01+00:00",
+      "fetched_at": "2026-11-17T11:25:56+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7343baa6da355c39d759"
     },
     {
       "title": "[NEU] [mittel] LibreOffice: Mehrere Schwachstellen",
@@ -2875,37 +2967,36 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] VLC: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592",
+      "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-17T11:12:01+00:00",
-      "fetched_at": "2026-11-17T11:17:42+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in VLC ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen oder Informationen offenzulegen.",
+      "published_at": "2026-11-17T11:22:01+00:00",
+      "fetched_at": "2026-11-17T11:25:56+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Android ausnutzen, um Daten zu manipulieren, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Patch",
         "Schwachstelle",
         "Security"
       ],
       "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph region south_korea: Samsung (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "325a6540ed72d588cf5f"
+      "id": "069da5a0d312bf0f94b4"
     },
     {
-      "title": "[NEU] [mittel] LibreOffice: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4591",
+      "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4593",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-17T11:12:00+00:00",
-      "fetched_at": "2026-11-17T11:17:42+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in LibreOffice ausnutzen, um Informationen offenzulegen, beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Dateien zu manipulieren oder eine Speicherbeschädigung zu verursachen. Für eine erfolgreiche Ausnutzung ist eine Benutzerinteraktion erforderlich.",
+      "published_at": "2026-11-17T11:17:01+00:00",
+      "fetched_at": "2026-11-17T11:25:56+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2919,28 +3010,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c67f149538e253fdc0e4"
-    },
-    {
-      "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
-      "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-17T09:59:42+00:00",
-      "fetched_at": "2026-11-17T11:17:42+00:00",
-      "summary": "AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e871380804eacb23ee71"
+      "id": "7343baa6da355c39d759"
     }
   ],
   "source_errors": [],
