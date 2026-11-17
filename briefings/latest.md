@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T20:49:24+00:00_
+_Generiert: 2026-11-17T20:58:09+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,10 @@ _Generiert: 2026-11-17T20:49:24+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:9.971km) in Philippines 15/11/2026 13:41 UTC, 30 thousand in MMI VI.
-- **GDACS: Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001350)
+- **GDACS: Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 130 .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001350)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 130 .
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577445)
   - Quelle: GDACS
   - Zeit: ``

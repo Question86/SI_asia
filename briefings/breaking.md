@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-17T20:49:29+00:00_
+_Generiert: 2026-11-17T20:58:12+00:00_
 
 ## OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available
 
