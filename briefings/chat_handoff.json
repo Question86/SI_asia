@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-17T10:44:31+00:00",
+  "generated_at": "2026-11-17T10:58:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 5,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
-    "medium": 19,
-    "observe": 30
+    "medium": 21,
+    "observe": 32
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-17T09:51:37+00:00",
+      "published_at": "2026-11-17T10:58:32+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -45,14 +45,24 @@
       "section": "medium"
     },
     {
-      "title": "99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech",
+      "title": "Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-17T08:56:21+00:00",
-      "relevance_score": 16,
-      "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/",
-      "summary": "For 12 years, Darius Cheung has been the face, voice and chief dealmaker of 99 Group. On January 1, 2027, he becomes its Chairman. The Group CEO job goes to Jason Barakat-Brown, the investment banker-turned-operator who currently doubles as the company’s CFO…",
+      "published_at": "2026-11-17T10:46:47+00:00",
+      "relevance_score": 18,
+      "url": "https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/",
+      "summary": "For six years, Iterative sold itself on one promise: a Y Combinator-style accelerator built exclusively for Southeast Asia. That promise has now expired. The Singapore-based early-stage investor will not run a Winter 2027 batch of its core programme. In its p…",
       "section": "medium"
+    },
+    {
+      "title": "M 4.9 - 43 km NW of Oxford, New Zealand",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-17T10:57:00.158+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrv",
+      "summary": "PAGER - GREEN ShakeMap - V DYFI? - IV Time 2026-11-17 10:30:48 UTC 2026-11-17 10:30:48 UTC at epicenter Location 43.023°S 171.805°E Depth 14.24 km (8.85 mi)",
+      "section": "observe"
     },
     {
       "title": "Beyond the chatbot: How AI is reshaping customer service in Southeast Asia",
@@ -83,16 +93,6 @@
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
       "section": "observe"
-    },
-    {
-      "title": "エレコム製無線LANルータにおける複数の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2025-07-22T12:15:00+09:00",
-      "relevance_score": 13,
-      "url": "https://jvn.jp/vu/JVNVU91615135/",
-      "summary": "エレコム株式会社が提供する無線LANルータには、複数の脆弱性が存在します。",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T08:12:01+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, 10",
-          "security high-signal: code, 10"
-        ],
-        "summary": "Ein Angreifer kann diese Schwachstellen in Microsoft Windows Server in den Versionen 2012, 2012 R2, 2016, 2019 und 2022, sowie in Microsoft Windows in den Versionen 10 und 11, im Microsoft Windows Admin Center und im Microsoft Configuration Manager ausnutzen, um erweiterte Berechtigungen – einschließlich Administrator…"
-      },
-      {
-        "title": "How Revolut raises ambition without lowering the bar",
-        "url": "https://openai.com/business/customer-stories/revolut",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-11-16T09:30:00+00:00",
-        "age_days": 1.06,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
-      },
-      {
-        "title": "elementalsouls/Claude-BugHunter",
-        "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-11-17T09:18:14+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. https://elementalsouls.github.io/Claude-BugHunter claude-bughunter A self-containe…"
-      },
-      {
-        "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU93605944/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T10:15:00+09:00",
-        "age_days": 0.4,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "[UPDATE] [mittel] Octopus Deploy: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4572",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T07:12:01+00:00",
-        "age_days": 0.15,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Octopus Deploy ausnutzen, um seine Privilegien zu erhöhen und Sicherheitsmaßnahmen zu umgehen."
-      }
-    ]
-  }
+  ]
 }

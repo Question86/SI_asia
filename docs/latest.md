@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T10:44:31+00:00_
+_Generiert: 2026-11-17T10:58:41+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+53 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-17T09:51:37+00:00`, fetched `2026-11-17T09:51:22+00:00`
+  - Zeit: published `2026-11-17T10:58:32+00:00`, fetched `2026-11-17T10:58:16+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -39,14 +39,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Singapore, Indonesia, Thailand (+2.0)
   - Kurz: Washington has ended Southeast Asia’s easy access to top-end AI silicon. On Monday, the US Commerce Department’s Bureau of Industry and Security issued an interim final rule that requires licences for advanced chips bound for Indonesia, Malaysia, Singapore, Thailand and Brazil, citing a higher-than-normal risk of diversion. Data-centre operators, foreign foundries and chip exporters must […] The post Ecosystem Round…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech** — Score 16, observation — [Quelle](https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/)
+- **Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race** — Score 18, observation — [Quelle](https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-17T08:56:21+00:00`, fetched `2026-11-17T09:02:47+00:00`
-  - Treffer: APAC Trend Radar, founder, Public Health, Southeast Asia
+  - Zeit: published `2026-11-17T10:46:47+00:00`, fetched `2026-11-17T10:58:16+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: For 12 years, Darius Cheung has been the face, voice and chief dealmaker of 99 Group. On January 1, 2027, he becomes its Chairman. The Group CEO job goes to Jason Barakat-Brown, the investment banker-turned-operator who currently doubles as the company’s CFO and head of its Singapore business. The Singapore-headquartered firm runs 99.co, SRX and […] The post 99 Group’s founder steps back as a former banker takes the…
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: For six years, Iterative sold itself on one promise: a Y Combinator-style accelerator built exclusively for Southeast Asia. That promise has now expired. The Singapore-based early-stage investor will not run a Winter 2027 batch of its core programme. In its place comes a “SEA to SF” programme that takes regional founders to San Francisco for […] The post Iterative’s pivot is an uncomfortable verdict on Southeast Asi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [kritisch] Atlassian Confluence: Schwachstelle ermöglicht Codeausführung** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4427)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-17T10:42:01+00:00`, fetched `2026-11-17T10:58:16+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Atlassian Confluence ausnutzen, um beliebigen Programmcode auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -111,18 +120,18 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2538)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-17T09:42:01+00:00`, fetched `2026-11-17T09:51:22+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **M 4.9 - 43 km NW of Oxford, New Zealand** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrv)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-17T10:57:00.158+00:00`, fetched `2026-11-17T10:58:16+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - V DYFI? - IV Time 2026-11-17 10:30:48 UTC 2026-11-17 10:30:48 UTC at epicenter Location 43.023°S 171.805°E Depth 14.24 km (8.85 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Beyond the chatbot: How AI is reshaping customer service in Southeast Asia** — Score 13, observation — [Quelle](https://e27.co/beyond-the-chatbot-how-ai-is-reshaping-customer-service-in-southeast-asia-20261116/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-17T01:00:34+00:00`, fetched `2026-11-17T01:01:21+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年11月17日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Control where GitHub Copilot customizations come from** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-16T19:48:33+00:00`, fetched `2026-11-17T01:53:31+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,… The post Control where GitHub Copilot customizations come from appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
