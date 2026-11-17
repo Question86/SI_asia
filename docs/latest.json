@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T19:02:57+00:00",
-  "run_id": "2026-11-17T19:02:57+00:00",
+  "generated_at": "2026-11-17T19:15:10+00:00",
+  "run_id": "2026-11-17T19:15:10+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-17T16:29:46+00:00",
-        "fetched_at": "2026-11-17T16:29:31+00:00",
+        "published_at": "2026-11-17T19:14:55+00:00",
+        "fetched_at": "2026-11-17T19:14:40+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b2eccc24205abc4532b7"
+        "id": "da9bd9d4de226a2909e2"
       },
       {
         "title": "Introducing OpenAI for Chile",
@@ -2452,8 +2452,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-17T16:29:46+00:00",
-      "fetched_at": "2026-11-17T16:29:31+00:00",
+      "published_at": "2026-11-17T19:14:55+00:00",
+      "fetched_at": "2026-11-17T19:14:40+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2487,7 +2487,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b2eccc24205abc4532b7"
+      "id": "da9bd9d4de226a2909e2"
     },
     {
       "title": "Introducing OpenAI for Chile",
@@ -4863,25 +4863,46 @@
   ],
   "new_findings": [
     {
-      "title": "楽天証券から漏洩した情報とは？ テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-17T15:13:38+00:00",
-      "fetched_at": "2026-11-17T19:02:27+00:00",
-      "summary": "11月17日、楽天証券が不正アクセスによる情報漏洩の可能性について発表しました。 不正アクセスを受けたのはテスト環境とのことですが、具体的にどのような情報が流出したのか、またなぜテスト環境に顧客データを置いていたのか、広報部に聞いてみました。 テスト環境に置かれた合計約1572万口座のデータが漏洩か楽天証...",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-17T19:14:55+00:00",
+      "fetched_at": "2026-11-17T19:14:40+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c09cbd4242df84646bf0"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "da9bd9d4de226a2909e2"
     }
   ],
   "source_errors": [],
