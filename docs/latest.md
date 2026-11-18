@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T17:35:09+00:00_
+_Generiert: 2026-11-18T17:42:04+00:00_
 
 ## Kurzlage
 
-116 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+117 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T17:34:56+00:00`, fetched `2026-11-18T17:34:37+00:00`
+  - Zeit: published `2026-11-18T17:35:43+00:00`, fetched `2026-11-18T17:41:35+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -120,14 +120,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Walk into almost any Singapore fintech today and you will find AI somewhere: writing code, sorting support tickets, flagging suspect transactions. What you are far less likely to find is an AI agent trusted to approve a loan or move a client’s savings without a human hovering over the button. That is the uncomfortable split […] The post Singapore fintechs are pouring money into AI. The returns are not keeping up app…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 67 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy2)
+- **M 5.3 - 4 km NNW of Tsunagi, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-18T05:59:49.040+00:00`, fetched `2026-11-18T06:06:07+00:00`
+  - Zeit: published `2026-11-18T17:38:18.040+00:00`, fetched `2026-11-18T17:41:35+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-18 05:24:55 UTC 2026-11-18 05:24:55 UTC at epicenter Location 8.030°S 120.649°E Depth 10.00 km (6.21 mi)
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-18 17:22:23 UTC 2026-11-18 17:22:23 UTC at epicenter Location 32.278°N 130.461°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN19906678/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

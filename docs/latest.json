@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T17:35:09+00:00",
-  "run_id": "2026-11-18T17:35:09+00:00",
+  "generated_at": "2026-11-18T17:42:04+00:00",
+  "run_id": "2026-11-18T17:42:04+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 116
+      "configured_public_sources_only": 117
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 116,
-    "displayed_findings": 116,
+    "today_file_total": 117,
+    "displayed_findings": 117,
     "high": 0,
-    "medium": 64,
+    "medium": 65,
     "observe": 52,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T17:34:56+00:00",
-        "fetched_at": "2026-11-18T17:34:37+00:00",
+        "published_at": "2026-11-18T17:35:43+00:00",
+        "fetched_at": "2026-11-18T17:41:35+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "f341c91cdd755956e188"
+        "id": "d4beddf296ed72f43e2b"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -617,6 +617,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a2a2ccbebfa4915c0cf2"
+      },
+      {
+        "title": "M 5.3 - 4 km NNW of Tsunagi, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-18T17:38:18.040+00:00",
+        "fetched_at": "2026-11-18T17:41:35+00:00",
+        "summary": "Time 2026-11-18 17:22:23 UTC 2026-11-18 17:22:23 UTC at epicenter Location 32.278°N 130.461°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "df4c8955b5a4b84606e7"
       },
       {
         "title": "[UPDATE] [mittel] System Security Services Daemon (SSSD): Mehrere Schwachstellen",
@@ -2923,8 +2960,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T17:34:56+00:00",
-      "fetched_at": "2026-11-18T17:34:37+00:00",
+      "published_at": "2026-11-18T17:35:43+00:00",
+      "fetched_at": "2026-11-18T17:41:35+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2958,7 +2995,7 @@
         "HD",
         "LOW"
       ],
-      "id": "f341c91cdd755956e188"
+      "id": "d4beddf296ed72f43e2b"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -3506,6 +3543,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a2a2ccbebfa4915c0cf2"
+    },
+    {
+      "title": "M 5.3 - 4 km NNW of Tsunagi, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T17:38:18.040+00:00",
+      "fetched_at": "2026-11-18T17:41:35+00:00",
+      "summary": "Time 2026-11-18 17:22:23 UTC 2026-11-18 17:22:23 UTC at epicenter Location 32.278°N 130.461°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "df4c8955b5a4b84606e7"
     },
     {
       "title": "[UPDATE] [mittel] System Security Services Daemon (SSSD): Mehrere Schwachstellen",
@@ -5809,8 +5883,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T17:34:56+00:00",
-      "fetched_at": "2026-11-18T17:34:37+00:00",
+      "published_at": "2026-11-18T17:35:43+00:00",
+      "fetched_at": "2026-11-18T17:41:35+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5844,28 +5918,44 @@
         "HD",
         "LOW"
       ],
-      "id": "f341c91cdd755956e188"
+      "id": "d4beddf296ed72f43e2b"
     },
     {
-      "title": "2026-022: Critical vulnerabilities in Nginx",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-022/",
-      "source": "CERT-EU Security Advisories",
+      "title": "M 5.3 - 4 km NNW of Tsunagi, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-18T18:30:42+00:00",
-      "fetched_at": "2026-11-18T17:34:37+00:00",
-      "summary": "On 18 November 2026, F5 published an advisory addressing five vulnerabilities in NGINX that allow an unauthenticated remote attacker to execute code with the privileges of the NGINX worker process. While researchers managed to successfully demonstrate the use of CVE-2026-123007, no exploitation in the wild has been reported yet. It is recommended to swiftly update NGINX as soon as possible, prioritising internet fac…",
+      "published_at": "2026-11-18T17:38:18.040+00:00",
+      "fetched_at": "2026-11-18T17:41:35+00:00",
+      "summary": "Time 2026-11-18 17:22:23 UTC 2026-11-18 17:22:23 UTC at epicenter Location 32.278°N 130.461°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "CERT-EU",
-        "Security"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "Security (+6.0); CERT-EU (+2.0); watchgraph demote demo (x0.45)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8c7acbe0503cca1950d1"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "df4c8955b5a4b84606e7"
     }
   ],
   "source_errors": [],
