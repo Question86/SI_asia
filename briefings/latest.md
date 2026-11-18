@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T20:03:28+00:00_
+_Generiert: 2026-11-18T20:18:28+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,6 @@ _Generiert: 2026-11-18T20:03:28+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.
-- **USGS earthquake M6.1 - Pacific-Antarctic Ridge** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37)
-  - Quelle: USGS
-  - Zeit: `2026-11-18T19:14:23+00:00`
-  - Kurz: M6.1 - Pacific-Antarctic Ridge. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578046)
   - Quelle: GDACS
   - Zeit: ``
@@ -79,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T19:56:42+00:00`, fetched `2026-11-18T20:03:01+00:00`
+  - Zeit: published `2026-11-18T20:18:16+00:00`, fetched `2026-11-18T20:17:58+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
