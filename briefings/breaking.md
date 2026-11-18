@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-11-18T20:55:56+00:00_
+_Generiert: 2026-11-18T21:02:43+00:00_
 
 ## Barr, Investing in America’s Underserved Communities
 
-- Ranking Score: `25.31`
+- Ranking Score: `25.19`
 - Raw Network Score: `25.2`
 - Max Monitor Score: `15`
 - Reichweite: `institutional` / `5.0`
