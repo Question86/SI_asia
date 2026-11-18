@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T03:07:56+00:00",
-  "run_id": "2026-11-18T03:07:56+00:00",
+  "generated_at": "2026-11-18T03:22:14+00:00",
+  "run_id": "2026-11-18T03:22:14+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 18,
     "displayed_findings": 18,
     "high": 0,
@@ -58,8 +58,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T02:58:26+00:00",
-        "fetched_at": "2026-11-18T02:58:08+00:00",
+        "published_at": "2026-11-18T03:22:02+00:00",
+        "fetched_at": "2026-11-18T03:21:44+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +93,7 @@
           "HD",
           "LOW"
         ],
-        "id": "8c781351ea1c45f10119"
+        "id": "013face8757fb403a201"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -516,8 +516,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T02:58:26+00:00",
-      "fetched_at": "2026-11-18T02:58:08+00:00",
+      "published_at": "2026-11-18T03:22:02+00:00",
+      "fetched_at": "2026-11-18T03:21:44+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -551,7 +551,7 @@
         "HD",
         "LOW"
       ],
-      "id": "8c781351ea1c45f10119"
+      "id": "013face8757fb403a201"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -943,67 +943,46 @@
   ],
   "new_findings": [
     {
-      "title": "Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN19906678/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-18T12:00:00+09:00",
-      "fetched_at": "2026-11-18T03:07:30+00:00",
-      "summary": "宮内庁が提供するAndroidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」には、複数の脆弱性が存在します。",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-18T03:22:02+00:00",
+      "fetched_at": "2026-11-18T03:21:44+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4c6f8a8d20c9a504b797"
-    },
-    {
-      "title": "Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth",
-      "url": "https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-18T03:00:44+00:00",
-      "fetched_at": "2026-11-18T03:07:30+00:00",
-      "summary": "Singapore is racing to cut onboarding times for the ultra-wealthy. But the clients it most wants to win are often the ones getting stuck in the queue. In October 2025, Bank of Singapore rolled out an AI tool that, the bank says, cut the time to produce a source of wealth report from ten days […] The post Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6a6d08df5822c88204f6"
-    },
-    {
-      "title": "92% of tracked whales are short: Why Bitcoin at US$64,752 is a trap for both sides",
-      "url": "https://e27.co/92-of-tracked-whales-are-short-why-bitcoin-at-us64752-is-a-trap-for-both-sides-20261118/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-18T03:02:21+00:00",
-      "fetched_at": "2026-11-18T03:07:30+00:00",
-      "summary": "Crowded positioning dominates the crypto market. Bitcoin trades near US$64,752, trapped in a narrow band between US$63,800 and US$65,150, while Ethereum hovers around US$1,816. Beneath those unremarkable price levels sits a far more dramatic story. Top traders on Hyperliquid, Lighter, dYdX and Pacifica have pushed their seven-day net short share to 92 per cent, an […] The post 92% of tracked whales are short: Why Bi…",
-      "matched_keywords": [
-        "APAC Trend Radar"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6cd25081985a524ca73b"
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "013face8757fb403a201"
     }
   ],
   "source_errors": [],
