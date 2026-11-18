@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-11-18T12:44:13+00:00_
+_Generiert: 2026-11-18T12:59:01+00:00_
 
 ## Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook
 
-- Ranking Score: `22.36`
+- Ranking Score: `22.17`
 - Raw Network Score: `25.3`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`

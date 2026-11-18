@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T12:44:10+00:00",
-  "run_id": "2026-11-18T12:44:10+00:00",
+  "generated_at": "2026-11-18T12:58:58+00:00",
+  "run_id": "2026-11-18T12:58:58+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 98,
     "displayed_findings": 98,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T12:44:00+00:00",
-        "fetched_at": "2026-11-18T12:43:45+00:00",
+        "published_at": "2026-11-18T12:53:14+00:00",
+        "fetched_at": "2026-11-18T12:58:28+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e4d0b176f324cd50e99b"
+        "id": "17d8ab60d1c2c469b0c1"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2515,8 +2515,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T12:44:00+00:00",
-      "fetched_at": "2026-11-18T12:43:45+00:00",
+      "published_at": "2026-11-18T12:53:14+00:00",
+      "fetched_at": "2026-11-18T12:58:28+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2550,7 +2550,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e4d0b176f324cd50e99b"
+      "id": "17d8ab60d1c2c469b0c1"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -4993,8 +4993,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T12:44:00+00:00",
-      "fetched_at": "2026-11-18T12:43:45+00:00",
+      "published_at": "2026-11-18T12:53:14+00:00",
+      "fetched_at": "2026-11-18T12:58:28+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5028,30 +5028,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e4d0b176f324cd50e99b"
-    },
-    {
-      "title": "[NEU] [hoch] MISP: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4657",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-18T12:32:00+00:00",
-      "fetched_at": "2026-11-18T12:43:45+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MISP ausnutzen, um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3d249b72405dbf4443be"
+      "id": "17d8ab60d1c2c469b0c1"
     }
   ],
   "source_errors": [],
