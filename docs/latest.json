@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T20:18:28+00:00",
-  "run_id": "2026-11-18T20:18:28+00:00",
+  "generated_at": "2026-11-18T20:26:33+00:00",
+  "run_id": "2026-11-18T20:26:33+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 129
+      "configured_public_sources_only": 130
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 129,
-    "displayed_findings": 129,
+    "new_relevant_findings": 2,
+    "today_file_total": 130,
+    "displayed_findings": 130,
     "high": 0,
-    "medium": 67,
+    "medium": 68,
     "observe": 62,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T20:18:16+00:00",
-        "fetched_at": "2026-11-18T20:17:58+00:00",
+        "published_at": "2026-11-18T20:25:05+00:00",
+        "fetched_at": "2026-11-18T20:26:07+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e4aba4b5df919e240a8d"
+        "id": "892ca38f97d1bd33f0c0"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -1750,6 +1750,28 @@
         "id": "eca32901d88827ffcb74"
       },
       {
+        "title": "Managing frontier AI risk: From training to deployment",
+        "url": "https://openai.com/index/managing-frontier-ai-risk",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-18T06:00:00+00:00",
+        "fetched_at": "2026-11-18T20:26:07+00:00",
+        "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI",
+          "Webentwicklung"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f62cbe7cb973ca2668dc"
+      },
+      {
         "title": "[MàJ] Vulnérabilités affectant OpenPrinting CUPS (27 septembre 2024)",
         "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-012/",
         "source": "CERT-FR Alertes",
@@ -3308,8 +3330,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T20:18:16+00:00",
-      "fetched_at": "2026-11-18T20:17:58+00:00",
+      "published_at": "2026-11-18T20:25:05+00:00",
+      "fetched_at": "2026-11-18T20:26:07+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3343,7 +3365,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e4aba4b5df919e240a8d"
+      "id": "892ca38f97d1bd33f0c0"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -5024,6 +5046,28 @@
       "id": "eca32901d88827ffcb74"
     },
     {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-18T06:00:00+00:00",
+      "fetched_at": "2026-11-18T20:26:07+00:00",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "Webentwicklung"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f62cbe7cb973ca2668dc"
+    },
+    {
       "title": "[MàJ] Vulnérabilités affectant OpenPrinting CUPS (27 septembre 2024)",
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-012/",
       "source": "CERT-FR Alertes",
@@ -6579,8 +6623,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T20:18:16+00:00",
-      "fetched_at": "2026-11-18T20:17:58+00:00",
+      "published_at": "2026-11-18T20:25:05+00:00",
+      "fetched_at": "2026-11-18T20:26:07+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -6614,7 +6658,29 @@
         "HD",
         "LOW"
       ],
-      "id": "e4aba4b5df919e240a8d"
+      "id": "892ca38f97d1bd33f0c0"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-18T06:00:00+00:00",
+      "fetched_at": "2026-11-18T20:26:07+00:00",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "Webentwicklung"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Webentwicklung (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f62cbe7cb973ca2668dc"
     }
   ],
   "source_errors": [],
