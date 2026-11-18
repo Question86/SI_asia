@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T19:32:26+00:00",
-  "today_file_total": 127,
+  "generated_at": "2026-11-18T19:41:40+00:00",
+  "today_file_total": 128,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -480,26 +480,28 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:android",
-      "title": "Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性",
+      "key": "earthquake:m 6.1 - pacific-antarctic ridge:6.1",
+      "title": "M 6.1 - Pacific-Antarctic Ridge",
       "sources": [
-        "JVN Japan Vulnerability Notes"
+        "USGS M4.5+ Earthquakes Past Hour"
       ],
       "source_classes": [
-        "tier3_specialist"
+        "tier1_official"
       ],
       "urls": [
-        "https://jvn.jp/jp/JVN19906678/"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37"
       ],
       "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
+      "max_score": 11,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.7,
       "hot": false,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
