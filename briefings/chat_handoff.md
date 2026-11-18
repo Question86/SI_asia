@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-18T02:16:57+00:00_
+_Generated: 2026-11-18T02:35:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `13`
 
 ## Top Signals
 
@@ -18,7 +18,7 @@ _Generated: 2026-11-18T02:16:57+00:00_
 ### 2. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-18T02:16:46+00:00`
+- published: `2026-11-18T02:35:49+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-18T02:16:57+00:00_
 - url: https://japan.cnet.com/article/35254996/
 - summary: Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。
 
-### 6. M 5.3 - 16 km W of Nereju Mic, Romania
+### 6. M 5.9 - 151 km SSW of Merizo Village, Guam
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-18T02:31:25.018+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/pt26322050
+- summary: Time 2026-11-18 02:22:58 UTC 2026-11-18 02:22:58 UTC at epicenter Location 12.073°N 143.992°E Depth 10.00 km (6.21 mi)
+
+### 7. M 5.3 - 16 km W of Nereju Mic, Romania
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-18T01:17:21.122+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8
 - summary: DYFI? - IV Time 2026-11-18 00:48:56 UTC 2026-11-18 00:48:56 UTC at epicenter Location 45.680°N 26.489°E Depth 130.76 km (81.25 mi)
 
-### 7. 14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter
+### 8. 14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter
 - source: Hatena Bookmark Hotentry IT
 - score: `9`
 - published: `2026-11-16T01:04:11+00:00`
 - url: https://note.com/unsoluble_sugar/n/n58c97b4dee67
 - summary: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
-
-### 8. Your AI startup may be a very fast nonsense factory
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-11-18T02:00:17+00:00`
-- url: https://e27.co/your-ai-startup-may-be-a-very-fast-nonsense-factory-20261109/
-- summary: I know the temptation. I am Faheem Aizat Kamsan, a self-taught AI builder with a paramedic background. Give me a stubborn problem and I will keep building. Give AI a vague instruction and it may build the wrong thing with magnificent confidence. Between 7 and…
 
 END OF DOCUMENT

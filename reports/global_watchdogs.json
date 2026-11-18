@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:16:59+00:00",
+  "generated_at": "2026-11-18T02:36:02+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,6 +131,21 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577445",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.9 - 151 km SSW of Merizo Village, Guam",
+        "summary": "M5.9 - 151 km SSW of Merizo Village, Guam. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26322050",
+        "published_at": "2026-11-18T02:22:58+00:00",
+        "metrics": {
+          "mag": 5.9,
+          "alert": "",
+          "sig": 536.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

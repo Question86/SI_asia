@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T02:16:57+00:00",
-  "run_id": "2026-11-18T02:16:57+00:00",
+  "generated_at": "2026-11-18T02:35:59+00:00",
+  "run_id": "2026-11-18T02:35:59+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 4,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 4,
-    "observe": 6,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -58,8 +58,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T02:16:46+00:00",
-        "fetched_at": "2026-11-18T02:16:30+00:00",
+        "published_at": "2026-11-18T02:35:49+00:00",
+        "fetched_at": "2026-11-18T02:35:31+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +93,7 @@
           "HD",
           "LOW"
         ],
-        "id": "cfd6119900b6f3ac7c92"
+        "id": "e266f0e7fdbe738c7aa7"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -163,6 +163,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4cda7d7553e423657437"
+      },
+      {
+        "title": "M 5.9 - 151 km SSW of Merizo Village, Guam",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26322050",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-18T02:31:25.018+00:00",
+        "fetched_at": "2026-11-18T02:35:31+00:00",
+        "summary": "Time 2026-11-18 02:22:58 UTC 2026-11-18 02:22:58 UTC at epicenter Location 12.073°N 143.992°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8bc5a4f8fc80d5f8dc4e"
       },
       {
         "title": "M 5.3 - 16 km W of Nereju Mic, Romania",
@@ -265,6 +301,48 @@
         "id": "1629ce7cda6e5dab3153"
       },
       {
+        "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T01:35:05+00:00",
+        "fetched_at": "2026-11-18T02:35:31+00:00",
+        "summary": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1729f5c91c3a6a3821c5"
+      },
+      {
+        "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+        "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-17T23:16:58+00:00",
+        "fetched_at": "2026-11-18T02:35:31+00:00",
+        "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「MAI Code 2 Flash」を発表しました。 競合と同等性能を低価格で提供 MAI Code 2とMAI Code 2 Flashは...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "101962a13831580898e5"
+      },
+      {
         "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
         "url": "https://note.com/wakabame/n/nc76b65a187bb",
         "source": "Hatena Bookmark Hotentry IT",
@@ -317,8 +395,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T02:16:46+00:00",
-      "fetched_at": "2026-11-18T02:16:30+00:00",
+      "published_at": "2026-11-18T02:35:49+00:00",
+      "fetched_at": "2026-11-18T02:35:31+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -352,7 +430,7 @@
         "HD",
         "LOW"
       ],
-      "id": "cfd6119900b6f3ac7c92"
+      "id": "e266f0e7fdbe738c7aa7"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -420,6 +498,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "4cda7d7553e423657437"
+    },
+    {
+      "title": "M 5.9 - 151 km SSW of Merizo Village, Guam",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26322050",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T02:31:25.018+00:00",
+      "fetched_at": "2026-11-18T02:35:31+00:00",
+      "summary": "Time 2026-11-18 02:22:58 UTC 2026-11-18 02:22:58 UTC at epicenter Location 12.073°N 143.992°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8bc5a4f8fc80d5f8dc4e"
     },
     {
       "title": "M 5.3 - 16 km W of Nereju Mic, Romania",
@@ -522,6 +636,48 @@
       "id": "1629ce7cda6e5dab3153"
     },
     {
+      "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T01:35:05+00:00",
+      "fetched_at": "2026-11-18T02:35:31+00:00",
+      "summary": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1729f5c91c3a6a3821c5"
+    },
+    {
+      "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+      "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-17T23:16:58+00:00",
+      "fetched_at": "2026-11-18T02:35:31+00:00",
+      "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「MAI Code 2 Flash」を発表しました。 競合と同等性能を低価格で提供 MAI Code 2とMAI Code 2 Flashは...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "101962a13831580898e5"
+    },
+    {
       "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
       "url": "https://note.com/wakabame/n/nc76b65a187bb",
       "source": "Hatena Bookmark Hotentry IT",
@@ -549,8 +705,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T02:16:46+00:00",
-      "fetched_at": "2026-11-18T02:16:30+00:00",
+      "published_at": "2026-11-18T02:35:49+00:00",
+      "fetched_at": "2026-11-18T02:35:31+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -584,28 +740,85 @@
         "HD",
         "LOW"
       ],
-      "id": "cfd6119900b6f3ac7c92"
+      "id": "e266f0e7fdbe738c7aa7"
     },
     {
-      "title": "Your AI startup may be a very fast nonsense factory",
-      "url": "https://e27.co/your-ai-startup-may-be-a-very-fast-nonsense-factory-20261109/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.9 - 151 km SSW of Merizo Village, Guam",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26322050",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-18T02:00:17+00:00",
-      "fetched_at": "2026-11-18T02:16:30+00:00",
-      "summary": "I know the temptation. I am Faheem Aizat Kamsan, a self-taught AI builder with a paramedic background. Give me a stubborn problem and I will keep building. Give AI a vague instruction and it may build the wrong thing with magnificent confidence. Between 7 and 11 October, my work on OnTheRice became a lesson in […] The post Your AI startup may be a very fast nonsense factory appeared first on e27 .",
+      "published_at": "2026-11-18T02:31:25.018+00:00",
+      "fetched_at": "2026-11-18T02:35:31+00:00",
+      "summary": "Time 2026-11-18 02:22:58 UTC 2026-11-18 02:22:58 UTC at epicenter Location 12.073°N 143.992°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8bc5a4f8fc80d5f8dc4e"
+    },
+    {
+      "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T01:35:05+00:00",
+      "fetched_at": "2026-11-18T02:35:31+00:00",
+      "summary": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e0ac84ad48a9e552c271"
+      "id": "1729f5c91c3a6a3821c5"
+    },
+    {
+      "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+      "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-17T23:16:58+00:00",
+      "fetched_at": "2026-11-18T02:35:31+00:00",
+      "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「MAI Code 2 Flash」を発表しました。 競合と同等性能を低価格で提供 MAI Code 2とMAI Code 2 Flashは...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "101962a13831580898e5"
     }
   ],
   "source_errors": [],
