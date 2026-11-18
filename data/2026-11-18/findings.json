@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T17:07:44+00:00",
-    "fetched_at": "2026-11-18T17:07:26+00:00",
+    "published_at": "2026-11-18T17:17:40+00:00",
+    "fetched_at": "2026-11-18T17:17:22+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "ba0f08a36cc8d373a124"
+    "id": "6acde495e90c2fe61b8f"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -1775,6 +1775,27 @@
     "id": "446d8a42b17db54976bd"
   },
   {
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "fetched_at": "2026-11-18T17:17:22+00:00",
+    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f6b23faf05298fb19f1e"
+  },
+  {
     "title": "Vulnérabilité dans SonicWall (10 septembre 2024)",
     "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-011/",
     "source": "CERT-FR Alertes",
@@ -1796,6 +1817,49 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f2b0457bf19191a6854a"
+  },
+  {
+    "title": "Security risk assessments run automatically on GitHub Team",
+    "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-18T16:54:26+00:00",
+    "fetched_at": "2026-11-18T17:17:22+00:00",
+    "summary": "GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code… The post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+7.5); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b91084ec51930119d57e"
+  },
+  {
+    "title": "NGINX2Root by Xint — From nginx visitor to root of the server host",
+    "url": "https://nginx2root.com/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-18T15:34:40+00:00",
+    "fetched_at": "2026-11-18T17:17:22+00:00",
+    "summary": "Found by NGINX2Root From nginx visitor to root of the server hostnginx 방문자에서 서버 호스트의 root까지 CVE-2026-123007CVE-2026-123634CVE-2026-123633CVE-2026-121810CVE-2026-113425",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1e83800d2069984422d6"
   },
   {
     "title": "Version 1.0: OpenJDK - Kritische Schwachstelle \"Java4Shell\" gefährdet Java-Anwendungen",
