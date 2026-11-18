@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T11:35:07+00:00",
-    "fetched_at": "2026-11-18T11:34:47+00:00",
+    "published_at": "2026-11-18T11:42:51+00:00",
+    "fetched_at": "2026-11-18T11:42:31+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "6a60693a1cc2f7b58da0"
+    "id": "bef2132e4e810116b8b7"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -690,6 +690,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4c6f8a8d20c9a504b797"
+  },
+  {
+    "title": "[NEU] [hoch] FreeBSD OS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4639",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T11:32:01+00:00",
+    "fetched_at": "2026-11-18T11:42:31+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeBSD OS ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen, Berechtigungen zu erweitern – einschließlich auf Root-Rechte – und möglicherweise beliebigen Code im Kernel oder mit Root-Rechten auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7389f4893e6bf3b05e4b"
   },
   {
     "title": "[UPDATE] [hoch] Dell integrated Dell Remote Access Controller: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
