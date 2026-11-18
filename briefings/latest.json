@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T17:25:40+00:00",
-  "run_id": "2026-11-18T17:25:40+00:00",
+  "generated_at": "2026-11-18T17:35:09+00:00",
+  "run_id": "2026-11-18T17:35:09+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 115
+      "configured_public_sources_only": 116
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 115,
-    "displayed_findings": 115,
+    "new_relevant_findings": 2,
+    "today_file_total": 116,
+    "displayed_findings": 116,
     "high": 0,
     "medium": 64,
-    "observe": 51,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T17:22:52+00:00",
-        "fetched_at": "2026-11-18T17:25:09+00:00",
+        "published_at": "2026-11-18T17:34:56+00:00",
+        "fetched_at": "2026-11-18T17:34:37+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "c2efd54015928affb69c"
+        "id": "f341c91cdd755956e188"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2875,6 +2875,27 @@
         "id": "a739238cd0efda1e020a"
       },
       {
+        "title": "2026-022: Critical vulnerabilities in Nginx",
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-022/",
+        "source": "CERT-EU Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T18:30:42+00:00",
+        "fetched_at": "2026-11-18T17:34:37+00:00",
+        "summary": "On 18 November 2026, F5 published an advisory addressing five vulnerabilities in NGINX that allow an unauthenticated remote attacker to execute code with the privileges of the NGINX worker process. While researchers managed to successfully demonstrate the use of CVE-2026-123007, no exploitation in the wild has been reported yet. It is recommended to swiftly update NGINX as soon as possible, prioritising internet fac…",
+        "matched_keywords": [
+          "CERT-EU",
+          "Security"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Security (+6.0); CERT-EU (+2.0); watchgraph demote demo (x0.45)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8c7acbe0503cca1950d1"
+      },
+      {
         "title": "92% of tracked whales are short: Why Bitcoin at US$64,752 is a trap for both sides",
         "url": "https://e27.co/92-of-tracked-whales-are-short-why-bitcoin-at-us64752-is-a-trap-for-both-sides-20261118/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -2902,8 +2923,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T17:22:52+00:00",
-      "fetched_at": "2026-11-18T17:25:09+00:00",
+      "published_at": "2026-11-18T17:34:56+00:00",
+      "fetched_at": "2026-11-18T17:34:37+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2937,7 +2958,7 @@
         "HD",
         "LOW"
       ],
-      "id": "c2efd54015928affb69c"
+      "id": "f341c91cdd755956e188"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -5741,6 +5762,27 @@
       "id": "a739238cd0efda1e020a"
     },
     {
+      "title": "2026-022: Critical vulnerabilities in Nginx",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-022/",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T18:30:42+00:00",
+      "fetched_at": "2026-11-18T17:34:37+00:00",
+      "summary": "On 18 November 2026, F5 published an advisory addressing five vulnerabilities in NGINX that allow an unauthenticated remote attacker to execute code with the privileges of the NGINX worker process. While researchers managed to successfully demonstrate the use of CVE-2026-123007, no exploitation in the wild has been reported yet. It is recommended to swiftly update NGINX as soon as possible, prioritising internet fac…",
+      "matched_keywords": [
+        "CERT-EU",
+        "Security"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Security (+6.0); CERT-EU (+2.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8c7acbe0503cca1950d1"
+    },
+    {
       "title": "92% of tracked whales are short: Why Bitcoin at US$64,752 is a trap for both sides",
       "url": "https://e27.co/92-of-tracked-whales-are-short-why-bitcoin-at-us64752-is-a-trap-for-both-sides-20261118/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -5767,8 +5809,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T17:22:52+00:00",
-      "fetched_at": "2026-11-18T17:25:09+00:00",
+      "published_at": "2026-11-18T17:34:56+00:00",
+      "fetched_at": "2026-11-18T17:34:37+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5802,7 +5844,28 @@
         "HD",
         "LOW"
       ],
-      "id": "c2efd54015928affb69c"
+      "id": "f341c91cdd755956e188"
+    },
+    {
+      "title": "2026-022: Critical vulnerabilities in Nginx",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-022/",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T18:30:42+00:00",
+      "fetched_at": "2026-11-18T17:34:37+00:00",
+      "summary": "On 18 November 2026, F5 published an advisory addressing five vulnerabilities in NGINX that allow an unauthenticated remote attacker to execute code with the privileges of the NGINX worker process. While researchers managed to successfully demonstrate the use of CVE-2026-123007, no exploitation in the wild has been reported yet. It is recommended to swiftly update NGINX as soon as possible, prioritising internet fac…",
+      "matched_keywords": [
+        "CERT-EU",
+        "Security"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Security (+6.0); CERT-EU (+2.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8c7acbe0503cca1950d1"
     }
   ],
   "source_errors": [],

@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T17:22:52+00:00",
-    "fetched_at": "2026-11-18T17:25:09+00:00",
+    "published_at": "2026-11-18T17:34:56+00:00",
+    "fetched_at": "2026-11-18T17:34:37+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "c2efd54015928affb69c"
+    "id": "f341c91cdd755956e188"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2841,6 +2841,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a739238cd0efda1e020a"
+  },
+  {
+    "title": "2026-022: Critical vulnerabilities in Nginx",
+    "url": "https://cert.europa.eu/publications/security-advisories/2026-022/",
+    "source": "CERT-EU Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T18:30:42+00:00",
+    "fetched_at": "2026-11-18T17:34:37+00:00",
+    "summary": "On 18 November 2026, F5 published an advisory addressing five vulnerabilities in NGINX that allow an unauthenticated remote attacker to execute code with the privileges of the NGINX worker process. While researchers managed to successfully demonstrate the use of CVE-2026-123007, no exploitation in the wild has been reported yet. It is recommended to swiftly update NGINX as soon as possible, prioritising internet fac…",
+    "matched_keywords": [
+      "CERT-EU",
+      "Security"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Security (+6.0); CERT-EU (+2.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8c7acbe0503cca1950d1"
   },
   {
     "title": "92% of tracked whales are short: Why Bitcoin at US$64,752 is a trap for both sides",
