@@ -28,8 +28,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T00:36:14+00:00",
-    "fetched_at": "2026-11-18T00:36:40+00:00",
+    "published_at": "2026-11-18T01:16:14+00:00",
+    "fetched_at": "2026-11-18T01:18:34+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -63,7 +63,7 @@
       "HD",
       "LOW"
     ],
-    "id": "1c9f6c46988b413db275"
+    "id": "4e3fdbdddd40e7b40934"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -109,6 +109,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4cda7d7553e423657437"
+  },
+  {
+    "title": "M 5.3 - 16 km W of Nereju Mic, Romania",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-18T01:17:21.122+00:00",
+    "fetched_at": "2026-11-18T01:18:34+00:00",
+    "summary": "DYFI? - IV Time 2026-11-18 00:48:56 UTC 2026-11-18 00:48:56 UTC at epicenter Location 45.680°N 26.489°E Depth 130.76 km (81.25 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "d1ce309d558ef104edce"
   },
   {
     "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
