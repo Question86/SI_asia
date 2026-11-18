@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:04:44+00:00",
+  "generated_at": "2026-11-18T04:19:53+00:00",
   "sections": {
     "global_security": [
       {
@@ -74,11 +74,11 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in South Africa",
-        "summary": "Green flood alert in South Africa",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.",
         "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104286",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577911",
         "published_at": "",
         "metrics": {}
       },
@@ -136,13 +136,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.8 - 99 km ESE of Madang, Papua New Guinea",
-        "summary": "M5.8 - 99 km ESE of Madang, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.8 - 99 km ESE of Madang, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2",
         "published_at": "2026-11-18T03:42:34+00:00",
         "metrics": {
           "mag": 5.8,
-          "alert": "",
+          "alert": "green",
           "sig": 518.0,
           "tsunami": 0
         }

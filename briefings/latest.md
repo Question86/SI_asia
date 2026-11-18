@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T04:04:41+00:00_
+_Generiert: 2026-11-18T04:19:50+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+24 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-11-18T04:04:41+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.
-- **GDACS: Green flood alert in South Africa** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104286)
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577911)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in South Africa
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577901)
   - Quelle: GDACS
   - Zeit: ``
@@ -60,7 +60,7 @@ _Generiert: 2026-11-18T04:04:41+00:00_
 - **USGS earthquake M5.8 - 99 km ESE of Madang, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2)
   - Quelle: USGS
   - Zeit: `2026-11-18T03:42:34+00:00`
-  - Kurz: M5.8 - 99 km ESE of Madang, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.8 - 99 km ESE of Madang, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -88,7 +88,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T03:56:27+00:00`, fetched `2026-11-18T04:04:11+00:00`
+  - Zeit: published `2026-11-18T04:19:39+00:00`, fetched `2026-11-18T04:19:21+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -188,14 +188,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GITEX GLOBAL 2026: The race to bring AI out of the cloud and into the physical world** — Score 8, opportunity — [Quelle](https://e27.co/gitex-global-2026-the-race-to-bring-ai-out-of-the-cloud-and-into-the-physical-world-20261118/)
+- **Solana Foundation’s CoinGecko stake turns crypto’s scoreboard into a player** — Score 8, opportunity — [Quelle](https://e27.co/solana-foundations-coingecko-stake-turns-cryptos-scoreboard-into-a-player-20261118/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-18T02:54:17+00:00`, fetched `2026-11-18T02:58:08+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-11-18T04:10:18+00:00`, fetched `2026-11-18T04:19:21+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: GITEX GLOBAL returns to Dubai next month with a new venue, a new calendar slot and a sharper focus on the machines and infrastructure behind artificial intelligence. The 46th edition opens with The GITEX Summit at Dubai World Trade Centre on 7 December, followed by a four-day expo at Dubai Exhibition Centre in Expo City […] The post GITEX GLOBAL 2026: The race to bring AI out of the cloud and into the physical world…
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: For 12 years, CoinGecko has been crypto’s scoreboard: the place traders, developers and journalists checked to see which token was up, which exchange was padding its volumes and which “next big thing” had quietly gone to zero. On Tuesday, the scoreboard picked a team. At Solana’s Breakpoint conference in London, the Malaysia-born data platform announced […] The post Solana Foundation’s CoinGecko stake turns crypto’s…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **楽天証券への不正アクセスについてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/11/18/100525)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
