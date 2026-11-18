@@ -1,6 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-11-18T18:59:01+00:00_
+_Generiert: 2026-11-18T19:08:18+00:00_
 
-Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
+## Barr, Investing in America’s Underserved Communities
+
+- Ranking Score: `30.58`
+- Raw Network Score: `28.2`
+- Max Monitor Score: `15`
+- Reichweite: `institutional` / `5.0`
+- Early Signal: `nein`
+- Dominanter Emitter: `ja`
+- Quellen: Federal Reserve Monetary Policy Press Releases, Federal Reserve Speeches and Testimony
+- Klassen: central_bank, tier3_specialist
+- Cross-source bestaetigt: ja
+- Momentum: increasing (+1)
+- Erste Quelle: https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm
+- Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
