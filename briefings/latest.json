@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T14:59:57+00:00",
-  "run_id": "2026-11-18T14:59:57+00:00",
+  "generated_at": "2026-11-18T15:21:51+00:00",
+  "run_id": "2026-11-18T15:21:51+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 108
+      "configured_public_sources_only": 109
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 108,
-    "displayed_findings": 108,
+    "today_file_total": 109,
+    "displayed_findings": 109,
     "high": 0,
     "medium": 64,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T14:59:46+00:00",
-        "fetched_at": "2026-11-18T14:59:27+00:00",
+        "published_at": "2026-11-18T15:19:54+00:00",
+        "fetched_at": "2026-11-18T15:21:23+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "ad40129942b24e7b5d89"
+        "id": "2dc0ee786723ddef34d1"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2586,6 +2586,27 @@
         "id": "a869977ddf580535e4ae"
       },
       {
+        "title": "最近、コードを真面目に読まなくなった",
+        "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T02:28:53+00:00",
+        "fetched_at": "2026-11-18T15:21:23+00:00",
+        "summary": "最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9f6b9d4d95db92195501"
+      },
+      {
         "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
         "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2739,8 +2760,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T14:59:46+00:00",
-      "fetched_at": "2026-11-18T14:59:27+00:00",
+      "published_at": "2026-11-18T15:19:54+00:00",
+      "fetched_at": "2026-11-18T15:21:23+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2774,7 +2795,7 @@
         "HD",
         "LOW"
       ],
-      "id": "ad40129942b24e7b5d89"
+      "id": "2dc0ee786723ddef34d1"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -5289,6 +5310,27 @@
       "id": "a869977ddf580535e4ae"
     },
     {
+      "title": "最近、コードを真面目に読まなくなった",
+      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T02:28:53+00:00",
+      "fetched_at": "2026-11-18T15:21:23+00:00",
+      "summary": "最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9f6b9d4d95db92195501"
+    },
+    {
       "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5441,8 +5483,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T14:59:46+00:00",
-      "fetched_at": "2026-11-18T14:59:27+00:00",
+      "published_at": "2026-11-18T15:19:54+00:00",
+      "fetched_at": "2026-11-18T15:21:23+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5476,28 +5518,28 @@
         "HD",
         "LOW"
       ],
-      "id": "ad40129942b24e7b5d89"
+      "id": "2dc0ee786723ddef34d1"
     },
     {
-      "title": "MUJI Card発行のクレディセゾン、カード番号削除を2度依頼 無印は実行せず",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/",
+      "title": "最近、コードを真面目に読まなくなった",
+      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-18T14:15:39+00:00",
-      "fetched_at": "2026-11-18T14:59:27+00:00",
-      "summary": "「無印良品」を展開する良品計画から、同社ブランドで発行する「MUJI Card」のクレジットカード番号全桁が約109万件漏洩した恐れがある事案について、新たな事実が分かった。MUJI Cardを発行するクレディセゾンが良品計画に対し、2020年と2021年の2度にわたりカード番号の削除を依頼していた。2026年11月18日、クレディ...",
+      "published_at": "2026-11-18T02:28:53+00:00",
+      "fetched_at": "2026-11-18T15:21:23+00:00",
+      "summary": "最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 ...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "313fa2297220d25c9c65"
+      "id": "9f6b9d4d95db92195501"
     }
   ],
   "source_errors": [],
