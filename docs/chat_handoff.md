@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-18T04:46:24+00:00_
+_Generated: 2026-11-18T05:02:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `30`
 
 ## Top Signals
 
@@ -18,7 +18,7 @@ _Generated: 2026-11-18T04:46:24+00:00_
 ### 2. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-18T04:39:52+00:00`
+- published: `2026-11-18T05:02:32+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-18T04:46:24+00:00_
 - url: https://e27.co/google-catches-ai-agents-hacking-with-no-human-in-the-loop-20261118/
 - summary: The hacker hunched over a keyboard is becoming a supervisor. According to Google, more and more of the actual break-in work is now being done by software agents that scan, exploit and adjust on their own. In its latest AI Threat Tracker, published early this…
 
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-11-18T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU99888632/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+### 4. M 5.8 - 40 km N of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `17`
+- published: `2026-11-18T05:00:50.354+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi
+- summary: ShakeMap - VII Time 2026-11-18 04:41:32 UTC 2026-11-18 04:41:32 UTC at epicenter Location 8.250°S 120.529°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 5.8 - 150 km SW of Merizo Village, Guam
 - source: USGS M4.5+ Earthquakes Past Hour

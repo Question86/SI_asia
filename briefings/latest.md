@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T04:46:24+00:00_
+_Generiert: 2026-11-18T05:02:44+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+30 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,10 @@ _Generiert: 2026-11-18T04:46:24+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.
+- **USGS earthquake M5.8 - 40 km N of Ruteng, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi)
+  - Quelle: USGS
+  - Zeit: `2026-11-18T04:41:32+00:00`
+  - Kurz: M5.8 - 40 km N of Ruteng, Indonesia. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -84,7 +88,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T04:39:52+00:00`, fetched `2026-11-18T04:45:55+00:00`
+  - Zeit: published `2026-11-18T05:02:32+00:00`, fetched `2026-11-18T05:02:14+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -100,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: The hacker hunched over a keyboard is becoming a supervisor. According to Google, more and more of the actual break-in work is now being done by software agents that scan, exploit and adjust on their own. In its latest AI Threat Tracker, published early this week, Google Threat Intelligence Group (GTIG) and its incident response […] The post Google catches AI agents hacking with no human in the loop appeared first o…
   - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **M 5.8 - 40 km N of Ruteng, Indonesia** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-18T05:00:50.354+00:00`, fetched `2026-11-18T05:02:14+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - VII Time 2026-11-18 04:41:32 UTC 2026-11-18 04:41:32 UTC at epicenter Location 8.250°S 120.529°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU99888632/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-18T09:00:00+09:00`, fetched `2026-11-18T00:02:04+00:00`
@@ -109,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **High performing teams don’t avoid conflict. They know how to lead through it** — Score 15, observation — [Quelle](https://e27.co/high-performing-teams-dont-avoid-conflict-they-know-how-to-lead-through-it-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-18T05:00:06+00:00`, fetched `2026-11-18T05:02:14+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region usa: United States (+2.0)
+  - Kurz: No surprise, 42 per cent of executives say AI adoption is tearing their organisations apart. Yet businesses continue to invest billions in technology designed to make them more productive. That finding comes from a 2025 study by Writer and Workplace Intelligence involving 1,600 executives and knowledge workers in the United States. The same research found […] The post High performing teams don’t avoid conflict. They…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 54 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxc)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-18T04:35:38.040+00:00`, fetched `2026-11-18T04:38:55+00:00`
@@ -202,15 +224,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Solana Foundation’s CoinGecko stake turns crypto’s scoreboard into a player** — Score 8, opportunity — [Quelle](https://e27.co/solana-foundations-coingecko-stake-turns-cryptos-scoreboard-into-a-player-20261118/)
+- **AI makes video production faster. The real test is how teams handle feedback** — Score 8, observation — [Quelle](https://e27.co/ai-makes-video-production-faster-the-real-test-is-how-teams-handle-feedback-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-18T04:10:18+00:00`, fetched `2026-11-18T04:19:21+00:00`
-  - Treffer: APAC Trend Radar
+  - Zeit: published `2026-11-18T05:00:57+00:00`, fetched `2026-11-18T05:02:14+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: For 12 years, CoinGecko has been crypto’s scoreboard: the place traders, developers and journalists checked to see which token was up, which exchange was padding its volumes and which “next big thing” had quietly gone to zero. On Tuesday, the scoreboard picked a team. At Solana’s Breakpoint conference in London, the Malaysia-born data platform announced […] The post Solana Foundation’s CoinGecko stake turns crypto’s…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: AI video tools are making it easier to create images and turn them into moving footage. But in commercial production, generating a shot is only one step. The real challenge is turning a creative brief into a finished video while responding to changing feedback and working within a tight deadline. I experienced this while working […] The post AI makes video production faster. The real test is how teams handle feedbac…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **楽天証券への不正アクセスについてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/11/18/100525)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-18T01:53:39+00:00`, fetched `2026-11-18T04:04:11+00:00`
@@ -225,6 +247,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
