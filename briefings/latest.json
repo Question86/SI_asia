@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T15:21:51+00:00",
-  "run_id": "2026-11-18T15:21:51+00:00",
+  "generated_at": "2026-11-18T15:28:38+00:00",
+  "run_id": "2026-11-18T15:28:38+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 109,
     "displayed_findings": 109,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T15:19:54+00:00",
-        "fetched_at": "2026-11-18T15:21:23+00:00",
+        "published_at": "2026-11-18T15:22:23+00:00",
+        "fetched_at": "2026-11-18T15:28:04+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "2dc0ee786723ddef34d1"
+        "id": "ee648b2cc958a5165180"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2760,8 +2760,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T15:19:54+00:00",
-      "fetched_at": "2026-11-18T15:21:23+00:00",
+      "published_at": "2026-11-18T15:22:23+00:00",
+      "fetched_at": "2026-11-18T15:28:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2795,7 +2795,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2dc0ee786723ddef34d1"
+      "id": "ee648b2cc958a5165180"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -5483,8 +5483,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T15:19:54+00:00",
-      "fetched_at": "2026-11-18T15:21:23+00:00",
+      "published_at": "2026-11-18T15:22:23+00:00",
+      "fetched_at": "2026-11-18T15:28:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5518,28 +5518,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2dc0ee786723ddef34d1"
-    },
-    {
-      "title": "最近、コードを真面目に読まなくなった",
-      "url": "https://zenn.dev/hiromoo/articles/reading-less-preparing-more",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-18T02:28:53+00:00",
-      "fetched_at": "2026-11-18T15:21:23+00:00",
-      "summary": "最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9f6b9d4d95db92195501"
+      "id": "ee648b2cc958a5165180"
     }
   ],
   "source_errors": [],
