@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-11-18T21:23:26+00:00_
+_Generiert: 2026-11-18T21:30:48+00:00_
 
 ## Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog
 
-- Ranking Score: `27.5`
-- Raw Network Score: `23.1`
+- Ranking Score: `25.0`
+- Raw Network Score: `20.1`
 - Max Monitor Score: `18`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -13,13 +13,13 @@ _Generiert: 2026-11-18T21:23:26+00:00_
 - Quellen: Hatena Bookmark Hotentry IT
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
 ## Barr, Investing in America’s Underserved Communities
 
-- Ranking Score: `24.94`
+- Ranking Score: `24.82`
 - Raw Network Score: `25.2`
 - Max Monitor Score: `15`
 - Reichweite: `institutional` / `5.0`

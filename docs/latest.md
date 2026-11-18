@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T21:23:23+00:00_
+_Generiert: 2026-11-18T21:30:45+00:00_
 
 ## Kurzlage
 
-132 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+133 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: For most of its seven years, Botsync has been known for its heavy-duty robots that haul pallets around factory floors. Its new pitch is that the robots matter less than the software telling them what to do. The Singapore-headquartered robotics company has raised US$11 million in a round led by IvyCap Ventures, with participation from […] The post Singapore’s Botsync takes its Physical AI pitch to the US with US$11M…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X** — Score 12, observation — [Quelle](https://x.com/satoki00/status/2123071303657910632)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-18T15:28:20+00:00`, fetched `2026-11-18T21:30:14+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **2026-021: High Severity Vulnerability in Java SE and OpenJDK** — Score 12, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-021/)
   - Quelle: CERT-EU Security Advisories / `rss`
   - Zeit: published `2026-11-18T10:11:05+00:00`, fetched `2026-11-18T09:16:59+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); kritisch (+2.5); kritische Schwachstelle (+2.5)
   - Kurz: Version 1.0: OpenJDK - Kritische Schwachstelle "Java4Shell" gefährdet Java-Anwendungen
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’** — Score 10, observation — [Quelle](https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-18T04:00:26+00:00`, fetched `2026-11-18T04:04:11+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)
-  - Kurz: When building production-grade enterprise artificial intelligence solutions in India, developers quickly confront an invisible financial penalty. Two users can submit the exact same prompt, identical in meaning and intent, to a commercial Large Language Model (LLM) API, yet one query will cost up to three times more to process than the other. The sole difference […] The post Why I filed a consumer complaint against…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

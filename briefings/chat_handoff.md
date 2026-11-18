@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-18T21:23:23+00:00_
+_Generated: 2026-11-18T21:30:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `132`
+- findings: `133`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-18T21:23:23+00:00_
 - url: https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/
 - summary: For most of its seven years, Botsync has been known for its heavy-duty robots that haul pallets around factory floors. Its new pitch is that the robots matter less than the software telling them what to do. The Singapore-headquartered robotics company has rai…
 
-### 8. 2026-021: High Severity Vulnerability in Java SE and OpenJDK
-- source: CERT-EU Security Advisories
+### 8. XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell…
+- source: Hatena Bookmark Hotentry IT
 - score: `12`
-- published: `2026-11-18T10:11:05+00:00`
-- url: https://cert.europa.eu/publications/security-advisories/2026-021/
-- summary: On 17 November 2026, Oracle and the OpenJDK project released fixes for CVE-2026-114938, a high severity vulnerability in OpenJDK which could lead, under certain circumstances, in unauthenticated Remote Code Execution (RCE). CERT-EU recommends updating vulnera…
+- published: `2026-11-18T15:28:20+00:00`
+- url: https://x.com/satoki00/status/2123071303657910632
+- summary: XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X
 
 END OF DOCUMENT

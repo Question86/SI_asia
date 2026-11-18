@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-18T21:23:23+00:00",
+  "generated_at": "2026-11-18T21:30:45+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 132,
-    "displayed_findings": 132,
+    "new_relevant_findings": 1,
+    "today_file_total": 133,
+    "displayed_findings": 133,
     "high": 0,
     "medium": 69,
-    "observe": 63
+    "observe": 64
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "2026-021: High Severity Vulnerability in Java SE and OpenJDK",
-      "source": "CERT-EU Security Advisories",
+      "title": "XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell…",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-18T10:11:05+00:00",
+      "published_at": "2026-11-18T15:28:20+00:00",
       "relevance_score": 12,
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-021/",
-      "summary": "On 17 November 2026, Oracle and the OpenJDK project released fixes for CVE-2026-114938, a high severity vulnerability in OpenJDK which could lead, under certain circumstances, in unauthenticated Remote Code Execution (RCE). CERT-EU recommends updating vulnera…",
+      "url": "https://x.com/satoki00/status/2123071303657910632",
+      "summary": "XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X",
       "section": "observe"
     }
   ],
