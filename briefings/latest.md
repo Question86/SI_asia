@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T03:57:25+00:00_
+_Generiert: 2026-11-18T04:04:41+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+23 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -88,7 +88,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T03:47:54+00:00`, fetched `2026-11-18T03:56:55+00:00`
+  - Zeit: published `2026-11-18T03:56:27+00:00`, fetched `2026-11-18T04:04:11+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -134,6 +134,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - I DYFI? - III Time 2026-11-18 02:22:56 UTC 2026-11-18 02:22:56 UTC at epicenter Location 12.139°N 143.887°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’** — Score 10, observation — [Quelle](https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-18T04:00:26+00:00`, fetched `2026-11-18T04:04:11+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)
+  - Kurz: When building production-grade enterprise artificial intelligence solutions in India, developers quickly confront an invisible financial penalty. Two users can submit the exact same prompt, identical in meaning and intent, to a commercial Large Language Model (LLM) API, yet one query will cost up to three times more to process than the other. The sole difference […] The post Why I filed a consumer complaint against…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth** — Score 10, observation — [Quelle](https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-18T03:00:44+00:00`, fetched `2026-11-18T03:07:30+00:00`
@@ -188,23 +197,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: GITEX GLOBAL returns to Dubai next month with a new venue, a new calendar slot and a sharper focus on the machines and infrastructure behind artificial intelligence. The 46th edition opens with The GITEX Summit at Dubai World Trade Centre on 7 December, followed by a four-day expo at Dubai Exhibition Centre in Expo City […] The post GITEX GLOBAL 2026: The race to bring AI out of the cloud and into the physical world…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Your AI startup may be a very fast nonsense factory** — Score 8, observation — [Quelle](https://e27.co/your-ai-startup-may-be-a-very-fast-nonsense-factory-20261109/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-18T02:00:17+00:00`, fetched `2026-11-18T02:16:30+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0)
-  - Kurz: I know the temptation. I am Faheem Aizat Kamsan, a self-taught AI builder with a paramedic background. Give me a stubborn problem and I will keep building. Give AI a vague instruction and it may build the wrong thing with magnificent confidence. Between 7 and 11 October, my work on OnTheRice became a lesson in […] The post Your AI startup may be a very fast nonsense factory appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売** — Score 5, observation — [Quelle](https://k-tai.watch.impress.co.jp/docs/news/2157313.html)
+- **楽天証券への不正アクセスについてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/11/18/100525)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T01:35:05+00:00`, fetched `2026-11-18T02:35:31+00:00`
+  - Zeit: published `2026-11-18T01:53:39+00:00`, fetched `2026-11-18T04:04:11+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売
+  - Kurz: 2026年11月17日、楽天証券は第三者による不正アクセスに伴い、保有する顧客情報の一部が漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 テスト環境から顧客情報漏えいのおそれ 楽天証券は11月16日に一部システムへの第三者による不正アクセスの可能性を検知し、該当箇所へのアクセスを遮断...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

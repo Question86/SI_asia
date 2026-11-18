@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T03:57:25+00:00",
-  "run_id": "2026-11-18T03:57:25+00:00",
+  "generated_at": "2026-11-18T04:04:41+00:00",
+  "run_id": "2026-11-18T04:04:41+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 3,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 6,
-    "observe": 15,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -58,8 +58,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T03:47:54+00:00",
-        "fetched_at": "2026-11-18T03:56:55+00:00",
+        "published_at": "2026-11-18T03:56:27+00:00",
+        "fetched_at": "2026-11-18T04:04:11+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +93,7 @@
           "HD",
           "LOW"
         ],
-        "id": "96d92d1b5acaed676bef"
+        "id": "3572ce84d3970d451325"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -237,6 +237,27 @@
           "LOW"
         ],
         "id": "01fd63d55b0661011b5c"
+      },
+      {
+        "title": "Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’",
+        "url": "https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-18T04:00:26+00:00",
+        "fetched_at": "2026-11-18T04:04:11+00:00",
+        "summary": "When building production-grade enterprise artificial intelligence solutions in India, developers quickly confront an invisible financial penalty. Two users can submit the exact same prompt, identical in meaning and intent, to a commercial Large Language Model (LLM) API, yet one query will cost up to three times more to process than the other. The sole difference […] The post Why I filed a consumer complaint against…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9490462476774ed3fd7f"
       },
       {
         "title": "Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth",
@@ -475,6 +496,27 @@
         "id": "1629ce7cda6e5dab3153"
       },
       {
+        "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T01:53:39+00:00",
+        "fetched_at": "2026-11-18T04:04:11+00:00",
+        "summary": "2026年11月17日、楽天証券は第三者による不正アクセスに伴い、保有する顧客情報の一部が漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 テスト環境から顧客情報漏えいのおそれ 楽天証券は11月16日に一部システムへの第三者による不正アクセスの可能性を検知し、該当箇所へのアクセスを遮断...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b4aa2ec58b2c8e4b598e"
+      },
+      {
         "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
         "url": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -610,8 +652,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T03:47:54+00:00",
-      "fetched_at": "2026-11-18T03:56:55+00:00",
+      "published_at": "2026-11-18T03:56:27+00:00",
+      "fetched_at": "2026-11-18T04:04:11+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -645,7 +687,7 @@
         "HD",
         "LOW"
       ],
-      "id": "96d92d1b5acaed676bef"
+      "id": "3572ce84d3970d451325"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -787,6 +829,27 @@
         "LOW"
       ],
       "id": "01fd63d55b0661011b5c"
+    },
+    {
+      "title": "Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’",
+      "url": "https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-18T04:00:26+00:00",
+      "fetched_at": "2026-11-18T04:04:11+00:00",
+      "summary": "When building production-grade enterprise artificial intelligence solutions in India, developers quickly confront an invisible financial penalty. Two users can submit the exact same prompt, identical in meaning and intent, to a commercial Large Language Model (LLM) API, yet one query will cost up to three times more to process than the other. The sole difference […] The post Why I filed a consumer complaint against…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9490462476774ed3fd7f"
     },
     {
       "title": "Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth",
@@ -1025,6 +1088,27 @@
       "id": "1629ce7cda6e5dab3153"
     },
     {
+      "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T01:53:39+00:00",
+      "fetched_at": "2026-11-18T04:04:11+00:00",
+      "summary": "2026年11月17日、楽天証券は第三者による不正アクセスに伴い、保有する顧客情報の一部が漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 テスト環境から顧客情報漏えいのおそれ 楽天証券は11月16日に一部システムへの第三者による不正アクセスの可能性を検知し、該当箇所へのアクセスを遮断...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b4aa2ec58b2c8e4b598e"
+    },
+    {
       "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1135,8 +1219,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T03:47:54+00:00",
-      "fetched_at": "2026-11-18T03:56:55+00:00",
+      "published_at": "2026-11-18T03:56:27+00:00",
+      "fetched_at": "2026-11-18T04:04:11+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1170,43 +1254,49 @@
         "HD",
         "LOW"
       ],
-      "id": "96d92d1b5acaed676bef"
+      "id": "3572ce84d3970d451325"
     },
     {
-      "title": "M 5.8 - 99 km ESE of Madang, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’",
+      "url": "https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-18T03:55:54.040+00:00",
-      "fetched_at": "2026-11-18T03:56:55+00:00",
-      "summary": "Time 2026-11-18 03:42:34 UTC 2026-11-18 03:42:34 UTC at epicenter Location 5.701°S 146.548°E Depth 52.29 km (32.49 mi)",
+      "published_at": "2026-11-18T04:00:26+00:00",
+      "fetched_at": "2026-11-18T04:04:11+00:00",
+      "summary": "When building production-grade enterprise artificial intelligence solutions in India, developers quickly confront an invisible financial penalty. Two users can submit the exact same prompt, identical in meaning and intent, to a commercial Large Language Model (LLM) API, yet one query will cost up to three times more to process than the other. The sole difference […] The post Why I filed a consumer complaint against…",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9490462476774ed3fd7f"
+    },
+    {
+      "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T01:53:39+00:00",
+      "fetched_at": "2026-11-18T04:04:11+00:00",
+      "summary": "2026年11月17日、楽天証券は第三者による不正アクセスに伴い、保有する顧客情報の一部が漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 テスト環境から顧客情報漏えいのおそれ 楽天証券は11月16日に一部システムへの第三者による不正アクセスの可能性を検知し、該当箇所へのアクセスを遮断...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
       ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "8b2fb9c132ad8133cdf5"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b4aa2ec58b2c8e4b598e"
     }
   ],
   "source_errors": [],
