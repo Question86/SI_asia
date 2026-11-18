@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T05:47:57+00:00",
-  "run_id": "2026-11-18T05:47:57+00:00",
+  "generated_at": "2026-11-18T05:55:43+00:00",
+  "run_id": "2026-11-18T05:55:43+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 2,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
     "medium": 11,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -58,8 +58,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T05:41:57+00:00",
-        "fetched_at": "2026-11-18T05:41:39+00:00",
+        "published_at": "2026-11-18T05:53:46+00:00",
+        "fetched_at": "2026-11-18T05:55:08+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +93,7 @@
           "HD",
           "LOW"
         ],
-        "id": "2101c4dc9682a17a351c"
+        "id": "3b8fea36556dc65404e9"
       },
       {
         "title": "Google catches AI agents hacking with no human in the loop",
@@ -739,6 +739,27 @@
         "id": "1629ce7cda6e5dab3153"
       },
       {
+        "title": "Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始",
+        "url": "https://www.watch.impress.co.jp/docs/news/2157432.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T05:20:59+00:00",
+        "fetched_at": "2026-11-18T05:55:08+00:00",
+        "summary": "Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a869977ddf580535e4ae"
+      },
+      {
         "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
         "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
         "source": "Hatena Bookmark Hotentry IT",
@@ -916,8 +937,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T05:41:57+00:00",
-      "fetched_at": "2026-11-18T05:41:39+00:00",
+      "published_at": "2026-11-18T05:53:46+00:00",
+      "fetched_at": "2026-11-18T05:55:08+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -951,7 +972,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2101c4dc9682a17a351c"
+      "id": "3b8fea36556dc65404e9"
     },
     {
       "title": "Google catches AI agents hacking with no human in the loop",
@@ -1595,6 +1616,27 @@
       "id": "1629ce7cda6e5dab3153"
     },
     {
+      "title": "Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2157432.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T05:20:59+00:00",
+      "fetched_at": "2026-11-18T05:55:08+00:00",
+      "summary": "Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a869977ddf580535e4ae"
+    },
+    {
       "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1741,7 +1783,71 @@
       "id": "6cd25081985a524ca73b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-18T05:53:46+00:00",
+      "fetched_at": "2026-11-18T05:55:08+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3b8fea36556dc65404e9"
+    },
+    {
+      "title": "Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始",
+      "url": "https://www.watch.impress.co.jp/docs/news/2157432.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T05:20:59+00:00",
+      "fetched_at": "2026-11-18T05:55:08+00:00",
+      "summary": "Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a869977ddf580535e4ae"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
