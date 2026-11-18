@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T21:54:44+00:00",
-  "run_id": "2026-11-18T21:54:44+00:00",
+  "generated_at": "2026-11-18T22:05:17+00:00",
+  "run_id": "2026-11-18T22:05:17+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 135
+      "configured_public_sources_only": 136
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 135,
-    "displayed_findings": 135,
+    "today_file_total": 136,
+    "displayed_findings": 136,
     "high": 0,
     "medium": 69,
-    "observe": 66,
+    "observe": 67,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T21:48:19+00:00",
-        "fetched_at": "2026-11-18T21:54:14+00:00",
+        "published_at": "2026-11-18T21:54:18+00:00",
+        "fetched_at": "2026-11-18T22:04:45+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "2dffadfec518ccdb016e"
+        "id": "f437d144c6c6fab9bc38"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -3210,6 +3210,27 @@
         "id": "e58eef9e56544364001c"
       },
       {
+        "title": "認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～",
+        "url": "https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T13:07:43+00:00",
+        "fetched_at": "2026-11-18T22:04:45+00:00",
+        "summary": "レバテックLAB「［みのるん流］認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～」 https://levtechlab.connpass.com/event/408730/",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "13992f4047e27c326eb9"
+      },
+      {
         "title": "楽天証券の情報漏えい、集団訴訟の動き始まる 「タイムズカー集団訴訟」の弁護士がサイト開設 - 弁護士ドットコムニュース",
         "url": "https://www.bengo4.com/c_18/n_21206/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -3468,8 +3489,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T21:48:19+00:00",
-      "fetched_at": "2026-11-18T21:54:14+00:00",
+      "published_at": "2026-11-18T21:54:18+00:00",
+      "fetched_at": "2026-11-18T22:04:45+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3503,7 +3524,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2dffadfec518ccdb016e"
+      "id": "f437d144c6c6fab9bc38"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -6642,6 +6663,27 @@
       "id": "e58eef9e56544364001c"
     },
     {
+      "title": "認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～",
+      "url": "https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T13:07:43+00:00",
+      "fetched_at": "2026-11-18T22:04:45+00:00",
+      "summary": "レバテックLAB「［みのるん流］認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～」 https://levtechlab.connpass.com/event/408730/",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "13992f4047e27c326eb9"
+    },
+    {
       "title": "楽天証券の情報漏えい、集団訴訟の動き始まる 「タイムズカー集団訴訟」の弁護士がサイト開設 - 弁護士ドットコムニュース",
       "url": "https://www.bengo4.com/c_18/n_21206/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -6899,8 +6941,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T21:48:19+00:00",
-      "fetched_at": "2026-11-18T21:54:14+00:00",
+      "published_at": "2026-11-18T21:54:18+00:00",
+      "fetched_at": "2026-11-18T22:04:45+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -6934,30 +6976,28 @@
         "HD",
         "LOW"
       ],
-      "id": "2dffadfec518ccdb016e"
+      "id": "f437d144c6c6fab9bc38"
     },
     {
-      "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた",
-      "url": "https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/",
+      "title": "認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～",
+      "url": "https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-18T16:38:39+00:00",
-      "fetched_at": "2026-11-18T21:54:14+00:00",
-      "summary": "前回の記事ではGPUを搭載したWindows PCに「Ollama」と「Open WebUI」をインストールし、ブラウザからローカルAIを使える環境を構築しました。今回はこのローカルAIをほかのPCからも利用できるようにしていきます。 離れた場所にあるPC同士を接続する方法として前回の記事ではVPNを使用する予定にしていましたが、ユーザ...",
+      "published_at": "2026-11-18T13:07:43+00:00",
+      "fetched_at": "2026-11-18T22:04:45+00:00",
+      "summary": "レバテックLAB「［みのるん流］認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～」 https://levtechlab.connpass.com/event/408730/",
       "matched_keywords": [
-        "agent",
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ee4c0b86f8780d60e407"
+      "id": "13992f4047e27c326eb9"
     }
   ],
   "source_errors": [],
