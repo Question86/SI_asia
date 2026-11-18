@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T08:50:28+00:00",
-  "run_id": "2026-11-18T08:50:28+00:00",
+  "generated_at": "2026-11-18T09:04:00+00:00",
+  "run_id": "2026-11-18T09:04:00+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 55
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 7,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 0,
-    "medium": 22,
+    "medium": 28,
     "observe": 27,
     "source_errors": 0
   },
@@ -30,36 +30,12 @@
     "high": [],
     "medium": [
       {
-        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
-        "url": "https://jvn.jp/vu/JVNVU96847970/",
-        "source": "JVN Japan Vulnerability Notes",
-        "source_type": "rss",
-        "published_at": "2026-11-18T09:00:15+09:00",
-        "fetched_at": "2026-11-18T00:02:04+00:00",
-        "summary": "OpenSSL ProjectからOpenSSL Security Advisory [17th November 2026]が公開されました。",
-        "matched_keywords": [
-          "advisory",
-          "APAC Trend Radar",
-          "CodeQL/Dependabot",
-          "JVN",
-          "Security"
-        ],
-        "relevance_score": 23,
-        "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-        "risk_or_opportunity": "risk",
-        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-        "watchgraph_modules": [],
-        "watchgraph_reasons": [],
-        "market_context": [],
-        "id": "181587e771fb5c01e532"
-      },
-      {
         "title": "Updates | ReliefWeb",
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T08:45:00+00:00",
-        "fetched_at": "2026-11-18T08:49:57+00:00",
+        "published_at": "2026-11-18T09:01:42+00:00",
+        "fetched_at": "2026-11-18T09:03:30+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +69,55 @@
           "HD",
           "LOW"
         ],
-        "id": "44721fe53971e774cd54"
+        "id": "2162a33784313a986dfd"
+      },
+      {
+        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
+        "url": "https://jvn.jp/vu/JVNVU96847970/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-18T09:00:15+09:00",
+        "fetched_at": "2026-11-18T00:02:04+00:00",
+        "summary": "OpenSSL ProjectからOpenSSL Security Advisory [17th November 2026]が公開されました。",
+        "matched_keywords": [
+          "advisory",
+          "APAC Trend Radar",
+          "CodeQL/Dependabot",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "181587e771fb5c01e532"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4628",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T08:52:01+00:00",
+        "fetched_at": "2026-11-18T09:03:30+00:00",
+        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Supply Chain Security"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "Security (+6.0); Supply Chain Security (+10.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fe2b2f6f24df69388002"
       },
       {
         "title": "Google catches AI agents hacking with no human in the loop",
@@ -141,6 +165,98 @@
           "PINS"
         ],
         "id": "7986436b4bcca49b3c8d"
+      },
+      {
+        "title": "Tencent/LoopForge",
+        "url": "https://github.com/Tencent/LoopForge",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-11-18T09:03:30+00:00",
+        "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. https://loopforge.cn English · 简体中文 Two ways to work · Quick start · SOPs · Features · Local · FAQ · Docs https://github.com/user-attachments/assets/8af401d9-1aae-427c-b4bc-455c12d17beb 80-second product tour (1080p, with sound). LoopForg…",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "adad709b113f34c8cd2a"
+      },
+      {
+        "title": "Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026",
+        "url": "https://e27.co/cheques-bans-and-bell-ringing-50-asian-ai-companies-that-defined-2026-20261118/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-18T08:51:14+00:00",
+        "fetched_at": "2026-11-18T09:03:30+00:00",
+        "summary": "If 2025 was the year Asia’s AI founders learnt to say “agentic” without blinking, 2026 was the year the cheques, the bans and the bell-ringing all arrived at once. Capital poured in at a scale that would have looked like a typo three years ago. DeepSeek reportedly raised around US$15 billion in a single round. […] The post Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026 appeared first on e27 .",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "55a3461a9a04fcf1bcb9"
       },
       {
         "title": "M 5.8 - 40 km N of Ruteng, Indonesia",
@@ -401,6 +517,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "35532ad99aa43c778e08"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4629",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T08:52:01+00:00",
+        "fetched_at": "2026-11-18T09:03:30+00:00",
+        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Siebel CRM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fba4b51307732bace882"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4627",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T08:52:00+00:00",
+        "fetched_at": "2026-11-18T09:03:30+00:00",
+        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle VM VirtualBox ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "19b43c55bebccf3e0c9a"
+      },
+      {
+        "title": "[UPDATE] [mittel] Kicad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4580",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T08:48:12+00:00",
+        "fetched_at": "2026-11-18T09:03:30+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Kicad ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e3248402ccd28395c253"
       },
       {
         "title": "[NEU] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
@@ -1298,36 +1483,12 @@
   },
   "findings": [
     {
-      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
-      "url": "https://jvn.jp/vu/JVNVU96847970/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-18T09:00:15+09:00",
-      "fetched_at": "2026-11-18T00:02:04+00:00",
-      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [17th November 2026]が公開されました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "CodeQL/Dependabot",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "181587e771fb5c01e532"
-    },
-    {
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T08:45:00+00:00",
-      "fetched_at": "2026-11-18T08:49:57+00:00",
+      "published_at": "2026-11-18T09:01:42+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1361,7 +1522,55 @@
         "HD",
         "LOW"
       ],
-      "id": "44721fe53971e774cd54"
+      "id": "2162a33784313a986dfd"
+    },
+    {
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
+      "url": "https://jvn.jp/vu/JVNVU96847970/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-18T09:00:15+09:00",
+      "fetched_at": "2026-11-18T00:02:04+00:00",
+      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [17th November 2026]が公開されました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "CodeQL/Dependabot",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "181587e771fb5c01e532"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4628",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:52:01+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Supply Chain Security"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Security (+6.0); Supply Chain Security (+10.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fe2b2f6f24df69388002"
     },
     {
       "title": "Google catches AI agents hacking with no human in the loop",
@@ -1409,6 +1618,98 @@
         "PINS"
       ],
       "id": "7986436b4bcca49b3c8d"
+    },
+    {
+      "title": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. https://loopforge.cn English · 简体中文 Two ways to work · Quick start · SOPs · Features · Local · FAQ · Docs https://github.com/user-attachments/assets/8af401d9-1aae-427c-b4bc-455c12d17beb 80-second product tour (1080p, with sound). LoopForg…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "adad709b113f34c8cd2a"
+    },
+    {
+      "title": "Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026",
+      "url": "https://e27.co/cheques-bans-and-bell-ringing-50-asian-ai-companies-that-defined-2026-20261118/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:51:14+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "If 2025 was the year Asia’s AI founders learnt to say “agentic” without blinking, 2026 was the year the cheques, the bans and the bell-ringing all arrived at once. Capital poured in at a scale that would have looked like a typo three years ago. DeepSeek reportedly raised around US$15 billion in a single round. […] The post Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026 appeared first on e27 .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "55a3461a9a04fcf1bcb9"
     },
     {
       "title": "M 5.8 - 40 km N of Ruteng, Indonesia",
@@ -1669,6 +1970,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "35532ad99aa43c778e08"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4629",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:52:01+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Siebel CRM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fba4b51307732bace882"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4627",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:52:00+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle VM VirtualBox ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "19b43c55bebccf3e0c9a"
+    },
+    {
+      "title": "[UPDATE] [mittel] Kicad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4580",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:48:12+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Kicad ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e3248402ccd28395c253"
     },
     {
       "title": "[NEU] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
@@ -2567,8 +2937,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T08:45:00+00:00",
-      "fetched_at": "2026-11-18T08:49:57+00:00",
+      "published_at": "2026-11-18T09:01:42+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2602,16 +2972,132 @@
         "HD",
         "LOW"
       ],
-      "id": "44721fe53971e774cd54"
+      "id": "2162a33784313a986dfd"
     },
     {
-      "title": "[NEU] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4621",
+      "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4628",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-18T08:42:01+00:00",
-      "fetched_at": "2026-11-18T08:49:57+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Fusion Middleware ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "published_at": "2026-11-18T08:52:01+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Supply Chain Security"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Security (+6.0); Supply Chain Security (+10.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fe2b2f6f24df69388002"
+    },
+    {
+      "title": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. https://loopforge.cn English · 简体中文 Two ways to work · Quick start · SOPs · Features · Local · FAQ · Docs https://github.com/user-attachments/assets/8af401d9-1aae-427c-b4bc-455c12d17beb 80-second product tour (1080p, with sound). LoopForg…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "adad709b113f34c8cd2a"
+    },
+    {
+      "title": "Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026",
+      "url": "https://e27.co/cheques-bans-and-bell-ringing-50-asian-ai-companies-that-defined-2026-20261118/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:51:14+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "If 2025 was the year Asia’s AI founders learnt to say “agentic” without blinking, 2026 was the year the cheques, the bans and the bell-ringing all arrived at once. Capital poured in at a scale that would have looked like a typo three years ago. DeepSeek reportedly raised around US$15 billion in a single round. […] The post Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026 appeared first on e27 .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "55a3461a9a04fcf1bcb9"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4629",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:52:01+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Siebel CRM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2625,16 +3111,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9ba8464ddedb36b34874"
+      "id": "fba4b51307732bace882"
     },
     {
-      "title": "[NEU] [hoch] Oracle Hyperion: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4620",
+      "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4627",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-18T08:42:00+00:00",
-      "fetched_at": "2026-11-18T08:49:57+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Hyperion ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+      "published_at": "2026-11-18T08:52:00+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle VM VirtualBox ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2648,16 +3134,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d0d9e817568180f0d026"
+      "id": "19b43c55bebccf3e0c9a"
     },
     {
-      "title": "[NEU] [mittel] Oracle Financial Services Applications: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4619",
+      "title": "[UPDATE] [mittel] Kicad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4580",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-18T08:37:00+00:00",
-      "fetched_at": "2026-11-18T08:49:57+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Financial Services Applications ausnutzen, um die Vertraulichkeit und Integrität zu gefährden.",
+      "published_at": "2026-11-18T08:48:12+00:00",
+      "fetched_at": "2026-11-18T09:03:30+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Kicad ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2671,7 +3157,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b798ac62364812f4de4d"
+      "id": "e3248402ccd28395c253"
     }
   ],
   "source_errors": [],
