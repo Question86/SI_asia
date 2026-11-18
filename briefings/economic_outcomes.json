@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T04:30:08+00:00",
+  "generated_at": "2026-11-18T04:40:03+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -9119,7 +9119,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4ee48c8e37b55fd52d33",
@@ -11110,7 +11110,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_60461bb4ab1569bd05fc",
@@ -22154,7 +22154,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_c1c2eeb88f391ff05891",
@@ -23926,6 +23926,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d21e946e115e39cb5924",
+      "title": "Google catches AI agents hacking with no human in the loop",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d261ec3bccdfcf970e31",
