@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T18:29:47+00:00",
-  "today_file_total": 122,
+  "generated_at": "2026-11-18T18:37:40+00:00",
+  "today_file_total": 124,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -261,6 +261,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:www.federalreserve.gov",
+      "title": "Barr, Investing in America’s Underserved Communities",
+      "sources": [
+        "Federal Reserve Speeches and Testimony"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:japan:5.2",
       "title": "M 5.2 - 86 km NW of Ryōtsu-minato, Japan",
       "sources": [
@@ -474,29 +499,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:vuln-rabilit-affectant-openprinting-cups-septembre-2024",
-      "title": "[MàJ] Vulnérabilités affectant OpenPrinting CUPS (27 septembre 2024)",
-      "sources": [
-        "CERT-FR Alertes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-012/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }

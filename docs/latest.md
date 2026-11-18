@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T18:29:44+00:00_
+_Generiert: 2026-11-18T18:37:37+00:00_
 
 ## Kurzlage
 
-122 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+124 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -120,6 +120,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Walk into almost any Singapore fintech today and you will find AI somewhere: writing code, sorting support tickets, flagging suspect transactions. What you are far less likely to find is an AI agent trusted to approve a loan or move a client’s savings without a human hovering over the button. That is the uncomfortable split […] The post Singapore fintechs are pouring money into AI. The returns are not keeping up app…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Barr, Investing in America’s Underserved Communities** — Score 15, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-11-18T18:35:00+00:00`, fetched `2026-11-18T18:37:06+00:00`
+  - Treffer: Macro/Policy, speech, testimony, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Speech At Making Missing Markets: Catalyzing Capital and Igniting Innovation, Federal Reserve Bank of New York, New York, New York
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 4 km NNW of Tsunagi, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1n)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-18T17:38:18.040+00:00`, fetched `2026-11-18T17:41:35+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 宮内庁が提供するAndroidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[MàJ] Vulnérabilités affectant OpenPrinting CUPS (27 septembre 2024)** — Score 14, observation — [Quelle](https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-012/)
-  - Quelle: CERT-FR Alertes / `rss`
-  - Zeit: published `2024-09-27T00:00:00+00:00`, fetched `2026-11-18T18:05:33+00:00`
-  - Treffer: alerte, attaque, CERT-FR, Security, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); attaque (+2.0); vulnérabilité (+2.5)
-  - Kurz: **[Mise à jour du 10 octobre 2024]** Le 28 septembre 2024, Elastic Security Labs a publié des règles de détection au format propriétaire de l'éditeur (cf. section Documentation), qui sont confirmées par les analyses du CERT-FR pour la détection des attaques connues. **[Publication initiale]** De...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
