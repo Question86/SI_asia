@@ -28,8 +28,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T01:19:29+00:00",
-    "fetched_at": "2026-11-18T01:27:19+00:00",
+    "published_at": "2026-11-18T01:27:35+00:00",
+    "fetched_at": "2026-11-18T01:34:40+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -63,7 +63,7 @@
       "HD",
       "LOW"
     ],
-    "id": "afe14f8b9354f88593a3"
+    "id": "5d9d62a823dcbda21f50"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -87,6 +87,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "934409438cad3d7a4063"
+  },
+  {
+    "title": "複数のJava実行環境におけるヒープベースのバッファオーバーフローの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU99608534/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-18T10:30:00+09:00",
+    "fetched_at": "2026-11-18T01:34:40+00:00",
+    "summary": "複数のJava実行環境にはヒープベースのバッファオーバーフローの脆弱性（CVE-2026-114938）が存在します。 本脆弱性の発見者は本件を「Java4Shell」と呼称し、Base64デコード処理を高速化するための最適化処理に原因があると指摘しています。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "35532ad99aa43c778e08"
   },
   {
     "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
