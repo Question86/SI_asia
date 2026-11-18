@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T02:01:23+00:00",
+  "generated_at": "2026-11-18T02:16:59+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2853,7 +2853,7 @@
     },
     "title:openssl-2026": {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
-      "updated_at": "2026-11-18T02:01:23+00:00",
+      "updated_at": "2026-11-18T02:16:59+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -2877,8 +2877,8 @@
         25.1,
         25.1,
         25.1,
-        25.1,
         28.1,
+        25.1,
         25.1,
         25.1,
         25.1,
@@ -2955,7 +2955,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
-      "updated_at": "2026-11-18T02:01:23+00:00",
+      "updated_at": "2026-11-18T02:16:59+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2979,8 +2979,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -4536,7 +4536,7 @@
     },
     "domain:japan.cnet.com": {
       "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
-      "updated_at": "2026-11-18T02:01:23+00:00",
+      "updated_at": "2026-11-18T02:16:59+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -4561,8 +4561,8 @@
         12.1,
         12.1,
         12.1,
-        12.1,
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -4799,7 +4799,7 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-18T02:01:23+00:00",
+      "updated_at": "2026-11-18T02:16:59+00:00",
       "network_scores": [
         25.7,
         25.7,
@@ -4824,8 +4824,8 @@
         25.7,
         25.7,
         25.7,
-        25.7,
         28.7,
+        25.7,
         25.7,
         25.7,
         25.7,
@@ -10376,9 +10376,8 @@
     },
     "domain:note.com": {
       "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
-      "updated_at": "2026-11-18T02:01:23+00:00",
+      "updated_at": "2026-11-18T02:16:59+00:00",
       "network_scores": [
-        11.1,
         11.1,
         11.1,
         11.1,
@@ -10407,12 +10406,13 @@
         13.2,
         13.2,
         13.2,
+        13.2,
         13.2
       ],
-      "rolling_average": 11.65,
+      "rolling_average": 11.72,
       "rolling_peak": 19.2,
       "last_score": 13.2,
-      "z_hint": 1.55
+      "z_hint": 1.48
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -123766,44 +123766,58 @@
     },
     "title:will-revolutionise-science-without-requiring-geniuses": {
       "title": "AI will revolutionise science without requiring AI geniuses",
-      "updated_at": "2026-11-18T02:01:23+00:00",
+      "updated_at": "2026-11-18T02:16:59+00:00",
       "network_scores": [
         13.1,
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.7,
+      "rolling_average": 10.6,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "earthquake:m 5.3 - 16 km w of nereju mic, romania:5.3": {
       "title": "M 5.3 - 16 km W of Nereju Mic, Romania",
-      "updated_at": "2026-11-18T02:01:23+00:00",
+      "updated_at": "2026-11-18T02:16:59+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.45,
+      "rolling_average": 12.3,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "cve:CVE-2026-114938": {
       "title": "複数のJava実行環境におけるヒープベースのバッファオーバーフローの脆弱性",
-      "updated_at": "2026-11-18T02:01:23+00:00",
+      "updated_at": "2026-11-18T02:16:59+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.6,
+      "rolling_average": 17.1,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "title:your-startup-may-very-fast-nonsense-factory": {
+      "title": "Your AI startup may be a very fast nonsense factory",
+      "updated_at": "2026-11-18T02:16:59+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
     }
   }
 }

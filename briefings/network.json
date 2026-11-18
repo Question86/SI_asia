@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-18T02:01:23+00:00",
+  "generated_at": "2026-11-18T02:16:59+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 9,
-    "clusters": 8,
+    "findings": 10,
+    "clusters": 9,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 1,
@@ -165,6 +165,44 @@
       "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
+      "key": "title:your-startup-may-very-fast-nonsense-factory",
+      "title": "Your AI startup may be a very fast nonsense factory",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/your-ai-startup-may-be-a-very-fast-nonsense-factory-20261109/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-18T02:16:59+00:00"
+    },
+    {
       "key": "domain:japan.cnet.com",
       "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
       "sources": [
@@ -221,18 +259,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.12,
+      "network_score": 11.09,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.2,
-      "ranking_score": 11.12,
+      "ranking_score": 11.09,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.62,
+      "baseline_bonus": 0.59,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -323,7 +361,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-18T02:01:24Z",
+    "generated_at": "2026-11-18T02:17:01Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-18T02:01:20+00:00_
+_Generated: 2026-11-18T02:16:57+00:00_
 
 ## Status
-- status: `warning`
-- findings: `9`
+- status: `normal`
+- findings: `10`
 
 ## Top Signals
 
@@ -18,7 +18,7 @@ _Generated: 2026-11-18T02:01:20+00:00_
 ### 2. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-18T01:58:12+00:00`
+- published: `2026-11-18T02:16:46+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-18T02:01:20+00:00_
 - url: https://note.com/unsoluble_sugar/n/n58c97b4dee67
 - summary: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
 
-### 8. AI will revolutionise science without requiring AI geniuses
+### 8. Your AI startup may be a very fast nonsense factory
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
-- published: `2026-11-18T01:00:36+00:00`
-- url: https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/
-- summary: For most of human history, scientific progress has been limited by the amount of human attention available. A few decades ago, a scientist searching the literature could spend hours in a library scanning journal titles before deciding which papers justified t…
+- published: `2026-11-18T02:00:17+00:00`
+- url: https://e27.co/your-ai-startup-may-be-a-very-fast-nonsense-factory-20261109/
+- summary: I know the temptation. I am Faheem Aizat Kamsan, a self-taught AI builder with a paramedic background. Give me a stubborn problem and I will keep building. Give AI a vague instruction and it may build the wrong thing with magnificent confidence. Between 7 and…
 
 END OF DOCUMENT

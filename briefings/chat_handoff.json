@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-18T02:01:20+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-11-18T02:16:57+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 2,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 4,
-    "observe": 5
+    "observe": 6
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -28,7 +28,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T01:58:12+00:00",
+      "published_at": "2026-11-18T02:16:46+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "AI will revolutionise science without requiring AI geniuses",
+      "title": "Your AI startup may be a very fast nonsense factory",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-18T01:00:36+00:00",
+      "published_at": "2026-11-18T02:00:17+00:00",
       "relevance_score": 8,
-      "url": "https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/",
-      "summary": "For most of human history, scientific progress has been limited by the amount of human attention available. A few decades ago, a scientist searching the literature could spend hours in a library scanning journal titles before deciding which papers justified t…",
+      "url": "https://e27.co/your-ai-startup-may-be-a-very-fast-nonsense-factory-20261109/",
+      "summary": "I know the temptation. I am Faheem Aizat Kamsan, a self-taught AI builder with a paramedic background. Give me a stubborn problem and I will keep building. Give AI a vague instruction and it may build the wrong thing with magnificent confidence. Between 7 and…",
       "section": "observe"
     }
   ],
