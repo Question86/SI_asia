@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-11-18T19:16:09+00:00",
+  "generated_at": "2026-11-18T19:25:56+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2024-10441 Synology DiskStation Manager (DSM)",
+        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-18",
+        "metrics": {
+          "cve": "CVE-2024-10441"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-40217 BerriAI LiteLLM",
+        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-12-02. BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-18",
+        "metrics": {
+          "cve": "CVE-2026-40217"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap)",
+        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-18",
+        "metrics": {
+          "cve": "CVE-2026-90817"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-90436 Apache Axis",
+        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Apache Axis Unsafe Reflection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-18",
+        "metrics": {
+          "cve": "CVE-2026-90436"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -12,54 +60,6 @@
         "published_at": "2026-11-17",
         "metrics": {
           "cve": "CVE-2026-115731"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-114713 UnrealIRCd UnrealIRCd",
-        "summary": "Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-13",
-        "metrics": {
-          "cve": "CVE-2026-114713"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-123039 Check Point Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-13",
-        "metrics": {
-          "cve": "CVE-2026-123039"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-124194 Microsoft Office",
-        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-10",
-        "metrics": {
-          "cve": "CVE-2026-124194"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder",
-        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-10",
-        "metrics": {
-          "cve": "CVE-2026-111793"
         }
       },
       {
