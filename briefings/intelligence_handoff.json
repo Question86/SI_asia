@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-17T23:52:19Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Microsoft SharePoint: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+  "generated_at": "2026-11-18T00:27:01Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,38 +11,67 @@
   ],
   "top_dynamics": [
     {
-      "title": "[NEU] [hoch] Microsoft SharePoint: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4598",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-17T11:37:01+00:00",
-      "age_days": 0.51,
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
+      "url": "https://jvn.jp/vu/JVNVU99888632/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-18T09:00:00+09:00",
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
-      "dynamics_score": 33.0,
+      "dynamics_score": 24.9,
       "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
-      "security_high_signal": true,
+      "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code, sharepoint, auth",
-        "security high-signal: code, sharepoint, auth"
+        "security high-signal: cisa, jvn, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft SharePoint ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren, oder beliebigen Programmcode auszuführen."
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
-      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
-      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-      "source": "GitHub Blog Atom",
-      "published_at": "2026-11-17T18:29:29+00:00",
-      "age_days": 0.22,
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
+      "url": "https://jvn.jp/vu/JVNVU96847970/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 151.94,
       "topics": [
-        "ai"
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 151.9d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
+      "url": "https://jvn.jp/vu/JVNVU96847970/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-18T09:00:15+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
       ],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -53,278 +82,40 @@
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don’t need more AI bug reports. They need fixes. appeared first on Th…"
-    },
-    {
-      "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4594",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-17T11:22:01+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
         "high terms: code",
         "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Android ausnutzen, um Daten zu manipulieren, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode auszuführen."
+      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [17th November 2026]が公開されました。"
     },
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] VLC: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4592",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-17T11:12:01+00:00",
-      "age_days": 0.53,
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
+      "url": "https://jvn.jp/vu/JVNVU99888632/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 151.94,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "aging penalty -8.0 for 151.9d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in VLC ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen oder Informationen offenzulegen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4478",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-17T08:12:01+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, 10",
-        "security high-signal: code, 10",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann diese Schwachstellen in Microsoft Windows Server in den Versionen 2012, 2012 R2, 2016, 2019 und 2022, sowie in Microsoft Windows in den Versionen 10 und 11, im Microsoft Windows Admin Center und im Microsoft Configuration Manager ausnutzen, um erweiterte Berechtigungen – einschließlich Administrator…"
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-11-16T09:30:00+00:00",
-      "age_days": 1.6,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
-    },
-    {
-      "title": "elementalsouls/Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-17T09:18:14+00:00",
-      "age_days": 0.61,
-      "topics": [
-        "ai",
-        "security",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. https://elementalsouls.github.io/Claude-BugHunter claude-bughunter A self-containe…"
-    },
-    {
-      "title": "[NEU] [kritisch] TYPO3 CMS Extension: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4611",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-17T12:42:01+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch, code",
-        "security high-signal: kritisch, code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in TYPO3 CMS Extension ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um falsche Informationen darzustellen und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[NEU] [hoch] N-able N-Central: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4609",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-17T12:02:00+00:00",
-      "age_days": 0.49,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in N-able N-Central ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder Berechtigungen zu erweitern."
-    },
-    {
-      "title": "[NEU] [hoch] Mitel MiCollab: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4608",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-17T11:57:01+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Mitel MiCollab ausnutzen, um Dateien zu manipulieren, beliebigen Programmcode mit den Rechten des Dienstes auszuführen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, oder nicht spezifizierte Angriffe durchzuführen."
-    },
-    {
-      "title": "[NEU] [hoch] ONLYOFFICE Docs: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4606",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-17T11:57:00+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, auth",
-        "security high-signal: code, auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in ONLYOFFICE Docs ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen, Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren oder Informationen offenzulegen."
-    },
-    {
-      "title": "[NEU] [mittel] CODESYS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4604",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-17T11:52:01+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in CODESYS ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Dateien zu manipulieren."
+      "summary": ""
     }
   ],
   "read_order": [
@@ -336,8 +127,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "strong": 3,
+      "watch": 1
     }
   }
 }
