@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:39:26+00:00",
+  "generated_at": "2026-11-18T04:46:27+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,21 +131,6 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577445",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.8 - 99 km ESE of Madang, Papua New Guinea",
-        "summary": "M5.8 - 99 km ESE of Madang, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2",
-        "published_at": "2026-11-18T03:42:34+00:00",
-        "metrics": {
-          "mag": 5.8,
-          "alert": "green",
-          "sig": 519.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
