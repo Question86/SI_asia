@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T21:17:29+00:00",
-  "run_id": "2026-11-18T21:17:29+00:00",
+  "generated_at": "2026-11-18T21:23:23+00:00",
+  "run_id": "2026-11-18T21:23:23+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 131
+      "configured_public_sources_only": 132
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 131,
-    "displayed_findings": 131,
+    "new_relevant_findings": 2,
+    "today_file_total": 132,
+    "displayed_findings": 132,
     "high": 0,
-    "medium": 68,
+    "medium": 69,
     "observe": 63,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T21:14:24+00:00",
-        "fetched_at": "2026-11-18T21:17:02+00:00",
+        "published_at": "2026-11-18T21:23:12+00:00",
+        "fetched_at": "2026-11-18T21:22:54+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "234792c3f71c69666ed8"
+        "id": "b2c6740a9e8bc949243e"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -236,6 +236,42 @@
           "PINS"
         ],
         "id": "adad709b113f34c8cd2a"
+      },
+      {
+        "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog",
+        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T15:27:17+00:00",
+        "fetched_at": "2026-11-18T21:22:54+00:00",
+        "summary": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk. Executive SummaryWiz Research, Ikotas Labs, Metnir, Rapid7, and Xint in...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security",
+          "Watchgraph:cyber_active_exploitation",
+          "Webentwicklung"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "Security (+7.5); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: RCE"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "df27de9d58abdc9a3710"
       },
       {
         "title": "Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026",
@@ -3350,8 +3386,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T21:14:24+00:00",
-      "fetched_at": "2026-11-18T21:17:02+00:00",
+      "published_at": "2026-11-18T21:23:12+00:00",
+      "fetched_at": "2026-11-18T21:22:54+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3385,7 +3421,7 @@
         "HD",
         "LOW"
       ],
-      "id": "234792c3f71c69666ed8"
+      "id": "b2c6740a9e8bc949243e"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -3552,6 +3588,42 @@
         "PINS"
       ],
       "id": "adad709b113f34c8cd2a"
+    },
+    {
+      "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T15:27:17+00:00",
+      "fetched_at": "2026-11-18T21:22:54+00:00",
+      "summary": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk. Executive SummaryWiz Research, Ikotas Labs, Metnir, Rapid7, and Xint in...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security",
+        "Watchgraph:cyber_active_exploitation",
+        "Webentwicklung"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "Security (+7.5); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: RCE"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "df27de9d58abdc9a3710"
     },
     {
       "title": "Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026",
@@ -6663,8 +6735,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T21:14:24+00:00",
-      "fetched_at": "2026-11-18T21:17:02+00:00",
+      "published_at": "2026-11-18T21:23:12+00:00",
+      "fetched_at": "2026-11-18T21:22:54+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -6698,7 +6770,43 @@
         "HD",
         "LOW"
       ],
-      "id": "234792c3f71c69666ed8"
+      "id": "b2c6740a9e8bc949243e"
+    },
+    {
+      "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T15:27:17+00:00",
+      "fetched_at": "2026-11-18T21:22:54+00:00",
+      "summary": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk. Executive SummaryWiz Research, Ikotas Labs, Metnir, Rapid7, and Xint in...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security",
+        "Watchgraph:cyber_active_exploitation",
+        "Webentwicklung"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "Security (+7.5); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: RCE"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "df27de9d58abdc9a3710"
     }
   ],
   "source_errors": [],

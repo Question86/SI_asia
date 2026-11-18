@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T21:17:29+00:00_
+_Generiert: 2026-11-18T21:23:23+00:00_
 
 ## Kurzlage
 
-131 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+132 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T21:14:24+00:00`, fetched `2026-11-18T21:17:02+00:00`
+  - Zeit: published `2026-11-18T21:23:12+00:00`, fetched `2026-11-18T21:22:54+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -127,6 +127,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. https://loopforge.cn English · 简体中文 Two ways to work · Quick start · SOPs · Features · Local · FAQ · Docs https://github.com/user-attachments/assets/8af401d9-1aae-427c-b4bc-455c12d17beb 80-second product tour (1080p, with sound). LoopForg…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog** — Score 18, risk — [Quelle](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-18T15:27:17+00:00`, fetched `2026-11-18T21:22:54+00:00`
+  - Treffer: Hatena, hotentry, Security, Watchgraph:cyber_active_exploitation, Webentwicklung
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk. Executive SummaryWiz Research, Ikotas Labs, Metnir, Rapid7, and Xint in...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026** — Score 18, observation — [Quelle](https://e27.co/cheques-bans-and-bell-ringing-50-asian-ai-companies-that-defined-2026-20261118/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-18T08:51:14+00:00`, fetched `2026-11-18T09:03:30+00:00`
@@ -198,15 +207,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-18 17:22:23 UTC 2026-11-18 17:22:23 UTC at epicenter Location 32.278°N 130.461°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN19906678/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-11-18T12:00:00+09:00`, fetched `2026-11-18T03:07:30+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 宮内庁が提供するAndroidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
