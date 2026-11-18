@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-18T15:11:24Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Oracle Java und GraalVM: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-11-18T20:11:38Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Barr, Investing in America’s Underserved Communities” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,36 +11,41 @@
   ],
   "top_dynamics": [
     {
-      "title": "[NEU] [hoch] Oracle Java und GraalVM: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4624",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-18T12:07:01+00:00",
-      "age_days": 0.13,
+      "title": "Barr, Investing in America’s Underserved Communities",
+      "url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
+      "source": "Federal Reserve Monetary Policy Press Releases, Federal Reserve Speeches and Testimony",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 153.23,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 6.34,
+      "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code",
-        "security high-signal: code"
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 6.34",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 153.2d old signal",
+        "extreme gate recheck: insufficient independent/current evidence"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Oracle Java und GraalVM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden, sowie um unter bestimmten Bedingungen beliebigen Code auszuführen."
+      "summary": ""
     },
     {
       "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 153.03,
+      "age_days": 153.23,
       "topics": [
         "ai"
       ],
@@ -59,7 +64,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 153.0d old signal",
+        "aging penalty -8.0 for 153.2d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -69,7 +74,7 @@
       "url": "https://jvn.jp/vu/JVNVU99608534/",
       "source": "CERT-EU Security Advisories, JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T01:35:11+00:00",
-      "age_days": 0.57,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -96,7 +101,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4649",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:57:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.34,
       "topics": [
         "security",
         "macro"
@@ -125,7 +130,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4655",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T12:12:01+00:00",
-      "age_days": 0.12,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -151,7 +156,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4647",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:52:01+00:00",
-      "age_days": 0.14,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -177,7 +182,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4643",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:47:01+00:00",
-      "age_days": 0.14,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -203,7 +208,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4456",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:50+00:00",
-      "age_days": 0.16,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -229,7 +234,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4490",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:49+00:00",
-      "age_days": 0.16,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -255,7 +260,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4494",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:48+00:00",
-      "age_days": 0.16,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -277,11 +282,37 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (microcode_ctl) ausnutzen, um seine Privilegien zu erhöhen."
     },
     {
+      "title": "Security risk assessments run automatically on GitHub Team",
+      "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-11-18T17:17:55+00:00",
+      "age_days": 0.12,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "security high-signal: security",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "[NEU] [hoch] MISP: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T12:32:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -301,32 +332,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MISP ausnutzen, um Informationen offenzulegen."
-    },
-    {
-      "title": "[NEU] [hoch] Mozilla Firefox: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4654",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-18T12:07:01+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox ausnutzen, um Berechtigungen zu erweitern oder andere, nicht spezifizierte Angriffe durchzuführen."
     }
   ],
   "read_order": [
@@ -338,8 +343,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "strong": 12
     }
   }
 }
