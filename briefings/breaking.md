@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-18T21:30:48+00:00_
+_Generiert: 2026-11-18T21:42:14+00:00_
 
 ## Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog
 
@@ -19,7 +19,7 @@ _Generiert: 2026-11-18T21:30:48+00:00_
 
 ## Barr, Investing in America’s Underserved Communities
 
-- Ranking Score: `24.82`
+- Ranking Score: `24.7`
 - Raw Network Score: `25.2`
 - Max Monitor Score: `15`
 - Reichweite: `institutional` / `5.0`
