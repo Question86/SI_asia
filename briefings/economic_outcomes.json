@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T23:33:54+00:00",
+  "generated_at": "2026-11-18T23:49:19+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -22080,6 +22080,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_bfaa35b1a00afe268989",
+      "title": "nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_bfb5928970b09bbb5617",
       "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
       "deduplicated_buckets": 0,
@@ -22330,7 +22341,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c1c2eeb88f391ff05891",
