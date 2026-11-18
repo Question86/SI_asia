@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T13:45:21+00:00_
+_Generiert: 2026-11-18T13:50:52+00:00_
 
 ## Kurzlage
 
-100 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+107 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans SonicWall (10 septembre 2024)** — Score 12, risk — [Quelle](https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-011/)
+  - Quelle: CERT-FR Alertes / `rss`
+  - Zeit: published `2024-09-10T00:00:00+00:00`, fetched `2026-11-18T13:50:19+00:00`
+  - Treffer: alerte, CERT-FR, Security, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)
+  - Kurz: Le 22 août 2024, Sonicwall a publié un correctif concernant la vulnérabilité critique CVE-2024-40766 affectant les pare-feux Sonicwall génération 5, 6 et 7. Cette vulnérabilité, de type contrôle d'accès défaillant, permet à un attaquant de provoquer un déni de service à distance, une atteinte à...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Version 1.0: OpenJDK - Kritische Schwachstelle "Java4Shell" gefährdet Java-Anwendungen** — Score 11, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306673-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
   - Zeit: published `2026-11-18T12:00:00+00:00`, fetched `2026-11-18T11:56:16+00:00`
@@ -240,6 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans VMware Tanzu Greenplum (13 novembre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1527/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-13T00:00:00+00:00`, fetched `2026-11-18T13:50:19+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Boris Vujčić: Financial Stability Review - November 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-11-18T09:00:00+00:00`, fetched `2026-11-18T09:16:59+00:00`
@@ -258,24 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Geminiが電話も支払いも代行する「タスク」モード、日本でも無料で提供開始 | テクノエッジ TechnoEdge** — Score 8, observation — [Quelle](https://www.techno-edge.net/article/2026/11/18/5756.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T00:39:38+00:00`, fetched `2026-11-18T09:44:32+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Googleは11月17日（米国時間）、Geminiアプリに用事を任せられる「タスク」モードを追加したと発表しました。米国、日本、韓国、カナダ、オーストラリア、インドで、無料での提供を始めています。モデルにはGemini 4 Hydrogenを使います。 使い方は、Geminiアプリのホーム画面にある切り替えを「Chat」から「Task」にす...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT** — Score 8, opportunity — [Quelle](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-11-18T00:00:00+00:00`, fetched `2026-11-18T09:16:59+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
