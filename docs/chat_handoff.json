@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-18T23:33:02+00:00",
+  "generated_at": "2026-11-18T23:48:23+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 143,
-    "displayed_findings": 143,
+    "new_relevant_findings": 2,
+    "today_file_total": 144,
+    "displayed_findings": 144,
     "high": 0,
-    "medium": 70,
+    "medium": 71,
     "observe": 73
   },
   "source_errors_count": 0,
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T23:32:46+00:00",
+      "published_at": "2026-11-18T23:48:10+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -100,149 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [hoch] Snipe-IT: Schwachstelle ermöglicht Erlangen von Benutzerrechten” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=45.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [hoch] Snipe-IT: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4649",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-18T11:57:01+00:00",
-        "age_days": 0.49,
-        "topics": [
-          "axiom",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 45.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Benutzerrechte bis hin zu Superuser-Rechte zu erlangen."
-      },
-      {
-        "title": "Barr, Investing in America’s Underserved Communities",
-        "url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
-        "source": "Federal Reserve Monetary Policy Press Releases, Federal Reserve Speeches and Testimony",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 153.38,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 153.4d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
-        "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 153.38,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 153.4d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "複数のJava実行環境におけるヒープベースのバッファオーバーフローの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU99608534/",
-        "source": "CERT-EU Security Advisories, JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-18T01:35:11+00:00",
-        "age_days": 0.92,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4655",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-18T12:12:01+00:00",
-        "age_days": 0.48,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff oder nicht spezifierte Angriffe durchzuführen."
-      }
-    ]
-  }
+  ]
 }

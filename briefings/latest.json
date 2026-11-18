@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T23:33:02+00:00",
-  "run_id": "2026-11-18T23:33:02+00:00",
+  "generated_at": "2026-11-18T23:48:23+00:00",
+  "run_id": "2026-11-18T23:48:23+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 143
+      "configured_public_sources_only": 144
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 143,
-    "displayed_findings": 143,
+    "new_relevant_findings": 2,
+    "today_file_total": 144,
+    "displayed_findings": 144,
     "high": 0,
-    "medium": 70,
+    "medium": 71,
     "observe": 73,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T23:32:46+00:00",
-        "fetched_at": "2026-11-18T23:32:27+00:00",
+        "published_at": "2026-11-18T23:48:10+00:00",
+        "fetched_at": "2026-11-18T23:47:48+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b156a2f2cdb5044942e1"
+        "id": "e882088338d1a59d2c28"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -439,6 +439,42 @@
           "PINS"
         ],
         "id": "e50d07dfdee656cb7b76"
+      },
+      {
+        "title": "nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO",
+        "url": "https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T21:41:35+00:00",
+        "fetched_at": "2026-11-18T23:47:48+00:00",
+        "summary": "NGINX の HTTP/2 の脆弱性 CVE-2026-123007・CVE-2026-123633 の仕組みと AWS 構成ごとの影響を整理し、修正版を使えない環境の緩和策として、http2 off で curl --http2 の接続が HTTP/1.1 になることを Docker で確認しました。 はじめに 2026-11-18 に nginx 1.31.9 と 1.30.7 が公開され、HTTP/2 の脆弱性 CVE-2026-...",
+        "matched_keywords": [
+          "developer",
+          "Hatena",
+          "hotentry",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: RCE"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "676ad043ea9c3d9be827"
       },
       {
         "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
@@ -3663,8 +3699,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T23:32:46+00:00",
-      "fetched_at": "2026-11-18T23:32:27+00:00",
+      "published_at": "2026-11-18T23:48:10+00:00",
+      "fetched_at": "2026-11-18T23:47:48+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3698,7 +3734,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b156a2f2cdb5044942e1"
+      "id": "e882088338d1a59d2c28"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -4068,6 +4104,42 @@
         "PINS"
       ],
       "id": "e50d07dfdee656cb7b76"
+    },
+    {
+      "title": "nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T21:41:35+00:00",
+      "fetched_at": "2026-11-18T23:47:48+00:00",
+      "summary": "NGINX の HTTP/2 の脆弱性 CVE-2026-123007・CVE-2026-123633 の仕組みと AWS 構成ごとの影響を整理し、修正版を使えない環境の緩和策として、http2 off で curl --http2 の接続が HTTP/1.1 になることを Docker で確認しました。 はじめに 2026-11-18 に nginx 1.31.9 と 1.30.7 が公開され、HTTP/2 の脆弱性 CVE-2026-...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: RCE"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "676ad043ea9c3d9be827"
     },
     {
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
@@ -7289,8 +7361,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T23:32:46+00:00",
-      "fetched_at": "2026-11-18T23:32:27+00:00",
+      "published_at": "2026-11-18T23:48:10+00:00",
+      "fetched_at": "2026-11-18T23:47:48+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -7324,49 +7396,43 @@
         "HD",
         "LOW"
       ],
-      "id": "b156a2f2cdb5044942e1"
+      "id": "e882088338d1a59d2c28"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "fetched_at": "2026-11-18T23:32:27+00:00",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "069dd6cdbed81c34a8d6"
-    },
-    {
-      "title": "アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261117de77369",
+      "title": "nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-18T12:57:29+00:00",
-      "fetched_at": "2026-11-18T23:32:27+00:00",
-      "summary": "アプリは、専門家だけが作るもの。そんな常識が変わり始めています。 AIに言葉で指示するだけで、誰でもアプリを作れる時代に。被災地で人々の命をつなぎ、仕事の効率化にも大きな成果を上げています。 一方…",
+      "published_at": "2026-11-18T21:41:35+00:00",
+      "fetched_at": "2026-11-18T23:47:48+00:00",
+      "summary": "NGINX の HTTP/2 の脆弱性 CVE-2026-123007・CVE-2026-123633 の仕組みと AWS 構成ごとの影響を整理し、修正版を使えない環境の緩和策として、http2 off で curl --http2 の接続が HTTP/1.1 になることを Docker で確認しました。 はじめに 2026-11-18 に nginx 1.31.9 と 1.30.7 が公開され、HTTP/2 の脆弱性 CVE-2026-...",
       "matched_keywords": [
+        "developer",
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "26226f3f0961a33daa7d"
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: RCE"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "676ad043ea9c3d9be827"
     }
   ],
   "source_errors": [],

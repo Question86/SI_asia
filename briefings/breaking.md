@@ -1,6 +1,21 @@
 # Senna Breaking
 
-_Generiert: 2026-11-18T23:33:05+00:00_
+_Generiert: 2026-11-18T23:48:26+00:00_
+
+## nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO
+
+- Ranking Score: `30.5`
+- Raw Network Score: `29.2`
+- Max Monitor Score: `16`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `nein`
+- Dominanter Emitter: `nein`
+- Quellen: CERT-EU Security Advisories, Hatena Bookmark Hotentry IT
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: ja
+- Momentum: increasing (+1)
+- Erste Quelle: https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/
+- Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
 ## Barr, Investing in America’s Underserved Communities
 

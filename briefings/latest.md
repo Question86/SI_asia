@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T23:33:02+00:00_
+_Generiert: 2026-11-18T23:48:23+00:00_
 
 ## Kurzlage
 
-143 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+144 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T23:32:46+00:00`, fetched `2026-11-18T23:32:27+00:00`
+  - Zeit: published `2026-11-18T23:48:10+00:00`, fetched `2026-11-18T23:47:48+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -172,6 +172,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. New services you can connect Box: Search and manage content, and… The post Connect Supabase, Box, Calendly, and more to Copilot appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO** — Score 16, risk — [Quelle](https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-18T21:41:35+00:00`, fetched `2026-11-18T23:47:48+00:00`
+  - Treffer: developer, Hatena, hotentry, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: NGINX の HTTP/2 の脆弱性 CVE-2026-123007・CVE-2026-123633 の仕組みと AWS 構成ごとの影響を整理し、修正版を使えない環境の緩和策として、http2 off で curl --http2 の接続が HTTP/1.1 になることを Docker で確認しました。 はじめに 2026-11-18 に nginx 1.31.9 と 1.30.7 が公開され、HTTP/2 の脆弱性 CVE-2026-...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4655)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-18T12:12:01+00:00`, fetched `2026-11-18T12:23:18+00:00`
@@ -198,15 +207,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Walk into almost any Singapore fintech today and you will find AI somewhere: writing code, sorting support tickets, flagging suspect transactions. What you are far less likely to find is an AI agent trusted to approve a loan or move a client’s savings without a human hovering over the button. That is the uncomfortable split […] The post Singapore fintechs are pouring money into AI. The returns are not keeping up app…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Barr, Investing in America’s Underserved Communities** — Score 15, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm)
-  - Quelle: Federal Reserve Speeches and Testimony / `rss`
-  - Zeit: published `2026-11-18T18:35:00+00:00`, fetched `2026-11-18T18:37:06+00:00`
-  - Treffer: Macro/Policy, speech, testimony, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Speech At Making Missing Markets: Catalyzing Capital and Igniting Innovation, Federal Reserve Bank of New York, New York, New York
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten

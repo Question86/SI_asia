@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T23:32:46+00:00",
-    "fetched_at": "2026-11-18T23:32:27+00:00",
+    "published_at": "2026-11-18T23:48:10+00:00",
+    "fetched_at": "2026-11-18T23:47:48+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "b156a2f2cdb5044942e1"
+    "id": "e882088338d1a59d2c28"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -409,6 +409,42 @@
       "PINS"
     ],
     "id": "e50d07dfdee656cb7b76"
+  },
+  {
+    "title": "nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-18T21:41:35+00:00",
+    "fetched_at": "2026-11-18T23:47:48+00:00",
+    "summary": "NGINX の HTTP/2 の脆弱性 CVE-2026-123007・CVE-2026-123633 の仕組みと AWS 構成ごとの影響を整理し、修正版を使えない環境の緩和策として、http2 off で curl --http2 の接続が HTTP/1.1 になることを Docker で確認しました。 はじめに 2026-11-18 に nginx 1.31.9 と 1.30.7 が公開され、HTTP/2 の脆弱性 CVE-2026-...",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry",
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: RCE"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "676ad043ea9c3d9be827"
   },
   {
     "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
