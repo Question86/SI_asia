@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T00:37:12+00:00",
-  "run_id": "2026-11-18T00:37:12+00:00",
+  "generated_at": "2026-11-18T01:02:11+00:00",
+  "run_id": "2026-11-18T01:02:11+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 3,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 3,
-    "observe": 1,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
@@ -141,6 +141,70 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4cda7d7553e423657437"
+      },
+      {
+        "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
+        "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-16T01:04:11+00:00",
+        "fetched_at": "2026-11-18T01:01:43+00:00",
+        "summary": "仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Webentwicklung"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5a6417c03bc8dac7ceeb"
+      },
+      {
+        "title": "AI will revolutionise science without requiring AI geniuses",
+        "url": "https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-18T01:00:36+00:00",
+        "fetched_at": "2026-11-18T01:01:43+00:00",
+        "summary": "For most of human history, scientific progress has been limited by the amount of human attention available. A few decades ago, a scientist searching the literature could spend hours in a library scanning journal titles before deciding which papers justified the time needed to read them. Electronic databases and the internet transformed that process by […] The post AI will revolutionise science without requiring AI g…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1629ce7cda6e5dab3153"
+      },
+      {
+        "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
+        "url": "https://note.com/wakabame/n/nc76b65a187bb",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-17T13:10:43+00:00",
+        "fetched_at": "2026-11-18T01:01:43+00:00",
+        "summary": "コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を圧倒的にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3bbfe8d9d067944f99fa"
       }
     ]
   },
@@ -255,72 +319,136 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "4cda7d7553e423657437"
-    }
-  ],
-  "new_findings": [
-    {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-18T00:36:14+00:00",
-      "fetched_at": "2026-11-18T00:36:40+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "1c9f6c46988b413db275"
     },
     {
-      "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
-      "url": "https://japan.cnet.com/article/35254996/",
+      "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
+      "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-17T07:22:06+00:00",
-      "fetched_at": "2026-11-18T00:36:40+00:00",
-      "summary": "Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。",
+      "published_at": "2026-11-16T01:04:11+00:00",
+      "fetched_at": "2026-11-18T01:01:43+00:00",
+      "summary": "仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Webentwicklung"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4cda7d7553e423657437"
+      "id": "5a6417c03bc8dac7ceeb"
+    },
+    {
+      "title": "AI will revolutionise science without requiring AI geniuses",
+      "url": "https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-18T01:00:36+00:00",
+      "fetched_at": "2026-11-18T01:01:43+00:00",
+      "summary": "For most of human history, scientific progress has been limited by the amount of human attention available. A few decades ago, a scientist searching the literature could spend hours in a library scanning journal titles before deciding which papers justified the time needed to read them. Electronic databases and the internet transformed that process by […] The post AI will revolutionise science without requiring AI g…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1629ce7cda6e5dab3153"
+    },
+    {
+      "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
+      "url": "https://note.com/wakabame/n/nc76b65a187bb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-17T13:10:43+00:00",
+      "fetched_at": "2026-11-18T01:01:43+00:00",
+      "summary": "コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を圧倒的にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3bbfe8d9d067944f99fa"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
+      "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-16T01:04:11+00:00",
+      "fetched_at": "2026-11-18T01:01:43+00:00",
+      "summary": "仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Webentwicklung"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a6417c03bc8dac7ceeb"
+    },
+    {
+      "title": "AI will revolutionise science without requiring AI geniuses",
+      "url": "https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-18T01:00:36+00:00",
+      "fetched_at": "2026-11-18T01:01:43+00:00",
+      "summary": "For most of human history, scientific progress has been limited by the amount of human attention available. A few decades ago, a scientist searching the literature could spend hours in a library scanning journal titles before deciding which papers justified the time needed to read them. Electronic databases and the internet transformed that process by […] The post AI will revolutionise science without requiring AI g…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1629ce7cda6e5dab3153"
+    },
+    {
+      "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
+      "url": "https://note.com/wakabame/n/nc76b65a187bb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-17T13:10:43+00:00",
+      "fetched_at": "2026-11-18T01:01:43+00:00",
+      "summary": "コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を圧倒的にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3bbfe8d9d067944f99fa"
     }
   ],
   "source_errors": [],

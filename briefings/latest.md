@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T00:37:12+00:00_
+_Generiert: 2026-11-18T01:02:11+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+7 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -111,6 +111,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter** — Score 9, observation — [Quelle](https://note.com/unsoluble_sugar/n/n58c97b4dee67)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-16T01:04:11+00:00`, fetched `2026-11-18T01:01:43+00:00`
+  - Treffer: Hatena, hotentry, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI will revolutionise science without requiring AI geniuses** — Score 8, observation — [Quelle](https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-18T01:00:36+00:00`, fetched `2026-11-18T01:01:43+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For most of human history, scientific progress has been limited by the amount of human attention available. A few decades ago, a scientist searching the literature could spend hours in a library scanning journal titles before deciding which papers justified the time needed to read them. Electronic databases and the internet transformed that process by […] The post AI will revolutionise science without requiring AI g…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ** — Score 5, observation — [Quelle](https://note.com/wakabame/n/nc76b65a187bb)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-17T13:10:43+00:00`, fetched `2026-11-18T01:01:43+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を圧倒的にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
