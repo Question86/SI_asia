@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T06:51:54+00:00",
+  "generated_at": "2026-11-18T06:59:38+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 37,
     "clusters": 35,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 10
   },
   "clusters": [
@@ -129,44 +129,6 @@
       "first_seen_at": "2026-06-19T11:28:55+00:00"
     },
     {
-      "key": "title:singapore-botsync-takes-its-physical-pitch-11m-fresh",
-      "title": "Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 20.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.1,
-      "ranking_score": 20.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-11-18T06:26:57+00:00"
-    },
-    {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
       "sources": [
@@ -243,44 +205,6 @@
       "first_seen_at": "2026-11-18T05:14:19+00:00"
     },
     {
-      "key": "title:android",
-      "title": "Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性",
-      "sources": [
-        "JVN Japan Vulnerability Notes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jvn.jp/jp/JVN19906678/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.53,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 16.53,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.03,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-09T12:51:45+00:00"
-    },
-    {
       "key": "title:high-performing-teams-don-avoid-conflict-they-know",
       "title": "High performing teams don’t avoid conflict. They know how to lead through it",
       "sources": [
@@ -317,6 +241,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-18T05:02:47+00:00"
+    },
+    {
+      "key": "title:android",
+      "title": "Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN19906678/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.42,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 16.42,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.92,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-09T12:51:45+00:00"
     },
     {
       "key": "earthquake:indonesia:5.8",
@@ -417,20 +379,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.26,
+      "network_score": 15.22,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.4,
-      "ranking_score": 15.26,
+      "ranking_score": 15.22,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.86,
+      "baseline_bonus": 0.82,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -438,6 +400,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-03T21:47:43+00:00"
+    },
+    {
+      "key": "title:singapore-botsync-takes-its-physical-pitch-11m-fresh",
+      "title": "Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.1,
+      "ranking_score": 14.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-18T06:26:57+00:00"
     },
     {
       "key": "earthquake:indonesia:5.2",
@@ -1376,7 +1376,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-18T06:51:56Z",
+    "generated_at": "2026-11-18T06:59:39Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
