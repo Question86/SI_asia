@@ -24,6 +24,48 @@
     "id": "181587e771fb5c01e532"
   },
   {
+    "title": "Updates | ReliefWeb",
+    "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+    "source": "ReliefWeb Mindanao Recovery Watch",
+    "source_type": "webpage_check",
+    "published_at": "2026-11-18T00:36:14+00:00",
+    "fetched_at": "2026-11-18T00:36:40+00:00",
+    "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "General Santos",
+      "Glan",
+      "recovery",
+      "relief",
+      "Sarangani",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "1c9f6c46988b413db275"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
     "url": "https://jvn.jp/vu/JVNVU99888632/",
     "source": "JVN Japan Vulnerability Notes",
@@ -45,5 +87,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "934409438cad3d7a4063"
+  },
+  {
+    "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
+    "url": "https://japan.cnet.com/article/35254996/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-17T07:22:06+00:00",
+    "fetched_at": "2026-11-18T00:36:40+00:00",
+    "summary": "Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4cda7d7553e423657437"
   }
 ]
