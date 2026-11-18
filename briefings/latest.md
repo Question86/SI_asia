@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T02:35:59+00:00_
+_Generiert: 2026-11-18T02:43:29+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+14 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,10 @@ _Generiert: 2026-11-18T02:35:59+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.
-- **USGS earthquake M5.9 - 151 km SSW of Merizo Village, Guam** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pt26322050)
+- **USGS earthquake M5.8 - 150 km SW of Merizo Village, Guam** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi)
   - Quelle: USGS
-  - Zeit: `2026-11-18T02:22:58+00:00`
-  - Kurz: M5.9 - 151 km SSW of Merizo Village, Guam. PAGER alert: none. Tsunami flag: 0.
+  - Zeit: `2026-11-18T02:22:56+00:00`
+  - Kurz: M5.8 - 150 km SW of Merizo Village, Guam. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -88,7 +88,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T02:35:49+00:00`, fetched `2026-11-18T02:35:31+00:00`
+  - Zeit: published `2026-11-18T02:43:18+00:00`, fetched `2026-11-18T02:43:02+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -116,6 +116,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.8 - 150 km SW of Merizo Village, Guam** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-18T02:41:37.307+00:00`, fetched `2026-11-18T02:43:02+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - I DYFI? - III Time 2026-11-18 02:22:56 UTC 2026-11-18 02:22:56 UTC at epicenter Location 12.139°N 143.887°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Google「Gemini Notebook」、業務ツールを生成できる新機能** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254996/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-17T07:22:06+00:00`, fetched `2026-11-18T00:36:40+00:00`

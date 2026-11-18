@@ -28,8 +28,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T02:35:49+00:00",
-    "fetched_at": "2026-11-18T02:35:31+00:00",
+    "published_at": "2026-11-18T02:43:18+00:00",
+    "fetched_at": "2026-11-18T02:43:02+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -63,7 +63,7 @@
       "HD",
       "LOW"
     ],
-    "id": "e266f0e7fdbe738c7aa7"
+    "id": "fa5914fb9892eb908918"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -109,6 +109,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "35532ad99aa43c778e08"
+  },
+  {
+    "title": "M 5.8 - 150 km SW of Merizo Village, Guam",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-18T02:41:37.307+00:00",
+    "fetched_at": "2026-11-18T02:43:02+00:00",
+    "summary": "ShakeMap - I DYFI? - III Time 2026-11-18 02:22:56 UTC 2026-11-18 02:22:56 UTC at epicenter Location 12.139°N 143.887°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "01fd63d55b0661011b5c"
   },
   {
     "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
