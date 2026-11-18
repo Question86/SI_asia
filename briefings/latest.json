@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T13:21:41+00:00",
-  "run_id": "2026-11-18T13:21:41+00:00",
+  "generated_at": "2026-11-18T13:27:34+00:00",
+  "run_id": "2026-11-18T13:27:34+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 100,
     "displayed_findings": 100,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T13:21:29+00:00",
-        "fetched_at": "2026-11-18T13:21:10+00:00",
+        "published_at": "2026-11-18T13:27:23+00:00",
+        "fetched_at": "2026-11-18T13:27:04+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "0579cd676da85055da66"
+        "id": "b6ee7eab03f691a359dd"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2556,8 +2556,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T13:21:29+00:00",
-      "fetched_at": "2026-11-18T13:21:10+00:00",
+      "published_at": "2026-11-18T13:27:23+00:00",
+      "fetched_at": "2026-11-18T13:27:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2591,7 +2591,7 @@
         "HD",
         "LOW"
       ],
-      "id": "0579cd676da85055da66"
+      "id": "b6ee7eab03f691a359dd"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -5075,8 +5075,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T13:21:29+00:00",
-      "fetched_at": "2026-11-18T13:21:10+00:00",
+      "published_at": "2026-11-18T13:27:23+00:00",
+      "fetched_at": "2026-11-18T13:27:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5110,27 +5110,7 @@
         "HD",
         "LOW"
       ],
-      "id": "0579cd676da85055da66"
-    },
-    {
-      "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
-      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-11-18T13:05:00.000+00:00",
-      "fetched_at": "2026-11-18T13:21:10+00:00",
-      "summary": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6f9f35533a0178a58f85"
+      "id": "b6ee7eab03f691a359dd"
     }
   ],
   "source_errors": [],
