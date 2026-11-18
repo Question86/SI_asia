@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-18T08:01:20+00:00_
+_Generated: 2026-11-18T08:22:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `40`
 
 ## Top Signals
 
@@ -18,7 +18,7 @@ _Generated: 2026-11-18T08:01:20+00:00_
 ### 2. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-18T07:39:36+00:00`
+- published: `2026-11-18T08:19:05+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-18T08:01:20+00:00_
 - url: https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/
 - summary: For most of its seven years, Botsync has been known for its heavy-duty robots that haul pallets around factory floors. Its new pitch is that the robots matter less than the software telling them what to do. The Singapore-headquartered robotics company has rai…
 
-### 7. M 5.8 - 150 km SW of Merizo Village, Guam
+### 7. Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-11-18T08:15:23+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260102.en.html
+- summary: Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45
+
+### 8. M 5.8 - 150 km SW of Merizo Village, Guam
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-11-18T02:41:37.307+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi
 - summary: ShakeMap - I DYFI? - III Time 2026-11-18 02:22:56 UTC 2026-11-18 02:22:56 UTC at epicenter Location 12.139°N 143.887°E Depth 10.00 km (6.21 mi)
-
-### 8. Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-11-18T04:00:26+00:00`
-- url: https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/
-- summary: When building production-grade enterprise artificial intelligence solutions in India, developers quickly confront an invisible financial penalty. Two users can submit the exact same prompt, identical in meaning and intent, to a commercial Large Language Model…
 
 END OF DOCUMENT

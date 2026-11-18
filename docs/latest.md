@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T08:01:20+00:00_
+_Generiert: 2026-11-18T08:22:10+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+40 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -23,7 +23,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T07:39:36+00:00`, fetched `2026-11-18T07:45:52+00:00`
+  - Zeit: published `2026-11-18T08:19:05+00:00`, fetched `2026-11-18T08:21:41+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -131,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: For most of its seven years, Botsync has been known for its heavy-duty robots that haul pallets around factory floors. Its new pitch is that the robots matter less than the software telling them what to do. The Singapore-headquartered robotics company has raised US$11 million in a round led by IvyCap Ventures, with participation from […] The post Singapore’s Botsync takes its Physical AI pitch to the US with US$11M…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260102.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-11-18T08:15:23+00:00`, fetched `2026-11-18T08:21:41+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.8 - 150 km SW of Merizo Village, Guam** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
