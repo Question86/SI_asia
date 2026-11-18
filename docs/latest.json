@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T19:08:13+00:00",
-  "run_id": "2026-11-18T19:08:13+00:00",
+  "generated_at": "2026-11-18T19:16:06+00:00",
+  "run_id": "2026-11-18T19:16:06+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 125
+      "configured_public_sources_only": 126
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 125,
-    "displayed_findings": 125,
+    "today_file_total": 126,
+    "displayed_findings": 126,
     "high": 0,
     "medium": 67,
-    "observe": 58,
+    "observe": 59,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T19:03:47+00:00",
-        "fetched_at": "2026-11-18T19:07:43+00:00",
+        "published_at": "2026-11-18T19:11:33+00:00",
+        "fetched_at": "2026-11-18T19:15:42+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "10dace3be4d074f9bf94"
+        "id": "ae42b166833510c701fd"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2000,6 +2000,42 @@
         "id": "f2b0457bf19191a6854a"
       },
       {
+        "title": "M 4.5 - 23 km SSW of Ollagüe, Chile",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-18T19:12:25.040+00:00",
+        "fetched_at": "2026-11-18T19:15:42+00:00",
+        "summary": "Time 2026-11-18 18:46:53 UTC 2026-11-18 18:46:53 UTC at epicenter Location 21.411°S 68.368°W Depth 133.87 km (83.18 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "3191d2be1a65e2537cdb"
+      },
+      {
         "title": "Security risk assessments run automatically on GitHub Team",
         "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
         "source": "GitHub Changelog Atom",
@@ -3193,8 +3229,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T19:03:47+00:00",
-      "fetched_at": "2026-11-18T19:07:43+00:00",
+      "published_at": "2026-11-18T19:11:33+00:00",
+      "fetched_at": "2026-11-18T19:15:42+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3228,7 +3264,7 @@
         "HD",
         "LOW"
       ],
-      "id": "10dace3be4d074f9bf94"
+      "id": "ae42b166833510c701fd"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -5157,6 +5193,42 @@
       "id": "f2b0457bf19191a6854a"
     },
     {
+      "title": "M 4.5 - 23 km SSW of Ollagüe, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T19:12:25.040+00:00",
+      "fetched_at": "2026-11-18T19:15:42+00:00",
+      "summary": "Time 2026-11-18 18:46:53 UTC 2026-11-18 18:46:53 UTC at epicenter Location 21.411°S 68.368°W Depth 133.87 km (83.18 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3191d2be1a65e2537cdb"
+    },
+    {
       "title": "Security risk assessments run automatically on GitHub Team",
       "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
       "source": "GitHub Changelog Atom",
@@ -6349,8 +6421,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T19:03:47+00:00",
-      "fetched_at": "2026-11-18T19:07:43+00:00",
+      "published_at": "2026-11-18T19:11:33+00:00",
+      "fetched_at": "2026-11-18T19:15:42+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -6384,27 +6456,43 @@
         "HD",
         "LOW"
       ],
-      "id": "10dace3be4d074f9bf94"
+      "id": "ae42b166833510c701fd"
     },
     {
-      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-      "source": "Federal Reserve Monetary Policy Press Releases",
+      "title": "M 4.5 - 23 km SSW of Ollagüe, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-18T19:00:00+00:00",
-      "fetched_at": "2026-11-18T19:07:43+00:00",
-      "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "published_at": "2026-11-18T19:12:25.040+00:00",
+      "fetched_at": "2026-11-18T19:15:42+00:00",
+      "summary": "Time 2026-11-18 18:46:53 UTC 2026-11-18 18:46:53 UTC at epicenter Location 21.411°S 68.368°W Depth 133.87 km (83.18 mi)",
       "matched_keywords": [
-        "Macro/Policy"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "961848188573b25dd753"
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3191d2be1a65e2537cdb"
     }
   ],
   "source_errors": [],
