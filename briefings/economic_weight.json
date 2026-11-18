@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T05:03:12+00:00",
+  "generated_at": "2026-11-18T05:14:40+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2128,7 +2128,7 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -2319,6 +2319,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_64c0a9f915788a911bc9",
+      "title": "M 5.8 - 40 km N of Ruteng, Indonesia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1176000.0,
+      "p50_usd": 117600000.0,
+      "p90_usd": 11760000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_80a8c2f24f3f9b568102",
       "title": "M 6.6 - 115 km NNE of Teluknaga, Indonesia",
       "event_classes": [
@@ -2368,23 +2385,6 @@
       "first_seen_at": "2026-11-06T11:01:03+00:00",
       "last_seen_at": "2026-11-06T23:46:43+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_64c0a9f915788a911bc9",
-      "title": "M 5.8 - 40 km N of Ruteng, Indonesia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1176000.0,
-      "p50_usd": 117600000.0,
-      "p90_usd": 11760000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-11-18T05:02:47+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0dbc2a8e23686f5fe6f7",
@@ -2672,7 +2672,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -2706,7 +2706,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -4610,7 +4610,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-18T02:43:31+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -8656,7 +8656,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-18T02:36:02+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -11971,7 +11971,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-18T01:19:05+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -12294,7 +12294,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-18T03:57:29+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -14096,7 +14096,7 @@
       "p90_usd": 3060000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T02:44:48+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -14266,7 +14266,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -15541,7 +15541,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-18T01:35:11+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -15711,7 +15711,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:06:13+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -17480,7 +17480,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-18T04:39:26+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -20578,6 +20578,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_1bca3cdef09969396628",
+      "title": "Singapore fintechs are pouring money into AI. The returns are not keeping up",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-18T05:14:19+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_064006df2c404d32a98b",
       "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
       "event_classes": [
@@ -21054,6 +21071,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d5fd589ef7a2b45b440c",
+      "title": "High performing teams don’t avoid conflict. They know how to lead through it",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116000.0,
+      "p50_usd": 11600000.0,
+      "p90_usd": 1160000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d6e61e2673b99a2751d1",
       "title": "Granite Asia, Google AI Futures Fund team up to back Asia’s AI founders",
       "event_classes": [
@@ -21103,23 +21137,6 @@
       "first_seen_at": "2026-11-04T07:58:53+00:00",
       "last_seen_at": "2026-11-04T23:46:50+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d5fd589ef7a2b45b440c",
-      "title": "High performing teams don’t avoid conflict. They know how to lead through it",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116000.0,
-      "p50_usd": 11600000.0,
-      "p90_usd": 1160000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-18T05:02:47+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_070b081f5eeabbc39c41",
@@ -27733,7 +27750,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-18T03:08:00+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -28260,7 +28277,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -28345,7 +28362,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-18T04:04:44+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
@@ -31272,7 +31289,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-18T04:19:53+00:00",
       "last_seen_at": "2026-11-18T05:02:47+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_41336fe9c38af973bcde",
@@ -33009,6 +33026,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c523f228e1fcf986b2eb",
+      "title": "AI makes video production faster. The real test is how teams handle feedback",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "production"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_c88c7915df496bb530c2",
       "title": "TVerにおけるテスト自動化の歩み - TVer Tech Blog",
       "event_classes": [
@@ -33874,23 +33908,6 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c523f228e1fcf986b2eb",
-      "title": "AI makes video production faster. The real test is how teams handle feedback",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "production"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-18T05:02:47+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_041397919a21c7984d11",
@@ -38600,7 +38617,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-11-18T05:02:47+00:00",
+      "last_seen_at": "2026-11-18T05:14:19+00:00",
       "status": "active"
     },
     {
