@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T02:43:29+00:00_
+_Generiert: 2026-11-18T02:50:59+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,10 @@ _Generiert: 2026-11-18T02:43:29+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in South Africa
-- **GDACS: Green flood alert in Spain** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104287)
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577901)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Spain
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].
 - **GDACS: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (15.432 million in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001351)
   - Quelle: GDACS
   - Zeit: ``
@@ -60,7 +60,7 @@ _Generiert: 2026-11-18T02:43:29+00:00_
 - **USGS earthquake M5.8 - 150 km SW of Merizo Village, Guam** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi)
   - Quelle: USGS
   - Zeit: `2026-11-18T02:22:56+00:00`
-  - Kurz: M5.8 - 150 km SW of Merizo Village, Guam. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.8 - 150 km SW of Merizo Village, Guam. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -88,7 +88,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T02:43:18+00:00`, fetched `2026-11-18T02:43:02+00:00`
+  - Zeit: published `2026-11-18T02:50:49+00:00`, fetched `2026-11-18T02:50:34+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW

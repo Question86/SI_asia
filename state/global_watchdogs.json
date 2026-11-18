@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:43:31+00:00",
+  "generated_at": "2026-11-18T02:51:01+00:00",
   "sections": {
     "global_security": [
       {
@@ -84,11 +84,11 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Spain",
-        "summary": "Green flood alert in Spain",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].",
         "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104287",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577901",
         "published_at": "",
         "metrics": {}
       },
@@ -136,13 +136,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.8 - 150 km SW of Merizo Village, Guam",
-        "summary": "M5.8 - 150 km SW of Merizo Village, Guam. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.8 - 150 km SW of Merizo Village, Guam. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi",
         "published_at": "2026-11-18T02:22:56+00:00",
         "metrics": {
           "mag": 5.8,
-          "alert": "",
+          "alert": "green",
           "sig": 520.0,
           "tsunami": 0
         }
