@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-18T07:46:25+00:00",
+  "generated_at": "2026-11-18T08:01:24+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 37,
-    "clusters": 35,
+    "findings": 39,
+    "clusters": 37,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -127,6 +127,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-19T11:28:55+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3070"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 19.1,
+      "ranking_score": 18.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -301,18 +339,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.89,
+      "network_score": 15.78,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.1,
-      "ranking_score": 15.89,
+      "ranking_score": 15.78,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.39,
+      "baseline_bonus": 0.28,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -379,20 +417,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.04,
+      "network_score": 15.0,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.4,
-      "ranking_score": 15.04,
+      "ranking_score": 15.0,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.64,
+      "baseline_bonus": 0.6,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -520,6 +558,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-11-18T06:26:57+00:00"
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "N-able stopft attackierte Sicherheitslecks in N-central",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/N-able-stopft-attackierte-Sicherheitslecks-in-N-central-11528739.html"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.03,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 12.03,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.03,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:why-filed-consumer-complaint-against-global-giants-over",
@@ -1376,7 +1452,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-18T07:46:26Z",
+    "generated_at": "2026-11-18T08:01:24Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

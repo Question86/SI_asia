@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T07:46:23+00:00_
+_Generiert: 2026-11-18T08:01:20+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+39 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -102,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 宮内庁が提供するAndroidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3070)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-18T07:42:01+00:00`, fetched `2026-11-18T08:00:50+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in SmarterTools SmarterMail ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Berechtigungen zu erweitern, Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen, Benutzerkonten aufzulisten oder andere, nicht näher spezifizierte Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -176,6 +185,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **N-able stopft attackierte Sicherheitslecks in N-central** — Score 7, observation — [Quelle](https://www.heise.de/news/N-able-stopft-attackierte-Sicherheitslecks-in-N-central-11528739.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-18T07:48:00.000+00:00`, fetched `2026-11-18T08:00:50+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Am Wochenende wurden Angriffe auf Lücken in der Fernüberwachung N-central bekannt. Nun stehen Updates bereit, die sie schließen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2157432.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
