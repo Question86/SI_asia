@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T03:33:17+00:00",
-  "run_id": "2026-11-18T03:33:17+00:00",
+  "generated_at": "2026-11-18T03:48:05+00:00",
+  "run_id": "2026-11-18T03:48:05+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 5,
+    "medium": 6,
     "observe": 14,
     "source_errors": 0
   },
@@ -58,8 +58,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T03:33:06+00:00",
-        "fetched_at": "2026-11-18T03:32:49+00:00",
+        "published_at": "2026-11-18T03:39:56+00:00",
+        "fetched_at": "2026-11-18T03:47:36+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +93,7 @@
           "HD",
           "LOW"
         ],
-        "id": "683a16ca19d37ff75366"
+        "id": "d91033fc48d37fdadff6"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -117,6 +117,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "934409438cad3d7a4063"
+      },
+      {
+        "title": "M 4.8 - 134 km ENE of Nabire, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-18T03:42:34.040+00:00",
+        "fetched_at": "2026-11-18T03:47:36+00:00",
+        "summary": "Time 2026-11-18 03:23:58 UTC 2026-11-18 03:23:58 UTC at epicenter Location 2.991°S 136.658°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d0666620c44c7714d3c8"
       },
       {
         "title": "Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性",
@@ -537,8 +574,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T03:33:06+00:00",
-      "fetched_at": "2026-11-18T03:32:49+00:00",
+      "published_at": "2026-11-18T03:39:56+00:00",
+      "fetched_at": "2026-11-18T03:47:36+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -572,7 +609,7 @@
         "HD",
         "LOW"
       ],
-      "id": "683a16ca19d37ff75366"
+      "id": "d91033fc48d37fdadff6"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -596,6 +633,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "934409438cad3d7a4063"
+    },
+    {
+      "title": "M 4.8 - 134 km ENE of Nabire, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T03:42:34.040+00:00",
+      "fetched_at": "2026-11-18T03:47:36+00:00",
+      "summary": "Time 2026-11-18 03:23:58 UTC 2026-11-18 03:23:58 UTC at epicenter Location 2.991°S 136.658°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d0666620c44c7714d3c8"
     },
     {
       "title": "Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性",
@@ -989,8 +1063,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T03:33:06+00:00",
-      "fetched_at": "2026-11-18T03:32:49+00:00",
+      "published_at": "2026-11-18T03:39:56+00:00",
+      "fetched_at": "2026-11-18T03:47:36+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1024,28 +1098,44 @@
         "HD",
         "LOW"
       ],
-      "id": "683a16ca19d37ff75366"
+      "id": "d91033fc48d37fdadff6"
     },
     {
-      "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita",
-      "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.8 - 134 km ENE of Nabire, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-17T05:33:02+00:00",
-      "fetched_at": "2026-11-18T03:32:49+00:00",
-      "summary": "はじめに AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。 部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。 そして諸君は、そのスライドをひと目見てこう思ったはずだ。 「これ、生成AIで作ったでしょ？」 と。本記事では、AIのスライドがなぜ「Claude...",
+      "published_at": "2026-11-18T03:42:34.040+00:00",
+      "fetched_at": "2026-11-18T03:47:36+00:00",
+      "summary": "Time 2026-11-18 03:23:58 UTC 2026-11-18 03:23:58 UTC at epicenter Location 2.991°S 136.658°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a739238cd0efda1e020a"
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d0666620c44c7714d3c8"
     }
   ],
   "source_errors": [],
