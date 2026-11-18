@@ -1,19 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-18T12:59:01+00:00_
+_Generiert: 2026-11-18T13:10:07+00:00_
 
-## Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook
-
-- Ranking Score: `22.17`
-- Raw Network Score: `25.3`
-- Max Monitor Score: `13`
-- Reichweite: `institutional` / `5.0`
-- Early Signal: `nein`
-- Dominanter Emitter: `ja`
-- Quellen: ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews
-- Klassen: central_bank, tier3_specialist
-- Cross-source bestaetigt: ja
-- Momentum: stable (+0)
-- Erste Quelle: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html
-- Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
+Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
 
