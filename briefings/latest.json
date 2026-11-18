@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T11:43:02+00:00",
-  "run_id": "2026-11-18T11:43:02+00:00",
+  "generated_at": "2026-11-18T11:48:05+00:00",
+  "run_id": "2026-11-18T11:48:05+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 1,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
-    "medium": 47,
+    "medium": 48,
     "observe": 32,
     "source_errors": 0
   },
@@ -720,6 +720,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4c6f8a8d20c9a504b797"
+      },
+      {
+        "title": "[NEU] [hoch] ILIAS: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4640",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T11:42:00+00:00",
+        "fetched_at": "2026-11-18T11:47:38+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um Informationen offenzulegen oder Administratorenrechte zu erlangen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1fbdc79623c40530138f"
       },
       {
         "title": "[NEU] [hoch] FreeBSD OS: Mehrere Schwachstellen",
@@ -2747,6 +2770,29 @@
       "id": "4c6f8a8d20c9a504b797"
     },
     {
+      "title": "[NEU] [hoch] ILIAS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4640",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T11:42:00+00:00",
+      "fetched_at": "2026-11-18T11:47:38+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um Informationen offenzulegen oder Administratorenrechte zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1fbdc79623c40530138f"
+    },
+    {
       "title": "[NEU] [hoch] FreeBSD OS: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4639",
       "source": "BSI CERT-Bund Security Advisories",
@@ -4077,55 +4123,13 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-18T11:42:51+00:00",
-      "fetched_at": "2026-11-18T11:42:31+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "bef2132e4e810116b8b7"
-    },
-    {
-      "title": "[NEU] [hoch] FreeBSD OS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4639",
+      "title": "[NEU] [hoch] ILIAS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4640",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-18T11:32:01+00:00",
-      "fetched_at": "2026-11-18T11:42:31+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeBSD OS ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen, Berechtigungen zu erweitern – einschließlich auf Root-Rechte – und möglicherweise beliebigen Code im Kernel oder mit Root-Rechten auszuführen.",
+      "published_at": "2026-11-18T11:42:00+00:00",
+      "fetched_at": "2026-11-18T11:47:38+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um Informationen offenzulegen oder Administratorenrechte zu erlangen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -4139,7 +4143,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7389f4893e6bf3b05e4b"
+      "id": "1fbdc79623c40530138f"
     }
   ],
   "source_errors": [],
