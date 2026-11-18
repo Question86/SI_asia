@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T06:06:45+00:00_
+_Generiert: 2026-11-18T06:26:54+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+37 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,10 @@ _Generiert: 2026-11-18T06:06:45+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 130 .
+- **USGS earthquake M5.9 - 85 km WNW of San Juan, Peru** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8)
+  - Quelle: USGS
+  - Zeit: `2026-11-18T06:07:42+00:00`
+  - Kurz: M5.9 - 85 km WNW of San Juan, Peru. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -84,7 +88,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T06:06:33+00:00`, fetched `2026-11-18T06:06:07+00:00`
+  - Zeit: published `2026-11-18T06:26:43+00:00`, fetched `2026-11-18T06:26:26+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -166,6 +170,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.9 - 85 km WNW of San Juan, Peru** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-18T06:26:01.066+00:00`, fetched `2026-11-18T06:26:26+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - IV Time 2026-11-18 06:07:42 UTC 2026-11-18 06:07:42 UTC at epicenter Location 15.144°S 75.924°W Depth 21.90 km (13.60 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding** — Score 13, observation — [Quelle](https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-18T06:23:28+00:00`, fetched `2026-11-18T06:26:26+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, funding
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: For most of its seven years, Botsync has been known for its heavy-duty robots that haul pallets around factory floors. Its new pitch is that the robots matter less than the software telling them what to do. The Singapore-headquartered robotics company has raised US$11 million in a round led by IvyCap Ventures, with participation from […] The post Singapore’s Botsync takes its Physical AI pitch to the US with US$11M…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.8 - 150 km SW of Merizo Village, Guam** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-18T02:41:37.307+00:00`, fetched `2026-11-18T02:43:02+00:00`
@@ -211,15 +233,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-18 05:25:43 UTC 2026-11-18 05:25:43 UTC at epicenter Location 0.435°N 103.084°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.8 - 99 km ESE of Madang, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-18T03:55:54.040+00:00`, fetched `2026-11-18T03:56:55+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-18 03:42:34 UTC 2026-11-18 03:42:34 UTC at epicenter Location 5.701°S 146.548°E Depth 52.29 km (32.49 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter** — Score 9, observation — [Quelle](https://note.com/unsoluble_sugar/n/n58c97b4dee67)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-16T01:04:11+00:00`, fetched `2026-11-18T01:01:43+00:00`
@@ -228,15 +241,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI makes video production faster. The real test is how teams handle feedback** — Score 8, observation — [Quelle](https://e27.co/ai-makes-video-production-faster-the-real-test-is-how-teams-handle-feedback-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-18T05:00:57+00:00`, fetched `2026-11-18T05:02:14+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: AI video tools are making it easier to create images and turn them into moving footage. But in commercial production, generating a shot is only one step. The real challenge is turning a creative brief into a finished video while responding to changing feedback and working within a tight deadline. I experienced this while working […] The post AI makes video production faster. The real test is how teams handle feedbac…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2157432.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -257,7 +261,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
