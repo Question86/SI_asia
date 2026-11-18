@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-18T00:52:12Z",
+  "generated_at": "2026-11-18T01:12:22Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU99888632/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -36,40 +36,11 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 151.56,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 151.6d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
       "url": "https://jvn.jp/vu/JVNVU96847970/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 151.95,
+      "age_days": 151.97,
       "topics": [
         "general"
       ],
@@ -93,11 +64,68 @@
       "summary": ""
     },
     {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "published_at": "2026-06-19T11:28:55+00:00",
+      "age_days": 151.57,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 151.6d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
+      "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 78.27,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 7.83,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 7.83",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 78.3d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
       "url": "https://jvn.jp/vu/JVNVU96847970/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:15+09:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -123,7 +151,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-18T00:36:14+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro",
@@ -152,7 +180,7 @@
       "url": "https://jvn.jp/vu/JVNVU99888632/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 151.95,
+      "age_days": 151.97,
       "topics": [
         "general"
       ],
@@ -177,33 +205,106 @@
       "url": "https://japan.cnet.com/article/35254996/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 151.65,
+      "age_days": 151.66,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.69,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 151.6d old signal"
+        "aging penalty -8.0 for 151.7d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
+      "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-16T01:04:11+00:00",
+      "age_days": 2.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf..."
+    },
+    {
+      "title": "AI will revolutionise science without requiring AI geniuses",
+      "url": "https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-18T01:02:15+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
+      "url": "https://note.com/wakabame/n/nc76b65a187bb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-17T13:10:43+00:00",
+      "age_days": 0.5,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を圧倒的にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記..."
     },
     {
       "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
       "url": "https://japan.cnet.com/article/35254996/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T07:22:06+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -233,9 +334,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 2,
-      "quiet": 1
+      "strong": 6,
+      "watch": 1,
+      "quiet": 5
     }
   }
 }

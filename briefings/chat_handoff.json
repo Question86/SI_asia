@@ -90,5 +90,149 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
+        "url": "https://jvn.jp/vu/JVNVU99888632/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-18T09:00:00+09:00",
+        "age_days": 0.05,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: cisa, jvn, security, advisory"
+        ],
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
+        "url": "https://jvn.jp/vu/JVNVU96847970/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 151.97,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 152.0d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Updates | ReliefWeb",
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-06-19T11:28:55+00:00",
+        "age_days": 151.57,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 151.6d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
+        "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T18:43:10+00:00",
+        "age_days": 78.27,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 7.83,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 7.83",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 78.3d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
+        "url": "https://jvn.jp/vu/JVNVU96847970/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-18T09:00:15+09:00",
+        "age_days": 0.05,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: code",
+          "security high-signal: code",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "OpenSSL ProjectからOpenSSL Security Advisory [17th November 2026]が公開されました。"
+      }
+    ]
+  }
 }
