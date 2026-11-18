@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T02:36:24+00:00",
+  "generated_at": "2026-11-18T02:44:01+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1669,7 +1669,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-18T02:16:59+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
       "status": "active"
     },
     {
@@ -2128,7 +2128,7 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
       "status": "active"
     },
     {
@@ -6212,6 +6212,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_41ddd867fabc5d38fbfd",
+      "title": "M 5.8 - 150 km SW of Merizo Village, Guam",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-18T02:43:31+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_00e85c3d2c185ba34101",
       "title": "M 4.9 - 12 km SSW of Tebario, Panama",
       "event_classes": [
@@ -8607,6 +8624,23 @@
       "first_seen_at": "2026-10-24T11:45:19+00:00",
       "last_seen_at": "2026-10-24T20:50:06+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_53cccc696df65345636b",
+      "title": "M 5.9 - 151 km SSW of Merizo Village, Guam",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_556ff8be15b3d34edda7",
@@ -11920,7 +11954,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-18T01:19:05+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
       "status": "active"
     },
     {
@@ -13947,23 +13981,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_53cccc696df65345636b",
-      "title": "M 5.9 - 151 km SSW of Merizo Village, Guam",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-11-18T02:36:02+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_2bb9a382978abc72cb41",
       "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
       "event_classes": [
@@ -14045,7 +14062,7 @@
       "p90_usd": 3060000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-01T02:44:48+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
       "status": "active"
     },
     {
@@ -14215,7 +14232,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
       "status": "active"
     },
     {
@@ -15490,7 +15507,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-18T01:35:11+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
       "status": "active"
     },
     {
@@ -28158,7 +28175,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
       "status": "active"
     },
     {
@@ -33617,7 +33634,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-18T01:02:15+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
       "status": "active"
     },
     {
@@ -38430,7 +38447,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
       "status": "active"
     },
     {
@@ -39267,6 +39284,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5142c6d72c5df7aa7b0e",
+      "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_52fb1d3cabccc6ee2961",
       "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
       "event_classes": [
@@ -39741,6 +39775,23 @@
       "first_seen_at": "2026-09-08T00:00:49+00:00",
       "last_seen_at": "2026-09-08T05:51:06+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6032caea364c7d45c48d",
+      "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-18T02:36:02+00:00",
+      "last_seen_at": "2026-11-18T02:43:31+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_60461bb4ab1569bd05fc",
@@ -43634,40 +43685,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_6032caea364c7d45c48d",
-      "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-18T02:36:02+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_5142c6d72c5df7aa7b0e",
-      "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-18T02:36:02+00:00",
-      "last_seen_at": "2026-11-18T02:36:02+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
