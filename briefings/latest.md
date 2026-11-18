@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T09:36:49+00:00_
+_Generiert: 2026-11-18T09:45:03+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T09:36:36+00:00`, fetched `2026-11-18T09:36:19+00:00`
+  - Zeit: published `2026-11-18T09:44:49+00:00`, fetched `2026-11-18T09:44:32+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -306,6 +306,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Geminiが電話も支払いも代行する「タスク」モード、日本でも無料で提供開始 | テクノエッジ TechnoEdge** — Score 8, observation — [Quelle](https://www.techno-edge.net/article/2026/11/18/5756.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-18T00:39:38+00:00`, fetched `2026-11-18T09:44:32+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Googleは11月17日（米国時間）、Geminiアプリに用事を任せられる「タスク」モードを追加したと発表しました。米国、日本、韓国、カナダ、オーストラリア、インドで、無料での提供を始めています。モデルにはGemini 4 Hydrogenを使います。 使い方は、Geminiアプリのホーム画面にある切り替えを「Chat」から「Task」にす...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT** — Score 8, opportunity — [Quelle](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-18T00:00:00+00:00`, fetched `2026-11-18T09:16:59+00:00`
@@ -323,15 +332,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Am Wochenende wurden Angriffe auf Lücken in der Fernüberwachung N-central bekannt. Nun stehen Updates bereit, die sie schließen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2157432.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T05:20:59+00:00`, fetched `2026-11-18T05:55:08+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

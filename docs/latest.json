@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T09:36:49+00:00",
-  "run_id": "2026-11-18T09:36:49+00:00",
+  "generated_at": "2026-11-18T09:45:03+00:00",
+  "run_id": "2026-11-18T09:45:03+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 3,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
-    "medium": 28,
-    "observe": 31,
+    "medium": 29,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T09:36:36+00:00",
-        "fetched_at": "2026-11-18T09:36:19+00:00",
+        "published_at": "2026-11-18T09:44:49+00:00",
+        "fetched_at": "2026-11-18T09:44:32+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e1aa070836e4b65a3d93"
+        "id": "1aba07c79acb180d97f2"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -340,6 +340,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a2a2ccbebfa4915c0cf2"
+      },
+      {
+        "title": "A 750-chip ceiling: How US curbs redraw the map for Malaysia’s AI data centres",
+        "url": "https://e27.co/a-750-chip-ceiling-how-us-curbs-redraw-the-map-for-malaysias-ai-data-centres-20261118/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-18T09:41:02+00:00",
+        "fetched_at": "2026-11-18T09:44:32+00:00",
+        "summary": "For three years, Malaysia sold the world’s AI giants a simple pitch: cheap land, abundant power and a short drive from Singapore. Washington has now added a fourth item to the checklist, and it is the hardest to tick: proof of who your customers really are. Kenanga Research warned in a note on Wednesday that […] The post A 750-chip ceiling: How US curbs redraw the map for Malaysia’s AI data centres appeared first on…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "43f4b40aea0618cc8edb"
       },
       {
         "title": "M 4.8 - 67 km NNE of Ruteng, Indonesia",
@@ -1368,6 +1390,28 @@
         "id": "1629ce7cda6e5dab3153"
       },
       {
+        "title": "Geminiが電話も支払いも代行する「タスク」モード、日本でも無料で提供開始 | テクノエッジ TechnoEdge",
+        "url": "https://www.techno-edge.net/article/2026/11/18/5756.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T00:39:38+00:00",
+        "fetched_at": "2026-11-18T09:44:32+00:00",
+        "summary": "Googleは11月17日（米国時間）、Geminiアプリに用事を任せられる「タスク」モードを追加したと発表しました。米国、日本、韓国、カナダ、オーストラリア、インドで、無料での提供を始めています。モデルにはGemini 4 Hydrogenを使います。 使い方は、Geminiアプリのホーム画面にある切り替えを「Chat」から「Task」にす...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4b70ba36d0b37ec65441"
+      },
+      {
         "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
         "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
         "source": "OpenAI News RSS",
@@ -1582,8 +1626,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T09:36:36+00:00",
-      "fetched_at": "2026-11-18T09:36:19+00:00",
+      "published_at": "2026-11-18T09:44:49+00:00",
+      "fetched_at": "2026-11-18T09:44:32+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1617,7 +1661,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e1aa070836e4b65a3d93"
+      "id": "1aba07c79acb180d97f2"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -1888,6 +1932,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a2a2ccbebfa4915c0cf2"
+    },
+    {
+      "title": "A 750-chip ceiling: How US curbs redraw the map for Malaysia’s AI data centres",
+      "url": "https://e27.co/a-750-chip-ceiling-how-us-curbs-redraw-the-map-for-malaysias-ai-data-centres-20261118/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-18T09:41:02+00:00",
+      "fetched_at": "2026-11-18T09:44:32+00:00",
+      "summary": "For three years, Malaysia sold the world’s AI giants a simple pitch: cheap land, abundant power and a short drive from Singapore. Washington has now added a fourth item to the checklist, and it is the hardest to tick: proof of who your customers really are. Kenanga Research warned in a note on Wednesday that […] The post A 750-chip ceiling: How US curbs redraw the map for Malaysia’s AI data centres appeared first on…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "43f4b40aea0618cc8edb"
     },
     {
       "title": "M 4.8 - 67 km NNE of Ruteng, Indonesia",
@@ -2914,6 +2980,28 @@
       "id": "1629ce7cda6e5dab3153"
     },
     {
+      "title": "Geminiが電話も支払いも代行する「タスク」モード、日本でも無料で提供開始 | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/18/5756.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T00:39:38+00:00",
+      "fetched_at": "2026-11-18T09:44:32+00:00",
+      "summary": "Googleは11月17日（米国時間）、Geminiアプリに用事を任せられる「タスク」モードを追加したと発表しました。米国、日本、韓国、カナダ、オーストラリア、インドで、無料での提供を始めています。モデルにはGemini 4 Hydrogenを使います。 使い方は、Geminiアプリのホーム画面にある切り替えを「Chat」から「Task」にす...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4b70ba36d0b37ec65441"
+    },
+    {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI News RSS",
@@ -3127,8 +3215,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T09:36:36+00:00",
-      "fetched_at": "2026-11-18T09:36:19+00:00",
+      "published_at": "2026-11-18T09:44:49+00:00",
+      "fetched_at": "2026-11-18T09:44:32+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3162,7 +3250,51 @@
         "HD",
         "LOW"
       ],
-      "id": "e1aa070836e4b65a3d93"
+      "id": "1aba07c79acb180d97f2"
+    },
+    {
+      "title": "A 750-chip ceiling: How US curbs redraw the map for Malaysia’s AI data centres",
+      "url": "https://e27.co/a-750-chip-ceiling-how-us-curbs-redraw-the-map-for-malaysias-ai-data-centres-20261118/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-18T09:41:02+00:00",
+      "fetched_at": "2026-11-18T09:44:32+00:00",
+      "summary": "For three years, Malaysia sold the world’s AI giants a simple pitch: cheap land, abundant power and a short drive from Singapore. Washington has now added a fourth item to the checklist, and it is the hardest to tick: proof of who your customers really are. Kenanga Research warned in a note on Wednesday that […] The post A 750-chip ceiling: How US curbs redraw the map for Malaysia’s AI data centres appeared first on…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "43f4b40aea0618cc8edb"
+    },
+    {
+      "title": "Geminiが電話も支払いも代行する「タスク」モード、日本でも無料で提供開始 | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/18/5756.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T00:39:38+00:00",
+      "fetched_at": "2026-11-18T09:44:32+00:00",
+      "summary": "Googleは11月17日（米国時間）、Geminiアプリに用事を任せられる「タスク」モードを追加したと発表しました。米国、日本、韓国、カナダ、オーストラリア、インドで、無料での提供を始めています。モデルにはGemini 4 Hydrogenを使います。 使い方は、Geminiアプリのホーム画面にある切り替えを「Chat」から「Task」にす...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4b70ba36d0b37ec65441"
     }
   ],
   "source_errors": [],
