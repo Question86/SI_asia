@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-18T20:11:38Z",
+  "generated_at": "2026-11-18T22:10:42Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Barr, Investing in America’s Underserved Communities” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
       "source": "Federal Reserve Monetary Policy Press Releases, Federal Reserve Speeches and Testimony",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 153.23,
+      "age_days": 153.32,
       "topics": [
         "general"
       ],
@@ -26,16 +26,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.34,
+      "baseline_z_hint": 2.09,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 6.34",
+        "baseline z_hint 2.09",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 153.2d old signal",
+        "aging penalty -8.0 for 153.3d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -45,7 +45,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 153.23,
+      "age_days": 153.32,
       "topics": [
         "ai"
       ],
@@ -64,7 +64,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 153.2d old signal",
+        "aging penalty -8.0 for 153.3d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -74,7 +74,7 @@
       "url": "https://jvn.jp/vu/JVNVU99608534/",
       "source": "CERT-EU Security Advisories, JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T01:35:11+00:00",
-      "age_days": 0.78,
+      "age_days": 0.86,
       "topics": [
         "general"
       ],
@@ -101,7 +101,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4649",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:57:01+00:00",
-      "age_days": 0.34,
+      "age_days": 0.43,
       "topics": [
         "security",
         "macro"
@@ -130,7 +130,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4655",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T12:12:01+00:00",
-      "age_days": 0.33,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -156,7 +156,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4647",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:52:01+00:00",
-      "age_days": 0.35,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -182,7 +182,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4643",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:47:01+00:00",
-      "age_days": 0.35,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -208,7 +208,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4456",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:50+00:00",
-      "age_days": 0.37,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -234,7 +234,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4490",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:49+00:00",
-      "age_days": 0.37,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -260,7 +260,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4494",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:48+00:00",
-      "age_days": 0.37,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -286,7 +286,7 @@
       "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-18T17:17:55+00:00",
-      "age_days": 0.12,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -312,7 +312,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T12:32:00+00:00",
-      "age_days": 0.32,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
