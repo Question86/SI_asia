@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T12:34:08+00:00",
-    "fetched_at": "2026-11-18T12:33:49+00:00",
+    "published_at": "2026-11-18T12:44:00+00:00",
+    "fetched_at": "2026-11-18T12:43:45+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "5c9a792ad5a406068fac"
+    "id": "e4d0b176f324cd50e99b"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -788,6 +788,29 @@
       "LOW"
     ],
     "id": "d0666620c44c7714d3c8"
+  },
+  {
+    "title": "[NEU] [hoch] MISP: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4657",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T12:32:00+00:00",
+    "fetched_at": "2026-11-18T12:43:45+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MISP ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3d249b72405dbf4443be"
   },
   {
     "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Offenlegung von Informationen",
