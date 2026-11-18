@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-18T23:11:18Z",
+  "generated_at": "2026-11-18T23:22:39Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Barr, Investing in America’s Underserved Communities” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
       "source": "Federal Reserve Monetary Policy Press Releases, Federal Reserve Speeches and Testimony",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 153.36,
+      "age_days": 153.37,
       "topics": [
         "general"
       ],
@@ -26,13 +26,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.44,
+      "baseline_z_hint": 0.17,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 0.44",
+        "baseline z_hint 0.17",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 153.4d old signal",
@@ -45,7 +45,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 153.36,
+      "age_days": 153.37,
       "topics": [
         "ai"
       ],
@@ -74,7 +74,7 @@
       "url": "https://jvn.jp/vu/JVNVU99608534/",
       "source": "CERT-EU Security Advisories, JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T01:35:11+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "general"
       ],
@@ -101,7 +101,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4649",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:57:01+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security",
         "macro"
@@ -130,7 +130,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4655",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T12:12:01+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -156,7 +156,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4647",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:52:01+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -208,7 +208,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4456",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:50+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -234,7 +234,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4490",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:49+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -260,7 +260,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4494",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:48+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -312,7 +312,7 @@
       "url": "https://openai.com/index/managing-frontier-ai-risk",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 154.1,
+      "age_days": 154.11,
       "topics": [
         "ai"
       ],
@@ -323,12 +323,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.4,
+      "baseline_z_hint": 1.27,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.40",
+        "baseline z_hint 1.27",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 154.1d old signal",
