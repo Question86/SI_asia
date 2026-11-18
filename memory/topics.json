@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T08:39:11+00:00",
+  "generated_at": "2026-11-18T08:50:28+00:00",
   "topics": {
     "security": [
       {
@@ -40,6 +40,27 @@
         "url": "https://jvn.jp/vu/JVNVU99608534/"
       },
       {
+        "title": "[NEU] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:42:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4621"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Hyperion: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:42:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4620"
+      },
+      {
+        "title": "[NEU] [mittel] Oracle Financial Services Applications: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:37:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4619"
+      },
+      {
         "title": "[NEU] [mittel] Oracle Construction and Engineering: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-18T08:27:01+00:00",
@@ -52,34 +73,13 @@
         "published_at": "2026-11-18T08:27:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4617"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle REST Data Services: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-18T08:27:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4618"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-18T08:27:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4616"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Enterprise Manager: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-18T08:27:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4613"
       }
     ],
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-18T08:32:26+00:00",
+        "published_at": "2026-11-18T08:45:00+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -156,6 +156,27 @@
         "url": "https://e27.co/google-catches-ai-agents-hacking-with-no-human-in-the-loop-20261118/"
       },
       {
+        "title": "[NEU] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:42:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4621"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Hyperion: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:42:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4620"
+      },
+      {
+        "title": "[NEU] [mittel] Oracle Financial Services Applications: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:37:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4619"
+      },
+      {
         "title": "[NEU] [mittel] Oracle Construction and Engineering: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-18T08:27:01+00:00",
@@ -196,27 +217,6 @@
         "published_at": "2026-11-18T08:27:00+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4614"
-      },
-      {
-        "title": "Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-18T06:23:28+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/"
-      },
-      {
-        "title": "Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-11-18T08:15:23+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260102.en.html"
-      },
-      {
-        "title": "Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-18T03:00:44+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/"
       }
     ],
     "general": [
