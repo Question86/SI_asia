@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T11:27:58+00:00",
-  "run_id": "2026-11-18T11:27:58+00:00",
+  "generated_at": "2026-11-18T11:35:19+00:00",
+  "run_id": "2026-11-18T11:35:19+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
+    "new_relevant_findings": 1,
     "today_file_total": 78,
     "displayed_findings": 78,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T11:27:46+00:00",
-        "fetched_at": "2026-11-18T11:27:28+00:00",
+        "published_at": "2026-11-18T11:35:07+00:00",
+        "fetched_at": "2026-11-18T11:34:47+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "7bb198399206586e586c"
+        "id": "6a60693a1cc2f7b58da0"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2036,8 +2036,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T11:27:46+00:00",
-      "fetched_at": "2026-11-18T11:27:28+00:00",
+      "published_at": "2026-11-18T11:35:07+00:00",
+      "fetched_at": "2026-11-18T11:34:47+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2071,7 +2071,7 @@
         "HD",
         "LOW"
       ],
-      "id": "7bb198399206586e586c"
+      "id": "6a60693a1cc2f7b58da0"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -4035,8 +4035,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T11:27:46+00:00",
-      "fetched_at": "2026-11-18T11:27:28+00:00",
+      "published_at": "2026-11-18T11:35:07+00:00",
+      "fetched_at": "2026-11-18T11:34:47+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -4070,126 +4070,7 @@
         "HD",
         "LOW"
       ],
-      "id": "7bb198399206586e586c"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (dhcp-server): Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4456",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-18T11:18:50+00:00",
-      "fetched_at": "2026-11-18T11:27:28+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux im dhcp-server ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7987755436cb2221b988"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (crun): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4490",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-18T11:18:49+00:00",
-      "fetched_at": "2026-11-18T11:27:28+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (crun) ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3ddb18f56f50073ea9fb"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4491",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-18T11:18:48+00:00",
-      "fetched_at": "2026-11-18T11:27:28+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Informationen auszulesen oder einen Denial-of-Service-Zustand herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8baf51a5d724bc2630e0"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (microcode_ctl): Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4494",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-18T11:18:48+00:00",
-      "fetched_at": "2026-11-18T11:27:28+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (microcode_ctl) ausnutzen, um seine Privilegien zu erhöhen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f7988a5a9aa3c0657bb9"
-    },
-    {
-      "title": "[UPDATE] [mittel] System Security Services Daemon (SSSD): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4498",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-18T11:18:47+00:00",
-      "fetched_at": "2026-11-18T11:27:28+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in System Security Services Daemon (SSSD) ausnutzen, um einen Denial of Service Angriff durchzuführen oder seine Berechtigungen zu erhöhen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1e03aede8190e787f7f8"
+      "id": "6a60693a1cc2f7b58da0"
     }
   ],
   "source_errors": [],
