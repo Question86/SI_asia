@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-11-18T10:21:08+00:00_
+_Generiert: 2026-11-18T10:27:49+00:00_
 
 ## Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook
 
-- Ranking Score: `25.38`
+- Ranking Score: `25.2`
 - Raw Network Score: `25.3`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
@@ -19,7 +19,7 @@ _Generiert: 2026-11-18T10:21:08+00:00_
 
 ## 複数のJava実行環境におけるヒープベースのバッファオーバーフローの脆弱性
 
-- Ranking Score: `23.34`
+- Ranking Score: `23.23`
 - Raw Network Score: `24.2`
 - Max Monitor Score: `14`
 - Reichweite: `specialist` / `2.5`
