@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T02:51:01+00:00",
+  "generated_at": "2026-11-18T02:58:40+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2853,7 +2853,7 @@
     },
     "title:openssl-2026": {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -2873,8 +2873,8 @@
         25.1,
         25.1,
         25.1,
-        25.1,
         28.1,
+        25.1,
         25.1,
         25.1,
         25.1,
@@ -2955,7 +2955,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2975,8 +2975,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -4536,7 +4536,7 @@
     },
     "domain:japan.cnet.com": {
       "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -4557,8 +4557,8 @@
         12.1,
         12.1,
         12.1,
-        12.1,
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -4799,7 +4799,7 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         25.7,
         25.7,
@@ -4820,8 +4820,8 @@
         25.7,
         25.7,
         25.7,
-        25.7,
         28.7,
+        25.7,
         25.7,
         25.7,
         25.7,
@@ -10376,9 +10376,8 @@
     },
     "domain:note.com": {
       "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
-        11.1,
         11.1,
         11.1,
         11.1,
@@ -10407,12 +10406,13 @@
         13.2,
         13.2,
         13.2,
+        13.2,
         13.2
       ],
-      "rolling_average": 11.93,
+      "rolling_average": 12.0,
       "rolling_peak": 19.2,
       "last_score": 13.2,
-      "z_hint": 1.27
+      "z_hint": 1.2
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -123766,7 +123766,7 @@
     },
     "title:will-revolutionise-science-without-requiring-geniuses": {
       "title": "AI will revolutionise science without requiring AI geniuses",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -123776,16 +123776,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.43,
+      "rolling_average": 10.4,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "earthquake:m 5.3 - 16 km w of nereju mic, romania:5.3": {
       "title": "M 5.3 - 16 km W of Nereju Mic, Romania",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -123794,93 +123795,111 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.08,
+      "rolling_average": 12.03,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "cve:CVE-2026-114938": {
       "title": "複数のJava実行環境におけるヒープベースのバッファオーバーフローの脆弱性",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.6,
+      "rolling_average": 16.53,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:your-startup-may-very-fast-nonsense-factory": {
       "title": "Your AI startup may be a very fast nonsense factory",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         13.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.85,
+      "rolling_average": 10.7,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "earthquake:m 5.9 - 151 km ssw of merizo village, guam:5.9": {
       "title": "M 5.9 - 151 km SSW of Merizo Village, Guam",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         14.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.7,
+      "rolling_average": 12.45,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:infobar-zero-sms": {
       "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.1,
+      "rolling_average": 7.85,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:mai-code-mai-code-flash": {
       "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.1,
+      "rolling_average": 7.85,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "earthquake:m 5.8 - 150 km sw of merizo village, guam:5.8": {
       "title": "M 5.8 - 150 km SW of Merizo Village, Guam",
-      "updated_at": "2026-11-18T02:51:01+00:00",
+      "updated_at": "2026-11-18T02:58:40+00:00",
       "network_scores": [
         16.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 15.2,
+      "rolling_average": 14.7,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "title:gitex-global-2026-race-bring-out-cloud-physical": {
+      "title": "GITEX GLOBAL 2026: The race to bring AI out of the cloud and into the physical world",
+      "updated_at": "2026-11-18T02:58:40+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
     }
   }
 }
