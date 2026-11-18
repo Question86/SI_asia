@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T12:53:14+00:00",
-    "fetched_at": "2026-11-18T12:58:28+00:00",
+    "published_at": "2026-11-18T13:21:29+00:00",
+    "fetched_at": "2026-11-18T13:21:10+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "17d8ab60d1c2c469b0c1"
+    "id": "0579cd676da85055da66"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2287,6 +2287,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7cf7734360e74bd55b95"
+  },
+  {
+    "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
+    "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-11-18T13:05:00.000+00:00",
+    "fetched_at": "2026-11-18T13:21:10+00:00",
+    "summary": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6f9f35533a0178a58f85"
   },
   {
     "title": "N-able stopft attackierte Sicherheitslecks in N-central",
