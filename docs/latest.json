@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T18:06:05+00:00",
-  "run_id": "2026-11-18T18:06:05+00:00",
+  "generated_at": "2026-11-18T18:18:51+00:00",
+  "run_id": "2026-11-18T18:18:51+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 120
+      "configured_public_sources_only": 122
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 120,
-    "displayed_findings": 120,
+    "new_relevant_findings": 2,
+    "today_file_total": 122,
+    "displayed_findings": 122,
     "high": 0,
     "medium": 66,
-    "observe": 54,
+    "observe": 56,
     "source_errors": 0
   },
   "sections": {
@@ -1868,6 +1868,50 @@
         "id": "446d8a42b17db54976bd"
       },
       {
+        "title": "Inside the Codex sandbox",
+        "url": "https://openai.com/index/inside-the-codex-sandbox",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-18T08:00:00+00:00",
+        "fetched_at": "2026-11-18T18:18:22+00:00",
+        "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+        "matched_keywords": [
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "ca6943036083a04063c5"
+      },
+      {
         "title": "Advancing chip design with OpenAI models",
         "url": "https://openai.com/index/advancing-chip-design-with-our-models",
         "source": "OpenAI News RSS",
@@ -2092,6 +2136,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6a6d08df5822c88204f6"
+      },
+      {
+        "title": "The Silent Consensus",
+        "url": "https://openai.com/index/the-silent-consensus",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-18T00:00:00+00:00",
+        "fetched_at": "2026-11-18T18:18:22+00:00",
+        "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e0e45dbd7fc5a04c9740"
       },
       {
         "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
@@ -4860,6 +4925,50 @@
       "id": "446d8a42b17db54976bd"
     },
     {
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "fetched_at": "2026-11-18T18:18:22+00:00",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "matched_keywords": [
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "ca6943036083a04063c5"
+    },
+    {
       "title": "Advancing chip design with OpenAI models",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI News RSS",
@@ -5084,6 +5193,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6a6d08df5822c88204f6"
+    },
+    {
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "fetched_at": "2026-11-18T18:18:22+00:00",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e0e45dbd7fc5a04c9740"
     },
     {
       "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
@@ -6015,114 +6145,69 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-18T18:05:52+00:00",
-      "fetched_at": "2026-11-18T18:05:33+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "fetched_at": "2026-11-18T18:18:22+00:00",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "ai_agents_workflow: Codex"
       ],
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
       ],
-      "id": "f1a581fc1b3b8dcf8bc2"
+      "id": "ca6943036083a04063c5"
     },
     {
-      "title": "[MàJ] Vulnérabilités affectant OpenPrinting CUPS (27 septembre 2024)",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-012/",
-      "source": "CERT-FR Alertes",
-      "source_type": "rss",
-      "published_at": "2024-09-27T00:00:00+00:00",
-      "fetched_at": "2026-11-18T18:05:33+00:00",
-      "summary": "**[Mise à jour du 10 octobre 2024]** Le 28 septembre 2024, Elastic Security Labs a publié des règles de détection au format propriétaire de l'éditeur (cf. section Documentation), qui sont confirmées par les analyses du CERT-FR pour la détection des attaques connues. **[Publication initiale]** De...",
-      "matched_keywords": [
-        "alerte",
-        "attaque",
-        "CERT-FR",
-        "Security",
-        "vulnérabilité"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); CERT-FR (+2.0); alerte (+2.0); attaque (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "80d2aa4c3d5047653f88"
-    },
-    {
-      "title": "Basel Committee discusses risks and vulnerabilities faced by global banking system",
-      "url": "https://www.bis.org/media-releases/20261118-basel-committee-discusses-risks-and-vulnerabilities-faced-global-banking-system",
-      "source": "BIS Press Releases",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
       "published_at": "2026-11-18T00:00:00+00:00",
-      "fetched_at": "2026-11-18T18:05:33+00:00",
-      "summary": "The Basel Committee on Banking Supervision met in Basel on 18 November 2026 to discuss a range of analytical, supervisory and regulatory initiatives.",
+      "fetched_at": "2026-11-18T18:18:22+00:00",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "matched_keywords": [
-        "Basel",
-        "Macro/Policy"
+        "AI/KI",
+        "OpenAI"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); Basel (+2.5); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2f65c507854a9d8b78c7"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Progress Telerik (13 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1533/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-11-13T00:00:00+00:00",
-      "fetched_at": "2026-11-18T18:05:33+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Progress Telerik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "64143649dae22032ae00"
+      "id": "e0e45dbd7fc5a04c9740"
     }
   ],
   "source_errors": [],
