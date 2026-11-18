@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-11-18T08:22:13+00:00",
-  "today_file_total": 40,
+  "generated_at": "2026-11-18T08:39:13+00:00",
+  "today_file_total": 46,
   "current_clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [mittel] Oracle Construction and Engineering: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4615",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4617",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4618",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4616",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4613",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4614"
+      ],
+      "finding_count": 7,
+      "max_score": 14,
+      "credibility_total": 7.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 6,
+      "momentum_status": "increasing",
+      "network_score": 46.7,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "earthquake:updates | reliefweb:unknown",
       "title": "Updates | ReliefWeb",
@@ -221,29 +249,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45",
-      "sources": [
-        "ECB Open Market Operations and Communication"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260102.en.html"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:android",
       "title": "Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性",
       "sources": [
@@ -290,29 +295,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3070"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "earthquake:m 5.9 - 85 km wnw of san juan, peru:5.9",
       "title": "M 5.9 - 85 km WNW of San Juan, Peru",
       "sources": [
@@ -356,6 +338,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45",
+      "sources": [
+        "ECB Open Market Operations and Communication"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260102.en.html"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

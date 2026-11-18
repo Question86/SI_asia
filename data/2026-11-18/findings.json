@@ -28,8 +28,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T08:19:05+00:00",
-    "fetched_at": "2026-11-18T08:21:41+00:00",
+    "published_at": "2026-11-18T08:32:26+00:00",
+    "fetched_at": "2026-11-18T08:38:44+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -63,7 +63,7 @@
       "HD",
       "LOW"
     ],
-    "id": "458585153c170221f41c"
+    "id": "e32ee877f46488df4916"
   },
   {
     "title": "Google catches AI agents hacking with no human in the loop",
@@ -371,6 +371,144 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "35532ad99aa43c778e08"
+  },
+  {
+    "title": "[NEU] [mittel] Oracle Construction and Engineering: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4615",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T08:27:01+00:00",
+    "fetched_at": "2026-11-18T08:38:44+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Oracle Construction and Engineering ausnutzen, um die Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5f5faf5452a6c7e8df92"
+  },
+  {
+    "title": "[NEU] [mittel] Oracle Commerce: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4617",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T08:27:01+00:00",
+    "fetched_at": "2026-11-18T08:38:44+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Oracle Commerce ausnutzen, um die Vertraulichkeit und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c57bfba1391d4de1d20a"
+  },
+  {
+    "title": "[NEU] [hoch] Oracle REST Data Services: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4618",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T08:27:01+00:00",
+    "fetched_at": "2026-11-18T08:38:44+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle REST Data Services ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "85584b0d955091d81f3c"
+  },
+  {
+    "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4616",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T08:27:01+00:00",
+    "fetched_at": "2026-11-18T08:38:44+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Communications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9a3676de845dcabeab13"
+  },
+  {
+    "title": "[NEU] [hoch] Oracle Enterprise Manager: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4613",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T08:27:00+00:00",
+    "fetched_at": "2026-11-18T08:38:44+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Enterprise Manager ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "db27886d99ce13073fad"
+  },
+  {
+    "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4614",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T08:27:00+00:00",
+    "fetched_at": "2026-11-18T08:38:44+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle E-Business Suite ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3a1aeddfc59e8e01faba"
   },
   {
     "title": "[UPDATE] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",

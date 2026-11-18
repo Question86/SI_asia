@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T08:22:10+00:00_
+_Generiert: 2026-11-18T08:39:11+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+46 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -23,7 +23,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T08:19:05+00:00`, fetched `2026-11-18T08:21:41+00:00`
+  - Zeit: published `2026-11-18T08:32:26+00:00`, fetched `2026-11-18T08:38:44+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -102,14 +102,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 宮内庁が提供するAndroidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3070)
+- **[NEU] [mittel] Oracle Construction and Engineering: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4615)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-18T07:42:01+00:00`, fetched `2026-11-18T08:00:50+00:00`
+  - Zeit: published `2026-11-18T08:27:01+00:00`, fetched `2026-11-18T08:38:44+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in SmarterTools SmarterMail ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Berechtigungen zu erweitern, Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen, Benutzerkonten aufzulisten oder andere, nicht näher spezifizierte Angriffe durchzuführen.
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Oracle Construction and Engineering ausnutzen, um die Integrität und Verfügbarkeit zu gefährden.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [mittel] Oracle Commerce: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4617)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-18T08:27:01+00:00`, fetched `2026-11-18T08:38:44+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Oracle Commerce ausnutzen, um die Vertraulichkeit und Verfügbarkeit zu gefährden.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] Oracle REST Data Services: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4618)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-18T08:27:01+00:00`, fetched `2026-11-18T08:38:44+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle REST Data Services ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
