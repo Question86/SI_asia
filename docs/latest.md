@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T05:32:16+00:00_
+_Generiert: 2026-11-18T05:42:09+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+32 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -23,7 +23,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T05:32:03+00:00`, fetched `2026-11-18T05:31:46+00:00`
+  - Zeit: published `2026-11-18T05:41:57+00:00`, fetched `2026-11-18T05:41:39+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - Galapagos Triple Junction region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxz)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-18T05:38:36.040+00:00`, fetched `2026-11-18T05:41:39+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-18 05:25:43 UTC 2026-11-18 05:25:43 UTC at epicenter Location 0.435°N 103.084°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.8 - 99 km ESE of Madang, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-18T03:55:54.040+00:00`, fetched `2026-11-18T03:56:55+00:00`
@@ -149,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-18 03:42:34 UTC 2026-11-18 03:42:34 UTC at epicenter Location 5.701°S 146.548°E Depth 52.29 km (32.49 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.9 - 151 km SSW of Merizo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pt26322050)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-18T02:31:25.018+00:00`, fetched `2026-11-18T02:35:31+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-18 02:22:58 UTC 2026-11-18 02:22:58 UTC at epicenter Location 12.073°N 143.992°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter** — Score 9, observation — [Quelle](https://note.com/unsoluble_sugar/n/n58c97b4dee67)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
