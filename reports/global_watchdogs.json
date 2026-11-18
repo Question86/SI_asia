@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-11-18T19:41:40+00:00",
+  "generated_at": "2026-11-18T19:50:36+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2024-10441 Synology DiskStation Manager (DSM)",
+        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-18",
+        "metrics": {
+          "cve": "CVE-2024-10441"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-40217 BerriAI LiteLLM",
+        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-12-02. BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-18",
+        "metrics": {
+          "cve": "CVE-2026-40217"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap)",
+        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-18",
+        "metrics": {
+          "cve": "CVE-2026-90817"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-90436 Apache Axis",
+        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Apache Axis Unsafe Reflection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-18",
+        "metrics": {
+          "cve": "CVE-2026-90436"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -12,54 +60,6 @@
         "published_at": "2026-11-17",
         "metrics": {
           "cve": "CVE-2026-115731"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-114713 UnrealIRCd UnrealIRCd",
-        "summary": "Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-13",
-        "metrics": {
-          "cve": "CVE-2026-114713"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-123039 Check Point Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-13",
-        "metrics": {
-          "cve": "CVE-2026-123039"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-124194 Microsoft Office",
-        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-10",
-        "metrics": {
-          "cve": "CVE-2026-124194"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder",
-        "summary": "Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-10",
-        "metrics": {
-          "cve": "CVE-2026-111793"
         }
       },
       {
@@ -76,16 +76,26 @@
         "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.1 - Pacific-Antarctic Ridge",
-        "summary": "M6.1 - Pacific-Antarctic Ridge. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M6.1 - Pacific-Antarctic Ridge. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37",
         "published_at": "2026-11-18T19:14:23+00:00",
         "metrics": {
           "mag": 6.1,
-          "alert": "",
+          "alert": "green",
           "sig": 572.0,
           "tsunami": 0
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578046",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
@@ -130,8 +140,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (11.538 million in Tropical Storm).",
-        "summary": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (11.538 million in Tropical Storm).",
+        "title": "GDACS: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in Tropical Storm).",
+        "summary": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in Tropical Storm).",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001351",
         "published_at": "",

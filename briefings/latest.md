@@ -1,34 +1,34 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T19:41:37+00:00_
+_Generiert: 2026-11-18T19:50:33+00:00_
 
 ## Kurzlage
 
-128 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+129 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2024-10441 Synology DiskStation Manager (DSM)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-18`
+  - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability
+- **CISA KEV: CVE-2026-40217 BerriAI LiteLLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-18`
+  - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-12-02. BerriAI LiteLLM Unprotected Alternate Channel Vulnerability
+- **CISA KEV: CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-18`
+  - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability
+- **CISA KEV: CVE-2026-90436 Apache Axis** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-18`
+  - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Apache Axis Unsafe Reflection Vulnerability
 - **CISA KEV: CVE-2026-115731 Perforce Puppet Enterprise** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-17`
   - Kurz: Known exploited vulnerability. Added 2026-11-17. Due 2026-12-01. Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability
-- **CISA KEV: CVE-2026-114713 UnrealIRCd UnrealIRCd** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-13`
-  - Kurz: Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. UnrealIRCd Improper Neutralization of Delimiters Vulnerability
-- **CISA KEV: CVE-2026-123039 Check Point Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-13`
-  - Kurz: Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability
-- **CISA KEV: CVE-2026-124194 Microsoft Office** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-10`
-  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability
-- **CISA KEV: CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-10`
-  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577696)
   - Quelle: GDACS
   - Zeit: ``
@@ -36,7 +36,11 @@ _Generiert: 2026-11-18T19:41:37+00:00_
 - **USGS earthquake M6.1 - Pacific-Antarctic Ridge** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37)
   - Quelle: USGS
   - Zeit: `2026-11-18T19:14:23+00:00`
-  - Kurz: M6.1 - Pacific-Antarctic Ridge. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.1 - Pacific-Antarctic Ridge. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578046)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577946)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,10 +57,10 @@ _Generiert: 2026-11-18T19:41:37+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].
-- **GDACS: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (11.538 million in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001351)
+- **GDACS: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001351)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (11.538 million in Tropical Storm).
+  - Kurz: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -75,7 +79,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T19:32:10+00:00`, fetched `2026-11-18T19:41:07+00:00`
+  - Zeit: published `2026-11-18T19:50:21+00:00`, fetched `2026-11-18T19:50:01+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -292,6 +296,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - I Time 2026-11-18 19:14:23 UTC 2026-11-18 19:14:23 UTC at epicenter Location 57.751°S 146.746°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **WordPress-Update schließt zig Lücken** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-18T19:38:00.000+00:00`, fetched `2026-11-18T19:50:01+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 23 km SSW of Ollagüe, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-18T19:12:25.040+00:00`, fetched `2026-11-18T19:15:42+00:00`
@@ -336,15 +349,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)
   - Kurz: When building production-grade enterprise artificial intelligence solutions in India, developers quickly confront an invisible financial penalty. Two users can submit the exact same prompt, identical in meaning and intent, to a commercial Large Language Model (LLM) API, yet one query will cost up to three times more to process than the other. The sole difference […] The post Why I filed a consumer complaint against…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth** — Score 10, observation — [Quelle](https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-18T03:00:44+00:00`, fetched `2026-11-18T03:07:30+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore is racing to cut onboarding times for the ultra-wealthy. But the clients it most wants to win are often the ones getting stuck in the queue. In October 2025, Bank of Singapore rolled out an AI tool that, the bank says, cut the time to produce a source of wealth report from ten days […] The post Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
