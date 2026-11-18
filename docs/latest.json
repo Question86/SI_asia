@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T22:31:37+00:00",
-  "run_id": "2026-11-18T22:31:37+00:00",
+  "generated_at": "2026-11-18T22:40:07+00:00",
+  "run_id": "2026-11-18T22:40:07+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 137
+      "configured_public_sources_only": 138
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 137,
-    "displayed_findings": 137,
+    "new_relevant_findings": 2,
+    "today_file_total": 138,
+    "displayed_findings": 138,
     "high": 0,
     "medium": 69,
-    "observe": 68,
+    "observe": 69,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T22:16:05+00:00",
-        "fetched_at": "2026-11-18T22:15:44+00:00",
+        "published_at": "2026-11-18T22:39:53+00:00",
+        "fetched_at": "2026-11-18T22:39:38+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "a0ebacb4b7e51ac24dd4"
+        "id": "9fda19b8068736e0b80b"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -3295,6 +3295,27 @@
         "id": "29d9342d1241afe77dbd"
       },
       {
+        "title": "9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2157448.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T06:05:34+00:00",
+        "fetched_at": "2026-11-18T22:39:38+00:00",
+        "summary": "9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bca75234d15bf15f32a5"
+      },
+      {
         "title": "Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始",
         "url": "https://www.watch.impress.co.jp/docs/news/2157432.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -3511,8 +3532,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T22:16:05+00:00",
-      "fetched_at": "2026-11-18T22:15:44+00:00",
+      "published_at": "2026-11-18T22:39:53+00:00",
+      "fetched_at": "2026-11-18T22:39:38+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3546,7 +3567,7 @@
         "HD",
         "LOW"
       ],
-      "id": "a0ebacb4b7e51ac24dd4"
+      "id": "9fda19b8068736e0b80b"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -6770,6 +6791,27 @@
       "id": "29d9342d1241afe77dbd"
     },
     {
+      "title": "9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2157448.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T06:05:34+00:00",
+      "fetched_at": "2026-11-18T22:39:38+00:00",
+      "summary": "9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bca75234d15bf15f32a5"
+    },
+    {
       "title": "Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始",
       "url": "https://www.watch.impress.co.jp/docs/news/2157432.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -6981,26 +7023,67 @@
   ],
   "new_findings": [
     {
-      "title": "Gemini 4 Neon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-18T21:49:21+00:00",
-      "fetched_at": "2026-11-18T22:31:11+00:00",
-      "summary": "Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work. According to Google, Gemini 4 Neon delivers quality… The post Gemini 4 Neon in GitHub Copilot appeared first on The GitHub Blog .",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-18T22:39:53+00:00",
+      "fetched_at": "2026-11-18T22:39:38+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "AI Agents",
-        "Copilot",
-        "GitHub"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9fda19b8068736e0b80b"
+    },
+    {
+      "title": "9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2157448.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T06:05:34+00:00",
+      "fetched_at": "2026-11-18T22:39:38+00:00",
+      "summary": "9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "912de747e48188268f67"
+      "id": "bca75234d15bf15f32a5"
     }
   ],
   "source_errors": [],
