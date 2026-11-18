@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T16:20:31+00:00",
-  "run_id": "2026-11-18T16:20:31+00:00",
+  "generated_at": "2026-11-18T16:27:55+00:00",
+  "run_id": "2026-11-18T16:27:55+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 111
+      "configured_public_sources_only": 112
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 111,
-    "displayed_findings": 111,
+    "new_relevant_findings": 2,
+    "today_file_total": 112,
+    "displayed_findings": 112,
     "high": 0,
     "medium": 64,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T16:20:17+00:00",
-        "fetched_at": "2026-11-18T16:19:56+00:00",
+        "published_at": "2026-11-18T16:26:29+00:00",
+        "fetched_at": "2026-11-18T16:27:27+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b689b0bd921986b1cf63"
+        "id": "f06b784629d9c36b0ed8"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2015,6 +2015,42 @@
         "id": "0e09950b9fce3b004f1c"
       },
       {
+        "title": "M 5.3 - 149 km SSW of Merizo Village, Guam",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1a",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-18T16:26:54.901+00:00",
+        "fetched_at": "2026-11-18T16:27:27+00:00",
+        "summary": "Time 2026-11-18 16:06:51 UTC 2026-11-18 16:06:51 UTC at epicenter Location 12.092°N 143.993°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "b2f8e89719e8fa013eaf"
+      },
+      {
         "title": "Boris Vujčić: Financial Stability Review - November 2026",
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
         "source": "ECB Press Releases Speeches Interviews",
@@ -2802,8 +2838,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T16:20:17+00:00",
-      "fetched_at": "2026-11-18T16:19:56+00:00",
+      "published_at": "2026-11-18T16:26:29+00:00",
+      "fetched_at": "2026-11-18T16:27:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2837,7 +2873,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b689b0bd921986b1cf63"
+      "id": "f06b784629d9c36b0ed8"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -4781,6 +4817,42 @@
       "id": "0e09950b9fce3b004f1c"
     },
     {
+      "title": "M 5.3 - 149 km SSW of Merizo Village, Guam",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1a",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T16:26:54.901+00:00",
+      "fetched_at": "2026-11-18T16:27:27+00:00",
+      "summary": "Time 2026-11-18 16:06:51 UTC 2026-11-18 16:06:51 UTC at epicenter Location 12.092°N 143.993°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b2f8e89719e8fa013eaf"
+    },
+    {
       "title": "Boris Vujčić: Financial Stability Review - November 2026",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
       "source": "ECB Press Releases Speeches Interviews",
@@ -5567,8 +5639,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T16:20:17+00:00",
-      "fetched_at": "2026-11-18T16:19:56+00:00",
+      "published_at": "2026-11-18T16:26:29+00:00",
+      "fetched_at": "2026-11-18T16:27:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5602,7 +5674,43 @@
         "HD",
         "LOW"
       ],
-      "id": "b689b0bd921986b1cf63"
+      "id": "f06b784629d9c36b0ed8"
+    },
+    {
+      "title": "M 5.3 - 149 km SSW of Merizo Village, Guam",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1a",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T16:26:54.901+00:00",
+      "fetched_at": "2026-11-18T16:27:27+00:00",
+      "summary": "Time 2026-11-18 16:06:51 UTC 2026-11-18 16:06:51 UTC at epicenter Location 12.092°N 143.993°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b2f8e89719e8fa013eaf"
     }
   ],
   "source_errors": [],
