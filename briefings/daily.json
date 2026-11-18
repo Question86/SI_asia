@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T10:09:36+00:00",
-  "today_file_total": 67,
+  "generated_at": "2026-11-18T10:21:08+00:00",
+  "today_file_total": 68,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -14,18 +14,18 @@
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4628",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3363",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2659",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0551",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1335",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1962",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0940"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1962"
       ],
-      "finding_count": 20,
+      "finding_count": 21,
       "max_score": 23,
-      "credibility_total": 21.0,
+      "credibility_total": 22.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 6,
+      "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 83.0,
+      "network_score": 70.1,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
