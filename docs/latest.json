@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T15:59:44+00:00",
-  "run_id": "2026-11-18T15:59:44+00:00",
+  "generated_at": "2026-11-18T16:07:29+00:00",
+  "run_id": "2026-11-18T16:07:29+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 110
+      "configured_public_sources_only": 111
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 110,
-    "displayed_findings": 110,
+    "new_relevant_findings": 2,
+    "today_file_total": 111,
+    "displayed_findings": 111,
     "high": 0,
     "medium": 64,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T15:52:14+00:00",
-        "fetched_at": "2026-11-18T15:51:54+00:00",
+        "published_at": "2026-11-18T16:06:15+00:00",
+        "fetched_at": "2026-11-18T16:06:58+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "3c73f717e0c1def80efa"
+        "id": "7d419a378fe68763e4d8"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2544,6 +2544,27 @@
         "id": "38d361e739b965e72079"
       },
       {
+        "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がしんどすぎる「普通に仕事しろ」",
+        "url": "https://togetter.com/li/2772114",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T15:01:11+00:00",
+        "fetched_at": "2026-11-18T16:06:58+00:00",
+        "summary": "ななぷりん極 @7rpin 裁判傍聴の民なんですが、本物のトクリュウをたくさん眺めてきたのでつぶやきますね まず、ガチャまわすみたいに強盗するから、リスト先てきとうに襲撃してる。だから１億あるとか１千万とかあんまり関係ない 2026-11-18 18:22:42 ななぷりん極 @7rpin 襲撃には、まるで冒険者が洞窟にこもるがごと...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e58eef9e56544364001c"
+      },
+      {
         "title": "楽天証券の情報漏えい、集団訴訟の動き始まる 「タイムズカー集団訴訟」の弁護士がサイト開設 - 弁護士ドットコムニュース",
         "url": "https://www.bengo4.com/c_18/n_21206/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2781,8 +2802,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T15:52:14+00:00",
-      "fetched_at": "2026-11-18T15:51:54+00:00",
+      "published_at": "2026-11-18T16:06:15+00:00",
+      "fetched_at": "2026-11-18T16:06:58+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2816,7 +2837,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3c73f717e0c1def80efa"
+      "id": "7d419a378fe68763e4d8"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -5289,6 +5310,27 @@
       "id": "38d361e739b965e72079"
     },
     {
+      "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がしんどすぎる「普通に仕事しろ」",
+      "url": "https://togetter.com/li/2772114",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T15:01:11+00:00",
+      "fetched_at": "2026-11-18T16:06:58+00:00",
+      "summary": "ななぷりん極 @7rpin 裁判傍聴の民なんですが、本物のトクリュウをたくさん眺めてきたのでつぶやきますね まず、ガチャまわすみたいに強盗するから、リスト先てきとうに襲撃してる。だから１億あるとか１千万とかあんまり関係ない 2026-11-18 18:22:42 ななぷりん極 @7rpin 襲撃には、まるで冒険者が洞窟にこもるがごと...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e58eef9e56544364001c"
+    },
+    {
       "title": "楽天証券の情報漏えい、集団訴訟の動き始まる 「タイムズカー集団訴訟」の弁護士がサイト開設 - 弁護士ドットコムニュース",
       "url": "https://www.bengo4.com/c_18/n_21206/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5519,7 +5561,71 @@
       "id": "6cd25081985a524ca73b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-18T16:06:15+00:00",
+      "fetched_at": "2026-11-18T16:06:58+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7d419a378fe68763e4d8"
+    },
+    {
+      "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がしんどすぎる「普通に仕事しろ」",
+      "url": "https://togetter.com/li/2772114",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T15:01:11+00:00",
+      "fetched_at": "2026-11-18T16:06:58+00:00",
+      "summary": "ななぷりん極 @7rpin 裁判傍聴の民なんですが、本物のトクリュウをたくさん眺めてきたのでつぶやきますね まず、ガチャまわすみたいに強盗するから、リスト先てきとうに襲撃してる。だから１億あるとか１千万とかあんまり関係ない 2026-11-18 18:22:42 ななぷりん極 @7rpin 襲撃には、まるで冒険者が洞窟にこもるがごと...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e58eef9e56544364001c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
