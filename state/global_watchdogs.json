@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:02:47+00:00",
+  "generated_at": "2026-11-18T05:14:19+00:00",
   "sections": {
     "global_security": [
       {
@@ -136,13 +136,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.8 - 40 km N of Ruteng, Indonesia",
-        "summary": "M5.8 - 40 km N of Ruteng, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.8 - 40 km N of Ruteng, Indonesia. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi",
         "published_at": "2026-11-18T04:41:32+00:00",
         "metrics": {
           "mag": 5.8,
-          "alert": "",
+          "alert": "green",
           "sig": 518.0,
           "tsunami": 0
         }
