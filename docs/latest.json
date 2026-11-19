@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T05:17:02+00:00",
-  "run_id": "2026-11-19T05:17:02+00:00",
+  "generated_at": "2026-11-19T05:34:32+00:00",
+  "run_id": "2026-11-19T05:34:32+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
-    "medium": 4,
-    "observe": 18,
+    "medium": 5,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T05:16:51+00:00",
-        "fetched_at": "2026-11-19T05:16:34+00:00",
+        "published_at": "2026-11-19T05:32:46+00:00",
+        "fetched_at": "2026-11-19T05:34:02+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "fe8d89e12fc108298077"
+        "id": "d991948b66a02feec352"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -151,6 +151,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "98fcfa87429cb80b0338"
+      },
+      {
+        "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
+        "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-19T05:30:54+00:00",
+        "fetched_at": "2026-11-19T05:34:02+00:00",
+        "summary": "Here is an uncomfortable truth about business: If nobody knows you, nobody owes you their trust. An established company does not walk into a room carrying only its product. It carries years of reputation, relationships, customer references and a network built long before the current opportunity appeared. A founder starting out has none of that. […] The post If nobody knows you, nobody owes you their trust: How found…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Reputationsrisiko"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); founder (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bf1759e935ab86a739ad"
       }
     ],
     "observe": [
@@ -460,6 +482,27 @@
         "id": "fe32a56307cafe7be280"
       },
       {
+        "title": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
+        "url": "https://togetter.com/li/2772266",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T23:53:56+00:00",
+        "fetched_at": "2026-11-19T05:34:02+00:00",
+        "summary": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dd0fd36ed95d9a3b2d24"
+      },
+      {
         "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
         "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -590,8 +633,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T05:16:51+00:00",
-      "fetched_at": "2026-11-19T05:16:34+00:00",
+      "published_at": "2026-11-19T05:32:46+00:00",
+      "fetched_at": "2026-11-19T05:34:02+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -625,7 +668,7 @@
         "HD",
         "LOW"
       ],
-      "id": "fe8d89e12fc108298077"
+      "id": "d991948b66a02feec352"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -707,6 +750,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "98fcfa87429cb80b0338"
+    },
+    {
+      "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
+      "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T05:30:54+00:00",
+      "fetched_at": "2026-11-19T05:34:02+00:00",
+      "summary": "Here is an uncomfortable truth about business: If nobody knows you, nobody owes you their trust. An established company does not walk into a room carrying only its product. It carries years of reputation, relationships, customer references and a network built long before the current opportunity appeared. A founder starting out has none of that. […] The post If nobody knows you, nobody owes you their trust: How found…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Reputationsrisiko"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); founder (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bf1759e935ab86a739ad"
     },
     {
       "title": "Beyond who you know: Why value is becoming the new currency of business access",
@@ -1014,6 +1079,27 @@
       "id": "fe32a56307cafe7be280"
     },
     {
+      "title": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
+      "url": "https://togetter.com/li/2772266",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T23:53:56+00:00",
+      "fetched_at": "2026-11-19T05:34:02+00:00",
+      "summary": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dd0fd36ed95d9a3b2d24"
+    },
+    {
       "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
       "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1143,8 +1229,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T05:16:51+00:00",
-      "fetched_at": "2026-11-19T05:16:34+00:00",
+      "published_at": "2026-11-19T05:32:46+00:00",
+      "fetched_at": "2026-11-19T05:34:02+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1178,50 +1264,50 @@
         "HD",
         "LOW"
       ],
-      "id": "fe8d89e12fc108298077"
+      "id": "d991948b66a02feec352"
     },
     {
-      "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
-      "url": "https://jvn.jp/jp/JVN29068051/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-19T14:00:00+09:00",
-      "fetched_at": "2026-11-19T05:16:34+00:00",
-      "summary": "ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b080f8e81d70f3084156"
-    },
-    {
-      "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
-      "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
+      "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
+      "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-19T05:00:53+00:00",
-      "fetched_at": "2026-11-19T05:16:34+00:00",
-      "summary": "A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She wanted to know what she’d done wrong. Probably nothing. But […] The post Your brand ranks on Google, so why doesn’t ChatGPT recommend it? appeared first on e27 .",
+      "published_at": "2026-11-19T05:30:54+00:00",
+      "fetched_at": "2026-11-19T05:34:02+00:00",
+      "summary": "Here is an uncomfortable truth about business: If nobody knows you, nobody owes you their trust. An established company does not walk into a room carrying only its product. It carries years of reputation, relationships, customer references and a network built long before the current opportunity appeared. A founder starting out has none of that. […] The post If nobody knows you, nobody owes you their trust: How found…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "OpenAI"
+        "founder",
+        "Reputationsrisiko"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); founder (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "37e715d0cd2cac9986c5"
+      "id": "bf1759e935ab86a739ad"
+    },
+    {
+      "title": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
+      "url": "https://togetter.com/li/2772266",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T23:53:56+00:00",
+      "fetched_at": "2026-11-19T05:34:02+00:00",
+      "summary": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dd0fd36ed95d9a3b2d24"
     }
   ],
   "source_errors": [],

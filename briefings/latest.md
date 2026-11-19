@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T05:17:02+00:00_
+_Generiert: 2026-11-19T05:34:32+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T05:16:51+00:00`, fetched `2026-11-19T05:16:34+00:00`
+  - Zeit: published `2026-11-19T05:32:46+00:00`, fetched `2026-11-19T05:34:02+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -109,6 +109,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **If nobody knows you, nobody owes you their trust: How founders can build it anyway** — Score 14, observation — [Quelle](https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-19T05:30:54+00:00`, fetched `2026-11-19T05:34:02+00:00`
+  - Treffer: APAC Trend Radar, founder, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); founder (+2.5); recent (+1.0)
+  - Kurz: Here is an uncomfortable truth about business: If nobody knows you, nobody owes you their trust. An established company does not walk into a room carrying only its product. It carries years of reputation, relationships, customer references and a network built long before the current opportunity appeared. A founder starting out has none of that. […] The post If nobody knows you, nobody owes you their trust: How found…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -184,14 +193,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 流出した可能性があるのは、10月21日午後9時から11月18日午前11時までの間に決済画面で入力された顧客のクレジットカード番号（全桁）、カード名義人、有効期限、セキュリティコード。 改ざんは11月18日に判明。ただちにサイトを停止した。その他のプログラムやサーバ内の情報に影響が及んでいないかも含めて、詳細な調...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2157690.html)
+- **Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」** — Score 5, observation — [Quelle](https://togetter.com/li/2772266)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T23:15:44+00:00`, fetched `2026-11-19T00:03:50+00:00`
+  - Zeit: published `2026-11-18T23:53:56+00:00`, fetched `2026-11-19T05:34:02+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象
+  - Kurz: Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Wait for pull request events with GitHub CLI** — Score 4, observation — [Quelle](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -206,6 +215,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
