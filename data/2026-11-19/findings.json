@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T09:21:13+00:00",
-    "fetched_at": "2026-11-19T09:20:52+00:00",
+    "published_at": "2026-11-19T09:21:53+00:00",
+    "fetched_at": "2026-11-19T09:29:23+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "76aca7d8a27da9b7acf7"
+    "id": "2dfb56336d30d7345dca"
   },
   {
     "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -121,6 +121,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "98fcfa87429cb80b0338"
+  },
+  {
+    "title": "[UPDATE] [hoch] Red Hat OpenStack: Schwachstelle ermöglicht Umgehung von Sicherheitsmaßnahmen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4544",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T09:22:48+00:00",
+    "fetched_at": "2026-11-19T09:29:23+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenStack ausnutzen, um Sicherheitsmaßnahmen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "303756bd8f3f81d0b524"
   },
   {
     "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
