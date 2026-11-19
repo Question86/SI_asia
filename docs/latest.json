@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T11:18:10+00:00",
-  "run_id": "2026-11-19T11:18:10+00:00",
+  "generated_at": "2026-11-19T11:27:52+00:00",
+  "run_id": "2026-11-19T11:27:52+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 50
+      "configured_public_sources_only": 51
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "new_relevant_findings": 2,
+    "today_file_total": 51,
+    "displayed_findings": 51,
     "high": 0,
-    "medium": 15,
+    "medium": 16,
     "observe": 35,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T11:12:50+00:00",
-        "fetched_at": "2026-11-19T11:17:40+00:00",
+        "published_at": "2026-11-19T11:27:40+00:00",
+        "fetched_at": "2026-11-19T11:27:23+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,54 @@
           "HD",
           "LOW"
         ],
-        "id": "99bc92409d440b17c09b"
+        "id": "2ec622961408974638f3"
+      },
+      {
+        "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
+        "url": "https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-19T11:22:59+00:00",
+        "fetched_at": "2026-11-19T11:27:23+00:00",
+        "summary": "Last month, 414,210 visitors to an online marketplace introduced themselves as a widely used consumer AI agent. Every one of them went straight to the sign-in page. Every one of them failed. They were not agents. They were credential-stuffing bots wearing an agent’s name badge, according to field data from Santa Clara-based security firm Cequence, […] The post 414,000 ‘AI agents’ tried to log in. None of them were a…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Security",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "mixed",
+        "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "216f5c4155afafc76369"
       },
       {
         "title": "[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1253,8 +1300,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T11:12:50+00:00",
-      "fetched_at": "2026-11-19T11:17:40+00:00",
+      "published_at": "2026-11-19T11:27:40+00:00",
+      "fetched_at": "2026-11-19T11:27:23+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1288,7 +1335,54 @@
         "HD",
         "LOW"
       ],
-      "id": "99bc92409d440b17c09b"
+      "id": "2ec622961408974638f3"
+    },
+    {
+      "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
+      "url": "https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T11:22:59+00:00",
+      "fetched_at": "2026-11-19T11:27:23+00:00",
+      "summary": "Last month, 414,210 visitors to an online marketplace introduced themselves as a widely used consumer AI agent. Every one of them went straight to the sign-in page. Every one of them failed. They were not agents. They were credential-stuffing bots wearing an agent’s name badge, according to field data from Santa Clara-based security firm Cequence, […] The post 414,000 ‘AI agents’ tried to log in. None of them were a…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "216f5c4155afafc76369"
     },
     {
       "title": "[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -2469,8 +2563,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T11:12:50+00:00",
-      "fetched_at": "2026-11-19T11:17:40+00:00",
+      "published_at": "2026-11-19T11:27:40+00:00",
+      "fetched_at": "2026-11-19T11:27:23+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2504,66 +2598,54 @@
         "HD",
         "LOW"
       ],
-      "id": "99bc92409d440b17c09b"
+      "id": "2ec622961408974638f3"
     },
     {
-      "title": "[UPDATE] [mittel] LiteLLM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1408",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
+      "url": "https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-19T11:12:00+00:00",
-      "fetched_at": "2026-11-19T11:17:40+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in LiteLLM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+      "published_at": "2026-11-19T11:22:59+00:00",
+      "fetched_at": "2026-11-19T11:27:23+00:00",
+      "summary": "Last month, 414,210 visitors to an online marketplace introduced themselves as a widely used consumer AI agent. Every one of them went straight to the sign-in page. Every one of them failed. They were not agents. They were credential-stuffing bots wearing an agent’s name badge, according to field data from Santa Clara-based security firm Cequence, […] The post 414,000 ‘AI agents’ tried to log in. None of them were a…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Security",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b6eb9c3d1403f8cf3806"
-    },
-    {
-      "title": "M 5.0 - 31 km WSW of Rabaul, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-19T11:07:50.040+00:00",
-      "fetched_at": "2026-11-19T11:17:40+00:00",
-      "summary": "Time 2026-11-19 10:53:07 UTC 2026-11-19 10:53:07 UTC at epicenter Location 4.297°S 151.895°E Depth 194.80 km (121.04 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "ai_agents_workflow: AI agents"
       ],
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
       ],
-      "id": "b5f79573e4d03d4c2482"
+      "id": "216f5c4155afafc76369"
     }
   ],
   "source_errors": [],
