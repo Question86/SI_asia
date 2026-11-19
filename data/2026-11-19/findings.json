@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T11:05:24+00:00",
-    "fetched_at": "2026-11-19T11:07:34+00:00",
+    "published_at": "2026-11-19T11:12:50+00:00",
+    "fetched_at": "2026-11-19T11:17:40+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "30e0e0d31917d093a56b"
+    "id": "99bc92409d440b17c09b"
   },
   {
     "title": "[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -145,6 +145,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "98fcfa87429cb80b0338"
+  },
+  {
+    "title": "[UPDATE] [mittel] LiteLLM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1408",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T11:12:00+00:00",
+    "fetched_at": "2026-11-19T11:17:40+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in LiteLLM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b6eb9c3d1403f8cf3806"
   },
   {
     "title": "[UPDATE] [kritisch] Synology DiskStation Manager: Mehrere Schwachstellen",
@@ -611,6 +634,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a1bbd8d1cf209bd9a8d5"
+  },
+  {
+    "title": "M 5.0 - 31 km WSW of Rabaul, Papua New Guinea",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-19T11:07:50.040+00:00",
+    "fetched_at": "2026-11-19T11:17:40+00:00",
+    "summary": "Time 2026-11-19 10:53:07 UTC 2026-11-19 10:53:07 UTC at epicenter Location 4.297°S 151.895°E Depth 194.80 km (121.04 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b5f79573e4d03d4c2482"
   },
   {
     "title": "M 4.8 - 23 km SSE of Guayaquil, Ecuador",

@@ -1,15 +1,22 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-19T11:08:03+00:00",
+  "generated_at": "2026-11-19T11:18:10+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-19T11:05:24+00:00",
+        "published_at": "2026-11-19T11:12:50+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "[UPDATE] [mittel] LiteLLM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T11:12:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1408"
       },
       {
         "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "relevance_score": 10,
         "url": "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy"
-      },
-      {
-        "title": "NVIDIA/SkillEvaluator",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/NVIDIA/SkillEvaluator"
       }
     ],
     "security": [
@@ -96,6 +96,13 @@
         "published_at": "2026-11-19T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN28897261/"
+      },
+      {
+        "title": "[UPDATE] [mittel] LiteLLM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T11:12:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1408"
       },
       {
         "title": "[UPDATE] [kritisch] Synology DiskStation Manager: Mehrere Schwachstellen",
@@ -138,13 +145,6 @@
         "published_at": "2026-11-19T09:22:48+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4544"
-      },
-      {
-        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T08:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658"
       }
     ],
     "geopolitics": [
@@ -249,6 +249,13 @@
         "url": "https://japan.cnet.com/article/35255099/"
       },
       {
+        "title": "M 5.0 - 31 km WSW of Rabaul, Papua New Guinea",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-19T11:07:50.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1"
+      },
+      {
         "title": "M 4.8 - 23 km SSE of Guayaquil, Ecuador",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-19T06:21:58.594+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-11-18T23:53:56+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2772266"
-      },
-      {
-        "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-18T23:15:44+00:00",
-        "relevance_score": 5,
-        "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html"
       }
     ],
     "economy": [
