@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T12:36:10+00:00",
-    "fetched_at": "2026-11-19T12:35:53+00:00",
+    "published_at": "2026-11-19T12:46:11+00:00",
+    "fetched_at": "2026-11-19T12:53:01+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "5c4cb1fa3a274b941aa3"
+    "id": "e1de63501cd50eb7d2f9"
   },
   {
     "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -217,6 +217,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b080f8e81d70f3084156"
+  },
+  {
+    "title": "[NEU] [mittel] OpenBSD: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4687",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:42:02+00:00",
+    "fetched_at": "2026-11-19T12:53:01+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenBSD ausnutzen, um erweiterte Rechte zu erlangen, einen Denial-of-Service-Zustand auszulösen, Daten offenzulegen und zu manipulieren oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a01e703d1f5b5d27f618"
+  },
+  {
+    "title": "[NEU] [mittel] Drupal Core: Mehrere Schwachstellen ermöglichen Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4686",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:42:02+00:00",
+    "fetched_at": "2026-11-19T12:53:01+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal Core ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9077400a0d5bbd9adc33"
+  },
+  {
+    "title": "[UPDATE] [hoch] strongSwan: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3230",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:42:01+00:00",
+    "fetched_at": "2026-11-19T12:53:01+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in strongSwan ausnutzen, um einen Denial of Service zu verursachen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen und Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e10673f67e4ee1afceec"
   },
   {
     "title": "[NEU] [hoch] PHP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -1416,6 +1485,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6a0528e0568f293d4f81"
+  },
+  {
+    "title": "Opening remarks – Central Bank Governors’ Roundtable",
+    "url": "https://www.bis.org/speeches/20261119-opening-remarks-central-bank-governors-roundtable",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-11-19T00:00:00+00:00",
+    "fetched_at": "2026-11-19T12:53:01+00:00",
+    "summary": "Opening remarks by Mr Timothy N J Antoine, Governor of the Eastern Caribbean Central Bank, at the Central Bank Governors’ Roundtable at the Commonwealth Business Forum, Basseterre, St Kitts, West Indies 4 November 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0c3e1ee12b6280f9232a"
   },
   {
     "title": "Navigating new economic realities - Europe’s outlook in a changing global landscape",

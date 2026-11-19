@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T12:36:21+00:00_
+_Generiert: 2026-11-19T12:53:32+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+74 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T12:36:10+00:00`, fetched `2026-11-19T12:35:53+00:00`
+  - Zeit: published `2026-11-19T12:46:11+00:00`, fetched `2026-11-19T12:53:01+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -132,14 +132,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] PHP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4684)
+- **[NEU] [mittel] OpenBSD: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4687)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-19T12:32:01+00:00`, fetched `2026-11-19T12:35:53+00:00`
+  - Zeit: published `2026-11-19T12:42:02+00:00`, fetched `2026-11-19T12:53:01+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in PHP ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in OpenBSD ausnutzen, um erweiterte Rechte zu erlangen, einen Denial-of-Service-Zustand auszulösen, Daten offenzulegen und zu manipulieren oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN28897261/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
