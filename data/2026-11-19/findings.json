@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T10:26:33+00:00",
-    "fetched_at": "2026-11-19T10:28:47+00:00",
+    "published_at": "2026-11-19T10:45:31+00:00",
+    "fetched_at": "2026-11-19T10:45:11+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "701329d7f90a2491b369"
+    "id": "654a6044d576eb9317fe"
   },
   {
     "title": "[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1043,5 +1043,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "28f659f8b27182c802d4"
+  },
+  {
+    "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
+    "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-19T08:27:16+00:00",
+    "fetched_at": "2026-11-19T10:45:11+00:00",
+    "summary": "You can now stream enterprise audit logs to Amazon S3 using OpenID Connect (OIDC) on GitHub Enterprise Cloud with data residency (GHE.com). This extends the existing github.com capability, letting you… The post S3 audit log streaming with OpenID Connect expands to GHE.com appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7450ed8712e3c377b350"
   }
 ]
