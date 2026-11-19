@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-19T14:37:41Z",
+  "generated_at": "2026-11-19T16:24:05Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Drupal Core: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4686",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T12:42:02+00:00",
-      "age_days": 0.08,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4673",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T11:57:02+00:00",
-      "age_days": 0.11,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -61,11 +61,38 @@
       "summary": "Ein authentisierter Angreifer kann mehrere Schwachstellen in Splunk SOAR ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Berechtigungen zu erweitern, Administratorrechte zu erlangen, beliebigen Code mit dem Splunk SOAR-Dienstkonto oder Root-Rechten auszufü…"
     },
     {
+      "title": "The best things in open source are built together",
+      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+      "source": "GitHub Blog Atom",
+      "published_at": "2026-11-19T16:02:16+00:00",
+      "age_days": 0.02,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": ""
+    },
+    {
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
       "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T06:49:06+00:00",
-      "age_days": 0.33,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -87,13 +114,13 @@
       "summary": "トップページ 情報セキュリティ 重要なセキュリティ情報 2026年度 NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） 注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 F5社が提供するNGINX Open SourceおよびNGINX Plusについて、2026年11月18日に複数の脆弱性..."
     },
     {
-      "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
-      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-18T17:35:12+00:00",
-      "age_days": 0.88,
+      "title": "The best things in open source are built together",
+      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+      "source": "GitHub Blog Atom",
+      "published_at": "2026-11-19T16:00:00+00:00",
+      "age_days": 0.02,
       "topics": [
-        "security"
+        "ai"
       ],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -106,17 +133,20 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cve",
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
-      "summary": ""
+      "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog ."
     },
     {
       "title": "[UPDATE] [hoch] strongSwan: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3230",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T12:42:01+00:00",
-      "age_days": 0.08,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -142,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4668",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T12:27:01+00:00",
-      "age_days": 0.09,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -168,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4679",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T12:12:01+00:00",
-      "age_days": 0.1,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -194,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4681",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T12:12:01+00:00",
-      "age_days": 0.1,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -220,7 +250,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4677",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T12:02:01+00:00",
-      "age_days": 0.11,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -246,7 +276,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4675",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T12:02:01+00:00",
-      "age_days": 0.11,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -273,7 +303,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4678",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T12:02:01+00:00",
-      "age_days": 0.11,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -293,33 +323,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OpenClaw ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren und die Ausführung von Befehlen auf dem Host zu ermöglichen."
-    },
-    {
-      "title": "[UPDATE] [mittel] LiteLLM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1408",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-19T11:12:00+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, auth",
-        "security high-signal: code, auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in LiteLLM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
     }
   ],
   "read_order": [
