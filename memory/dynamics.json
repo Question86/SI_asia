@@ -1,28 +1,52 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-19T02:28:32Z",
+  "generated_at": "2026-11-19T04:52:40Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 18,
+    "dynamics": 36,
     "bands": {
-      "strong": 2,
-      "watch": 4,
-      "quiet": 12
+      "strong": 5,
+      "watch": 10,
+      "quiet": 21
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 4,
-      "quiet": 12
+      "strong": 5,
+      "watch": 10,
+      "quiet": 21
     }
   },
   "top_dynamics": [
+    {
+      "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN28897261/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-19T12:00:00+09:00",
+      "age_days": 0.08,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。"
+    },
     {
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 152.62,
+      "age_days": 152.72,
       "topics": [
         "general"
       ],
@@ -40,7 +64,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 152.6d old signal",
+        "aging penalty -8.0 for 152.7d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -49,7 +73,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-19T02:16:18+00:00",
+      "published_at": "2026-11-19T04:44:31+00:00",
       "age_days": 0.01,
       "topics": [
         "ai",
@@ -75,11 +99,59 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
+      "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN28897261/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-19T03:12:23+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Beyond who you know: Why value is becoming the new currency of business access",
+      "url": "https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T04:04:30+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:47:36.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -99,11 +171,59 @@
       "summary": "Time 2026-11-19 01:34:52 UTC 2026-11-19 01:34:52 UTC at epicenter Location 0.523°N 96.530°E Depth 37.00 km (22.99 mi)"
     },
     {
+      "title": "Canadia Impact Fund makes its first French bet with career guidance startup Choose and Connect",
+      "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T04:19:13+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
+      "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T04:31:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 75.87,
+      "age_days": 75.97,
       "topics": [
         "general"
       ],
@@ -119,16 +239,64 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 75.9d old signal"
+        "aging penalty -8.0 for 76.0d old signal"
       ],
       "summary": ""
     },
     {
-      "title": "The crypto hype cycle is dead. Here are the 4 narratives replacing it",
-      "url": "https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/",
+      "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-19T02:36:40+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-09T02:49:40+00:00",
+      "age_days": 10.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Beyond faster payments, what global businesses really need",
+      "url": "https://e27.co/beyond-faster-payments-what-global-businesses-really-need-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T01:17:13+00:00",
-      "age_days": 0.05,
+      "published_at": "2026-11-19T04:04:30+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -151,8 +319,58 @@
       "title": "The crypto hype cycle is dead. Here are the 4 narratives replacing it",
       "url": "https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T01:17:13+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "From reality TV to building apps: How I actually use AI",
+      "url": "https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T03:12:23+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The crypto hype cycle is dead. Here are the 4 narratives replacing it",
+      "url": "https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/",
+      "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T01:00:22+00:00",
-      "age_days": 0.06,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -178,11 +396,11 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:27:54+00:00",
-      "age_days": 29.0,
+      "age_days": 29.1,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.2,
+      "dynamics_score": 11.16,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -194,16 +412,40 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -2.8 for 29.0d old signal"
+        "aging penalty -2.8 for 29.1d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-19T00:18:40+00:00",
+      "age_days": 0.19,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "流出した可能性があるのは、10月21日午後9時から11月18日午前11時までの間に決済画面で入力された顧客のクレジットカード番号（全桁）、カード名義人、有効期限、セキュリティコード。 改ざんは11月18日に判明。ただちにサイトを停止した。その他のプログラムやサーバ内の情報に影響が及んでいないかも含めて、詳細な調..."
     },
     {
       "title": "実質的無職になった｜Y.Hirano",
       "url": "https://note.com/y_hirano/n/nc986ab18b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T19:58:08+00:00",
-      "age_days": 0.27,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -223,11 +465,37 @@
       "summary": "2026年10月末で仕事が減ってしまったうえに、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきまし..."
     },
     {
+      "title": "Before you add AI to your product, fix how work moves inside the company",
+      "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T02:16:34+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 154.24,
+      "age_days": 154.34,
       "topics": [
         "general"
       ],
@@ -243,17 +511,45 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 154.2d old signal",
+        "aging penalty -8.0 for 154.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-19T02:30:01.040+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Time 2026-11-19 02:11:23 UTC 2026-11-19 02:11:23 UTC at epicenter Location 5.543°S 35.081°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 4.9 - 45 km NNW of Kintinku, Tanzania",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:48:46.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "disaster"
@@ -277,26 +573,26 @@
       "summary": "Time 2026-11-19 01:29:33 UTC 2026-11-19 01:29:33 UTC at epicenter Location 5.484°S 35.140°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "Before you add AI to your product, fix how work moves inside the company",
-      "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T02:16:34+00:00",
-      "age_days": 0.01,
+      "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-19T02:36:40+00:00",
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 6.5,
+      "dynamics_score": 8.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -307,22 +603,22 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:54:09+00:00",
-      "age_days": 0.02,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 6.0,
+      "dynamics_score": 8.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -333,7 +629,7 @@
       "url": "https://note.com/y_hirano/n/nc986ab18b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 79.32,
+      "age_days": 79.42,
       "topics": [
         "general"
       ],
@@ -349,7 +645,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 79.3d old signal"
+        "aging penalty -8.0 for 79.4d old signal"
       ],
       "summary": ""
     },
@@ -358,7 +654,7 @@
       "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-19T00:55:24+00:00",
-      "age_days": 0.06,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -380,11 +676,36 @@
       "summary": ""
     },
     {
+      "title": "Beyond who you know: Why value is becoming the new currency of business access",
+      "url": "https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T04:00:23+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "As technology and AI make it easier to build and scale businesses, I believe access to the right networks should no longer be an advantage inherited by the few, while doors remain closed to the average entrepreneur. That era is changing. “Your network is your net worth” may hold only a fraction of the weight […] The p…"
+    },
+    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-18T08:00:00+00:00",
-      "age_days": 0.77,
+      "age_days": 0.87,
       "topics": [
         "ai"
       ],
@@ -410,7 +731,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T23:15:44+00:00",
-      "age_days": 0.13,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -430,11 +751,110 @@
       "summary": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象"
     },
     {
+      "title": "【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-18T21:50:43+00:00",
+      "age_days": 0.29,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた"
+    },
+    {
+      "title": "Beyond faster payments, what global businesses really need",
+      "url": "https://e27.co/beyond-faster-payments-what-global-businesses-really-need-20261112/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T04:00:23+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "International trade has little use for a payment that is fast but difficult to account for. An exporter needs to know what has been received, what has been deducted, and whom to approach when the figures do not match. Yet much of the debate on cross-border payments still revolves around transaction speed and price. Th…"
+    },
+    {
+      "title": "From reality TV to building apps: How I actually use AI",
+      "url": "https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T03:00:50+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In reality television, we used to joke that production was all about rushing to get ready, only to wait for something to happen. Sounds like an easy gig, but this rush-and-wait syndrome was made possible with rigorous planning in pre-production. Behind every shoot were master spreadsheets, production schedules, flight…"
+    },
+    {
+      "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
+      "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T04:23:51+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Pressure dominates the crypto market, and the immediate cause is not a secret AI offering but a familiar macro squeeze. Bitcoin trades at US$62,731.42, down 2.39 per cent over 24 hours, while total crypto market capitalisation sits at US$2.15 trillion, down 1.97 per cent. Bitcoin’s 58.84 per cent dominance and its fas…"
+    },
+    {
       "title": "Wait for pull request events with GitHub CLI",
       "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-19T00:00:13+00:00",
-      "age_days": 0.1,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -456,11 +876,37 @@
       "summary": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it… The post Wait for pull request events with GitHub CLI appeared first on The GitHub Blog ."
     },
     {
+      "title": "Canadia Impact Fund makes its first French bet with career guidance startup Choose and Connect",
+      "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T04:04:43+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Canadia Impact Fund (CIFC), the corporate venture arm of Cambodian conglomerate Canadia Group, has invested in a French startup for the first time. The deal is not the kind of deeptech or AI play that usually headlines cross-border investments. The recipient is Choose and Connect, a free study and career guidance plat…"
+    },
+    {
       "title": "Before you add AI to your product, fix how work moves inside the company",
       "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T02:00:20+00:00",
-      "age_days": 0.02,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -482,5 +928,5 @@
       "summary": "Most software and services companies ask the AI question in the same way: how do we add AI to what we sell? It sounds strategic. It sounds visible. It sounds like the kind of move a modern company should make. But for many businesses, it is not the best first move. The more practical starting […] The post Before you a…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Updates | ReliefWeb” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
