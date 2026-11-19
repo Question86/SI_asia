@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T16:03:11+00:00",
+  "generated_at": "2026-11-19T16:19:14+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -5769,13 +5769,13 @@
     {
       "event_id": "evt_31f8eea7d0b4383f4150",
       "title": "Multiples vulnérabilités dans les produits Mattermost (04 novembre 2026)",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_32070e6674bea3fca14d",
@@ -18007,7 +18007,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9970e6f2b54e3e4807a0",
