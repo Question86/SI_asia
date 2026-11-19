@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T00:55:21+00:00_
+_Generiert: 2026-11-19T01:17:11+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+6 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T00:55:09+00:00`, fetched `2026-11-19T00:54:51+00:00`
+  - Zeit: published `2026-11-19T01:17:00+00:00`, fetched `2026-11-19T01:16:43+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -50,6 +50,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年10月末で仕事が減ってしまったうえに、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきまし...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The crypto hype cycle is dead. Here are the 4 narratives replacing it** — Score 4, observation — [Quelle](https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-19T01:00:22+00:00`, fetched `2026-11-19T01:16:43+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The fatigue you diagnosed is structural, not cyclical. The sector has run out of patience for projects that promised user utility and delivered clunky interfaces, empty virtual worlds, and speculative profile pictures. Play-to-earn gaming collapsed under unsustainable incentives. Metaverses remained ghost towns. Generic PFP NFTs lost their cultural premium. The first generation of real-world asset […] The post The c…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Wait for pull request events with GitHub CLI** — Score 4, observation — [Quelle](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli)
   - Quelle: GitHub Changelog Atom / `rss`
