@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T00:04:22+00:00",
-  "run_id": "2026-11-19T00:04:22+00:00",
+  "generated_at": "2026-11-19T00:38:25+00:00",
+  "run_id": "2026-11-19T00:38:25+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 3,
     "displayed_findings": 3,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T00:04:09+00:00",
-        "fetched_at": "2026-11-19T00:03:50+00:00",
+        "published_at": "2026-11-19T00:38:14+00:00",
+        "fetched_at": "2026-11-19T00:37:57+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "653e337adfc491ced332"
+        "id": "33d8919817750502d222"
       }
     ],
     "observe": [
@@ -122,8 +122,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T00:04:09+00:00",
-      "fetched_at": "2026-11-19T00:03:50+00:00",
+      "published_at": "2026-11-19T00:38:14+00:00",
+      "fetched_at": "2026-11-19T00:37:57+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -157,7 +157,7 @@
         "HD",
         "LOW"
       ],
-      "id": "653e337adfc491ced332"
+      "id": "33d8919817750502d222"
     },
     {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
@@ -207,8 +207,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T00:04:09+00:00",
-      "fetched_at": "2026-11-19T00:03:50+00:00",
+      "published_at": "2026-11-19T00:38:14+00:00",
+      "fetched_at": "2026-11-19T00:37:57+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -242,48 +242,7 @@
         "HD",
         "LOW"
       ],
-      "id": "653e337adfc491ced332"
-    },
-    {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-18T08:00:00+00:00",
-      "fetched_at": "2026-11-19T00:03:50+00:00",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1dda89b2c7917c4ca05f"
-    },
-    {
-      "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-18T23:15:44+00:00",
-      "fetched_at": "2026-11-19T00:03:50+00:00",
-      "summary": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e3cdb9e98f5538993f6"
+      "id": "33d8919817750502d222"
     }
   ],
   "source_errors": [],

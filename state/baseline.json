@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T00:04:25+00:00",
+  "generated_at": "2026-11-19T00:38:27+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "updated_at": "2026-11-19T00:04:25+00:00",
+      "updated_at": "2026-11-19T00:38:27+00:00",
       "network_scores": [
-        20.4,
         20.4,
         20.4,
         20.4,
@@ -130,12 +129,13 @@
         29.6,
         26.6,
         26.6,
+        10.1,
         10.1
       ],
-      "rolling_average": 23.61,
+      "rolling_average": 23.27,
       "rolling_peak": 29.6,
       "last_score": 10.1,
-      "z_hint": -13.51
+      "z_hint": -13.17
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -4799,7 +4799,7 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-19T00:04:25+00:00",
+      "updated_at": "2026-11-19T00:38:27+00:00",
       "network_scores": [
         25.7,
         25.7,
@@ -83598,7 +83598,7 @@
     },
     "title:php": {
       "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
-      "updated_at": "2026-11-19T00:04:25+00:00",
+      "updated_at": "2026-11-19T00:38:27+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -83628,13 +83628,13 @@
         7.1,
         7.1,
         7.1,
-        7.1,
-        10.1
+        10.1,
+        7.1
       ],
       "rolling_average": 7.2,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 2.9
+      "last_score": 7.1,
+      "z_hint": -0.1
     },
     "cve:CVE-2026-109618": {
       "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
