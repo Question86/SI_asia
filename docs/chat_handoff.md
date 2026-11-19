@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-19T22:26:35+00:00_
+_Generated: 2026-11-19T22:42:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `103`
+- findings: `104`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-19T22:21:37+00:00`
+- published: `2026-11-19T22:37:43+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-19T22:26:35+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4676
 - summary: Ein Angreifer kann mehrere Schwachstellen in Gogs ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, beliebigen Skriptcode im Kontext der Sitzung des Opfers auszuführen, Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu u…
 
-### 4. [NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-11-19T10:12:00+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660
-- summary: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.
+### 4. Genie 4 is now available
+- source: Hatena Bookmark Hotentry IT
+- score: `18`
+- published: `2026-11-19T08:23:07+00:00`
+- url: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+- summary: Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Clou…
 
 ### 5. Euro area monthly balance of payments: September 2026
 - source: ECB Statistical Press Releases

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T22:26:35+00:00_
+_Generiert: 2026-11-19T22:42:13+00:00_
 
 ## Kurzlage
 
-103 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+104 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T22:21:37+00:00`, fetched `2026-11-19T22:26:04+00:00`
+  - Zeit: published `2026-11-19T22:37:43+00:00`, fetched `2026-11-19T22:41:41+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Gogs ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, beliebigen Skriptcode im Kontext der Sitzung des Opfers auszuführen, Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen, Benutzerrechte bis hin zu Administratorrechten zu erlangen
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Genie 4 is now available** — Score 18, opportunity — [Quelle](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-19T08:23:07+00:00`, fetched `2026-11-19T22:41:41+00:00`
+  - Treffer: AI/KI, developer, Hatena, hotentry, Security, technology
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); developer (+2.0); recent (+1.0)
+  - Kurz: Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure & cloud Global network Google Cloud See all Technology Safety & Security...
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-19T10:12:00+00:00`, fetched `2026-11-19T10:18:23+00:00`
