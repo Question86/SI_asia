@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-19T22:49:49+00:00_
+_Generiert: 2026-11-19T22:56:14+00:00_
 
 ## Genie 4 is now available
 
