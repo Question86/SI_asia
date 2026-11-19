@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T09:57:35+00:00",
-    "fetched_at": "2026-11-19T10:00:16+00:00",
+    "published_at": "2026-11-19T10:11:10+00:00",
+    "fetched_at": "2026-11-19T10:10:52+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "29c9e1e7d96f702e9757"
+    "id": "4ec54966c85571769500"
   },
   {
     "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -121,6 +121,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "98fcfa87429cb80b0338"
+  },
+  {
+    "title": "[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T10:02:01+00:00",
+    "fetched_at": "2026-11-19T10:10:52+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in OpenVPN ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "269223657ca3a099a3e6"
   },
   {
     "title": "[UPDATE] [hoch] Red Hat OpenStack: Schwachstelle ermöglicht Umgehung von Sicherheitsmaßnahmen",
