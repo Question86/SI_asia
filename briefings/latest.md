@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T12:53:32+00:00_
+_Generiert: 2026-11-19T13:00:12+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+75 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T12:46:11+00:00`, fetched `2026-11-19T12:53:01+00:00`
+  - Zeit: published `2026-11-19T12:59:56+00:00`, fetched `2026-11-19T12:59:40+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -207,6 +207,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She wanted to know what she’d done wrong. Probably nothing. But […] The post Your brand ranks on Google, so why doesn’t ChatGPT recommend it? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Version 1.0: NGINX - Mehrere kritische Schwachstellen "NGINX2Root" bedrohen Webserver** — Score 11, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306805-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-11-19T13:00:00+00:00`, fetched `2026-11-19T12:59:40+00:00`
+  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung, kritisch, kritische Schwachstelle
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); kritisch (+2.5); kritische Schwachstelle (+2.5)
+  - Kurz: Version 1.0: NGINX - Mehrere kritische Schwachstellen "NGINX2Root" bedrohen Webserver
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Johor’s data-centre future is being decided in Ohio and Washington** — Score 11, observation — [Quelle](https://e27.co/johors-data-centre-future-is-being-decided-in-ohio-and-washington-20261119/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-19T08:53:07+00:00`, fetched `2026-11-19T08:57:30+00:00`
@@ -296,15 +305,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote template (x0.45)
   - Kurz: Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository. https://docs.nvidia.com/skills/skillevaluator/ Evaluate and improve AI ag…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **教師のためのAI入門** — Score 8, observation — [Quelle](https://yamazato.nuee.nagoya-u.ac.jp/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-19T01:32:33+00:00`, fetched `2026-11-19T07:54:07+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 教師のためのAI入門
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
