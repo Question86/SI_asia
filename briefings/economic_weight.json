@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T06:04:37+00:00",
+  "generated_at": "2026-11-19T06:28:10+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1450,7 +1450,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T03:12:23+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -1860,7 +1860,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T04:19:13+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -2200,7 +2200,7 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -2778,7 +2778,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -8779,7 +8779,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-19T02:36:40+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -8847,7 +8847,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-19T01:54:09+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -14189,6 +14189,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_90d024f8642ec8b9ac53",
+      "title": "M 4.8 - 23 km SSE of Guayaquil, Ecuador",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-19T06:27:46+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2bb9a382978abc72cb41",
       "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
       "event_classes": [
@@ -14593,7 +14610,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T03:12:23+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -16191,7 +16208,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T05:17:06+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -20476,7 +20493,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -22044,6 +22061,24 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_83b7906dbe4f21594d9a",
+      "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "compliance",
+        "infrastructure"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_876ea6b77d253be7953c",
       "title": "CopilotKit/OpenBot",
       "event_classes": [
@@ -22465,25 +22500,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T05:34:35+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_83b7906dbe4f21594d9a",
-      "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "compliance",
-        "infrastructure"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-19T06:04:17+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -23333,7 +23350,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T04:04:30+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -24455,7 +24472,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T05:17:06+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -28129,7 +28146,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T04:31:12+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -28724,7 +28741,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -33724,7 +33741,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T02:16:34+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -34541,7 +34558,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T05:01:14+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -38809,7 +38826,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
@@ -40068,7 +40085,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:27:54+00:00",
       "last_seen_at": "2026-11-19T06:04:17+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_55bd9b2d9c70fd4db796",
@@ -41563,7 +41580,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T02:36:40+00:00",
-      "last_seen_at": "2026-11-19T06:04:17+00:00",
+      "last_seen_at": "2026-11-19T06:27:46+00:00",
       "status": "active"
     },
     {
