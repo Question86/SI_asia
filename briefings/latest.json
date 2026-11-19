@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T09:53:01+00:00",
-  "run_id": "2026-11-19T09:53:01+00:00",
+  "generated_at": "2026-11-19T10:00:48+00:00",
+  "run_id": "2026-11-19T10:00:48+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 3,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
     "medium": 8,
-    "observe": 30,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T09:52:17+00:00",
-        "fetched_at": "2026-11-19T09:52:31+00:00",
+        "published_at": "2026-11-19T09:57:35+00:00",
+        "fetched_at": "2026-11-19T10:00:16+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "3eae6e5eb5c1728276bd"
+        "id": "29c9e1e7d96f702e9757"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -701,6 +701,26 @@
         "id": "1dda89b2c7917c4ca05f"
       },
       {
+        "title": "Angriffe auf Lücken in Apache Axis und Roller, LiteLLM, Synology und mehr",
+        "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-11-19T09:47:00.000+00:00",
+        "fetched_at": "2026-11-19T10:00:16+00:00",
+        "summary": "Admins müssen den Update-Stand prüfen: Bösartige Akteure haben es auf Sicherheitslücken in Apache Axis und Roller, LiteLLM, Synology und mehr abgesehen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5960c244dcf436ba365f"
+      },
+      {
         "title": "The fastest raise in Singapore may still be a resignation letter",
         "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -759,6 +779,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0b4d23647a58a0d0dea8"
+      },
+      {
+        "title": "Industrial policy - redux or renewal?",
+        "url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-19T10:00:16+00:00",
+        "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Centre for Economic Policy Research–University College Dublin-Central Bank of Ireland workshop, Dublin, 13 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "09a16e78c5e124e13105"
       },
       {
         "title": "Can sustainable finance save the planet?",
@@ -974,8 +1014,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T09:52:17+00:00",
-      "fetched_at": "2026-11-19T09:52:31+00:00",
+      "published_at": "2026-11-19T09:57:35+00:00",
+      "fetched_at": "2026-11-19T10:00:16+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1009,7 +1049,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3eae6e5eb5c1728276bd"
+      "id": "29c9e1e7d96f702e9757"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -1639,6 +1679,26 @@
       "id": "1dda89b2c7917c4ca05f"
     },
     {
+      "title": "Angriffe auf Lücken in Apache Axis und Roller, LiteLLM, Synology und mehr",
+      "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-19T09:47:00.000+00:00",
+      "fetched_at": "2026-11-19T10:00:16+00:00",
+      "summary": "Admins müssen den Update-Stand prüfen: Bösartige Akteure haben es auf Sicherheitslücken in Apache Axis und Roller, LiteLLM, Synology und mehr abgesehen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5960c244dcf436ba365f"
+    },
+    {
       "title": "The fastest raise in Singapore may still be a resignation letter",
       "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1697,6 +1757,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "0b4d23647a58a0d0dea8"
+    },
+    {
+      "title": "Industrial policy - redux or renewal?",
+      "url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-19T10:00:16+00:00",
+      "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Centre for Economic Policy Research–University College Dublin-Central Bank of Ireland workshop, Dublin, 13 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "09a16e78c5e124e13105"
     },
     {
       "title": "Can sustainable finance save the planet?",
@@ -1911,8 +1991,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T09:52:17+00:00",
-      "fetched_at": "2026-11-19T09:52:31+00:00",
+      "published_at": "2026-11-19T09:57:35+00:00",
+      "fetched_at": "2026-11-19T10:00:16+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1946,27 +2026,47 @@
         "HD",
         "LOW"
       ],
-      "id": "3eae6e5eb5c1728276bd"
+      "id": "29c9e1e7d96f702e9757"
     },
     {
-      "title": "Can sustainable finance save the planet?",
-      "url": "https://www.bis.org/speeches/20261119-can-sustainable-finance-save-planet",
+      "title": "Angriffe auf Lücken in Apache Axis und Roller, LiteLLM, Synology und mehr",
+      "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-19T09:47:00.000+00:00",
+      "fetched_at": "2026-11-19T10:00:16+00:00",
+      "summary": "Admins müssen den Update-Stand prüfen: Bösartige Akteure haben es auf Sicherheitslücken in Apache Axis und Roller, LiteLLM, Synology und mehr abgesehen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5960c244dcf436ba365f"
+    },
+    {
+      "title": "Industrial policy - redux or renewal?",
+      "url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "fetched_at": "2026-11-19T09:52:31+00:00",
-      "summary": "Speech by Ms Signe Krogstrup, Governor of Danmarks Nationalbank, at a conference on sustainable finance, co-organised by Copenhagen Business School (CBS) and the Technical University of Denmark (DTU), Copenhagen, 10 November 2026.",
+      "fetched_at": "2026-11-19T10:00:16+00:00",
+      "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Centre for Economic Policy Research–University College Dublin-Central Bank of Ireland workshop, Dublin, 13 November 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
       "relevance_score": 6,
       "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2ac5cbc8549d9db76c2f"
+      "id": "09a16e78c5e124e13105"
     }
   ],
   "source_errors": [],

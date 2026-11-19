@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T09:53:01+00:00_
+_Generiert: 2026-11-19T10:00:48+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+40 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T09:52:17+00:00`, fetched `2026-11-19T09:52:31+00:00`
+  - Zeit: published `2026-11-19T09:57:35+00:00`, fetched `2026-11-19T10:00:16+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -265,6 +265,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angriffe auf Lücken in Apache Axis und Roller, LiteLLM, Synology und mehr** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-19T09:47:00.000+00:00`, fetched `2026-11-19T10:00:16+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Admins müssen den Update-Stand prüfen: Bösartige Akteure haben es auf Sicherheitslücken in Apache Axis und Roller, LiteLLM, Synology und mehr abgesehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The Deutsche Bundesbank's 2026 Financial Stability Review** — Score 7, opportunity — [Quelle](https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-11-19T00:00:00+00:00`, fetched `2026-11-19T09:44:45+00:00`
@@ -274,15 +283,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0)
   - Kurz: Introductory statement by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the press conference on the publication of the Deutsche Bundesbank's 2026 Financial Stability Review, Frankfurt am Main, 12 November 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」** — Score 5, observation — [Quelle](https://togetter.com/li/2772319)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-19T05:30:10+00:00`, fetched `2026-11-19T09:20:52+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 山田胡瓜・漫画家 @kyuukanba AIの遺電子全巻99円って安すぎるでしょ！！！ 僕、作者！！！ 実入りはどうなるの！！！？ ⋯どうなるかよく分からんけど、 マジで今の時代にピッタリな漫画だからぜひこの機会に買ってください。 x.com/zoknd/status/2… 2026-11-19 00:14:15 きんどう｜新刊セールまとめ @zoknd 秋田書店木...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
