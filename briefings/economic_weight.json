@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T02:37:02+00:00",
+  "generated_at": "2026-11-19T02:45:46+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2166,7 +2166,7 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
       "status": "active"
     },
     {
@@ -2744,7 +2744,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
       "status": "active"
     },
     {
@@ -8732,6 +8732,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_53fda29bde6115beceb0",
+      "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_556ff8be15b3d34edda7",
       "title": "M 5.1 - 82 km W of Panguna, Papua New Guinea",
       "event_classes": [
@@ -8796,7 +8813,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-19T01:54:09+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
       "status": "active"
     },
     {
@@ -14136,23 +14153,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_53fda29bde6115beceb0",
-      "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-11-19T02:36:40+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2bb9a382978abc72cb41",
@@ -20408,7 +20408,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
       "status": "active"
     },
     {
@@ -33570,7 +33570,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T02:16:34+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
       "status": "active"
     },
     {
@@ -38944,7 +38944,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
       "status": "active"
     },
     {
@@ -39896,7 +39896,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:27:54+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
       "status": "active"
     },
     {
@@ -41377,6 +41377,23 @@
       "first_seen_at": "2026-11-12T00:37:54+00:00",
       "last_seen_at": "2026-11-12T05:59:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8e98df1cb2d152ac8de5",
+      "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_8f016556e2d56147d751",
@@ -44184,23 +44201,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_8e98df1cb2d152ac8de5",
-      "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-19T02:36:40+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_017c3d08edef1ec4ff45",
       "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
       "event_classes": [
@@ -44588,7 +44588,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T01:17:13+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
       "status": "active"
     },
     {
@@ -44724,7 +44724,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T00:55:24+00:00",
-      "last_seen_at": "2026-11-19T02:36:40+00:00",
+      "last_seen_at": "2026-11-19T02:45:22+00:00",
       "status": "active"
     },
     {
