@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T08:22:27+00:00",
-  "run_id": "2026-11-19T08:22:27+00:00",
+  "generated_at": "2026-11-19T08:32:57+00:00",
+  "run_id": "2026-11-19T08:32:57+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 28,
     "displayed_findings": 28,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T08:22:16+00:00",
-        "fetched_at": "2026-11-19T08:21:59+00:00",
+        "published_at": "2026-11-19T08:28:07+00:00",
+        "fetched_at": "2026-11-19T08:32:27+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "caf1420cb25e2ded5870"
+        "id": "63a0aaae3dc20765b7b4"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -760,8 +760,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T08:22:16+00:00",
-      "fetched_at": "2026-11-19T08:21:59+00:00",
+      "published_at": "2026-11-19T08:28:07+00:00",
+      "fetched_at": "2026-11-19T08:32:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -795,7 +795,7 @@
         "HD",
         "LOW"
       ],
-      "id": "caf1420cb25e2ded5870"
+      "id": "63a0aaae3dc20765b7b4"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -1483,8 +1483,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T08:22:16+00:00",
-      "fetched_at": "2026-11-19T08:21:59+00:00",
+      "published_at": "2026-11-19T08:28:07+00:00",
+      "fetched_at": "2026-11-19T08:32:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1518,30 +1518,7 @@
         "HD",
         "LOW"
       ],
-      "id": "caf1420cb25e2ded5870"
-    },
-    {
-      "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-19T08:02:01+00:00",
-      "fetched_at": "2026-11-19T08:21:59+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in NGINX und NGINX NGINX Plus ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen, um Sicherheitsmechanismen zu umgehen und um einen Denial of Service herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0f1ba8a1df12d5b0a162"
+      "id": "63a0aaae3dc20765b7b4"
     }
   ],
   "source_errors": [],
