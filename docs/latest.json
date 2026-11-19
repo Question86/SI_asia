@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T04:04:27+00:00",
-  "run_id": "2026-11-19T04:04:27+00:00",
+  "generated_at": "2026-11-19T04:19:09+00:00",
+  "run_id": "2026-11-19T04:19:09+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 2,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 3,
-    "observe": 13,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T03:57:52+00:00",
-        "fetched_at": "2026-11-19T04:04:00+00:00",
+        "published_at": "2026-11-19T04:18:57+00:00",
+        "fetched_at": "2026-11-19T04:18:38+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "03df6c01f9a6f3c7b776"
+        "id": "909dfef918e7c768ee78"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -247,6 +247,27 @@
           "LOW"
         ],
         "id": "6f35d7ecc1695b46880a"
+      },
+      {
+        "title": "Canadia Impact Fund makes its first French bet with career guidance startup Choose and Connect",
+        "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-19T04:04:43+00:00",
+        "fetched_at": "2026-11-19T04:18:38+00:00",
+        "summary": "Canadia Impact Fund (CIFC), the corporate venture arm of Cambodian conglomerate Canadia Group, has invested in a French startup for the first time. The deal is not the kind of deeptech or AI play that usually headlines cross-border investments. The recipient is Choose and Connect, a free study and career guidance platform for 14- to […] The post Canadia Impact Fund makes its first French bet with career guidance sta…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a4cc5871f0730dea62a9"
       },
       {
         "title": "Before you add AI to your product, fix how work moves inside the company",
@@ -441,8 +462,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T03:57:52+00:00",
-      "fetched_at": "2026-11-19T04:04:00+00:00",
+      "published_at": "2026-11-19T04:18:57+00:00",
+      "fetched_at": "2026-11-19T04:18:38+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -476,7 +497,7 @@
         "HD",
         "LOW"
       ],
-      "id": "03df6c01f9a6f3c7b776"
+      "id": "909dfef918e7c768ee78"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -652,6 +673,27 @@
         "LOW"
       ],
       "id": "6f35d7ecc1695b46880a"
+    },
+    {
+      "title": "Canadia Impact Fund makes its first French bet with career guidance startup Choose and Connect",
+      "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T04:04:43+00:00",
+      "fetched_at": "2026-11-19T04:18:38+00:00",
+      "summary": "Canadia Impact Fund (CIFC), the corporate venture arm of Cambodian conglomerate Canadia Group, has invested in a French startup for the first time. The deal is not the kind of deeptech or AI play that usually headlines cross-border investments. The recipient is Choose and Connect, a free study and career guidance platform for 14- to […] The post Canadia Impact Fund makes its first French bet with career guidance sta…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a4cc5871f0730dea62a9"
     },
     {
       "title": "Before you add AI to your product, fix how work moves inside the company",
@@ -845,8 +887,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T03:57:52+00:00",
-      "fetched_at": "2026-11-19T04:04:00+00:00",
+      "published_at": "2026-11-19T04:18:57+00:00",
+      "fetched_at": "2026-11-19T04:18:38+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -880,49 +922,28 @@
         "HD",
         "LOW"
       ],
-      "id": "03df6c01f9a6f3c7b776"
+      "id": "909dfef918e7c768ee78"
     },
     {
-      "title": "Beyond who you know: Why value is becoming the new currency of business access",
-      "url": "https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/",
+      "title": "Canadia Impact Fund makes its first French bet with career guidance startup Choose and Connect",
+      "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-19T04:00:23+00:00",
-      "fetched_at": "2026-11-19T04:04:00+00:00",
-      "summary": "As technology and AI make it easier to build and scale businesses, I believe access to the right networks should no longer be an advantage inherited by the few, while doors remain closed to the average entrepreneur. That era is changing. “Your network is your net worth” may hold only a fraction of the weight […] The post Beyond who you know: Why value is becoming the new currency of business access appeared first on…",
+      "published_at": "2026-11-19T04:04:43+00:00",
+      "fetched_at": "2026-11-19T04:18:38+00:00",
+      "summary": "Canadia Impact Fund (CIFC), the corporate venture arm of Cambodian conglomerate Canadia Group, has invested in a French startup for the first time. The deal is not the kind of deeptech or AI play that usually headlines cross-border investments. The recipient is Choose and Connect, a free study and career guidance platform for 14- to […] The post Canadia Impact Fund makes its first French bet with career guidance sta…",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar",
-        "Public Health"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8120603694882a89559c"
-    },
-    {
-      "title": "Beyond faster payments, what global businesses really need",
-      "url": "https://e27.co/beyond-faster-payments-what-global-businesses-really-need-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-19T04:00:23+00:00",
-      "fetched_at": "2026-11-19T04:04:00+00:00",
-      "summary": "International trade has little use for a payment that is fast but difficult to account for. An exporter needs to know what has been received, what has been deducted, and whom to approach when the figures do not match. Yet much of the debate on cross-border payments still revolves around transaction speed and price. Those […] The post Beyond faster payments, what global businesses really need appeared first on e27 .",
-      "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "78d5f60efeb28c33e431"
+      "id": "a4cc5871f0730dea62a9"
     }
   ],
   "source_errors": [],

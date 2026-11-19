@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T04:04:27+00:00_
+_Generiert: 2026-11-19T04:19:09+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T03:57:52+00:00`, fetched `2026-11-19T04:04:00+00:00`
+  - Zeit: published `2026-11-19T04:18:57+00:00`, fetched `2026-11-19T04:18:38+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -78,14 +78,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-19 01:29:33 UTC 2026-11-19 01:29:33 UTC at epicenter Location 5.484°S 35.140°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Before you add AI to your product, fix how work moves inside the company** — Score 8, observation — [Quelle](https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/)
+- **Canadia Impact Fund makes its first French bet with career guidance startup Choose and Connect** — Score 8, observation — [Quelle](https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-19T02:00:20+00:00`, fetched `2026-11-19T02:15:59+00:00`
+  - Zeit: published `2026-11-19T04:04:43+00:00`, fetched `2026-11-19T04:18:38+00:00`
   - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Most software and services companies ask the AI question in the same way: how do we add AI to what we sell? It sounds strategic. It sounds visible. It sounds like the kind of move a modern company should make. But for many businesses, it is not the best first move. The more practical starting […] The post Before you add AI to your product, fix how work moves inside the company appeared first on e27 .
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: Canadia Impact Fund (CIFC), the corporate venture arm of Cambodian conglomerate Canadia Group, has invested in a French startup for the first time. The deal is not the kind of deeptech or AI play that usually headlines cross-border investments. The recipient is Choose and Connect, a free study and career guidance platform for 14- to […] The post Canadia Impact Fund makes its first French bet with career guidance sta…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise** — Score 8, observation — [Quelle](https://openai.com/business/customer-stories/sumitomo-life)
   - Quelle: OpenAI News RSS / `rss`
