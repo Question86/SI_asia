@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T10:01:41+00:00",
+  "generated_at": "2026-11-19T10:12:03+00:00",
   "candidate_count": 3175,
   "candidates": [
     {
@@ -13415,22 +13415,23 @@
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
     },
     {
-      "candidate_id": "cand_752f1437514f07f871c1",
-      "event_id": "evt_5a8609c38e0d544999d3",
-      "source_url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal",
-      "observed_at": "2026-11-19T10:01:26+00:00",
-      "currency": "EUR",
       "amount_native": 12000000000000.0,
       "amount_usd": null,
-      "conversion_status": "pending_fx",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
       "attribution_probability": null,
-      "snippet": "d in capital – will be important in the face of headwinds from broader global economic fragmentation. Deepening Europe's capital markets in particular could help unlock the almost €12 trillion that Europeans hold in savings and cash deposits for productive investment. These are policies which can strengthen growth and I believe they have more evidence to support them th",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.55,
-      "review_status": "pending"
+      "candidate_id": "cand_752f1437514f07f871c1",
+      "component_confidence": 0.55,
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-19T10:01:26+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:capital_allocation:636f8cfa7448",
+      "review_status": "pending",
+      "snippet": "d in capital – will be important in the face of headwinds from broader global economic fragmentation. Deepening Europe's capital markets in particular could help unlock the almost €12 trillion that Europeans hold in savings and cash deposits for productive investment. These are policies which can strengthen growth and I believe they have more evidence to support them th",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal"
     },
     {
       "amount_native": 10500000000000.0,
