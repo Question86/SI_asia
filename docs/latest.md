@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T03:23:06+00:00_
+_Generiert: 2026-11-19T03:33:22+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+14 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -105,14 +105,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **実質的無職になった｜Y.Hirano** — Score 5, observation — [Quelle](https://note.com/y_hirano/n/nc986ab18b90e)
+- **【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T19:58:08+00:00`, fetched `2026-11-19T00:54:51+00:00`
+  - Zeit: published `2026-11-18T21:50:43+00:00`, fetched `2026-11-19T03:32:54+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年10月末で仕事が減ってしまったうえに、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきまし...
+  - Kurz: 【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The crypto hype cycle is dead. Here are the 4 narratives replacing it** — Score 4, observation — [Quelle](https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
