@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T00:38:25+00:00_
+_Generiert: 2026-11-19T00:55:21+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+5 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T00:38:14+00:00`, fetched `2026-11-19T00:37:57+00:00`
+  - Zeit: published `2026-11-19T00:55:09+00:00`, fetched `2026-11-19T00:54:51+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -102,6 +102,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **実質的無職になった｜Y.Hirano** — Score 5, observation — [Quelle](https://note.com/y_hirano/n/nc986ab18b90e)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-18T19:58:08+00:00`, fetched `2026-11-19T00:54:51+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年10月末で仕事が減ってしまったうえに、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきまし...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Wait for pull request events with GitHub CLI** — Score 4, observation — [Quelle](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-19T00:00:13+00:00`, fetched `2026-11-19T00:54:51+00:00`
+  - Treffer: GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.5); recent (+1.0)
+  - Kurz: GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it… The post Wait for pull request events with GitHub CLI appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

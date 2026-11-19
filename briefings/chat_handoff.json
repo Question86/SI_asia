@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-19T00:38:25+00:00",
+  "generated_at": "2026-11-19T00:55:21+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 3,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 1,
-    "observe": 2
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T00:38:14+00:00",
+      "published_at": "2026-11-19T00:55:09+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -42,6 +42,26 @@
       "relevance_score": 5,
       "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
       "summary": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
+      "section": "observe"
+    },
+    {
+      "title": "実質的無職になった｜Y.Hirano",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T19:58:08+00:00",
+      "relevance_score": 5,
+      "url": "https://note.com/y_hirano/n/nc986ab18b90e",
+      "summary": "2026年10月末で仕事が減ってしまったうえに、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきまし...",
+      "section": "observe"
+    },
+    {
+      "title": "Wait for pull request events with GitHub CLI",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-19T00:00:13+00:00",
+      "relevance_score": 4,
+      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "summary": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it… The post Wait for pull request events with GitHub CLI appeared first on The GitHub Blog .",
       "section": "observe"
     }
   ],

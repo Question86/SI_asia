@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T00:38:27+00:00",
+  "generated_at": "2026-11-19T00:55:24+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "updated_at": "2026-11-19T00:38:27+00:00",
+      "updated_at": "2026-11-19T00:55:24+00:00",
       "network_scores": [
-        20.4,
         20.4,
         20.4,
         20.4,
@@ -130,12 +129,13 @@
         26.6,
         26.6,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 23.27,
+      "rolling_average": 22.92,
       "rolling_peak": 29.6,
       "last_score": 10.1,
-      "z_hint": -13.17
+      "z_hint": -12.82
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -4799,7 +4799,7 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-19T00:38:27+00:00",
+      "updated_at": "2026-11-19T00:55:24+00:00",
       "network_scores": [
         25.7,
         25.7,
@@ -10375,8 +10375,8 @@
       "z_hint": 0.0
     },
     "domain:note.com": {
-      "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
-      "updated_at": "2026-11-18T23:55:15+00:00",
+      "title": "実質的無職になった｜Y.Hirano",
+      "updated_at": "2026-11-19T00:55:24+00:00",
       "network_scores": [
         13.2,
         13.2,
@@ -10407,12 +10407,12 @@
         13.2,
         13.2,
         13.2,
-        13.2
+        10.1
       ],
-      "rolling_average": 13.2,
+      "rolling_average": 13.1,
       "rolling_peak": 13.2,
-      "last_score": 13.2,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -3.0
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -83598,7 +83598,7 @@
     },
     "title:php": {
       "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
-      "updated_at": "2026-11-19T00:38:27+00:00",
+      "updated_at": "2026-11-19T00:55:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -83627,8 +83627,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1
       ],
       "rolling_average": 7.2,
@@ -125577,6 +125577,17 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -0.75
+    },
+    "title:wait-pull-request-events-github-cli": {
+      "title": "Wait for pull request events with GitHub CLI",
+      "updated_at": "2026-11-19T00:55:24+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
     }
   }
 }
