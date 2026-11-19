@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-19T03:58:05+00:00",
+  "generated_at": "2026-11-19T04:04:27+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 3,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 3,
-    "observe": 11
+    "observe": 13
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T03:51:12+00:00",
+      "published_at": "2026-11-19T03:57:52+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -43,6 +43,16 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "summary": "Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。",
       "section": "medium"
+    },
+    {
+      "title": "Beyond who you know: Why value is becoming the new currency of business access",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T04:00:23+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/",
+      "summary": "As technology and AI make it easier to build and scale businesses, I believe access to the right networks should no longer be an advantage inherited by the few, while doors remain closed to the average entrepreneur. That era is changing. “Your network is your…",
+      "section": "observe"
     },
     {
       "title": "From reality TV to building apps: How I actually use AI",
@@ -72,16 +82,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
       "summary": "Time 2026-11-19 01:29:33 UTC 2026-11-19 01:29:33 UTC at epicenter Location 5.484°S 35.140°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Before you add AI to your product, fix how work moves inside the company",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-19T02:00:20+00:00",
-      "relevance_score": 8,
-      "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/",
-      "summary": "Most software and services companies ask the AI question in the same way: how do we add AI to what we sell? It sounds strategic. It sounds visible. It sounds like the kind of move a modern company should make. But for many businesses, it is not the best first…",
       "section": "observe"
     }
   ],
