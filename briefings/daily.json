@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-19T11:51:43+00:00",
-  "today_file_total": 51,
+  "generated_at": "2026-11-19T12:04:16+00:00",
+  "today_file_total": 57,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "title": "[NEU] [hoch] Gogs: Mehrere Schwachstellen",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -12,20 +12,20 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4676",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1408",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3378",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3914",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3953",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4661"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4677",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4675",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4678",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4673"
       ],
-      "finding_count": 9,
-      "max_score": 16,
-      "credibility_total": 9.45,
+      "finding_count": 15,
+      "max_score": 18,
+      "credibility_total": 15.75,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 34.9,
+      "momentum_delta": 6,
+      "momentum_status": "increasing",
+      "network_score": 67.5,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."

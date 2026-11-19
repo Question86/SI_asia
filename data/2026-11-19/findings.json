@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T11:47:27+00:00",
-    "fetched_at": "2026-11-19T11:51:11+00:00",
+    "published_at": "2026-11-19T12:04:02+00:00",
+    "fetched_at": "2026-11-19T12:03:45+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "912f4772fb175985a29f"
+    "id": "c1387bb5c28761644edb"
   },
   {
     "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -87,6 +87,30 @@
       "PINS"
     ],
     "id": "216f5c4155afafc76369"
+  },
+  {
+    "title": "[NEU] [hoch] Gogs: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4676",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:02:01+00:00",
+    "fetched_at": "2026-11-19T12:03:45+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Gogs ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, beliebigen Skriptcode im Kontext der Sitzung des Opfers auszuführen, Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen, Benutzerrechte bis hin zu Administratorrechten zu erlangen",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Macro/Policy",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cb3889ec981353b4d5b5"
   },
   {
     "title": "[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -172,6 +196,75 @@
     "id": "b080f8e81d70f3084156"
   },
   {
+    "title": "[NEU] [niedrig] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4677",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:02:01+00:00",
+    "fetched_at": "2026-11-19T12:03:45+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "111becdea5d75216e9cd"
+  },
+  {
+    "title": "[NEU] [hoch] WebKitGTK: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4675",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:02:01+00:00",
+    "fetched_at": "2026-11-19T12:03:45+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Daten zu manipulieren und um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0519973a7d4dd3770999"
+  },
+  {
+    "title": "[NEU] [hoch] OpenClaw: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4678",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:02:01+00:00",
+    "fetched_at": "2026-11-19T12:03:45+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OpenClaw ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren und die Ausführung von Befehlen auf dem Host zu ermöglichen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6df89d23e869997e3483"
+  },
+  {
     "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
     "url": "https://jvn.jp/jp/JVN28897261/",
     "source": "JVN Japan Vulnerability Notes",
@@ -192,6 +285,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "98fcfa87429cb80b0338"
+  },
+  {
+    "title": "[NEU] [hoch] Splunk SOAR: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4673",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T11:57:02+00:00",
+    "fetched_at": "2026-11-19T12:03:45+00:00",
+    "summary": "Ein authentisierter Angreifer kann mehrere Schwachstellen in Splunk SOAR ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Berechtigungen zu erweitern, Administratorrechte zu erlangen, beliebigen Code mit dem Splunk SOAR-Dienstkonto oder Root-Rechten auszuführen, Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursache…",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2e3c007e6e283a191aec"
+  },
+  {
+    "title": "[NEU] [hoch] Splunk Enterprise: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4674",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T11:57:02+00:00",
+    "fetched_at": "2026-11-19T12:03:45+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Splunk Enterprise ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder seine Rechte zu erweitern.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2dca7cb228201ec14f50"
   },
   {
     "title": "[UPDATE] [mittel] LiteLLM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",

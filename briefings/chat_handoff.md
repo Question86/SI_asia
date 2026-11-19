@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-19T11:51:40+00:00_
+_Generated: 2026-11-19T12:04:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `51`
+- findings: `57`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-19T11:47:27+00:00`
+- published: `2026-11-19T12:04:02+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-19T11:51:40+00:00_
 - url: https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/
 - summary: Last month, 414,210 visitors to an online marketplace introduced themselves as a widely used consumer AI agent. Every one of them went straight to the sign-in page. Every one of them failed. They were not agents. They were credential-stuffing bots wearing an…
 
-### 3. [NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service
+### 3. [NEU] [hoch] Gogs: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-11-19T12:02:01+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4676
+- summary: Ein Angreifer kann mehrere Schwachstellen in Gogs ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, beliebigen Skriptcode im Kontext der Sitzung des Opfers auszuführen, Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu u…
+
+### 4. [NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-11-19T10:12:00+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660
 - summary: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. M 5.2 - 141 km W of Teluk Dalam, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-19T01:47:36.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb
-- summary: Time 2026-11-19 01:34:52 UTC 2026-11-19 01:34:52 UTC at epicenter Location 0.523°N 96.530°E Depth 37.00 km (22.99 mi)
 
 ### 5. Euro area monthly balance of payments: September 2026
 - source: ECB Statistical Press Releases
