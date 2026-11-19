@@ -1,19 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-19T06:37:46Z",
+  "generated_at": "2026-11-19T08:38:16Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
+      "krass": 1,
       "strong": 9,
-      "watch": 14,
-      "quiet": 17
+      "watch": 15,
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 14,
-      "quiet": 17
+      "strong": 10,
+      "watch": 15,
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -22,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN29068051/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T14:00:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -46,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T12:00:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -66,11 +67,37 @@
       "summary": "Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-19T08:02:01+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in NGINX und NGINX NGINX Plus ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen, um Sicherheitsmechanismen zu umgehen und um einen Denial of Service herbeizuführen."
+    },
+    {
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 152.8,
+      "age_days": 152.88,
       "topics": [
         "general"
       ],
@@ -88,7 +115,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 152.8d old signal",
+        "aging penalty -8.0 for 152.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -97,7 +124,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-19T06:27:31+00:00",
+      "published_at": "2026-11-19T08:28:07+00:00",
       "age_days": 0.01,
       "topics": [
         "ai",
@@ -127,7 +154,7 @@
       "url": "https://jvn.jp/jp/JVN29068051/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T05:17:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -151,7 +178,7 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T03:12:23+00:00",
-      "age_days": 0.14,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -175,7 +202,7 @@
       "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T05:34:35+00:00",
-      "age_days": 0.04,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -199,7 +226,7 @@
       "url": "https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:04:30+00:00",
-      "age_days": 0.11,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -223,7 +250,7 @@
       "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T05:17:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -247,7 +274,7 @@
       "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:31:12+00:00",
-      "age_days": 0.09,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -271,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:47:36.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -295,7 +322,7 @@
       "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:19:13+00:00",
-      "age_days": 0.1,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -319,7 +346,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T06:21:58.594+00:00",
-      "age_days": 0.01,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -340,26 +367,75 @@
       "summary": "DYFI? - IV Time 2026-11-19 05:49:26 UTC 2026-11-19 05:49:26 UTC at epicenter Location 2.402°S 79.820°W Depth 69.49 km (43.18 mi)"
     },
     {
+      "title": "M 4.8 - 23 km SSE of Guayaquil, Ecuador",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-19T06:27:46+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 82.77,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 82.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
       "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T06:04:17+00:00",
-      "age_days": 0.02,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 15.5,
+      "dynamics_score": 15.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -370,7 +446,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 76.05,
+      "age_days": 76.13,
       "topics": [
         "general"
       ],
@@ -386,7 +462,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 76.0d old signal"
+        "aging penalty -8.0 for 76.1d old signal"
       ],
       "summary": ""
     },
@@ -395,7 +471,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T02:36:40+00:00",
-      "age_days": 0.17,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -419,7 +495,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T02:49:40+00:00",
-      "age_days": 10.16,
+      "age_days": 10.24,
       "topics": [
         "general"
       ],
@@ -443,7 +519,7 @@
       "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T05:30:54+00:00",
-      "age_days": 0.05,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -463,35 +539,11 @@
       "summary": "Here is an uncomfortable truth about business: If nobody knows you, nobody owes you their trust. An established company does not walk into a room carrying only its product. It carries years of reputation, relationships, customer references and a network built long before the current opportunity appeared. A founder sta…"
     },
     {
-      "title": "M 4.8 - 23 km SSE of Guayaquil, Ecuador",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-19T06:27:46+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Beyond faster payments, what global businesses really need",
       "url": "https://e27.co/beyond-faster-payments-what-global-businesses-really-need-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:04:30+00:00",
-      "age_days": 0.11,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -515,7 +567,7 @@
       "url": "https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T01:17:13+00:00",
-      "age_days": 0.22,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -539,7 +591,7 @@
       "url": "https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T03:12:23+00:00",
-      "age_days": 0.14,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -565,7 +617,7 @@
       "url": "https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T01:00:22+00:00",
-      "age_days": 0.23,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -591,11 +643,11 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:27:54+00:00",
-      "age_days": 29.17,
+      "age_days": 29.26,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.14,
+      "dynamics_score": 11.11,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -607,7 +659,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -2.9 for 29.2d old signal"
+        "aging penalty -2.9 for 29.3d old signal"
       ],
       "summary": ""
     },
@@ -616,7 +668,7 @@
       "url": "https://japan.cnet.com/article/35255099/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 152.89,
+      "age_days": 152.97,
       "topics": [
         "general"
       ],
@@ -632,7 +684,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 152.9d old signal"
+        "aging penalty -8.0 for 153.0d old signal"
       ],
       "summary": ""
     },
@@ -641,7 +693,7 @@
       "url": "https://japan.cnet.com/article/35255099/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T22:20:32+00:00",
-      "age_days": 0.35,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -665,7 +717,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T00:18:40+00:00",
-      "age_days": 0.26,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -689,7 +741,7 @@
       "url": "https://note.com/y_hirano/n/nc986ab18b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T19:58:08+00:00",
-      "age_days": 0.44,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -713,7 +765,33 @@
       "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T02:16:34+00:00",
-      "age_days": 0.18,
+      "age_days": 0.27,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "教師のためのAI入門",
+      "url": "https://yamazato.nuee.nagoya-u.ac.jp/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-19T07:54:40+00:00",
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -739,7 +817,7 @@
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 154.41,
+      "age_days": 154.5,
       "topics": [
         "general"
       ],
@@ -755,7 +833,7 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 154.4d old signal",
+        "aging penalty -8.0 for 154.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -765,7 +843,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T02:30:01.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "disaster"
@@ -793,7 +871,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:48:46.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "disaster"
@@ -821,7 +899,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T02:36:40+00:00",
-      "age_days": 0.17,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -847,7 +925,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:54:09+00:00",
-      "age_days": 0.2,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -873,7 +951,7 @@
       "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T05:01:14+00:00",
-      "age_days": 0.07,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -899,7 +977,7 @@
       "url": "https://togetter.com/li/2772266",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 152.75,
+      "age_days": 152.84,
       "topics": [
         "general"
       ],
@@ -924,7 +1002,7 @@
       "url": "https://note.com/y_hirano/n/nc986ab18b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 79.5,
+      "age_days": 79.58,
       "topics": [
         "general"
       ],
@@ -940,86 +1018,9 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 79.5d old signal"
+        "aging penalty -8.0 for 79.6d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
-      "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T05:59:40+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For two years, Indonesia has pitched itself as the place where Asia’s AI workloads would live: a huge domestic digital market, surplus power and a government eager to cut ribbons on hyperscale campuses. Washington has just added a line to that brochure: terms and conditions apply. In a note published on Tuesday, Mayba…"
-    },
-    {
-      "title": "Wait for pull request events with GitHub CLI",
-      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-11-19T00:55:24+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Beyond who you know: Why value is becoming the new currency of business access",
-      "url": "https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T04:00:23+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "As technology and AI make it easier to build and scale businesses, I believe access to the right networks should no longer be an advantage inherited by the few, while doors remain closed to the average entrepreneur. That era is changing. “Your network is your net worth” may hold only a fraction of the weight […] The p…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
