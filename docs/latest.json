@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T13:20:25+00:00",
-  "run_id": "2026-11-19T13:20:25+00:00",
+  "generated_at": "2026-11-19T13:29:02+00:00",
+  "run_id": "2026-11-19T13:29:02+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "new_relevant_findings": 1,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
     "medium": 34,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -998,6 +998,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "37e715d0cd2cac9986c5"
+      },
+      {
+        "title": "M 4.9 - 65 km SSW of Atka, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubzm",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-19T13:24:52.040+00:00",
+        "fetched_at": "2026-11-19T13:28:34+00:00",
+        "summary": "ShakeMap - III Time 2026-11-19 13:05:22 UTC 2026-11-19 13:05:22 UTC at epicenter Location 51.680°N 174.660°W Depth 46.05 km (28.62 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "08c1438ae2c7cce30ab3"
       },
       {
         "title": "Version 1.0: NGINX - Mehrere kritische Schwachstellen \"NGINX2Root\" bedrohen Webserver",
@@ -2882,6 +2919,43 @@
       "id": "37e715d0cd2cac9986c5"
     },
     {
+      "title": "M 4.9 - 65 km SSW of Atka, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubzm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-19T13:24:52.040+00:00",
+      "fetched_at": "2026-11-19T13:28:34+00:00",
+      "summary": "ShakeMap - III Time 2026-11-19 13:05:22 UTC 2026-11-19 13:05:22 UTC at epicenter Location 51.680°N 174.660°W Depth 46.05 km (28.62 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "08c1438ae2c7cce30ab3"
+    },
+    {
       "title": "Version 1.0: NGINX - Mehrere kritische Schwachstellen \"NGINX2Root\" bedrohen Webserver",
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306805-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
@@ -3795,32 +3869,27 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-19T13:14:04+00:00",
-      "fetched_at": "2026-11-19T13:20:00+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "M 4.9 - 65 km SSW of Atka, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubzm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-19T13:24:52.040+00:00",
+      "fetched_at": "2026-11-19T13:28:34+00:00",
+      "summary": "ShakeMap - III Time 2026-11-19 13:05:22 UTC 2026-11-19 13:05:22 UTC at epicenter Location 51.680°N 174.660°W Depth 46.05 km (28.62 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
+        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "earthquakes_tsunami: earthquake, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -3834,28 +3903,7 @@
         "HD",
         "LOW"
       ],
-      "id": "bd5d565893c8c24fa084"
-    },
-    {
-      "title": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-19T11:25:45+00:00",
-      "fetched_at": "2026-11-19T13:20:00+00:00",
-      "summary": "11月18日、業務の再委託先が使用する情報機器でマルウェア「K2F」への感染が確認され、個人情報が漏えいした可能性があると発表した北海道岩見沢市と新得町。両自治体が業務を委託していたGIS北海道（札幌市）は19日、ITmedia NEWSの取材に応じ、人気ゲーム「勝利の女神：NIKKE」のPC版ランチャー（起動用アプリ）が関係...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "184b3831a2d18e74037d"
+      "id": "08c1438ae2c7cce30ab3"
     }
   ],
   "source_errors": [],
