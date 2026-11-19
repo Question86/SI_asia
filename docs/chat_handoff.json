@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-19T04:19:09+00:00",
+  "generated_at": "2026-11-19T04:31:09+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 3,
-    "observe": 14
+    "observe": 15
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T04:18:57+00:00",
+      "published_at": "2026-11-19T04:30:57+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T04:23:51+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/",
+      "summary": "Pressure dominates the crypto market, and the immediate cause is not a secret AI offering but a familiar macro squeeze. Bitcoin trades at US$62,731.42, down 2.39 per cent over 24 hours, while total crypto market capitalisation sits at US$2.15 trillion, down 1…",
+      "section": "observe"
+    },
+    {
       "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -72,16 +82,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
       "summary": "Time 2026-11-19 02:11:23 UTC 2026-11-19 02:11:23 UTC at epicenter Location 5.543°S 35.081°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.9 - 45 km NNW of Kintinku, Tanzania",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-19T01:48:46.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
-      "summary": "Time 2026-11-19 01:29:33 UTC 2026-11-19 01:29:33 UTC at epicenter Location 5.484°S 35.140°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
