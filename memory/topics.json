@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-19T12:04:13+00:00",
+  "generated_at": "2026-11-19T12:21:55+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-19T12:04:02+00:00",
+        "published_at": "2026-11-19T12:13:27+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -98,11 +98,39 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660"
       },
       {
+        "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-19T06:49:06+00:00",
+        "relevance_score": 16,
+        "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html"
+      },
+      {
         "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-19T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN29068051/"
+      },
+      {
+        "title": "[NEU] [mittel] systemd: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4679"
+      },
+      {
+        "title": "[NEU] [hoch] Synology DiskStation Manager: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4680"
+      },
+      {
+        "title": "[NEU] [hoch] DrayTek Vigor2960: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4681"
       },
       {
         "title": "[NEU] [niedrig] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
@@ -117,34 +145,6 @@
         "published_at": "2026-11-19T12:02:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4675"
-      },
-      {
-        "title": "[NEU] [hoch] OpenClaw: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T12:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4678"
-      },
-      {
-        "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-19T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN28897261/"
-      },
-      {
-        "title": "[NEU] [hoch] Splunk SOAR: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T11:57:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4673"
-      },
-      {
-        "title": "[NEU] [hoch] Splunk Enterprise: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T11:57:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4674"
       }
     ],
     "economy": [
@@ -168,6 +168,13 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "relevance_score": 13,
         "url": "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan"
+      },
+      {
+        "title": "Governance - the cornerstone of a credible financial sector",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.bis.org/speeches/20261119-governance-cornerstone-credible-financial-sector"
       },
       {
         "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
@@ -210,13 +217,6 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape"
-      },
-      {
-        "title": "Industrial policy - redux or renewal?",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal"
       }
     ],
     "geopolitics": [
@@ -233,6 +233,27 @@
         "published_at": "2026-11-19T10:12:00+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660"
+      },
+      {
+        "title": "[NEU] [mittel] systemd: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4679"
+      },
+      {
+        "title": "[NEU] [hoch] Synology DiskStation Manager: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4680"
+      },
+      {
+        "title": "[NEU] [hoch] DrayTek Vigor2960: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4681"
       },
       {
         "title": "[NEU] [niedrig] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
@@ -268,27 +289,43 @@
         "published_at": "2026-11-19T11:57:02+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4674"
+      }
+    ],
+    "github": [
+      {
+        "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-19T06:49:06+00:00",
+        "relevance_score": 16,
+        "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html"
       },
       {
-        "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T10:17:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4661"
+        "title": "NVIDIA/SkillEvaluator",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/NVIDIA/SkillEvaluator"
       },
       {
-        "title": "[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T10:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659"
+        "title": "The fastest raise in Singapore may still be a resignation letter",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-19T04:45:32+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/"
       },
       {
-        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T08:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658"
+        "title": "Wait for pull request events with GitHub CLI",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-19T00:00:13+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli"
+      },
+      {
+        "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-19T08:27:16+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com"
       }
     ],
     "general": [
@@ -361,36 +398,6 @@
         "published_at": "2026-11-18T23:53:56+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2772266"
-      }
-    ],
-    "github": [
-      {
-        "title": "NVIDIA/SkillEvaluator",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/NVIDIA/SkillEvaluator"
-      },
-      {
-        "title": "The fastest raise in Singapore may still be a resignation letter",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-19T04:45:32+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/"
-      },
-      {
-        "title": "Wait for pull request events with GitHub CLI",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-19T00:00:13+00:00",
-        "relevance_score": 4,
-        "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli"
-      },
-      {
-        "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-19T08:27:16+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T12:04:16+00:00",
-  "today_file_total": 57,
+  "generated_at": "2026-11-19T12:21:57+00:00",
+  "today_file_total": 63,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -14,20 +14,50 @@
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4676",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4677",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4675",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4678",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4673"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4679",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4680",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4681",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4677"
       ],
-      "finding_count": 15,
+      "finding_count": 18,
       "max_score": 18,
-      "credibility_total": 15.75,
+      "credibility_total": 18.9,
       "cross_source_confirmed": false,
-      "momentum_delta": 6,
+      "momentum_delta": 3,
       "momentum_status": "increasing",
-      "network_score": 67.5,
+      "network_score": 64.8,
       "hot": true,
       "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Economic activity, prices, and monetary policy in Japan",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
+        "https://www.bis.org/speeches/20261119-governance-cornerstone-credible-financial-sector",
+        "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy",
+        "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
+        "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape",
+        "https://www.bis.org/speeches/20261119-made-europe"
+      ],
+      "finding_count": 8,
+      "max_score": 13,
+      "credibility_total": 8.4,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 35.8,
+      "hot": true,
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -56,34 +86,6 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "domain:www.bis.org",
-      "title": "Economic activity, prices, and monetary policy in Japan",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
-        "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy",
-        "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
-        "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape",
-        "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal",
-        "https://www.bis.org/speeches/20261119-can-sustainable-finance-save-planet"
-      ],
-      "finding_count": 6,
-      "max_score": 13,
-      "credibility_total": 6.3,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 25.6,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
       "key": "title:414-000-agents-tried-log-none-them-were",
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
       "sources": [
@@ -107,6 +109,29 @@
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "cve:CVE-2026-123007",
+      "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten."
     },
     {
       "key": "earthquake:indonesia:5.2",
@@ -449,31 +474,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 4.9 - 36 km nne of kilimatinde, tanzania:4.9",
-      "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg"
       ],
       "finding_count": 1,
       "max_score": 9,
