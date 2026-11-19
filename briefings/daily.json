@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T09:04:49+00:00",
-  "today_file_total": 31,
+  "generated_at": "2026-11-19T09:21:29+00:00",
+  "today_file_total": 33,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -28,16 +28,16 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Euro area monthly balance of payments: September 2026",
+      "key": "domain:www.bis.org",
+      "title": "Economic activity, prices, and monetary policy in Japan",
       "sources": [
-        "ECB Statistical Press Releases"
+        "BIS Central Bankers Speeches"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261119~9319ec6fea.en.html"
+        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan"
       ],
       "finding_count": 1,
       "max_score": 13,
@@ -188,6 +188,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Euro area monthly balance of payments: September 2026",
+      "sources": [
+        "ECB Statistical Press Releases"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261119~9319ec6fea.en.html"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -441,29 +464,6 @@
       ],
       "urls": [
         "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:before-you-add-your-product-fix-work-moves",
-      "title": "Before you add AI to your product, fix how work moves inside the company",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/"
       ],
       "finding_count": 1,
       "max_score": 8,
