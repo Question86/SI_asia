@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T23:55:13+00:00_
+_Generiert: 2026-11-19T00:04:22+00:00_
 
 ## Kurzlage
 
-144 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+3 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,283 +75,38 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T23:55:04+00:00`, fetched `2026-11-18T23:54:50+00:00`
+  - Zeit: published `2026-11-19T00:04:09+00:00`, fetched `2026-11-19T00:03:50+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）** — Score 23, risk — [Quelle](https://jvn.jp/vu/JVNVU96847970/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-11-18T09:00:15+09:00`, fetched `2026-11-18T00:02:04+00:00`
-  - Treffer: advisory, APAC Trend Radar, CodeQL/Dependabot, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: OpenSSL ProjectからOpenSSL Security Advisory [17th November 2026]が公開されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen** — Score 23, risk — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4628)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-18T08:52:01+00:00`, fetched `2026-11-18T09:03:30+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Supply Chain Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Supply Chain Security (+10.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Google catches AI agents hacking with no human in the loop** — Score 23, mixed — [Quelle](https://e27.co/google-catches-ai-agents-hacking-with-no-human-in-the-loop-20261118/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-18T04:36:31+00:00`, fetched `2026-11-18T04:38:55+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Security, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: The hacker hunched over a keyboard is becoming a supervisor. According to Google, more and more of the actual break-in work is now being done by software agents that scan, exploit and adjust on their own. In its latest AI Threat Tracker, published early this week, Google Threat Intelligence Group (GTIG) and its incident response […] The post Google catches AI agents hacking with no human in the loop appeared first o…
-  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- **[NEU] [hoch] Snipe-IT: Schwachstelle ermöglicht Erlangen von Benutzerrechten** — Score 20, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4649)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-18T11:57:01+00:00`, fetched `2026-11-18T12:04:45+00:00`
-  - Treffer: BSI, CERT-Bund, Macro/Policy, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph region south_america: Peru (+2.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Benutzerrechte bis hin zu Superuser-Rechte zu erlangen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Tencent/LoopForge** — Score 19, observation — [Quelle](https://github.com/Tencent/LoopForge)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-11-18T09:03:30+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. https://loopforge.cn English · 简体中文 Two ways to work · Quick start · SOPs · Features · Local · FAQ · Docs https://github.com/user-attachments/assets/8af401d9-1aae-427c-b4bc-455c12d17beb 80-second product tour (1080p, with sound). LoopForg…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog** — Score 18, risk — [Quelle](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T15:27:17+00:00`, fetched `2026-11-18T21:22:54+00:00`
-  - Treffer: Hatena, hotentry, Security, Watchgraph:cyber_active_exploitation, Webentwicklung
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Security (+7.5); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk. Executive SummaryWiz Research, Ikotas Labs, Metnir, Rapid7, and Xint in...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026** — Score 18, observation — [Quelle](https://e27.co/cheques-bans-and-bell-ringing-50-asian-ai-companies-that-defined-2026-20261118/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-18T08:51:14+00:00`, fetched `2026-11-18T09:03:30+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, founder, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: If 2025 was the year Asia’s AI founders learnt to say “agentic” without blinking, 2026 was the year the cheques, the bans and the bell-ringing all arrived at once. Capital poured in at a scale that would have looked like a typo three years ago. DeepSeek reportedly raised around US$15 billion in a single round. […] The post Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026 appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - 86 km NW of Ryōtsu-minato, Japan** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyyw)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-18T10:26:08.189+00:00`, fetched `2026-11-18T10:27:20+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region europe: NATO (+2.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-11-18 09:37:00 UTC 2026-11-18 09:37:00 UTC at epicenter Location 38.719°N 137.873°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.8 - 40 km N of Ruteng, Indonesia** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-18T05:00:50.354+00:00`, fetched `2026-11-18T05:02:14+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - VII Time 2026-11-18 04:41:32 UTC 2026-11-18 04:41:32 UTC at epicenter Location 8.250°S 120.529°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Connect Supabase, Box, Calendly, and more to Copilot** — Score 16, observation — [Quelle](https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-18T22:04:50+00:00`, fetched `2026-11-18T22:48:29+00:00`
-  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. New services you can connect Box: Search and manage content, and… The post Connect Supabase, Box, Calendly, and more to Copilot appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO** — Score 16, risk — [Quelle](https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T21:41:35+00:00`, fetched `2026-11-18T23:47:48+00:00`
-  - Treffer: developer, Hatena, hotentry, Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: NGINX の HTTP/2 の脆弱性 CVE-2026-123007・CVE-2026-123633 の仕組みと AWS 構成ごとの影響を整理し、修正版を使えない環境の緩和策として、http2 off で curl --http2 の接続が HTTP/1.1 になることを Docker で確認しました。 はじめに 2026-11-18 に nginx 1.31.9 と 1.30.7 が公開され、HTTP/2 の脆弱性 CVE-2026-...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4655)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-18T12:12:01+00:00`, fetched `2026-11-18T12:23:18+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff oder nicht spezifierte Angriffe durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU99888632/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-11-18T09:00:00+09:00`, fetched `2026-11-18T00:02:04+00:00`
-  - Treffer: advisory, APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Singapore fintechs are pouring money into AI. The returns are not keeping up** — Score 16, observation — [Quelle](https://e27.co/singapore-fintechs-are-pouring-money-into-ai-the-returns-are-not-keeping-up-20261118/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-18T05:12:32+00:00`, fetched `2026-11-18T05:13:50+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Walk into almost any Singapore fintech today and you will find AI somewhere: writing code, sorting support tickets, flagging suspect transactions. What you are far less likely to find is an AI agent trusted to approve a loan or move a client’s savings without a human hovering over the button. That is the uncomfortable split […] The post Singapore fintechs are pouring money into AI. The returns are not keeping up app…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
-- **Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-11-18T09:00:00+00:00`, fetched `2026-11-18T09:16:59+00:00`
-  - Treffer: AI/KI, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.9 - 85 km WNW of San Juan, Peru** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-18T06:26:01.066+00:00`, fetched `2026-11-18T06:26:26+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - IV Time 2026-11-18 06:07:42 UTC 2026-11-18 06:07:42 UTC at epicenter Location 15.144°S 75.924°W Depth 21.90 km (13.60 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding** — Score 13, observation — [Quelle](https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-18T06:23:28+00:00`, fetched `2026-11-18T06:26:26+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, funding
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: For most of its seven years, Botsync has been known for its heavy-duty robots that haul pallets around factory floors. Its new pitch is that the robots matter less than the software telling them what to do. The Singapore-headquartered robotics company has raised US$11 million in a round led by IvyCap Ventures, with participation from […] The post Singapore’s Botsync takes its Physical AI pitch to the US with US$11M…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X** — Score 12, observation — [Quelle](https://x.com/satoki00/status/2123071303657910632)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T15:28:20+00:00`, fetched `2026-11-18T21:30:14+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2026-021: High Severity Vulnerability in Java SE and OpenJDK** — Score 12, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-021/)
-  - Quelle: CERT-EU Security Advisories / `rss`
-  - Zeit: published `2026-11-18T10:11:05+00:00`, fetched `2026-11-18T09:16:59+00:00`
-  - Treffer: CERT-EU, Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: On 17 November 2026, Oracle and the OpenJDK project released fixes for CVE-2026-114938, a high severity vulnerability in OpenJDK which could lead, under certain circumstances, in unauthenticated Remote Code Execution (RCE). CERT-EU recommends updating vulnerable version of OpenJDK, prioritising internet facing applications.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260102.en.html)
-  - Quelle: ECB Open Market Operations and Communication / `rss`
-  - Zeit: published `2026-11-18T08:15:23+00:00`, fetched `2026-11-18T08:21:41+00:00`
-  - Treffer: liquidity, Macro/Policy, open market operations
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Inside the Codex sandbox** — Score 12, observation — [Quelle](https://openai.com/index/inside-the-codex-sandbox)
+- **How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise** — Score 8, observation — [Quelle](https://openai.com/business/customer-stories/sumitomo-life)
   - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-11-18T08:00:00+00:00`, fetched `2026-11-18T18:18:22+00:00`
-  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.
+  - Zeit: published `2026-11-18T08:00:00+00:00`, fetched `2026-11-19T00:03:50+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Advancing chip design with OpenAI models** — Score 12, observation — [Quelle](https://openai.com/index/advancing-chip-design-with-our-models)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-11-18T00:00:00+00:00`, fetched `2026-11-18T17:17:22+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
-  - Kurz: OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vulnérabilité dans SonicWall (10 septembre 2024)** — Score 12, risk — [Quelle](https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-011/)
-  - Quelle: CERT-FR Alertes / `rss`
-  - Zeit: published `2024-09-10T00:00:00+00:00`, fetched `2026-11-18T13:50:19+00:00`
-  - Treffer: alerte, CERT-FR, Security, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)
-  - Kurz: Le 22 août 2024, Sonicwall a publié un correctif concernant la vulnérabilité critique CVE-2024-40766 affectant les pare-feux Sonicwall génération 5, 6 et 7. Cette vulnérabilité, de type contrôle d'accès défaillant, permet à un attaquant de provoquer un déni de service à distance, une atteinte à...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Gemini 4 Neon in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-18T21:49:21+00:00`, fetched `2026-11-18T22:31:11+00:00`
-  - Treffer: AI Agents, Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work. According to Google, Gemini 4 Neon delivers quality… The post Gemini 4 Neon in GitHub Copilot appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - 157 km S of Attu Station, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubw3)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-18T21:44:38.040+00:00`, fetched `2026-11-18T21:48:02+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III Time 2026-11-18 21:28:47 UTC 2026-11-18 21:28:47 UTC at epicenter Location 51.445°N 172.900°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 6.1 - Pacific-Antarctic Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-18T19:39:51.734+00:00`, fetched `2026-11-18T19:41:07+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - I Time 2026-11-18 19:14:23 UTC 2026-11-18 19:14:23 UTC at epicenter Location 57.751°S 146.746°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **WordPress-Update schließt zig Lücken** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-11-18T19:38:00.000+00:00`, fetched `2026-11-18T19:50:01+00:00`
-  - Treffer: Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
-  - Kurz: WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Security risk assessments run automatically on GitHub Team** — Score 11, risk — [Quelle](https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-18T16:54:26+00:00`, fetched `2026-11-18T17:17:22+00:00`
-  - Treffer: GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); GitHub (+2.5); recent (+1.0)
-  - Kurz: GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code… The post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **NGINX2Root by Xint — From nginx visitor to root of the server host** — Score 11, risk — [Quelle](https://nginx2root.com/)
+- **「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2157690.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T15:34:40+00:00`, fetched `2026-11-18T17:17:22+00:00`
-  - Treffer: Hatena, hotentry, Security
+  - Zeit: published `2026-11-18T23:15:44+00:00`, fetched `2026-11-19T00:03:50+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Found by NGINX2Root From nginx visitor to root of the server hostnginx 방문자에서 서버 호스트의 root까지 CVE-2026-123007CVE-2026-123634CVE-2026-123633CVE-2026-121810CVE-2026-113425
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
