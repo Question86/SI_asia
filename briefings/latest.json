@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T20:16:53+00:00",
-  "run_id": "2026-11-19T20:16:53+00:00",
+  "generated_at": "2026-11-19T20:27:06+00:00",
+  "run_id": "2026-11-19T20:27:06+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 99
+      "configured_public_sources_only": 100
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 99,
-    "displayed_findings": 99,
+    "new_relevant_findings": 2,
+    "today_file_total": 100,
+    "displayed_findings": 100,
     "high": 0,
     "medium": 36,
-    "observe": 63,
+    "observe": 64,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T19:59:34+00:00",
-        "fetched_at": "2026-11-19T20:00:11+00:00",
+        "published_at": "2026-11-19T20:24:43+00:00",
+        "fetched_at": "2026-11-19T20:26:37+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "f80f8db7113a8964c824"
+        "id": "8cca1eadc7c877b8b254"
       },
       {
         "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -1528,6 +1528,42 @@
         "id": "b9b3c7d1471dd5bb0a69"
       },
       {
+        "title": "M 5.3 - South Georgia Island region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc2q",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-19T20:22:23.040+00:00",
+        "fetched_at": "2026-11-19T20:26:37+00:00",
+        "summary": "Time 2026-11-19 20:07:49 UTC 2026-11-19 20:07:49 UTC at epicenter Location 55.004°S 33.507°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a8299dffe0d4b15ed66b"
+      },
+      {
         "title": "M 5.0 - 31 km WSW of Rabaul, Papua New Guinea",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2450,8 +2486,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T19:59:34+00:00",
-      "fetched_at": "2026-11-19T20:00:11+00:00",
+      "published_at": "2026-11-19T20:24:43+00:00",
+      "fetched_at": "2026-11-19T20:26:37+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2485,7 +2521,7 @@
         "HD",
         "LOW"
       ],
-      "id": "f80f8db7113a8964c824"
+      "id": "8cca1eadc7c877b8b254"
     },
     {
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -3942,6 +3978,42 @@
       "id": "b9b3c7d1471dd5bb0a69"
     },
     {
+      "title": "M 5.3 - South Georgia Island region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc2q",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-19T20:22:23.040+00:00",
+      "fetched_at": "2026-11-19T20:26:37+00:00",
+      "summary": "Time 2026-11-19 20:07:49 UTC 2026-11-19 20:07:49 UTC at epicenter Location 55.004°S 33.507°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a8299dffe0d4b15ed66b"
+    },
+    {
       "title": "M 5.0 - 31 km WSW of Rabaul, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4859,25 +4931,82 @@
   ],
   "new_findings": [
     {
-      "title": "「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2158039.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-19T15:05:27+00:00",
-      "fetched_at": "2026-11-19T20:16:25+00:00",
-      "summary": "「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-19T20:24:43+00:00",
+      "fetched_at": "2026-11-19T20:26:37+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "08676fbe2f3f9cd67568"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8cca1eadc7c877b8b254"
+    },
+    {
+      "title": "M 5.3 - South Georgia Island region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc2q",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-19T20:22:23.040+00:00",
+      "fetched_at": "2026-11-19T20:26:37+00:00",
+      "summary": "Time 2026-11-19 20:07:49 UTC 2026-11-19 20:07:49 UTC at epicenter Location 55.004°S 33.507°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a8299dffe0d4b15ed66b"
     }
   ],
   "source_errors": [],
