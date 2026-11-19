@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T09:53:51+00:00",
+  "generated_at": "2026-11-19T10:01:41+00:00",
   "fx_as_of": null,
-  "candidate_count": 3174,
+  "candidate_count": 3175,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 3174
+    "pending": 3175
   },
   "coverage_warning": null,
   "candidates": [
@@ -46620,6 +46620,25 @@
       "snippet": "ンター向けに転用できるRTX 5090や、2028年とされる 次世代のGeForce RTX 6000シリーズ の最上位モデルには、ドライバーなどで利用国の位置を推定する仕組みが投入される可能性もあります。 関連商品 MSI GeForce RTX 5070 12G GAMING TRIO OC グラフィックスボード VD9068 MSI Amazon価格 ¥ 191,870 2026/11/09 更新 Amazon 楽天市場 Yahooショッピング ソース Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims | Tom's Hardware GPU GeForce",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/"
+    },
+    {
+      "amount_native": 12000000000000.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_752f1437514f07f871c1",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-19T10:01:26+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:capital_allocation:636f8cfa7448",
+      "review_status": "pending",
+      "snippet": "d in capital – will be important in the face of headwinds from broader global economic fragmentation. Deepening Europe's capital markets in particular could help unlock the almost €12 trillion that Europeans hold in savings and cash deposits for productive investment. These are policies which can strengthen growth and I believe they have more evidence to support them th",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal",
+      "component_confidence": 0.55
     },
     {
       "amount_native": 1300000000000.0,

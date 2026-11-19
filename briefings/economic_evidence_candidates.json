@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T09:53:51+00:00",
-  "candidate_count": 3174,
+  "generated_at": "2026-11-19T10:01:41+00:00",
+  "candidate_count": 3175,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -13413,6 +13413,24 @@
       "snippet": ") show a $832 billion expansion in banks global cross-border claims in Q3 2025 on an exchange rate- and break-adjusted basis ( Graph 1.A ). The stock of outstanding claims rose to $45 trillion. The increase was driven predominantly (+$730 billion) by cross-border bank credit (ie loans and holdings of debt securities but excluding derivatives and other claims). 1 Cross-b",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
+    },
+    {
+      "candidate_id": "cand_752f1437514f07f871c1",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal",
+      "observed_at": "2026-11-19T10:01:26+00:00",
+      "currency": "EUR",
+      "amount_native": 12000000000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "d in capital – will be important in the face of headwinds from broader global economic fragmentation. Deepening Europe's capital markets in particular could help unlock the almost €12 trillion that Europeans hold in savings and cash deposits for productive investment. These are policies which can strengthen growth and I believe they have more evidence to support them th",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
     },
     {
       "amount_native": 10500000000000.0,
