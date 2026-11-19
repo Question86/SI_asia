@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-19T11:34:05+00:00_
+_Generiert: 2026-11-19T11:43:25+00:00_
 
 ## 414,000 ‘AI agents’ tried to log in. None of them were agents
 
