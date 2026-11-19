@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T22:05:04+00:00",
-  "run_id": "2026-11-19T22:05:04+00:00",
+  "generated_at": "2026-11-19T22:17:41+00:00",
+  "run_id": "2026-11-19T22:17:41+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 102
+      "configured_public_sources_only": 103
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 102,
-    "displayed_findings": 102,
+    "new_relevant_findings": 2,
+    "today_file_total": 103,
+    "displayed_findings": 103,
     "high": 0,
     "medium": 36,
-    "observe": 66,
+    "observe": 67,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T22:04:51+00:00",
-        "fetched_at": "2026-11-19T22:04:29+00:00",
+        "published_at": "2026-11-19T22:15:55+00:00",
+        "fetched_at": "2026-11-19T22:17:13+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "43dc7d71cdd0a3c2628f"
+        "id": "8079dfa407365146c699"
       },
       {
         "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -2205,6 +2205,27 @@
         "id": "2ac5cbc8549d9db76c2f"
       },
       {
+        "title": "11月に修正されたPHPの脆弱性についてまとめてみた - piyolog",
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/11/20/003148",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-19T15:54:08+00:00",
+        "fetched_at": "2026-11-19T22:17:13+00:00",
+        "summary": "2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)に...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cbbbd9d63b3f8ce76277"
+      },
+      {
         "title": "「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開",
         "url": "https://forest.watch.impress.co.jp/docs/news/2158039.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2542,8 +2563,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T22:04:51+00:00",
-      "fetched_at": "2026-11-19T22:04:29+00:00",
+      "published_at": "2026-11-19T22:15:55+00:00",
+      "fetched_at": "2026-11-19T22:17:13+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2577,7 +2598,7 @@
         "HD",
         "LOW"
       ],
-      "id": "43dc7d71cdd0a3c2628f"
+      "id": "8079dfa407365146c699"
     },
     {
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -4711,6 +4732,27 @@
       "id": "2ac5cbc8549d9db76c2f"
     },
     {
+      "title": "11月に修正されたPHPの脆弱性についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/20/003148",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-19T15:54:08+00:00",
+      "fetched_at": "2026-11-19T22:17:13+00:00",
+      "summary": "2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cbbbd9d63b3f8ce76277"
+    },
+    {
       "title": "「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開",
       "url": "https://forest.watch.impress.co.jp/docs/news/2158039.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5047,8 +5089,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T22:04:51+00:00",
-      "fetched_at": "2026-11-19T22:04:29+00:00",
+      "published_at": "2026-11-19T22:15:55+00:00",
+      "fetched_at": "2026-11-19T22:17:13+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5082,7 +5124,28 @@
         "HD",
         "LOW"
       ],
-      "id": "43dc7d71cdd0a3c2628f"
+      "id": "8079dfa407365146c699"
+    },
+    {
+      "title": "11月に修正されたPHPの脆弱性についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/20/003148",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-19T15:54:08+00:00",
+      "fetched_at": "2026-11-19T22:17:13+00:00",
+      "summary": "2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)に...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cbbbd9d63b3f8ce76277"
     }
   ],
   "source_errors": [],
