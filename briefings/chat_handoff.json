@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-19T05:01:11+00:00",
+  "generated_at": "2026-11-19T05:17:02+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
-    "medium": 3,
-    "observe": 17
+    "medium": 4,
+    "observe": 18
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T04:55:00+00:00",
+      "published_at": "2026-11-19T05:16:51+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -32,6 +32,16 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "summary": "Time 2026-11-19 01:34:52 UTC 2026-11-19 01:34:52 UTC at epicenter Location 0.523°N 96.530°E Depth 37.00 km (22.99 mi)",
+      "section": "medium"
+    },
+    {
+      "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-19T14:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN29068051/",
+      "summary": "ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。",
       "section": "medium"
     },
     {
@@ -55,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T05:00:53+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
+      "summary": "A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She…",
+      "section": "observe"
+    },
+    {
       "title": "From reality TV to building apps: How I actually use AI",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -72,16 +92,6 @@
       "relevance_score": 10,
       "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/",
       "summary": "Pressure dominates the crypto market, and the immediate cause is not a secret AI offering but a familiar macro squeeze. Bitcoin trades at US$62,731.42, down 2.39 per cent over 24 hours, while total crypto market capitalisation sits at US$2.15 trillion, down 1…",
-      "section": "observe"
-    },
-    {
-      "title": "ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-18T22:20:32+00:00",
-      "relevance_score": 10,
-      "url": "https://japan.cnet.com/article/35255099/",
-      "summary": "ニトリは11月18日、横向きに寝たときに枕に押されにくいよう、耳からの出っ張りを抑えた睡眠用ワイヤレスイヤホン「ESL-11」の全国販売を始めたと発表した。価格は税込み2990円。11月中旬から全国のニトリ店舗とニトリネットで取り扱っている。",
       "section": "observe"
     }
   ],

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T05:01:11+00:00",
-  "run_id": "2026-11-19T05:01:11+00:00",
+  "generated_at": "2026-11-19T05:17:02+00:00",
+  "run_id": "2026-11-19T05:17:02+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
-    "medium": 3,
-    "observe": 17,
+    "medium": 4,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T04:55:00+00:00",
-        "fetched_at": "2026-11-19T05:00:43+00:00",
+        "published_at": "2026-11-19T05:16:51+00:00",
+        "fetched_at": "2026-11-19T05:16:34+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "4c0ac70834e095ee0568"
+        "id": "fe8d89e12fc108298077"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -107,6 +107,28 @@
           "LOW"
         ],
         "id": "8023c555b65c570bcb98"
+      },
+      {
+        "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
+        "url": "https://jvn.jp/jp/JVN29068051/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-19T14:00:00+09:00",
+        "fetched_at": "2026-11-19T05:16:34+00:00",
+        "summary": "ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b080f8e81d70f3084156"
       },
       {
         "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
@@ -153,6 +175,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8120603694882a89559c"
+      },
+      {
+        "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
+        "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-19T05:00:53+00:00",
+        "fetched_at": "2026-11-19T05:16:34+00:00",
+        "summary": "A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She wanted to know what she’d done wrong. Probably nothing. But […] The post Your brand ranks on Google, so why doesn’t ChatGPT recommend it? appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "37e715d0cd2cac9986c5"
       },
       {
         "title": "From reality TV to building apps: How I actually use AI",
@@ -547,8 +590,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T04:55:00+00:00",
-      "fetched_at": "2026-11-19T05:00:43+00:00",
+      "published_at": "2026-11-19T05:16:51+00:00",
+      "fetched_at": "2026-11-19T05:16:34+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -582,7 +625,7 @@
         "HD",
         "LOW"
       ],
-      "id": "4c0ac70834e095ee0568"
+      "id": "fe8d89e12fc108298077"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -620,6 +663,28 @@
         "LOW"
       ],
       "id": "8023c555b65c570bcb98"
+    },
+    {
+      "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN29068051/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-19T14:00:00+09:00",
+      "fetched_at": "2026-11-19T05:16:34+00:00",
+      "summary": "ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b080f8e81d70f3084156"
     },
     {
       "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
@@ -664,6 +729,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8120603694882a89559c"
+    },
+    {
+      "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
+      "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T05:00:53+00:00",
+      "fetched_at": "2026-11-19T05:16:34+00:00",
+      "summary": "A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She wanted to know what she’d done wrong. Probably nothing. But […] The post Your brand ranks on Google, so why doesn’t ChatGPT recommend it? appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "37e715d0cd2cac9986c5"
     },
     {
       "title": "From reality TV to building apps: How I actually use AI",
@@ -1057,8 +1143,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T04:55:00+00:00",
-      "fetched_at": "2026-11-19T05:00:43+00:00",
+      "published_at": "2026-11-19T05:16:51+00:00",
+      "fetched_at": "2026-11-19T05:16:34+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1092,49 +1178,50 @@
         "HD",
         "LOW"
       ],
-      "id": "4c0ac70834e095ee0568"
+      "id": "fe8d89e12fc108298077"
     },
     {
-      "title": "ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」",
-      "url": "https://japan.cnet.com/article/35255099/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN29068051/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-11-18T22:20:32+00:00",
-      "fetched_at": "2026-11-19T05:00:43+00:00",
-      "summary": "ニトリは11月18日、横向きに寝たときに枕に押されにくいよう、耳からの出っ張りを抑えた睡眠用ワイヤレスイヤホン「ESL-11」の全国販売を始めたと発表した。価格は税込み2990円。11月中旬から全国のニトリ店舗とニトリネットで取り扱っている。",
+      "published_at": "2026-11-19T14:00:00+09:00",
+      "fetched_at": "2026-11-19T05:16:34+00:00",
+      "summary": "ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a1bbd8d1cf209bd9a8d5"
+      "id": "b080f8e81d70f3084156"
     },
     {
-      "title": "The fastest raise in Singapore may still be a resignation letter",
-      "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/",
+      "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
+      "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-19T04:45:32+00:00",
-      "fetched_at": "2026-11-19T05:00:43+00:00",
-      "summary": "Staying loyal to an employer in Singapore seems to come at a price. Employees promoted into a role earn about 9 per cent less than people hired into the same role from outside, at the same employer and experience level, according to a new report from HR and payroll platform Omni HR. The Singapore and […] The post The fastest raise in Singapore may still be a resignation letter appeared first on e27 .",
+      "published_at": "2026-11-19T05:00:53+00:00",
+      "fetched_at": "2026-11-19T05:16:34+00:00",
+      "summary": "A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She wanted to know what she’d done wrong. Probably nothing. But […] The post Your brand ranks on Google, so why doesn’t ChatGPT recommend it? appeared first on e27 .",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "OpenAI"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "76abb94c52505d6c7673"
+      "id": "37e715d0cd2cac9986c5"
     }
   ],
   "source_errors": [],

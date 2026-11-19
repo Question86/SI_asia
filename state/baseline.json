@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T05:01:14+00:00",
+  "generated_at": "2026-11-19T05:17:06+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
-        24.5,
         24.5,
         29.6,
         26.6,
@@ -130,12 +129,13 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 12.81,
+      "rolling_average": 12.33,
       "rolling_peak": 29.6,
       "last_score": 10.1,
-      "z_hint": -2.71
+      "z_hint": -2.23
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -4536,7 +4536,7 @@
     },
     "domain:japan.cnet.com": {
       "title": "ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -4566,13 +4566,13 @@
         12.1,
         12.1,
         12.1,
-        12.1,
-        15.1
+        15.1,
+        12.1
       ],
       "rolling_average": 12.2,
       "rolling_peak": 15.1,
-      "last_score": 15.1,
-      "z_hint": 2.9
+      "last_score": 12.1,
+      "z_hint": -0.1
     },
     "domain:kawarimidoll.com": {
       "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
@@ -4799,7 +4799,7 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         25.7,
         25.7,
@@ -10376,9 +10376,8 @@
     },
     "domain:note.com": {
       "title": "実質的無職になった｜Y.Hirano",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
-        13.2,
         13.2,
         13.2,
         13.2,
@@ -10407,12 +10406,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.62,
+      "rolling_average": 8.42,
       "rolling_peak": 13.2,
       "last_score": 7.1,
-      "z_hint": -1.52
+      "z_hint": -1.32
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -18115,7 +18115,7 @@
     },
     "earthquake:indonesia:5.2": {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -18127,8 +18127,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -83598,14 +83598,14 @@
     },
     "title:php": {
       "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         7.1,
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -110580,7 +110580,7 @@
     },
     "title:muse": {
       "title": "【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -110601,8 +110601,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -125580,7 +125580,41 @@
     },
     "title:wait-pull-request-events-github-cli": {
       "title": "Wait for pull request events with GitHub CLI",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
+      "network_scores": [
+        9.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1,
+        6.1
+      ],
+      "rolling_average": 6.22,
+      "rolling_peak": 9.1,
+      "last_score": 6.1,
+      "z_hint": -0.12
+    },
+    "title:crypto-hype-cycle-dead-here-are-narratives-replacing": {
+      "title": "The crypto hype cycle is dead. Here are the 4 narratives replacing it",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -125611,41 +125645,9 @@
       "last_score": 6.1,
       "z_hint": -0.13
     },
-    "title:crypto-hype-cycle-dead-here-are-narratives-replacing": {
-      "title": "The crypto hype cycle is dead. Here are the 4 narratives replacing it",
-      "updated_at": "2026-11-19T05:01:14+00:00",
-      "network_scores": [
-        9.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1,
-        6.1
-      ],
-      "rolling_average": 6.24,
-      "rolling_peak": 9.1,
-      "last_score": 6.1,
-      "z_hint": -0.14
-    },
     "earthquake:m 4.9 - 45 km nnw of kintinku, tanzania:4.9": {
       "title": "M 4.9 - 45 km NNW of Kintinku, Tanzania",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -125665,16 +125667,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.86,
+      "rolling_average": 11.85,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:before-you-add-your-product-fix-work-moves": {
       "title": "Before you add AI to your product, fix how work moves inside the company",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -125692,16 +125695,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.28,
+      "rolling_average": 10.27,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "earthquake:m 4.9 - 36 km nne of kilimatinde, tanzania:4.9": {
       "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -125718,18 +125722,20 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.89,
+      "rolling_average": 11.88,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:8000": {
       "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -125746,14 +125752,14 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.29,
+      "rolling_average": 7.28,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:ruijie-networks": {
       "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -125766,16 +125772,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.35,
+      "rolling_average": 16.33,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:reality-building-apps-actually-use": {
       "title": "From reality TV to building apps: How I actually use AI",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -125788,83 +125795,111 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.35,
+      "rolling_average": 13.33,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:beyond-who-you-know-why-value-becoming-currency": {
       "title": "Beyond who you know: Why value is becoming the new currency of business access",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         18.1,
         15.1,
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.6,
+      "rolling_average": 15.53,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:beyond-faster-payments-what-global-businesses-really-need": {
       "title": "Beyond faster payments, what global businesses really need",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         9.1,
         6.1,
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.6,
+      "rolling_average": 6.53,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:canadia-impact-fund-makes-its-first-french-bet": {
       "title": "Canadia Impact Fund makes its first French bet with career guidance startup Choose and Connect",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         13.1,
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.7,
+      "rolling_average": 10.6,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:anthropic-ipo-sentiment-barometer-rather-than-crypto-crash": {
       "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
         15.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.85,
+      "rolling_average": 12.7,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:fastest-raise-singapore-may-still-resignation-letter": {
       "title": "The fastest raise in Singapore may still be a resignation letter",
-      "updated_at": "2026-11-19T05:01:14+00:00",
+      "updated_at": "2026-11-19T05:17:06+00:00",
       "network_scores": [
-        12.1
+        12.1,
+        9.1
       ],
-      "rolling_average": 12.1,
+      "rolling_average": 10.6,
       "rolling_peak": 12.1,
-      "last_score": 12.1,
+      "last_score": 9.1,
+      "z_hint": -1.5
+    },
+    "title:win-bird": {
+      "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
+      "updated_at": "2026-11-19T05:17:06+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
+    },
+    "title:your-brand-ranks-google-why-doesn-chatgpt-recommend": {
+      "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
+      "updated_at": "2026-11-19T05:17:06+00:00",
+      "network_scores": [
+        17.1
+      ],
+      "rolling_average": 17.1,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
       "z_hint": 0.0
     }
   }

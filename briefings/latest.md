@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T05:01:11+00:00_
+_Generiert: 2026-11-19T05:17:02+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+22 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T04:55:00+00:00`, fetched `2026-11-19T05:00:43+00:00`
+  - Zeit: published `2026-11-19T05:16:51+00:00`, fetched `2026-11-19T05:16:34+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -90,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-19 01:34:52 UTC 2026-11-19 01:34:52 UTC at epicenter Location 0.523°N 96.530°E Depth 37.00 km (22.99 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN29068051/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-19T14:00:00+09:00`, fetched `2026-11-19T05:16:34+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN28897261/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -112,6 +121,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0)
   - Kurz: As technology and AI make it easier to build and scale businesses, I believe access to the right networks should no longer be an advantage inherited by the few, while doors remain closed to the average entrepreneur. That era is changing. “Your network is your net worth” may hold only a fraction of the weight […] The post Beyond who you know: Why value is becoming the new currency of business access appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Your brand ranks on Google, so why doesn’t ChatGPT recommend it?** — Score 12, observation — [Quelle](https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-19T05:00:53+00:00`, fetched `2026-11-19T05:16:34+00:00`
+  - Treffer: APAC Trend Radar, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She wanted to know what she’d done wrong. Probably nothing. But […] The post Your brand ranks on Google, so why doesn’t ChatGPT recommend it? appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From reality TV to building apps: How I actually use AI** — Score 11, observation — [Quelle](https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-19T03:00:50+00:00`, fetched `2026-11-19T03:11:50+00:00`
@@ -120,15 +138,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In reality television, we used to joke that production was all about rushing to get ready, only to wait for something to happen. Sounds like an easy gig, but this rush-and-wait syndrome was made possible with rigorous planning in pre-production. Behind every shoot were master spreadsheets, production schedules, flight itineraries, crew deployments and endless emails […] The post From reality TV to building apps: How…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?** — Score 10, observation — [Quelle](https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-19T04:23:51+00:00`, fetched `2026-11-19T04:30:38+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Pressure dominates the crypto market, and the immediate cause is not a secret AI offering but a familiar macro squeeze. Bitcoin trades at US$62,731.42, down 2.39 per cent over 24 hours, while total crypto market capitalisation sits at US$2.15 trillion, down 1.97 per cent. Bitcoin’s 58.84 per cent dominance and its faster decline tell you […] The post Is the Anthropic IPO a sentiment barometer rather than a crypto cr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35255099/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
