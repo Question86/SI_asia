@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T14:53:15+00:00_
+_Generiert: 2026-11-19T15:00:28+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+84 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T14:53:02+00:00`, fetched `2026-11-19T14:52:37+00:00`
+  - Zeit: published `2026-11-19T14:54:32+00:00`, fetched `2026-11-19T14:59:49+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: トップページ 情報セキュリティ 重要なセキュリティ情報 2026年度 NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） 注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 F5社が提供するNGINX Open SourceおよびNGINX Plusについて、2026年11月18日に複数の脆弱性...
   - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **Economic activity, prices, and monetary policy in Japan - Japan's money and capital market transformation - will a paradigm shift occur?** — Score 16, observation — [Quelle](https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan-japans-money-and-capital-market-transformation-will-paradigm-shift)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-19T00:00:00+00:00`, fetched `2026-11-19T14:59:49+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Tokyo, Bank of Japan (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting held by the Tokushima Association of Corporate Executives, Tokyo, 16 November 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jefferson, Monetary Policy amid Frequent and Complex Shocks** — Score 15, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-11-19T14:25:00+00:00`, fetched `2026-11-19T14:29:10+00:00`
