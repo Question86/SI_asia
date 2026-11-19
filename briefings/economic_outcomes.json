@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T08:49:43+00:00",
+  "generated_at": "2026-11-19T08:58:38+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -6777,6 +6777,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_3baadabf2b924df16e94",
+      "title": "Johor’s data-centre future is being decided in Ohio and Washington",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_3bd9ce849c599fe4e34e",
@@ -17121,12 +17132,12 @@
     {
       "event_id": "evt_923a2533d20b28f7bbd0",
       "title": "NVIDIA/SkillEvaluator",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -18623,7 +18634,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9ed2410de632b1cd74e7",
