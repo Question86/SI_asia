@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-19T14:29:45+00:00",
-  "run_id": "2026-11-19T14:29:45+00:00",
+  "generated_at": "2026-11-19T14:44:28+00:00",
+  "run_id": "2026-11-19T14:44:28+00:00",
   "date": "2026-11-19",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "new_relevant_findings": 2,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 35,
-    "observe": 46,
-    "source_errors": 0
+    "observe": 47,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T14:26:44+00:00",
-        "fetched_at": "2026-11-19T14:29:10+00:00",
+        "published_at": "2026-11-19T14:37:59+00:00",
+        "fetched_at": "2026-11-19T14:43:46+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "64dc7ece80f738fd279b"
+        "id": "5926d97a6cdb3b2889dc"
       },
       {
         "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -1184,6 +1184,27 @@
         "id": "fbd54a319f5080ec1491"
       },
       {
+        "title": "AI forecasts GDP as well as economists",
+        "url": "https://www.bis.org/speeches/20261119-ai-forecasts-gdp-well-economists",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-19T14:43:46+00:00",
+        "summary": "Lecture by Mr Aleš Michl, Governor of the Czech National Bank, at Kyoto University, Kyoto, 13 November 2026.",
+        "matched_keywords": [
+          "AI/KI",
+          "Macro/Policy"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2ebe5b6a6afc806172fd"
+      },
+      {
         "title": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
         "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source": "Rest of World Global Tech Feed",
@@ -1999,8 +2020,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T14:26:44+00:00",
-      "fetched_at": "2026-11-19T14:29:10+00:00",
+      "published_at": "2026-11-19T14:37:59+00:00",
+      "fetched_at": "2026-11-19T14:43:46+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2034,7 +2055,7 @@
         "HD",
         "LOW"
       ],
-      "id": "64dc7ece80f738fd279b"
+      "id": "5926d97a6cdb3b2889dc"
     },
     {
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -3147,6 +3168,27 @@
       "id": "fbd54a319f5080ec1491"
     },
     {
+      "title": "AI forecasts GDP as well as economists",
+      "url": "https://www.bis.org/speeches/20261119-ai-forecasts-gdp-well-economists",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-19T14:43:46+00:00",
+      "summary": "Lecture by Mr Aleš Michl, Governor of the Czech National Bank, at Kyoto University, Kyoto, 13 November 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2ebe5b6a6afc806172fd"
+    },
+    {
       "title": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
       "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -3961,8 +4003,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T14:26:44+00:00",
-      "fetched_at": "2026-11-19T14:29:10+00:00",
+      "published_at": "2026-11-19T14:37:59+00:00",
+      "fetched_at": "2026-11-19T14:43:46+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3996,54 +4038,38 @@
         "HD",
         "LOW"
       ],
-      "id": "64dc7ece80f738fd279b"
+      "id": "5926d97a6cdb3b2889dc"
     },
     {
-      "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
-      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
+      "title": "AI forecasts GDP as well as economists",
+      "url": "https://www.bis.org/speeches/20261119-ai-forecasts-gdp-well-economists",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-11-19T14:25:00+00:00",
-      "fetched_at": "2026-11-19T14:29:10+00:00",
-      "summary": "Speech At the International Monetary Fund and Central Bank of Brazil Conference “A Quarter Century of Inflation Targeting in Latin America: Progress, Challenges, and the Road Ahead,” Bras&iacute;lia, Brazil",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-19T14:43:46+00:00",
+      "summary": "Lecture by Mr Aleš Michl, Governor of the Czech National Bank, at Kyoto University, Kyoto, 13 November 2026.",
       "matched_keywords": [
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph region south_america: Brazil (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a755bedbf99de88b9491"
-    },
-    {
-      "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
-      "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-19T02:22:17+00:00",
-      "fetched_at": "2026-11-19T14:29:10+00:00",
-      "summary": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ 昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのB...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security"
+        "AI/KI",
+        "Macro/Policy"
       ],
       "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "09324e98198ac8c38f58"
+      "id": "2ebe5b6a6afc806172fd"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x71ed514cf250>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
