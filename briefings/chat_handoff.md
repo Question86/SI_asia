@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-19T10:11:21+00:00_
+_Generated: 2026-11-19T10:18:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `41`
+- findings: `43`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-19T10:11:10+00:00`
+- published: `2026-11-19T10:11:49+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. M 5.2 - 141 km W of Teluk Dalam, Indonesia
+### 2. [NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-11-19T10:12:00+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660
+- summary: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.
+
+### 3. M 5.2 - 141 km W of Teluk Dalam, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-19T01:47:36.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb
 - summary: Time 2026-11-19 01:34:52 UTC 2026-11-19 01:34:52 UTC at epicenter Location 0.523°N 96.530°E Depth 37.00 km (22.99 mi)
 
-### 3. ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性
+### 4. ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-19T14:00:00+09:00`
 - url: https://jvn.jp/jp/JVN29068051/
 - summary: ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。
-
-### 4. 複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-19T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN28897261/
-- summary: Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。
 
 ### 5. Euro area monthly balance of payments: September 2026
 - source: ECB Statistical Press Releases
