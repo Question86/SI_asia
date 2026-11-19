@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T22:27:30+00:00",
+  "generated_at": "2026-11-19T22:43:07+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -13324,6 +13324,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_70a4def6ada8b392b866",
+      "title": "Genie 4 is now available",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_70ab696702303f7887aa",
       "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
       "deduplicated_buckets": 0,
@@ -15202,7 +15213,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_820b2206cb5860cfb989",
