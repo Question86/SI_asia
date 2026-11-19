@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-19T13:00:12+00:00_
+_Generated: 2026-11-19T13:13:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `75`
+- findings: `77`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-19T12:59:56+00:00`
+- published: `2026-11-19T13:13:13+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-19T13:00:12+00:00_
 - url: https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/
 - summary: As technology and AI make it easier to build and scale businesses, I believe access to the right networks should no longer be an advantage inherited by the few, while doors remain closed to the average entrepreneur. That era is changing. “Your network is your…
 
-### 7. Economic activity, prices, and monetary policy in Japan
+### 7. Some potential financial stability implications of Artificial Intelligence
+- source: BIS Central Bankers Speeches
+- score: `13`
+- published: `2026-11-19T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261119-some-potential-financial-stability-implications-artificial-intelligence
+- summary: Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the Seventh Annual Association for Computing Machinery International Conference on “Artificial Intelligence in finance”, Milan, 16 November 2026.
+
+### 8. Economic activity, prices, and monetary policy in Japan
 - source: BIS Central Bankers Speeches
 - score: `13`
 - published: `2026-11-19T00:00:00+00:00`
 - url: https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan
 - summary: Speech by Mr Toichiro Asada, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Nagasaki, 12 November 2026.
-
-### 8. Your brand ranks on Google, so why doesn’t ChatGPT recommend it?
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-11-19T05:00:53+00:00`
-- url: https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/
-- summary: A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She…
 
 END OF DOCUMENT

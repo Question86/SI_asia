@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T13:00:12+00:00_
+_Generiert: 2026-11-19T13:13:24+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+77 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T12:59:56+00:00`, fetched `2026-11-19T12:59:40+00:00`
+  - Zeit: published `2026-11-19T13:13:13+00:00`, fetched `2026-11-19T13:12:56+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0)
   - Kurz: As technology and AI make it easier to build and scale businesses, I believe access to the right networks should no longer be an advantage inherited by the few, while doors remain closed to the average entrepreneur. That era is changing. “Your network is your net worth” may hold only a fraction of the weight […] The post Beyond who you know: Why value is becoming the new currency of business access appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Some potential financial stability implications of Artificial Intelligence** — Score 13, opportunity — [Quelle](https://www.bis.org/speeches/20261119-some-potential-financial-stability-implications-artificial-intelligence)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-19T00:00:00+00:00`, fetched `2026-11-19T13:12:56+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the Seventh Annual Association for Computing Machinery International Conference on “Artificial Intelligence in finance”, Milan, 16 November 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Economic activity, prices, and monetary policy in Japan** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-11-19T00:00:00+00:00`, fetched `2026-11-19T09:20:52+00:00`
@@ -194,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
   - Kurz: 複雑な立体形状や皮膚上に直接形成可能なナノメッシュ皮膚センサの開発に成功 ―次世代ヘルスケアやヒューマン・マシン・インターフェース応用に期待― 発表のポイント ◆ 導電性のナノファイバーを皮膚上に直接紡糸することで、指先などの複雑な立体曲面にも密着するナノメッシュ皮膚センサの開発に成功しました。 ◆ 開発...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **New technology, old questions: productivity puzzles and the macroeconomy** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-19T00:00:00+00:00`, fetched `2026-11-19T09:36:20+00:00`
-  - Treffer: macro, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); macro (+2.5); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the University of California, San Diego Economic Roundtable, San Diego, California, 13 November 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35255099/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T13:00:15+00:00",
-  "today_file_total": 75,
+  "generated_at": "2026-11-19T13:13:27+00:00",
+  "today_file_total": 77,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -32,7 +32,7 @@
     },
     {
       "key": "domain:www.bis.org",
-      "title": "Economic activity, prices, and monetary policy in Japan",
+      "title": "Some potential financial stability implications of Artificial Intelligence",
       "sources": [
         "BIS Central Bankers Speeches"
       ],
@@ -40,20 +40,20 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://www.bis.org/speeches/20261119-some-potential-financial-stability-implications-artificial-intelligence",
         "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
         "https://www.bis.org/speeches/20261119-governance-cornerstone-credible-financial-sector",
         "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy",
         "https://www.bis.org/speeches/20261119-customer-centre-building-responsible-resilient-and-sustainable-microfinance-sector",
-        "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
-        "https://www.bis.org/speeches/20261119-opening-remarks-central-bank-governors-roundtable"
+        "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review"
       ],
-      "finding_count": 10,
+      "finding_count": 11,
       "max_score": 13,
-      "credibility_total": 10.5,
+      "credibility_total": 11.55,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 34.0,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 39.1,
       "hot": true,
       "watchgraph_modules": [
         "agriculture_food_fertilizer"
@@ -253,29 +253,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.bsi.bund.de",
-      "title": "Version 1.0: NGINX - Mehrere kritische Schwachstellen \"NGINX2Root\" bedrohen Webserver",
-      "sources": [
-        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306805-1032_bits.html"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:www.ecb.europa.eu",
       "title": "Euro area monthly balance of payments: September 2026",
       "sources": [
@@ -322,6 +299,30 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:www.heise.de",
+      "title": "Ubiquiti UniFi Access Application: Lücken erlauben Codeschmuggel",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Ubiquiti-UniFi-Access-Application-Luecken-erlauben-Codeschmuggel-11531080.html",
+        "https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html"
+      ],
+      "finding_count": 2,
+      "max_score": 7,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:your-brand-ranks-google-why-doesn-chatgpt-recommend",
       "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
       "sources": [
@@ -340,6 +341,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.bsi.bund.de",
+      "title": "Version 1.0: NGINX - Mehrere kritische Schwachstellen \"NGINX2Root\" bedrohen Webserver",
+      "sources": [
+        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306805-1032_bits.html"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -459,29 +483,6 @@
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:japan.cnet.com",
-      "title": "ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://japan.cnet.com/article/35255099/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
