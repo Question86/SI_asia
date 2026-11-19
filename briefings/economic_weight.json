@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T01:34:12+00:00",
+  "generated_at": "2026-11-19T01:54:31+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2166,7 +2166,7 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-19T01:33:47+00:00",
+      "last_seen_at": "2026-11-19T01:54:09+00:00",
       "status": "active"
     },
     {
@@ -2744,8 +2744,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-11-18T23:33:05+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-19T01:54:09+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_c3299ce8e5250f27b3ad",
@@ -14121,6 +14121,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_564b672dcd92174ee84f",
+      "title": "M 4.9 - 45 km NNW of Kintinku, Tanzania",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-19T01:54:09+00:00",
+      "last_seen_at": "2026-11-19T01:54:09+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2bb9a382978abc72cb41",
       "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
       "event_classes": [
@@ -20374,7 +20391,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-19T01:33:47+00:00",
+      "last_seen_at": "2026-11-19T01:54:09+00:00",
       "status": "active"
     },
     {
@@ -38893,7 +38910,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-11-19T01:33:47+00:00",
+      "last_seen_at": "2026-11-19T01:54:09+00:00",
       "status": "active"
     },
     {
@@ -39845,7 +39862,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-10-21T02:27:54+00:00",
-      "last_seen_at": "2026-11-19T01:33:47+00:00",
+      "last_seen_at": "2026-11-19T01:54:09+00:00",
       "status": "active"
     },
     {
@@ -44520,7 +44537,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T01:17:13+00:00",
-      "last_seen_at": "2026-11-19T01:33:47+00:00",
+      "last_seen_at": "2026-11-19T01:54:09+00:00",
       "status": "active"
     },
     {
@@ -44656,7 +44673,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T00:55:24+00:00",
-      "last_seen_at": "2026-11-19T01:33:47+00:00",
+      "last_seen_at": "2026-11-19T01:54:09+00:00",
       "status": "active"
     },
     {
