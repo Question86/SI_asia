@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T15:29:47+00:00",
-  "run_id": "2026-11-19T15:29:47+00:00",
+  "generated_at": "2026-11-19T15:38:48+00:00",
+  "run_id": "2026-11-19T15:38:48+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 85,
     "displayed_findings": 85,
     "high": 0,
@@ -4165,71 +4165,7 @@
       "id": "7450ed8712e3c377b350"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-19T15:29:36+00:00",
-      "fetched_at": "2026-11-19T15:29:21+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "67fee7508108cb4dfad9"
-    },
-    {
-      "title": "ソフトウェアダークファクトリー | 技術評論社",
-      "url": "https://gihyo.jp/book/2026/978-4-297-16073-9",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-19T11:56:11+00:00",
-      "fetched_at": "2026-11-19T15:29:21+00:00",
-      "summary": "概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b1736b2fa9372e59aea8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
