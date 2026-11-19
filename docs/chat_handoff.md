@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-19T04:44:42+00:00_
+_Generated: 2026-11-19T05:01:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `20`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-19T04:44:31+00:00`
+- published: `2026-11-19T04:55:00+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,11 +50,11 @@ _Generated: 2026-11-19T04:44:42+00:00_
 - url: https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/
 - summary: Pressure dominates the crypto market, and the immediate cause is not a secret AI offering but a familiar macro squeeze. Bitcoin trades at US$62,731.42, down 2.39 per cent over 24 hours, while total crypto market capitalisation sits at US$2.15 trillion, down 1…
 
-### 7. M 4.9 - 36 km NNE of Kilimatinde, Tanzania
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-19T02:30:01.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg
-- summary: Time 2026-11-19 02:11:23 UTC 2026-11-19 02:11:23 UTC at epicenter Location 5.543°S 35.081°E Depth 10.00 km (6.21 mi)
+### 7. ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-11-18T22:20:32+00:00`
+- url: https://japan.cnet.com/article/35255099/
+- summary: ニトリは11月18日、横向きに寝たときに枕に押されにくいよう、耳からの出っ張りを抑えた睡眠用ワイヤレスイヤホン「ESL-11」の全国販売を始めたと発表した。価格は税込み2990円。11月中旬から全国のニトリ店舗とニトリネットで取り扱っている。
 
 END OF DOCUMENT

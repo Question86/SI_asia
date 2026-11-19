@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T04:44:42+00:00_
+_Generiert: 2026-11-19T05:01:11+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T04:44:31+00:00`, fetched `2026-11-19T04:44:09+00:00`
+  - Zeit: published `2026-11-19T04:55:00+00:00`, fetched `2026-11-19T05:00:43+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Pressure dominates the crypto market, and the immediate cause is not a secret AI offering but a familiar macro squeeze. Bitcoin trades at US$62,731.42, down 2.39 per cent over 24 hours, while total crypto market capitalisation sits at US$2.15 trillion, down 1.97 per cent. Bitcoin’s 58.84 per cent dominance and its faster decline tell you […] The post Is the Anthropic IPO a sentiment barometer rather than a crypto cr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35255099/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-18T22:20:32+00:00`, fetched `2026-11-19T05:00:43+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ニトリは11月18日、横向きに寝たときに枕に押されにくいよう、耳からの出っ張りを抑えた睡眠用ワイヤレスイヤホン「ESL-11」の全国販売を始めたと発表した。価格は税込み2990円。11月中旬から全国のニトリ店舗とニトリネットで取り扱っている。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 36 km NNE of Kilimatinde, Tanzania** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-19T02:30:01.040+00:00`, fetched `2026-11-19T02:36:08+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T21:50:43+00:00`, fetched `2026-11-19T03:32:54+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Wait for pull request events with GitHub CLI** — Score 4, observation — [Quelle](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli)
   - Quelle: GitHub Changelog Atom / `rss`

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T04:44:42+00:00",
-  "run_id": "2026-11-19T04:44:42+00:00",
+  "generated_at": "2026-11-19T05:01:11+00:00",
+  "run_id": "2026-11-19T05:01:11+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 3,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 3,
-    "observe": 15,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T04:44:31+00:00",
-        "fetched_at": "2026-11-19T04:44:09+00:00",
+        "published_at": "2026-11-19T04:55:00+00:00",
+        "fetched_at": "2026-11-19T05:00:43+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "26df74df4b21f5915d41"
+        "id": "4c0ac70834e095ee0568"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -220,6 +220,28 @@
         "id": "5182aa202ff20af1328a"
       },
       {
+        "title": "ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」",
+        "url": "https://japan.cnet.com/article/35255099/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T22:20:32+00:00",
+        "fetched_at": "2026-11-19T05:00:43+00:00",
+        "summary": "ニトリは11月18日、横向きに寝たときに枕に押されにくいよう、耳からの出っ張りを抑えた睡眠用ワイヤレスイヤホン「ESL-11」の全国販売を始めたと発表した。価格は税込み2990円。11月中旬から全国のニトリ店舗とニトリネットで取り扱っている。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a1bbd8d1cf209bd9a8d5"
+      },
+      {
         "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -352,6 +374,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1dda89b2c7917c4ca05f"
+      },
+      {
+        "title": "The fastest raise in Singapore may still be a resignation letter",
+        "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-19T04:45:32+00:00",
+        "fetched_at": "2026-11-19T05:00:43+00:00",
+        "summary": "Staying loyal to an employer in Singapore seems to come at a price. Employees promoted into a role earn about 9 per cent less than people hired into the same role from outside, at the same employer and experience level, according to a new report from HR and payroll platform Omni HR. The Singapore and […] The post The fastest raise in Singapore may still be a resignation letter appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "76abb94c52505d6c7673"
       },
       {
         "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
@@ -505,8 +547,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T04:44:31+00:00",
-      "fetched_at": "2026-11-19T04:44:09+00:00",
+      "published_at": "2026-11-19T04:55:00+00:00",
+      "fetched_at": "2026-11-19T05:00:43+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -540,7 +582,7 @@
         "HD",
         "LOW"
       ],
-      "id": "26df74df4b21f5915d41"
+      "id": "4c0ac70834e095ee0568"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -689,6 +731,28 @@
       "id": "5182aa202ff20af1328a"
     },
     {
+      "title": "ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」",
+      "url": "https://japan.cnet.com/article/35255099/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T22:20:32+00:00",
+      "fetched_at": "2026-11-19T05:00:43+00:00",
+      "summary": "ニトリは11月18日、横向きに寝たときに枕に押されにくいよう、耳からの出っ張りを抑えた睡眠用ワイヤレスイヤホン「ESL-11」の全国販売を始めたと発表した。価格は税込み2990円。11月中旬から全国のニトリ店舗とニトリネットで取り扱っている。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a1bbd8d1cf209bd9a8d5"
+    },
+    {
       "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -821,6 +885,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1dda89b2c7917c4ca05f"
+    },
+    {
+      "title": "The fastest raise in Singapore may still be a resignation letter",
+      "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T04:45:32+00:00",
+      "fetched_at": "2026-11-19T05:00:43+00:00",
+      "summary": "Staying loyal to an employer in Singapore seems to come at a price. Employees promoted into a role earn about 9 per cent less than people hired into the same role from outside, at the same employer and experience level, according to a new report from HR and payroll platform Omni HR. The Singapore and […] The post The fastest raise in Singapore may still be a resignation letter appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "76abb94c52505d6c7673"
     },
     {
       "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
@@ -973,8 +1057,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T04:44:31+00:00",
-      "fetched_at": "2026-11-19T04:44:09+00:00",
+      "published_at": "2026-11-19T04:55:00+00:00",
+      "fetched_at": "2026-11-19T05:00:43+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1008,7 +1092,49 @@
         "HD",
         "LOW"
       ],
-      "id": "26df74df4b21f5915d41"
+      "id": "4c0ac70834e095ee0568"
+    },
+    {
+      "title": "ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」",
+      "url": "https://japan.cnet.com/article/35255099/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T22:20:32+00:00",
+      "fetched_at": "2026-11-19T05:00:43+00:00",
+      "summary": "ニトリは11月18日、横向きに寝たときに枕に押されにくいよう、耳からの出っ張りを抑えた睡眠用ワイヤレスイヤホン「ESL-11」の全国販売を始めたと発表した。価格は税込み2990円。11月中旬から全国のニトリ店舗とニトリネットで取り扱っている。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a1bbd8d1cf209bd9a8d5"
+    },
+    {
+      "title": "The fastest raise in Singapore may still be a resignation letter",
+      "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T04:45:32+00:00",
+      "fetched_at": "2026-11-19T05:00:43+00:00",
+      "summary": "Staying loyal to an employer in Singapore seems to come at a price. Employees promoted into a role earn about 9 per cent less than people hired into the same role from outside, at the same employer and experience level, according to a new report from HR and payroll platform Omni HR. The Singapore and […] The post The fastest raise in Singapore may still be a resignation letter appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "76abb94c52505d6c7673"
     }
   ],
   "source_errors": [],
