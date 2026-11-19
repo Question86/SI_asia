@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:27:55+00:00",
+  "generated_at": "2026-11-19T11:34:05+00:00",
   "today_file_total": 51,
   "current_clusters": [
     {
@@ -28,31 +28,6 @@
       "network_score": 34.9,
       "hot": true,
       "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "title:414-000-agents-tried-log-none-them-were",
-      "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/"
-      ],
-      "finding_count": 1,
-      "max_score": 23,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 28.1,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -106,6 +81,31 @@
       "network_score": 25.6,
       "hot": true,
       "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "title:414-000-agents-tried-log-none-them-were",
+      "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/"
+      ],
+      "finding_count": 1,
+      "max_score": 23,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 25.1,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
