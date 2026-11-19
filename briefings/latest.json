@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T03:12:20+00:00",
-  "run_id": "2026-11-19T03:12:20+00:00",
+  "generated_at": "2026-11-19T03:23:06+00:00",
+  "run_id": "2026-11-19T03:23:06+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T03:12:09+00:00",
-        "fetched_at": "2026-11-19T03:11:50+00:00",
+        "published_at": "2026-11-19T03:22:55+00:00",
+        "fetched_at": "2026-11-19T03:22:40+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "2cbf2c170aadf856b8a4"
+        "id": "109f24ba148125a50b42"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -378,8 +378,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T03:12:09+00:00",
-      "fetched_at": "2026-11-19T03:11:50+00:00",
+      "published_at": "2026-11-19T03:22:55+00:00",
+      "fetched_at": "2026-11-19T03:22:40+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -413,7 +413,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2cbf2c170aadf856b8a4"
+      "id": "109f24ba148125a50b42"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -719,8 +719,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T03:12:09+00:00",
-      "fetched_at": "2026-11-19T03:11:50+00:00",
+      "published_at": "2026-11-19T03:22:55+00:00",
+      "fetched_at": "2026-11-19T03:22:40+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -754,51 +754,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2cbf2c170aadf856b8a4"
-    },
-    {
-      "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
-      "url": "https://jvn.jp/jp/JVN28897261/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-19T12:00:00+09:00",
-      "fetched_at": "2026-11-19T03:11:50+00:00",
-      "summary": "Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "98fcfa87429cb80b0338"
-    },
-    {
-      "title": "From reality TV to building apps: How I actually use AI",
-      "url": "https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-19T03:00:50+00:00",
-      "fetched_at": "2026-11-19T03:11:50+00:00",
-      "summary": "In reality television, we used to joke that production was all about rushing to get ready, only to wait for something to happen. Sounds like an easy gig, but this rush-and-wait syndrome was made possible with rigorous planning in pre-production. Behind every shoot were master spreadsheets, production schedules, flight itineraries, crew deployments and endless emails […] The post From reality TV to building apps: How…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Webentwicklung"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "550a867cc470e83141cb"
+      "id": "109f24ba148125a50b42"
     }
   ],
   "source_errors": [],
