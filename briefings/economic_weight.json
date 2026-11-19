@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T20:27:35+00:00",
+  "generated_at": "2026-11-19T20:32:46+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -293,7 +293,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -740,7 +740,7 @@
       "p90_usd": 136800000000.0,
       "confidence": 0.625,
       "first_seen_at": "2026-11-18T23:48:26+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -2200,7 +2200,7 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -2778,7 +2778,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -4359,7 +4359,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -5345,7 +5345,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T15:25:13+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -13798,6 +13798,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f3523a5a473f34709bc5",
+      "title": "M 5.3 - South Georgia Island region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_f398708ba6dd2b284f52",
       "title": "M 5.5 - 61 km ENE of Tadine, New Caledonia",
       "event_classes": [
@@ -14223,8 +14240,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_f3523a5a473f34709bc5",
-      "title": "M 5.3 - South Georgia Island region",
+      "event_id": "evt_d1703b8bcf6d9c698622",
+      "title": "M 5.0 - central East Pacific Rise",
       "event_classes": [
         "natural_disaster"
       ],
@@ -14235,8 +14252,8 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-11-19T20:27:09+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "first_seen_at": "2026-11-19T20:32:20+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -14270,7 +14287,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -14644,7 +14661,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T03:12:23+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -16242,7 +16259,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T05:17:06+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -17246,7 +17263,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -17756,7 +17773,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T11:27:55+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -20544,7 +20561,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -22126,7 +22143,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T06:04:17+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -22551,7 +22568,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T05:34:35+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -23129,7 +23146,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-16T14:31:23+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -23401,7 +23418,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T04:04:30+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -24523,7 +24540,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-19T05:17:06+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -28843,7 +28860,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
@@ -29999,7 +30016,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-11-19T20:27:09+00:00",
+      "last_seen_at": "2026-11-19T20:32:20+00:00",
       "status": "active"
     },
     {
