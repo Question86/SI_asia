@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:29:18+00:00",
+  "generated_at": "2026-11-19T10:35:35+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 43,
@@ -51,50 +51,6 @@
       "first_seen_at": "2026-06-19T11:28:55+00:00"
     },
     {
-      "key": "domain:www.bis.org",
-      "title": "Economic activity, prices, and monetary policy in Japan",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
-        "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy",
-        "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
-        "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape",
-        "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal",
-        "https://www.bis.org/speeches/20261119-can-sustainable-finance-save-planet"
-      ],
-      "finding_count": 6,
-      "max_score": 13,
-      "credibility_total": 6.3,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.58,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 25.6,
-      "ranking_score": 17.58,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 4.58,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "domain:wid.cert-bund.de",
       "title": "[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
       "sources": [
@@ -135,6 +91,50 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Economic activity, prices, and monetary policy in Japan",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
+        "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy",
+        "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
+        "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape",
+        "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal",
+        "https://www.bis.org/speeches/20261119-can-sustainable-finance-save-planet"
+      ],
+      "finding_count": 6,
+      "max_score": 13,
+      "credibility_total": 6.3,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.37,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 25.6,
+      "ranking_score": 17.37,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 4.37,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:win-bird",
@@ -1334,7 +1334,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-19T10:29:20Z",
+    "generated_at": "2026-11-19T10:35:35Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
