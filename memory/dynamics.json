@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-19T05:22:11Z",
+  "generated_at": "2026-11-19T06:18:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "strong": 8,
-      "watch": 10,
-      "quiet": 22
+      "strong": 9,
+      "watch": 12,
+      "quiet": 19
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 10,
-      "quiet": 22
+      "strong": 9,
+      "watch": 12,
+      "quiet": 19
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/jp/JVN29068051/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T14:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T12:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -66,35 +66,11 @@
       "summary": "Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。"
     },
     {
-      "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
-      "url": "https://jvn.jp/jp/JVN29068051/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-19T05:17:06+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 152.75,
+      "age_days": 152.78,
       "topics": [
         "general"
       ],
@@ -112,7 +88,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 152.7d old signal",
+        "aging penalty -8.0 for 152.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -121,8 +97,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-19T05:16:51+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-11-19T06:03:57+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -147,26 +123,26 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
-      "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
-      "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN29068051/",
+      "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T05:17:06+00:00",
-      "age_days": 0.0,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 24.0,
+      "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -175,7 +151,31 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T03:12:23+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
+      "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T05:34:35+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -199,7 +199,7 @@
       "url": "https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:04:30+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -219,11 +219,35 @@
       "summary": ""
     },
     {
+      "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
+      "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T05:17:06+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
       "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:31:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -243,11 +267,37 @@
       "summary": ""
     },
     {
+      "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
+      "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T06:04:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:47:36.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -271,7 +321,7 @@
       "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:19:13+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -295,7 +345,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 75.99,
+      "age_days": 76.03,
       "topics": [
         "general"
       ],
@@ -320,7 +370,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T02:36:40+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -344,7 +394,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T02:49:40+00:00",
-      "age_days": 10.11,
+      "age_days": 10.15,
       "topics": [
         "general"
       ],
@@ -364,11 +414,35 @@
       "summary": ""
     },
     {
+      "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
+      "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T05:30:54+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Here is an uncomfortable truth about business: If nobody knows you, nobody owes you their trust. An established company does not walk into a room carrying only its product. It carries years of reputation, relationships, customer references and a network built long before the current opportunity appeared. A founder sta…"
+    },
+    {
       "title": "Beyond faster payments, what global businesses really need",
       "url": "https://e27.co/beyond-faster-payments-what-global-businesses-really-need-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:04:30+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -392,7 +466,7 @@
       "url": "https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T01:17:13+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -416,7 +490,7 @@
       "url": "https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T03:12:23+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -442,7 +516,7 @@
       "url": "https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T01:00:22+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -468,11 +542,11 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:27:54+00:00",
-      "age_days": 29.12,
+      "age_days": 29.16,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.16,
+      "dynamics_score": 11.14,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -484,7 +558,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -2.8 for 29.1d old signal"
+        "aging penalty -2.9 for 29.2d old signal"
       ],
       "summary": ""
     },
@@ -493,7 +567,7 @@
       "url": "https://japan.cnet.com/article/35255099/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 152.83,
+      "age_days": 152.87,
       "topics": [
         "general"
       ],
@@ -509,7 +583,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 152.8d old signal"
+        "aging penalty -8.0 for 152.9d old signal"
       ],
       "summary": ""
     },
@@ -518,7 +592,7 @@
       "url": "https://japan.cnet.com/article/35255099/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T22:20:32+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -542,7 +616,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T00:18:40+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -566,7 +640,7 @@
       "url": "https://note.com/y_hirano/n/nc986ab18b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T19:58:08+00:00",
-      "age_days": 0.39,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -590,7 +664,7 @@
       "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T02:16:34+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -616,7 +690,7 @@
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 154.36,
+      "age_days": 154.4,
       "topics": [
         "general"
       ],
@@ -642,7 +716,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T02:30:01.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "disaster"
@@ -670,7 +744,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:48:46.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "disaster"
@@ -698,7 +772,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T02:36:40+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -724,7 +798,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:54:09+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -746,11 +820,37 @@
       "summary": ""
     },
     {
-      "title": "実質的無職になった｜Y.Hirano",
-      "url": "https://note.com/y_hirano/n/nc986ab18b90e",
+      "title": "The fastest raise in Singapore may still be a resignation letter",
+      "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T05:01:14+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
+      "url": "https://togetter.com/li/2772266",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 79.44,
+      "published_at": "2026-06-19T12:31:48+00:00",
+      "age_days": 152.74,
       "topics": [
         "general"
       ],
@@ -766,16 +866,67 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 79.4d old signal"
+        "aging penalty -8.0 for 152.7d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "実質的無職になった｜Y.Hirano",
+      "url": "https://note.com/y_hirano/n/nc986ab18b90e",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 79.48,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 79.5d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
+      "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T05:59:40+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For two years, Indonesia has pitched itself as the place where Asia’s AI workloads would live: a huge domestic digital market, surplus power and a government eager to cut ribbons on hyperscale campuses. Washington has just added a line to that brochure: terms and conditions apply. In a note published on Tuesday, Mayba…"
     },
     {
       "title": "Wait for pull request events with GitHub CLI",
       "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-19T00:55:24+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -801,7 +952,7 @@
       "url": "https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:00:23+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -826,7 +977,7 @@
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-18T08:00:00+00:00",
-      "age_days": 0.89,
+      "age_days": 0.93,
       "topics": [
         "ai"
       ],
@@ -848,11 +999,11 @@
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
     },
     {
-      "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
+      "title": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
+      "url": "https://togetter.com/li/2772266",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-18T23:15:44+00:00",
-      "age_days": 0.25,
+      "published_at": "2026-11-18T23:53:56+00:00",
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -869,157 +1020,7 @@
       "why": [
         "no strong comparative reason"
       ],
-      "summary": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象"
-    },
-    {
-      "title": "【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-18T21:50:43+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた"
-    },
-    {
-      "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
-      "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T05:00:53+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She wanted to know what she’d done wrong. Probably nothing. But…"
-    },
-    {
-      "title": "Beyond faster payments, what global businesses really need",
-      "url": "https://e27.co/beyond-faster-payments-what-global-businesses-really-need-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T04:00:23+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "International trade has little use for a payment that is fast but difficult to account for. An exporter needs to know what has been received, what has been deducted, and whom to approach when the figures do not match. Yet much of the debate on cross-border payments still revolves around transaction speed and price. Th…"
-    },
-    {
-      "title": "The fastest raise in Singapore may still be a resignation letter",
-      "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T05:01:14+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "From reality TV to building apps: How I actually use AI",
-      "url": "https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T03:00:50+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "In reality television, we used to joke that production was all about rushing to get ready, only to wait for something to happen. Sounds like an easy gig, but this rush-and-wait syndrome was made possible with rigorous planning in pre-production. Behind every shoot were master spreadsheets, production schedules, flight…"
-    },
-    {
-      "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
-      "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T04:23:51+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Pressure dominates the crypto market, and the immediate cause is not a secret AI offering but a familiar macro squeeze. Bitcoin trades at US$62,731.42, down 2.39 per cent over 24 hours, while total crypto market capitalisation sits at US$2.15 trillion, down 1.97 per cent. Bitcoin’s 58.84 per cent dominance and its fas…"
+      "summary": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."

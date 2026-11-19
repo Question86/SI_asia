@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-19T05:22:11Z",
+  "generated_at": "2026-11-19T06:18:43Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN29068051/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T14:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T12:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -59,35 +59,11 @@
       "summary": "Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。"
     },
     {
-      "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
-      "url": "https://jvn.jp/jp/JVN29068051/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-19T05:17:06+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 152.75,
+      "age_days": 152.78,
       "topics": [
         "general"
       ],
@@ -105,7 +81,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 152.7d old signal",
+        "aging penalty -8.0 for 152.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -114,8 +90,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-19T05:16:51+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-11-19T06:03:57+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -140,26 +116,26 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
-      "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
-      "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN29068051/",
+      "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T05:17:06+00:00",
-      "age_days": 0.0,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 24.0,
+      "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -168,7 +144,31 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T03:12:23+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
+      "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T05:34:35+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -192,7 +192,7 @@
       "url": "https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:04:30+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -212,11 +212,35 @@
       "summary": ""
     },
     {
+      "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
+      "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T05:17:06+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
       "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:31:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -236,11 +260,37 @@
       "summary": ""
     },
     {
+      "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
+      "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-19T06:04:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:47:36.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -258,55 +308,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-11-19 01:34:52 UTC 2026-11-19 01:34:52 UTC at epicenter Location 0.523°N 96.530°E Depth 37.00 km (22.99 mi)"
-    },
-    {
-      "title": "Canadia Impact Fund makes its first French bet with career guidance startup Choose and Connect",
-      "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T04:19:13+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 75.99,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 76.0d old signal"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -318,8 +319,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 4
+      "strong": 9,
+      "watch": 3
     }
   }
 }
