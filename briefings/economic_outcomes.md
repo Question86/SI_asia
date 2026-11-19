@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-11-19T02:59:02+00:00`
+Generated: `2026-11-19T03:13:03+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -23,9 +23,9 @@ Generated: `2026-11-19T02:59:02+00:00`
 | anthropics/financial-services | $0 | — | 0 | 0 | dormant |
 | Can Ethereum clear US$2,672 this week and unlock a run to US$3,000? | $0 | — | 0 | 0 | dormant |
 | Investors do not just fund startups. They fund predictability | $0 | — | 0 | 0 | dormant |
+| 複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性 | $0 | — | 0 | 0 | active |
 | ご意見・ご要望に「アドレス・ベース・レジストリに関するお問合せ」のフォームを掲載しました | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 110 km SSE of Sola, Vanuatu | $0 | — | 0 | 0 | dormant |
 | M 5.8 - 203 km NW of Port-Olry, Vanuatu | $0 | — | 0 | 0 | dormant |
 | Go、OpenSSL、Apple、LibreSSL、pyca、wolfSSLのRFC 5280実装における名前制約が不整合である脆弱性 | $0 | — | 0 | 0 | dormant |
 | Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026) | $0 | — | 0 | 0 | dormant |
-| pollen-robotics/microduck | $0 | — | 0 | 0 | dormant |
