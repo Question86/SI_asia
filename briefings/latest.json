@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T17:34:03+00:00",
-  "run_id": "2026-11-19T17:34:03+00:00",
+  "generated_at": "2026-11-19T17:41:58+00:00",
+  "run_id": "2026-11-19T17:41:58+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 94
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "new_relevant_findings": 2,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 0,
     "medium": 36,
-    "observe": 57,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T17:27:22+00:00",
-        "fetched_at": "2026-11-19T17:33:25+00:00",
+        "published_at": "2026-11-19T17:38:32+00:00",
+        "fetched_at": "2026-11-19T17:41:20+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "ed612881132009a4cc19"
+        "id": "90e2d37adc2167752df0"
       },
       {
         "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -1067,6 +1067,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "52e0d92cd1b794597fbe"
+      },
+      {
+        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-19T08:00:00+00:00",
+        "fetched_at": "2026-11-19T17:41:20+00:00",
+        "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+        "matched_keywords": [
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "63949c2f95d68436a8b8"
       },
       {
         "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
@@ -2287,8 +2331,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T17:27:22+00:00",
-      "fetched_at": "2026-11-19T17:33:25+00:00",
+      "published_at": "2026-11-19T17:38:32+00:00",
+      "fetched_at": "2026-11-19T17:41:20+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2322,7 +2366,7 @@
         "HD",
         "LOW"
       ],
-      "id": "ed612881132009a4cc19"
+      "id": "90e2d37adc2167752df0"
     },
     {
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -3318,6 +3362,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "52e0d92cd1b794597fbe"
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "fetched_at": "2026-11-19T17:41:20+00:00",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "matched_keywords": [
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "63949c2f95d68436a8b8"
     },
     {
       "title": "Your brand ranks on Google, so why doesn’t ChatGPT recommend it?",
@@ -4537,8 +4625,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T17:27:22+00:00",
-      "fetched_at": "2026-11-19T17:33:25+00:00",
+      "published_at": "2026-11-19T17:38:32+00:00",
+      "fetched_at": "2026-11-19T17:41:20+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -4572,7 +4660,51 @@
         "HD",
         "LOW"
       ],
-      "id": "ed612881132009a4cc19"
+      "id": "90e2d37adc2167752df0"
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "fetched_at": "2026-11-19T17:41:20+00:00",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "matched_keywords": [
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "63949c2f95d68436a8b8"
     }
   ],
   "source_errors": [],
