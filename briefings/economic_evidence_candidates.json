@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T12:37:06+00:00",
-  "candidate_count": 3188,
+  "generated_at": "2026-11-19T12:54:22+00:00",
+  "candidate_count": 3191,
   "candidates": [
     {
       "amount_native": 2000000000000.0,
@@ -13415,6 +13415,24 @@
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
     },
     {
+      "candidate_id": "cand_a967b14b697c985bae61",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261119-opening-remarks-central-bank-governors-roundtable",
+      "observed_at": "2026-11-19T12:54:13+00:00",
+      "currency": "USD",
+      "amount_native": 20000000000000.0,
+      "amount_usd": 20000000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": ". Nobody admires the plumbing when it works; everybody notices when it does not. The Commonwealth comprises 56 countries and 2.7 billion people, with an economy projected to reach US$20 trillion by 2029. Intra-Commonwealth trade is expected to exceed US$1 trillion this year, and bilateral trade costs between members are, on average, 21 per cent lower than with others. You",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 12000000000000.0,
       "amount_usd": null,
       "attribution_probability": null,
@@ -13556,6 +13574,24 @@
       "snippet": "international debt securities. Growth in cross-border bank credit stabilised The BIS locational banking statistics (LBS) reveal that reporting banks’ cross-border claims 1 rose by $1.3 trillion in the second quarter of 2026, on an exchange rate- and break-adjusted basis ( Graph 1.A ). Cross-border bank credit rose by $877 billion in Q2 2026, which brought its outstanding",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202610-commentary-ibs-gli"
+    },
+    {
+      "candidate_id": "cand_2b63bc4d2918f6d25692",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261119-opening-remarks-central-bank-governors-roundtable",
+      "observed_at": "2026-11-19T12:54:13+00:00",
+      "currency": "USD",
+      "amount_native": 1000000000000.0,
+      "amount_usd": 1000000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "does not. The Commonwealth comprises 56 countries and 2.7 billion people, with an economy projected to reach US$20 trillion by 2029. Intra-Commonwealth trade is expected to exceed US$1 trillion this year, and bilateral trade costs between members are, on average, 21 per cent lower than with others. You have heard the numbers all week, so I will spare you the details. Suf",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
     },
     {
       "amount_native": 994000000000.0,
@@ -47572,6 +47608,24 @@
       "snippet": "Micron workers’ actions come as American frontier AI company Anthropic prepares to launch what could be the world’s biggest initial public offering, valuing the company at nearly $2 trillion. Its founders, investors, and some employees stand to become very wealthy. In Taiwan, negotiations between Micron’s Taoyuan union and the company are continuing. In the event of a",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    },
+    {
+      "candidate_id": "cand_8590476a6a1309ed5cee",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20261119-opening-remarks-central-bank-governors-roundtable",
+      "observed_at": "2026-11-19T12:54:13+00:00",
+      "currency": "USD",
+      "amount_native": 2000000000000.0,
+      "amount_usd": 2000000000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "Harbour entrepreneur be paid faster, more cheaply and more safely than today? Will her next client be in Nairobi or Mumbai? And will we be on track for the Commonwealth’s goal of US$2 trillion in trade among ourselves by 2030? If the answers are yes, this Roundtable will have mattered. The views expressed in this speech are those of the speaker and do not necessarily re",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 1700000000000.0,
