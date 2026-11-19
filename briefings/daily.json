@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-19T09:36:51+00:00",
-  "today_file_total": 35,
+  "generated_at": "2026-11-19T09:45:25+00:00",
+  "today_file_total": 37,
   "current_clusters": [
+    {
+      "key": "domain:www.bis.org",
+      "title": "Economic activity, prices, and monetary policy in Japan",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
+        "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy",
+        "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
+        "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape"
+      ],
+      "finding_count": 4,
+      "max_score": 13,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 27.4,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "earthquake:updates | reliefweb:unknown",
       "title": "Updates | ReliefWeb",
@@ -26,30 +52,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Economic activity, prices, and monetary policy in Japan",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
-        "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy"
-      ],
-      "finding_count": 2,
-      "max_score": 13,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:wid.cert-bund.de",

@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-19T09:36:48+00:00",
-  "run_id": "2026-11-19T09:36:48+00:00",
+  "generated_at": "2026-11-19T09:45:22+00:00",
+  "run_id": "2026-11-19T09:45:22+00:00",
   "date": "2026-11-19",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 3,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 8,
-    "observe": 27,
-    "source_errors": 0
+    "observe": 29,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T09:36:23+00:00",
-        "fetched_at": "2026-11-19T09:36:20+00:00",
+        "published_at": "2026-11-19T09:37:17+00:00",
+        "fetched_at": "2026-11-19T09:44:45+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "f0dd6f8dfe3a35e16770"
+        "id": "3a363d825808d7f8de83"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -721,6 +721,46 @@
         "id": "76abb94c52505d6c7673"
       },
       {
+        "title": "The Deutsche Bundesbank's 2026 Financial Stability Review",
+        "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-19T09:44:45+00:00",
+        "summary": "Introductory statement by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the press conference on the publication of the Deutsche Bundesbank's 2026 Financial Stability Review, Frankfurt am Main, 12 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6a0528e0568f293d4f81"
+      },
+      {
+        "title": "Navigating new economic realities - Europe’s outlook in a changing global landscape",
+        "url": "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-19T09:44:45+00:00",
+        "summary": "Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the 79th Siemens Bankers Conference, Munich, 13 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0b4d23647a58a0d0dea8"
+      },
+      {
         "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
         "url": "https://togetter.com/li/2772319",
         "source": "Hatena Bookmark Hotentry IT",
@@ -914,8 +954,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T09:36:23+00:00",
-      "fetched_at": "2026-11-19T09:36:20+00:00",
+      "published_at": "2026-11-19T09:37:17+00:00",
+      "fetched_at": "2026-11-19T09:44:45+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -949,7 +989,7 @@
         "HD",
         "LOW"
       ],
-      "id": "f0dd6f8dfe3a35e16770"
+      "id": "3a363d825808d7f8de83"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -1599,6 +1639,46 @@
       "id": "76abb94c52505d6c7673"
     },
     {
+      "title": "The Deutsche Bundesbank's 2026 Financial Stability Review",
+      "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-19T09:44:45+00:00",
+      "summary": "Introductory statement by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the press conference on the publication of the Deutsche Bundesbank's 2026 Financial Stability Review, Frankfurt am Main, 12 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6a0528e0568f293d4f81"
+    },
+    {
+      "title": "Navigating new economic realities - Europe’s outlook in a changing global landscape",
+      "url": "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-19T09:44:45+00:00",
+      "summary": "Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the 79th Siemens Bankers Conference, Munich, 13 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0b4d23647a58a0d0dea8"
+    },
+    {
       "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
       "url": "https://togetter.com/li/2772319",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1791,8 +1871,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T09:36:23+00:00",
-      "fetched_at": "2026-11-19T09:36:20+00:00",
+      "published_at": "2026-11-19T09:37:17+00:00",
+      "fetched_at": "2026-11-19T09:44:45+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1826,31 +1906,57 @@
         "HD",
         "LOW"
       ],
-      "id": "f0dd6f8dfe3a35e16770"
+      "id": "3a363d825808d7f8de83"
     },
     {
-      "title": "New technology, old questions: productivity puzzles and the macroeconomy",
-      "url": "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy",
+      "title": "The Deutsche Bundesbank's 2026 Financial Stability Review",
+      "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "fetched_at": "2026-11-19T09:36:20+00:00",
-      "summary": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the University of California, San Diego Economic Roundtable, San Diego, California, 13 November 2026.",
+      "fetched_at": "2026-11-19T09:44:45+00:00",
+      "summary": "Introductory statement by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the press conference on the publication of the Deutsche Bundesbank's 2026 Financial Stability Review, Frankfurt am Main, 12 November 2026.",
       "matched_keywords": [
-        "macro",
         "Macro/Policy"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+5.0); macro (+2.5); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "047a369b59541864d162"
+      "id": "6a0528e0568f293d4f81"
+    },
+    {
+      "title": "Navigating new economic realities - Europe’s outlook in a changing global landscape",
+      "url": "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-19T09:44:45+00:00",
+      "summary": "Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the 79th Siemens Bankers Conference, Munich, 13 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0b4d23647a58a0d0dea8"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "hn_release_security_burst",
+      "source_name": "Hacker News Release/Security Burst",
+      "source_type": "hackernews",
+      "error": "HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
