@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T10:59:39+00:00",
-  "run_id": "2026-11-19T10:59:39+00:00",
+  "generated_at": "2026-11-19T11:08:03+00:00",
+  "run_id": "2026-11-19T11:08:03+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 44
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "new_relevant_findings": 5,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
-    "medium": 11,
-    "observe": 33,
+    "medium": 14,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T10:59:27+00:00",
-        "fetched_at": "2026-11-19T10:59:06+00:00",
+        "published_at": "2026-11-19T11:05:24+00:00",
+        "fetched_at": "2026-11-19T11:07:34+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "53482a19495d081a3dbf"
+        "id": "30e0e0d31917d093a56b"
       },
       {
         "title": "[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -175,6 +175,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "98fcfa87429cb80b0338"
+      },
+      {
+        "title": "[UPDATE] [kritisch] Synology DiskStation Manager: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3378",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-19T11:02:01+00:00",
+        "fetched_at": "2026-11-19T11:07:34+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Synology DiskStation Manager ausnutzen, um beliebigen Code auszuführen, Administrator-Sitzungen zu übernehmen und um Informationen offenzulegen oder zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b18f0ba8bf5fa34215f5"
+      },
+      {
+        "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3914",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-19T10:57:08+00:00",
+        "fetched_at": "2026-11-19T11:07:34+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen oder Sicherheitsmaßnahmen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b8621c4abc61c874f698"
+      },
+      {
+        "title": "[UPDATE] [hoch] BusyBox: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3953",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-19T10:57:08+00:00",
+        "fetched_at": "2026-11-19T11:07:34+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1fe39c3fc70f5eb6b627"
       },
       {
         "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
@@ -467,6 +536,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "550a867cc470e83141cb"
+      },
+      {
+        "title": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
+        "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-19T11:00:00+00:00",
+        "fetched_at": "2026-11-19T11:07:34+00:00",
+        "summary": "Surgeon Kapil Sahnan uses a DaVinci Robot during surgery on a woman, 2026.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9d22869f743277824680"
       },
       {
         "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
@@ -1104,8 +1194,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T10:59:27+00:00",
-      "fetched_at": "2026-11-19T10:59:06+00:00",
+      "published_at": "2026-11-19T11:05:24+00:00",
+      "fetched_at": "2026-11-19T11:07:34+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1139,7 +1229,7 @@
         "HD",
         "LOW"
       ],
-      "id": "53482a19495d081a3dbf"
+      "id": "30e0e0d31917d093a56b"
     },
     {
       "title": "[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1245,6 +1335,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "98fcfa87429cb80b0338"
+    },
+    {
+      "title": "[UPDATE] [kritisch] Synology DiskStation Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3378",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-19T11:02:01+00:00",
+      "fetched_at": "2026-11-19T11:07:34+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Synology DiskStation Manager ausnutzen, um beliebigen Code auszuführen, Administrator-Sitzungen zu übernehmen und um Informationen offenzulegen oder zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b18f0ba8bf5fa34215f5"
+    },
+    {
+      "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3914",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-19T10:57:08+00:00",
+      "fetched_at": "2026-11-19T11:07:34+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen oder Sicherheitsmaßnahmen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8621c4abc61c874f698"
+    },
+    {
+      "title": "[UPDATE] [hoch] BusyBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3953",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-19T10:57:08+00:00",
+      "fetched_at": "2026-11-19T11:07:34+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1fe39c3fc70f5eb6b627"
     },
     {
       "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
@@ -1535,6 +1694,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "550a867cc470e83141cb"
+    },
+    {
+      "title": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
+      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T11:00:00+00:00",
+      "fetched_at": "2026-11-19T11:07:34+00:00",
+      "summary": "Surgeon Kapil Sahnan uses a DaVinci Robot during surgery on a woman, 2026.",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d22869f743277824680"
     },
     {
       "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
@@ -2171,8 +2351,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T10:59:27+00:00",
-      "fetched_at": "2026-11-19T10:59:06+00:00",
+      "published_at": "2026-11-19T11:05:24+00:00",
+      "fetched_at": "2026-11-19T11:07:34+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2206,7 +2386,97 @@
         "HD",
         "LOW"
       ],
-      "id": "53482a19495d081a3dbf"
+      "id": "30e0e0d31917d093a56b"
+    },
+    {
+      "title": "[UPDATE] [kritisch] Synology DiskStation Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3378",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-19T11:02:01+00:00",
+      "fetched_at": "2026-11-19T11:07:34+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Synology DiskStation Manager ausnutzen, um beliebigen Code auszuführen, Administrator-Sitzungen zu übernehmen und um Informationen offenzulegen oder zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b18f0ba8bf5fa34215f5"
+    },
+    {
+      "title": "[UPDATE] [hoch] BusyBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3953",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-19T10:57:08+00:00",
+      "fetched_at": "2026-11-19T11:07:34+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1fe39c3fc70f5eb6b627"
+    },
+    {
+      "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3914",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-19T10:57:08+00:00",
+      "fetched_at": "2026-11-19T11:07:34+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen oder Sicherheitsmaßnahmen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8621c4abc61c874f698"
+    },
+    {
+      "title": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
+      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T11:00:00+00:00",
+      "fetched_at": "2026-11-19T11:07:34+00:00",
+      "summary": "Surgeon Kapil Sahnan uses a DaVinci Robot during surgery on a woman, 2026.",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d22869f743277824680"
     }
   ],
   "source_errors": [],
