@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T20:24:43+00:00",
-    "fetched_at": "2026-11-19T20:26:37+00:00",
+    "published_at": "2026-11-19T20:41:22+00:00",
+    "fetched_at": "2026-11-19T20:41:05+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "8cca1eadc7c877b8b254"
+    "id": "df2333a1a9beafc85af8"
   },
   {
     "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -1951,6 +1951,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "225bd622f345ab481c3e"
+  },
+  {
+    "title": "ruby2ßhell: Remote Code Execution durch 21 ß",
+    "url": "https://www.heise.de/news/ruby2sshell-Remote-Code-Execution-durch-21-ss-11531365.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-11-19T14:50:00.000+00:00",
+    "fetched_at": "2026-11-19T20:41:05+00:00",
+    "summary": "Kein Tippfehler: Eine neue Sicherheitslücke in Ruby heißt ruby2ßhell. Wegen falscher Verarbeitung von ß sind Ruby-Projekte wie GitLab und Mastodon angreifbar.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8856f4692999ea5b6969"
   },
   {
     "title": "PHP behebt 17 Sicherheitslücken, vier erlauben Ausführung von Schadcode",
