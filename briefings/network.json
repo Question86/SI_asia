@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:00:31+00:00",
+  "generated_at": "2026-11-19T15:13:53+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 84,
@@ -94,53 +94,6 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
-      "key": "domain:www.bis.org",
-      "title": "Economic activity, prices, and monetary policy in Japan - Japan's money and capital market transformation - will a paradigm shift occur?",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan-japans-money-and-capital-market-transformation-will-paradigm-shift",
-        "https://www.bis.org/speeches/20261119-some-potential-financial-stability-implications-artificial-intelligence",
-        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
-        "https://www.bis.org/speeches/20261119-governance-cornerstone-credible-financial-sector",
-        "https://www.bis.org/speeches/20261119-ai-forecasts-gdp-well-economists",
-        "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy"
-      ],
-      "finding_count": 13,
-      "max_score": 16,
-      "credibility_total": 13.65,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 23.5,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers",
-        "agriculture_food_fertilizer"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 46.3,
-      "ranking_score": 23.5,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 5.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "earthquake:updates | reliefweb:unknown",
       "title": "Updates | ReliefWeb",
       "sources": [
@@ -181,6 +134,53 @@
       "first_seen_at": "2026-06-19T11:28:55+00:00"
     },
     {
+      "key": "domain:www.bis.org",
+      "title": "Economic activity, prices, and monetary policy in Japan - Japan's money and capital market transformation - will a paradigm shift occur?",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan-japans-money-and-capital-market-transformation-will-paradigm-shift",
+        "https://www.bis.org/speeches/20261119-some-potential-financial-stability-implications-artificial-intelligence",
+        "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
+        "https://www.bis.org/speeches/20261119-governance-cornerstone-credible-financial-sector",
+        "https://www.bis.org/speeches/20261119-ai-forecasts-gdp-well-economists",
+        "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy"
+      ],
+      "finding_count": 13,
+      "max_score": 16,
+      "credibility_total": 13.65,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 20.37,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers",
+        "agriculture_food_fertilizer"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 43.3,
+      "ranking_score": 20.37,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 4.37,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "cve:CVE-2026-123007",
       "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
       "sources": [
@@ -198,18 +198,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 19.12,
+      "network_score": 18.96,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
       "raw_network_score": 18.1,
-      "ranking_score": 19.12,
+      "ranking_score": 18.96,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.62,
+      "baseline_bonus": 1.46,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -737,18 +737,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.74,
+      "network_score": 11.7,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.1,
-      "ranking_score": 11.74,
+      "ranking_score": 11.7,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.24,
+      "baseline_bonus": 0.2,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -972,18 +972,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.67,
+      "network_score": 9.65,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.3,
-      "ranking_score": 9.67,
+      "ranking_score": 9.65,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.17,
+      "baseline_bonus": 1.15,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1767,7 +1767,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-19T15:00:32Z",
+    "generated_at": "2026-11-19T15:13:54Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
