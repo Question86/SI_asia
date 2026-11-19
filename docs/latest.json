@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T02:36:38+00:00",
-  "run_id": "2026-11-19T02:36:38+00:00",
+  "generated_at": "2026-11-19T02:45:17+00:00",
+  "run_id": "2026-11-19T02:45:17+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 11,
     "displayed_findings": 11,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T02:35:05+00:00",
-        "fetched_at": "2026-11-19T02:36:08+00:00",
+        "published_at": "2026-11-19T02:40:28+00:00",
+        "fetched_at": "2026-11-19T02:44:47+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b7e4090d0346e8e3d431"
+        "id": "e671625ce9ad87a6c7d5"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -334,8 +334,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T02:35:05+00:00",
-      "fetched_at": "2026-11-19T02:36:08+00:00",
+      "published_at": "2026-11-19T02:40:28+00:00",
+      "fetched_at": "2026-11-19T02:44:47+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -369,7 +369,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b7e4090d0346e8e3d431"
+      "id": "e671625ce9ad87a6c7d5"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -631,8 +631,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T02:35:05+00:00",
-      "fetched_at": "2026-11-19T02:36:08+00:00",
+      "published_at": "2026-11-19T02:40:28+00:00",
+      "fetched_at": "2026-11-19T02:44:47+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -666,64 +666,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b7e4090d0346e8e3d431"
-    },
-    {
-      "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-19T02:30:01.040+00:00",
-      "fetched_at": "2026-11-19T02:36:08+00:00",
-      "summary": "Time 2026-11-19 02:11:23 UTC 2026-11-19 02:11:23 UTC at epicenter Location 5.543°S 35.081°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "1671730279c55c3bda89"
-    },
-    {
-      "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-19T00:18:40+00:00",
-      "fetched_at": "2026-11-19T02:36:08+00:00",
-      "summary": "流出した可能性があるのは、10月21日午後9時から11月18日午前11時までの間に決済画面で入力された顧客のクレジットカード番号（全桁）、カード名義人、有効期限、セキュリティコード。 改ざんは11月18日に判明。ただちにサイトを停止した。その他のプログラムやサーバ内の情報に影響が及んでいないかも含めて、詳細な調...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fe32a56307cafe7be280"
+      "id": "e671625ce9ad87a6c7d5"
     }
   ],
   "source_errors": [],
