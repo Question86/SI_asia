@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T08:49:05+00:00",
-  "run_id": "2026-11-19T08:49:05+00:00",
+  "generated_at": "2026-11-19T08:57:57+00:00",
+  "run_id": "2026-11-19T08:57:57+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 7,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T08:48:54+00:00",
-        "fetched_at": "2026-11-19T08:48:38+00:00",
+        "published_at": "2026-11-19T08:56:42+00:00",
+        "fetched_at": "2026-11-19T08:57:30+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "f48c4ecda1525498e800"
+        "id": "7fdb283299b22df1ce2f"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -287,6 +287,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "37e715d0cd2cac9986c5"
+      },
+      {
+        "title": "Johor’s data-centre future is being decided in Ohio and Washington",
+        "url": "https://e27.co/johors-data-centre-future-is-being-decided-in-ohio-and-washington-20261119/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-19T08:53:07+00:00",
+        "fetched_at": "2026-11-19T08:57:30+00:00",
+        "summary": "American voters spent this month’s midterms arguing about data centres: who pays for the power, who loses the water, and who gets a say. Southeast Asia, which has quietly become the overflow tank for the world’s compute, never got that argument. It got press statements. Worse, the two decisions that will shape Johor’s data-centre future […] The post Johor’s data-centre future is being decided in Ohio and Washington…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Public Health",
+          "Southeast Asia"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "22787d09e2a7d7479782"
       },
       {
         "title": "From reality TV to building apps: How I actually use AI",
@@ -784,8 +806,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T08:48:54+00:00",
-      "fetched_at": "2026-11-19T08:48:38+00:00",
+      "published_at": "2026-11-19T08:56:42+00:00",
+      "fetched_at": "2026-11-19T08:57:30+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -819,7 +841,7 @@
         "HD",
         "LOW"
       ],
-      "id": "f48c4ecda1525498e800"
+      "id": "7fdb283299b22df1ce2f"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -1035,6 +1057,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "37e715d0cd2cac9986c5"
+    },
+    {
+      "title": "Johor’s data-centre future is being decided in Ohio and Washington",
+      "url": "https://e27.co/johors-data-centre-future-is-being-decided-in-ohio-and-washington-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T08:53:07+00:00",
+      "fetched_at": "2026-11-19T08:57:30+00:00",
+      "summary": "American voters spent this month’s midterms arguing about data centres: who pays for the power, who loses the water, and who gets a say. Southeast Asia, which has quietly become the overflow tank for the world’s compute, never got that argument. It got press statements. Worse, the two decisions that will shape Johor’s data-centre future […] The post Johor’s data-centre future is being decided in Ohio and Washington…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health",
+        "Southeast Asia"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "22787d09e2a7d7479782"
     },
     {
       "title": "From reality TV to building apps: How I actually use AI",
@@ -1531,8 +1575,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T08:48:54+00:00",
-      "fetched_at": "2026-11-19T08:48:38+00:00",
+      "published_at": "2026-11-19T08:56:42+00:00",
+      "fetched_at": "2026-11-19T08:57:30+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1566,31 +1610,29 @@
         "HD",
         "LOW"
       ],
-      "id": "f48c4ecda1525498e800"
+      "id": "7fdb283299b22df1ce2f"
     },
     {
-      "title": "NVIDIA/SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "Johor’s data-centre future is being decided in Ohio and Washington",
+      "url": "https://e27.co/johors-data-centre-future-is-being-decided-in-ohio-and-washington-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-11-19T08:48:38+00:00",
-      "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository. https://docs.nvidia.com/skills/skillevaluator/ Evaluate and improve AI ag…",
+      "published_at": "2026-11-19T08:53:07+00:00",
+      "fetched_at": "2026-11-19T08:57:30+00:00",
+      "summary": "American voters spent this month’s midterms arguing about data centres: who pays for the power, who loses the water, and who gets a say. Southeast Asia, which has quietly become the overflow tank for the world’s compute, never got that argument. It got press statements. Worse, the two decisions that will shape Johor’s data-centre future […] The post Johor’s data-centre future is being decided in Ohio and Washington…",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
         "APAC Trend Radar",
-        "GitHub Trending",
-        "Security"
+        "Public Health",
+        "Southeast Asia"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote template (x0.45)",
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4a388a0b69462cab8d04"
+      "id": "22787d09e2a7d7479782"
     }
   ],
   "source_errors": [],

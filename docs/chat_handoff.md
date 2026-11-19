@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-19T08:49:05+00:00_
+_Generated: 2026-11-19T08:57:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `30`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-19T08:48:54+00:00`
+- published: `2026-11-19T08:56:42+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-19T08:49:05+00:00_
 - url: https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/
 - summary: A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She…
 
-### 7. From reality TV to building apps: How I actually use AI
+### 7. Johor’s data-centre future is being decided in Ohio and Washington
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-11-19T08:53:07+00:00`
+- url: https://e27.co/johors-data-centre-future-is-being-decided-in-ohio-and-washington-20261119/
+- summary: American voters spent this month’s midterms arguing about data centres: who pays for the power, who loses the water, and who gets a say. Southeast Asia, which has quietly become the overflow tank for the world’s compute, never got that argument. It got press…
+
+### 8. From reality TV to building apps: How I actually use AI
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-11-19T03:00:50+00:00`
 - url: https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/
 - summary: In reality television, we used to joke that production was all about rushing to get ready, only to wait for something to happen. Sounds like an easy gig, but this rush-and-wait syndrome was made possible with rigorous planning in pre-production. Behind every…
-
-### 8. Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-11-19T04:23:51+00:00`
-- url: https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/
-- summary: Pressure dominates the crypto market, and the immediate cause is not a secret AI offering but a familiar macro squeeze. Bitcoin trades at US$62,731.42, down 2.39 per cent over 24 hours, while total crypto market capitalisation sits at US$2.15 trillion, down 1…
 
 END OF DOCUMENT

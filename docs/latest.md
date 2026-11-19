@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T08:49:05+00:00_
+_Generiert: 2026-11-19T08:57:57+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T08:48:54+00:00`, fetched `2026-11-19T08:48:38+00:00`
+  - Zeit: published `2026-11-19T08:56:42+00:00`, fetched `2026-11-19T08:57:30+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -96,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: A business owner in Petaling Jaya asked me something recently that I keep coming back to. A customer told her she’d “asked ChatGPT for recommendations” and her company wasn’t on the list, even though she ranks on Google’s first page for her main keyword. She wanted to know what she’d done wrong. Probably nothing. But […] The post Your brand ranks on Google, so why doesn’t ChatGPT recommend it? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **From reality TV to building apps: How I actually use AI** — Score 11, observation — [Quelle](https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/)
+- **Johor’s data-centre future is being decided in Ohio and Washington** — Score 11, observation — [Quelle](https://e27.co/johors-data-centre-future-is-being-decided-in-ohio-and-washington-20261119/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-19T03:00:50+00:00`, fetched `2026-11-19T03:11:50+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Webentwicklung
+  - Zeit: published `2026-11-19T08:53:07+00:00`, fetched `2026-11-19T08:57:30+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: In reality television, we used to joke that production was all about rushing to get ready, only to wait for something to happen. Sounds like an easy gig, but this rush-and-wait syndrome was made possible with rigorous planning in pre-production. Behind every shoot were master spreadsheets, production schedules, flight itineraries, crew deployments and endless emails […] The post From reality TV to building apps: How…
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: American voters spent this month’s midterms arguing about data centres: who pays for the power, who loses the water, and who gets a say. Southeast Asia, which has quietly become the overflow tank for the world’s compute, never got that argument. It got press statements. Worse, the two decisions that will shape Johor’s data-centre future […] The post Johor’s data-centre future is being decided in Ohio and Washington…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35255099/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
