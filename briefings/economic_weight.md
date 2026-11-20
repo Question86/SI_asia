@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-11-20T03:55:37+00:00`
+Generated: `2026-11-20T04:02:57+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -15,10 +15,10 @@ Generated: `2026-11-20T03:55:37+00:00`
 | The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles | conflict | $116.80M | $11.68B | $1.17T | 0.31 |
 | Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4 | conflict | $116.00M | $11.60B | $1.16T | 0.31 |
 | Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target? | conflict | $116.00M | $11.60B | $1.16T | 0.31 |
+| Everful raises US$48.5M Series A to turn the overseas sourcing office into software | funding, conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | Shopwareにおけるクロスサイトスクリプティングの脆弱性 | vulnerability, conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | npm extends recovery-code security holds to all accounts | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
-| Everful raises US$48.5M Series A to turn the overseas sourcing office into software | funding, conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | Passing 1.5°C global warming: Performative ESG is no longer acceptable | conflict | $114.40M | $11.44B | $1.14T | 0.31 |
 | Headlines that broke the script: The warning signs were inside the building — Part 1 | conflict | $114.40M | $11.44B | $1.14T | 0.31 |
 | 10 technical talks I’m excited about at GitHub Universe 2026 | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
