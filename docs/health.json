@@ -1,22 +1,28 @@
 {
-  "generated_at": "2026-11-20T13:06:40+00:00",
+  "generated_at": "2026-11-20T13:17:25+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 49,
     "displayed_findings": 49,
     "high": 0,
     "medium": 14,
     "observe": 35,
-    "source_errors": 1
+    "source_errors": 2
   },
   "source_errors": [
     {
       "source_id": "twcert_security_news",
       "source_name": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
       "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
     }
