@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T07:03:16+00:00_
+_Generiert: 2026-11-20T07:18:38+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,10 @@ _Generiert: 2026-11-20T07:03:16+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M5.1 - 10 km NW of Pinnacles, CA** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702)
+- **USGS earthquake M5.0 - 10 km NW of Pinnacles, CA** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702)
   - Quelle: USGS
   - Zeit: `2026-11-20T06:49:16+00:00`
-  - Kurz: M5.1 - 10 km NW of Pinnacles, CA. PAGER alert: none. Tsunami flag: 1.
+  - Kurz: M5.0 - 10 km NW of Pinnacles, CA. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2024-10441 Synology DiskStation Manager (DSM)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-18`
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T06:44:54+00:00`, fetched `2026-11-20T06:48:12+00:00`
+  - Zeit: published `2026-11-20T07:18:26+00:00`, fetched `2026-11-20T07:18:07+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
