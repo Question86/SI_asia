@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T04:42:48+00:00",
-  "run_id": "2026-11-20T04:42:48+00:00",
+  "generated_at": "2026-11-20T04:50:35+00:00",
+  "run_id": "2026-11-20T04:50:35+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 3,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 4,
+    "medium": 6,
     "observe": 14,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T04:36:27+00:00",
-        "fetched_at": "2026-11-20T04:42:22+00:00",
+        "published_at": "2026-11-20T04:48:30+00:00",
+        "fetched_at": "2026-11-20T04:50:11+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,29 @@
           "HD",
           "LOW"
         ],
-        "id": "9ff9bddc4f0044239d52"
+        "id": "8047688542613077b683"
+      },
+      {
+        "title": "After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore",
+        "url": "https://e27.co/after-openai-and-anthropic-mistral-goes-further-with-a-full-apac-hq-in-singapore-20261120/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-20T04:47:38+00:00",
+        "fetched_at": "2026-11-20T04:50:11+00:00",
+        "summary": "Every big AI lab now has a Singapore story. OpenAI chose the city-state for its first Applied AI Lab outside the US. Last month, Anthropic opened an office here and signed an AI safety testing pact with the government. Now Mistral AI, Europe’s best-known model maker, has gone a step further and made Singapore its […] The post After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore appeared…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "OpenAI"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c41585937322a78506aa"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -115,6 +137,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3ae477544977a74d0ad2"
+      },
+      {
+        "title": "We took founder bias out of the roadmap: Then our customers fired us",
+        "url": "https://e27.co/we-took-founder-bias-out-of-the-roadmap-then-our-customers-fired-us-20261120/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-20T04:45:34+00:00",
+        "fetched_at": "2026-11-20T04:50:11+00:00",
+        "summary": "The pristine whiteboard mounted on the corner wall of the fifth-floor incubator suite at one-north was completely bare, save for the ghost of an erased product flow from three months back. In the late nineties, covering the early wreckage of the dot-com boom out of San Francisco, you could smell a founder’s panic fifty feet […] The post We took founder bias out of the roadmap: Then our customers fired us appeared fi…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Watchgraph:agriculture_food_fertilizer"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "agriculture_food_fertilizer"
+        ],
+        "watchgraph_reasons": [
+          "agriculture_food_fertilizer: corn"
+        ],
+        "market_context": [
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "id": "03a774aef4c5326c687c"
       },
       {
         "title": "Everful raises US$48.5M Series A to turn the overseas sourcing office into software",
@@ -554,8 +612,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T04:36:27+00:00",
-      "fetched_at": "2026-11-20T04:42:22+00:00",
+      "published_at": "2026-11-20T04:48:30+00:00",
+      "fetched_at": "2026-11-20T04:50:11+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -589,7 +647,29 @@
         "HD",
         "LOW"
       ],
-      "id": "9ff9bddc4f0044239d52"
+      "id": "8047688542613077b683"
+    },
+    {
+      "title": "After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore",
+      "url": "https://e27.co/after-openai-and-anthropic-mistral-goes-further-with-a-full-apac-hq-in-singapore-20261120/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T04:47:38+00:00",
+      "fetched_at": "2026-11-20T04:50:11+00:00",
+      "summary": "Every big AI lab now has a Singapore story. OpenAI chose the city-state for its first Applied AI Lab outside the US. Last month, Anthropic opened an office here and signed an AI safety testing pact with the government. Now Mistral AI, Europe’s best-known model maker, has gone a step further and made Singapore its […] The post After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore appeared…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "OpenAI"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c41585937322a78506aa"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -635,6 +715,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3ae477544977a74d0ad2"
+    },
+    {
+      "title": "We took founder bias out of the roadmap: Then our customers fired us",
+      "url": "https://e27.co/we-took-founder-bias-out-of-the-roadmap-then-our-customers-fired-us-20261120/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T04:45:34+00:00",
+      "fetched_at": "2026-11-20T04:50:11+00:00",
+      "summary": "The pristine whiteboard mounted on the corner wall of the fifth-floor incubator suite at one-north was completely bare, save for the ghost of an erased product flow from three months back. In the late nineties, covering the early wreckage of the dot-com boom out of San Francisco, you could smell a founder’s panic fifty feet […] The post We took founder bias out of the roadmap: Then our customers fired us appeared fi…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:agriculture_food_fertilizer"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "watchgraph_reasons": [
+        "agriculture_food_fertilizer: corn"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "id": "03a774aef4c5326c687c"
     },
     {
       "title": "Everful raises US$48.5M Series A to turn the overseas sourcing office into software",
@@ -1071,8 +1187,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T04:36:27+00:00",
-      "fetched_at": "2026-11-20T04:42:22+00:00",
+      "published_at": "2026-11-20T04:48:30+00:00",
+      "fetched_at": "2026-11-20T04:50:11+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1106,7 +1222,65 @@
         "HD",
         "LOW"
       ],
-      "id": "9ff9bddc4f0044239d52"
+      "id": "8047688542613077b683"
+    },
+    {
+      "title": "After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore",
+      "url": "https://e27.co/after-openai-and-anthropic-mistral-goes-further-with-a-full-apac-hq-in-singapore-20261120/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T04:47:38+00:00",
+      "fetched_at": "2026-11-20T04:50:11+00:00",
+      "summary": "Every big AI lab now has a Singapore story. OpenAI chose the city-state for its first Applied AI Lab outside the US. Last month, Anthropic opened an office here and signed an AI safety testing pact with the government. Now Mistral AI, Europe’s best-known model maker, has gone a step further and made Singapore its […] The post After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore appeared…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "OpenAI"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c41585937322a78506aa"
+    },
+    {
+      "title": "We took founder bias out of the roadmap: Then our customers fired us",
+      "url": "https://e27.co/we-took-founder-bias-out-of-the-roadmap-then-our-customers-fired-us-20261120/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T04:45:34+00:00",
+      "fetched_at": "2026-11-20T04:50:11+00:00",
+      "summary": "The pristine whiteboard mounted on the corner wall of the fifth-floor incubator suite at one-north was completely bare, save for the ghost of an erased product flow from three months back. In the late nineties, covering the early wreckage of the dot-com boom out of San Francisco, you could smell a founder’s panic fifty feet […] The post We took founder bias out of the roadmap: Then our customers fired us appeared fi…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:agriculture_food_fertilizer"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "watchgraph_reasons": [
+        "agriculture_food_fertilizer: corn"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "id": "03a774aef4c5326c687c"
     }
   ],
   "source_errors": [],

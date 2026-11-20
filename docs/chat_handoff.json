@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-20T04:42:48+00:00",
+  "generated_at": "2026-11-20T04:50:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 3,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 4,
+    "medium": 6,
     "observe": 14
   },
   "source_errors_count": 0,
@@ -18,10 +18,20 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T04:36:27+00:00",
+      "published_at": "2026-11-20T04:48:30+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "section": "medium"
+    },
+    {
+      "title": "After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T04:47:38+00:00",
+      "relevance_score": 17,
+      "url": "https://e27.co/after-openai-and-anthropic-mistral-goes-further-with-a-full-apac-hq-in-singapore-20261120/",
+      "summary": "Every big AI lab now has a Singapore story. OpenAI chose the city-state for its first Applied AI Lab outside the US. Last month, Anthropic opened an office here and signed an AI safety testing pact with the government. Now Mistral AI, Europe’s best-known mode…",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "section": "medium"
-    },
-    {
-      "title": "Everful raises US$48.5M Series A to turn the overseas sourcing office into software",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-20T03:52:18+00:00",
-      "relevance_score": 14,
-      "url": "https://e27.co/everful-raises-us48-5m-series-a-to-turn-the-overseas-sourcing-office-into-software-20261120/",
-      "summary": "For decades, buying straight from a Chinese factory came with a hidden cost: a sourcing office in Shenzhen or Yiwu. That meant a few agents who spoke the language, chased samples, and knew which supplier was quietly cutting corners. Small retailers who could…",
       "section": "medium"
     },
     {
