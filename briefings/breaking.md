@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-20T22:30:42+00:00_
+_Generiert: 2026-11-20T22:41:08+00:00_
 
 ## Security advisory permissions are now generally available
 
