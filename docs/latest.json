@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T03:01:33+00:00",
-  "run_id": "2026-11-20T03:01:33+00:00",
+  "generated_at": "2026-11-20T03:18:53+00:00",
+  "run_id": "2026-11-20T03:18:53+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T02:58:39+00:00",
-        "fetched_at": "2026-11-20T03:01:04+00:00",
+        "published_at": "2026-11-20T03:18:25+00:00",
+        "fetched_at": "2026-11-20T03:18:20+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "088342922ff72c252ebf"
+        "id": "f99b5f238923e0a6c67d"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -375,8 +375,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T02:58:39+00:00",
-      "fetched_at": "2026-11-20T03:01:04+00:00",
+      "published_at": "2026-11-20T03:18:25+00:00",
+      "fetched_at": "2026-11-20T03:18:20+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -410,7 +410,7 @@
         "HD",
         "LOW"
       ],
-      "id": "088342922ff72c252ebf"
+      "id": "f99b5f238923e0a6c67d"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -713,8 +713,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T02:58:39+00:00",
-      "fetched_at": "2026-11-20T03:01:04+00:00",
+      "published_at": "2026-11-20T03:18:25+00:00",
+      "fetched_at": "2026-11-20T03:18:20+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -748,73 +748,7 @@
         "HD",
         "LOW"
       ],
-      "id": "088342922ff72c252ebf"
-    },
-    {
-      "title": "Dubai is selling trust, not just capital: What it means for Southeast Asian founders",
-      "url": "https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-20T02:55:41+00:00",
-      "fetched_at": "2026-11-20T03:01:04+00:00",
-      "summary": "When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spent decades developing its position as a global centre for trade, logistics, aviation, finance, […] The post Dubai is selling trust, not just capital: What it me…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "Southeast Asia",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "2699ec097c1e7099ee82"
-    },
-    {
-      "title": "耀威光電｜智能路燈管理系統 - SQL Injection",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-20T02:36:00+00:00",
-      "fetched_at": "2026-11-20T03:01:04+00:00",
-      "summary": "耀威光電｜智能路燈管理系統 - SQL Injection",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b11de972cc8d0d5cf85d"
+      "id": "f99b5f238923e0a6c67d"
     }
   ],
   "source_errors": [],
