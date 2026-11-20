@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T11:23:42+00:00",
-  "run_id": "2026-11-20T11:23:42+00:00",
+  "generated_at": "2026-11-20T11:32:08+00:00",
+  "run_id": "2026-11-20T11:32:08+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 44,
     "displayed_findings": 44,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T11:23:29+00:00",
-        "fetched_at": "2026-11-20T11:23:06+00:00",
+        "published_at": "2026-11-20T11:29:11+00:00",
+        "fetched_at": "2026-11-20T11:31:36+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "2e937ed429cb4d6333bb"
+        "id": "0528c0c16d495fc68938"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1243,8 +1243,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T11:23:29+00:00",
-      "fetched_at": "2026-11-20T11:23:06+00:00",
+      "published_at": "2026-11-20T11:29:11+00:00",
+      "fetched_at": "2026-11-20T11:31:36+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1278,7 +1278,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2e937ed429cb4d6333bb"
+      "id": "0528c0c16d495fc68938"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -2449,8 +2449,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T11:23:29+00:00",
-      "fetched_at": "2026-11-20T11:23:06+00:00",
+      "published_at": "2026-11-20T11:29:11+00:00",
+      "fetched_at": "2026-11-20T11:31:36+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2484,64 +2484,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2e937ed429cb4d6333bb"
-    },
-    {
-      "title": "M 4.7 - southeast of the Loyalty Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc8k",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-20T11:16:24.040+00:00",
-      "fetched_at": "2026-11-20T11:23:06+00:00",
-      "summary": "Time 2026-11-20 10:48:44 UTC 2026-11-20 10:48:44 UTC at epicenter Location 24.661°S 171.191°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e614a7decdddd7edacfd"
-    },
-    {
-      "title": "「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】",
-      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-20T09:26:32+00:00",
-      "fetched_at": "2026-11-20T11:23:06+00:00",
-      "summary": "「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3aeeda43ffa6ee9bacac"
+      "id": "0528c0c16d495fc68938"
     }
   ],
   "source_errors": [],
