@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T05:39:24+00:00",
+  "generated_at": "2026-11-20T05:44:54+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -174,7 +174,7 @@
       "p90_usd": 1152000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-20T03:55:14+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -2218,7 +2218,7 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -3629,7 +3629,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-20T01:13:41+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -5669,7 +5669,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-20T03:31:16+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -7252,6 +7252,23 @@
       "first_seen_at": "2026-09-15T05:46:12+00:00",
       "last_seen_at": "2026-09-15T14:03:31+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1f627585e573d9c7b3ea",
+      "title": "M 4.9 - 54 km W of Madang, Papua New Guinea",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1fd216f86b4cf0126853",
@@ -14309,23 +14326,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_1f627585e573d9c7b3ea",
-      "title": "M 4.9 - 54 km W of Madang, Papua New Guinea",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-11-20T05:38:53+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_2bb9a382978abc72cb41",
       "title": "M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo",
       "event_classes": [
@@ -14577,7 +14577,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -17025,7 +17025,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -17946,6 +17946,23 @@
       "first_seen_at": "2026-10-06T10:50:44+00:00",
       "last_seen_at": "2026-10-06T23:46:08+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_edbdf08a42e58d439d03",
+      "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 122400.0,
+      "p50_usd": 12240000.0,
+      "p90_usd": 1224000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-20T05:44:23+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1dc9bdd21755f73fe1e3",
@@ -19848,7 +19865,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-20T04:50:39+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -20664,7 +20681,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -22331,7 +22348,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-20T04:50:39+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -23572,7 +23589,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-20T04:02:32+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -23776,7 +23793,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-20T05:08:16+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -23793,7 +23810,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-20T03:01:35+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -25209,6 +25226,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d9e0de04287cbdd7946c",
+      "title": "Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "compliance"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_da275e7d4e672b8bea83",
       "title": "OpenAI「Astra」は何でもできる、だからこそ“プロの指示”が必要になる (1/4)",
       "event_classes": [
@@ -25479,23 +25513,6 @@
       "first_seen_at": "2026-10-31T06:33:29+00:00",
       "last_seen_at": "2026-11-01T00:00:01+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d9e0de04287cbdd7946c",
-      "title": "Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "compliance"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-20T05:38:53+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017a730364c807861d1b",
@@ -26361,7 +26378,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-20T04:36:40+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -29405,7 +29422,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-20T04:02:32+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -35465,6 +35482,24 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_88552b7f75df435bbb1f",
+      "title": "Indonesia exports its talent, Korea captures the value: The K-pop lesson Jakarta can’t ignore",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure",
+        "trade"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_89a7e5f27d931cc40227",
       "title": "文字画像APNGメーカー｜TRPG WEBツール観測所",
       "event_classes": [
@@ -36007,24 +36042,6 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_88552b7f75df435bbb1f",
-      "title": "Indonesia exports its talent, Korea captures the value: The K-pop lesson Jakarta can’t ignore",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "infrastructure",
-        "trade"
-      ],
-      "p10_usd": 109600.0,
-      "p50_usd": 10960000.0,
-      "p90_usd": 1096000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-20T05:38:53+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -37315,7 +37332,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-11-20T01:54:07+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -39117,7 +39134,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:26:46+00:00",
-      "last_seen_at": "2026-11-20T05:38:53+00:00",
+      "last_seen_at": "2026-11-20T05:44:23+00:00",
       "status": "active"
     },
     {
@@ -41447,7 +41464,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-11-20T01:47:34+00:00",
       "last_seen_at": "2026-11-20T05:38:53+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_731f3e4cf0bb3ae43284",
