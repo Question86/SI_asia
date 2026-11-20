@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T09:46:14+00:00_
+_Generiert: 2026-11-20T09:54:25+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+40 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T09:42:21+00:00`, fetched `2026-11-20T09:45:44+00:00`
+  - Zeit: published `2026-11-20T09:46:41+00:00`, fetched `2026-11-20T09:53:50+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -256,6 +256,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Christine Lagarde: Acting in time
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog** — Score 8, observation — [Quelle](https://developer.hatenastaff.com/entry/2026/11/20/162322)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-20T08:33:42+00:00`, fetched `2026-11-20T09:53:50+00:00`
+  - Treffer: developer, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.5); hotentry (+2.0); developer (+2.5); recent (+1.0)
+  - Kurz: はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **VMware stopft attackierte Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-20T08:06:00.000+00:00`, fetched `2026-11-20T08:21:08+00:00`
@@ -282,15 +291,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年11月20日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type** — Score 5, observation — [Quelle](https://type.jp/et/feature/32219/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-20T04:31:59+00:00`, fetched `2026-11-20T06:48:12+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **firecrawl/firecrawl** — Score 5, observation — [Quelle](https://github.com/firecrawl/firecrawl)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

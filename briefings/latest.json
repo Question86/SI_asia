@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T09:46:14+00:00",
-  "run_id": "2026-11-20T09:46:14+00:00",
+  "generated_at": "2026-11-20T09:54:25+00:00",
+  "run_id": "2026-11-20T09:54:25+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 39
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
     "medium": 11,
-    "observe": 28,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T09:42:21+00:00",
-        "fetched_at": "2026-11-20T09:45:44+00:00",
+        "published_at": "2026-11-20T09:46:41+00:00",
+        "fetched_at": "2026-11-20T09:53:50+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e7d3a556f861e61aea2c"
+        "id": "513e5175327b5cbb3bb2"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -854,6 +854,28 @@
         "id": "d2fa89e771aad065bfe5"
       },
       {
+        "title": "はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog",
+        "url": "https://developer.hatenastaff.com/entry/2026/11/20/162322",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-20T08:33:42+00:00",
+        "fetched_at": "2026-11-20T09:53:50+00:00",
+        "summary": "はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹...",
+        "matched_keywords": [
+          "developer",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Hatena (+2.5); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c5d79df7b9d5069231eb"
+      },
+      {
         "title": "VMware stopft attackierte Sicherheitslücken",
         "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
         "source": "heise Security Alerts",
@@ -1107,8 +1129,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T09:42:21+00:00",
-      "fetched_at": "2026-11-20T09:45:44+00:00",
+      "published_at": "2026-11-20T09:46:41+00:00",
+      "fetched_at": "2026-11-20T09:53:50+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1142,7 +1164,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e7d3a556f861e61aea2c"
+      "id": "513e5175327b5cbb3bb2"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1925,6 +1947,28 @@
       "id": "d2fa89e771aad065bfe5"
     },
     {
+      "title": "はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog",
+      "url": "https://developer.hatenastaff.com/entry/2026/11/20/162322",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-20T08:33:42+00:00",
+      "fetched_at": "2026-11-20T09:53:50+00:00",
+      "summary": "はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.5); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c5d79df7b9d5069231eb"
+    },
+    {
       "title": "VMware stopft attackierte Sicherheitslücken",
       "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
       "source": "heise Security Alerts",
@@ -2177,8 +2221,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T09:42:21+00:00",
-      "fetched_at": "2026-11-20T09:45:44+00:00",
+      "published_at": "2026-11-20T09:46:41+00:00",
+      "fetched_at": "2026-11-20T09:53:50+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2212,28 +2256,29 @@
         "HD",
         "LOW"
       ],
-      "id": "e7d3a556f861e61aea2c"
+      "id": "513e5175327b5cbb3bb2"
     },
     {
-      "title": "先頭に貼るだけのキラープロンプト7選、コピペOK。→「所見を頼む前に「中学校の担任として、前向きな言葉で」と1行足すだけで、書き直しが半分に減りました。」",
-      "url": "https://posfie.com/@techjiho/p/3QDGKHH",
+      "title": "はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog",
+      "url": "https://developer.hatenastaff.com/entry/2026/11/20/162322",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-20T02:23:11+00:00",
-      "fetched_at": "2026-11-20T09:45:44+00:00",
-      "summary": "イカヤキ @ikayaki_aiafi ①専門家モード 「あなたはこの分野で20年以上の実務経験を持つ専門家として、一次情報に基づき回答してください」 汎用回答が、一気に専門家インタビュー級に変わる ②結論ファースト 「結論を1行で示し、その後に根拠を3つ箇条書きで。最後に例外があれば添えて」 長文でダラダラ返してくる問題...",
+      "published_at": "2026-11-20T08:33:42+00:00",
+      "fetched_at": "2026-11-20T09:53:50+00:00",
+      "summary": "はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹...",
       "matched_keywords": [
+        "developer",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.5); hotentry (+2.0); developer (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "58e9cee91980afb3de89"
+      "id": "c5d79df7b9d5069231eb"
     }
   ],
   "source_errors": [],
