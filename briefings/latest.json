@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T00:36:32+00:00",
-  "run_id": "2026-11-20T00:36:32+00:00",
+  "generated_at": "2026-11-20T00:54:07+00:00",
+  "run_id": "2026-11-20T00:54:07+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 3,
-    "observe": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T00:36:20+00:00",
-        "fetched_at": "2026-11-20T00:36:02+00:00",
+        "published_at": "2026-11-20T00:53:44+00:00",
+        "fetched_at": "2026-11-20T00:53:38+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "597438748921894d78b9"
+        "id": "5431695d11506afb160e"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -119,6 +119,28 @@
     ],
     "observe": [
       {
+        "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
+        "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-18T03:37:49+00:00",
+        "fetched_at": "2026-11-20T00:53:38+00:00",
+        "summary": "最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0004f7bbd780e6b030b6"
+      },
+      {
         "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
         "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -167,8 +189,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T00:36:20+00:00",
-      "fetched_at": "2026-11-20T00:36:02+00:00",
+      "published_at": "2026-11-20T00:53:44+00:00",
+      "fetched_at": "2026-11-20T00:53:38+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -202,7 +224,7 @@
         "HD",
         "LOW"
       ],
-      "id": "597438748921894d78b9"
+      "id": "5431695d11506afb160e"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -248,6 +270,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3ae477544977a74d0ad2"
+    },
+    {
+      "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
+      "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T03:37:49+00:00",
+      "fetched_at": "2026-11-20T00:53:38+00:00",
+      "summary": "最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0004f7bbd780e6b030b6"
     },
     {
       "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
@@ -297,8 +341,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T00:36:20+00:00",
-      "fetched_at": "2026-11-20T00:36:02+00:00",
+      "published_at": "2026-11-20T00:53:44+00:00",
+      "fetched_at": "2026-11-20T00:53:38+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -332,72 +376,29 @@
         "HD",
         "LOW"
       ],
-      "id": "597438748921894d78b9"
+      "id": "5431695d11506afb160e"
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
-      "url": "https://jvn.jp/vu/JVNVU92814490/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
+      "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-20T09:30:00+09:00",
-      "fetched_at": "2026-11-20T00:36:02+00:00",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "published_at": "2026-11-18T03:37:49+00:00",
+      "fetched_at": "2026-11-20T00:53:38+00:00",
+      "summary": "最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...",
       "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "AI Agents",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a12d7b1726e6824b6a36"
-    },
-    {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "fetched_at": "2026-11-20T00:36:02+00:00",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "matched_keywords": [
-        "OpenAI",
-        "safety",
-        "Security"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "OpenAI (+6.0); Security (+6.0); safety (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3ae477544977a74d0ad2"
-    },
-    {
-      "title": "Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-20T00:02:21+00:00",
-      "fetched_at": "2026-11-20T00:36:02+00:00",
-      "summary": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here’s what’s new! Clearer merge status and next steps Failed optional checks… The post Improvements on the pull request overview in public preview appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d5877fb4076f945aef30"
+      "id": "0004f7bbd780e6b030b6"
     }
   ],
   "source_errors": [],
