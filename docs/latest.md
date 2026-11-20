@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T18:04:07+00:00_
+_Generiert: 2026-11-20T18:20:19+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -268,3 +268,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `reliefweb_mindanao_recovery_watch` (webpage_check): HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=8)
