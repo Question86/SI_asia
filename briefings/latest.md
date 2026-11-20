@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T14:04:38+00:00_
+_Generiert: 2026-11-20T14:19:41+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+55 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -79,7 +79,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T13:52:59+00:00`, fetched `2026-11-20T14:04:09+00:00`
+  - Zeit: published `2026-11-20T14:19:30+00:00`, fetched `2026-11-20T14:19:12+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -287,32 +287,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.5); hotentry (+2.0); developer (+2.5); recent (+1.0)
   - Kurz: はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **VMware stopft attackierte Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-11-20T08:06:00.000+00:00`, fetched `2026-11-20T08:21:08+00:00`
-  - Treffer: Security
+- **Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)** — Score 8, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-18T00:00:00+00:00`, fetched `2026-11-20T14:19:12+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Broadcom schließt teils kritische Lücken in VMware-Produkten. Eine in vCenter wird laut Mandiant bereits angegriffen.
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-20T07:59:49+00:00`, fetched `2026-11-20T08:06:53+00:00`
-  - Treffer: APAC Trend Radar
+- **Multiples vulnérabilités dans Oracle MySQL (18 novembre 2026)** — Score 8, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1563/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-18T00:00:00+00:00`, fetched `2026-11-20T14:19:12+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **古川大臣記者会見（令和8年11月20日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261120-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-11-20T01:47:54+00:00`, fetched `2026-11-20T01:53:34+00:00`
-  - Treffer: APAC Trend Radar
+- **Multiples vulnérabilités dans Oracle Java SE (18 novembre 2026)** — Score 8, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1562/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-11-18T00:00:00+00:00`, fetched `2026-11-20T14:19:12+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 古川大臣記者会見（令和8年11月20日）動画を掲載しました
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
