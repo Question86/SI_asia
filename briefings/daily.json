@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T07:42:06+00:00",
-  "today_file_total": 27,
+  "generated_at": "2026-11-20T07:50:42+00:00",
+  "today_file_total": 28,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -70,6 +70,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4145"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 19.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -460,29 +483,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:indonesia-exports-its-talent-korea-captures-value-pop",
-      "title": "Indonesia exports its talent, Korea captures the value: The K-pop lesson Jakarta can’t ignore",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/indonesia-exports-its-talent-korea-captures-the-value-the-k-pop-lesson-jakarta-cant-ignore-20261120/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }
