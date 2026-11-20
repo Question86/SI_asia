@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T07:50:38+00:00",
-  "run_id": "2026-11-20T07:50:38+00:00",
+  "generated_at": "2026-11-20T07:59:08+00:00",
+  "run_id": "2026-11-20T07:59:08+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 28,
     "displayed_findings": 28,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T07:50:26+00:00",
-        "fetched_at": "2026-11-20T07:50:07+00:00",
+        "published_at": "2026-11-20T07:57:39+00:00",
+        "fetched_at": "2026-11-20T07:58:40+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "457cddc2cd87afccb60f"
+        "id": "9fe0f5eae95b3310f850"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -840,8 +840,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T07:50:26+00:00",
-      "fetched_at": "2026-11-20T07:50:07+00:00",
+      "published_at": "2026-11-20T07:57:39+00:00",
+      "fetched_at": "2026-11-20T07:58:40+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -875,7 +875,7 @@
         "HD",
         "LOW"
       ],
-      "id": "457cddc2cd87afccb60f"
+      "id": "9fe0f5eae95b3310f850"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1643,8 +1643,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T07:50:26+00:00",
-      "fetched_at": "2026-11-20T07:50:07+00:00",
+      "published_at": "2026-11-20T07:57:39+00:00",
+      "fetched_at": "2026-11-20T07:58:40+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1678,30 +1678,7 @@
         "HD",
         "LOW"
       ],
-      "id": "457cddc2cd87afccb60f"
-    },
-    {
-      "title": "[UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4145",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-20T07:47:00+00:00",
-      "fetched_at": "2026-11-20T07:50:07+00:00",
-      "summary": "Ein Angreifer kann eine Schwachstelle in PHP ausnutzen, um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fa726157c15cd8303142"
+      "id": "9fe0f5eae95b3310f850"
     }
   ],
   "source_errors": [],
