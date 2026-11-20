@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T17:15:01+00:00_
+_Generiert: 2026-11-20T17:25:29+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+59 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T17:06:56+00:00`, fetched `2026-11-20T17:14:25+00:00`
+  - Zeit: published `2026-11-20T17:25:16+00:00`, fetched `2026-11-20T17:24:50+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Security (+6.0); safety (+2.0); recent (+1.0)
   - Kurz: Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Cook, The U.S. Economy in Global Context** — Score 14, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-11-20T17:15:00+00:00`, fetched `2026-11-20T17:24:50+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph region south_america: Chile (+2.0)
+  - Kurz: Speech At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **[NEU] [hoch] JetBrains IntelliJ IDEA: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4721)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-20T13:02:01+00:00`, fetched `2026-11-20T13:06:00+00:00`
@@ -254,11 +263,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)

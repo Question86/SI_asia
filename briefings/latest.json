@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-20T17:15:01+00:00",
-  "run_id": "2026-11-20T17:15:01+00:00",
+  "generated_at": "2026-11-20T17:25:29+00:00",
+  "run_id": "2026-11-20T17:25:29+00:00",
   "date": "2026-11-20",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 58
+      "configured_public_sources_only": 59
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 2,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
-    "medium": 15,
+    "medium": 16,
     "observe": 43,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T17:06:56+00:00",
-        "fetched_at": "2026-11-20T17:14:25+00:00",
+        "published_at": "2026-11-20T17:25:16+00:00",
+        "fetched_at": "2026-11-20T17:24:50+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "c23fb55b84a69cdab73d"
+        "id": "06136e904ba7bdf6d586"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -292,6 +292,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3ae477544977a74d0ad2"
+      },
+      {
+        "title": "Cook, The U.S. Economy in Global Context",
+        "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+        "source": "Federal Reserve Speeches and Testimony",
+        "source_type": "rss",
+        "published_at": "2026-11-20T17:15:00+00:00",
+        "fetched_at": "2026-11-20T17:24:50+00:00",
+        "summary": "Speech At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile",
+        "matched_keywords": [
+          "Macro/Policy",
+          "speech",
+          "testimony"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph region south_america: Chile (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5f33da760c73640e0dc2"
       },
       {
         "title": "[NEU] [hoch] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
@@ -1583,8 +1605,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T17:06:56+00:00",
-      "fetched_at": "2026-11-20T17:14:25+00:00",
+      "published_at": "2026-11-20T17:25:16+00:00",
+      "fetched_at": "2026-11-20T17:24:50+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1618,7 +1640,7 @@
         "HD",
         "LOW"
       ],
-      "id": "c23fb55b84a69cdab73d"
+      "id": "06136e904ba7bdf6d586"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1841,6 +1863,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3ae477544977a74d0ad2"
+    },
+    {
+      "title": "Cook, The U.S. Economy in Global Context",
+      "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-11-20T17:15:00+00:00",
+      "fetched_at": "2026-11-20T17:24:50+00:00",
+      "summary": "Speech At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile",
+      "matched_keywords": [
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph region south_america: Chile (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5f33da760c73640e0dc2"
     },
     {
       "title": "[NEU] [hoch] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
@@ -3129,8 +3173,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T17:06:56+00:00",
-      "fetched_at": "2026-11-20T17:14:25+00:00",
+      "published_at": "2026-11-20T17:25:16+00:00",
+      "fetched_at": "2026-11-20T17:24:50+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3164,17 +3208,32 @@
         "HD",
         "LOW"
       ],
-      "id": "c23fb55b84a69cdab73d"
-    }
-  ],
-  "source_errors": [
+      "id": "06136e904ba7bdf6d586"
+    },
     {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "title": "Cook, The U.S. Economy in Global Context",
+      "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-11-20T17:15:00+00:00",
+      "fetched_at": "2026-11-20T17:24:50+00:00",
+      "summary": "Speech At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile",
+      "matched_keywords": [
+        "Macro/Policy",
+        "speech",
+        "testimony"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph region south_america: Chile (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5f33da760c73640e0dc2"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
