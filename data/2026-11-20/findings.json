@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-20T09:24:15+00:00",
-    "fetched_at": "2026-11-20T09:27:47+00:00",
+    "published_at": "2026-11-20T09:28:41+00:00",
+    "fetched_at": "2026-11-20T09:36:10+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "f7ef99234e1b0bcd7d96"
+    "id": "e9196cfbc8b2b1032408"
   },
   {
     "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -90,6 +90,30 @@
     "id": "96d871722bccfbab523e"
   },
   {
+    "title": "[UPDATE] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4634",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-20T09:28:17+00:00",
+    "fetched_at": "2026-11-20T09:36:10+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Atlassian Bitbucket, Atlassian Confluence, Atlassian Crucible, Atlassian Fisheye und Atlassian Jira ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um Sich…",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security",
+      "Webentwicklung"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f50a44dbc23cf630c56e"
+  },
+  {
     "title": "After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore",
     "url": "https://e27.co/after-openai-and-anthropic-mistral-goes-further-with-a-full-apac-hq-in-singapore-20261120/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -110,6 +134,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c41585937322a78506aa"
+  },
+  {
+    "title": "Ecosystem Roundup: Singapore fintechs pour money into AI, but just 11 per cent run agents live",
+    "url": "https://e27.co/ecosystem-roundup-singapore-fintechs-pour-money-into-ai-but-just-11-per-cent-run-agents-live-20261120/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-20T09:33:38+00:00",
+    "fetched_at": "2026-11-20T09:36:10+00:00",
+    "summary": "Singapore’s fintechs have embraced AI faster than almost anyone, but they have not handed it the keys. A new Kapronasia brief, co-published with Airwallex and the Singapore FinTech Association, finds 86% of Singapore fintechs already deploy AI, against 65% of the city-state’s traditional financial institutions. Yet only 11% run agentic AI in live environments, although […] The post Ecosystem Roundup: Singapore finte…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "35bca6ce3d9bf0a3cd70"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",

@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T09:28:17+00:00_
+_Generated: 2026-11-20T09:36:40+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `38`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-20T09:24:15+00:00`
+- published: `2026-11-20T09:28:41+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-20T09:28:17+00:00_
 - url: https://zenn.dev/nttdata_tech/articles/9562962cc181a1
 - summary: 自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろな...
 
-### 3. After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore
+### 3. [UPDATE] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-11-20T09:28:17+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4634
+- summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Atlassian Bitbucket, Atlassian Confluence, Atlassian Crucible, Atlassian Fisheye und Atlassian Jira ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Den…
+
+### 4. After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-11-20T04:47:38+00:00`
 - url: https://e27.co/after-openai-and-anthropic-mistral-goes-further-with-a-full-apac-hq-in-singapore-20261120/
 - summary: Every big AI lab now has a Singapore story. OpenAI chose the city-state for its first Applied AI Lab outside the US. Last month, Anthropic opened an office here and signed an AI safety testing pact with the government. Now Mistral AI, Europe’s best-known mode…
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-11-20T09:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU92814490/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. M 5.4 - Carlsberg Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
