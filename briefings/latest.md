@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T03:38:16+00:00_
+_Generiert: 2026-11-20T03:45:59+00:00_
 
 ## Kurzlage
 
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T03:31:40+00:00`, fetched `2026-11-20T03:37:52+00:00`
+  - Zeit: published `2026-11-20T03:45:48+00:00`, fetched `2026-11-20T03:45:31+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
