@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T08:07:25+00:00_
+_Generiert: 2026-11-20T08:21:44+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+32 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T08:07:11+00:00`, fetched `2026-11-20T08:06:53+00:00`
+  - Zeit: published `2026-11-20T08:21:26+00:00`, fetched `2026-11-20T08:21:08+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -229,6 +229,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-20 06:49:16 UTC 2026-11-20 06:49:16 UTC at epicenter Location 36.593°N 121.221°W Depth 6.70 km (4.16 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **VMware stopft attackierte Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-20T08:06:00.000+00:00`, fetched `2026-11-20T08:21:08+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Broadcom schließt teils kritische Lücken in VMware-Produkten. Eine in vCenter wird laut Mandiant bereits angegriffen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-20T07:59:49+00:00`, fetched `2026-11-20T08:06:53+00:00`
@@ -265,6 +274,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **firecrawl/firecrawl** — Score 5, observation — [Quelle](https://github.com/firecrawl/firecrawl)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-20T08:21:08+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. https://firecrawl.dev 🔥 Firecrawl Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three. Firecrawl Local . Run Firecrawl on your own machine as one binary that…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Improvements on the pull request overview in public preview** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-20T00:02:21+00:00`, fetched `2026-11-20T00:36:02+00:00`
@@ -283,3 +301,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x73c0b2bd8350>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
