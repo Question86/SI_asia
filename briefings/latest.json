@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T19:32:42+00:00",
-  "run_id": "2026-11-20T19:32:42+00:00",
+  "generated_at": "2026-11-20T19:40:17+00:00",
+  "run_id": "2026-11-20T19:40:17+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 63
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 2,
+    "today_file_total": 63,
+    "displayed_findings": 63,
     "high": 0,
     "medium": 16,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T19:31:11+00:00",
-        "fetched_at": "2026-11-20T19:32:10+00:00",
+        "published_at": "2026-11-20T19:37:19+00:00",
+        "fetched_at": "2026-11-20T19:39:45+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "10d0d7bc2dfe6ba6403d"
+        "id": "fddbe6b61db43ce22d96"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1284,6 +1284,26 @@
         "id": "c4d0668c3c3bb7709bbc"
       },
       {
+        "title": "Combatting adversarial distillation",
+        "url": "https://openai.com/index/combatting-adversarial-distillation",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-20T10:00:00+00:00",
+        "fetched_at": "2026-11-20T19:39:45+00:00",
+        "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "321d1b7ce95cdfa21361"
+      },
+      {
         "title": "VMware stopft attackierte Sicherheitslücken",
         "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
         "source": "heise Security Alerts",
@@ -1682,8 +1702,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T19:31:11+00:00",
-      "fetched_at": "2026-11-20T19:32:10+00:00",
+      "published_at": "2026-11-20T19:37:19+00:00",
+      "fetched_at": "2026-11-20T19:39:45+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1717,7 +1737,7 @@
         "HD",
         "LOW"
       ],
-      "id": "10d0d7bc2dfe6ba6403d"
+      "id": "fddbe6b61db43ce22d96"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -2930,6 +2950,26 @@
       "id": "c4d0668c3c3bb7709bbc"
     },
     {
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-20T10:00:00+00:00",
+      "fetched_at": "2026-11-20T19:39:45+00:00",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "321d1b7ce95cdfa21361"
+    },
+    {
       "title": "VMware stopft attackierte Sicherheitslücken",
       "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
       "source": "heise Security Alerts",
@@ -3327,8 +3367,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T19:31:11+00:00",
-      "fetched_at": "2026-11-20T19:32:10+00:00",
+      "published_at": "2026-11-20T19:37:19+00:00",
+      "fetched_at": "2026-11-20T19:39:45+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3362,7 +3402,27 @@
         "HD",
         "LOW"
       ],
-      "id": "10d0d7bc2dfe6ba6403d"
+      "id": "fddbe6b61db43ce22d96"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-20T10:00:00+00:00",
+      "fetched_at": "2026-11-20T19:39:45+00:00",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "321d1b7ce95cdfa21361"
     }
   ],
   "source_errors": [],
