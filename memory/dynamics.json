@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-20T08:27:32Z",
+  "generated_at": "2026-11-20T11:51:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 4,
       "extreme": 1,
-      "strong": 13,
-      "watch": 22
+      "strong": 16,
+      "watch": 19
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 17,
-      "watch": 22
+      "strong": 20,
+      "watch": 19
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4145",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T07:47:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4672",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T08:02:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 1.35,
+      "age_days": 1.49,
       "topics": [
         "ai",
         "security"
@@ -123,7 +123,7 @@
       "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:08:16+00:00",
-      "age_days": 0.14,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -152,7 +152,7 @@
       "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:00:41+00:00",
-      "age_days": 0.14,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -181,7 +181,7 @@
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T05:44:23+00:00",
-      "age_days": 0.11,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -208,7 +208,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 153.87,
+      "age_days": 154.02,
       "topics": [
         "general"
       ],
@@ -226,7 +226,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 153.9d old signal",
+        "aging penalty -8.0 for 154.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -235,7 +235,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-20T08:21:26+00:00",
+      "published_at": "2026-11-20T11:44:42+00:00",
       "age_days": 0.0,
       "topics": [
         "ai",
@@ -265,7 +265,7 @@
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T23:35:14+00:00",
-      "age_days": 0.37,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "macro"
@@ -288,11 +288,37 @@
       "summary": "自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろな..."
     },
     {
+      "title": "[UPDATE] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4634",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-20T09:28:17+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Atlassian Bitbucket, Atlassian Confluence, Atlassian Crucible, Atlassian Fisheye und Atlassian Jira ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offen…"
+    },
+    {
       "title": "VMware stopft attackierte Sicherheitslücken",
       "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-20T08:06:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -318,7 +344,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-20T02:36:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -342,7 +368,7 @@
       "url": "https://e27.co/we-took-founder-bias-out-of-the-roadmap-then-our-customers-fired-us-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T04:50:39+00:00",
-      "age_days": 0.15,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -366,7 +392,7 @@
       "url": "https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T04:02:32+00:00",
-      "age_days": 0.18,
+      "age_days": 0.33,
       "topics": [
         "macro"
       ],
@@ -390,7 +416,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T06:56:08+00:00",
-      "age_days": 0.06,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -415,7 +441,7 @@
       "url": "https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:38:53+00:00",
-      "age_days": 0.12,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -435,11 +461,36 @@
       "summary": ""
     },
     {
+      "title": "M 5.4 - Carlsberg Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc82",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-20T09:10:59.410+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-11-20 08:44:11 UTC 2026-11-20 08:44:11 UTC at epicenter Location 9.795°N 57.749°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.6 - southeast of the Loyalty Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:12:47.975+00:00",
-      "age_days": 0.3,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -460,11 +511,35 @@
       "summary": "PAGER - GREEN ShakeMap - I Time 2026-11-20 00:49:13 UTC 2026-11-20 00:49:13 UTC at epicenter Location 24.702°S 171.160°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.4 - Carlsberg Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc82",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-20T09:18:36+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.6 - southeast of the Loyalty Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:13:41+00:00",
-      "age_days": 0.3,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -488,7 +563,7 @@
       "url": "https://type.jp/et/feature/32219/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T06:48:43+00:00",
-      "age_days": 0.07,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -513,7 +588,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T03:31:16+00:00",
-      "age_days": 0.21,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -533,11 +608,36 @@
       "summary": ""
     },
     {
+      "title": "[UPDATE] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4634",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 83.9,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 83.9d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore",
       "url": "https://e27.co/after-openai-and-anthropic-mistral-goes-further-with-a-full-apac-hq-in-singapore-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T04:50:39+00:00",
-      "age_days": 0.15,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -559,26 +659,28 @@
       "summary": ""
     },
     {
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-20T08:21:47+00:00",
-      "age_days": 0.0,
+      "title": "Ecosystem Roundup: Singapore fintechs pour money into AI, but just 11 per cent run agents live",
+      "url": "https://e27.co/ecosystem-roundup-singapore-fintechs-pour-money-into-ai-but-just-11-per-cent-run-agents-live-20261120/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-20T09:36:43+00:00",
+      "age_days": 0.09,
       "topics": [
-        "general"
+        "ai"
       ],
-      "dynamics_score": 17.5,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -587,7 +689,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 154.27,
+      "age_days": 154.41,
       "topics": [
         "general"
       ],
@@ -603,16 +705,115 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 154.3d old signal"
+        "aging penalty -8.0 for 154.4d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog",
+      "url": "https://developer.hatenastaff.com/entry/2026/11/20/162322",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-20T09:54:28+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.7 - southeast of the Loyalty Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc8k",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-20T11:16:24.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-20 10:48:44 UTC 2026-11-20 10:48:44 UTC at epicenter Location 24.661°S 171.191°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.0 - southeast of the Loyalty Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc8g",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-20T10:47:31.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-20 10:30:01 UTC 2026-11-20 10:30:01 UTC at epicenter Location 24.746°S 171.433°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.7 - Carlsberg Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc81",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-20T09:11:03.040+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-20 08:42:54 UTC 2026-11-20 08:42:54 UTC at epicenter Location 9.753°N 57.841°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 5.1 - 10 km NW of Pinnacles, CA",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T06:54:11.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -633,11 +834,35 @@
       "summary": "Time 2026-11-20 06:49:16 UTC 2026-11-20 06:49:16 UTC at epicenter Location 36.593°N 121.221°W Depth 6.70 km (4.16 mi)"
     },
     {
+      "title": "M 4.7 - Carlsberg Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc81",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-20T09:18:36+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.9 - 54 km W of Madang, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T05:38:53+00:00",
-      "age_days": 0.12,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -661,7 +886,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 155.49,
+      "age_days": 155.63,
       "topics": [
         "general"
       ],
@@ -677,7 +902,7 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 155.5d old signal",
+        "aging penalty -8.0 for 155.6d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -687,7 +912,7 @@
       "url": "https://e27.co/ai-should-change-wealth-managements-economics-not-just-its-margins-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T04:36:40+00:00",
-      "age_days": 0.16,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -713,7 +938,7 @@
       "url": "https://e27.co/indonesia-exports-its-talent-korea-captures-the-value-the-k-pop-lesson-jakarta-cant-ignore-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:38:53+00:00",
-      "age_days": 0.12,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -733,36 +958,11 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [hoch] Wireshark: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4672",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 83.76,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 83.8d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Everful raises US$48.5M Series A to turn the overseas sourcing office into software",
       "url": "https://e27.co/everful-raises-us48-5m-series-a-to-turn-the-overseas-sourcing-office-into-software-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T03:55:14+00:00",
-      "age_days": 0.19,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -780,6 +980,30 @@
         "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について",
+      "url": "https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-20T08:07:27+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -788,230 +1012,11 @@
       "url": "https://www.digital.go.jp/speech/minister-261120-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-20T01:54:07+00:00",
-      "age_days": 0.27,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
       "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-20T01:47:34+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-20T00:03:25+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "We took founder bias out of the roadmap: Then our customers fired us",
-      "url": "https://e27.co/we-took-founder-bias-out-of-the-roadmap-then-our-customers-fired-us-20261120/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-20T04:45:34+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "The pristine whiteboard mounted on the corner wall of the fifth-floor incubator suite at one-north was completely bare, save for the ghost of an erased product flow from three months back. In the late nineties, covering the early wreckage of the dot-com boom out of San Francisco, you could smell a founder’s panic fift…"
-    },
-    {
-      "title": "M 4.8 - 24 km ESE of Calingasta, Argentina",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-20T03:25:37.760+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "DYFI? - II Time 2026-11-20 02:57:18 UTC 2026-11-20 02:57:18 UTC at epicenter Location 31.430°S 69.188°W Depth 113.86 km (70.75 mi)"
-    },
-    {
-      "title": "Dubai is selling trust, not just capital: What it means for Southeast Asian founders",
-      "url": "https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-20T03:01:35+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Can Bitcoin hold US$61,256, or is US$60,000 the next stop?",
-      "url": "https://e27.co/can-bitcoin-hold-us61256-or-is-us60000-the-next-stop-20261120/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-20T02:55:33+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "America’s affordability election is becoming corporate America’s accountability test",
-      "url": "https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-20T04:00:39+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "When Americans go to the polls on November 3, much of the attention will be on which party controls Congress, but for corporate America, the more consequential question may be what happens after the votes are counted. Affordability has become a defining issue in the 2026 midterm elections; from groceries and housing t…"
-    },
-    {
-      "title": "耀威光電｜智能路燈管理系統 - SQL Injection",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 153.87,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 153.9d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-11-20T00:36:35+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",

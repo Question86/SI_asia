@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-20T08:27:32Z",
+  "generated_at": "2026-11-20T11:51:43Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4145",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T07:47:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4672",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T08:02:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -89,7 +89,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 1.35,
+      "age_days": 1.49,
       "topics": [
         "ai",
         "security"
@@ -115,7 +115,7 @@
       "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:08:16+00:00",
-      "age_days": 0.14,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -144,7 +144,7 @@
       "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:00:41+00:00",
-      "age_days": 0.14,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -173,7 +173,7 @@
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T05:44:23+00:00",
-      "age_days": 0.11,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -200,7 +200,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 153.87,
+      "age_days": 154.02,
       "topics": [
         "general"
       ],
@@ -218,7 +218,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 153.9d old signal",
+        "aging penalty -8.0 for 154.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -227,7 +227,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-20T08:21:26+00:00",
+      "published_at": "2026-11-20T11:44:42+00:00",
       "age_days": 0.0,
       "topics": [
         "ai",
@@ -257,7 +257,7 @@
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T23:35:14+00:00",
-      "age_days": 0.37,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "macro"
@@ -280,11 +280,37 @@
       "summary": "自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろな..."
     },
     {
+      "title": "[UPDATE] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4634",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-20T09:28:17+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Atlassian Bitbucket, Atlassian Confluence, Atlassian Crucible, Atlassian Fisheye und Atlassian Jira ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offen…"
+    },
+    {
       "title": "VMware stopft attackierte Sicherheitslücken",
       "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-20T08:06:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -304,30 +330,6 @@
         "security high-signal: kritisch"
       ],
       "summary": "Broadcom schließt teils kritische Lücken in VMware-Produkten. Eine in vCenter wird laut Mandiant bereits angegriffen."
-    },
-    {
-      "title": "耀威光電｜智能路燈管理系統 - SQL Injection",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "published_at": "2026-11-20T02:36:00+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "耀威光電｜智能路燈管理系統 - SQL Injection"
     }
   ],
   "read_order": [
