@@ -1,131 +1,131 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-19T23:52:29Z_
+_Generated: 2026-11-20T01:41:21Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Drupal Core: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
+Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
 
-### [NEU] [mittel] Drupal Core: Mehrere Schwachstellen ermöglichen Codeausführung
+### CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）
 
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-11-19T12:42:02+00:00` / age_days `0.47`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-11-20T09:30:00+09:00` / age_days `0.05`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4686
+- Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://jvn.jp/vu/JVNVU92814490/
 
-### The best things in open source are built together
+### Deploying Daybreak Red
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-11-19T00:00:00+00:00` / age_days `1.07`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://openai.com/business/learn/deploying-daybreak-red
+
+### Updates | ReliefWeb
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-19T16:02:16+00:00` / age_days `0.33`
+- Published: `2026-06-19T11:28:55+00:00` / age_days `153.59`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
-- Quelle: https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 153.6d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 
-### Genie 4 is now available
+### Updates | ReliefWeb
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-19T08:23:07+00:00` / age_days `0.65`
+- Published: `2026-11-20T01:34:41+00:00` / age_days `0.0`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: security, google, cloud, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
-- Quelle: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+- Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 
-### NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構
+### M 5.6 - southeast of the Loyalty Islands
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-19T06:49:06+00:00` / age_days `0.71`
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-11-20T01:12:47.975+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v
 
-### The best things in open source are built together
+### M 5.6 - southeast of the Loyalty Islands
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-19T16:00:00+00:00` / age_days `0.33`
+- Band: `strong` (raw `strong`)
+- Dynamics score: `20.5`
+- Published: `2026-11-20T01:13:41+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v
 
-### [UPDATE] [hoch] strongSwan: Mehrere Schwachstellen
+### CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-19T12:42:01+00:00` / age_days `0.47`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, auth, security high-signal: code, auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3230
-
-### [NEU] [hoch] Ruby: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-19T12:27:01+00:00` / age_days `0.48`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4668
-
-### [NEU] [mittel] systemd: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-19T12:12:01+00:00` / age_days `0.49`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4679
-
-### [NEU] [hoch] DrayTek Vigor2960: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-19T12:12:01+00:00` / age_days `0.49`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, code, auth, security high-signal: angriffe, code, auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4681
-
-### [NEU] [niedrig] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-19T12:02:01+00:00` / age_days `0.49`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4677
-
-### [NEU] [hoch] WebKitGTK: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-19T12:02:01+00:00` / age_days `0.49`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4675
-
-### Economic activity, prices, and monetary policy in Japan - Japan's money and capital market transformation - will a paradigm shift occur?
-
-- Band: `watch` (raw `krass`)
-- Dynamics score: `19.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `154.39`
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `153.99`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 154.4d old signal, stale single-source cap after 30d: no current exploitation phrase
-- Quelle: https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan-japans-money-and-capital-market-transformation-will-paradigm-shift
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, aging penalty -8.0 for 154.0d old signal
+- Quelle: https://jvn.jp/vu/JVNVU92814490/
+
+### Deploying Daybreak Red
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.0`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `155.21`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +3, aging penalty -8.0 for 155.2d old signal, single-source AI cap enforced after phrase recheck
+- Quelle: https://openai.com/business/learn/deploying-daybreak-red
+
+### マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-11-20T00:03:25+00:00` / age_days `0.07`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://pc.watch.impress.co.jp/docs/news/2158043.html
+
+### Improvements on the pull request overview in public preview
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `12.0`
+- Published: `2026-11-20T00:36:35+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview
+
+### AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `7.29`
+- Published: `2026-08-30T02:26:46+00:00` / age_days `81.97`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +3, baseline z_hint 3.90, single-source AI hype brake -8.0, aging penalty -8.0 for 82.0d old signal, single-source AI cap enforced after phrase recheck
+- Quelle: https://blog.shibayu36.org/entry/2026/11/17/120000
+
+### AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `7.0`
+- Published: `2026-11-18T03:37:49+00:00` / age_days `1.92`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://blog.shibayu36.org/entry/2026/11/17/120000
 
 END OF DOCUMENT
