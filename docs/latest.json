@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-20T02:02:33+00:00",
-  "run_id": "2026-11-20T02:02:33+00:00",
+  "generated_at": "2026-11-20T02:30:44+00:00",
+  "run_id": "2026-11-20T02:30:44+00:00",
   "date": "2026-11-20",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 10
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 3,
     "observe": 7,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T02:02:13+00:00",
-        "fetched_at": "2026-11-20T02:01:56+00:00",
+        "published_at": "2026-11-20T02:28:00+00:00",
+        "fetched_at": "2026-11-20T02:30:12+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "2d87e48f9a90d743f5f1"
+        "id": "e0ea0830d54a35be58a8"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -289,8 +289,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T02:02:13+00:00",
-      "fetched_at": "2026-11-20T02:01:56+00:00",
+      "published_at": "2026-11-20T02:28:00+00:00",
+      "fetched_at": "2026-11-20T02:30:12+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -324,7 +324,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2d87e48f9a90d743f5f1"
+      "id": "e0ea0830d54a35be58a8"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -541,8 +541,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T02:02:13+00:00",
-      "fetched_at": "2026-11-20T02:01:56+00:00",
+      "published_at": "2026-11-20T02:28:00+00:00",
+      "fetched_at": "2026-11-20T02:30:12+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -576,17 +576,10 @@
         "HD",
         "LOW"
       ],
-      "id": "2d87e48f9a90d743f5f1"
+      "id": "e0ea0830d54a35be58a8"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "hn_release_security_burst",
-      "source_name": "Hacker News Release/Security Burst",
-      "source_type": "hackernews",
-      "error": "HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
