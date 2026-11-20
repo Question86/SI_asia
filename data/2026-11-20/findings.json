@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-20T03:18:25+00:00",
-    "fetched_at": "2026-11-20T03:18:20+00:00",
+    "published_at": "2026-11-20T03:30:58+00:00",
+    "fetched_at": "2026-11-20T03:30:41+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "f99b5f238923e0a6c67d"
+    "id": "1733a2714c02506271b9"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -167,6 +167,42 @@
       "EWZ"
     ],
     "id": "2699ec097c1e7099ee82"
+  },
+  {
+    "title": "M 4.8 - 24 km ESE of Calingasta, Argentina",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-20T03:25:37.760+00:00",
+    "fetched_at": "2026-11-20T03:30:41+00:00",
+    "summary": "DYFI? - II Time 2026-11-20 02:57:18 UTC 2026-11-20 02:57:18 UTC at epicenter Location 31.430°S 69.188°W Depth 113.86 km (70.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "9db5c831796c5c5731b8"
   },
   {
     "title": "耀威光電｜智能路燈管理系統 - SQL Injection",
