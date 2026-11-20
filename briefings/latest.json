@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T09:18:34+00:00",
-  "run_id": "2026-11-20T09:18:34+00:00",
+  "generated_at": "2026-11-20T09:28:17+00:00",
+  "run_id": "2026-11-20T09:28:17+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T09:18:23+00:00",
-        "fetched_at": "2026-11-20T09:18:04+00:00",
+        "published_at": "2026-11-20T09:24:15+00:00",
+        "fetched_at": "2026-11-20T09:27:47+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "d445dd665abfcf037c4f"
+        "id": "f7ef99234e1b0bcd7d96"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1040,8 +1040,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T09:18:23+00:00",
-      "fetched_at": "2026-11-20T09:18:04+00:00",
+      "published_at": "2026-11-20T09:24:15+00:00",
+      "fetched_at": "2026-11-20T09:27:47+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1075,7 +1075,7 @@
         "HD",
         "LOW"
       ],
-      "id": "d445dd665abfcf037c4f"
+      "id": "f7ef99234e1b0bcd7d96"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -2043,8 +2043,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T09:18:23+00:00",
-      "fetched_at": "2026-11-20T09:18:04+00:00",
+      "published_at": "2026-11-20T09:24:15+00:00",
+      "fetched_at": "2026-11-20T09:27:47+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2078,81 +2078,7 @@
         "HD",
         "LOW"
       ],
-      "id": "d445dd665abfcf037c4f"
-    },
-    {
-      "title": "M 5.4 - Carlsberg Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc82",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-20T09:10:59.410+00:00",
-      "fetched_at": "2026-11-20T09:18:04+00:00",
-      "summary": "PAGER - GREEN ShakeMap - I Time 2026-11-20 08:44:11 UTC 2026-11-20 08:44:11 UTC at epicenter Location 9.795°N 57.749°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "f767d9de5b574c6b98c9"
-    },
-    {
-      "title": "M 4.7 - Carlsberg Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc81",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-20T09:11:03.040+00:00",
-      "fetched_at": "2026-11-20T09:18:04+00:00",
-      "summary": "Time 2026-11-20 08:42:54 UTC 2026-11-20 08:42:54 UTC at epicenter Location 9.753°N 57.841°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "58f56fe1787682f82dc9"
+      "id": "f7ef99234e1b0bcd7d96"
     }
   ],
   "source_errors": [],
