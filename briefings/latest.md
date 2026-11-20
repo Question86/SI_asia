@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T04:36:37+00:00_
+_Generiert: 2026-11-20T04:42:48+00:00_
 
 ## Kurzlage
 
@@ -29,30 +29,8 @@ _Generiert: 2026-11-20T04:36:37+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-17`
   - Kurz: Known exploited vulnerability. Added 2026-11-17. Due 2026-12-01. Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578280)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578046)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577946)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI&gt;=VII).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577920)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577911)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577901)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7bcbf4b66210>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -71,7 +49,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T04:29:11+00:00`, fetched `2026-11-20T04:36:09+00:00`
+  - Zeit: published `2026-11-20T04:36:27+00:00`, fetched `2026-11-20T04:42:22+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
