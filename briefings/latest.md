@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T01:29:19+00:00_
+_Generiert: 2026-11-20T01:36:01+00:00_
 
 ## Kurzlage
 
@@ -55,7 +55,7 @@ _Generiert: 2026-11-20T01:29:19+00:00_
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].
 - **USGS earthquake M5.6 - southeast of the Loyalty Islands** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v)
   - Quelle: USGS
-  - Zeit: `2026-11-20T00:49:13+00:00`
+  - Zeit: `2026-11-20T00:49:14+00:00`
   - Kurz: M5.6 - southeast of the Loyalty Islands. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T01:29:06+00:00`, fetched `2026-11-20T01:28:47+00:00`
+  - Zeit: published `2026-11-20T01:34:41+00:00`, fetched `2026-11-20T01:35:36+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW

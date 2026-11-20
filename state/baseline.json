@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T01:29:22+00:00",
+  "generated_at": "2026-11-20T01:36:03+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Deploying Daybreak Red",
-      "updated_at": "2026-11-20T01:29:22+00:00",
+      "updated_at": "2026-11-20T01:36:03+00:00",
       "network_scores": [
-        16.2,
         16.2,
         16.2,
         16.2,
@@ -130,12 +129,13 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.2,
+      "rolling_average": 17.23,
       "rolling_peak": 31.5,
       "last_score": 17.1,
-      "z_hint": -0.1
+      "z_hint": -0.13
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2955,7 +2955,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
-      "updated_at": "2026-11-20T01:29:22+00:00",
+      "updated_at": "2026-11-20T01:36:03+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2980,8 +2980,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -4799,7 +4799,7 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-20T01:29:22+00:00",
+      "updated_at": "2026-11-20T01:36:03+00:00",
       "network_scores": [
         25.7,
         25.7,
@@ -8044,9 +8044,8 @@
     },
     "domain:blog.shibayu36.org": {
       "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
-      "updated_at": "2026-11-20T01:29:22+00:00",
+      "updated_at": "2026-11-20T01:36:03+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -8075,12 +8074,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 8.03,
+      "rolling_average": 8.2,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": 4.07
+      "z_hint": 3.9
     },
     "title:spf-dkim-dmarc": {
       "title": "SPFとDKIMとDMARCの役割の違いを整理する",
@@ -126958,7 +126958,7 @@
     },
     "title:batteryhub": {
       "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
-      "updated_at": "2026-11-20T01:29:22+00:00",
+      "updated_at": "2026-11-20T01:36:03+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -126966,52 +126966,56 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.53,
+      "rolling_average": 7.48,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "title:improvements-pull-request-overview-public-preview": {
       "title": "Improvements on the pull request overview in public preview",
-      "updated_at": "2026-11-20T01:29:22+00:00",
+      "updated_at": "2026-11-20T01:36:03+00:00",
       "network_scores": [
         8.1,
         5.1,
         5.1,
         5.1,
         5.1,
+        5.1,
         5.1
       ],
-      "rolling_average": 5.6,
+      "rolling_average": 5.53,
       "rolling_peak": 8.1,
       "last_score": 5.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "earthquake:m 5.6 - southeast of the loyalty islands:5.6": {
       "title": "M 5.6 - southeast of the Loyalty Islands",
-      "updated_at": "2026-11-20T01:29:22+00:00",
+      "updated_at": "2026-11-20T01:36:03+00:00",
       "network_scores": [
         18.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 16.7,
+      "rolling_average": 16.45,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:palantir-databricks-snowflake-nvidia": {
       "title": "「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
-      "updated_at": "2026-11-20T01:29:22+00:00",
+      "updated_at": "2026-11-20T01:36:03+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }
