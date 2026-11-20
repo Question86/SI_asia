@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T01:47:31+00:00_
+_Generated: 2026-11-20T01:54:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `10`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-20T01:42:34+00:00`
+- published: `2026-11-20T01:53:52+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -43,18 +43,18 @@ _Generated: 2026-11-20T01:47:31+00:00_
 - url: https://blog.shibayu36.org/entry/2026/11/17/120000
 - summary: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
 
-### 6. 湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」
+### 6. 古川大臣記者会見（令和8年11月20日）動画を掲載しました
+- source: Japan Digital Agency News RSS
+- score: `6`
+- published: `2026-11-20T01:47:54+00:00`
+- url: https://www.digital.go.jp/speech/minister-261120-01
+- summary: 古川大臣記者会見（令和8年11月20日）動画を掲載しました
+
+### 7. 湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-11-19T23:45:17+00:00`
 - url: https://www.itmedia.co.jp/news/article/2611/20/2000003355/
 - summary: 湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の...
-
-### 7. マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-11-19T21:48:20+00:00`
-- url: https://pc.watch.impress.co.jp/docs/news/2158043.html
-- summary: マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」
 
 END OF DOCUMENT

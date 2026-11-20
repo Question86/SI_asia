@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-20T01:47:31+00:00",
+  "generated_at": "2026-11-20T01:54:03+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 3,
-    "observe": 6
+    "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T01:42:34+00:00",
+      "published_at": "2026-11-20T01:53:52+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-20T01:47:54+00:00",
+      "relevance_score": 6,
+      "url": "https://www.digital.go.jp/speech/minister-261120-01",
+      "summary": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
+      "section": "observe"
+    },
+    {
       "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -72,16 +82,6 @@
       "relevance_score": 5,
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
       "summary": "湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の...",
-      "section": "observe"
-    },
-    {
-      "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-19T21:48:20+00:00",
-      "relevance_score": 5,
-      "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
-      "summary": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
       "section": "observe"
     }
   ],
