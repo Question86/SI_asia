@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:13:41+00:00",
+  "generated_at": "2026-11-20T01:19:29+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578280",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, No people affected in 100km.",
         "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, No people affected in 100km.",
         "source": "GDACS",
@@ -116,13 +126,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.6 - southeast of the Loyalty Islands",
-        "summary": "M5.6 - southeast of the Loyalty Islands. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.6 - southeast of the Loyalty Islands. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
         "published_at": "2026-11-20T00:49:13+00:00",
         "metrics": {
           "mag": 5.6,
-          "alert": "",
+          "alert": "green",
           "sig": 482.0,
           "tsunami": 0
         }
