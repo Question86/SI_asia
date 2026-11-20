@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T14:58:38+00:00",
-  "run_id": "2026-11-20T14:58:38+00:00",
+  "generated_at": "2026-11-20T15:09:21+00:00",
+  "run_id": "2026-11-20T15:09:21+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T14:40:06+00:00",
-        "fetched_at": "2026-11-20T14:42:03+00:00",
+        "published_at": "2026-11-20T14:59:12+00:00",
+        "fetched_at": "2026-11-20T15:08:50+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "28660836732f64792e8f"
+        "id": "801b1f00a0ee62132750"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1583,8 +1583,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T14:40:06+00:00",
-      "fetched_at": "2026-11-20T14:42:03+00:00",
+      "published_at": "2026-11-20T14:59:12+00:00",
+      "fetched_at": "2026-11-20T15:08:50+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1618,7 +1618,7 @@
         "HD",
         "LOW"
       ],
-      "id": "28660836732f64792e8f"
+      "id": "801b1f00a0ee62132750"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -3125,19 +3125,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - 94 km W of Illapel, Chile",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc9c",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-20T14:54:07.040+00:00",
-      "fetched_at": "2026-11-20T14:58:09+00:00",
-      "summary": "Time 2026-11-20 14:16:15 UTC 2026-11-20 14:16:15 UTC at epicenter Location 31.784°S 72.149°W Depth 10.00 km (6.21 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-20T14:59:12+00:00",
+      "fetched_at": "2026-11-20T15:08:50+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -3158,7 +3164,7 @@
         "HD",
         "LOW"
       ],
-      "id": "219013547fa477b7e2b0"
+      "id": "801b1f00a0ee62132750"
     }
   ],
   "source_errors": [],
