@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T01:36:01+00:00_
+_Generiert: 2026-11-20T01:47:31+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+9 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T01:34:41+00:00`, fetched `2026-11-20T01:35:36+00:00`
+  - Zeit: published `2026-11-20T01:42:34+00:00`, fetched `2026-11-20T01:47:04+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2611/20/2000003355/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-19T23:45:17+00:00`, fetched `2026-11-20T01:47:04+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2158043.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-19T21:48:20+00:00`, fetched `2026-11-20T00:02:54+00:00`
@@ -68,15 +77,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由** — Score 5, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-19T09:36:30+00:00`, fetched `2026-11-20T01:28:47+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 連載目次 AIに「先月の売上を集計して」と頼み、返ってきたSQL文を実行したとする。エラーなく動いたが、集計結果には、社内ルールでは売上に含めないキャンセル済みの注文まで入っていた。このように、SQL文が正常に動いても、業務上正しい結果が得られるとは限らない。そのため、AIにはデータ構造に加え、業務用語の意...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Improvements on the pull request overview in public preview** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview)
   - Quelle: GitHub Changelog Atom / `rss`
