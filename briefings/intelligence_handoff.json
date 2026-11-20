@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-20T01:41:21Z",
+  "generated_at": "2026-11-20T02:15:51Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 1.07,
+      "age_days": 1.09,
       "topics": [
         "ai",
         "security"
@@ -66,7 +66,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 153.59,
+      "age_days": 153.62,
       "topics": [
         "general"
       ],
@@ -93,8 +93,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-20T01:34:41+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-11-20T02:02:13+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -123,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:12:47.975+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -148,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:13:41+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -172,7 +172,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 153.99,
+      "age_days": 154.01,
       "topics": [
         "general"
       ],
@@ -197,7 +197,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 155.21,
+      "age_days": 155.23,
       "topics": [
         "general"
       ],
@@ -223,7 +223,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T00:03:25+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -247,7 +247,7 @@
       "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-20T00:36:35+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -267,58 +267,52 @@
       "summary": ""
     },
     {
-      "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
-      "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
+      "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 81.97,
+      "published_at": "2026-11-20T01:47:34+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 7.29,
+      "dynamics_score": 11.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 3.9,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 3.90",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 82.0d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +2"
       ],
       "summary": ""
     },
     {
-      "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
-      "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-18T03:37:49+00:00",
-      "age_days": 1.92,
+      "title": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261120-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-20T01:54:07+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 7.0,
+      "dynamics_score": 10.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +1"
       ],
-      "summary": "最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「..."
+      "summary": ""
     }
   ],
   "read_order": [
