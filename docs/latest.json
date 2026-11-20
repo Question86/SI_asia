@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T19:23:34+00:00",
-  "run_id": "2026-11-20T19:23:34+00:00",
+  "generated_at": "2026-11-20T19:32:42+00:00",
+  "run_id": "2026-11-20T19:32:42+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T19:03:10+00:00",
-        "fetched_at": "2026-11-20T19:02:53+00:00",
+        "published_at": "2026-11-20T19:31:11+00:00",
+        "fetched_at": "2026-11-20T19:32:10+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "8e96c3fd85bad38b9028"
+        "id": "10d0d7bc2dfe6ba6403d"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1682,8 +1682,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T19:03:10+00:00",
-      "fetched_at": "2026-11-20T19:02:53+00:00",
+      "published_at": "2026-11-20T19:31:11+00:00",
+      "fetched_at": "2026-11-20T19:32:10+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1717,7 +1717,7 @@
         "HD",
         "LOW"
       ],
-      "id": "8e96c3fd85bad38b9028"
+      "id": "10d0d7bc2dfe6ba6403d"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -3323,25 +3323,46 @@
   ],
   "new_findings": [
     {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "fetched_at": "2026-11-20T19:23:06+00:00",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-20T19:31:11+00:00",
+      "fetched_at": "2026-11-20T19:32:10+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "31040d41c50b7e26b9f3"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "10d0d7bc2dfe6ba6403d"
     }
   ],
   "source_errors": [],
