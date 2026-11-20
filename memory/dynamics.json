@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-20T14:13:06Z",
+  "generated_at": "2026-11-20T15:37:57Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 7,
       "extreme": 1,
-      "strong": 17,
-      "watch": 15
+      "strong": 20,
+      "watch": 12
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 23,
-      "watch": 15
+      "strong": 26,
+      "watch": 12
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:48:39+00:00",
-      "age_days": 0.06,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4145",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T07:47:00+00:00",
-      "age_days": 0.27,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4672",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T08:02:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -93,11 +93,89 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen."
     },
     {
+      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "age_days": 2.65,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+    },
+    {
+      "title": "Multiples vulnérabilités dans Oracle Java SE (18 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1562/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "age_days": 2.65,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+    },
+    {
+      "title": "Multiples vulnérabilités dans Oracle Database Server (18 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1561/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "age_days": 2.65,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+    },
+    {
       "title": "[NEU] [hoch] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4721",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T13:02:01+00:00",
-      "age_days": 0.05,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -124,7 +202,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4720",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:52:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -151,7 +229,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.57,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -176,7 +254,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 1.59,
+      "age_days": 1.65,
       "topics": [
         "ai",
         "security"
@@ -202,7 +280,7 @@
       "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:08:16+00:00",
-      "age_days": 0.38,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -231,7 +309,7 @@
       "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:00:41+00:00",
-      "age_days": 0.38,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -260,7 +338,7 @@
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T05:44:23+00:00",
-      "age_days": 0.35,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -287,7 +365,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 154.11,
+      "age_days": 154.17,
       "topics": [
         "general"
       ],
@@ -305,7 +383,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 154.1d old signal",
+        "aging penalty -8.0 for 154.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -315,7 +393,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4634",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 84.0,
+      "age_days": 84.06,
       "topics": [
         "security"
       ],
@@ -326,15 +404,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.18,
+      "baseline_z_hint": 2.22,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.18",
+        "baseline z_hint 2.22",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 84.0d old signal",
+        "aging penalty -8.0 for 84.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -343,7 +421,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-20T13:52:59+00:00",
+      "published_at": "2026-11-20T15:29:13+00:00",
       "age_days": 0.01,
       "topics": [
         "ai",
@@ -373,7 +451,7 @@
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T23:35:14+00:00",
-      "age_days": 0.61,
+      "age_days": 0.67,
       "topics": [
         "ai",
         "macro"
@@ -400,7 +478,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4634",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T09:28:17+00:00",
-      "age_days": 0.2,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -426,7 +504,7 @@
       "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-20T08:06:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "security"
@@ -452,7 +530,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-20T02:36:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -476,7 +554,7 @@
       "url": "https://e27.co/we-took-founder-bias-out-of-the-roadmap-then-our-customers-fired-us-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T04:50:39+00:00",
-      "age_days": 0.39,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -500,7 +578,7 @@
       "url": "https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T04:02:32+00:00",
-      "age_days": 0.42,
+      "age_days": 0.48,
       "topics": [
         "macro"
       ],
@@ -524,7 +602,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T06:56:08+00:00",
-      "age_days": 0.3,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -549,7 +627,7 @@
       "url": "https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:38:53+00:00",
-      "age_days": 0.36,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -573,7 +651,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc82",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T09:10:59.410+00:00",
-      "age_days": 0.21,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -598,7 +676,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:12:47.975+00:00",
-      "age_days": 0.54,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -623,7 +701,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc82",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T09:18:36+00:00",
-      "age_days": 0.2,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -647,7 +725,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:13:41+00:00",
-      "age_days": 0.54,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -671,7 +749,7 @@
       "url": "https://type.jp/et/feature/32219/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T06:48:43+00:00",
-      "age_days": 0.31,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -692,11 +770,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - 94 km W of Illapel, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc9c",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-20T14:54:07.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-20 14:16:15 UTC 2026-11-20 14:16:15 UTC at epicenter Location 31.784°S 72.149°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.8 - 24 km ESE of Calingasta, Argentina",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T03:31:16+00:00",
-      "age_days": 0.45,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -720,7 +823,7 @@
       "url": "https://e27.co/after-openai-and-anthropic-mistral-goes-further-with-a-full-apac-hq-in-singapore-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T04:50:39+00:00",
-      "age_days": 0.39,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -746,7 +849,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc96",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T13:22:14.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -770,7 +873,7 @@
       "url": "https://e27.co/ecosystem-roundup-singapore-fintechs-pour-money-into-ai-but-just-11-per-cent-run-agents-live-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T09:36:43+00:00",
-      "age_days": 0.19,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -796,7 +899,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 154.51,
+      "age_days": 154.57,
       "topics": [
         "general"
       ],
@@ -812,7 +915,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 154.5d old signal"
+        "aging penalty -8.0 for 154.6d old signal"
       ],
       "summary": ""
     },
@@ -821,7 +924,7 @@
       "url": "https://developer.hatenastaff.com/entry/2026/11/20/162322",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T09:54:28+00:00",
-      "age_days": 0.18,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -841,115 +944,15 @@
       "summary": ""
     },
     {
-      "title": "M 4.7 - southeast of the Loyalty Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc8k",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-20T11:16:24.040+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-20 10:48:44 UTC 2026-11-20 10:48:44 UTC at epicenter Location 24.661°S 171.191°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - southeast of the Loyalty Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc8g",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-20T10:47:31.040+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-20 10:30:01 UTC 2026-11-20 10:30:01 UTC at epicenter Location 24.746°S 171.433°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.7 - Carlsberg Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc81",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-20T09:11:03.040+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-20 08:42:54 UTC 2026-11-20 08:42:54 UTC at epicenter Location 9.753°N 57.841°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.1 - 10 km NW of Pinnacles, CA",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-20T06:54:11.000+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-20 06:49:16 UTC 2026-11-20 06:49:16 UTC at epicenter Location 36.593°N 121.221°W Depth 6.70 km (4.16 mi)"
-    },
-    {
-      "title": "M 4.7 - Carlsberg Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc81",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-20T09:18:36+00:00",
-      "age_days": 0.2,
+      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-20T14:19:44+00:00",
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.5,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -965,15 +968,15 @@
       "summary": ""
     },
     {
-      "title": "M 4.9 - 54 km W of Madang, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-20T05:38:53+00:00",
-      "age_days": 0.36,
+      "title": "Multiples vulnérabilités dans Oracle MySQL (18 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1563/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-20T14:19:44+00:00",
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.5,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -989,54 +992,50 @@
       "summary": ""
     },
     {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 155.73,
+      "title": "Multiples vulnérabilités dans Oracle Java SE (18 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1562/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-20T14:19:44+00:00",
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.0,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 155.7d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
     },
     {
-      "title": "AI should change wealth management’s economics, not just its margins",
-      "url": "https://e27.co/ai-should-change-wealth-managements-economics-not-just-its-margins-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-20T04:36:40+00:00",
-      "age_days": 0.4,
+      "title": "Multiples vulnérabilités dans Oracle Database Server (18 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1561/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-20T14:19:44+00:00",
+      "age_days": 0.05,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 16.0,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
     }
