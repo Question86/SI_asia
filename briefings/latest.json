@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T05:08:14+00:00",
-  "run_id": "2026-11-20T05:08:14+00:00",
+  "generated_at": "2026-11-20T05:21:22+00:00",
+  "run_id": "2026-11-20T05:21:22+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T04:48:30+00:00",
-        "fetched_at": "2026-11-20T04:50:11+00:00",
+        "published_at": "2026-11-20T05:21:11+00:00",
+        "fetched_at": "2026-11-20T05:20:54+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "8047688542613077b683"
+        "id": "70d3a30f282f9106bb8a"
       },
       {
         "title": "After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore",
@@ -634,8 +634,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T04:48:30+00:00",
-      "fetched_at": "2026-11-20T04:50:11+00:00",
+      "published_at": "2026-11-20T05:21:11+00:00",
+      "fetched_at": "2026-11-20T05:20:54+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -669,7 +669,7 @@
         "HD",
         "LOW"
       ],
-      "id": "8047688542613077b683"
+      "id": "70d3a30f282f9106bb8a"
     },
     {
       "title": "After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore",
@@ -1227,26 +1227,46 @@
   ],
   "new_findings": [
     {
-      "title": "Southeast Asia’s robot vacuum boom puts local execution to the test",
-      "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-20T05:00:41+00:00",
-      "fetched_at": "2026-11-20T05:07:46+00:00",
-      "summary": "Vietnam’s robot vacuum market offers a striking signal of demand for household automation. Consumers spent US$92.3 million on the devices in the 12 months through June 2026, an increase of 137.6 per cent by value, according to GfK data reported by VnExpress. ECOVACS, Xiaomi, Roborock and Dreame occupied the top four positions. That growth presents […] The post Southeast Asia’s robot vacuum boom puts local execution…",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-20T05:21:11+00:00",
+      "fetched_at": "2026-11-20T05:20:54+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Automatisierung",
-        "Southeast Asia"
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "Automatisierung (+4.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ebe65751150c0cad0125"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "70d3a30f282f9106bb8a"
     }
   ],
   "source_errors": [],
