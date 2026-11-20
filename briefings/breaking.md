@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-20T05:54:23+00:00_
+_Generiert: 2026-11-20T05:59:10+00:00_
 
 ## 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス
 
