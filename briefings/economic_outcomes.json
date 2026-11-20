@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T00:03:50+00:00",
+  "generated_at": "2026-11-20T00:37:03+00:00",
   "events": [
     {
       "event_id": "evt_0002baf8b91c304d17ac",
@@ -11550,7 +11550,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_6204127744ee29d2013c",
@@ -18678,7 +18678,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9ed2410de632b1cd74e7",
@@ -28460,6 +28460,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f44e508ef4ddeeccd418",
+      "title": "Improvements on the pull request overview in public preview",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_f455c7e2111889de8ee5",
       "title": "仕様書通りだけど提案書とは違うシステムだったので訴えます",
       "deduplicated_buckets": 0,
@@ -29474,12 +29485,12 @@
     {
       "event_id": "evt_fe5979c200222e944af1",
       "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {

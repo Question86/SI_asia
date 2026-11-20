@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T00:03:47+00:00",
+  "generated_at": "2026-11-20T00:36:58+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2200,7 +2200,7 @@
       "p90_usd": 12240000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-11-01T17:55:36+00:00",
-      "last_seen_at": "2026-11-20T00:03:25+00:00",
+      "last_seen_at": "2026-11-20T00:36:35+00:00",
       "status": "active"
     },
     {
@@ -14508,8 +14508,8 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-18T23:55:15+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-20T00:36:35+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -20578,8 +20578,8 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-11-19T23:46:31+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-11-20T00:36:35+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_a2888de3c57b771f0196",
@@ -44474,6 +44474,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_fe5979c200222e944af1",
+      "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-20T00:03:25+00:00",
+      "last_seen_at": "2026-11-20T00:36:35+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_feb3ca2ea460394b585c",
       "title": "ble.sh―理論物理の研究者がBashだけで書いた、世界で使われるコマンドラインエディタ - レバテックLAB",
       "event_classes": [
@@ -44574,23 +44591,6 @@
       "first_seen_at": "2026-09-25T06:37:52+00:00",
       "last_seen_at": "2026-09-25T06:37:52+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_fe5979c200222e944af1",
-      "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-11-20T00:03:25+00:00",
-      "last_seen_at": "2026-11-20T00:03:25+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
@@ -45884,6 +45884,23 @@
       "first_seen_at": "2026-11-12T05:21:19+00:00",
       "last_seen_at": "2026-11-12T05:36:51+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f44e508ef4ddeeccd418",
+      "title": "Improvements on the pull request overview in public preview",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 106400.0,
+      "p50_usd": 10640000.0,
+      "p90_usd": 1064000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-11-20T00:36:35+00:00",
+      "last_seen_at": "2026-11-20T00:36:35+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_8446b7d5bac96b0e623c",
