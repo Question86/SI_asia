@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T23:59:05+00:00",
-    "fetched_at": "2026-11-20T00:02:54+00:00",
+    "published_at": "2026-11-20T00:36:20+00:00",
+    "fetched_at": "2026-11-20T00:36:02+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,52 @@
       "HD",
       "LOW"
     ],
-    "id": "73205fe2149154d8e5ec"
+    "id": "597438748921894d78b9"
+  },
+  {
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
+    "url": "https://jvn.jp/vu/JVNVU92814490/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-20T09:30:00+09:00",
+    "fetched_at": "2026-11-20T00:36:02+00:00",
+    "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+    "matched_keywords": [
+      "advisory",
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a12d7b1726e6824b6a36"
+  },
+  {
+    "title": "Deploying Daybreak Red",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-19T00:00:00+00:00",
+    "fetched_at": "2026-11-20T00:36:02+00:00",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "matched_keywords": [
+      "OpenAI",
+      "safety",
+      "Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "OpenAI (+6.0); Security (+6.0); safety (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3ae477544977a74d0ad2"
   },
   {
     "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
@@ -61,5 +106,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "153a3c21dd5a37ffc992"
+  },
+  {
+    "title": "Improvements on the pull request overview in public preview",
+    "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-20T00:02:21+00:00",
+    "fetched_at": "2026-11-20T00:36:02+00:00",
+    "summary": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here’s what’s new! Clearer merge status and next steps Failed optional checks… The post Improvements on the pull request overview in public preview appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d5877fb4076f945aef30"
   }
 ]
