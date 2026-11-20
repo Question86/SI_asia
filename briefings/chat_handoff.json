@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-20T08:59:05+00:00",
+  "generated_at": "2026-11-20T09:18:34+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 3,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
     "medium": 9,
-    "observe": 25
+    "observe": 27
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T08:58:51+00:00",
+      "published_at": "2026-11-20T09:18:23+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.4 - Carlsberg Ridge",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-20T09:10:59.410+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc82",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-11-20 08:44:11 UTC 2026-11-20 08:44:11 UTC at epicenter Location 9.795°N 57.749°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "America’s affordability election is becoming corporate America’s accountability test",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/",
       "summary": "For most of this decade, Southeast Asia’s data centre operators asked prospective tenants a short list of questions: how many megawatts, how long a lease, how soon. Since November 16, that list has grown, and the question that matters most is no longer how mu…",
-      "section": "observe"
-    },
-    {
-      "title": "Southeast Asia’s robot vacuum boom puts local execution to the test",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-20T05:00:41+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
-      "summary": "Vietnam’s robot vacuum market offers a striking signal of demand for household automation. Consumers spent US$92.3 million on the devices in the 12 months through June 2026, an increase of 137.6 per cent by value, according to GfK data reported by VnExpress.…",
       "section": "observe"
     }
   ],

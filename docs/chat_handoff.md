@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T08:59:05+00:00_
+_Generated: 2026-11-20T09:18:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `36`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-20T08:58:51+00:00`
+- published: `2026-11-20T09:18:23+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-20T08:59:05+00:00_
 - url: https://jvn.jp/vu/JVNVU92814490/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 5. America’s affordability election is becoming corporate America’s accountability test
+### 5. M 5.4 - Carlsberg Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-11-20T09:10:59.410+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc82
+- summary: PAGER - GREEN ShakeMap - I Time 2026-11-20 08:44:11 UTC 2026-11-20 08:44:11 UTC at epicenter Location 9.795°N 57.749°E Depth 10.00 km (6.21 mi)
+
+### 6. America’s affordability election is becoming corporate America’s accountability test
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-11-20T04:00:39+00:00`
 - url: https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/
 - summary: When Americans go to the polls on November 3, much of the attention will be on which party controls Congress, but for corporate America, the more consequential question may be what happens after the votes are counted. Affordability has become a defining issue…
 
-### 6. M 5.6 - southeast of the Loyalty Islands
+### 7. M 5.6 - southeast of the Loyalty Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-11-20T01:12:47.975+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v
 - summary: PAGER - GREEN ShakeMap - I Time 2026-11-20 00:49:13 UTC 2026-11-20 00:49:13 UTC at epicenter Location 24.702°S 171.160°E Depth 10.00 km (6.21 mi)
 
-### 7. Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks
+### 8. Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-20T05:30:06+00:00`
 - url: https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/
 - summary: For most of this decade, Southeast Asia’s data centre operators asked prospective tenants a short list of questions: how many megawatts, how long a lease, how soon. Since November 16, that list has grown, and the question that matters most is no longer how mu…
-
-### 8. Southeast Asia’s robot vacuum boom puts local execution to the test
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-11-20T05:00:41+00:00`
-- url: https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/
-- summary: Vietnam’s robot vacuum market offers a striking signal of demand for household automation. Consumers spent US$92.3 million on the devices in the 12 months through June 2026, an increase of 137.6 per cent by value, according to GfK data reported by VnExpress.…
 
 END OF DOCUMENT

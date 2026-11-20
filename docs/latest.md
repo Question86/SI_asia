@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T08:59:05+00:00_
+_Generiert: 2026-11-20T09:18:34+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T08:58:51+00:00`, fetched `2026-11-20T08:58:32+00:00`
+  - Zeit: published `2026-11-20T09:18:23+00:00`, fetched `2026-11-20T09:18:04+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.4 - Carlsberg Ridge** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc82)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-20T09:10:59.410+00:00`, fetched `2026-11-20T09:18:04+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-11-20 08:44:11 UTC 2026-11-20 08:44:11 UTC at epicenter Location 9.795°N 57.749°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **America’s affordability election is becoming corporate America’s accountability test** — Score 13, observation — [Quelle](https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-20T04:00:39+00:00`, fetched `2026-11-20T04:01:56+00:00`
@@ -177,15 +186,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Christine Lagarde: Acting in time
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - 10 km NW of Pinnacles, CA** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-20T06:54:11.000+00:00`, fetched `2026-11-20T06:55:36+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-20 06:49:16 UTC 2026-11-20 06:49:16 UTC at epicenter Location 36.593°N 121.221°W Depth 6.70 km (4.16 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **VMware stopft attackierte Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-20T08:06:00.000+00:00`, fetched `2026-11-20T08:21:08+00:00`
