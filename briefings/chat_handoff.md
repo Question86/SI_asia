@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T04:27:27+00:00_
+_Generated: 2026-11-20T04:36:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-20T04:27:17+00:00`
+- published: `2026-11-20T04:29:11+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-20T04:27:27+00:00_
 - url: https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/
 - summary: When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spe…
 
-### 8. M 4.8 - 24 km ESE of Calingasta, Argentina
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. AI should change wealth management’s economics, not just its margins
+- source: e27 Asia Startup and Tech Feed
 - score: `11`
-- published: `2026-11-20T03:25:37.760+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s
-- summary: DYFI? - II Time 2026-11-20 02:57:18 UTC 2026-11-20 02:57:18 UTC at epicenter Location 31.430°S 69.188°W Depth 113.86 km (70.75 mi)
+- published: `2026-11-20T04:30:01+00:00`
+- url: https://e27.co/ai-should-change-wealth-managements-economics-not-just-its-margins-20261119/
+- summary: Implementation of Artificial intelligence (AI) across the industry is giving wealth firms a choice in how they use the savings it generates, whether to lower fees, serve smaller accounts, improve access to financial advisers or retain the savings as profit. H…
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T04:27:27+00:00_
+_Generiert: 2026-11-20T04:36:37+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+18 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T04:27:17+00:00`, fetched `2026-11-20T04:27:00+00:00`
+  - Zeit: published `2026-11-20T04:29:11+00:00`, fetched `2026-11-20T04:36:09+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -135,6 +135,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spent decades developing its position as a global centre for trade, logistics, aviation, finance, […] The post Dubai is selling trust, not just capital: What it me…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI should change wealth management’s economics, not just its margins** — Score 11, observation — [Quelle](https://e27.co/ai-should-change-wealth-managements-economics-not-just-its-margins-20261119/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-20T04:30:01+00:00`, fetched `2026-11-20T04:36:09+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:macro_fx_company_numbers
+  - Watchgraph: macro_fx_company_numbers
+  - Markt-/Kontextkorb: SPY, QQQ, DAX, EWU, INDA, EWJ, EWY, EWA, EWC, EWZ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules macro_fx_company_numbers (+3.0)
+  - Kurz: Implementation of Artificial intelligence (AI) across the industry is giving wealth firms a choice in how they use the savings it generates, whether to lower fees, serve smaller accounts, improve access to financial advisers or retain the savings as profit. However, these benefits do not automatically reach clients. Firms must make deliberate decisions about how […] The post AI should change wealth management’s econ…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 24 km ESE of Calingasta, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-20T03:25:37.760+00:00`, fetched `2026-11-20T03:30:41+00:00`
@@ -153,15 +162,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 耀威光電｜智能路燈管理系統 - SQL Injection
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The quiet identity crisis behind AI productivity gains** — Score 10, observation — [Quelle](https://e27.co/the-quiet-identity-crisis-behind-ai-productivity-gains-20261116/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-20T04:00:23+00:00`, fetched `2026-11-20T04:01:56+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: My work in organisational psychology and clinical practice has increasingly brought me into conversations about how AI is changing people’s sense of professional identity. One client, whose identifying details have been changed to protect confidentiality, leads a research team at a Singapore fintech company. AI has transformed how she works. Reports that once required hours […] The post The quiet identity crisis beh…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;** — Score 10, observation — [Quelle](https://blog.shibayu36.org/entry/2026/11/17/120000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-18T03:37:49+00:00`, fetched `2026-11-20T00:53:38+00:00`

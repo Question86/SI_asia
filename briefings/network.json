@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-20T04:27:30+00:00",
+  "generated_at": "2026-11-20T04:36:40+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 17,
-    "clusters": 17,
+    "findings": 18,
+    "clusters": 18,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 3
   },
   "clusters": [
@@ -51,8 +51,8 @@
       "first_seen_at": "2026-06-19T11:28:55+00:00"
     },
     {
-      "key": "title:america-affordability-election-becoming-corporate-america-accountability-test",
-      "title": "America’s affordability election is becoming corporate America’s accountability test",
+      "key": "title:should-change-wealth-management-economics-not-just-its",
+      "title": "AI should change wealth management’s economics, not just its margins",
       "sources": [
         "e27 Asia Startup and Tech Feed"
       ],
@@ -60,35 +60,35 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/"
+        "https://e27.co/ai-should-change-wealth-managements-economics-not-just-its-margins-20261119/"
       ],
       "finding_count": 1,
-      "max_score": 13,
+      "max_score": 11,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.0,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.0,
       "hot": false,
       "watchgraph_modules": [
-        "elections_unrest"
+        "macro_fx_company_numbers"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.1,
-      "ranking_score": 22.0,
+      "raw_network_score": 16.1,
+      "ranking_score": 19.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
+      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 7.5,
-      "high_signal": false,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": true,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-11-20T04:02:32+00:00"
+      "first_seen_at": "2026-11-20T04:36:40+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -205,6 +205,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-20T03:55:14+00:00"
+    },
+    {
+      "key": "title:america-affordability-election-becoming-corporate-america-accountability-test",
+      "title": "America’s affordability election is becoming corporate America’s accountability test",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.1,
+      "ranking_score": 14.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-11-20T04:02:32+00:00"
     },
     {
       "key": "title:dubai-selling-trust-not-just-capital-what-means",
@@ -343,18 +383,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.99,
+      "network_score": 11.93,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.1,
-      "ranking_score": 11.99,
+      "ranking_score": 11.93,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.49,
+      "baseline_bonus": 0.43,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -673,7 +713,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-20T04:27:31Z",
+    "generated_at": "2026-11-20T04:36:41Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
