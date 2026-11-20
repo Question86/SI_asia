@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:40:20+00:00",
+  "generated_at": "2026-11-20T19:48:52+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 63,
@@ -91,46 +91,6 @@
       "first_seen_at": "2026-06-19T11:28:55+00:00"
     },
     {
-      "key": "domain:openai.com",
-      "title": "Deploying Daybreak Red",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/business/learn/deploying-daybreak-red",
-        "https://openai.com/index/introducing-medchembench",
-        "https://openai.com/index/combatting-adversarial-distillation"
-      ],
-      "finding_count": 3,
-      "max_score": 15,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 21.69,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 24.3,
-      "ranking_score": 21.69,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 2.69,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
-    },
-    {
       "key": "domain:wid.cert-bund.de",
       "title": "[UPDATE] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen",
       "sources": [
@@ -210,6 +170,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-11-20T04:50:39+00:00"
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Deploying Daybreak Red",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/business/learn/deploying-daybreak-red",
+        "https://openai.com/index/introducing-medchembench",
+        "https://openai.com/index/combatting-adversarial-distillation"
+      ],
+      "finding_count": 3,
+      "max_score": 15,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.93,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 21.3,
+      "ranking_score": 17.93,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.43,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:ecosystem-roundup-singapore-fintechs-pour-money-but-just",
@@ -427,18 +427,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.78,
+      "network_score": 14.72,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "raw_network_score": 18.2,
-      "ranking_score": 14.78,
+      "ranking_score": 14.72,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.78,
+      "baseline_bonus": 0.72,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2160,7 +2160,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-11-20T19:40:21Z",
+    "generated_at": "2026-11-20T19:48:53Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
