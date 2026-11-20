@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-11-20T03:46:24+00:00`
+Generated: `2026-11-20T03:55:37+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -18,6 +18,7 @@ Generated: `2026-11-20T03:46:24+00:00`
 | Shopwareにおけるクロスサイトスクリプティングの脆弱性 | vulnerability, conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | npm extends recovery-code security holds to all accounts | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
+| Everful raises US$48.5M Series A to turn the overseas sourcing office into software | funding, conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | Passing 1.5°C global warming: Performative ESG is no longer acceptable | conflict | $114.40M | $11.44B | $1.14T | 0.31 |
 | Headlines that broke the script: The warning signs were inside the building — Part 1 | conflict | $114.40M | $11.44B | $1.14T | 0.31 |
 | 10 technical talks I’m excited about at GitHub Universe 2026 | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-11-20T03:46:24+00:00`
 | M 5.1 - 34 km NNW of Bāgeshwar, India | natural_disaster, conflict | $112.80M | $11.28B | $1.13T | 0.33 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Faster type-aware linting with tsrs | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
-| Stage-only npm tokens for safer automation | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 
 ## Interpretation
 
