@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:20:21+00:00",
+  "generated_at": "2026-11-20T18:31:45+00:00",
   "sections": {
     "global_security": [
       {
@@ -35,6 +35,54 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "CISA KEV: CVE-2026-129448 Apache Roller",
+        "summary": "Known exploited vulnerability. Added 2026-11-20. Due 2026-11-23. Apache Roller Deserialization of Untrusted Data Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-20",
+        "metrics": {
+          "cve": "CVE-2026-129448"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-123890 Broadcom VMware vCenter",
+        "summary": "Known exploited vulnerability. Added 2026-11-20. Due 2026-11-23. VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-20",
+        "metrics": {
+          "cve": "CVE-2026-123890"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2025-42884 SAP NetWeaver",
+        "summary": "Known exploited vulnerability. Added 2026-11-20. Due 2026-11-23. SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-20",
+        "metrics": {
+          "cve": "CVE-2025-42884"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-76466 Cisco Expressway Series",
+        "summary": "Known exploited vulnerability. Added 2026-11-20. Due 2026-11-23. Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-11-20",
+        "metrics": {
+          "cve": "CVE-2026-76466"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "CISA KEV: CVE-2024-10441 Synology DiskStation Manager (DSM)",
         "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
         "source": "CISA KEV",
@@ -42,54 +90,6 @@
         "published_at": "2026-11-18",
         "metrics": {
           "cve": "CVE-2024-10441"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-40217 BerriAI LiteLLM",
-        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-12-02. BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-18",
-        "metrics": {
-          "cve": "CVE-2026-40217"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap)",
-        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-18",
-        "metrics": {
-          "cve": "CVE-2026-90817"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-90436 Apache Axis",
-        "summary": "Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Apache Axis Unsafe Reflection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-18",
-        "metrics": {
-          "cve": "CVE-2026-90436"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-115731 Perforce Puppet Enterprise",
-        "summary": "Known exploited vulnerability. Added 2026-11-17. Due 2026-12-01. Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-11-17",
-        "metrics": {
-          "cve": "CVE-2026-115731"
         }
       },
       {

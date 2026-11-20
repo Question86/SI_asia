@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T18:20:19+00:00_
+_Generiert: 2026-11-20T18:31:42+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -17,26 +17,26 @@ _Generiert: 2026-11-20T18:20:19+00:00_
   - Quelle: USGS
   - Zeit: `2026-11-20T06:49:16+00:00`
   - Kurz: M5.0 - 10 km NW of Pinnacles, CA. PAGER alert: green. Tsunami flag: 1.
+- **CISA KEV: CVE-2026-129448 Apache Roller** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-20`
+  - Kurz: Known exploited vulnerability. Added 2026-11-20. Due 2026-11-23. Apache Roller Deserialization of Untrusted Data Vulnerability
+- **CISA KEV: CVE-2026-123890 Broadcom VMware vCenter** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-20`
+  - Kurz: Known exploited vulnerability. Added 2026-11-20. Due 2026-11-23. VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability
+- **CISA KEV: CVE-2025-42884 SAP NetWeaver** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-20`
+  - Kurz: Known exploited vulnerability. Added 2026-11-20. Due 2026-11-23. SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability
+- **CISA KEV: CVE-2026-76466 Cisco Expressway Series** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-20`
+  - Kurz: Known exploited vulnerability. Added 2026-11-20. Due 2026-11-23. Cisco Expressway Series Use of Hard-coded Credentials Vulnerability
 - **CISA KEV: CVE-2024-10441 Synology DiskStation Manager (DSM)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-18`
   - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability
-- **CISA KEV: CVE-2026-40217 BerriAI LiteLLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-18`
-  - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-12-02. BerriAI LiteLLM Unprotected Alternate Channel Vulnerability
-- **CISA KEV: CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-18`
-  - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability
-- **CISA KEV: CVE-2026-90436 Apache Axis** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-18`
-  - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Apache Axis Unsafe Reflection Vulnerability
-- **CISA KEV: CVE-2026-115731 Perforce Puppet Enterprise** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-17`
-  - Kurz: Known exploited vulnerability. Added 2026-11-17. Due 2026-12-01. Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578280)
   - Quelle: GDACS
   - Zeit: ``
@@ -79,7 +79,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T17:55:52+00:00`, fetched `2026-11-20T17:56:11+00:00`
+  - Zeit: published `2026-11-20T18:31:29+00:00`, fetched `2026-11-20T18:31:04+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -333,7 +333,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `reliefweb_mindanao_recovery_watch` (webpage_check): HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=8)
