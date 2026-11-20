@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T13:26:56+00:00",
+  "generated_at": "2026-11-20T13:34:24+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,7 +99,7 @@
     },
     "domain:openai.com": {
       "title": "Deploying Daybreak Red",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         17.1,
         17.1,
@@ -199,7 +199,7 @@
     },
     "earthquake:philippines:5.1": {
       "title": "M 5.1 - 15 km SSW of Balangonan, Philippines",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -229,13 +229,13 @@
         17.7,
         17.7,
         17.7,
-        17.7,
-        20.7
+        20.7,
+        17.7
       ],
       "rolling_average": 17.8,
       "rolling_peak": 20.7,
-      "last_score": 20.7,
-      "z_hint": 2.9
+      "last_score": 17.7,
+      "z_hint": -0.1
     },
     "earthquake:philippines:5.0": {
       "title": "M 5.0 - 68 km S of Sarangani, Philippines",
@@ -979,7 +979,7 @@
     },
     "domain:www.federalreserve.gov": {
       "title": "Waller, Opening Remarks",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         17.1,
         17.1,
@@ -1010,18 +1010,18 @@
         17.1,
         17.1,
         17.1,
-        17.1
+        14.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 17.0,
       "rolling_peak": 17.1,
-      "last_score": 17.1,
-      "z_hint": -0.0
+      "last_score": 14.1,
+      "z_hint": -2.9
     },
     "domain:www.ecb.europa.eu": {
       "title": "Christine Lagarde: Acting in time",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
-        14.1,
+        11.1,
         11.1,
         11.1,
         11.1,
@@ -1052,10 +1052,10 @@
         11.1,
         11.1
       ],
-      "rolling_average": 11.2,
-      "rolling_peak": 14.1,
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
       "last_score": 11.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -2955,7 +2955,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -4031,9 +4031,8 @@
     },
     "domain:www.nikkei.com": {
       "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
-        12.1,
         12.1,
         16.1,
         13.1,
@@ -4062,12 +4061,13 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.13,
+      "rolling_average": 13.17,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.03
+      "z_hint": -0.07
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -4408,7 +4408,7 @@
     },
     "domain:www.heise.de": {
       "title": "VMware stopft attackierte Sicherheitslücken",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -4748,7 +4748,7 @@
     },
     "domain:www.twcert.org": {
       "title": "耀威光電｜智能路燈管理系統 - SQL Injection",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -4799,7 +4799,7 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         25.7,
         25.7,
@@ -5952,9 +5952,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
-        18.2,
         18.2,
         18.2,
         18.2,
@@ -5983,12 +5982,13 @@
         30.5,
         32.6,
         29.6,
+        29.6,
         29.6
       ],
-      "rolling_average": 23.52,
+      "rolling_average": 23.9,
       "rolling_peak": 32.6,
       "last_score": 29.6,
-      "z_hint": 6.08
+      "z_hint": 5.7
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -8044,7 +8044,7 @@
     },
     "domain:blog.shibayu36.org": {
       "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -30622,7 +30622,7 @@
     },
     "earthquake:m 5.0 - southeast of the loyalty islands:5.0": {
       "title": "M 5.0 - southeast of the Loyalty Islands",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -30638,8 +30638,8 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -40789,7 +40789,7 @@
     },
     "domain:posfie.com": {
       "title": "先頭に貼るだけのキラープロンプト7選、コピペOK。→「所見を頼む前に「中学校の担任として、前向きな言葉で」と1行足すだけで、書き直しが半分に減りました。」",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -40797,8 +40797,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -41120,7 +41120,7 @@
     },
     "earthquake:m 4.7 - southeast of the loyalty islands:4.7": {
       "title": "M 4.7 - southeast of the Loyalty Islands",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -41143,12 +41143,13 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.97,
+      "rolling_average": 11.96,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.27
+      "z_hint": -0.26
     },
     "github_repo:minorun365/agent-builder-skills": {
       "title": "GitHub - minorun365/agent-builder-skills: AWSでAIエージェントのWebアプリを作るためのスキル集（Bedrock AgentCore・Strands Agents・AWS CDK・Lambda Web Adapter・Cognito・SSE）",
@@ -50706,9 +50707,8 @@
     },
     "domain:www.asahi.com": {
       "title": "政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：朝日新聞",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
-        10.1,
         7.1,
         7.1,
         7.1,
@@ -50737,12 +50737,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.75,
       "rolling_peak": 12.2,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.65
     },
     "title:cloudflare-jev": {
       "title": "Cloudflare 上で Jev で作るほぼ0円運用可能な高品質なページ内検索",
@@ -126970,7 +126971,7 @@
     },
     "title:batteryhub": {
       "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -127010,7 +127011,7 @@
     },
     "title:improvements-pull-request-overview-public-preview": {
       "title": "Improvements on the pull request overview in public preview",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         5.1,
         5.1,
@@ -127050,7 +127051,7 @@
     },
     "earthquake:m 5.6 - southeast of the loyalty islands:5.6": {
       "title": "M 5.6 - southeast of the Loyalty Islands",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         15.7,
         15.7,
@@ -127090,7 +127091,7 @@
     },
     "title:palantir-databricks-snowflake-nvidia": {
       "title": "「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -127130,7 +127131,7 @@
     },
     "title:sbc-162": {
       "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -127170,7 +127171,7 @@
     },
     "url:https://www.digital.go.jp/speech/minister-261120-01": {
       "title": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -127210,7 +127211,7 @@
     },
     "title:can-bitcoin-hold-256-000-next-stop": {
       "title": "Can Bitcoin hold US$61,256, or is US$60,000 the next stop?",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -127250,7 +127251,7 @@
     },
     "title:dubai-selling-trust-not-just-capital-what-means": {
       "title": "Dubai is selling trust, not just capital: What it means for Southeast Asian founders",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -127290,7 +127291,7 @@
     },
     "earthquake:m 4.8 - 24 km ese of calingasta, argentina:4.8": {
       "title": "M 4.8 - 24 km ESE of Calingasta, Argentina",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -127330,7 +127331,7 @@
     },
     "title:everful-raises-series-turn-overseas-sourcing-office-software": {
       "title": "Everful raises US$48.5M Series A to turn the overseas sourcing office into software",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -127370,7 +127371,7 @@
     },
     "title:america-affordability-election-becoming-corporate-america-accountability-test": {
       "title": "America’s affordability election is becoming corporate America’s accountability test",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -127410,7 +127411,7 @@
     },
     "title:quiet-identity-crisis-behind-productivity-gains": {
       "title": "The quiet identity crisis behind AI productivity gains",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -127450,7 +127451,7 @@
     },
     "title:should-change-wealth-management-economics-not-just-its": {
       "title": "AI should change wealth management’s economics, not just its margins",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -127490,7 +127491,7 @@
     },
     "title:after-openai-anthropic-mistral-goes-further-full-apac": {
       "title": "After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         19.1,
         19.1,
@@ -127530,7 +127531,7 @@
     },
     "title:took-founder-bias-out-roadmap-then-our-customers": {
       "title": "We took founder bias out of the roadmap: Then our customers fired us",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -127570,7 +127571,7 @@
     },
     "title:southeast-asia-robot-vacuum-boom-puts-local-execution": {
       "title": "Southeast Asia’s robot vacuum boom puts local execution to the test",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -127610,7 +127611,7 @@
     },
     "title:know-your-tenant-chip-rules-turn-southeast-asia": {
       "title": "Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -127650,7 +127651,7 @@
     },
     "earthquake:m 4.9 - 54 km w of madang, papua new guinea:4.9": {
       "title": "M 4.9 - 54 km W of Madang, Papua New Guinea",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -127690,7 +127691,7 @@
     },
     "title:indonesia-exports-its-talent-korea-captures-value-pop": {
       "title": "Indonesia exports its talent, Korea captures the value: The K-pop lesson Jakarta can’t ignore",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -127730,7 +127731,7 @@
     },
     "title:agent-claude-code-codex": {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         25.1,
         25.1,
@@ -127770,7 +127771,7 @@
     },
     "title:ruby-oss-type-type": {
       "title": "「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -127810,7 +127811,7 @@
     },
     "earthquake:m 5.1 - 10 km nw of pinnacles, ca:5.1": {
       "title": "M 5.1 - 10 km NW of Pinnacles, CA",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -127850,7 +127851,7 @@
     },
     "url:https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986": {
       "title": "ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         8.1,
         8.1,
@@ -127890,7 +127891,7 @@
     },
     "github_repo:firecrawl/firecrawl": {
       "title": "firecrawl/firecrawl",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -127930,7 +127931,7 @@
     },
     "earthquake:m 5.4 - carlsberg ridge:5.4": {
       "title": "M 5.4 - Carlsberg Ridge",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         18.7,
         15.7,
@@ -127957,16 +127958,17 @@
         15.7,
         15.7,
         15.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 15.82,
+      "rolling_average": 15.81,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "earthquake:m 4.7 - carlsberg ridge:4.7": {
       "title": "M 4.7 - Carlsberg Ridge",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -127993,16 +127995,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.82,
+      "rolling_average": 11.81,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:ecosystem-roundup-singapore-fintechs-pour-money-but-just": {
       "title": "Ecosystem Roundup: Singapore fintechs pour money into AI, but just 11 per cent run agents live",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         21.1,
         18.1,
@@ -128027,16 +128030,17 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.23,
+      "rolling_average": 18.22,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "domain:developer.hatenastaff.com": {
       "title": "はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -128059,16 +128063,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.24,
+      "rolling_average": 10.23,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.14
+      "z_hint": -0.13
     },
     "title:pop": {
       "title": "ドンキのAI社員「近藤あい」が正式デビュー 販促POPや動画で活躍へ 運営元「すでに裏に20人ぐらいいる」",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -128083,16 +128088,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.31,
+      "rolling_average": 7.3,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:https-php": {
       "title": "「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -128105,16 +128111,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.35,
+      "rolling_average": 7.33,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:1400": {
       "title": "【速報】三井住友銀で情報漏えい、最大1400万件",
-      "updated_at": "2026-11-20T13:26:56+00:00",
+      "updated_at": "2026-11-20T13:34:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -128125,12 +128132,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.4,
+      "rolling_average": 7.37,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     }
   }
 }
