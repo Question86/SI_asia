@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-20T02:15:51Z",
+  "generated_at": "2026-11-20T03:24:11Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 1.09,
+      "age_days": 1.14,
       "topics": [
         "ai",
         "security"
@@ -66,7 +66,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 153.62,
+      "age_days": 153.66,
       "topics": [
         "general"
       ],
@@ -84,7 +84,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 153.6d old signal",
+        "aging penalty -8.0 for 153.7d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -93,8 +93,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-20T02:02:13+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-11-20T03:18:25+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -119,11 +119,35 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
+      "title": "耀威光電｜智能路燈管理系統 - SQL Injection",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-11-20T02:36:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "耀威光電｜智能路燈管理系統 - SQL Injection"
+    },
+    {
       "title": "M 5.6 - southeast of the Loyalty Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:12:47.975+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -148,7 +172,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:13:41+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -172,7 +196,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 154.01,
+      "age_days": 154.06,
       "topics": [
         "general"
       ],
@@ -188,7 +212,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 154.0d old signal"
+        "aging penalty -8.0 for 154.1d old signal"
       ],
       "summary": ""
     },
@@ -197,7 +221,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 155.23,
+      "age_days": 155.28,
       "topics": [
         "general"
       ],
@@ -213,45 +237,21 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 155.2d old signal",
+        "aging penalty -8.0 for 155.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
     {
-      "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-20T00:03:25+00:00",
-      "age_days": 0.09,
+      "title": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261120-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-20T01:54:07+00:00",
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-11-20T00:36:35+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.0,
+      "dynamics_score": 15.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -271,46 +271,46 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T01:47:34+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
       ],
       "summary": ""
     },
     {
-      "title": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261120-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-11-20T01:54:07+00:00",
-      "age_days": 0.02,
+      "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-20T00:03:25+00:00",
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     }
@@ -324,9 +324,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 4,
-      "quiet": 2
+      "strong": 7,
+      "watch": 5
     }
   }
 }

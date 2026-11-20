@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-20T02:15:51Z",
+  "generated_at": "2026-11-20T03:24:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 26,
     "bands": {
       "krass": 2,
-      "strong": 4,
-      "watch": 4,
-      "quiet": 10
+      "strong": 5,
+      "watch": 8,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 4,
-      "quiet": 10
+      "strong": 7,
+      "watch": 8,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 1.09,
+      "age_days": 1.14,
       "topics": [
         "ai",
         "security"
@@ -74,7 +74,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 153.62,
+      "age_days": 153.66,
       "topics": [
         "general"
       ],
@@ -92,7 +92,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 153.6d old signal",
+        "aging penalty -8.0 for 153.7d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -101,8 +101,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-20T02:02:13+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-11-20T03:18:25+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -127,11 +127,35 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
+      "title": "耀威光電｜智能路燈管理系統 - SQL Injection",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-11-20T02:36:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "耀威光電｜智能路燈管理系統 - SQL Injection"
+    },
+    {
       "title": "M 5.6 - southeast of the Loyalty Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:12:47.975+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -156,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:13:41+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -180,7 +204,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 154.01,
+      "age_days": 154.06,
       "topics": [
         "general"
       ],
@@ -196,7 +220,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 154.0d old signal"
+        "aging penalty -8.0 for 154.1d old signal"
       ],
       "summary": ""
     },
@@ -205,7 +229,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 155.23,
+      "age_days": 155.28,
       "topics": [
         "general"
       ],
@@ -221,45 +245,21 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 155.2d old signal",
+        "aging penalty -8.0 for 155.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
     {
-      "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-20T00:03:25+00:00",
-      "age_days": 0.09,
+      "title": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261120-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-11-20T01:54:07+00:00",
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-11-20T00:36:35+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.0,
+      "dynamics_score": 15.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -279,11 +279,134 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T01:47:34+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-20T00:03:25+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Dubai is selling trust, not just capital: What it means for Southeast Asian founders",
+      "url": "https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-20T03:01:35+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "耀威光電｜智能路燈管理系統 - SQL Injection",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-06-19T11:28:55+00:00",
+      "age_days": 153.66,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 153.7d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-11-20T00:36:35+00:00",
+      "age_days": 0.12,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Can Bitcoin hold US$61,256, or is US$60,000 the next stop?",
+      "url": "https://e27.co/can-bitcoin-hold-us61256-or-is-us60000-the-next-stop-20261120/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-20T02:55:33+00:00",
       "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
+      "dynamics_score": 10.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -299,35 +422,11 @@
       "summary": ""
     },
     {
-      "title": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261120-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-11-20T01:54:07+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
       "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T03:37:49+00:00",
-      "age_days": 1.94,
+      "age_days": 1.99,
       "topics": [
         "ai"
       ],
@@ -349,39 +448,11 @@
       "summary": "最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「..."
     },
     {
-      "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
-      "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 81.99,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.74,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 3.4,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 3.40",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 82.0d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T01:29:22+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -407,7 +478,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261120-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-20T01:47:54+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -427,11 +498,39 @@
       "summary": "古川大臣記者会見（令和8年11月20日）動画を掲載しました"
     },
     {
+      "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
+      "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-30T02:26:46+00:00",
+      "age_days": 82.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.64,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.4,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.40",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 82.0d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T23:45:17+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -455,7 +554,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T21:48:20+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -475,11 +574,37 @@
       "summary": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」"
     },
     {
+      "title": "Dubai is selling trust, not just capital: What it means for Southeast Asian founders",
+      "url": "https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-20T02:55:41+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spent decades developing its position as a global centre for tr…"
+    },
+    {
       "title": "「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T09:36:30+00:00",
-      "age_days": 0.69,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -500,11 +625,37 @@
       "summary": "連載目次 AIに「先月の売上を集計して」と頼み、返ってきたSQL文を実行したとする。エラーなく動いたが、集計結果には、社内ルールでは売上に含めないキャンセル済みの注文まで入っていた。このように、SQL文が正常に動いても、業務上正しい結果が得られるとは限らない。そのため、AIにはデータ構造に加え、業務用語の意..."
     },
     {
+      "title": "Can Bitcoin hold US$61,256, or is US$60,000 the next stop?",
+      "url": "https://e27.co/can-bitcoin-hold-us61256-or-is-us60000-the-next-stop-20261120/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-20T02:53:04+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The global market sell-off that accelerated on Friday, November 20, 2026, delivered a sharp reminder that Bitcoin now trades as a high-beta risk asset rather than an isolated store of value. Bitcoin fell 2.01 per cent to US$61,477.34 over 24 hours, closely tracking a 1.72 per cent decline in the broader crypto market…"
+    },
+    {
       "title": "Improvements on the pull request overview in public preview",
       "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-20T00:02:21+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
