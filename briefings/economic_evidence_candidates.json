@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T17:26:10+00:00",
+  "generated_at": "2026-11-20T17:34:07+00:00",
   "candidate_count": 3239,
   "candidates": [
     {
@@ -25,22 +25,25 @@
       "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm"
     },
     {
-      "candidate_id": "cand_d27cbd9f15106f87fcff",
-      "event_id": "evt_624a2e3ce3ccd3efe095",
-      "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
-      "observed_at": "2026-11-20T17:26:04+00:00",
-      "currency": "USD",
       "amount_native": 2000000000000.0,
       "amount_usd": 2000000000000.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:unclassified",
       "attribution_probability": null,
-      "snippet": "t transition or cyber and financial-stability risks. Uncertainty abounds. In the U.S., AI has catalyzed a historic wave of investment. Companies have announced plans for more than $2 trillion in specific data center construction projects. So far, only a fraction of this has been realized. 3 This investment is already showing up in output data. And there is evidence of",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "primary_hint",
       "candidate_confidence": 0.88,
-      "review_status": "pending"
+      "candidate_id": "cand_d27cbd9f15106f87fcff",
+      "component_confidence": 0.55,
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-11-20T17:26:04+00:00",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:capital_allocation:b1c78e0f5dc1",
+      "review_status": "pending",
+      "snippet": "t transition or cyber and financial-stability risks. Uncertainty abounds. In the U.S., AI has catalyzed a historic wave of investment. Companies have announced plans for more than $2 trillion in specific data center construction projects. So far, only a fraction of this has been realized. 3 This investment is already showing up in output data. And there is evidence of",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm"
     },
     {
       "amount_native": 127000000000.0,
