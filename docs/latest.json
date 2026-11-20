@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-20T11:44:53+00:00",
-  "run_id": "2026-11-20T11:44:53+00:00",
+  "generated_at": "2026-11-20T12:01:07+00:00",
+  "run_id": "2026-11-20T12:01:07+00:00",
   "date": "2026-11-20",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 45
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 11,
     "observe": 34,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T11:44:42+00:00",
-        "fetched_at": "2026-11-20T11:44:25+00:00",
+        "published_at": "2026-11-20T11:57:42+00:00",
+        "fetched_at": "2026-11-20T12:00:30+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "737e5cbfaf37b8fa7a60"
+        "id": "e4b42b63b42c9e2e5f6a"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1264,8 +1264,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T11:44:42+00:00",
-      "fetched_at": "2026-11-20T11:44:25+00:00",
+      "published_at": "2026-11-20T11:57:42+00:00",
+      "fetched_at": "2026-11-20T12:00:30+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1299,7 +1299,7 @@
         "HD",
         "LOW"
       ],
-      "id": "737e5cbfaf37b8fa7a60"
+      "id": "e4b42b63b42c9e2e5f6a"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -2491,8 +2491,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T11:44:42+00:00",
-      "fetched_at": "2026-11-20T11:44:25+00:00",
+      "published_at": "2026-11-20T11:57:42+00:00",
+      "fetched_at": "2026-11-20T12:00:30+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2526,10 +2526,17 @@
         "HD",
         "LOW"
       ],
-      "id": "737e5cbfaf37b8fa7a60"
+      "id": "e4b42b63b42c9e2e5f6a"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "hn_release_security_burst",
+      "source_name": "Hacker News Release/Security Burst",
+      "source_type": "hackernews",
+      "error": "HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-11-20T11:44:56+00:00",
+  "generated_at": "2026-11-20T12:01:11+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "USGS earthquake M4.4 - 1 km NNW of Commerce, CA",
+        "summary": "M4.4 - 1 km NNW of Commerce, CA. PAGER alert: green. Tsunami flag: 1.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
+        "published_at": "2026-11-20T11:25:35+00:00",
+        "metrics": {
+          "mag": 4.43,
+          "alert": "green",
+          "sig": 712.0,
+          "tsunami": 1
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -11,9 +26,9 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
         "published_at": "2026-11-20T06:49:16+00:00",
         "metrics": {
-          "mag": 5.0,
+          "mag": 4.98,
           "alert": "green",
-          "sig": 1005.0,
+          "sig": 1002.0,
           "tsunami": 1
         }
       },
