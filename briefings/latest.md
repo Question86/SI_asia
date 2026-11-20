@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T05:30:30+00:00_
+_Generiert: 2026-11-20T05:38:51+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T05:30:13+00:00`, fetched `2026-11-20T05:29:53+00:00`
+  - Zeit: published `2026-11-20T05:38:39+00:00`, fetched `2026-11-20T05:38:20+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -144,6 +144,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - I Time 2026-11-20 00:49:13 UTC 2026-11-20 00:49:13 UTC at epicenter Location 24.702°S 171.160°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks** — Score 12, observation — [Quelle](https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-20T05:30:06+00:00`, fetched `2026-11-20T05:38:20+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: For most of this decade, Southeast Asia’s data centre operators asked prospective tenants a short list of questions: how many megawatts, how long a lease, how soon. Since November 16, that list has grown, and the question that matters most is no longer how much power a customer needs but who ultimately owns it. That […] The post Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Southeast Asia’s robot vacuum boom puts local execution to the test** — Score 12, opportunity — [Quelle](https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-20T05:00:41+00:00`, fetched `2026-11-20T05:07:46+00:00`
@@ -153,15 +162,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Automatisierung (+4.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Vietnam’s robot vacuum market offers a striking signal of demand for household automation. Consumers spent US$92.3 million on the devices in the 12 months through June 2026, an increase of 137.6 per cent by value, according to GfK data reported by VnExpress. ECOVACS, Xiaomi, Roborock and Dreame occupied the top four positions. That growth presents […] The post Southeast Asia’s robot vacuum boom puts local execution…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Dubai is selling trust, not just capital: What it means for Southeast Asian founders** — Score 12, observation — [Quelle](https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-20T02:55:41+00:00`, fetched `2026-11-20T03:01:04+00:00`
-  - Treffer: APAC Trend Radar, founder, Southeast Asia, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spent decades developing its position as a global centre for trade, logistics, aviation, finance, […] The post Dubai is selling trust, not just capital: What it me…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 24 km ESE of Calingasta, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-20T03:25:37.760+00:00`, fetched `2026-11-20T03:30:41+00:00`
@@ -189,6 +189,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 54 km W of Madang, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-20T05:31:39.040+00:00`, fetched `2026-11-20T05:38:20+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-20 05:17:45 UTC 2026-11-20 05:17:45 UTC at epicenter Location 5.219°S 145.297°E Depth 97.58 km (60.64 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **古川大臣記者会見（令和8年11月20日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261120-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-20T01:47:54+00:00`, fetched `2026-11-20T01:53:34+00:00`

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-20T05:30:30+00:00",
+  "generated_at": "2026-11-20T05:38:51+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 4,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 6,
-    "observe": 15
+    "observe": 18
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T05:30:13+00:00",
+      "published_at": "2026-11-20T05:38:39+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T05:30:06+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/",
+      "summary": "For most of this decade, Southeast Asia’s data centre operators asked prospective tenants a short list of questions: how many megawatts, how long a lease, how soon. Since November 16, that list has grown, and the question that matters most is no longer how mu…",
+      "section": "observe"
+    },
+    {
       "title": "Southeast Asia’s robot vacuum boom puts local execution to the test",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
       "summary": "Vietnam’s robot vacuum market offers a striking signal of demand for household automation. Consumers spent US$92.3 million on the devices in the 12 months through June 2026, an increase of 137.6 per cent by value, according to GfK data reported by VnExpress.…",
-      "section": "observe"
-    },
-    {
-      "title": "Dubai is selling trust, not just capital: What it means for Southeast Asian founders",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-20T02:55:41+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/",
-      "summary": "When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spe…",
       "section": "observe"
     }
   ],
