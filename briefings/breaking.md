@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-11-20T04:58:35+00:00_
+_Generiert: 2026-11-20T05:08:16+00:00_
 
 ## After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore
 
