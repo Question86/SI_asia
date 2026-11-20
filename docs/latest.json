@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-20T08:21:44+00:00",
-  "run_id": "2026-11-20T08:21:44+00:00",
+  "generated_at": "2026-11-20T08:34:11+00:00",
+  "run_id": "2026-11-20T08:34:11+00:00",
   "date": "2026-11-20",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 2,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
     "medium": 9,
-    "observe": 23,
-    "source_errors": 1
+    "observe": 24,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T08:21:26+00:00",
-        "fetched_at": "2026-11-20T08:21:08+00:00",
+        "published_at": "2026-11-20T08:34:00+00:00",
+        "fetched_at": "2026-11-20T08:33:44+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "bb4e1b9c4b5045dba71f"
+        "id": "4caa62feaafe75f65142"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -620,6 +620,26 @@
         "id": "0004f7bbd780e6b030b6"
       },
       {
+        "title": "Christine Lagarde: Acting in time",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-11-20T08:30:00+00:00",
+        "fetched_at": "2026-11-20T08:33:44+00:00",
+        "summary": "Christine Lagarde: Acting in time",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b7959e389057d73d4335"
+      },
+      {
         "title": "M 5.1 - 10 km NW of Pinnacles, CA",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -924,8 +944,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T08:21:26+00:00",
-      "fetched_at": "2026-11-20T08:21:08+00:00",
+      "published_at": "2026-11-20T08:34:00+00:00",
+      "fetched_at": "2026-11-20T08:33:44+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -959,7 +979,7 @@
         "HD",
         "LOW"
       ],
-      "id": "bb4e1b9c4b5045dba71f"
+      "id": "4caa62feaafe75f65142"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1508,6 +1528,26 @@
       "id": "0004f7bbd780e6b030b6"
     },
     {
+      "title": "Christine Lagarde: Acting in time",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-11-20T08:30:00+00:00",
+      "fetched_at": "2026-11-20T08:33:44+00:00",
+      "summary": "Christine Lagarde: Acting in time",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b7959e389057d73d4335"
+    },
+    {
       "title": "M 5.1 - 10 km NW of Pinnacles, CA",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1811,8 +1851,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T08:21:26+00:00",
-      "fetched_at": "2026-11-20T08:21:08+00:00",
+      "published_at": "2026-11-20T08:34:00+00:00",
+      "fetched_at": "2026-11-20T08:33:44+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1846,58 +1886,30 @@
         "HD",
         "LOW"
       ],
-      "id": "bb4e1b9c4b5045dba71f"
+      "id": "4caa62feaafe75f65142"
     },
     {
-      "title": "VMware stopft attackierte Sicherheitslücken",
-      "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
-      "source": "heise Security Alerts",
+      "title": "Christine Lagarde: Acting in time",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-11-20T08:06:00.000+00:00",
-      "fetched_at": "2026-11-20T08:21:08+00:00",
-      "summary": "Broadcom schließt teils kritische Lücken in VMware-Produkten. Eine in vCenter wird laut Mandiant bereits angegriffen.",
+      "published_at": "2026-11-20T08:30:00+00:00",
+      "fetched_at": "2026-11-20T08:33:44+00:00",
+      "summary": "Christine Lagarde: Acting in time",
       "matched_keywords": [
-        "Security"
+        "Macro/Policy"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6decc3645db2815c6517"
-    },
-    {
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-11-20T08:21:08+00:00",
-      "summary": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. https://firecrawl.dev 🔥 Firecrawl Knowledge infrastructure to make your agents smarter. 🔥 You can use Firecrawl three ways. This repo holds the code for Firecrawl Local and the self-hosted server, along with SDKs that work with all three. Firecrawl Local . Run Firecrawl on your own machine as one binary that…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4b99752d7d5cf57ead3b"
+      "id": "b7959e389057d73d4335"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x73c0b2bd8350>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
