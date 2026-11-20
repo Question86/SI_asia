@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T02:48:07+00:00",
-  "run_id": "2026-11-20T02:48:07+00:00",
+  "generated_at": "2026-11-20T02:55:31+00:00",
+  "run_id": "2026-11-20T02:55:31+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 2,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 3,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T02:47:55+00:00",
-        "fetched_at": "2026-11-20T02:47:39+00:00",
+        "published_at": "2026-11-20T02:55:18+00:00",
+        "fetched_at": "2026-11-20T02:55:00+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "dcf866336d3e1ba16002"
+        "id": "4b9e132d0cf9c0e9f792"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -262,6 +262,26 @@
         "id": "4a396ff068445ebb5c8c"
       },
       {
+        "title": "Can Bitcoin hold US$61,256, or is US$60,000 the next stop?",
+        "url": "https://e27.co/can-bitcoin-hold-us61256-or-is-us60000-the-next-stop-20261120/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-20T02:53:04+00:00",
+        "fetched_at": "2026-11-20T02:55:00+00:00",
+        "summary": "The global market sell-off that accelerated on Friday, November 20, 2026, delivered a sharp reminder that Bitcoin now trades as a high-beta risk asset rather than an isolated store of value. Bitcoin fell 2.01 per cent to US$61,477.34 over 24 hours, closely tracking a 1.72 per cent decline in the broader crypto market and moving […] The post Can Bitcoin hold US$61,256, or is US$60,000 the next stop? appeared first on…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8758024fc2d184aae304"
+      },
+      {
         "title": "Improvements on the pull request overview in public preview",
         "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
         "source": "GitHub Changelog Atom",
@@ -289,8 +309,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T02:47:55+00:00",
-      "fetched_at": "2026-11-20T02:47:39+00:00",
+      "published_at": "2026-11-20T02:55:18+00:00",
+      "fetched_at": "2026-11-20T02:55:00+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -324,7 +344,7 @@
         "HD",
         "LOW"
       ],
-      "id": "dcf866336d3e1ba16002"
+      "id": "4b9e132d0cf9c0e9f792"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
@@ -515,6 +535,26 @@
       "id": "4a396ff068445ebb5c8c"
     },
     {
+      "title": "Can Bitcoin hold US$61,256, or is US$60,000 the next stop?",
+      "url": "https://e27.co/can-bitcoin-hold-us61256-or-is-us60000-the-next-stop-20261120/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T02:53:04+00:00",
+      "fetched_at": "2026-11-20T02:55:00+00:00",
+      "summary": "The global market sell-off that accelerated on Friday, November 20, 2026, delivered a sharp reminder that Bitcoin now trades as a high-beta risk asset rather than an isolated store of value. Bitcoin fell 2.01 per cent to US$61,477.34 over 24 hours, closely tracking a 1.72 per cent decline in the broader crypto market and moving […] The post Can Bitcoin hold US$61,256, or is US$60,000 the next stop? appeared first on…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8758024fc2d184aae304"
+    },
+    {
       "title": "Improvements on the pull request overview in public preview",
       "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
       "source": "GitHub Changelog Atom",
@@ -541,8 +581,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T02:47:55+00:00",
-      "fetched_at": "2026-11-20T02:47:39+00:00",
+      "published_at": "2026-11-20T02:55:18+00:00",
+      "fetched_at": "2026-11-20T02:55:00+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -576,7 +616,27 @@
         "HD",
         "LOW"
       ],
-      "id": "dcf866336d3e1ba16002"
+      "id": "4b9e132d0cf9c0e9f792"
+    },
+    {
+      "title": "Can Bitcoin hold US$61,256, or is US$60,000 the next stop?",
+      "url": "https://e27.co/can-bitcoin-hold-us61256-or-is-us60000-the-next-stop-20261120/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T02:53:04+00:00",
+      "fetched_at": "2026-11-20T02:55:00+00:00",
+      "summary": "The global market sell-off that accelerated on Friday, November 20, 2026, delivered a sharp reminder that Bitcoin now trades as a high-beta risk asset rather than an isolated store of value. Bitcoin fell 2.01 per cent to US$61,477.34 over 24 hours, closely tracking a 1.72 per cent decline in the broader crypto market and moving […] The post Can Bitcoin hold US$61,256, or is US$60,000 the next stop? appeared first on…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8758024fc2d184aae304"
     }
   ],
   "source_errors": [],
