@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T19:03:29+00:00_
+_Generiert: 2026-11-20T19:23:34+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+62 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 耀威光電｜智能路燈管理系統 - SQL Injection
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Can AI help scientists identify promising drug candidates?** — Score 11, observation — [Quelle](https://openai.com/index/introducing-medchembench)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-20T00:00:00+00:00`, fetched `2026-11-20T19:23:06+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;** — Score 10, observation — [Quelle](https://blog.shibayu36.org/entry/2026/11/17/120000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-18T03:37:49+00:00`, fetched `2026-11-20T00:53:38+00:00`
@@ -249,15 +258,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Oracle Java SE (18 novembre 2026)** — Score 8, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1562/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-11-18T00:00:00+00:00`, fetched `2026-11-20T14:19:12+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -268,7 +268,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7a8f17184cd0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
