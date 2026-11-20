@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T12:43:34+00:00_
+_Generiert: 2026-11-20T12:50:56+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+47 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Every big AI lab now has a Singapore story. OpenAI chose the city-state for its first Applied AI Lab outside the US. Last month, Anthropic opened an office here and signed an AI safety testing pact with the government. Now Mistral AI, Europe’s best-known model maker, has gone a step further and made Singapore its […] The post After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (libXi, ghostscript): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4292)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-20T12:48:39+00:00`, fetched `2026-11-20T12:50:27+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen und einen Denial-of-Service-Zustand auszulösen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ecosystem Roundup: Singapore fintechs pour money into AI, but just 11 per cent run agents live** — Score 16, observation — [Quelle](https://e27.co/ecosystem-roundup-singapore-fintechs-pour-money-into-ai-but-just-11-per-cent-run-agents-live-20261120/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-20T09:33:38+00:00`, fetched `2026-11-20T09:36:10+00:00`
@@ -83,15 +92,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4145)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-20T07:47:00+00:00`, fetched `2026-11-20T07:50:07+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann eine Schwachstelle in PHP ausnutzen, um beliebigen Programmcode auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **We took founder bias out of the roadmap: Then our customers fired us** — Score 14, observation — [Quelle](https://e27.co/we-took-founder-bias-out-of-the-roadmap-then-our-customers-fired-us-20261120/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
