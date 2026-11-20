@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-20T07:57:39+00:00",
-    "fetched_at": "2026-11-20T07:58:40+00:00",
+    "published_at": "2026-11-20T08:07:11+00:00",
+    "fetched_at": "2026-11-20T08:06:53+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "9fe0f5eae95b3310f850"
+    "id": "2d90866e88d01937ff71"
   },
   {
     "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -155,6 +155,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3ae477544977a74d0ad2"
+  },
+  {
+    "title": "[UPDATE] [hoch] Wireshark: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4672",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-20T08:02:00+00:00",
+    "fetched_at": "2026-11-20T08:06:53+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "43e9525f3328719bd8e0"
   },
   {
     "title": "[UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung",
@@ -655,6 +678,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "14803055e6ada8b8fab1"
+  },
+  {
+    "title": "ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について",
+    "url": "https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-20T07:59:49+00:00",
+    "fetched_at": "2026-11-20T08:06:53+00:00",
+    "summary": "ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "df257da7838de3b51dd5"
   },
   {
     "title": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
