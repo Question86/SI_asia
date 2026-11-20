@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-20T03:45:59+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-11-20T03:55:11+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 11
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "Updates | ReliefWeb",
@@ -42,6 +42,16 @@
       "relevance_score": 15,
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "section": "medium"
+    },
+    {
+      "title": "Everful raises US$48.5M Series A to turn the overseas sourcing office into software",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T03:52:18+00:00",
+      "relevance_score": 14,
+      "url": "https://e27.co/everful-raises-us48-5m-series-a-to-turn-the-overseas-sourcing-office-into-software-20261120/",
+      "summary": "For decades, buying straight from a Chinese factory came with a hidden cost: a sourcing office in Shenzhen or Yiwu. That meant a few agents who spoke the language, chased samples, and knew which supplier was quietly cutting corners. Small retailers who could…",
       "section": "medium"
     },
     {

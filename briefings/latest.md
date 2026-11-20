@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T03:45:59+00:00_
+_Generiert: 2026-11-20T03:55:11+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+15 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); Security (+6.0); safety (+2.0); recent (+1.0)
   - Kurz: Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Everful raises US$48.5M Series A to turn the overseas sourcing office into software** — Score 14, observation — [Quelle](https://e27.co/everful-raises-us48-5m-series-a-to-turn-the-overseas-sourcing-office-into-software-20261120/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-20T03:52:18+00:00`, fetched `2026-11-20T03:54:33+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Watchgraph:agriculture_food_fertilizer
+  - Watchgraph: agriculture_food_fertilizer
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
+  - Kurz: For decades, buying straight from a Chinese factory came with a hidden cost: a sourcing office in Shenzhen or Yiwu. That meant a few agents who spoke the language, chased samples, and knew which supplier was quietly cutting corners. Small retailers who could not afford that office bought through middlemen instead, and paid for it […] The post Everful raises US$48.5M Series A to turn the overseas sourcing office into…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -198,3 +207,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `reliefweb_mindanao_recovery_watch` (webpage_check): HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=8)
