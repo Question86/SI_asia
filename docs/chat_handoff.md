@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T13:17:25+00:00_
+_Generated: 2026-11-20T13:26:54+00:00_
 
 ## Status
-- status: `warning`
-- findings: `49`
+- status: `normal`
+- findings: `51`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-20T13:17:05+00:00`
+- published: `2026-11-20T13:26:42+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-20T13:17:25+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v
 - summary: PAGER - GREEN ShakeMap - I Time 2026-11-20 00:49:13 UTC 2026-11-20 00:49:13 UTC at epicenter Location 24.702°S 171.160°E Depth 10.00 km (6.21 mi)
 
-### 8. Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks
-- source: e27 Asia Startup and Tech Feed
+### 8. Waller, Opening Remarks
+- source: Federal Reserve Speeches and Testimony
 - score: `12`
-- published: `2026-11-20T05:30:06+00:00`
-- url: https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/
-- summary: For most of this decade, Southeast Asia’s data centre operators asked prospective tenants a short list of questions: how many megawatts, how long a lease, how soon. Since November 16, that list has grown, and the question that matters most is no longer how mu…
+- published: `2026-11-20T13:25:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm
+- summary: Speech At the 2026 College Fed Challenge Finals, Board of Governors of the Federal Reserve System, Washington, D.C.
 
 END OF DOCUMENT
