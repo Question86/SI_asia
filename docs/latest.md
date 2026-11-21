@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-21T06:02:04+00:00_
+_Generiert: 2026-11-21T06:25:33+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+16 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-21T05:54:59+00:00`, fetched `2026-11-21T05:54:41+00:00`
+  - Zeit: published `2026-11-21T06:25:20+00:00`, fetched `2026-11-21T06:25:00+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -87,14 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな** — Score 5, observation — [Quelle](https://togetter.com/li/2773122)
+- **ソフトウェアファクトリーとコード設計と顧客価値** — Score 7, observation — [Quelle](https://kosui.me/posts/2026/11/15/code-design-after-agents)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-21T03:06:24+00:00`, fetched `2026-11-21T04:38:13+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-11-21T00:35:47+00:00`, fetched `2026-11-21T06:25:00+00:00`
+  - Treffer: agent, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 冬のビッグセール マンガ特集 対象作品多数！12/7まで最大70％割引き中 人気作が最大70％OFF イーロン・マスク イーロン・リーヴ・マスク（英語: Elon Reeve Musk、1971年6月28日 - ）は、南アフリカ共和国出身のアメリカ合衆国の起業家。2025年以降、第2次トランプ政権下で、公式には特別政… 73 users 361 Wikipedia
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: 横軸を時間とし、上段に人、下段にエージェントを置いた図です。人の指示、エージェントの実行、人の確認が交互に3回続きます。2回目と3回目の間に、人が離席している区間があります。この区間では、エージェントも停止しています。課題ごとに人の入力が必要です。 離席 人 課題ごとに人の入力が必要 エージェント 時間 ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
