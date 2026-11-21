@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-21T11:39:26+00:00_
+_Generiert: 2026-11-21T11:48:11+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,10 @@ _Generiert: 2026-11-21T11:39:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 50 thousand in MMI V.
-- **USGS earthquake M6.8 - 103 km NE of Lospalos, Timor Leste** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij)
+- **USGS earthquake M6.8 - 105 km NE of Lospalos, Timor Leste** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij)
   - Quelle: USGS
-  - Zeit: `2026-11-21T09:42:10+00:00`
-  - Kurz: M6.8 - 103 km NE of Lospalos, Timor Leste. PAGER alert: green. Tsunami flag: 0.
+  - Zeit: `2026-11-21T09:42:09+00:00`
+  - Kurz: M6.8 - 105 km NE of Lospalos, Timor Leste. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578540)
   - Quelle: GDACS
   - Zeit: ``
@@ -87,7 +87,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-21T11:24:23+00:00`, fetched `2026-11-21T11:24:06+00:00`
+  - Zeit: published `2026-11-21T11:47:59+00:00`, fetched `2026-11-21T11:47:39+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
