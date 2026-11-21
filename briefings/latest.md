@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-21T09:53:35+00:00_
+_Generiert: 2026-11-21T09:59:09+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-11-21T09:53:35+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-18`
   - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability
+- **USGS earthquake M6.8 - 103 km NE of Lospalos, Timor Leste** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij)
+  - Quelle: USGS
+  - Zeit: `2026-11-21T09:42:10+00:00`
+  - Kurz: M6.8 - 103 km NE of Lospalos, Timor Leste. PAGER alert: none. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578468)
   - Quelle: GDACS
   - Zeit: ``
@@ -83,7 +87,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-21T09:48:35+00:00`, fetched `2026-11-21T09:53:05+00:00`
+  - Zeit: published `2026-11-21T09:53:45+00:00`, fetched `2026-11-21T09:58:42+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
