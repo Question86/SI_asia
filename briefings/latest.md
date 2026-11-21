@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-21T03:33:59+00:00_
+_Generiert: 2026-11-21T03:50:23+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+13 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,7 +87,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-21T03:33:26+00:00`, fetched `2026-11-21T03:33:31+00:00`
+  - Zeit: published `2026-11-21T03:50:04+00:00`, fetched `2026-11-21T03:49:54+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -160,14 +160,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース** — Score 5, observation — [Quelle](https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9)
+- **【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン** — Score 5, observation — [Quelle](https://www.cnn.co.jp/usa/35255243.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-20T15:59:06+00:00`, fetched `2026-11-21T01:28:44+00:00`
+  - Zeit: published `2026-11-21T00:39:32+00:00`, fetched `2026-11-21T03:49:54+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ZOZOのロゴ（出典：ZOZO）（ビジネス+IT） ZOZOは11月20日、外部サービス「KARTE」への不正アクセスにより、ZOZOTOWN会員（退会者含む）約1,518万人とWEAR by ZOZO会員約1,393万人の情報が漏えいしたと発表した。うち約4.7万人は電話番号とメールアドレスも対象。パスワードとクレジットカード情報は漏えいしておらず、...
+  - Kurz: ニューヨーク市で開催された「2026年ディールブック・サミット」にオンライン参加したマスク氏。ニューヨーク・タイムズの金融コラムニスト、アンドリュー・ロス・ソーキン氏と対談した＝11月18日/Spencer Platt/Getty Images （CNN） 米実業家イーロン・マスク氏は18日、トランプ米大統領に背を向ける、ずいぶん弱腰な...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

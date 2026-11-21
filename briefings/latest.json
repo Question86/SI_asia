@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T03:33:59+00:00",
-  "run_id": "2026-11-21T03:33:59+00:00",
+  "generated_at": "2026-11-21T03:50:23+00:00",
+  "run_id": "2026-11-21T03:50:23+00:00",
   "date": "2026-11-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 2,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 3,
-    "observe": 9,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-21T03:33:26+00:00",
-        "fetched_at": "2026-11-21T03:33:31+00:00",
+        "published_at": "2026-11-21T03:50:04+00:00",
+        "fetched_at": "2026-11-21T03:49:54+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "3701d4bbc1afd60363f2"
+        "id": "64625ccabd4a077dcd3b"
       },
       {
         "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -310,6 +310,27 @@
         "id": "16b598f73ecfdaa4b4a3"
       },
       {
+        "title": "【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン",
+        "url": "https://www.cnn.co.jp/usa/35255243.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-21T00:39:32+00:00",
+        "fetched_at": "2026-11-21T03:49:54+00:00",
+        "summary": "ニューヨーク市で開催された「2026年ディールブック・サミット」にオンライン参加したマスク氏。ニューヨーク・タイムズの金融コラムニスト、アンドリュー・ロス・ソーキン氏と対談した＝11月18日/Spencer Platt/Getty Images （CNN） 米実業家イーロン・マスク氏は18日、トランプ米大統領に背を向ける、ずいぶん弱腰な...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "70185f2eac55a503590c"
+      },
+      {
         "title": "ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
         "source": "Hatena Bookmark Hotentry IT",
@@ -401,8 +422,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T03:33:26+00:00",
-      "fetched_at": "2026-11-21T03:33:31+00:00",
+      "published_at": "2026-11-21T03:50:04+00:00",
+      "fetched_at": "2026-11-21T03:49:54+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -436,7 +457,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3701d4bbc1afd60363f2"
+      "id": "64625ccabd4a077dcd3b"
     },
     {
       "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -675,6 +696,27 @@
       "id": "16b598f73ecfdaa4b4a3"
     },
     {
+      "title": "【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン",
+      "url": "https://www.cnn.co.jp/usa/35255243.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-21T00:39:32+00:00",
+      "fetched_at": "2026-11-21T03:49:54+00:00",
+      "summary": "ニューヨーク市で開催された「2026年ディールブック・サミット」にオンライン参加したマスク氏。ニューヨーク・タイムズの金融コラムニスト、アンドリュー・ロス・ソーキン氏と対談した＝11月18日/Spencer Platt/Getty Images （CNN） 米実業家イーロン・マスク氏は18日、トランプ米大統領に背を向ける、ずいぶん弱腰な...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "70185f2eac55a503590c"
+    },
+    {
       "title": "ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
       "source": "Hatena Bookmark Hotentry IT",
@@ -765,8 +807,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T03:33:26+00:00",
-      "fetched_at": "2026-11-21T03:33:31+00:00",
+      "published_at": "2026-11-21T03:50:04+00:00",
+      "fetched_at": "2026-11-21T03:49:54+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -800,7 +842,28 @@
         "HD",
         "LOW"
       ],
-      "id": "3701d4bbc1afd60363f2"
+      "id": "64625ccabd4a077dcd3b"
+    },
+    {
+      "title": "【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン",
+      "url": "https://www.cnn.co.jp/usa/35255243.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-21T00:39:32+00:00",
+      "fetched_at": "2026-11-21T03:49:54+00:00",
+      "summary": "ニューヨーク市で開催された「2026年ディールブック・サミット」にオンライン参加したマスク氏。ニューヨーク・タイムズの金融コラムニスト、アンドリュー・ロス・ソーキン氏と対談した＝11月18日/Spencer Platt/Getty Images （CNN） 米実業家イーロン・マスク氏は18日、トランプ米大統領に背を向ける、ずいぶん弱腰な...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "70185f2eac55a503590c"
     }
   ],
   "source_errors": [],
