@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-21T01:20:44+00:00_
+_Generated: 2026-11-21T01:29:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-21T01:14:38+00:00`
+- published: `2026-11-21T01:28:59+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -36,18 +36,18 @@ _Generated: 2026-11-21T01:20:44+00:00_
 - url: https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/
 - summary: 2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform...
 
-### 5. モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス
+### 5. ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-11-20T15:59:06+00:00`
+- url: https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9
+- summary: ZOZOのロゴ（出典：ZOZO）（ビジネス+IT） ZOZOは11月20日、外部サービス「KARTE」への不正アクセスにより、ZOZOTOWN会員（退会者含む）約1,518万人とWEAR by ZOZO会員約1,393万人の情報が漏えいしたと発表した。うち約4.7万人は電話番号とメールアドレスも対象。パスワードとクレジットカード情報は漏えいしておらず、...
+
+### 6. モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-11-20T15:27:05+00:00`
 - url: https://note.com/kajinari/n/n19c73d819b14
 - summary: おはようございます！こんにちは！おやすみなさい！NOTA で Corp IT（情シス）を担当している kajinari です。 この 1 年で、Corp IT の日々の運用作業のほとんどを Claude の Skill として定義しました。アカウントの発行、クラウドサービス権限の付与、クラウドサービスの設定変更、PC や iPhone の手配、Zoom Phone ...
-
-### 6. 1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-11-20T14:31:09+00:00`
-- url: https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/
-- summary: 中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。 FM-1はアリエクなどを覗くと、だいたい1万円以下で買えるガジェットシンセ。音源方式はFMで、6オペレーター、32アルゴリズム、同時発音数12とシンプ...
 
 END OF DOCUMENT
