@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T00:54:27+00:00",
+  "generated_at": "2026-11-21T00:59:17+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2904,9 +2904,8 @@
     },
     "domain:gigazine.net": {
       "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
-      "updated_at": "2026-11-21T00:54:27+00:00",
+      "updated_at": "2026-11-21T00:59:17+00:00",
       "network_scores": [
-        10.1,
         10.1,
         10.1,
         10.1,
@@ -2935,6 +2934,7 @@
         7.1,
         7.1,
         13.1,
+        10.1,
         10.1
       ],
       "rolling_average": 10.7,
@@ -4799,7 +4799,7 @@
     },
     "earthquake:updates | reliefweb:unknown": {
       "title": "Updates | ReliefWeb",
-      "updated_at": "2026-11-21T00:54:27+00:00",
+      "updated_at": "2026-11-21T00:59:17+00:00",
       "network_scores": [
         25.7,
         25.7,
@@ -10376,7 +10376,7 @@
     },
     "domain:note.com": {
       "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
-      "updated_at": "2026-11-21T00:54:27+00:00",
+      "updated_at": "2026-11-21T00:59:17+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -10406,13 +10406,13 @@
         7.1,
         7.1,
         7.1,
-        7.1,
-        10.1
+        10.1,
+        7.1
       ],
       "rolling_average": 7.2,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 2.9
+      "last_score": 7.1,
+      "z_hint": -0.1
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -128629,27 +128629,40 @@
     },
     "earthquake:m 6.7 - 9 km ne of carhuamayo, peru:6.7": {
       "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
-      "updated_at": "2026-11-21T00:54:27+00:00",
+      "updated_at": "2026-11-21T00:59:17+00:00",
       "network_scores": [
         20.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 19.2,
+      "rolling_average": 18.7,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:karte": {
       "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
-      "updated_at": "2026-11-21T00:54:27+00:00",
+      "updated_at": "2026-11-21T00:59:17+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "url:https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/": {
+      "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
+      "updated_at": "2026-11-21T00:59:17+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }

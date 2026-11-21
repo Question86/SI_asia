@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-21T00:54:24+00:00_
+_Generated: 2026-11-21T00:59:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
@@ -36,7 +36,14 @@ _Generated: 2026-11-21T00:54:24+00:00_
 - url: https://note.com/kajinari/n/n19c73d819b14
 - summary: おはようございます！こんにちは！おやすみなさい！NOTA で Corp IT（情シス）を担当している kajinari です。 この 1 年で、Corp IT の日々の運用作業のほとんどを Claude の Skill として定義しました。アカウントの発行、クラウドサービス権限の付与、クラウドサービスの設定変更、PC や iPhone の手配、Zoom Phone ...
 
-### 5. 「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ
+### 5. 1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-11-20T14:31:09+00:00`
+- url: https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/
+- summary: 中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。 FM-1はアリエクなどを覗くと、だいたい1万円以下で買えるガジェットシンセ。音源方式はFMで、6オペレーター、32アルゴリズム、同時発音数12とシンプ...
+
+### 6. 「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-11-20T06:33:24+00:00`
