@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-21T02:38:04+00:00",
+  "generated_at": "2026-11-21T02:51:38+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 2,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 3,
-    "observe": 8
+    "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T02:32:51+00:00",
+      "published_at": "2026-11-21T02:47:28+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -68,20 +68,20 @@
       "title": "M 4.9 - Reykjanes Ridge",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
+      "published_at": "2026-11-21T02:40:24.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
+      "summary": "Time 2026-11-21 02:24:37 UTC 2026-11-21 02:24:37 UTC at epicenter Location 58.546°N 31.857°W Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "M 4.9 - Reykjanes Ridge",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
       "published_at": "2026-11-21T01:46:29.040+00:00",
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
       "summary": "Time 2026-11-21 01:26:19 UTC 2026-11-21 01:26:19 UTC at epicenter Location 58.302°N 31.761°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-20T04:45:14+00:00",
-      "relevance_score": 8,
-      "url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
-      "summary": "2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform...",
       "section": "observe"
     }
   ],

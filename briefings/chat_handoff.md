@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-21T02:38:04+00:00_
+_Generated: 2026-11-21T02:51:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `12`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-21T02:32:51+00:00`
+- published: `2026-11-21T02:47:28+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -46,15 +46,15 @@ _Generated: 2026-11-21T02:38:04+00:00_
 ### 6. M 4.9 - Reykjanes Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
+- published: `2026-11-21T02:40:24.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj
+- summary: Time 2026-11-21 02:24:37 UTC 2026-11-21 02:24:37 UTC at epicenter Location 58.546°N 31.857°W Depth 10.00 km (6.21 mi)
+
+### 7. M 4.9 - Reykjanes Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
 - published: `2026-11-21T01:46:29.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga
 - summary: Time 2026-11-21 01:26:19 UTC 2026-11-21 01:26:19 UTC at epicenter Location 58.302°N 31.761°W Depth 10.00 km (6.21 mi)
-
-### 7. MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-11-20T04:45:14+00:00`
-- url: https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/
-- summary: 2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform...
 
 END OF DOCUMENT
