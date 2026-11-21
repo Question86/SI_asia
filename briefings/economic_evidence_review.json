@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T00:04:31+00:00",
+  "generated_at": "2026-11-21T00:37:05+00:00",
   "fx_as_of": null,
-  "candidate_count": 3239,
+  "candidate_count": 3242,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 3239
+    "pending": 3242
   },
   "coverage_warning": null,
   "candidates": [
@@ -44208,6 +44208,48 @@
       "source_url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
     },
     {
+      "amount_native": 300.0,
+      "amount_usd": 300.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_6683a708e5636cd8386b",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_286c3df7e2f2f93926a3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-21T00:37:05+00:00",
+      "overlap_group_suggestion": "evt_286c3df7e2f2f93926a3:real_resource:7b6fe98f617d",
+      "review_status": "pending",
+      "snippet": "m to Boost AI Hardware Business — The Information https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business Meta's new Muse Charm device may cost $300 | TechCrunch https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/ Meta’s Muse Charm might cost $300 | The Verge https://www.theverge.com/tech/1038087/meta-m",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 300.0,
+      "amount_usd": 300.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_d0310c5336eb13544200",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_286c3df7e2f2f93926a3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-21T00:37:05+00:00",
+      "overlap_group_suggestion": "evt_286c3df7e2f2f93926a3:real_resource:91ea9d0178a2",
+      "review_status": "pending",
+      "snippet": "-hardware-business Meta's new Muse Charm device may cost $300 | TechCrunch https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/ Meta’s Muse Charm might cost $300 | The Verge https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price 「Muse Charm」は2026年9月がMetaが正式に発表したデバイスで、大きさは42mm×11mm、重さは34gのキーチェーン型。小さな円形ディスプレイやカメラ、マイク、スピーカー、通信機能を搭載してい",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 250.0,
       "amount_usd": 250.0,
       "attribution_probability": null,
@@ -53232,6 +53274,27 @@
       "snippet": "The schedule just launched! The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. Ariel Kanter From coder to orchestrator: How agents shift the role of a developer Developers are owning more of the delivery system around code, not just code itself. Join us dur",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/"
+    },
+    {
+      "amount_native": 300.0,
+      "amount_usd": 300.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_e4612480e79ec07a2e15",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_286c3df7e2f2f93926a3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-11-21T00:37:05+00:00",
+      "overlap_group_suggestion": "evt_286c3df7e2f2f93926a3:unknown:42aa685b7aeb",
+      "review_status": "pending",
+      "snippet": "デバイス「Muse Charm」の価格は4万円台か 2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「 Muse Charm 」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Information https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business Meta's new Muse Charm device",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 299.0,
