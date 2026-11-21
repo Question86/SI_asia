@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-11-21T13:45:52+00:00`
+Generated: `2026-11-21T13:54:42+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -19,6 +19,7 @@ Generated: `2026-11-21T13:45:52+00:00`
 | Shopwareにおけるクロスサイトスクリプティングの脆弱性 | vulnerability, conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | npm extends recovery-code security holds to all accounts | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
+| GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make. | regulation, conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | Passing 1.5°C global warming: Performative ESG is no longer acceptable | conflict | $114.40M | $11.44B | $1.14T | 0.31 |
 | Headlines that broke the script: The warning signs were inside the building — Part 1 | conflict | $114.40M | $11.44B | $1.14T | 0.31 |
 | 10 technical talks I’m excited about at GitHub Universe 2026 | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-11-21T13:45:52+00:00`
 | Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | M 5.1 - 34 km NNW of Bāgeshwar, India | natural_disaster, conflict | $112.80M | $11.28B | $1.13T | 0.33 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
-| Faster type-aware linting with tsrs | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 
 ## Interpretation
 
