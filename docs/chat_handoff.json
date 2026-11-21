@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-21T00:59:14+00:00",
+  "generated_at": "2026-11-21T01:14:49+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 2,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 2,
-    "observe": 4
+    "observe": 5
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T00:53:50+00:00",
+      "published_at": "2026-11-21T01:14:38+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -33,6 +33,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-11-21 00:09:19 UTC 2026-11-21 00:09:19 UTC at epicenter Location 10.855°S 75.978°W Depth 107.99 km (67.10 mi)",
       "section": "medium"
+    },
+    {
+      "title": "Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-20T23:02:01+00:00",
+      "relevance_score": 10,
+      "url": "https://japan.cnet.com/article/35255245/",
+      "summary": "米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。",
+      "section": "observe"
     },
     {
       "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
@@ -62,16 +72,6 @@
       "relevance_score": 5,
       "url": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
       "summary": "中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。 FM-1はアリエクなどを覗くと、だいたい1万円以下で買えるガジェットシンセ。音源方式はFMで、6オペレーター、32アルゴリズム、同時発音数12とシンプ...",
-      "section": "observe"
-    },
-    {
-      "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-20T06:33:24+00:00",
-      "relevance_score": 5,
-      "url": "https://plaid.co.jp/news/20261120/",
-      "summary": "2026年11月13日に発生した、株式会社プレイド（本社：東京都中央区、代表取締役CEO：倉橋 健太）が提供する「KARTE」への不正アクセスについて、影響範囲および漏えいした情報を特定する当社における調査結果をお知らせいたします。あわせて、「KARTEのサービス再開の見通し」「サービス停止期間のKARTE利用料金の取り扱...",
       "section": "observe"
     }
   ],

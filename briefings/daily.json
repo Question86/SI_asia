@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T00:59:17+00:00",
-  "today_file_total": 6,
+  "generated_at": "2026-11-21T01:14:52+00:00",
+  "today_file_total": 7,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -53,6 +53,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:japan.cnet.com",
+      "title": "Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://japan.cnet.com/article/35255245/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:gigazine.net",
       "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
       "sources": [
@@ -76,29 +99,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "url:https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
-      "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:note.com",
       "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
       "sources": [
@@ -109,6 +109,29 @@
       ],
       "urls": [
         "https://note.com/kajinari/n/n19c73d819b14"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
+      "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/"
       ],
       "finding_count": 1,
       "max_score": 5,
