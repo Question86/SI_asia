@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-21T04:51:15Z",
+  "generated_at": "2026-11-21T05:11:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Updates | ReliefWeb” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 154.72,
+      "age_days": 154.74,
       "topics": [
         "general"
       ],
@@ -42,7 +42,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-21T04:34:13+00:00",
+      "published_at": "2026-11-21T04:56:31+00:00",
       "age_days": 0.01,
       "topics": [
         "ai",
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T00:34:36.732+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T00:36:41+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -121,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T02:40:24.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -146,7 +146,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T01:46:29.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -171,23 +171,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T02:02:39+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.71,
+      "dynamics_score": 16.7,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.3,
+      "baseline_z_hint": 0.28,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.30"
+        "baseline z_hint 0.28"
       ],
       "summary": ""
     },
@@ -196,7 +196,7 @@
       "url": "https://www.cnn.co.jp/usa/35255243.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T03:50:26+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -220,7 +220,7 @@
       "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T01:29:20+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -244,7 +244,7 @@
       "url": "https://plaid.co.jp/news/20261120/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T00:36:41+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -268,7 +268,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T01:34:16.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -292,7 +292,7 @@
       "url": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T14:35:51+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "macro"
