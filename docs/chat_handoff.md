@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-21T13:45:26+00:00_
+_Generated: 2026-11-21T13:54:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `22`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-21T13:45:13+00:00`
+- published: `2026-11-21T13:54:03+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -29,28 +29,35 @@ _Generated: 2026-11-21T13:45:26+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm
 - summary: PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-11-21 00:09:19 UTC 2026-11-21 00:09:19 UTC at epicenter Location 10.855°S 75.978°W Depth 107.99 km (67.10 mi)
 
-### 4. M 5.9 - 238 km SW of Yanglong, China
+### 4. GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.
+- source: Hatena Bookmark Hotentry IT
+- score: `14`
+- published: `2026-11-21T10:52:10+00:00`
+- url: https://github.com/mitaku/andon
+- summary: Andon — a one-person software factory. AI coding agents take issues from a ledger through implementation, review and merge, and the human is called only for the decisions that only they can make. 一人で使うソフトウェア工場。エージェントが kanban の課題を実装・レビュー・マージまで流し、オーナーは...
+
+### 5. M 5.9 - 238 km SW of Yanglong, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-11-21T11:05:17.572+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly
 - summary: ShakeMap - VII Time 2026-11-21 10:45:33 UTC 2026-11-21 10:45:33 UTC at epicenter Location 37.196°N 96.640°E Depth 10.00 km (6.21 mi)
 
-### 5. M 5.0 - 0 km NE of Carhuamayo, Peru
+### 6. M 5.0 - 0 km NE of Carhuamayo, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-11-21T05:24:38.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd
 - summary: Time 2026-11-21 05:12:04 UTC 2026-11-21 05:12:04 UTC at epicenter Location 10.913°S 76.031°W Depth 110.93 km (68.93 mi)
 
-### 6. M 4.7 - 38 km NE of Calama, Chile
+### 7. M 4.7 - 38 km NE of Calama, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-11-21T01:34:16.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8
 - summary: Time 2026-11-21 01:24:09 UTC 2026-11-21 01:24:09 UTC at epicenter Location 22.231°S 68.641°W Depth 120.01 km (74.57 mi)
 
-### 7. 「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止 - 日本経済新聞
+### 8. 「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止 - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-11-21T00:21:00+00:00`
