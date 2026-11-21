@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-21T00:25:20Z",
+  "generated_at": "2026-11-21T01:52:26Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Updates | ReliefWeb” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 154.54,
+      "age_days": 154.6,
       "topics": [
         "general"
       ],
@@ -33,7 +33,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 154.5d old signal",
+        "aging penalty -8.0 for 154.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -42,8 +42,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-20T23:53:53+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-11-21T01:43:48+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -66,6 +66,254 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
+    },
+    {
+      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-21T00:34:36.732+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-11-21 00:09:19 UTC 2026-11-21 00:09:19 UTC at epicenter Location 10.855°S 75.978°W Depth 107.99 km (67.10 mi)"
+    },
+    {
+      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-21T00:36:41+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
+      "url": "https://plaid.co.jp/news/20261120/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-21T00:36:41+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.7 - 38 km NE of Calama, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-21T01:34:16.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-11-21 01:24:09 UTC 2026-11-21 01:24:09 UTC at epicenter Location 22.231°S 68.641°W Depth 120.01 km (74.57 mi)"
+    },
+    {
+      "title": "ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-21T01:29:20+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.7 - 38 km NE of Calama, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-30T05:39:01+00:00",
+      "age_days": 82.84,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 82.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-20T15:59:06+00:00",
+      "age_days": 0.41,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "ZOZOのロゴ（出典：ZOZO）（ビジネス+IT） ZOZOは11月20日、外部サービス「KARTE」への不正アクセスにより、ZOZOTOWN会員（退会者含む）約1,518万人とWEAR by ZOZO会員約1,393万人の情報が漏えいしたと発表した。うち約4.7万人は電話番号とメールアドレスも対象。パスワードとクレジットカード情報は漏えいしておらず、..."
+    },
+    {
+      "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
+      "url": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-21T00:59:17+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ",
+      "url": "https://japan.cnet.com/article/35255245/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T09:22:22+00:00",
+      "age_days": 154.69,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 154.7d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ",
+      "url": "https://japan.cnet.com/article/35255245/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-20T23:02:01+00:00",
+      "age_days": 0.12,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。"
     }
   ],
   "read_order": [
@@ -77,7 +325,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 2
+      "strong": 4,
+      "watch": 2,
+      "quiet": 6
     }
   }
 }
