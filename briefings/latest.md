@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-21T11:24:34+00:00_
+_Generiert: 2026-11-21T11:30:50+00:00_
 
 ## Kurzlage
 
@@ -13,10 +13,6 @@ _Generiert: 2026-11-21T11:24:34+00:00_
   - Quelle: USGS
   - Zeit: `2026-11-21T00:09:19+00:00`
   - Kurz: M6.7 - 9 km NE of Carhuamayo, Peru. PAGER alert: green. Tsunami flag: 1.
-- **USGS earthquake M3.9 - 1 km NW of Commerce, CA** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111)
-  - Quelle: USGS
-  - Zeit: `2026-11-20T11:25:35+00:00`
-  - Kurz: M3.9 - 1 km NW of Commerce, CA. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-129448 Apache Roller** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-20`
@@ -69,6 +65,10 @@ _Generiert: 2026-11-21T11:24:34+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577911)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.
 
 ## Wirtschaft global
 

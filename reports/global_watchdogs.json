@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:24:37+00:00",
+  "generated_at": "2026-11-21T11:30:53+00:00",
   "sections": {
     "global_security": [
       {
@@ -14,21 +14,6 @@
           "mag": 6.7,
           "alert": "green",
           "sig": 747.0,
-          "tsunami": 1
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "USGS earthquake M3.9 - 1 km NW of Commerce, CA",
-        "summary": "M3.9 - 1 km NW of Commerce, CA. PAGER alert: green. Tsunami flag: 1.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
-        "published_at": "2026-11-20T11:25:35+00:00",
-        "metrics": {
-          "mag": 3.94,
-          "alert": "green",
-          "sig": 639.0,
           "tsunami": 1
         }
       },
@@ -174,6 +159,16 @@
         "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577920",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577911",
         "published_at": "",
         "metrics": {}
       }
