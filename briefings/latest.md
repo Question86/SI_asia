@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-21T11:55:27+00:00_
+_Generiert: 2026-11-21T12:02:42+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-11-21T11:55:27+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-18`
   - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 50 thousand in MMI V.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578530)
+- **GDACS: Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 70 thousand in MMI V.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578530)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 50 thousand in MMI V.
+  - Kurz: Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 70 thousand in MMI V.
 - **USGS earthquake M6.8 - 105 km NE of Lospalos, Timor Leste** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij)
   - Quelle: USGS
   - Zeit: `2026-11-21T09:42:09+00:00`
@@ -87,7 +87,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-21T11:53:50+00:00`, fetched `2026-11-21T11:54:59+00:00`
+  - Zeit: published `2026-11-21T12:02:26+00:00`, fetched `2026-11-21T12:02:09+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
