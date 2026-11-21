@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-21T01:52:26Z",
+  "generated_at": "2026-11-21T03:38:01Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 18,
+    "dynamics": 23,
     "bands": {
       "strong": 4,
-      "watch": 2,
+      "watch": 7,
       "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 2,
+      "watch": 7,
       "quiet": 12
     }
   },
@@ -22,7 +22,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 154.6,
+      "age_days": 154.67,
       "topics": [
         "general"
       ],
@@ -40,7 +40,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 154.6d old signal",
+        "aging penalty -8.0 for 154.7d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -49,8 +49,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-21T01:43:48+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-11-21T03:33:26+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -79,7 +79,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T00:34:36.732+00:00",
-      "age_days": 0.05,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -104,7 +104,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T00:36:41+00:00",
-      "age_days": 0.05,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -124,11 +124,110 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-21T02:40:24.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-21 02:24:37 UTC 2026-11-21 02:24:37 UTC at epicenter Location 58.546°N 31.857°W Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.9 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-21T01:46:29.040+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-21 01:26:19 UTC 2026-11-21 01:26:19 UTC at epicenter Location 58.302°N 31.761°W Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.9 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-21T02:02:39+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.87,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.53,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 0.53"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-21T01:29:20+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
       "url": "https://plaid.co.jp/news/20261120/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T00:36:41+00:00",
-      "age_days": 0.05,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -152,7 +251,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T01:34:16.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -172,26 +271,57 @@
       "summary": "Time 2026-11-21 01:24:09 UTC 2026-11-21 01:24:09 UTC at epicenter Location 22.231°S 68.641°W Depth 120.01 km (74.57 mi)"
     },
     {
-      "title": "ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
+      "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
+      "url": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-21T01:29:20+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-11-20T14:35:51+00:00",
+      "age_days": 0.54,
       "topics": [
-        "general"
+        "ai",
+        "macro"
       ],
-      "dynamics_score": 11.5,
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本..."
+    },
+    {
+      "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
+      "url": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-06T03:10:58+00:00",
+      "age_days": 46.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.33,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.12,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3",
+        "baseline z_hint 2.12",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 46.0d old signal",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -200,7 +330,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T05:39:01+00:00",
-      "age_days": 82.84,
+      "age_days": 82.92,
       "topics": [
         "general"
       ],
@@ -216,7 +346,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 82.8d old signal"
+        "aging penalty -8.0 for 82.9d old signal"
       ],
       "summary": ""
     },
@@ -225,7 +355,7 @@
       "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T15:59:06+00:00",
-      "age_days": 0.41,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -249,7 +379,7 @@
       "url": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T00:59:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -275,7 +405,7 @@
       "url": "https://japan.cnet.com/article/35255245/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 154.69,
+      "age_days": 154.76,
       "topics": [
         "ai"
       ],
@@ -292,7 +422,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 154.7d old signal",
+        "aging penalty -8.0 for 154.8d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -302,7 +432,7 @@
       "url": "https://japan.cnet.com/article/35255245/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T23:02:01+00:00",
-      "age_days": 0.12,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -327,7 +457,7 @@
       "url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 155.0,
+      "age_days": 155.07,
       "topics": [
         "ai"
       ],
@@ -344,7 +474,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 155.0d old signal",
+        "aging penalty -8.0 for 155.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -354,7 +484,7 @@
       "url": "https://note.com/kajinari/n/n19c73d819b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 81.3,
+      "age_days": 81.37,
       "topics": [
         "ai"
       ],
@@ -371,7 +501,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 81.3d old signal",
+        "aging penalty -8.0 for 81.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -381,7 +511,7 @@
       "url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T04:45:14+00:00",
-      "age_days": 0.88,
+      "age_days": 0.95,
       "topics": [
         "ai"
       ],
@@ -406,7 +536,7 @@
       "url": "https://note.com/kajinari/n/n19c73d819b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T15:27:05+00:00",
-      "age_days": 0.43,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -431,7 +561,7 @@
       "url": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T14:31:09+00:00",
-      "age_days": 0.47,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -456,7 +586,7 @@
       "url": "https://plaid.co.jp/news/20261120/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T06:33:24+00:00",
-      "age_days": 0.8,
+      "age_days": 0.88,
       "topics": [
         "ai"
       ],
