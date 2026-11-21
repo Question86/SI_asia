@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-21T07:32:01+00:00_
+_Generated: 2026-11-21T07:40:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-21T07:17:39+00:00`
+- published: `2026-11-21T07:39:55+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,11 +50,11 @@ _Generated: 2026-11-21T07:32:01+00:00_
 - url: https://japan.cnet.com/article/35255245/
 - summary: 米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。
 
-### 7. M 4.9 - Reykjanes Ridge
+### 7. M 4.9 - 65 km NNW of Port-Vila, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-11-21T02:40:24.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj
-- summary: Time 2026-11-21 02:24:37 UTC 2026-11-21 02:24:37 UTC at epicenter Location 58.546°N 31.857°W Depth 10.00 km (6.21 mi)
+- published: `2026-11-21T07:35:51.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uci2
+- summary: Time 2026-11-21 07:20:44 UTC 2026-11-21 07:20:44 UTC at epicenter Location 17.179°S 168.100°E Depth 43.23 km (26.86 mi)
 
 END OF DOCUMENT
