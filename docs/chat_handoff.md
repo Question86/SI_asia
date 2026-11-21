@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-21T11:06:44+00:00_
+_Generated: 2026-11-21T11:14:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-21T11:06:32+00:00`
+- published: `2026-11-21T11:10:13+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,11 +50,11 @@ _Generated: 2026-11-21T11:06:44+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8
 - summary: Time 2026-11-21 01:24:09 UTC 2026-11-21 01:24:09 UTC at epicenter Location 22.231°S 68.641°W Depth 120.01 km (74.57 mi)
 
-### 7. Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ
+### 7. 「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止 - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
-- published: `2026-11-20T23:02:01+00:00`
-- url: https://japan.cnet.com/article/35255245/
-- summary: 米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。
+- published: `2026-11-21T00:21:00+00:00`
+- url: https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/
+- summary: 【ニューヨーク=西邨紘子、シリコンバレー=伴正春】米国の銀行や空港でシステム障害が相次ぐ。原因は個別に異なるものの、大きな背景には人工知能（AI）が膨大な脆弱性を見つけ、パッチ（修正）適用や更新を急がざるを得ない事情がある。日本のインフラも同様のリスクを抱える。マイクロソフト、チェース、ユナイテッド...
 
 END OF DOCUMENT

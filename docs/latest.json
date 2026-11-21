@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T11:06:44+00:00",
-  "run_id": "2026-11-21T11:06:44+00:00",
+  "generated_at": "2026-11-21T11:14:31+00:00",
+  "run_id": "2026-11-21T11:14:31+00:00",
   "date": "2026-11-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 3,
-    "observe": 17,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-21T11:06:32+00:00",
-        "fetched_at": "2026-11-21T11:06:14+00:00",
+        "published_at": "2026-11-21T11:10:13+00:00",
+        "fetched_at": "2026-11-21T11:14:04+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "3cc1c3c2e1bcc16eb645"
+        "id": "d35351a126f1b9b43858"
       },
       {
         "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -265,6 +265,28 @@
           "LOW"
         ],
         "id": "acb00d2d1b36810b687a"
+      },
+      {
+        "title": "「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-21T00:21:00+00:00",
+        "fetched_at": "2026-11-21T11:14:04+00:00",
+        "summary": "【ニューヨーク=西邨紘子、シリコンバレー=伴正春】米国の銀行や空港でシステム障害が相次ぐ。原因は個別に異なるものの、大きな背景には人工知能（AI）が膨大な脆弱性を見つけ、パッチ（修正）適用や更新を急がざるを得ない事情がある。日本のインフラも同様のリスクを抱える。マイクロソフト、チェース、ユナイテッド...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b7c04def0f1fc947087f"
       },
       {
         "title": "Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ",
@@ -631,8 +653,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T11:06:32+00:00",
-      "fetched_at": "2026-11-21T11:06:14+00:00",
+      "published_at": "2026-11-21T11:10:13+00:00",
+      "fetched_at": "2026-11-21T11:14:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -666,7 +688,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3cc1c3c2e1bcc16eb645"
+      "id": "d35351a126f1b9b43858"
     },
     {
       "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -860,6 +882,28 @@
         "LOW"
       ],
       "id": "acb00d2d1b36810b687a"
+    },
+    {
+      "title": "「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-21T00:21:00+00:00",
+      "fetched_at": "2026-11-21T11:14:04+00:00",
+      "summary": "【ニューヨーク=西邨紘子、シリコンバレー=伴正春】米国の銀行や空港でシステム障害が相次ぐ。原因は個別に異なるものの、大きな背景には人工知能（AI）が膨大な脆弱性を見つけ、パッチ（修正）適用や更新を急がざるを得ない事情がある。日本のインフラも同様のリスクを抱える。マイクロソフト、チェース、ユナイテッド...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b7c04def0f1fc947087f"
     },
     {
       "title": "Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ",
@@ -1225,8 +1269,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T11:06:32+00:00",
-      "fetched_at": "2026-11-21T11:06:14+00:00",
+      "published_at": "2026-11-21T11:10:13+00:00",
+      "fetched_at": "2026-11-21T11:14:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1260,44 +1304,29 @@
         "HD",
         "LOW"
       ],
-      "id": "3cc1c3c2e1bcc16eb645"
+      "id": "d35351a126f1b9b43858"
     },
     {
-      "title": "M 5.9 - 238 km SW of Yanglong, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-21T11:05:17.572+00:00",
-      "fetched_at": "2026-11-21T11:06:14+00:00",
-      "summary": "ShakeMap - VII Time 2026-11-21 10:45:33 UTC 2026-11-21 10:45:33 UTC at epicenter Location 37.196°N 96.640°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-11-21T00:21:00+00:00",
+      "fetched_at": "2026-11-21T11:14:04+00:00",
+      "summary": "【ニューヨーク=西邨紘子、シリコンバレー=伴正春】米国の銀行や空港でシステム障害が相次ぐ。原因は個別に異なるものの、大きな背景には人工知能（AI）が膨大な脆弱性を見つけ、パッチ（修正）適用や更新を急がざるを得ない事情がある。日本のインフラも同様のリスクを抱える。マイクロソフト、チェース、ユナイテッド...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
+        "AI/KI",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "9a091d72efe0b16699f9"
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b7c04def0f1fc947087f"
     }
   ],
   "source_errors": [],
