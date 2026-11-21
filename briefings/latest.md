@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-21T06:46:59+00:00_
+_Generiert: 2026-11-21T07:03:27+00:00_
 
 ## Kurzlage
 
@@ -17,10 +17,6 @@ _Generiert: 2026-11-21T06:46:59+00:00_
   - Quelle: USGS
   - Zeit: `2026-11-20T11:25:35+00:00`
   - Kurz: M3.9 - 1 km NW of Commerce, CA. PAGER alert: green. Tsunami flag: 1.
-- **USGS earthquake M5.0 - 10 km NW of Pinnacles, CA** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702)
-  - Quelle: USGS
-  - Zeit: `2026-11-20T06:49:16+00:00`
-  - Kurz: M5.0 - 10 km NW of Pinnacles, CA. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-129448 Apache Roller** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-20`
@@ -87,7 +83,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-21T06:41:42+00:00`, fetched `2026-11-21T06:46:27+00:00`
+  - Zeit: published `2026-11-21T06:57:58+00:00`, fetched `2026-11-21T07:02:57+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW

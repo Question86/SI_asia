@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:47:02+00:00",
+  "generated_at": "2026-11-21T07:03:31+00:00",
   "sections": {
     "global_security": [
       {
@@ -13,7 +13,7 @@
         "metrics": {
           "mag": 6.7,
           "alert": "green",
-          "sig": 745.0,
+          "sig": 746.0,
           "tsunami": 1
         }
       },
@@ -29,21 +29,6 @@
           "mag": 3.94,
           "alert": "green",
           "sig": 639.0,
-          "tsunami": 1
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "USGS earthquake M5.0 - 10 km NW of Pinnacles, CA",
-        "summary": "M5.0 - 10 km NW of Pinnacles, CA. PAGER alert: green. Tsunami flag: 1.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
-        "published_at": "2026-11-20T06:49:16+00:00",
-        "metrics": {
-          "mag": 4.98,
-          "alert": "green",
-          "sig": 1002.0,
           "tsunami": 1
         }
       },
