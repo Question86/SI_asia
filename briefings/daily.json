@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T00:36:41+00:00",
-  "today_file_total": 4,
+  "generated_at": "2026-11-21T00:54:27+00:00",
+  "today_file_total": 5,
   "current_clusters": [
     {
       "key": "earthquake:updates | reliefweb:unknown",
@@ -43,9 +43,9 @@
       "max_score": 15,
       "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.7,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -68,9 +68,32 @@
       "max_score": 8,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:note.com",
+      "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://note.com/kajinari/n/n19c73d819b14"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 13.1,
+      "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -91,9 +114,9 @@
       "max_score": 5,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

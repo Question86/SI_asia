@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-21T00:36:38+00:00_
+_Generated: 2026-11-21T00:54:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `5`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-21T00:36:24+00:00`
+- published: `2026-11-21T00:53:50+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -29,7 +29,14 @@ _Generated: 2026-11-21T00:36:38+00:00_
 - url: https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/
 - summary: 2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform...
 
-### 4. 「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ
+### 4. モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-11-20T15:27:05+00:00`
+- url: https://note.com/kajinari/n/n19c73d819b14
+- summary: おはようございます！こんにちは！おやすみなさい！NOTA で Corp IT（情シス）を担当している kajinari です。 この 1 年で、Corp IT の日々の運用作業のほとんどを Claude の Skill として定義しました。アカウントの発行、クラウドサービス権限の付与、クラウドサービスの設定変更、PC や iPhone の手配、Zoom Phone ...
+
+### 5. 「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-11-20T06:33:24+00:00`
