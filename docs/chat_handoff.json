@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-21T05:23:27+00:00",
+  "generated_at": "2026-11-21T05:29:25+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 3,
-    "observe": 11
+    "observe": 12
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.0 - 0 km NE of Carhuamayo, Peru",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-21T05:24:38.040+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd",
+      "summary": "Time 2026-11-21 05:12:04 UTC 2026-11-21 05:12:04 UTC at epicenter Location 10.913°S 76.031°W Depth 110.93 km (68.93 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 4.7 - 38 km NE of Calama, Chile",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -72,16 +82,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
       "summary": "Time 2026-11-21 02:24:37 UTC 2026-11-21 02:24:37 UTC at epicenter Location 58.546°N 31.857°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.9 - Reykjanes Ridge",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-21T01:46:29.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
-      "summary": "Time 2026-11-21 01:26:19 UTC 2026-11-21 01:26:19 UTC at epicenter Location 58.302°N 31.761°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
