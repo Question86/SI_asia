@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T01:46:16+00:00",
-  "run_id": "2026-11-21T01:46:16+00:00",
+  "generated_at": "2026-11-21T02:02:35+00:00",
+  "run_id": "2026-11-21T02:02:35+00:00",
   "date": "2026-11-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 9
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 2,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 2,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-21T01:43:48+00:00",
-        "fetched_at": "2026-11-21T01:45:48+00:00",
+        "published_at": "2026-11-21T02:00:30+00:00",
+        "fetched_at": "2026-11-21T02:02:06+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "92994a0c5c64f43fe735"
+        "id": "841eeb8a46d31308a3f7"
       },
       {
         "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
@@ -168,6 +168,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "100c746975928c04583f"
+      },
+      {
+        "title": "M 4.9 - Reykjanes Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-21T01:46:29.040+00:00",
+        "fetched_at": "2026-11-21T02:02:06+00:00",
+        "summary": "Time 2026-11-21 01:26:19 UTC 2026-11-21 01:26:19 UTC at epicenter Location 58.302°N 31.761°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "83a3c40b6e1629d1526b"
       },
       {
         "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
@@ -283,8 +319,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T01:43:48+00:00",
-      "fetched_at": "2026-11-21T01:45:48+00:00",
+      "published_at": "2026-11-21T02:00:30+00:00",
+      "fetched_at": "2026-11-21T02:02:06+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -318,7 +354,7 @@
         "HD",
         "LOW"
       ],
-      "id": "92994a0c5c64f43fe735"
+      "id": "841eeb8a46d31308a3f7"
     },
     {
       "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
@@ -415,6 +451,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "100c746975928c04583f"
+    },
+    {
+      "title": "M 4.9 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-21T01:46:29.040+00:00",
+      "fetched_at": "2026-11-21T02:02:06+00:00",
+      "summary": "Time 2026-11-21 01:26:19 UTC 2026-11-21 01:26:19 UTC at epicenter Location 58.302°N 31.761°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "83a3c40b6e1629d1526b"
     },
     {
       "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
@@ -529,8 +601,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T01:43:48+00:00",
-      "fetched_at": "2026-11-21T01:45:48+00:00",
+      "published_at": "2026-11-21T02:00:30+00:00",
+      "fetched_at": "2026-11-21T02:02:06+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -564,7 +636,43 @@
         "HD",
         "LOW"
       ],
-      "id": "92994a0c5c64f43fe735"
+      "id": "841eeb8a46d31308a3f7"
+    },
+    {
+      "title": "M 4.9 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-21T01:46:29.040+00:00",
+      "fetched_at": "2026-11-21T02:02:06+00:00",
+      "summary": "Time 2026-11-21 01:26:19 UTC 2026-11-21 01:26:19 UTC at epicenter Location 58.302°N 31.761°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "83a3c40b6e1629d1526b"
     }
   ],
   "source_errors": [],
