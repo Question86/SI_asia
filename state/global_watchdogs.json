@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:14:34+00:00",
+  "generated_at": "2026-11-21T11:24:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -113,9 +113,19 @@
         "metrics": {
           "mag": 6.8,
           "alert": "green",
-          "sig": 724.0,
+          "sig": 725.0,
           "tsunami": 0
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI&gt;=VII).",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578540",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
@@ -164,16 +174,6 @@
         "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577920",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.",
-        "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577911",
         "published_at": "",
         "metrics": {}
       }
