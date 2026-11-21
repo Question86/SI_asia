@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T14:57:45+00:00",
-  "run_id": "2026-11-21T14:57:45+00:00",
+  "generated_at": "2026-11-21T15:07:12+00:00",
+  "run_id": "2026-11-21T15:07:12+00:00",
   "date": "2026-11-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 2,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 4,
-    "observe": 19,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-21T14:57:35+00:00",
-        "fetched_at": "2026-11-21T14:57:19+00:00",
+        "published_at": "2026-11-21T15:07:00+00:00",
+        "fetched_at": "2026-11-21T15:06:41+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "7ae6610b4a57ad0182f8"
+        "id": "58da329fed9281d5a62c"
       },
       {
         "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -333,6 +333,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "100c746975928c04583f"
+      },
+      {
+        "title": "M 4.8 - 7 km W of Salvaleón de Higüey, Dominican Republic",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325053",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-21T15:04:59.087+00:00",
+        "fetched_at": "2026-11-21T15:06:41+00:00",
+        "summary": "Time 2026-11-21 15:00:12 UTC 2026-11-21 15:00:12 UTC at epicenter Location 18.608°N 68.780°W Depth 106.20 km (65.99 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "63a6e07e3b4a0e0fee1b"
       },
       {
         "title": "M 6.8 - 103 km NE of Lospalos, Timor Leste",
@@ -698,8 +734,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T14:57:35+00:00",
-      "fetched_at": "2026-11-21T14:57:19+00:00",
+      "published_at": "2026-11-21T15:07:00+00:00",
+      "fetched_at": "2026-11-21T15:06:41+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -733,7 +769,7 @@
         "HD",
         "LOW"
       ],
-      "id": "7ae6610b4a57ad0182f8"
+      "id": "58da329fed9281d5a62c"
     },
     {
       "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -995,6 +1031,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "100c746975928c04583f"
+    },
+    {
+      "title": "M 4.8 - 7 km W of Salvaleón de Higüey, Dominican Republic",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325053",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-21T15:04:59.087+00:00",
+      "fetched_at": "2026-11-21T15:06:41+00:00",
+      "summary": "Time 2026-11-21 15:00:12 UTC 2026-11-21 15:00:12 UTC at epicenter Location 18.608°N 68.780°W Depth 106.20 km (65.99 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "63a6e07e3b4a0e0fee1b"
     },
     {
       "title": "M 6.8 - 103 km NE of Lospalos, Timor Leste",
@@ -1359,8 +1431,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T14:57:35+00:00",
-      "fetched_at": "2026-11-21T14:57:19+00:00",
+      "published_at": "2026-11-21T15:07:00+00:00",
+      "fetched_at": "2026-11-21T15:06:41+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1394,7 +1466,43 @@
         "HD",
         "LOW"
       ],
-      "id": "7ae6610b4a57ad0182f8"
+      "id": "58da329fed9281d5a62c"
+    },
+    {
+      "title": "M 4.8 - 7 km W of Salvaleón de Higüey, Dominican Republic",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325053",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-21T15:04:59.087+00:00",
+      "fetched_at": "2026-11-21T15:06:41+00:00",
+      "summary": "Time 2026-11-21 15:00:12 UTC 2026-11-21 15:00:12 UTC at epicenter Location 18.608°N 68.780°W Depth 106.20 km (65.99 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "63a6e07e3b4a0e0fee1b"
     }
   ],
   "source_errors": [],
