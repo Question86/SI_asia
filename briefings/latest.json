@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-21T00:03:57+00:00",
-  "run_id": "2026-11-21T00:03:57+00:00",
+  "generated_at": "2026-11-21T00:36:38+00:00",
+  "run_id": "2026-11-21T00:36:38+00:00",
   "date": "2026-11-21",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 4,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
-    "medium": 1,
-    "observe": 0,
-    "source_errors": 1
+    "medium": 2,
+    "observe": 2,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T23:53:53+00:00",
-        "fetched_at": "2026-11-21T00:03:17+00:00",
+        "published_at": "2026-11-21T00:36:24+00:00",
+        "fetched_at": "2026-11-21T00:36:04+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,10 +69,92 @@
           "HD",
           "LOW"
         ],
-        "id": "d6eed4d4767367193d8e"
+        "id": "ccfd6ea61de5b8508aa3"
+      },
+      {
+        "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-21T00:34:36.732+00:00",
+        "fetched_at": "2026-11-21T00:36:04+00:00",
+        "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-11-21 00:09:19 UTC 2026-11-21 00:09:19 UTC at epicenter Location 10.855°S 75.978°W Depth 107.99 km (67.10 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4dacb029a629f31a29f3"
       }
     ],
-    "observe": []
+    "observe": [
+      {
+        "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
+        "url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-20T04:45:14+00:00",
+        "fetched_at": "2026-11-21T00:36:04+00:00",
+        "summary": "2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "16b598f73ecfdaa4b4a3"
+      },
+      {
+        "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
+        "url": "https://plaid.co.jp/news/20261120/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-20T06:33:24+00:00",
+        "fetched_at": "2026-11-21T00:36:04+00:00",
+        "summary": "2026年11月13日に発生した、株式会社プレイド（本社：東京都中央区、代表取締役CEO：倉橋 健太）が提供する「KARTE」への不正アクセスについて、影響範囲および漏えいした情報を特定する当社における調査結果をお知らせいたします。あわせて、「KARTEのサービス再開の見通し」「サービス停止期間のKARTE利用料金の取り扱...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "adc25b65b8b35cde3525"
+      }
+    ]
   },
   "findings": [
     {
@@ -80,8 +162,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T23:53:53+00:00",
-      "fetched_at": "2026-11-21T00:03:17+00:00",
+      "published_at": "2026-11-21T00:36:24+00:00",
+      "fetched_at": "2026-11-21T00:36:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -115,7 +197,88 @@
         "HD",
         "LOW"
       ],
-      "id": "d6eed4d4767367193d8e"
+      "id": "ccfd6ea61de5b8508aa3"
+    },
+    {
+      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-21T00:34:36.732+00:00",
+      "fetched_at": "2026-11-21T00:36:04+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-11-21 00:09:19 UTC 2026-11-21 00:09:19 UTC at epicenter Location 10.855°S 75.978°W Depth 107.99 km (67.10 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4dacb029a629f31a29f3"
+    },
+    {
+      "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
+      "url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-20T04:45:14+00:00",
+      "fetched_at": "2026-11-21T00:36:04+00:00",
+      "summary": "2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "16b598f73ecfdaa4b4a3"
+    },
+    {
+      "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
+      "url": "https://plaid.co.jp/news/20261120/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-20T06:33:24+00:00",
+      "fetched_at": "2026-11-21T00:36:04+00:00",
+      "summary": "2026年11月13日に発生した、株式会社プレイド（本社：東京都中央区、代表取締役CEO：倉橋 健太）が提供する「KARTE」への不正アクセスについて、影響範囲および漏えいした情報を特定する当社における調査結果をお知らせいたします。あわせて、「KARTEのサービス再開の見通し」「サービス停止期間のKARTE利用料金の取り扱...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "adc25b65b8b35cde3525"
     }
   ],
   "new_findings": [
@@ -124,8 +287,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T23:53:53+00:00",
-      "fetched_at": "2026-11-21T00:03:17+00:00",
+      "published_at": "2026-11-21T00:36:24+00:00",
+      "fetched_at": "2026-11-21T00:36:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -159,17 +322,91 @@
         "HD",
         "LOW"
       ],
-      "id": "d6eed4d4767367193d8e"
-    }
-  ],
-  "source_errors": [
+      "id": "ccfd6ea61de5b8508aa3"
+    },
     {
-      "source_id": "hn_release_security_burst",
-      "source_name": "Hacker News Release/Security Burst",
-      "source_type": "hackernews",
-      "error": "HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)"
+      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-21T00:34:36.732+00:00",
+      "fetched_at": "2026-11-21T00:36:04+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-11-21 00:09:19 UTC 2026-11-21 00:09:19 UTC at epicenter Location 10.855°S 75.978°W Depth 107.99 km (67.10 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4dacb029a629f31a29f3"
+    },
+    {
+      "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
+      "url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-20T04:45:14+00:00",
+      "fetched_at": "2026-11-21T00:36:04+00:00",
+      "summary": "2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "16b598f73ecfdaa4b4a3"
+    },
+    {
+      "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
+      "url": "https://plaid.co.jp/news/20261120/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-20T06:33:24+00:00",
+      "fetched_at": "2026-11-21T00:36:04+00:00",
+      "summary": "2026年11月13日に発生した、株式会社プレイド（本社：東京都中央区、代表取締役CEO：倉橋 健太）が提供する「KARTE」への不正アクセスについて、影響範囲および漏えいした情報を特定する当社における調査結果をお知らせいたします。あわせて、「KARTEのサービス再開の見通し」「サービス停止期間のKARTE利用料金の取り扱...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "adc25b65b8b35cde3525"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
