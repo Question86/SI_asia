@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T02:51:38+00:00",
-  "run_id": "2026-11-21T02:51:38+00:00",
+  "generated_at": "2026-11-21T03:00:19+00:00",
+  "run_id": "2026-11-21T03:00:19+00:00",
   "date": "2026-11-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 12,
     "displayed_findings": 12,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-21T02:47:28+00:00",
-        "fetched_at": "2026-11-21T02:51:06+00:00",
+        "published_at": "2026-11-21T02:53:53+00:00",
+        "fetched_at": "2026-11-21T02:59:44+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b9fb3a032af4a66524b1"
+        "id": "a742d6eb11ffd455883a"
       },
       {
         "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -401,8 +401,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T02:47:28+00:00",
-      "fetched_at": "2026-11-21T02:51:06+00:00",
+      "published_at": "2026-11-21T02:53:53+00:00",
+      "fetched_at": "2026-11-21T02:59:44+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -436,7 +436,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b9fb3a032af4a66524b1"
+      "id": "a742d6eb11ffd455883a"
     },
     {
       "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -765,8 +765,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T02:47:28+00:00",
-      "fetched_at": "2026-11-21T02:51:06+00:00",
+      "published_at": "2026-11-21T02:53:53+00:00",
+      "fetched_at": "2026-11-21T02:59:44+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -800,43 +800,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b9fb3a032af4a66524b1"
-    },
-    {
-      "title": "M 4.9 - Reykjanes Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-21T02:40:24.040+00:00",
-      "fetched_at": "2026-11-21T02:51:06+00:00",
-      "summary": "Time 2026-11-21 02:24:37 UTC 2026-11-21 02:24:37 UTC at epicenter Location 58.546°N 31.857°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "095dab91548704301d7c"
+      "id": "a742d6eb11ffd455883a"
     }
   ],
   "source_errors": [],
